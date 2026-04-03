@@ -29,7 +29,9 @@ jobs:
       - name: Get changed document files
         id: changed
         run: |
-          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | tr '\n' ' ')
+          # Use empty-tree SHA as base when there is no parent commit (initial push)
+          BASE=$(git rev-parse --verify HEAD~1 2>/dev/null || echo "4b825dc642cb6eb9a060e54bf8d69288fbee4904")
+          CHANGED=$(git diff --name-only "$BASE" HEAD -- 'docs/**/*.md' | tr '\n' ' ')
           echo "files=$CHANGED" >> $GITHUB_OUTPUT
 
       - name: Append audit entries
@@ -46,6 +48,7 @@ jobs:
             --run-url "$RUN_URL"
 
       - name: Create version tags for changed documents
+        if: steps.changed.outputs.files != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
