@@ -1,0 +1,28 @@
+# CODEOWNERS — Compliance Document Management System
+#
+# Approval routing by domain and tier.
+# Tier 1 docs require Board-level review (2 approvals enforced via branch protection).
+# Tier 2 docs require Committee-level review (1 approval).
+#
+# Replace team slugs with your actual GitHub org/team names.
+
+# Default — catch-all requires compliance admin review
+*                                           @hreynolds95
+
+# Document templates — compliance admin only
+docs/_templates/                            @hreynolds95
+
+# Financial Crimes — Tier 1, Board approval
+docs/financial-crimes/                      @hreynolds95
+
+# Governance — Tier 1, Board approval
+docs/governance/                            @hreynolds95
+
+# Privacy — Tier 2, Committee approval
+docs/privacy/                               @hreynolds95
+
+# Audit log — only CI should commit here; any human edit requires compliance admin
+audit/                                      @hreynolds95
+
+# Workflow definitions — compliance admin only
+.github/workflows/                          @hreynolds95

@@ -1,0 +1,67 @@
+name: Append Audit Log Entry
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+
+jobs:
+  audit-log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Get changed document files
+        id: changed
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | tr '\n' ' ')
+          echo "files=$CHANGED" >> $GITHUB_OUTPUT
+
+      - name: Append audit entries
+        if: steps.changed.outputs.files != ''
+        env:
+          ACTOR: ${{ github.actor }}
+          COMMIT_SHA: ${{ github.sha }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python scripts/append_audit_entry.py \
+            --files ${{ steps.changed.outputs.files }} \
+            --actor "$ACTOR" \
+            --commit "$COMMIT_SHA" \
+            --run-url "$RUN_URL"
+
+      - name: Create version tags for changed documents
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/append_audit_entry.py \
+            --files ${{ steps.changed.outputs.files }} \
+            --tag-only \
+            --commit "${{ github.sha }}"
+
+      - name: Commit audit log update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add audit/audit-log.jsonl
+          if git diff --cached --quiet; then
+            echo "No audit log changes to commit."
+          else
+            git commit -m "audit: record changes from ${{ github.sha }}"
+            git push
+          fi
