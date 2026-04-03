@@ -220,6 +220,7 @@ select.filter-select:focus { border-color: var(--info); }
 .badge-retired    { background: rgba(135,135,135,.12); color: var(--muted); }
 .badge-tier1      { background: rgba(255,107,107,.12); color: var(--danger); }
 .badge-tier2      { background: rgba(124,172,255,.10); color: var(--info); }
+.badge-tier3      { background: rgba(163,215,149,.10); color: var(--success); }
 .badge-board      { background: rgba(255,107,107,.12); color: var(--danger); }
 .badge-committee  { background: rgba(124,172,255,.10); color: var(--info); }
 

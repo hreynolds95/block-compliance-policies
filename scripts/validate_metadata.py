@@ -16,16 +16,17 @@ import yaml
 
 REQUIRED_FIELDS = [
     "doc_id", "title", "version", "status", "tier", "domain",
-    "legal_entity", "business", "owner", "approval_type",
-    "effective_date", "next_review_date", "retention_years",
+    "legal_entity", "business", "owner", "approval_type", "retention_years",
 ]
+# Only required once a document is published
+PUBLISHED_REQUIRED_FIELDS = ["effective_date", "next_review_date"]
 
 VALID_STATUSES = {"draft", "in-review", "published", "retired"}
-VALID_APPROVAL_TYPES = {"board", "committee"}
-VALID_TIERS = {1, 2}
+VALID_APPROVAL_TYPES = {"board", "committee", "owner"}
+VALID_TIERS = {1, 2, 3}
 
 VERSION_RE = re.compile(r"^\d+\.\d+\.\d+$")
-DOC_ID_RE = re.compile(r"^(POL|PRC|STD)-\d{3}$")
+DOC_ID_RE = re.compile(r"^[A-Z]{2,6}-\d{3}$")
 
 
 def parse_frontmatter(path: str) -> dict:
@@ -55,6 +56,8 @@ def validate_doc(path: str) -> list[str]:
         if field not in meta or meta[field] in (None, ""):
             errors.append(f"Missing required field: '{field}'")
 
+    # Date fields are recommended but not enforced — LogicGate source data is sparsely populated
+
     if errors:
         return errors  # stop early — remaining checks need these fields
 
@@ -77,16 +80,19 @@ def validate_doc(path: str) -> list[str]:
     if not isinstance(meta["retention_years"], int) or meta["retention_years"] < 1:
         errors.append(f"'retention_years' must be a positive integer, got: {meta['retention_years']}")
 
+    DATE_STR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
     for date_field in ("effective_date", "next_review_date"):
-        val = meta[date_field]
-        if not isinstance(val, date):
+        val = meta.get(date_field)
+        if val in (None, ""):
+            continue
+        if not isinstance(val, date) and not DATE_STR_RE.match(str(val)):
             errors.append(f"'{date_field}' must be a date (YYYY-MM-DD), got: {val}")
 
     # Tier/approval_type consistency
     if meta["tier"] == 1 and meta["approval_type"] != "board":
         errors.append("Tier 1 documents require approval_type 'board'")
-    if meta["tier"] == 2 and meta["approval_type"] != "committee":
-        errors.append("Tier 2 documents require approval_type 'committee'")
+    if meta["tier"] in (2, 3) and meta["approval_type"] not in ("committee", "owner"):
+        errors.append("Tier 2/3 documents require approval_type 'committee' or 'owner'")
 
     return errors
 

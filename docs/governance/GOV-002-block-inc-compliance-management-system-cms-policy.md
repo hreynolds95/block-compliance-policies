@@ -1,0 +1,32 @@
+---
+doc_id: GOV-002
+title: "Block, Inc. Compliance Management System (CMS) Policy"
+version: 1.0.0
+status: published
+tier: 1
+domain: governance
+legal_entity: "Block, Inc."
+business: "Block"
+owner: "Tyler Hand"
+approval_type: board
+reviewers: []
+effective_date: "2025-11-03"
+next_review_date: "2025-10-23"
+retention_years: 7
+published_pdf: "https://drive.google.com/file/d/1QgpDdLZeQcS_tPJUw_xvqhosiyI2PHwJ/view"
+logicgate_record_id: "BnzFqeSD"
+---
+
+## Block, Inc. Compliance Management System (CMS) Policy
+
+> **Document type:** Policy  
+> **Domain:** Governance  
+> **Legal entity:** Block, Inc.  
+
+<!-- Document body to be populated from LogicGate published PDF or manual authoring. -->
+
+## Revision History
+
+| Version | Date | Author | Summary of Changes |
+|---------|------|--------|-------------------|
+| 1.0.0 | 2025-11-03 | Tyler Hand | Imported from LogicGate |
