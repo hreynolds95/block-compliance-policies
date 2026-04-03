@@ -16,6 +16,60 @@ import sys
 from collections import defaultdict
 from datetime import date
 
+# ── Exclusions & dedup (mirrors existing Blockcell dashboard logic) ──────────
+
+EXCLUDED_NAMES = {
+    "EXAMPLE - End User Training Policy Draft",
+    "Example - demo Draft",
+    "Test Document - KE Draft",
+}
+
+STATUS_PRIORITY = {
+    "Published": 0,
+    "New Request Draft in Progress": 1,
+    "Retired": 2,
+}
+
+STEP_PRIORITY = {
+    "Active Version": 0,
+    "Publication": 1,
+}
+
+
+def dedup_score(row: dict) -> tuple:
+    """Lower score = higher priority. Mirrors Blockcell dashboard dedupScore()."""
+    ws         = (row.get("WORKFLOW_STATUS") or "").strip()
+    cs         = (row.get("CURRENT_STEP") or "").strip()
+    status_rank = STATUS_PRIORITY.get(ws, 99)
+    step_rank   = STEP_PRIORITY.get(cs, 99)
+    pub_null    = 0 if (row.get("PUBLICATION_DATE") or "").strip() else 1
+    approval_null = 0 if (row.get("DATE_OF_FINAL_APPROVAL") or "").strip() else 1
+    due_null    = 0 if (row.get("DUE_DATE") or "").strip() else 1
+    owner_null  = 0 if (row.get("DOCUMENT_OWNER_NAME") or "").strip() else 1
+    empty_count = sum(1 for v in row.values() if v is None or str(v).strip() == "")
+    return (status_rank, step_rank, pub_null, approval_null, due_null, owner_null, empty_count)
+
+
+def apply_dedup(rows):
+    """
+    Deduplicate by PWF_RECORD_ID, keeping the highest-priority row.
+    Excludes test/example documents by name.
+    Mirrors applyGlobalExclusions() in the Blockcell dashboard.
+    """
+    filtered = [r for r in rows if (r.get("NAME") or "").strip() not in EXCLUDED_NAMES]
+    seen: dict[str, dict] = {}
+    no_id = []
+    for row in filtered:
+        rid = (row.get("PWF_RECORD_ID") or "").strip()
+        if not rid:
+            no_id.append(row)
+            continue
+        existing = seen.get(rid)
+        if existing is None or dedup_score(row) < dedup_score(existing):
+            seen[rid] = row
+    return list(seen.values()) + no_id
+
+
 # ── Mappings ────────────────────────────────────────────────────────────────
 
 DOMAIN_SLUG = {
@@ -112,6 +166,10 @@ def main():
     with open(csv_path, encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         rows = list(reader)
+
+    raw_count = len(rows)
+    rows = apply_dedup(rows)
+    print(f"  {raw_count} rows → {len(rows)} after dedup/exclusions")
 
     # Sort for deterministic ID assignment: domain → tier → name
     rows.sort(key=lambda r: (r.get("DOMAIN", ""), r.get("TIER", ""), r.get("NAME", "")))

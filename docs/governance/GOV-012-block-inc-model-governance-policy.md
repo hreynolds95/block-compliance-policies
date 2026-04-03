@@ -1,23 +1,23 @@
 ---
-doc_id: GOV-001
-title: "Block, Inc. Compliance Management System (CMS) Policy"
+doc_id: GOV-012
+title: "Block, Inc. Model Governance Policy"
 version: 1.0.0
 status: published
-tier: 1
+tier: 2
 domain: governance
 legal_entity: "Block, Inc."
 business: "Block"
-owner: "Tyler Hand"
-approval_type: board
+owner: "Amit Bhushan"
+approval_type: committee
 reviewers: []
-effective_date: "2025-11-03"
+effective_date: ""
 next_review_date: "2025-10-23"
-retention_years: 7
-published_pdf: "https://drive.google.com/file/d/1QgpDdLZeQcS_tPJUw_xvqhosiyI2PHwJ/view"
-logicgate_record_id: "BnzFqeSD"
+retention_years: 5
+published_pdf: "https://drive.google.com/file/d/1XFwdbO8OlP188tVPznnrPkRLE61QgwX8/view?usp=sharing"
+logicgate_record_id: "72K7Z9Ku"
 ---
 
-## Block, Inc. Compliance Management System (CMS) Policy
+## Block, Inc. Model Governance Policy
 
 > **Document type:** Policy  
 > **Domain:** Governance  
@@ -29,4 +29,4 @@ logicgate_record_id: "BnzFqeSD"
 
 | Version | Date | Author | Summary of Changes |
 |---------|------|--------|-------------------|
-| 1.0.0 | 2025-11-03 | Tyler Hand | Imported from LogicGate |
+| 1.0.0 | 2026-04-03 | Amit Bhushan | Imported from LogicGate |

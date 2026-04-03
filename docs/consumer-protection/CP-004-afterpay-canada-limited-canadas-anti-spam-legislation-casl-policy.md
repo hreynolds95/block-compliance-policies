@@ -1,6 +1,6 @@
 ---
-doc_id: CP-001
-title: "Afterpay Canada Limited Canada Accessibility Policy"
+doc_id: CP-004
+title: "Afterpay Canada Limited Canada’s Anti-Spam Legislation (CASL) Policy"
 version: 1.0.0
 status: published
 tier: 2
@@ -13,11 +13,11 @@ reviewers: []
 effective_date: "2025-12-17"
 next_review_date: "2026-10-31"
 retention_years: 5
-published_pdf: "https://drive.google.com/file/d/1LEwpzslvJVTOPf3n17321mwdhIMtbu9v/view?usp=sharing"
-logicgate_record_id: "3f1WqSZr"
+published_pdf: "https://drive.google.com/file/d/1-W8472Mabulua-gm_IgqBMq6Np9x_YPk/view?usp=sharing"
+logicgate_record_id: "Lc1g9fK9"
 ---
 
-## Afterpay Canada Limited Canada Accessibility Policy
+## Afterpay Canada Limited Canada’s Anti-Spam Legislation (CASL) Policy
 
 > **Document type:** Policy  
 > **Domain:** Consumer Protection  

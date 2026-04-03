@@ -1,26 +1,26 @@
 ---
-doc_id: GOV-001
-title: "Block, Inc. Compliance Management System (CMS) Policy"
+doc_id: CP-005
+title: "Block, Inc. Controlling the Assault of Non-Solicited Pornography & Marketing Act (CAN-SPAM) Policy"
 version: 1.0.0
 status: published
-tier: 1
-domain: governance
+tier: 2
+domain: consumer-protection
 legal_entity: "Block, Inc."
 business: "Block"
-owner: "Tyler Hand"
-approval_type: board
+owner: "Brian Kollmeyer"
+approval_type: committee
 reviewers: []
-effective_date: "2025-11-03"
+effective_date: ""
 next_review_date: "2025-10-23"
-retention_years: 7
+retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1QgpDdLZeQcS_tPJUw_xvqhosiyI2PHwJ/view"
-logicgate_record_id: "BnzFqeSD"
+logicgate_record_id: "ExQzyD04"
 ---
 
-## Block, Inc. Compliance Management System (CMS) Policy
+## Block, Inc. Controlling the Assault of Non-Solicited Pornography & Marketing Act (CAN-SPAM) Policy
 
 > **Document type:** Policy  
-> **Domain:** Governance  
+> **Domain:** Consumer Protection  
 > **Legal entity:** Block, Inc.  
 
 <!-- Document body to be populated from LogicGate published PDF or manual authoring. -->
@@ -29,4 +29,4 @@ logicgate_record_id: "BnzFqeSD"
 
 | Version | Date | Author | Summary of Changes |
 |---------|------|--------|-------------------|
-| 1.0.0 | 2025-11-03 | Tyler Hand | Imported from LogicGate |
+| 1.0.0 | 2026-04-03 | Brian Kollmeyer | Imported from LogicGate |
