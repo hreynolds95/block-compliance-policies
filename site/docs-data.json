@@ -1,0 +1,56 @@
+{
+  "generated": "2026-04-03",
+  "documents": [
+    {
+      "doc_id": "POL-001",
+      "title": "Block Inc. Global Sanctions Policy",
+      "version": "1.0.0",
+      "status": "published",
+      "tier": 1,
+      "domain": "financial-crimes",
+      "legal_entity": "Block, Inc.",
+      "business": "Block",
+      "owner": "Faisal Sohail",
+      "approval_type": "board",
+      "effective_date": "2025-01-01",
+      "next_review_date": "2026-01-01",
+      "retention_years": 7,
+      "review_status": "overdue",
+      "file": "docs/financial-crimes/POL-001-sanctions-policy.md"
+    },
+    {
+      "doc_id": "POL-002",
+      "title": "Block Inc. Anti-Money Laundering & Counter-Terrorist Financing Policy",
+      "version": "1.0.0",
+      "status": "published",
+      "tier": 1,
+      "domain": "financial-crimes",
+      "legal_entity": "Block, Inc.",
+      "business": "Block",
+      "owner": "Ken Triemstra",
+      "approval_type": "board",
+      "effective_date": "2025-01-01",
+      "next_review_date": "2026-01-01",
+      "retention_years": 7,
+      "review_status": "overdue",
+      "file": "docs/financial-crimes/POL-002-aml-ctf-policy.md"
+    },
+    {
+      "doc_id": "POL-003",
+      "title": "Block Inc. Code of Conduct",
+      "version": "1.0.0",
+      "status": "published",
+      "tier": 1,
+      "domain": "governance",
+      "legal_entity": "Block, Inc.",
+      "business": "Block",
+      "owner": "General Counsel",
+      "approval_type": "board",
+      "effective_date": "2025-01-01",
+      "next_review_date": "2026-01-01",
+      "retention_years": 7,
+      "review_status": "overdue",
+      "file": "docs/governance/POL-003-code-of-conduct.md"
+    }
+  ]
+}

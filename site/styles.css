@@ -1,0 +1,280 @@
+/* Block Brand Theme (Dark) — matches compliance-dashboard */
+
+@font-face {
+  font-family: 'Cash Sans';
+  src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Regular.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Cash Sans';
+  src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Medium.woff2) format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Cash Sans';
+  src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Bold.woff2) format('woff2');
+  font-weight: 700;
+}
+
+:root {
+  --bg:           #22252a;
+  --bg-secondary: #2c2f35;
+  --card:         #32353b;
+  --line:         #3f434b;
+  --ink:          #ffffff;
+  --muted:        #878787;
+  --accent:       #e3e6ea;
+  --info:         #7cacff;
+  --danger:       #ff6b6b;
+  --success:      #a3d795;
+  --warning:      #ffd966;
+  --radius-sm:    4px;
+  --radius-md:    8px;
+  --radius-lg:    12px;
+  --shadow-md:    0 4px 6px -1px rgba(0,0,0,.3), 0 2px 4px -2px rgba(0,0,0,.2);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Cash Sans', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* ── Layout ── */
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ── Hero ── */
+.hero {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.eyebrow {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.hero h1 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.hero-meta {
+  font-size: 13px;
+  color: var(--muted);
+}
+.hero-meta span { color: var(--accent); }
+
+/* ── KPI strip ── */
+.kpi-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+@media (max-width: 700px) { .kpi-strip { grid-template-columns: repeat(2, 1fr); } }
+
+.kpi-card {
+  background: var(--card);
+  border-radius: var(--radius-lg);
+  padding: 20px 24px;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.kpi-label { font-size: 11px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.kpi-value { font-size: 36px; font-weight: 700; line-height: 1; }
+.kpi-value.danger  { color: var(--danger); }
+.kpi-value.warning { color: var(--warning); }
+.kpi-value.success { color: var(--success); }
+.kpi-value.info    { color: var(--info); }
+
+/* ── Panel ── */
+.panel {
+  background: var(--card);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-md);
+}
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.panel-header h2 {
+  font-size: 15px;
+  font-weight: 600;
+}
+.panel-subtitle {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+  margin-bottom: 16px;
+}
+
+/* ── Search & filters ── */
+.search-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-input {
+  flex: 1;
+  min-width: 200px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 8px 12px;
+  outline: none;
+}
+.search-input:focus { border-color: var(--info); }
+.search-input::placeholder { color: var(--muted); }
+
+select.filter-select {
+  background: var(--bg-secondary);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 8px 10px;
+  outline: none;
+  cursor: pointer;
+}
+select.filter-select:focus { border-color: var(--info); }
+
+.result-count {
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* ── Document table ── */
+.doc-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.doc-table th {
+  text-align: left;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0 12px 10px;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+}
+.doc-table th:hover { color: var(--accent); }
+.doc-table th .sort-arrow { margin-left: 4px; opacity: 0.4; }
+.doc-table th.sorted .sort-arrow { opacity: 1; color: var(--info); }
+
+.doc-table td {
+  padding: 12px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: middle;
+}
+.doc-table tr:last-child td { border-bottom: none; }
+.doc-table tr:hover td { background: rgba(255,255,255,.03); }
+
+.doc-id    { font-weight: 600; font-size: 12px; color: var(--info); white-space: nowrap; }
+.doc-title { font-weight: 500; }
+.doc-owner { color: var(--muted); font-size: 12px; }
+
+/* ── Badges ── */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+.badge-published  { background: rgba(163,215,149,.15); color: var(--success); }
+.badge-draft      { background: rgba(124,172,255,.12); color: var(--info); }
+.badge-in-review  { background: rgba(255,217,102,.12); color: var(--warning); }
+.badge-retired    { background: rgba(135,135,135,.12); color: var(--muted); }
+.badge-tier1      { background: rgba(255,107,107,.12); color: var(--danger); }
+.badge-tier2      { background: rgba(124,172,255,.10); color: var(--info); }
+.badge-board      { background: rgba(255,107,107,.12); color: var(--danger); }
+.badge-committee  { background: rgba(124,172,255,.10); color: var(--info); }
+
+/* ── Review status pills ── */
+.review-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 500;
+  padding: 3px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.review-pill::before { content: ''; display: block; width: 6px; height: 6px; border-radius: 50%; }
+.pill-ok       { background: rgba(163,215,149,.1);  color: var(--success); }
+.pill-ok::before       { background: var(--success); }
+.pill-due-soon { background: rgba(255,217,102,.1);  color: var(--warning); }
+.pill-due-soon::before { background: var(--warning); }
+.pill-overdue  { background: rgba(255,107,107,.1);  color: var(--danger);  }
+.pill-overdue::before  { background: var(--danger);  }
+.pill-unknown  { background: rgba(135,135,135,.1);  color: var(--muted);   }
+.pill-unknown::before  { background: var(--muted);   }
+
+/* ── Audit log ── */
+.audit-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.audit-entry {
+  display: grid;
+  grid-template-columns: 140px 80px 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 12px;
+}
+.audit-entry:last-child { border-bottom: none; }
+.audit-ts   { color: var(--muted); font-size: 11px; white-space: nowrap; }
+.audit-id   { color: var(--info); font-weight: 600; }
+.audit-desc { color: var(--accent); }
+.audit-actor { color: var(--muted); white-space: nowrap; }
+@media (max-width: 700px) {
+  .audit-entry { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; }
+}
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 48px 24px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* ── Domain chips in filter ── */
+.domain-label { text-transform: capitalize; }

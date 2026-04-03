@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+"""
+Walks docs/ and extracts YAML frontmatter from every .md file (skipping _templates/).
+Writes a JSON array to site/docs-data.json for consumption by the GitHub Pages UI.
+
+Usage:
+    python scripts/generate_docs_data.py
+"""
+
+import json
+import os
+import sys
+from datetime import date
+
+import yaml
+
+DOCS_ROOT = "docs"
+OUT_FILE = "site/docs-data.json"
+
+
+def parse_frontmatter(path: str):
+    with open(path, encoding="utf-8") as f:
+        content = f.read()
+    if not content.startswith("---"):
+        return None
+    parts = content.split("---", 2)
+    if len(parts) < 3:
+        return None
+    meta = yaml.safe_load(parts[1]) or {}
+    if not meta.get("doc_id"):
+        return None
+    return meta
+
+
+def serialize(obj):
+    if isinstance(obj, date):
+        return obj.isoformat()
+    return obj
+
+
+def main():
+    docs = []
+    today = date.today()
+
+    for dirpath, _, filenames in os.walk(DOCS_ROOT):
+        if "_templates" in dirpath:
+            continue
+        for fn in sorted(filenames):
+            if not fn.endswith(".md"):
+                continue
+            path = os.path.join(dirpath, fn)
+            meta = parse_frontmatter(path)
+            if not meta:
+                continue
+
+            # Compute review status
+            next_review = meta.get("next_review_date")
+            if isinstance(next_review, date):
+                delta = (next_review - today).days
+                if delta < 0:
+                    review_status = "overdue"
+                elif delta <= 30:
+                    review_status = "due-soon"
+                else:
+                    review_status = "ok"
+            else:
+                review_status = "unknown"
+
+            docs.append({
+                "doc_id": meta.get("doc_id", ""),
+                "title": meta.get("title", ""),
+                "version": str(meta.get("version", "")),
+                "status": meta.get("status", ""),
+                "tier": meta.get("tier", ""),
+                "domain": meta.get("domain", ""),
+                "legal_entity": meta.get("legal_entity", ""),
+                "business": meta.get("business", ""),
+                "owner": meta.get("owner", ""),
+                "approval_type": meta.get("approval_type", ""),
+                "effective_date": serialize(meta.get("effective_date")),
+                "next_review_date": serialize(meta.get("next_review_date")),
+                "retention_years": meta.get("retention_years"),
+                "review_status": review_status,
+                "file": path,
+            })
+
+    docs.sort(key=lambda d: d["doc_id"])
+
+    os.makedirs("site", exist_ok=True)
+    with open(OUT_FILE, "w", encoding="utf-8") as f:
+        json.dump({
+            "generated": today.isoformat(),
+            "documents": docs,
+        }, f, indent=2, default=serialize)
+
+    print(f"Wrote {len(docs)} document(s) to {OUT_FILE}")
+
+
+if __name__ == "__main__":
+    main()
