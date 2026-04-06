@@ -1,9 +1,9 @@
 name: Retention and Review Check
 
 on:
-  schedule:
-    # Runs every Monday at 08:00 UTC
-    - cron: '0 8 * * 1'
+  # Schedule disabled — overdue detection logic needs review before re-enabling
+  # schedule:
+  #   - cron: '0 8 * * 1'
   workflow_dispatch:
 
 jobs:
