@@ -33,7 +33,7 @@ def parse_frontmatter(path: str) -> dict:
     return yaml.safe_load(parts[1]) or {}
 
 
-def collect_docs(root: str) -> list[str]:
+def collect_docs(root: str):
     docs = []
     for dirpath, _, filenames in os.walk(root):
         if "_templates" in dirpath:
@@ -44,14 +44,40 @@ def collect_docs(root: str) -> list[str]:
     return sorted(docs)
 
 
-def open_github_issue(title: str, body: str):
+def load_open_issue_titles(repo: str, token: str) -> set:
+    """Returns the set of titles of all open compliance-review issues."""
+    if not repo or not token:
+        return set()
+    result = subprocess.run(
+        ["gh", "issue", "list",
+         "--repo", repo,
+         "--label", "compliance-review",
+         "--state", "open",
+         "--limit", "500",
+         "--json", "title"],
+        capture_output=True, text=True,
+        env={**os.environ, "GH_TOKEN": token}
+    )
+    if result.returncode != 0:
+        print(f"  Warning: could not fetch open issues: {result.stderr.strip()}")
+        return set()
+    try:
+        return {item["title"] for item in json.loads(result.stdout)}
+    except (json.JSONDecodeError, KeyError):
+        return set()
+
+
+def open_github_issue(title: str, body: str, existing_titles: set):
     repo = os.environ.get("GH_REPO", "")
     token = os.environ.get("GH_TOKEN", "")
     if not repo or not token:
         print(f"  (would open issue: {title})")
         return
 
-    payload = json.dumps({"title": title, "body": body, "labels": ["compliance-review"]})
+    if title in existing_titles:
+        print(f"  Skipped (already open): {title}")
+        return
+
     result = subprocess.run(
         ["gh", "issue", "create",
          "--repo", repo,
@@ -62,6 +88,7 @@ def open_github_issue(title: str, body: str):
         env={**os.environ, "GH_TOKEN": token}
     )
     if result.returncode == 0:
+        existing_titles.add(title)  # prevent re-creation within the same run
         print(f"  Issue created: {result.stdout.strip()}")
     else:
         print(f"  Failed to create issue: {result.stderr.strip()}")
@@ -133,6 +160,14 @@ def main():
         print(f"All {len(docs)} document(s) are within review schedule.")
         sys.exit(0)
 
+    # Load existing open issues once to avoid duplicates across weekly runs
+    existing_titles: set = set()
+    if args.open_issues:
+        repo = os.environ.get("GH_REPO", "")
+        token = os.environ.get("GH_TOKEN", "")
+        existing_titles = load_open_issue_titles(repo, token)
+        print(f"  {len(existing_titles)} open compliance-review issue(s) already exist — skipping duplicates.")
+
     for f in findings:
         level = f["level"].upper()
         print(f"[{level}] {f['doc_id']} — {f['issue']} (owner: {f['owner']}, file: {f['file']})")
@@ -147,7 +182,7 @@ def main():
                 f"**Finding:** {f['issue']}\n\n"
                 f"Please initiate a review PR using the `policy-change` PR template."
             )
-            open_github_issue(issue_title, issue_body)
+            open_github_issue(issue_title, issue_body, existing_titles)
 
     overdue = sum(1 for f in findings if f["level"] == "overdue")
     print(f"\n{len(findings)} finding(s): {overdue} overdue.")
