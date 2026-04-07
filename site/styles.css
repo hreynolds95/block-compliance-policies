@@ -400,9 +400,12 @@ details[open] > .panel-header--collapsible::before {
   margin-top: 4px;
   font-size: 0.7rem;
   color: var(--muted);
-  text-decoration: none;
-  transition: color 0.15s;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--line);
+  transition: color 0.15s, text-decoration-color 0.15s;
 }
 .section-logic-btn:hover {
   color: var(--accent);
+  text-decoration-color: var(--accent);
 }
