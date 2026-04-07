@@ -394,18 +394,15 @@ details[open] > .panel-header--collapsible::before {
 /* ── Domain chips in filter ── */
 .domain-label { text-transform: capitalize; }
 
-/* ── Section logic link button ── */
+/* ── Section logic link (inside data source badge) ── */
 .section-logic-btn {
   display: inline-block;
-  font-size: 0.76rem;
+  margin-top: 4px;
+  font-size: 0.7rem;
   color: var(--muted);
   text-decoration: none;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-md);
-  padding: 6px 14px;
-  transition: color 0.15s, border-color 0.15s;
+  transition: color 0.15s;
 }
 .section-logic-btn:hover {
   color: var(--accent);
-  border-color: var(--accent);
 }
