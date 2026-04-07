@@ -38,8 +38,6 @@ async function init() {
     allDocs = data.documents || [];
     const active = allDocs.filter(d => d.status === 'published').length;
     const intake = allDocs.filter(d => d.status !== 'published').length;
-    document.getElementById('heroMeta').innerHTML =
-      `<span>${intake}</span> document${intake !== 1 ? 's' : ''} in intake`;
     const badge = document.getElementById('dataSourceBadge');
     if (badge) {
       const refreshed = data.generated
@@ -53,7 +51,6 @@ async function init() {
     renderKPIs(allDocs);
     renderTable(allDocs);
   } else {
-    document.getElementById('heroMeta').textContent = 'Could not load document data.';
   }
 
   if (auditRes.status === 'fulfilled' && auditRes.value.ok) {
