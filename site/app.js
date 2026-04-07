@@ -15,8 +15,10 @@ async function init() {
   if (docsRes.status === 'fulfilled' && docsRes.value.ok) {
     const data = await docsRes.value.json();
     allDocs = data.documents || [];
+    const active = allDocs.filter(d => d.status === 'published').length;
+    const intake = allDocs.filter(d => d.status !== 'published').length;
     document.getElementById('heroMeta').innerHTML =
-      `${allDocs.length} document${allDocs.length !== 1 ? 's' : ''}`;
+      `<span>${active} active</span> &middot; <span>${intake} in intake</span>`;
     const badge = document.getElementById('dataSourceBadge');
     if (badge) {
       const refreshed = data.generated
@@ -43,8 +45,8 @@ async function init() {
 // ── KPIs ────────────────────────────────────────────────────────────────────
 
 function renderKPIs(docs) {
-  document.getElementById('kpiTotal').textContent      = docs.length;
   document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
+  document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status !== 'published').length;
   document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue').length;
   document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
   document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
@@ -230,10 +232,11 @@ document.addEventListener('DOMContentLoaded', () => {
         setActiveKpiCard(null);
       } else {
         setActiveKpiCard(kpi);
-        if (kpi === 'published')   document.getElementById('filterStatus').value = 'published';
-        if (kpi === 'overdue')     document.getElementById('filterReview').value = 'overdue';
-        if (kpi === 'due-soon')    document.getElementById('filterReview').value = 'due-soon';
-        if (kpi === 'extensions')  document.getElementById('filterExtension').value = 'active';
+        if (kpi === 'published')  document.getElementById('filterStatus').value = 'published';
+        if (kpi === 'intake')     document.getElementById('filterStatus').value = 'draft';
+        if (kpi === 'overdue')    document.getElementById('filterReview').value = 'overdue';
+        if (kpi === 'due-soon')   document.getElementById('filterReview').value = 'due-soon';
+        if (kpi === 'extensions') document.getElementById('filterExtension').value = 'active';
       }
 
       renderTable(filteredDocs());
