@@ -10,7 +10,7 @@ Usage:
 import json
 import os
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
 
 import yaml
 
@@ -41,6 +41,7 @@ def serialize(obj):
 def main():
     docs = []
     today = date.today()
+    now_utc = datetime.now(timezone.utc)
 
     for dirpath, _, filenames in os.walk(DOCS_ROOT):
         if "_templates" in dirpath:
@@ -89,7 +90,8 @@ def main():
     os.makedirs("site", exist_ok=True)
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump({
-            "generated": today.isoformat(),
+            "generated": now_utc.isoformat(),
+            "source": "LogicGate → Snowflake",
             "documents": docs,
         }, f, indent=2, default=serialize)
 

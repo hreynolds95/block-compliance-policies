@@ -1,5 +1,6 @@
 {
-  "generated": "2026-04-03",
+  "generated": "2026-04-07T19:08:37.977000+00:00",
+  "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
       "doc_id": "CP-001",
@@ -13,7 +14,7 @@
       "owner": "Pascalle Castagne",
       "approval_type": "committee",
       "effective_date": "2025-12-17",
-      "next_review_date": "2026-10-31",
+      "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-001-afterpay-canada-limited-canada-accessibility-policy.md"
@@ -30,7 +31,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-002-afterpay-canada-limited-canada-complaints-policy.md"
@@ -47,7 +48,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-003-afterpay-canada-limited-canada-consumer-protection-policy.md"
@@ -64,7 +65,7 @@
       "owner": "Pascalle Castagne",
       "approval_type": "committee",
       "effective_date": "2025-12-17",
-      "next_review_date": "2026-10-31",
+      "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-004-afterpay-canada-limited-canadas-anti-spam-legislation-casl-policy.md"
@@ -81,7 +82,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-005-block-inc-controlling-the-assault-of-non-solicited-pornography-marketing-act-can.md"
@@ -98,7 +99,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-006-block-inc-electronic-funds-transfer-act-efta-policy.md"
@@ -115,7 +116,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-007-block-inc-electronic-signatures-in-global-and-national-commerce-act-e-sign-polic.md"
@@ -132,7 +133,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-008-block-inc-equal-credit-opportunity-act-ecoa-policy.md"
@@ -149,7 +150,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-009-block-inc-fair-responsible-lending-policy.md"
@@ -166,7 +167,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-010-block-inc-fair-credit-reporting-act-fcra-policy.md"
@@ -183,7 +184,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-011-block-inc-fair-debt-collection-practices-act-fdcpa-policy.md"
@@ -200,7 +201,7 @@
       "owner": "Briana Peterkin",
       "approval_type": "committee",
       "effective_date": "2026-03-03",
-      "next_review_date": "2026-06-30",
+      "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-012-block-inc-global-complaint-policy.md"
@@ -217,7 +218,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-013-block-inc-gramm-leach-bliley-act-glba-policy.md"
@@ -234,7 +235,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-11-04",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-014-block-inc-military-lending-act-mla-policy.md"
@@ -251,7 +252,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-015-block-inc-servicemember-civil-relief-act-scra-policy.md"
@@ -268,7 +269,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-016-block-inc-telephone-consumer-protection-act-tcpa-policy.md"
@@ -285,7 +286,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2025-11-25",
-      "next_review_date": "2026-10-31",
+      "next_review_date": "2026-11-25",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-017-block-inc-truth-in-lending-act-tila-policy.md"
@@ -302,7 +303,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "2025-10-30",
-      "next_review_date": "2025-10-30",
+      "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-018-block-inc-unfair-deceptive-or-abusive-acts-or-practices-unfair-or-deceptive-acts.md"
@@ -336,7 +337,7 @@
       "owner": "Brett Sellers",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-020-cash-app-us-customer-conduct-staff-protection-policy.md"
@@ -353,7 +354,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-021-cash-app-us-denylist-appeals-policy.md"
@@ -370,7 +371,7 @@
       "owner": "Paige D'Monte",
       "approval_type": "committee",
       "effective_date": "2026-02-06",
-      "next_review_date": "2026-04-30",
+      "next_review_date": "2027-02-05",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-022-cash-app-us-disputes-standard.md"
@@ -387,7 +388,7 @@
       "owner": "Unassigned",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-023-cash-app-us-elder-financial-exploitation-policy.md"
@@ -404,7 +405,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-024-cash-app-us-loan-loss-and-charge-off-policy-lending.md"
@@ -455,7 +456,7 @@
       "owner": "Adrienne Lamond",
       "approval_type": "committee",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-12-31",
+      "next_review_date": "2027-03-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-027-clearpay-uk-senior-managers-certification-regime-conduct-policy.md"
@@ -506,7 +507,7 @@
       "owner": "Amanda Ettridge",
       "approval_type": "committee",
       "effective_date": "2026-03-26",
-      "next_review_date": "2026-05-31",
+      "next_review_date": "2027-03-26",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-030-clearpay-uk-vulnerable-customer-standard.md"
@@ -540,7 +541,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-032-sel-consumer-protection-policy.md"
@@ -557,7 +558,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-033-sel-vulnerable-customer-policy.md"
@@ -574,7 +575,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-034-sil-consumer-protection-policy.md"
@@ -591,7 +592,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-035-square-au-pty-ltd-australian-financial-services-license-afsl-representatives-sta.md"
@@ -608,7 +609,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-26",
-      "next_review_date": "2025-12-18",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-036-square-au-pty-ltd-consumer-protection-policy.md"
@@ -625,7 +626,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-037-square-au-pty-ltd-responsible-managers-standards.md"
@@ -642,7 +643,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-038-square-capital-llc-commercial-telemarketing-policy.md"
@@ -659,7 +660,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-039-square-capital-llc-controlling-the-assault-of-non-solicited-pornography-and-mark.md"
@@ -676,7 +677,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-040-square-capital-llc-credit-card-privacy-policy.md"
@@ -693,7 +694,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-041-square-capital-llc-electronic-signature-e-sign-policy.md"
@@ -710,7 +711,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-042-square-capital-llc-equal-credit-opportunity-act-ecoa-policy.md"
@@ -727,7 +728,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-043-square-capital-llc-fair-and-accurate-credit-transactions-act-policy.md"
@@ -744,7 +745,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-044-square-capital-llc-red-flags-policy.md"
@@ -761,7 +762,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-045-square-capital-llc-servicemembers-civil-relief-act-scra-policy.md"
@@ -778,7 +779,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "2026-03-03",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-046-square-capital-llc-unfair-or-deceptive-acts-policy.md"
@@ -795,7 +796,7 @@
       "owner": "Eve Ishak",
       "approval_type": "owner",
       "effective_date": "2026-01-28",
-      "next_review_date": "2025-12-31",
+      "next_review_date": "2027-01-27",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-047-afterpay-australia-and-new-zealand-complaints-standard.md"
@@ -812,7 +813,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-048-afterpay-canada-limited-canada-marketing-standard.md"
@@ -829,7 +830,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-049-afterpay-canada-limited-french-language-standard.md"
@@ -846,7 +847,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-050-afterpay-us-inc-us-complaint-standard.md"
@@ -863,7 +864,7 @@
       "owner": "Briana Peterkin",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-051-block-inc-global-complaint-program-standard.md"
@@ -880,7 +881,7 @@
       "owner": "Lee Buchmann",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-052-cash-app-us-acquiring-chargebacks-standard.md"
@@ -897,7 +898,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-053-cash-app-us-complaints-standard-cash.md"
@@ -914,7 +915,7 @@
       "owner": "Brian Kollmeyer",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-054-cash-app-us-consumer-protection-program-standard.md"
@@ -931,7 +932,7 @@
       "owner": "Brendan Culhane",
       "approval_type": "owner",
       "effective_date": "2026-01-12",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-01-12",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-055-cash-app-us-fraud-risk-management-standard.md"
@@ -948,7 +949,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-056-cash-app-us-lending-operations-complaints-standard.md"
@@ -982,7 +983,7 @@
       "owner": "Pauline O'Brien",
       "approval_type": "owner",
       "effective_date": "2025-12-17",
-      "next_review_date": "2026-01-30",
+      "next_review_date": "2026-12-17",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-058-sil-customer-communication-standard.md"
@@ -999,7 +1000,7 @@
       "owner": "Kathryn Boltuzic",
       "approval_type": "owner",
       "effective_date": "2026-02-09",
-      "next_review_date": "2026-02-27",
+      "next_review_date": "2027-02-09",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-059-square-au-pty-ltd-hardship-support-standard.md"
@@ -1016,7 +1017,7 @@
       "owner": "Kathryn Boltuzic",
       "approval_type": "owner",
       "effective_date": "2026-02-04",
-      "next_review_date": "2026-02-27",
+      "next_review_date": "2027-02-04",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/consumer-protection/CP-060-square-au-pty-ltd-vulnerable-customers-standard.md"
@@ -1033,7 +1034,7 @@
       "owner": "Matt Latham",
       "approval_type": "board",
       "effective_date": "2025-10-29",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-001-block-inc-code-of-business-conduct-ethics.md"
@@ -1050,7 +1051,7 @@
       "owner": "Joshua Rusenko",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-002-block-inc-global-modern-slavery-policy.md"
@@ -1067,7 +1068,7 @@
       "owner": "Joshua Rusenko",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-003-block-inc-anti-bribery-anti-corruption-policy.md"
@@ -1084,7 +1085,7 @@
       "owner": "Matt Latham",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-004-block-inc-gifts-entertainment-policy.md"
@@ -1101,7 +1102,7 @@
       "owner": "Matt Latham",
       "approval_type": "committee",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-005-block-inc-global-conflicts-of-interest-policy.md"
@@ -1118,7 +1119,7 @@
       "owner": "Matt Latham",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-006-block-inc-speak-up-policy.md"
@@ -1152,7 +1153,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-008-sel-conflicts-of-interest-policy.md"
@@ -1169,7 +1170,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-009-sel-speak-up-policy.md"
@@ -1186,7 +1187,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-010-sil-conduct-standards-policy.md"
@@ -1203,7 +1204,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-09-30",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-011-sil-conflicts-of-interest-policy.md"
@@ -1220,7 +1221,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "2026-03-30",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-012-sil-fitness-probity-policy.md"
@@ -1237,7 +1238,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "2026-01-05",
-      "next_review_date": "2025-12-31",
+      "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-013-sil-speak-up-policy.md"
@@ -1254,7 +1255,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-10-31",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-014-square-au-pty-ltd-conflicts-of-interest-policy.md"
@@ -1271,7 +1272,7 @@
       "owner": "Ashley Adkins",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/ethics-and-employee-conduct/EE-015-cash-app-investing-llc-investing-communications-requirements-standard.md"
@@ -1288,7 +1289,7 @@
       "owner": "Ken Triemstra",
       "approval_type": "board",
       "effective_date": "2025-11-03",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-001-block-inc-anti-money-laundering-counter-terrorist-financing-aml-cft-policy.md"
@@ -1305,7 +1306,7 @@
       "owner": "Faisal Sohail",
       "approval_type": "board",
       "effective_date": "2025-10-29",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-002-block-inc-global-sanctions-policy.md"
@@ -1322,7 +1323,7 @@
       "owner": "Martina Kann",
       "approval_type": "committee",
       "effective_date": "2026-01-05",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-16",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-003-afterpay-australia-pty-ltd-anti-money-laundering-and-counter-terrorism-financing.md"
@@ -1339,7 +1340,7 @@
       "owner": "Martina Kann",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-004-afterpay-australia-pty-ltd-anti-money-laundering-and-counter-terrorism-financing.md"
@@ -1356,7 +1357,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "2025-12-17",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-005-afterpay-canada-anti-money-laundering-and-counter-terrorism-financing-aml-ctf-st.md"
@@ -1373,7 +1374,7 @@
       "owner": "Pascalle Castagne",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-006-afterpay-canada-australian-anti-money-laundering-counter-terrorism-financing-aml.md"
@@ -1390,7 +1391,7 @@
       "owner": "Eve Ishak",
       "approval_type": "committee",
       "effective_date": "2026-01-28",
-      "next_review_date": "2026-07-31",
+      "next_review_date": "2027-01-27",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-007-afterpay-nz-limited-anti-money-laundering-counter-terrorist-financing-amlctf-pro.md"
@@ -1407,7 +1408,7 @@
       "owner": "Martina Kann",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-008-afterpay-new-zealand-australian-anti-money-laundering-countering-financing-of-te.md"
@@ -1424,7 +1425,7 @@
       "owner": "Faisal Sohail",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-009-block-inc-global-sanctions-compliance-program-standard.md"
@@ -1441,7 +1442,7 @@
       "owner": "Kellan Fay",
       "approval_type": "committee",
       "effective_date": "2026-02-04",
-      "next_review_date": "2026-10-03",
+      "next_review_date": "2027-02-04",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-010-cash-app-risk-and-compliance-adverse-actions-policy.md"
@@ -1458,7 +1459,7 @@
       "owner": "Adrienne Lamond",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-011-cash-app-uk-sel-financial-crimes-program.md"
@@ -1475,7 +1476,7 @@
       "owner": "Adrian Gardner",
       "approval_type": "committee",
       "effective_date": "2026-03-03",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-012-cash-app-us-know-your-customer-kyc-policy.md"
@@ -1492,7 +1493,7 @@
       "owner": "Anthony Laycock",
       "approval_type": "committee",
       "effective_date": "2026-02-27",
-      "next_review_date": "2026-07-31",
+      "next_review_date": "2027-02-27",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-013-clearpay-finance-limited-consumer-due-diligence-standard.md"
@@ -1509,7 +1510,7 @@
       "owner": "Anthony Laycock",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-014-clearpay-finance-limited-merchant-due-diligence-standard.md"
@@ -1526,7 +1527,7 @@
       "owner": "Anthony Laycock",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-015-clearpay-uk-anti-money-laundering-and-counter-terrorist-financing-aml-cft-policy.md"
@@ -1543,7 +1544,7 @@
       "owner": "Anthony Laycock",
       "approval_type": "committee",
       "effective_date": "2026-03-02",
-      "next_review_date": "2026-03-27",
+      "next_review_date": "2027-03-02",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-016-clearpay-uk-payment-service-provider-due-diligence-standard.md"
@@ -1560,7 +1561,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-017-sel-financial-crimes-program.md"
@@ -1577,7 +1578,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-018-sil-financial-crimes-program.md"
@@ -1594,7 +1595,7 @@
       "owner": "Jing Wang",
       "approval_type": "committee",
       "effective_date": "2026-03-29",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-019-square-au-pty-ltd-anti-money-laundering-counter-terrorism-financing-aml-ctf-prog.md"
@@ -1611,7 +1612,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "2026-03-16",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-03-11",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-020-square-canada-inc-anti-money-laundering-counter-terrorist-financing-aml-cft-poli.md"
@@ -1628,7 +1629,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-021-square-capital-llc-credit-card-bank-secrecy-act-anti-money-laundering-bsa-aml-sq.md"
@@ -1645,7 +1646,7 @@
       "owner": "Unassigned",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-022-square-kk-anti-social-forces-management-policy.md"
@@ -1662,7 +1663,7 @@
       "owner": "Unassigned",
       "approval_type": "committee",
       "effective_date": "2026-01-08",
-      "next_review_date": "2026-09-30",
+      "next_review_date": "2026-12-30",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-023-square-us-identity-verification-policy.md"
@@ -1679,7 +1680,7 @@
       "owner": "Ken Triemstra",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-024-block-inc-bank-secrecy-act-anti-money-laundering-counter-terrorist-financing-bsa.md"
@@ -1713,7 +1714,7 @@
       "owner": "Harrison Fink",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-026-cash-app-global-cash-app-sanctions-compliance-standard.md"
@@ -1730,7 +1731,7 @@
       "owner": "Christine Delaney",
       "approval_type": "owner",
       "effective_date": "2026-03-30",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-027-cash-app-investing-llc-anti-money-laundering-countering-the-financing-of-terrori.md"
@@ -1747,7 +1748,7 @@
       "owner": "Sondah Ouattara",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-028-cash-app-us-bitcoin-btc-travel-rule-program.md"
@@ -1764,7 +1765,7 @@
       "owner": "Vijay Sathish",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-029-cash-app-us-compliance-real-time-transaction-blocking-program.md"
@@ -1798,7 +1799,7 @@
       "owner": "Courtney Smith",
       "approval_type": "owner",
       "effective_date": "2025-12-16",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-15",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-031-cash-app-us-identity-verification-standard.md"
@@ -1815,7 +1816,7 @@
       "owner": "Vanessa Simpson",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-032-cash-app-us-know-your-business-program-for-cash-for-business-customers.md"
@@ -1832,7 +1833,7 @@
       "owner": "Rosa Brown",
       "approval_type": "owner",
       "effective_date": "2025-12-23",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-12-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-033-cash-app-us-know-your-customer-kyc-standard.md"
@@ -1849,7 +1850,7 @@
       "owner": "Adrian Gardner",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-034-cash-app-us-unacceptable-use-monitoring-standard.md"
@@ -1866,7 +1867,7 @@
       "owner": "Jing Wang",
       "approval_type": "owner",
       "effective_date": "2026-03-27",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-035-square-au-pty-ltd-anti-money-laundering-counter-terrorist-financing-aml-ctf-risk.md"
@@ -1883,7 +1884,7 @@
       "owner": "Jing Wang",
       "approval_type": "owner",
       "effective_date": "2026-03-27",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-036-square-au-pty-ltd-employee-and-personnel-due-diligence-program.md"
@@ -1900,7 +1901,7 @@
       "owner": "Jing Wang",
       "approval_type": "owner",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-037-square-au-pty-ltd-enhanced-customer-due-diligence-program.md"
@@ -1917,7 +1918,7 @@
       "owner": "Lance Howard",
       "approval_type": "owner",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-11-30",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-038-square-au-pty-ltd-financial-crimes-transaction-monitoring-program.md"
@@ -1934,7 +1935,7 @@
       "owner": "Jing Wang",
       "approval_type": "owner",
       "effective_date": "2026-03-27",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-039-square-au-pty-ltd-politically-exposed-person-pep-watchlist-program.md"
@@ -1951,7 +1952,7 @@
       "owner": "Jing Wang",
       "approval_type": "owner",
       "effective_date": "2026-03-26",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-040-square-au-pty-ltd-suspicious-matter-report-program.md"
@@ -1968,7 +1969,7 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-041-square-kk-anti-money-laundering-aml-counter-terrorist-financing-ctf-financial-sa.md"
@@ -1985,7 +1986,7 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-042-square-kk-anti-social-forces-management-program.md"
@@ -2002,7 +2003,7 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "2026-01-07",
-      "next_review_date": "2026-07-31",
+      "next_review_date": "2027-01-06",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-043-square-us-know-your-customer-kyc-program.md"
@@ -2019,7 +2020,7 @@
       "owner": "Audra McKay",
       "approval_type": "owner",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/financial-crimes/FC-044-square-us-transaction-monitoring-program-standard.md"
@@ -2036,7 +2037,7 @@
       "owner": "Tyler Hand",
       "approval_type": "board",
       "effective_date": "2025-11-03",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
       "file": "docs/governance/GOV-001-block-inc-compliance-management-system-cms-policy.md"
@@ -2053,7 +2054,7 @@
       "owner": "Martina Kann",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-002-afterpay-australia-pty-ltd-unsuitability-assessment-policy.md"
@@ -2070,7 +2071,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-003-afterpay-canada-ltd-incident-management-response-plan.md"
@@ -2087,7 +2088,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-004-afterpay-canada-ltd-afterpay-third-party-risk-management-tprm-policy.md"
@@ -2104,7 +2105,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-005-afterpay-canada-and-square-canada-record-retention-policy.md"
@@ -2138,7 +2139,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-007-afterpay-us-inc-third-party-risk-management-tprm-standard.md"
@@ -2172,7 +2173,7 @@
       "owner": "Laurence Aderemi",
       "approval_type": "committee",
       "effective_date": "2026-03-31",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-009-block-inc-custody-liquidity-management-policy.md"
@@ -2206,7 +2207,7 @@
       "owner": "Stevi Winer",
       "approval_type": "committee",
       "effective_date": "2026-02-18",
-      "next_review_date": "2026-06-06",
+      "next_review_date": "2027-02-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-011-block-inc-compliance-policy-on-policies.md"
@@ -2223,7 +2224,7 @@
       "owner": "Amit Bhushan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-012-block-inc-model-governance-policy.md"
@@ -2240,7 +2241,7 @@
       "owner": "Jason Liberman",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-013-cash-app-us-business-activity-monitoring-bam-policy.md"
@@ -2257,7 +2258,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-014-sel-electronic-money-directive-emd-policy.md"
@@ -2274,7 +2275,7 @@
       "owner": "Ryan Goldstone",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-015-sel-outsourcing-policy.md"
@@ -2291,7 +2292,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-016-sil-outsourcing-policy.md"
@@ -2308,7 +2309,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-017-square-au-pty-ltd-breach-reporting-policy.md"
@@ -2325,7 +2326,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-018-square-au-pty-ltd-complaints-policy.md"
@@ -2342,7 +2343,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-28",
-      "next_review_date": "2025-12-18",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-019-square-au-pty-ltd-compliance-management-policy-cms-policy.md"
@@ -2359,7 +2360,7 @@
       "owner": "Lance Howard",
       "approval_type": "committee",
       "effective_date": "2026-01-22",
-      "next_review_date": "2026-03-01",
+      "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-020-square-au-pty-ltd-third-party-risk-management-tprm-policy.md"
@@ -2376,7 +2377,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-021-square-canada-third-party-risk-management-tprm-policy.md"
@@ -2393,7 +2394,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-022-square-capital-llc-compliance-management-policy.md"
@@ -2410,7 +2411,7 @@
       "owner": "Unassigned",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-023-square-kk-compliance-management-system-policy.md"
@@ -2427,7 +2428,7 @@
       "owner": "Unassigned",
       "approval_type": "committee",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
       "file": "docs/governance/GOV-024-square-kk-outsourcing-management-policy.md"
@@ -2444,7 +2445,7 @@
       "owner": "Corey Chamberlain",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-025-afterpay-us-inc-regulatory-change-management-standard.md"
@@ -2478,7 +2479,7 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-027-block-inc-activation-customer-risk-rating-program.md"
@@ -2495,7 +2496,7 @@
       "owner": "Amit Bhushan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-028-block-inc-anti-money-laundering-aml-counter-terrorist-financing-cft-sanctions-pr.md"
@@ -2512,7 +2513,7 @@
       "owner": "Amit Bhushan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-029-block-inc-anti-money-laundering-aml-countering-the-financing-of-terrorism-cft-sa.md"
@@ -2529,7 +2530,7 @@
       "owner": "Amit Bhushan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-030-block-inc-block-compliance-risk-and-control-standard.md"
@@ -2546,7 +2547,7 @@
       "owner": "Danielle Franklin",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-03-31",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-031-block-inc-compliance-audit-exam-independent-assessment-management-program.md"
@@ -2563,7 +2564,7 @@
       "owner": "Michael Read",
       "approval_type": "owner",
       "effective_date": "2026-03-31",
-      "next_review_date": "2027-03-28",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-032-block-inc-compliance-committee-forum-oversight-standard.md"
@@ -2580,7 +2581,7 @@
       "owner": "Lorianne Woldehanna",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-04-01",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-033-block-inc-compliance-training-program-standard.md"
@@ -2614,7 +2615,7 @@
       "owner": "Keith Roche",
       "approval_type": "owner",
       "effective_date": "2026-03-27",
-      "next_review_date": "2026-02-28",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-035-block-inc-global-compliance-monitoring-testing-program.md"
@@ -2631,7 +2632,7 @@
       "owner": "Amit Bhushan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-036-block-inc-global-geographic-risk-ratings-methodology-program.md"
@@ -2648,7 +2649,7 @@
       "owner": "Brian Kearns",
       "approval_type": "owner",
       "effective_date": "2026-01-30",
-      "next_review_date": "2026-02-02",
+      "next_review_date": "2027-01-29",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-037-block-inc-regulatory-change-management.md"
@@ -2665,7 +2666,7 @@
       "owner": "Matthew DiGiacobbe",
       "approval_type": "owner",
       "effective_date": "2026-03-30",
-      "next_review_date": "2026-03-31",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-038-block-inc-service-level-agreement-and-backlog-management-program.md"
@@ -2699,7 +2700,7 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-040-cash-app-us-cash-app-continuous-customer-risk-rating-program.md"
@@ -2716,7 +2717,7 @@
       "owner": "Vijay Sathish",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-041-cash-app-us-transaction-monitoring-modeling-program.md"
@@ -2733,7 +2734,7 @@
       "owner": "Amanda Ettridge",
       "approval_type": "owner",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-06-30",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-042-clearpay-fitness-and-propriety-standard.md"
@@ -2750,7 +2751,7 @@
       "owner": "Amanda Ettridge",
       "approval_type": "owner",
       "effective_date": "2026-03-25",
-      "next_review_date": "2026-06-30",
+      "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-043-clearpay-uk-training-and-competence-standard.md"
@@ -2767,7 +2768,7 @@
       "owner": "Sherry Stevens",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2026-05-30",
+      "next_review_date": "2027-05-30",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-044-compliance-incident-management-reporting-standard.md"
@@ -2801,7 +2802,7 @@
       "owner": "Elizabeth Henry",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-046-sil-regulatory-compliance-monitoring-program.md"
@@ -2818,7 +2819,7 @@
       "owner": "Kathryn Boltuzic",
       "approval_type": "owner",
       "effective_date": "2026-03-29",
-      "next_review_date": "2026-12-31",
+      "next_review_date": "2027-01-21",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-047-square-au-pty-ltd-regulatory-change-management-program.md"
@@ -2835,7 +2836,7 @@
       "owner": "Safiya Adenekan",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-048-square-canada-incident-response-plan.md"
@@ -2852,27 +2853,10 @@
       "owner": "Unassigned",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2025-10-23",
+      "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
       "file": "docs/governance/GOV-049-square-us-continuous-customer-risk-rating-program.md"
-    },
-    {
-      "doc_id": "POL-003",
-      "title": "Block Inc. Code of Conduct",
-      "version": "1.0.0",
-      "status": "published",
-      "tier": 1,
-      "domain": "governance",
-      "legal_entity": "Block, Inc.",
-      "business": "Block",
-      "owner": "General Counsel",
-      "approval_type": "board",
-      "effective_date": "2025-01-01",
-      "next_review_date": "2026-01-01",
-      "retention_years": 7,
-      "review_status": "overdue",
-      "file": "docs/governance/POL-003-code-of-conduct.md"
     }
   ]
 }

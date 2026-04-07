@@ -1,5 +1,17 @@
 /* Block Brand Theme (Dark) — matches compliance-dashboard */
 
+/* ── Data source badge (top-right) ── */
+.data-source-badge {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  font-size: 11px;
+  line-height: 1.6;
+  color: var(--muted, #888);
+  text-align: right;
+  z-index: 100;
+}
+
 @font-face {
   font-family: 'Cash Sans';
   src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Regular.woff2) format('woff2');

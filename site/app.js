@@ -16,7 +16,14 @@ async function init() {
     const data = await docsRes.value.json();
     allDocs = data.documents || [];
     document.getElementById('heroMeta').innerHTML =
-      `Last generated <span>${data.generated}</span> &middot; ${allDocs.length} document${allDocs.length !== 1 ? 's' : ''}`;
+      `${allDocs.length} document${allDocs.length !== 1 ? 's' : ''}`;
+    const badge = document.getElementById('dataSourceBadge');
+    if (badge) {
+      const refreshed = data.generated
+        ? new Date(data.generated).toLocaleString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/New_York' })
+        : '—';
+      badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}`;
+    }
     populateDomainFilter(allDocs);
     renderKPIs(allDocs);
     renderTable(allDocs);
