@@ -72,6 +72,15 @@ body {
   font-weight: 700;
   line-height: 1.2;
 }
+.hero-title {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.hero-logo {
+  height: 28px;
+  width: auto;
+}
 .hero-meta {
   font-size: 13px;
   color: var(--muted);
