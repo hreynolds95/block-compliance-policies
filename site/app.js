@@ -138,7 +138,7 @@ function renderTable(docs) {
   empty.style.display = 'none';
 
   tbody.innerHTML = visible.map(d => `
-    <tr>
+    <tr class="doc-row" data-doc-id="${esc(d.doc_id)}" style="cursor:pointer;">
       <td><span class="doc-id">${esc(d.doc_id)}</span></td>
       <td><span class="doc-title">${esc(d.title)}</span></td>
       <td><span class="domain-label">${esc(domainLabel(d.domain))}</span></td>
@@ -150,7 +150,35 @@ function renderTable(docs) {
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
       <td>${reviewPill(d.review_status)}${extensionPill(d.extension_status)}</td>
     </tr>
+    <tr class="detail-row" id="detail-${esc(d.doc_id)}" style="display:none;">
+      <td colspan="10">
+        <div class="detail-panel">
+          <div class="detail-grid">
+            <div class="detail-item"><span class="detail-label">Business</span><span class="detail-value">${esc(d.business ?? '—')}</span></div>
+            <div class="detail-item"><span class="detail-label">Legal Entity</span><span class="detail-value">${esc(d.legal_entity ?? '—')}</span></div>
+            <div class="detail-item"><span class="detail-label">Effective Date</span><span class="detail-value">${esc(d.effective_date ?? '—')}</span></div>
+            <div class="detail-item"><span class="detail-label">Retention</span><span class="detail-value">${d.retention_years ? `${esc(d.retention_years)} years` : '—'}</span></div>
+            ${d.extension_reason ? `<div class="detail-item detail-item--full"><span class="detail-label">Extension Reason</span><span class="detail-value">${esc(d.extension_reason)}</span></div>` : ''}
+          </div>
+        </div>
+      </td>
+    </tr>
   `).join('');
+
+  tbody.querySelectorAll('.doc-row').forEach(row => {
+    row.addEventListener('click', () => {
+      const id = row.dataset.docId;
+      const detail = document.getElementById(`detail-${id}`);
+      const isOpen = detail.style.display !== 'none';
+      // collapse any other open rows
+      tbody.querySelectorAll('.detail-row').forEach(r => r.style.display = 'none');
+      tbody.querySelectorAll('.doc-row').forEach(r => r.classList.remove('doc-row--expanded'));
+      if (!isOpen) {
+        detail.style.display = '';
+        row.classList.add('doc-row--expanded');
+      }
+    });
+  });
 }
 
 // ── Audit log ────────────────────────────────────────────────────────────────

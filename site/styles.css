@@ -401,6 +401,38 @@ details[open] > .panel-header--collapsible::before {
   .audit-entry { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; }
 }
 
+/* ── Expandable row detail ── */
+.doc-row--expanded td { background: rgba(124,172,255,.04); }
+.detail-row td { padding: 0; border-bottom: 1px solid var(--line); }
+.detail-panel {
+  padding: 14px 16px;
+  background: color-mix(in srgb, var(--bg) 60%, var(--card));
+  border-top: 1px solid var(--line);
+}
+.detail-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 40px;
+}
+.detail-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 160px;
+}
+.detail-item--full { flex: 1 1 100%; }
+.detail-label {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.detail-value {
+  font-size: 0.82rem;
+  color: var(--accent-2);
+}
+
 /* ── Empty state ── */
 .empty-state {
   text-align: center;
