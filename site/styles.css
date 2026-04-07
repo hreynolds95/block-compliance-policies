@@ -5,7 +5,7 @@
   position: fixed;
   bottom: 14px;
   right: 20px;
-  font-size: 11px;
+  font-size: 0.7rem;
   color: var(--muted);
   z-index: 100;
 }
@@ -38,7 +38,7 @@
   position: fixed;
   top: 16px;
   right: 20px;
-  font-size: 11px;
+  font-size: 0.7rem;
   line-height: 1.6;
   color: var(--muted, #888);
   text-align: right;
@@ -106,14 +106,14 @@ body {
   gap: 8px;
 }
 .eyebrow {
-  font-size: 11px;
+  font-size: 0.7rem;
   font-weight: 500;
   letter-spacing: .1em;
   text-transform: uppercase;
   color: var(--muted);
 }
 .hero h1 {
-  font-size: 28px;
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
   font-weight: 700;
   line-height: 1.2;
 }
@@ -128,7 +128,7 @@ body {
   filter: invert(1);
 }
 .hero-meta {
-  font-size: 13px;
+  font-size: 0.82rem;
   color: var(--muted);
 }
 .hero-meta span { color: var(--accent); }
@@ -158,8 +158,8 @@ body {
   border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 8%, var(--card));
 }
-.kpi-label { font-size: 11px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.kpi-value { font-size: 36px; font-weight: 700; line-height: 1; }
+.kpi-label { font-size: 0.7rem; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.kpi-value { font-size: clamp(1.8rem, 3vw, 2.25rem); font-weight: 700; line-height: 1; }
 .kpi-value.danger  { color: var(--danger); }
 .kpi-value.warning { color: var(--warning); }
 .kpi-value.success { color: var(--success); }
@@ -181,11 +181,11 @@ body {
   flex-wrap: wrap;
 }
 .panel-header h2 {
-  font-size: 15px;
+  font-size: 0.95rem;
   font-weight: 600;
 }
 .panel-subtitle {
-  font-size: 12px;
+  font-size: 0.76rem;
   color: var(--muted);
   margin-top: 2px;
   margin-bottom: 16px;
@@ -206,7 +206,7 @@ body {
   border-radius: var(--radius-md);
   color: var(--ink);
   font-family: inherit;
-  font-size: 13px;
+  font-size: 0.82rem;
   padding: 8px 12px;
   outline: none;
 }
@@ -219,7 +219,7 @@ select.filter-select {
   border-radius: var(--radius-md);
   color: var(--ink);
   font-family: inherit;
-  font-size: 13px;
+  font-size: 0.82rem;
   padding: 8px 10px;
   outline: none;
   cursor: pointer;
@@ -227,7 +227,7 @@ select.filter-select {
 select.filter-select:focus { border-color: var(--info); }
 
 .result-count {
-  font-size: 12px;
+  font-size: 0.76rem;
   color: var(--muted);
   white-space: nowrap;
 }
@@ -236,11 +236,11 @@ select.filter-select:focus { border-color: var(--info); }
 .doc-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 13px;
+  font-size: 0.82rem;
 }
 .doc-table th {
   text-align: left;
-  font-size: 11px;
+  font-size: 0.7rem;
   font-weight: 500;
   letter-spacing: .07em;
   text-transform: uppercase;
@@ -263,16 +263,16 @@ select.filter-select:focus { border-color: var(--info); }
 .doc-table tr:last-child td { border-bottom: none; }
 .doc-table tr:hover td { background: rgba(255,255,255,.03); }
 
-.doc-id    { font-weight: 600; font-size: 12px; color: var(--info); white-space: nowrap; }
+.doc-id    { font-weight: 600; font-size: 0.76rem; color: var(--info); white-space: nowrap; }
 .doc-title { font-weight: 500; }
-.doc-owner { color: var(--muted); font-size: 12px; }
+.doc-owner { color: var(--muted); font-size: 0.76rem; }
 
 /* ── Badges ── */
 .badge {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 999px;
-  font-size: 11px;
+  font-size: 0.7rem;
   font-weight: 500;
   line-height: 1.6;
   white-space: nowrap;
@@ -292,7 +292,7 @@ select.filter-select:focus { border-color: var(--info); }
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  font-size: 11px;
+  font-size: 0.7rem;
   font-weight: 500;
   padding: 3px 8px;
   border-radius: 999px;
@@ -323,7 +323,7 @@ select.filter-select:focus { border-color: var(--info); }
 .panel-header--collapsible::-webkit-details-marker { display: none; }
 .panel-header--collapsible::before {
   content: '▶';
-  font-size: 11px;
+  font-size: 0.7rem;
   color: var(--muted);
   margin-top: 6px;
   flex-shrink: 0;
@@ -346,10 +346,10 @@ details[open] > .panel-header--collapsible::before {
   align-items: center;
   padding: 10px 0;
   border-bottom: 1px solid var(--line);
-  font-size: 12px;
+  font-size: 0.76rem;
 }
 .audit-entry:last-child { border-bottom: none; }
-.audit-ts   { color: var(--muted); font-size: 11px; white-space: nowrap; }
+.audit-ts   { color: var(--muted); font-size: 0.7rem; white-space: nowrap; }
 .audit-id   { color: var(--info); font-weight: 600; }
 .audit-desc { color: var(--accent); }
 .audit-actor { color: var(--muted); white-space: nowrap; }
@@ -362,7 +362,7 @@ details[open] > .panel-header--collapsible::before {
   text-align: center;
   padding: 48px 24px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 0.88rem;
 }
 
 /* ── Domain chips in filter ── */
