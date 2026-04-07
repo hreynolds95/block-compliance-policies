@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Policy Library Section Logic Reference</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    @font-face {
+      font-family: 'Cash Sans';
+      src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Regular.woff2) format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'Cash Sans';
+      src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Medium.woff2) format('woff2');
+      font-weight: 500;
+    }
+    @font-face {
+      font-family: 'Cash Sans';
+      src: url(https://cash-f.squarecdn.com/static/fonts/cashsans/woff2/CashSans-Bold.woff2) format('woff2');
+      font-weight: 700;
+    }
+
+    :root {
+      --bg:          #22252a;
+      --bg-secondary:#2c2f35;
+      --bg-tertiary: #474e57;
+      --card:        #32353b;
+      --line:        #3f434b;
+      --ink:         #ffffff;
+      --muted:       #878787;
+      --accent:      #e3e6ea;
+      --accent-2:    #cbd1d6;
+      --accent-3:    #a7b0b9;
+      --info:        #7cacff;
+      --danger:      #ff6b6b;
+      --success:     #a3d795;
+      --warning:     #ffd966;
+      --purple:      #b87fff;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: 'Cash Sans', system-ui, -apple-system, sans-serif;
+      font-size: 0.92rem;
+      line-height: 1.7;
+      padding: 40px 20px;
+    }
+
+    .container { max-width: 900px; margin: 0 auto; }
+
+    .back-link {
+      display: inline-block;
+      color: var(--info);
+      text-decoration: none;
+      font-size: 0.82rem;
+      margin-bottom: 24px;
+      opacity: 0.8;
+      transition: opacity 0.15s;
+    }
+    .back-link:hover { opacity: 1; text-decoration: underline; }
+
+    h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+      letter-spacing: -0.02em;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 0.78rem;
+      margin-bottom: 32px;
+      line-height: 1.8;
+    }
+    .meta code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 0.76rem; }
+    .meta a { color: var(--info); text-decoration: none; }
+    .meta a:hover { text-decoration: underline; }
+
+    hr { border: none; border-top: 1px solid var(--line); margin: 32px 0; }
+
+    .toc {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 20px 24px;
+      margin-bottom: 36px;
+    }
+    .toc h2 {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .toc ol { padding-left: 20px; }
+    .toc li { margin-bottom: 4px; }
+    .toc a { color: var(--info); text-decoration: none; font-size: 0.85rem; }
+    .toc a:hover { text-decoration: underline; }
+
+    .section {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 28px 28px 24px;
+      margin-bottom: 28px;
+    }
+
+    h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: 16px; color: var(--ink); letter-spacing: -0.01em; }
+    h3 { font-size: 0.92rem; font-weight: 600; margin: 20px 0 8px; color: var(--accent); }
+    h4 { font-size: 0.84rem; font-weight: 600; margin: 14px 0 6px; color: var(--muted); }
+
+    p { margin-bottom: 10px; }
+    ul, ol { padding-left: 22px; margin-bottom: 12px; }
+    li { margin-bottom: 4px; }
+
+    code {
+      background: var(--bg-secondary);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 0.82rem;
+    }
+
+    pre {
+      background: var(--bg);
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 16px;
+      overflow-x: auto;
+      margin: 12px 0 16px;
+      font-size: 0.8rem;
+      line-height: 1.6;
+      font-family: 'Roboto Mono', monospace;
+    }
+    pre code { background: none; padding: 0; }
+
+    table { width: 100%; border-collapse: collapse; margin: 12px 0 16px; font-size: 0.82rem; }
+    th {
+      background: var(--bg-tertiary);
+      text-align: left;
+      padding: 8px 12px;
+      font-weight: 600;
+      color: var(--accent-2);
+      border-bottom: 1px solid var(--line);
+    }
+    td { padding: 7px 12px; border-bottom: 1px solid var(--line); color: var(--ink); }
+    tr:last-child td { border-bottom: none; }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-red    { background: rgba(255,107,107,0.15); color: var(--danger); }
+    .badge-yellow { background: rgba(255,217,102,0.15); color: var(--warning); }
+    .badge-blue   { background: rgba(124,172,255,0.15); color: var(--info); }
+    .badge-green  { background: rgba(163,215,149,0.15); color: var(--success); }
+    .badge-purple { background: rgba(184,127,255,0.15); color: var(--purple); }
+    .badge-gray   { background: rgba(135,135,135,0.12); color: var(--muted); }
+
+    .callout {
+      background: var(--bg);
+      border-left: 3px solid var(--info);
+      padding: 12px 16px;
+      margin: 12px 0;
+      font-size: 0.84rem;
+      color: var(--accent);
+      border-radius: 0 6px 6px 0;
+    }
+
+    .flow-diagram {
+      background: var(--bg);
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin: 12px 0 16px;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 0.82rem;
+      color: var(--info);
+      text-align: center;
+      letter-spacing: 0.02em;
+    }
+
+    strong { font-weight: 600; }
+    em { font-style: italic; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="./index.html" class="back-link">← Back to Policy Library</a>
+
+    <h1>Policy Library Section Logic Reference</h1>
+    <div class="meta">
+      <strong>Repository:</strong> <code>hreynolds95/block-compliance-policies</code><br>
+      <strong>GitHub Pages:</strong> <a href="./index.html">block-compliance-policies</a><br>
+      <strong>Source data:</strong> <code>LOGICGATE_SF.PUBLIC.POLICY_DASHBOARD</code> via Snowflake<br>
+      <strong>Related dashboard:</strong> <a href="https://blockcell.sqprod.co/sites/compliance-policy-dashboard/index.html" target="_blank" rel="noopener">Blockcell Compliance Policy Dashboard</a>
+    </div>
+
+    <nav class="toc">
+      <h2>Contents</h2>
+      <ol>
+        <li><a href="#pipeline">Data Pipeline Overview</a></li>
+        <li><a href="#kpis">KPI Cards</a></li>
+        <li><a href="#review-dates">Review Date Logic</a></li>
+        <li><a href="#extensions">Extension Status</a></li>
+        <li><a href="#library">Policy &amp; Procedure Library</a></li>
+        <li><a href="#audit">Audit Log</a></li>
+        <li><a href="#workflows">CI/CD Workflows</a></li>
+      </ol>
+    </nav>
+
+    <!-- ── Data Pipeline ── -->
+    <div class="section" id="pipeline">
+      <h2>1. Data Pipeline Overview</h2>
+
+      <h3>Source</h3>
+      <ul>
+        <li><strong>Snowflake table:</strong> <code>LOGICGATE_SF.PUBLIC.POLICY_DASHBOARD</code></li>
+        <li><strong>Role:</strong> <code>LOGICGATE_SF__SNOWFLAKE__READ_ONLY</code></li>
+        <li><strong>Warehouse:</strong> <code>ADHOC__SMALL</code></li>
+        <li><strong>Filter:</strong> <code>DOCUMENT_STATUS = 'Active'</code></li>
+      </ul>
+
+      <h3>Data Flow</h3>
+      <div class="flow-diagram">
+        Snowflake &nbsp;→&nbsp; export CSV &nbsp;→&nbsp; import_from_logicgate.py &nbsp;→&nbsp; docs/*.md &nbsp;→&nbsp; generate_docs_data.py &nbsp;→&nbsp; docs-data.json &nbsp;→&nbsp; GitHub Pages
+      </div>
+
+      <h3>Import &amp; Deduplication</h3>
+      <p><code>scripts/import_from_logicgate.py</code> processes the Snowflake CSV export and creates one Markdown stub per unique policy. Deduplication mirrors the Blockcell dashboard logic:</p>
+      <ul>
+        <li>Deduplicate by <code>PWF_RECORD_ID</code> — one stub per unique record</li>
+        <li>Priority order: <strong>Published</strong> &gt; New Request Draft in Progress &gt; Retired</li>
+        <li>Step order: <strong>Active Version</strong> &gt; Publication &gt; all others</li>
+        <li>Tiebreaker: fewest null fields</li>
+        <li>Excludes 3 test records by name (EXAMPLE / Test Document)</li>
+      </ul>
+
+      <h3>Document IDs</h3>
+      <table>
+        <tr><th>Prefix</th><th>Domain</th></tr>
+        <tr><td><code>CP-NNN</code></td><td>Consumer Protection</td></tr>
+        <tr><td><code>EE-NNN</code></td><td>Ethics &amp; Employee Conduct</td></tr>
+        <tr><td><code>FC-NNN</code></td><td>Financial Crimes</td></tr>
+        <tr><td><code>GOV-NNN</code></td><td>Governance</td></tr>
+      </table>
+      <p>IDs are assigned sequentially per domain after deduplication and remain stable across re-imports (existing files are never overwritten).</p>
+
+      <h3>docs-data.json Generation</h3>
+      <p><code>scripts/generate_docs_data.py</code> walks the <code>docs/</code> directory and extracts YAML frontmatter from every stub into <code>site/docs-data.json</code>. The file includes a full UTC ISO timestamp (<code>generated</code>) and source label used by the data source badge on the dashboard.</p>
+
+      <h3>Review Date Sync</h3>
+      <p><code>scripts/sync_review_dates.py</code> corrects <code>next_review_date</code> by matching docs to <code>dashboard-data.json</code> via <code>PWF_RECORD_ID</code>. See <a href="#review-dates">Section 3</a> for full logic.</p>
+    </div>
+
+    <!-- ── KPI Cards ── -->
+    <div class="section" id="kpis">
+      <h2>2. KPI Cards</h2>
+      <p>Each card is clickable and filters the policy library table to the corresponding document set. Clicking an active card again clears the filter.</p>
+
+      <table>
+        <tr><th>Card</th><th>Color</th><th>Definition</th><th>Filter applied</th></tr>
+        <tr>
+          <td><strong>Active</strong></td>
+          <td><span class="badge badge-green">green</span></td>
+          <td><code>status === 'published'</code></td>
+          <td>Status = Published</td>
+        </tr>
+        <tr>
+          <td><strong>Intake</strong></td>
+          <td><span class="badge badge-blue">blue</span></td>
+          <td><code>status !== 'published'</code> — documents in the approval queue</td>
+          <td>Status = Draft</td>
+        </tr>
+        <tr>
+          <td><strong>Overdue Review</strong></td>
+          <td><span class="badge badge-red">red</span></td>
+          <td><code>review_status === 'overdue'</code> — <code>next_review_date</code> is in the past</td>
+          <td>Review State = Overdue</td>
+        </tr>
+        <tr>
+          <td><strong>Due Within 30d</strong></td>
+          <td><span class="badge badge-yellow">yellow</span></td>
+          <td><code>review_status === 'due-soon'</code> — <code>next_review_date</code> within 30 days</td>
+          <td>Review State = Due soon</td>
+        </tr>
+        <tr>
+          <td><strong>Active Extensions</strong></td>
+          <td><span class="badge badge-purple">purple</span></td>
+          <td><code>extension_status === 'approved'</code> or <code>'in-progress'</code></td>
+          <td>Extensions = Any active extension</td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- ── Review Date Logic ── -->
+    <div class="section" id="review-dates">
+      <h2>3. Review Date Logic</h2>
+
+      <h3>Background</h3>
+      <p>During the October 2025 migration to LogicGate, review dates were not captured for pre-existing policies. The initial import set <code>next_review_date</code> directly from <code>DUE_DATE</code> — the LogicGate <em>workflow approval deadline</em> — which had already passed for completed workflows, causing 136 false-positive overdue flags.</p>
+
+      <h3>Correction (<code>sync_review_dates.py</code>)</h3>
+      <p>The script matches each DMS doc to the dashboard record by <code>logicgate_record_id</code> → <code>PWF_RECORD_ID</code> and computes <code>next_review_date</code> as follows:</p>
+
+      <table>
+        <tr><th>DUE_DATE_STATUS</th><th>next_review_date formula</th></tr>
+        <tr>
+          <td><span class="badge badge-green">Complete</span></td>
+          <td><code>DATE_OF_FINAL_APPROVAL + 1 year</code> — workflow finished, next cycle is annual from last approval</td>
+        </tr>
+        <tr>
+          <td><span class="badge badge-yellow">Current</span> / <span class="badge badge-yellow">Coming Due</span> / <span class="badge badge-red">Extended</span> / <span class="badge badge-red">Overdue Past Extension</span> / <span class="badge badge-gray">Pending Review</span></td>
+          <td><code>DUE_DATE</code> — active workflow deadline is the correct target date</td>
+        </tr>
+      </table>
+
+      <div class="callout">3 docs are unmatched to dashboard records: GOV-008, GOV-010 (record IDs not in current dashboard), and POL-003 (removed — no PWF_RECORD_ID). These retain their manually set review dates.</div>
+
+      <h3>review_status Calculation</h3>
+      <p>Computed at JSON generation time in <code>generate_docs_data.py</code>:</p>
+      <pre><code>delta = (next_review_date - today).days
+delta &lt; 0    → "overdue"
+delta &lt;= 30  → "due-soon"
+else         → "ok"
+missing      → "unknown"</code></pre>
+    </div>
+
+    <!-- ── Extensions ── -->
+    <div class="section" id="extensions">
+      <h2>4. Extension Status</h2>
+      <p>Policies with active or pending due date extensions in LogicGate are flagged with <code>extension_status</code> in their frontmatter. The source field is <code>EXTENSION_LIFECYCLE_STATUS</code> in the Snowflake table.</p>
+
+      <table>
+        <tr><th>extension_status</th><th>LogicGate value</th><th>Badge</th><th>Meaning</th></tr>
+        <tr>
+          <td><code>approved</code></td>
+          <td>Extension Approved</td>
+          <td><span class="badge badge-purple">Ext. Approved</span></td>
+          <td>Due date extension granted; <code>extended_due_date</code> is the new deadline</td>
+        </tr>
+        <tr>
+          <td><code>in-progress</code></td>
+          <td>Extension In Progress</td>
+          <td><span class="badge badge-yellow">Ext. Pending</span></td>
+          <td>Extension request submitted, awaiting approval</td>
+        </tr>
+      </table>
+
+      <h3>Affected Documents</h3>
+      <table>
+        <tr><th>Doc ID</th><th>Title</th><th>Status</th><th>Extended Due Date</th></tr>
+        <tr><td><code>GOV-033</code></td><td>Block Inc. Compliance Training Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td><td>2026-07-27</td></tr>
+        <tr><td><code>GOV-011</code></td><td>Block, Inc. Compliance Policy on Policies</td><td><span class="badge badge-yellow">Ext. Pending</span></td><td>2026-06-26</td></tr>
+        <tr><td><code>GOV-045</code></td><td>Compliance Issue Management Oversight Framework</td><td><span class="badge badge-yellow">Ext. Pending</span></td><td>2026-11-30</td></tr>
+      </table>
+
+      <p>The <strong>Next Review</strong> column in the policy table shows the <code>extended_due_date</code> (with a tooltip) for any doc with an active extension, replacing the original <code>next_review_date</code>.</p>
+    </div>
+
+    <!-- ── Policy Library ── -->
+    <div class="section" id="library">
+      <h2>5. Policy &amp; Procedure Library</h2>
+
+      <h3>Data Source</h3>
+      <p>The table reads from <code>site/docs-data.json</code>, generated at deploy time from YAML frontmatter in <code>docs/</code>. Each row represents one unique active policy stub.</p>
+
+      <h3>Column Reference</h3>
+      <table>
+        <tr><th>Column</th><th>Source field</th><th>Notes</th></tr>
+        <tr><td>ID</td><td><code>doc_id</code></td><td>Domain-prefixed sequential ID (CP-, EE-, FC-, GOV-)</td></tr>
+        <tr><td>Title</td><td><code>title</code></td><td>Policy name from LogicGate</td></tr>
+        <tr><td>Domain</td><td><code>domain</code></td><td>One of: consumer-protection, ethics-and-employee-conduct, financial-crimes, governance</td></tr>
+        <tr><td>Tier</td><td><code>tier</code></td><td>1 = Board approval, 2 = Committee, 3 = Owner</td></tr>
+        <tr><td>Status</td><td><code>status</code></td><td>published (Active) or draft (Intake)</td></tr>
+        <tr><td>Owner</td><td><code>owner</code></td><td>Document owner from LogicGate <code>DOCUMENT_OWNER</code></td></tr>
+        <tr><td>Approval</td><td><code>approval_type</code></td><td>board / committee / owner — derived from tier + REQUIRED_BOARD_APPROVAL</td></tr>
+        <tr><td>Ver</td><td><code>version</code></td><td>Semantic version; starts at 1.0.0 on import</td></tr>
+        <tr><td>Next Review</td><td><code>next_review_date</code> or <code>extended_due_date</code></td><td>Shows extended due date when an extension is active</td></tr>
+        <tr><td>Review State</td><td><code>review_status</code></td><td>Computed pill: OK / Due soon / Overdue / Unknown</td></tr>
+      </table>
+
+      <h3>Filters</h3>
+      <ul>
+        <li><strong>Search</strong> — free-text match on doc_id, title, owner, domain</li>
+        <li><strong>Domain</strong> — populated dynamically from loaded documents</li>
+        <li><strong>Status</strong> — published / draft / in-review / retired</li>
+        <li><strong>Review State</strong> — overdue / due-soon / ok</li>
+        <li><strong>Extensions</strong> — any active / approved only / in-progress only</li>
+      </ul>
+      <p>Active filter dropdowns are highlighted with an info-blue tint. Clicking a KPI card sets the matching filter and highlights that card.</p>
+
+      <h3>Sorting</h3>
+      <p>All columns are sortable by clicking the column header. Default sort is by <code>doc_id</code> ascending. The table header row is sticky and remains visible while scrolling.</p>
+    </div>
+
+    <!-- ── Audit Log ── -->
+    <div class="section" id="audit">
+      <h2>6. Audit Log</h2>
+      <p>An immutable append-only log of every document change event, stored at <code>audit/audit-log.jsonl</code> (one JSON object per line). Collapsed by default on the dashboard.</p>
+
+      <h3>Schema</h3>
+      <pre><code>{
+  "timestamp": "2026-04-07T18:00:00Z",   // ISO 8601 UTC
+  "event":     "document_approved",       // event type
+  "doc_id":    "GOV-001",
+  "title":     "Block Inc. Compliance Management System Policy",
+  "version":   "1.0.0",
+  "actor":     "github-actions[bot]",
+  "run_url":   "https://github.com/..."   // link to CI run
+}</code></pre>
+
+      <h3>How It's Written</h3>
+      <p>The <code>audit-log.yml</code> GitHub Actions workflow triggers on every merge to <code>main</code>. It calls <code>scripts/append_audit_entry.py</code>, which compares the current commit's docs to the previous commit and appends one entry per changed document. Git tags (<code>doc/DOC-ID/vX.Y.Z</code>) are also created on each merge.</p>
+
+      <h3>Event Types</h3>
+      <table>
+        <tr><th>Event</th><th>Trigger</th></tr>
+        <tr><td><code>document_approved</code></td><td>A doc stub was added or its version/status changed</td></tr>
+        <tr><td><code>repository_initialized</code></td><td>First commit establishing the DMS</td></tr>
+      </table>
+    </div>
+
+    <!-- ── CI Workflows ── -->
+    <div class="section" id="workflows">
+      <h2>7. CI/CD Workflows</h2>
+
+      <table>
+        <tr><th>Workflow</th><th>Trigger</th><th>Purpose</th><th>Status</th></tr>
+        <tr>
+          <td><code>pages.yml</code></td>
+          <td>Push to main</td>
+          <td>Runs <code>generate_docs_data.py</code>, writes <code>build-info.json</code>, deploys to GitHub Pages</td>
+          <td><span class="badge badge-green">Active</span></td>
+        </tr>
+        <tr>
+          <td><code>validate.yml</code></td>
+          <td>Pull requests to main</td>
+          <td>Runs <code>validate_metadata.py</code> — blocks merge if any doc frontmatter is invalid</td>
+          <td><span class="badge badge-green">Active</span></td>
+        </tr>
+        <tr>
+          <td><code>audit-log.yml</code></td>
+          <td>Push to main</td>
+          <td>Appends to <code>audit-log.jsonl</code> and creates Git tags for changed docs</td>
+          <td><span class="badge badge-green">Active</span></td>
+        </tr>
+        <tr>
+          <td><code>retention-check.yml</code></td>
+          <td>Manual (workflow_dispatch)</td>
+          <td>Flags overdue/upcoming reviews; can open GitHub Issues. Schedule disabled — prototype mode, pending data integrity confirmation</td>
+          <td><span class="badge badge-yellow">Disabled</span></td>
+        </tr>
+      </table>
+
+      <div class="callout">The retention check weekly schedule (<code>0 8 * * 1</code> → 11:15 AM ET) is configured but commented out. Re-enable in <code>.github/workflows/retention-check.yml</code> once data integrity is confirmed.</div>
+    </div>
+
+  </div>
+</body>
+</html>

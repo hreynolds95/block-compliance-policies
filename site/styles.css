@@ -393,3 +393,19 @@ details[open] > .panel-header--collapsible::before {
 
 /* ── Domain chips in filter ── */
 .domain-label { text-transform: capitalize; }
+
+/* ── Section logic link button ── */
+.section-logic-btn {
+  display: inline-block;
+  font-size: 0.76rem;
+  color: var(--muted);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 6px 14px;
+  transition: color 0.15s, border-color 0.15s;
+}
+.section-logic-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
