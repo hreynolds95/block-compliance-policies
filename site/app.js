@@ -121,6 +121,7 @@ function filteredDocs() {
 
   return allDocs
     .filter(d => {
+      if (d.status === 'retired' && status !== 'retired') return false;
       if (q) {
         const metaMatch = `${d.doc_id} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q);
         const contentMatch = searchIndex?.get(d.doc_id)?.toLowerCase().includes(q) ?? false;
