@@ -2,8 +2,9 @@ name: Retention and Review Check
 
 on:
   # Schedule disabled — prototype mode, re-enable once data integrity is confirmed
+  # Runs every Monday at 11:15 AM ET (15:15 UTC), 15 min after Snowflake data refresh
   # schedule:
-  #   - cron: '0 8 * * 1'
+  #   - cron: '15 15 * * 1'
   workflow_dispatch:
 
 jobs:
