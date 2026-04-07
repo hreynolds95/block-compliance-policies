@@ -207,8 +207,43 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   ['searchInput', 'filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
-    document.getElementById(id).addEventListener('input', () => renderTable(filteredDocs()));
+    document.getElementById(id).addEventListener('input', () => {
+      setActiveKpiCard(null);
+      renderTable(filteredDocs());
+    });
+  });
+
+  document.querySelectorAll('.kpi-card[data-kpi]').forEach(card => {
+    card.addEventListener('click', () => {
+      const kpi = card.dataset.kpi;
+      const alreadyActive = card.classList.contains('kpi-card--active');
+
+      // Clear all filters first
+      document.getElementById('searchInput').value     = '';
+      document.getElementById('filterDomain').value    = '';
+      document.getElementById('filterStatus').value    = '';
+      document.getElementById('filterReview').value    = '';
+      document.getElementById('filterExtension').value = '';
+
+      if (alreadyActive) {
+        setActiveKpiCard(null);
+      } else {
+        setActiveKpiCard(kpi);
+        if (kpi === 'published')   document.getElementById('filterStatus').value = 'published';
+        if (kpi === 'overdue')     document.getElementById('filterReview').value = 'overdue';
+        if (kpi === 'due-soon')    document.getElementById('filterReview').value = 'due-soon';
+        if (kpi === 'extensions')  document.getElementById('filterExtension').value = 'approved';
+      }
+
+      renderTable(filteredDocs());
+    });
   });
 
   init();
 });
+
+function setActiveKpiCard(kpi) {
+  document.querySelectorAll('.kpi-card[data-kpi]').forEach(c => {
+    c.classList.toggle('kpi-card--active', c.dataset.kpi === kpi);
+  });
+}
