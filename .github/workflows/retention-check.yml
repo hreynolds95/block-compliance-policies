@@ -1,9 +1,9 @@
 name: Retention and Review Check
 
 on:
-  schedule:
-    # Runs every Monday at 08:00 UTC
-    - cron: '0 8 * * 1'
+  # Schedule disabled — prototype mode, re-enable once data integrity is confirmed
+  # schedule:
+  #   - cron: '0 8 * * 1'
   workflow_dispatch:
 
 jobs:
