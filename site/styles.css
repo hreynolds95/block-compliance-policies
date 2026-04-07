@@ -76,6 +76,7 @@
   --danger:       #ff6b6b;
   --success:      #a3d795;
   --warning:      #ffd966;
+  --purple:       #b87fff;
   --radius-sm:    4px;
   --radius-md:    8px;
   --radius-lg:    12px;
@@ -177,6 +178,7 @@ body {
 .kpi-value.warning { color: var(--warning); }
 .kpi-value.success { color: var(--success); }
 .kpi-value.info    { color: var(--info); }
+.kpi-value.purple  { color: var(--purple); }
 
 /* ── Panel ── */
 .panel {
