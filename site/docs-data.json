@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T19:08:37.977000+00:00",
+  "generated": "2026-04-07T19:13:45.085765+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
@@ -17,6 +17,9 @@
       "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-001-afterpay-canada-limited-canada-accessibility-policy.md"
     },
     {
@@ -34,6 +37,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-002-afterpay-canada-limited-canada-complaints-policy.md"
     },
     {
@@ -51,6 +57,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-003-afterpay-canada-limited-canada-consumer-protection-policy.md"
     },
     {
@@ -68,6 +77,9 @@
       "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-004-afterpay-canada-limited-canadas-anti-spam-legislation-casl-policy.md"
     },
     {
@@ -85,6 +97,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-005-block-inc-controlling-the-assault-of-non-solicited-pornography-marketing-act-can.md"
     },
     {
@@ -102,6 +117,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-006-block-inc-electronic-funds-transfer-act-efta-policy.md"
     },
     {
@@ -119,6 +137,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-007-block-inc-electronic-signatures-in-global-and-national-commerce-act-e-sign-polic.md"
     },
     {
@@ -136,6 +157,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-008-block-inc-equal-credit-opportunity-act-ecoa-policy.md"
     },
     {
@@ -153,6 +177,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-009-block-inc-fair-responsible-lending-policy.md"
     },
     {
@@ -170,6 +197,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-010-block-inc-fair-credit-reporting-act-fcra-policy.md"
     },
     {
@@ -187,6 +217,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-011-block-inc-fair-debt-collection-practices-act-fdcpa-policy.md"
     },
     {
@@ -204,6 +237,9 @@
       "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-012-block-inc-global-complaint-policy.md"
     },
     {
@@ -221,6 +257,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-013-block-inc-gramm-leach-bliley-act-glba-policy.md"
     },
     {
@@ -238,6 +277,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-014-block-inc-military-lending-act-mla-policy.md"
     },
     {
@@ -255,6 +297,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-015-block-inc-servicemember-civil-relief-act-scra-policy.md"
     },
     {
@@ -272,6 +317,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-016-block-inc-telephone-consumer-protection-act-tcpa-policy.md"
     },
     {
@@ -289,6 +337,9 @@
       "next_review_date": "2026-11-25",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-017-block-inc-truth-in-lending-act-tila-policy.md"
     },
     {
@@ -306,6 +357,9 @@
       "next_review_date": "2026-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-018-block-inc-unfair-deceptive-or-abusive-acts-or-practices-unfair-or-deceptive-acts.md"
     },
     {
@@ -323,6 +377,9 @@
       "next_review_date": "2025-10-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-019-cash-app-lending-identity-theft-preventionred-flags-standard.md"
     },
     {
@@ -340,6 +397,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-020-cash-app-us-customer-conduct-staff-protection-policy.md"
     },
     {
@@ -357,6 +417,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-021-cash-app-us-denylist-appeals-policy.md"
     },
     {
@@ -374,6 +437,9 @@
       "next_review_date": "2027-02-05",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-022-cash-app-us-disputes-standard.md"
     },
     {
@@ -391,6 +457,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-023-cash-app-us-elder-financial-exploitation-policy.md"
     },
     {
@@ -408,6 +477,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-024-cash-app-us-loan-loss-and-charge-off-policy-lending.md"
     },
     {
@@ -425,6 +497,9 @@
       "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-025-cash-app-us-peer-to-peer-p2p-scam-policy.md"
     },
     {
@@ -442,6 +517,9 @@
       "next_review_date": "2026-12-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-026-clearpay-uk-consumer-duty-policy.md"
     },
     {
@@ -459,6 +537,9 @@
       "next_review_date": "2027-03-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-027-clearpay-uk-senior-managers-certification-regime-conduct-policy.md"
     },
     {
@@ -476,6 +557,9 @@
       "next_review_date": "2026-12-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-028-clearpay-uk-vulnerable-customer-policy.md"
     },
     {
@@ -493,6 +577,9 @@
       "next_review_date": "2026-12-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-029-clearpay-uk-marketing-financial-promotions-policy.md"
     },
     {
@@ -510,6 +597,9 @@
       "next_review_date": "2027-03-26",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-030-clearpay-uk-vulnerable-customer-standard.md"
     },
     {
@@ -527,6 +617,9 @@
       "next_review_date": "2026-09-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-031-red-flagsidentity-theft-risk-assessment-standard.md"
     },
     {
@@ -544,6 +637,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-032-sel-consumer-protection-policy.md"
     },
     {
@@ -561,6 +657,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-033-sel-vulnerable-customer-policy.md"
     },
     {
@@ -578,6 +677,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-034-sil-consumer-protection-policy.md"
     },
     {
@@ -595,6 +697,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-035-square-au-pty-ltd-australian-financial-services-license-afsl-representatives-sta.md"
     },
     {
@@ -612,6 +717,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-036-square-au-pty-ltd-consumer-protection-policy.md"
     },
     {
@@ -629,6 +737,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-037-square-au-pty-ltd-responsible-managers-standards.md"
     },
     {
@@ -646,6 +757,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-038-square-capital-llc-commercial-telemarketing-policy.md"
     },
     {
@@ -663,6 +777,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-039-square-capital-llc-controlling-the-assault-of-non-solicited-pornography-and-mark.md"
     },
     {
@@ -680,6 +797,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-040-square-capital-llc-credit-card-privacy-policy.md"
     },
     {
@@ -697,6 +817,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-041-square-capital-llc-electronic-signature-e-sign-policy.md"
     },
     {
@@ -714,6 +837,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-042-square-capital-llc-equal-credit-opportunity-act-ecoa-policy.md"
     },
     {
@@ -731,6 +857,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-043-square-capital-llc-fair-and-accurate-credit-transactions-act-policy.md"
     },
     {
@@ -748,6 +877,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-044-square-capital-llc-red-flags-policy.md"
     },
     {
@@ -765,6 +897,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-045-square-capital-llc-servicemembers-civil-relief-act-scra-policy.md"
     },
     {
@@ -782,6 +917,9 @@
       "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-046-square-capital-llc-unfair-or-deceptive-acts-policy.md"
     },
     {
@@ -799,6 +937,9 @@
       "next_review_date": "2027-01-27",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-047-afterpay-australia-and-new-zealand-complaints-standard.md"
     },
     {
@@ -816,6 +957,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-048-afterpay-canada-limited-canada-marketing-standard.md"
     },
     {
@@ -833,6 +977,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-049-afterpay-canada-limited-french-language-standard.md"
     },
     {
@@ -850,6 +997,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-050-afterpay-us-inc-us-complaint-standard.md"
     },
     {
@@ -867,6 +1017,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-051-block-inc-global-complaint-program-standard.md"
     },
     {
@@ -884,6 +1037,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-052-cash-app-us-acquiring-chargebacks-standard.md"
     },
     {
@@ -901,6 +1057,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-053-cash-app-us-complaints-standard-cash.md"
     },
     {
@@ -918,6 +1077,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-054-cash-app-us-consumer-protection-program-standard.md"
     },
     {
@@ -935,6 +1097,9 @@
       "next_review_date": "2027-01-12",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-055-cash-app-us-fraud-risk-management-standard.md"
     },
     {
@@ -952,6 +1117,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-056-cash-app-us-lending-operations-complaints-standard.md"
     },
     {
@@ -969,6 +1137,9 @@
       "next_review_date": "2026-02-28",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-057-clearpay-uk-customer-communications-standard.md"
     },
     {
@@ -986,6 +1157,9 @@
       "next_review_date": "2026-12-17",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-058-sil-customer-communication-standard.md"
     },
     {
@@ -1003,6 +1177,9 @@
       "next_review_date": "2027-02-09",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-059-square-au-pty-ltd-hardship-support-standard.md"
     },
     {
@@ -1020,6 +1197,9 @@
       "next_review_date": "2027-02-04",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/consumer-protection/CP-060-square-au-pty-ltd-vulnerable-customers-standard.md"
     },
     {
@@ -1037,6 +1217,9 @@
       "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-001-block-inc-code-of-business-conduct-ethics.md"
     },
     {
@@ -1054,6 +1237,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-002-block-inc-global-modern-slavery-policy.md"
     },
     {
@@ -1071,6 +1257,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-003-block-inc-anti-bribery-anti-corruption-policy.md"
     },
     {
@@ -1088,6 +1277,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-004-block-inc-gifts-entertainment-policy.md"
     },
     {
@@ -1105,6 +1297,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-005-block-inc-global-conflicts-of-interest-policy.md"
     },
     {
@@ -1122,6 +1317,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-006-block-inc-speak-up-policy.md"
     },
     {
@@ -1139,6 +1337,9 @@
       "next_review_date": "2026-12-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-007-clearpay-uk-whistleblowing-policy.md"
     },
     {
@@ -1156,6 +1357,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-008-sel-conflicts-of-interest-policy.md"
     },
     {
@@ -1173,6 +1377,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-009-sel-speak-up-policy.md"
     },
     {
@@ -1190,6 +1397,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-010-sil-conduct-standards-policy.md"
     },
     {
@@ -1207,6 +1417,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-011-sil-conflicts-of-interest-policy.md"
     },
     {
@@ -1224,6 +1437,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-012-sil-fitness-probity-policy.md"
     },
     {
@@ -1241,6 +1457,9 @@
       "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-013-sil-speak-up-policy.md"
     },
     {
@@ -1258,6 +1477,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-014-square-au-pty-ltd-conflicts-of-interest-policy.md"
     },
     {
@@ -1275,6 +1497,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/ethics-and-employee-conduct/EE-015-cash-app-investing-llc-investing-communications-requirements-standard.md"
     },
     {
@@ -1292,6 +1517,9 @@
       "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-001-block-inc-anti-money-laundering-counter-terrorist-financing-aml-cft-policy.md"
     },
     {
@@ -1309,6 +1537,9 @@
       "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-002-block-inc-global-sanctions-policy.md"
     },
     {
@@ -1326,6 +1557,9 @@
       "next_review_date": "2026-12-16",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-003-afterpay-australia-pty-ltd-anti-money-laundering-and-counter-terrorism-financing.md"
     },
     {
@@ -1343,6 +1577,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-004-afterpay-australia-pty-ltd-anti-money-laundering-and-counter-terrorism-financing.md"
     },
     {
@@ -1360,6 +1597,9 @@
       "next_review_date": "2026-12-08",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-005-afterpay-canada-anti-money-laundering-and-counter-terrorism-financing-aml-ctf-st.md"
     },
     {
@@ -1377,6 +1617,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-006-afterpay-canada-australian-anti-money-laundering-counter-terrorism-financing-aml.md"
     },
     {
@@ -1394,6 +1637,9 @@
       "next_review_date": "2027-01-27",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-007-afterpay-nz-limited-anti-money-laundering-counter-terrorist-financing-amlctf-pro.md"
     },
     {
@@ -1411,6 +1657,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-008-afterpay-new-zealand-australian-anti-money-laundering-countering-financing-of-te.md"
     },
     {
@@ -1428,6 +1677,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-009-block-inc-global-sanctions-compliance-program-standard.md"
     },
     {
@@ -1445,6 +1697,9 @@
       "next_review_date": "2027-02-04",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-010-cash-app-risk-and-compliance-adverse-actions-policy.md"
     },
     {
@@ -1462,6 +1717,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-011-cash-app-uk-sel-financial-crimes-program.md"
     },
     {
@@ -1479,6 +1737,9 @@
       "next_review_date": "2027-02-19",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-012-cash-app-us-know-your-customer-kyc-policy.md"
     },
     {
@@ -1496,6 +1757,9 @@
       "next_review_date": "2027-02-27",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-013-clearpay-finance-limited-consumer-due-diligence-standard.md"
     },
     {
@@ -1513,6 +1777,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-014-clearpay-finance-limited-merchant-due-diligence-standard.md"
     },
     {
@@ -1530,6 +1797,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-015-clearpay-uk-anti-money-laundering-and-counter-terrorist-financing-aml-cft-policy.md"
     },
     {
@@ -1547,6 +1817,9 @@
       "next_review_date": "2027-03-02",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-016-clearpay-uk-payment-service-provider-due-diligence-standard.md"
     },
     {
@@ -1564,6 +1837,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-017-sel-financial-crimes-program.md"
     },
     {
@@ -1581,6 +1857,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-018-sil-financial-crimes-program.md"
     },
     {
@@ -1598,6 +1877,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-019-square-au-pty-ltd-anti-money-laundering-counter-terrorism-financing-aml-ctf-prog.md"
     },
     {
@@ -1615,6 +1897,9 @@
       "next_review_date": "2027-03-11",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-020-square-canada-inc-anti-money-laundering-counter-terrorist-financing-aml-cft-poli.md"
     },
     {
@@ -1632,6 +1917,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-021-square-capital-llc-credit-card-bank-secrecy-act-anti-money-laundering-bsa-aml-sq.md"
     },
     {
@@ -1649,6 +1937,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-022-square-kk-anti-social-forces-management-policy.md"
     },
     {
@@ -1666,6 +1957,9 @@
       "next_review_date": "2026-12-30",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-023-square-us-identity-verification-policy.md"
     },
     {
@@ -1683,6 +1977,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-024-block-inc-bank-secrecy-act-anti-money-laundering-counter-terrorist-financing-bsa.md"
     },
     {
@@ -1700,6 +1997,9 @@
       "next_review_date": "2025-11-30",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-025-block-inc-compliance-detections-program-standard.md"
     },
     {
@@ -1717,6 +2017,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-026-cash-app-global-cash-app-sanctions-compliance-standard.md"
     },
     {
@@ -1734,6 +2037,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-027-cash-app-investing-llc-anti-money-laundering-countering-the-financing-of-terrori.md"
     },
     {
@@ -1751,6 +2057,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-028-cash-app-us-bitcoin-btc-travel-rule-program.md"
     },
     {
@@ -1768,6 +2077,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-029-cash-app-us-compliance-real-time-transaction-blocking-program.md"
     },
     {
@@ -1785,6 +2097,9 @@
       "next_review_date": "2026-05-31",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-030-cash-app-us-drugs-standard.md"
     },
     {
@@ -1802,6 +2117,9 @@
       "next_review_date": "2026-12-15",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-031-cash-app-us-identity-verification-standard.md"
     },
     {
@@ -1819,6 +2137,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-032-cash-app-us-know-your-business-program-for-cash-for-business-customers.md"
     },
     {
@@ -1836,6 +2157,9 @@
       "next_review_date": "2026-12-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-033-cash-app-us-know-your-customer-kyc-standard.md"
     },
     {
@@ -1853,6 +2177,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-034-cash-app-us-unacceptable-use-monitoring-standard.md"
     },
     {
@@ -1870,6 +2197,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-035-square-au-pty-ltd-anti-money-laundering-counter-terrorist-financing-aml-ctf-risk.md"
     },
     {
@@ -1887,6 +2217,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-036-square-au-pty-ltd-employee-and-personnel-due-diligence-program.md"
     },
     {
@@ -1904,6 +2237,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-037-square-au-pty-ltd-enhanced-customer-due-diligence-program.md"
     },
     {
@@ -1921,6 +2257,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-038-square-au-pty-ltd-financial-crimes-transaction-monitoring-program.md"
     },
     {
@@ -1938,6 +2277,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-039-square-au-pty-ltd-politically-exposed-person-pep-watchlist-program.md"
     },
     {
@@ -1955,6 +2297,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-040-square-au-pty-ltd-suspicious-matter-report-program.md"
     },
     {
@@ -1972,6 +2317,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-041-square-kk-anti-money-laundering-aml-counter-terrorist-financing-ctf-financial-sa.md"
     },
     {
@@ -1989,6 +2337,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-042-square-kk-anti-social-forces-management-program.md"
     },
     {
@@ -2006,6 +2357,9 @@
       "next_review_date": "2027-01-06",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-043-square-us-know-your-customer-kyc-program.md"
     },
     {
@@ -2023,6 +2377,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/financial-crimes/FC-044-square-us-transaction-monitoring-program-standard.md"
     },
     {
@@ -2040,6 +2397,9 @@
       "next_review_date": "2026-10-29",
       "retention_years": 7,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-001-block-inc-compliance-management-system-cms-policy.md"
     },
     {
@@ -2057,6 +2417,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-002-afterpay-australia-pty-ltd-unsuitability-assessment-policy.md"
     },
     {
@@ -2074,6 +2437,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-003-afterpay-canada-ltd-incident-management-response-plan.md"
     },
     {
@@ -2091,6 +2457,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-004-afterpay-canada-ltd-afterpay-third-party-risk-management-tprm-policy.md"
     },
     {
@@ -2108,6 +2477,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-005-afterpay-canada-and-square-canada-record-retention-policy.md"
     },
     {
@@ -2125,6 +2497,9 @@
       "next_review_date": "2026-12-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-006-afterpay-fit-and-proper-policy.md"
     },
     {
@@ -2142,6 +2517,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-007-afterpay-us-inc-third-party-risk-management-tprm-standard.md"
     },
     {
@@ -2159,6 +2537,9 @@
       "next_review_date": "2026-04-16",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-008-block-academy-system-administration-standard-block-inc.md"
     },
     {
@@ -2176,6 +2557,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-009-block-inc-custody-liquidity-management-policy.md"
     },
     {
@@ -2193,6 +2577,9 @@
       "next_review_date": "2026-03-31",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-010-block-inc-escalation-framework-for-non-completion-of-compliance-training-externa.md"
     },
     {
@@ -2210,6 +2597,9 @@
       "next_review_date": "2027-02-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": "in-progress",
+      "extended_due_date": "2026-06-26",
+      "extension_reason": null,
       "file": "docs/governance/GOV-011-block-inc-compliance-policy-on-policies.md"
     },
     {
@@ -2227,6 +2617,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-012-block-inc-model-governance-policy.md"
     },
     {
@@ -2244,6 +2637,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-013-cash-app-us-business-activity-monitoring-bam-policy.md"
     },
     {
@@ -2261,6 +2657,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-014-sel-electronic-money-directive-emd-policy.md"
     },
     {
@@ -2278,6 +2677,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-015-sel-outsourcing-policy.md"
     },
     {
@@ -2295,6 +2697,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-016-sil-outsourcing-policy.md"
     },
     {
@@ -2312,6 +2717,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-017-square-au-pty-ltd-breach-reporting-policy.md"
     },
     {
@@ -2329,6 +2737,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-018-square-au-pty-ltd-complaints-policy.md"
     },
     {
@@ -2346,6 +2757,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-019-square-au-pty-ltd-compliance-management-policy-cms-policy.md"
     },
     {
@@ -2363,6 +2777,9 @@
       "next_review_date": "2026-12-18",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-020-square-au-pty-ltd-third-party-risk-management-tprm-policy.md"
     },
     {
@@ -2380,6 +2797,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-021-square-canada-third-party-risk-management-tprm-policy.md"
     },
     {
@@ -2397,6 +2817,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-022-square-capital-llc-compliance-management-policy.md"
     },
     {
@@ -2414,6 +2837,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-023-square-kk-compliance-management-system-policy.md"
     },
     {
@@ -2431,6 +2857,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 5,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-024-square-kk-outsourcing-management-policy.md"
     },
     {
@@ -2448,6 +2877,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-025-afterpay-us-inc-regulatory-change-management-standard.md"
     },
     {
@@ -2465,6 +2897,9 @@
       "next_review_date": "2026-05-01",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-026-block-compliance-university-standard.md"
     },
     {
@@ -2482,6 +2917,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-027-block-inc-activation-customer-risk-rating-program.md"
     },
     {
@@ -2499,6 +2937,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-028-block-inc-anti-money-laundering-aml-counter-terrorist-financing-cft-sanctions-pr.md"
     },
     {
@@ -2516,6 +2957,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-029-block-inc-anti-money-laundering-aml-countering-the-financing-of-terrorism-cft-sa.md"
     },
     {
@@ -2533,6 +2977,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-030-block-inc-block-compliance-risk-and-control-standard.md"
     },
     {
@@ -2550,6 +2997,9 @@
       "next_review_date": "2026-03-31",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-031-block-inc-compliance-audit-exam-independent-assessment-management-program.md"
     },
     {
@@ -2567,6 +3017,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-032-block-inc-compliance-committee-forum-oversight-standard.md"
     },
     {
@@ -2584,6 +3037,9 @@
       "next_review_date": "2026-04-01",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": "approved",
+      "extended_due_date": "2026-07-27",
+      "extension_reason": "Requesting an extension to allow time to reflect updates from ongoing settlements work due at the end of May.",
       "file": "docs/governance/GOV-033-block-inc-compliance-training-program-standard.md"
     },
     {
@@ -2601,6 +3057,9 @@
       "next_review_date": "2026-04-01",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-034-block-inc-escalation-framework-for-non-completion-of-compliance-training-employe.md"
     },
     {
@@ -2618,6 +3077,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-035-block-inc-global-compliance-monitoring-testing-program.md"
     },
     {
@@ -2635,6 +3097,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-036-block-inc-global-geographic-risk-ratings-methodology-program.md"
     },
     {
@@ -2652,6 +3117,9 @@
       "next_review_date": "2027-01-29",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-037-block-inc-regulatory-change-management.md"
     },
     {
@@ -2669,6 +3137,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-038-block-inc-service-level-agreement-and-backlog-management-program.md"
     },
     {
@@ -2686,6 +3157,9 @@
       "next_review_date": "2031-01-31",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-039-block-inc-governance-quality-assurance-standard.md"
     },
     {
@@ -2703,6 +3177,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-040-cash-app-us-cash-app-continuous-customer-risk-rating-program.md"
     },
     {
@@ -2720,6 +3197,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-041-cash-app-us-transaction-monitoring-modeling-program.md"
     },
     {
@@ -2737,6 +3217,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-042-clearpay-fitness-and-propriety-standard.md"
     },
     {
@@ -2754,6 +3237,9 @@
       "next_review_date": "2027-03-25",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-043-clearpay-uk-training-and-competence-standard.md"
     },
     {
@@ -2771,6 +3257,9 @@
       "next_review_date": "2027-05-30",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-044-compliance-incident-management-reporting-standard.md"
     },
     {
@@ -2788,6 +3277,9 @@
       "next_review_date": "2026-05-30",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": "in-progress",
+      "extended_due_date": "2026-11-30",
+      "extension_reason": null,
       "file": "docs/governance/GOV-045-compliance-issue-management-oversight-framework.md"
     },
     {
@@ -2805,6 +3297,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-046-sil-regulatory-compliance-monitoring-program.md"
     },
     {
@@ -2822,6 +3317,9 @@
       "next_review_date": "2027-01-21",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-047-square-au-pty-ltd-regulatory-change-management-program.md"
     },
     {
@@ -2839,6 +3337,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-048-square-canada-incident-response-plan.md"
     },
     {
@@ -2856,6 +3357,9 @@
       "next_review_date": "2026-10-23",
       "retention_years": 3,
       "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
       "file": "docs/governance/GOV-049-square-us-continuous-customer-risk-rating-program.md"
     }
   ]

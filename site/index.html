@@ -37,6 +37,10 @@
         <span class="kpi-label">Due Within 30d</span>
         <span class="kpi-value warning" id="kpiDueSoon">—</span>
       </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Active Extensions</span>
+        <span class="kpi-value warning" id="kpiExtensions">—</span>
+      </div>
     </div>
 
     <!-- Document library -->
@@ -64,6 +68,11 @@
           <option value="overdue">Overdue</option>
           <option value="due-soon">Due soon</option>
           <option value="ok">OK</option>
+        </select>
+        <select class="filter-select" id="filterExtension">
+          <option value="">All extensions</option>
+          <option value="approved">Extension approved</option>
+          <option value="in-progress">Extension in progress</option>
         </select>
         <span class="result-count" id="resultCount"></span>
       </div>

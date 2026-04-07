@@ -92,6 +92,7 @@ body {
 .hero-logo {
   height: 28px;
   width: auto;
+  filter: invert(1);
 }
 .hero-meta {
   font-size: 13px;
@@ -265,6 +266,10 @@ select.filter-select:focus { border-color: var(--info); }
 .pill-overdue::before  { background: var(--danger);  }
 .pill-unknown  { background: rgba(135,135,135,.1);  color: var(--muted);   }
 .pill-unknown::before  { background: var(--muted);   }
+.pill-extension-approved   { background: rgba(138,43,226,.12); color: #b87fff; }
+.pill-extension-approved::before   { background: #b87fff; }
+.pill-extension-in-progress { background: rgba(255,165,0,.1); color: #ffb347; }
+.pill-extension-in-progress::before { background: #ffb347; }
 
 /* ── Collapsible panel header ── */
 .panel-header--collapsible {

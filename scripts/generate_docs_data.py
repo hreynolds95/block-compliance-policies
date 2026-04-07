@@ -82,6 +82,9 @@ def main():
                 "next_review_date": serialize(meta.get("next_review_date")),
                 "retention_years": meta.get("retention_years"),
                 "review_status": review_status,
+                "extension_status": meta.get("extension_status"),
+                "extended_due_date": serialize(meta.get("extended_due_date")),
+                "extension_reason": meta.get("extension_reason"),
                 "file": path,
             })
 

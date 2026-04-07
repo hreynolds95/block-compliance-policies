@@ -43,10 +43,11 @@ async function init() {
 // ── KPIs ────────────────────────────────────────────────────────────────────
 
 function renderKPIs(docs) {
-  document.getElementById('kpiTotal').textContent     = docs.length;
-  document.getElementById('kpiPublished').textContent = docs.filter(d => d.status === 'published').length;
-  document.getElementById('kpiOverdue').textContent   = docs.filter(d => d.review_status === 'overdue').length;
-  document.getElementById('kpiDueSoon').textContent   = docs.filter(d => d.review_status === 'due-soon').length;
+  document.getElementById('kpiTotal').textContent      = docs.length;
+  document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
+  document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue').length;
+  document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
+  document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
 }
 
 // ── Domain filter ────────────────────────────────────────────────────────────
@@ -65,10 +66,11 @@ function populateDomainFilter(docs) {
 // ── Table rendering ──────────────────────────────────────────────────────────
 
 function filteredDocs() {
-  const q      = document.getElementById('searchInput').value.toLowerCase();
-  const domain = document.getElementById('filterDomain').value;
-  const status = document.getElementById('filterStatus').value;
-  const review = document.getElementById('filterReview').value;
+  const q         = document.getElementById('searchInput').value.toLowerCase();
+  const domain    = document.getElementById('filterDomain').value;
+  const status    = document.getElementById('filterStatus').value;
+  const review    = document.getElementById('filterReview').value;
+  const extension = document.getElementById('filterExtension').value;
 
   return allDocs
     .filter(d => {
@@ -76,6 +78,7 @@ function filteredDocs() {
       if (domain && d.domain !== domain) return false;
       if (status && d.status !== status) return false;
       if (review && d.review_status !== review) return false;
+      if (extension && d.extension_status !== extension) return false;
       return true;
     })
     .sort((a, b) => {
@@ -110,8 +113,8 @@ function renderTable(docs) {
       <td><span class="doc-owner">${esc(d.owner)}</span></td>
       <td><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></td>
       <td>${esc(d.version)}</td>
-      <td>${esc(d.next_review_date ?? '—')}</td>
-      <td>${reviewPill(d.review_status)}</td>
+      <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
+      <td>${reviewPill(d.review_status)}${extensionPill(d.extension_status)}</td>
     </tr>
   `).join('');
 }
@@ -164,6 +167,16 @@ function reviewPill(status) {
   return `<span class="review-pill ${cls}">${label}</span>`;
 }
 
+function extensionPill(status) {
+  if (!status) return '';
+  const map = {
+    'approved':    ['pill-extension-approved',    'Ext. Approved'],
+    'in-progress': ['pill-extension-in-progress', 'Ext. Pending'],
+  };
+  const [cls, label] = map[status] ?? ['pill-unknown', status];
+  return ` <span class="review-pill ${cls}">${label}</span>`;
+}
+
 function eventLabel(event, title, ver) {
   const t = esc(title || '');
   const v = esc(ver || '');
@@ -193,7 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  ['searchInput', 'filterDomain', 'filterStatus', 'filterReview'].forEach(id => {
+  ['searchInput', 'filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => renderTable(filteredDocs()));
   });
 

@@ -14,6 +14,8 @@ effective_date: ""
 next_review_date: "2026-05-30"
 retention_years: 3
 logicgate_record_id: "ix0UwX5d"
+extension_status: "in-progress"
+extended_due_date: "2026-11-30"
 ---
 
 ## Compliance Issue Management Oversight Framework
