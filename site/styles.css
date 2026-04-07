@@ -64,11 +64,14 @@
 :root {
   --bg:           #22252a;
   --bg-secondary: #2c2f35;
+  --bg-tertiary:  #474e57;
   --card:         #32353b;
   --line:         #3f434b;
   --ink:          #ffffff;
   --muted:        #878787;
   --accent:       #e3e6ea;
+  --accent-2:     #cbd1d6;
+  --accent-3:     #a7b0b9;
   --info:         #7cacff;
   --danger:       #ff6b6b;
   --success:      #a3d795;
@@ -76,7 +79,9 @@
   --radius-sm:    4px;
   --radius-md:    8px;
   --radius-lg:    12px;
+  --shadow-sm:    0 1px 2px 0 rgba(0,0,0,.2);
   --shadow-md:    0 4px 6px -1px rgba(0,0,0,.3), 0 2px 4px -2px rgba(0,0,0,.2);
+  --shadow-lg:    0 10px 15px -3px rgba(0,0,0,.3), 0 4px 6px -4px rgba(0,0,0,.2);
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -145,7 +150,7 @@ body {
   background: var(--card);
   border-radius: var(--radius-lg);
   padding: 20px 24px;
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-sm);
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -170,7 +175,7 @@ body {
   background: var(--card);
   border-radius: var(--radius-lg);
   padding: 24px;
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-lg);
 }
 .panel-header {
   display: flex;
@@ -183,6 +188,7 @@ body {
 .panel-header h2 {
   font-size: 0.95rem;
   font-weight: 600;
+  color: var(--accent-2);
 }
 .panel-subtitle {
   font-size: 0.76rem;
@@ -212,7 +218,7 @@ body {
   transition: border-color 0.15s;
 }
 .search-input:focus { border-color: var(--info); }
-.search-input::placeholder { color: var(--muted); }
+.search-input::placeholder { color: var(--accent-3); }
 
 select.filter-select {
   background: var(--bg);
@@ -246,10 +252,12 @@ select.filter-select--active {
   border-collapse: collapse;
   font-size: 0.82rem;
 }
+.doc-table thead { background: var(--bg-tertiary); }
 .doc-table th {
   text-align: left;
   font-size: 0.7rem;
   font-weight: 500;
+  color: var(--accent-2);
   letter-spacing: .07em;
   text-transform: uppercase;
   color: var(--muted);
@@ -272,8 +280,8 @@ select.filter-select--active {
 .doc-table tr:hover td { background: rgba(255,255,255,.03); }
 
 .doc-id    { font-weight: 600; font-size: 0.76rem; color: var(--info); white-space: nowrap; }
-.doc-title { font-weight: 500; }
-.doc-owner { color: var(--muted); font-size: 0.76rem; }
+.doc-title { font-weight: 500; color: var(--accent-2); }
+.doc-owner { color: var(--accent-3); font-size: 0.76rem; }
 
 /* ── Badges ── */
 .badge {
@@ -359,7 +367,7 @@ details[open] > .panel-header--collapsible::before {
 .audit-entry:last-child { border-bottom: none; }
 .audit-ts   { color: var(--muted); font-size: 0.7rem; white-space: nowrap; }
 .audit-id   { color: var(--info); font-weight: 600; }
-.audit-desc { color: var(--accent); }
+.audit-desc { color: var(--accent-2); }
 .audit-actor { color: var(--muted); white-space: nowrap; }
 @media (max-width: 700px) {
   .audit-entry { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; }
