@@ -4,6 +4,27 @@ let allDocs = [];
 let sortCol = 'doc_id';
 let sortAsc = true;
 
+// ── Full-text search index (lazy-loaded on first search focus) ───────────────
+
+let searchIndex = null;       // Map<doc_id, content string> once loaded
+let searchIndexState = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
+
+function ensureSearchIndex() {
+  if (searchIndexState !== 'idle') return;
+  searchIndexState = 'loading';
+  fetch('./search-index.json')
+    .then(r => r.ok ? r.json() : Promise.reject('not ok'))
+    .then(data => {
+      searchIndex = new Map(Object.entries(data.documents || {}));
+      searchIndexState = 'ready';
+      // Re-render if user already typed something while index was loading
+      if (document.getElementById('searchInput').value.trim()) {
+        renderTable(filteredDocs());
+      }
+    })
+    .catch(() => { searchIndexState = 'failed'; });
+}
+
 // ── Bootstrap ───────────────────────────────────────────────────────────────
 
 async function init() {
@@ -104,7 +125,11 @@ function filteredDocs() {
 
   return allDocs
     .filter(d => {
-      if (q && !`${d.doc_id} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q)) return false;
+      if (q) {
+        const metaMatch = `${d.doc_id} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q);
+        const contentMatch = searchIndex?.get(d.doc_id)?.toLowerCase().includes(q) ?? false;
+        if (!metaMatch && !contentMatch) return false;
+      }
       if (domain && d.domain !== domain) return false;
       if (status === 'not-published' && d.status === 'published') return false;
       else if (status && status !== 'not-published' && d.status !== status) return false;
@@ -268,6 +293,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  document.getElementById('searchInput').addEventListener('focus', ensureSearchIndex, { once: true });
+
   ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       setActiveKpiCard(null);
@@ -318,6 +345,14 @@ document.addEventListener('DOMContentLoaded', () => {
     setActiveKpiCard(null);
     updateFilterHighlights();
     renderTable(filteredDocs());
+  });
+
+  // '/' focuses search (unless already typing in an input)
+  document.addEventListener('keydown', e => {
+    if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'SELECT') {
+      e.preventDefault();
+      document.getElementById('searchInput').focus();
+    }
   });
 
   // Mark default sort column
