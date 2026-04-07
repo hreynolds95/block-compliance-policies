@@ -245,6 +245,27 @@ select.filter-select:focus { border-color: var(--info); }
 .pill-unknown  { background: rgba(135,135,135,.1);  color: var(--muted);   }
 .pill-unknown::before  { background: var(--muted);   }
 
+/* ── Collapsible panel header ── */
+.panel-header--collapsible {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.panel-header--collapsible::-webkit-details-marker { display: none; }
+.panel-header--collapsible::before {
+  content: '▶';
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 6px;
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+details[open] > .panel-header--collapsible::before {
+  transform: rotate(90deg);
+}
+
 /* ── Audit log ── */
 .audit-list {
   display: flex;
