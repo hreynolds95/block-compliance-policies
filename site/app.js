@@ -320,6 +320,13 @@ document.addEventListener('DOMContentLoaded', () => {
     renderTable(filteredDocs());
   });
 
+  // Mark default sort column
+  const defaultTh = document.querySelector(`#docTable th[data-col="${sortCol}"]`);
+  if (defaultTh) {
+    defaultTh.classList.add('sorted');
+    defaultTh.querySelector('.sort-arrow').textContent = '↑';
+  }
+
   init();
 });
 
