@@ -56,6 +56,11 @@ def main():
 
             # Compute review status
             next_review = meta.get("next_review_date")
+            if isinstance(next_review, str):
+                try:
+                    next_review = date.fromisoformat(next_review)
+                except ValueError:
+                    next_review = None
             if isinstance(next_review, date):
                 delta = (next_review - today).days
                 if delta < 0:
