@@ -78,7 +78,8 @@ function filteredDocs() {
       if (domain && d.domain !== domain) return false;
       if (status && d.status !== status) return false;
       if (review && d.review_status !== review) return false;
-      if (extension && d.extension_status !== extension) return false;
+      if (extension === 'active' && !d.extension_status) return false;
+      if (extension && extension !== 'active' && d.extension_status !== extension) return false;
       return true;
     })
     .sort((a, b) => {
@@ -232,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (kpi === 'published')   document.getElementById('filterStatus').value = 'published';
         if (kpi === 'overdue')     document.getElementById('filterReview').value = 'overdue';
         if (kpi === 'due-soon')    document.getElementById('filterReview').value = 'due-soon';
-        if (kpi === 'extensions')  document.getElementById('filterExtension').value = 'approved';
+        if (kpi === 'extensions')  document.getElementById('filterExtension').value = 'active';
       }
 
       renderTable(filteredDocs());
