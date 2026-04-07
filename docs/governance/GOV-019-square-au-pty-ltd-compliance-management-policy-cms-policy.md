@@ -11,7 +11,7 @@ owner: "Lance Howard"
 approval_type: committee
 reviewers: []
 effective_date: "2026-01-28"
-next_review_date: "2025-12-18"
+next_review_date: "2026-12-18"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1TyXjOWnPbnwJHFK6KBP9dGZ_j__DzypJ/view?usp=drive_link"
 logicgate_record_id: "jZwOGngN"

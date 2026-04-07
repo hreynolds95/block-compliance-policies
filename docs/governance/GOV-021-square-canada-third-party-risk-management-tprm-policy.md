@@ -11,7 +11,7 @@ owner: "Safiya Adenekan"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-23"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/14NrjvfkYCG-beaqD6EliZ6aIShQp5s2d/view"
 logicgate_record_id: "pSeCYKgL"

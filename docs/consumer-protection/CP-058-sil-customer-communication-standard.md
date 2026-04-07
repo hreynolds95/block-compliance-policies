@@ -11,7 +11,7 @@ owner: "Pauline O'Brien"
 approval_type: owner
 reviewers: []
 effective_date: "2025-12-17"
-next_review_date: "2026-01-30"
+next_review_date: "2026-12-17"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/188znMXPS8ILbgnmuLLHWRmeJAwHucSFT/view?usp=drive_link"
 logicgate_record_id: "X8fk2wsr"

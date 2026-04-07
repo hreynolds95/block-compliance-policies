@@ -11,7 +11,7 @@ owner: "Ashley Adkins"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-23"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/16j8N05YW7ENhnzm087DYYyVY_qXLGG-0/view?usp=sharing"
 logicgate_record_id: "Rjv2KDcf"

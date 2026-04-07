@@ -11,7 +11,7 @@ owner: "Faisal Sohail"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-23"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1HUd0JQvTK9cmirS9Qhk7C0p6_XYrCD63/view?usp=sharing"
 logicgate_record_id: "MGVJ6Kbv"

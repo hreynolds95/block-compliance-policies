@@ -11,7 +11,7 @@ owner: "Matt Latham"
 approval_type: board
 reviewers: []
 effective_date: "2025-10-29"
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-29"
 retention_years: 7
 published_pdf: "https://drive.google.com/file/d/1jSeUEIbQudlH9sqNBL-KMkUv8la3ExYu/view?usp=sharing"
 logicgate_record_id: "PJwtBSQo"

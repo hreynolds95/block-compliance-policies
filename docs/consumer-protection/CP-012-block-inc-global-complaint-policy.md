@@ -11,7 +11,7 @@ owner: "Briana Peterkin"
 approval_type: committee
 reviewers: []
 effective_date: "2026-03-03"
-next_review_date: "2026-06-30"
+next_review_date: "2027-02-19"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1BaYDvMNRXkaDeDXGrg9LmAz8-C-Y6t8X/view?usp=sharing"
 logicgate_record_id: "t4meZQdU"

@@ -11,7 +11,7 @@ owner: "Ken Triemstra"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-23"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/16p6Ctudvx_gihdD0pMtl2HJidrp4kU2E/view"
 logicgate_record_id: "p4uTTXNX"

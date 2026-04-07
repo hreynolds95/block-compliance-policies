@@ -11,7 +11,7 @@ owner: "Unassigned"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2025-10-23"
+next_review_date: "2026-10-23"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1xBhaaKiDDInmgG7RawEQb6lUfG_ONN7a/view?usp=sharing"
 logicgate_record_id: "VLjsfUBz"

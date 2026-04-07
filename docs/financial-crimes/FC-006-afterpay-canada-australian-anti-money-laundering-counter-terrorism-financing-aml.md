@@ -11,7 +11,7 @@ owner: "Pascalle Castagne"
 approval_type: committee
 reviewers: []
 effective_date: "2026-03-31"
-next_review_date: "2026-03-31"
+next_review_date: "2026-10-23"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1jE_FgwFatRlHOpv7nz__WRhP4sryK7RX/view?usp=sharing"
 logicgate_record_id: "31J5jxXm"

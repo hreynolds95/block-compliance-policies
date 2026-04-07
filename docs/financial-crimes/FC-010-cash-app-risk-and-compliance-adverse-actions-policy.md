@@ -11,7 +11,7 @@ owner: "Kellan Fay"
 approval_type: committee
 reviewers: []
 effective_date: "2026-02-04"
-next_review_date: "2026-10-03"
+next_review_date: "2027-02-04"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1_8W12nC-1E8uwM9AjefINhXcBilAmX40/view?usp=sharing"
 logicgate_record_id: "kpcKVY9r"
