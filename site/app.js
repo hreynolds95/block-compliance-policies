@@ -92,7 +92,8 @@ function filteredDocs() {
     .filter(d => {
       if (q && !`${d.doc_id} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q)) return false;
       if (domain && d.domain !== domain) return false;
-      if (status && d.status !== status) return false;
+      if (status === 'not-published' && d.status === 'published') return false;
+      else if (status && status !== 'not-published' && d.status !== status) return false;
       if (review && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
@@ -249,7 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } else {
         setActiveKpiCard(kpi);
         if (kpi === 'published')  document.getElementById('filterStatus').value = 'published';
-        if (kpi === 'intake')     document.getElementById('filterStatus').value = 'draft';
+        if (kpi === 'intake')     document.getElementById('filterStatus').value = 'not-published';
         if (kpi === 'overdue')    document.getElementById('filterReview').value = 'overdue';
         if (kpi === 'due-soon')   document.getElementById('filterReview').value = 'due-soon';
         if (kpi === 'extensions') document.getElementById('filterExtension').value = 'active';
