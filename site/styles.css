@@ -201,7 +201,7 @@ body {
 .search-input {
   flex: 1;
   min-width: 200px;
-  background: var(--bg-secondary);
+  background: var(--bg);
   border: 1px solid var(--line);
   border-radius: var(--radius-md);
   color: var(--ink);
@@ -209,12 +209,13 @@ body {
   font-size: 0.82rem;
   padding: 8px 12px;
   outline: none;
+  transition: border-color 0.15s;
 }
 .search-input:focus { border-color: var(--info); }
 .search-input::placeholder { color: var(--muted); }
 
 select.filter-select {
-  background: var(--bg-secondary);
+  background: var(--bg);
   border: 1px solid var(--line);
   border-radius: var(--radius-md);
   color: var(--ink);
@@ -223,8 +224,15 @@ select.filter-select {
   padding: 8px 10px;
   outline: none;
   cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
 }
+select.filter-select:hover { border-color: var(--accent); }
 select.filter-select:focus { border-color: var(--info); }
+select.filter-select--active {
+  border-color: var(--info);
+  background: color-mix(in srgb, var(--info) 8%, var(--bg));
+  color: var(--ink);
+}
 
 .result-count {
   font-size: 0.76rem;

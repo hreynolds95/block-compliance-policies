@@ -212,6 +212,8 @@ document.addEventListener('DOMContentLoaded', () => {
   ['searchInput', 'filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       setActiveKpiCard(null);
+      updateFilterHighlights();
+      updateFilterHighlights();
       renderTable(filteredDocs());
     });
   });
@@ -239,12 +241,20 @@ document.addEventListener('DOMContentLoaded', () => {
         if (kpi === 'extensions') document.getElementById('filterExtension').value = 'active';
       }
 
+      updateFilterHighlights();
       renderTable(filteredDocs());
     });
   });
 
   init();
 });
+
+function updateFilterHighlights() {
+  ['filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
+    const el = document.getElementById(id);
+    el.classList.toggle('filter-select--active', el.value !== '');
+  });
+}
 
 function setActiveKpiCard(kpi) {
   document.querySelectorAll('.kpi-card[data-kpi]').forEach(c => {
