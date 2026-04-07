@@ -85,6 +85,7 @@ function filteredDocs() {
   const q         = document.getElementById('searchInput').value.toLowerCase();
   const domain    = document.getElementById('filterDomain').value;
   const status    = document.getElementById('filterStatus').value;
+  const tier      = document.getElementById('filterTier').value;
   const review    = document.getElementById('filterReview').value;
   const extension = document.getElementById('filterExtension').value;
 
@@ -94,6 +95,7 @@ function filteredDocs() {
       if (domain && d.domain !== domain) return false;
       if (status === 'not-published' && d.status === 'published') return false;
       else if (status && status !== 'not-published' && d.status !== status) return false;
+      if (tier && String(d.tier) !== tier) return false;
       if (review && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
@@ -224,7 +226,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  ['searchInput', 'filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
+  ['searchInput', 'filterDomain', 'filterStatus', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       setActiveKpiCard(null);
       updateFilterHighlights();
@@ -242,6 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('searchInput').value     = '';
       document.getElementById('filterDomain').value    = '';
       document.getElementById('filterStatus').value    = '';
+      document.getElementById('filterTier').value      = '';
       document.getElementById('filterReview').value    = '';
       document.getElementById('filterExtension').value = '';
 
@@ -265,7 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function updateFilterHighlights() {
-  ['filterDomain', 'filterStatus', 'filterReview', 'filterExtension'].forEach(id => {
+  ['filterDomain', 'filterStatus', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     const el = document.getElementById(id);
     el.classList.toggle('filter-select--active', el.value !== '');
   });
