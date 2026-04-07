@@ -1,5 +1,15 @@
 /* Block Brand Theme (Dark) — matches compliance-dashboard */
 
+/* ── Page footer ── */
+.page-footer {
+  position: fixed;
+  bottom: 14px;
+  right: 20px;
+  font-size: 11px;
+  color: var(--muted);
+  z-index: 100;
+}
+
 /* ── Data source badge (top-right) ── */
 .data-source-badge {
   position: fixed;
