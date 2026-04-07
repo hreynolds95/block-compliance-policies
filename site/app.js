@@ -17,8 +17,9 @@ async function init() {
     allDocs = data.documents || [];
     const active = allDocs.filter(d => d.status === 'published').length;
     const intake = allDocs.filter(d => d.status !== 'published').length;
+    document.getElementById('heroKpiValue').textContent = active;
     document.getElementById('heroMeta').innerHTML =
-      `<span>${active} active</span> &middot; <span>${intake} in intake</span>`;
+      `<span>${intake}</span> document${intake !== 1 ? 's' : ''} in intake`;
     const badge = document.getElementById('dataSourceBadge');
     if (badge) {
       const refreshed = data.generated
