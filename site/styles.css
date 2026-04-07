@@ -283,7 +283,7 @@ select.filter-select--active {
   border-collapse: collapse;
   font-size: 0.82rem;
 }
-.doc-table thead { background: var(--bg-tertiary); }
+.doc-table thead { background: var(--bg-tertiary); position: sticky; top: 0; z-index: 10; }
 .doc-table th {
   text-align: left;
   font-size: 0.7rem;
