@@ -279,14 +279,32 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  document.getElementById('clearFilters').addEventListener('click', () => {
+    document.getElementById('searchInput').value     = '';
+    document.getElementById('filterDomain').value    = '';
+    document.getElementById('filterStatus').value    = '';
+    document.getElementById('filterBusiness').value  = '';
+    document.getElementById('filterTier').value      = '';
+    document.getElementById('filterReview').value    = '';
+    document.getElementById('filterExtension').value = '';
+    setActiveKpiCard(null);
+    updateFilterHighlights();
+    renderTable(filteredDocs());
+  });
+
   init();
 });
 
 function updateFilterHighlights() {
-  ['filterDomain', 'filterStatus', 'filterBusiness', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
+  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterTier', 'filterReview', 'filterExtension'];
+  let anyActive = document.getElementById('searchInput').value !== '';
+  filterIds.forEach(id => {
     const el = document.getElementById(id);
-    el.classList.toggle('filter-select--active', el.value !== '');
+    const active = el.value !== '';
+    el.classList.toggle('filter-select--active', active);
+    if (active) anyActive = true;
   });
+  document.getElementById('clearFilters').style.display = anyActive ? '' : 'none';
 }
 
 function setActiveKpiCard(kpi) {
