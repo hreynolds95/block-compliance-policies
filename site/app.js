@@ -7,9 +7,10 @@ let sortAsc = true;
 // ── Bootstrap ───────────────────────────────────────────────────────────────
 
 async function init() {
-  const [docsRes, auditRes] = await Promise.allSettled([
+  const [docsRes, auditRes, buildRes] = await Promise.allSettled([
     fetch('./docs-data.json'),
     fetch('./audit-log.jsonl'),
+    fetch('./build-info.json'),
   ]);
 
   if (docsRes.status === 'fulfilled' && docsRes.value.ok) {
@@ -31,6 +32,19 @@ async function init() {
     renderTable(allDocs);
   } else {
     document.getElementById('heroMeta').textContent = 'Could not load document data.';
+  }
+
+  if (buildRes.status === 'fulfilled' && buildRes.value.ok) {
+    const build = await buildRes.value.json();
+    const el = document.getElementById('lastDeployed');
+    if (el && build.committed_at) {
+      const ts = new Date(build.committed_at).toLocaleString('en-US', {
+        month: 'short', day: 'numeric', year: 'numeric',
+        hour: 'numeric', minute: '2-digit',
+        timeZoneName: 'short', timeZone: 'America/New_York',
+      });
+      el.textContent = `last updated ${ts}`;
+    }
   }
 
   if (auditRes.status === 'fulfilled' && auditRes.value.ok) {

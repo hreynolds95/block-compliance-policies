@@ -38,6 +38,10 @@ jobs:
       - name: Copy audit log into site
         run: cp audit/audit-log.jsonl site/audit-log.jsonl
 
+      - name: Write build-info.json
+        run: |
+          echo "{\"committed_at\": \"$(git log -1 --format=%cI)\", \"sha\": \"$(git log -1 --format=%h)\"}" > site/build-info.json
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
