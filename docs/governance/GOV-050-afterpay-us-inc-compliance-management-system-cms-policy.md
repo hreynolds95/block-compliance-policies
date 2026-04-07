@@ -2,7 +2,7 @@
 doc_id: GOV-050
 title: "Afterpay US, Inc. Compliance Management System (CMS) Policy"
 version: 1.0.0
-status: published
+status: retired
 tier: 1
 domain: governance
 legal_entity: "Afterpay US Services"
