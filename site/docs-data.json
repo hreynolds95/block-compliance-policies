@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T19:13:45.085765+00:00",
+  "generated": "2026-04-07T22:41:27.446535+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
@@ -3361,6 +3361,26 @@
       "extended_due_date": null,
       "extension_reason": null,
       "file": "docs/governance/GOV-049-square-us-continuous-customer-risk-rating-program.md"
+    },
+    {
+      "doc_id": "GOV-050",
+      "title": "Afterpay US, Inc. Compliance Management System (CMS) Policy",
+      "version": "1.0.0",
+      "status": "retired",
+      "tier": 1,
+      "domain": "governance",
+      "legal_entity": "Afterpay US Services",
+      "business": "Afterpay",
+      "owner": "Corey Chamberlain",
+      "approval_type": "board",
+      "effective_date": "",
+      "next_review_date": "2026-10-23",
+      "retention_years": 7,
+      "review_status": "unknown",
+      "extension_status": null,
+      "extended_due_date": null,
+      "extension_reason": null,
+      "file": "docs/governance/GOV-050-afterpay-us-inc-compliance-management-system-cms-policy.md"
     }
   ]
 }

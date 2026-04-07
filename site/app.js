@@ -66,7 +66,7 @@ async function init() {
 
 function renderKPIs(docs) {
   document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
-  document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status !== 'published').length;
+  document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
   document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue').length;
   document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
   document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
@@ -127,7 +127,7 @@ function filteredDocs() {
         if (!metaMatch && !contentMatch) return false;
       }
       if (domain && d.domain !== domain) return false;
-      if (status === 'not-published' && d.status === 'published') return false;
+      if (status === 'not-published' && !(d.status === 'draft' || d.status === 'in-review')) return false;
       else if (status && status !== 'not-published' && d.status !== status) return false;
       if (business && d.business !== business) return false;
       if (entity && d.legal_entity !== entity) return false;
