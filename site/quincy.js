@@ -155,17 +155,13 @@
         let pos = 0, count = 0;
         while ((pos = lower.indexOf(term, pos)) !== -1 && count < 5) { score++; count++; pos++; }
       }
-      if (score > 0) {
-        const firstHit = lower.indexOf(terms[0]);
-        const start    = Math.max(0, firstHit - 200);
-        const excerpt  = content.slice(start, start + 1500).trim();
-        scored.push({ docId, score, excerpt });
-      }
+      if (score > 0) scored.push({ docId, score, content });
     }
 
     scored.sort((a, b) => b.score - a.score);
-    const top        = scored.slice(0, 8);
-    const additional = scored.slice(8).map(d => d.docId);
+    // Top 4: send full indexed text (up to 10k chars each) for complete section coverage
+    const top        = scored.slice(0, 4).map(d => ({ docId: d.docId, excerpt: d.content }));
+    const additional = scored.slice(4).map(d => d.docId);
     return { top, additional };
   }
 
@@ -196,7 +192,7 @@
       const extra    = additional.length
         ? `\nAdditional policies also matched (full text not shown, use metadata from your system prompt to describe them): ${additional.join(', ')}`
         : '';
-      userContent = `${text}\n\n---\nPolicy content (top ${top.length} matches by relevance):\n${excerpts}${extra}`;
+      userContent = `${text}\n\n---\nFull policy content for top ${top.length} matches (complete indexed text, not excerpts):\n${excerpts}${extra}`;
     }
 
     chatHistory.push({ role: 'user', content: userContent });
@@ -402,7 +398,7 @@ RESPONSE GUIDELINES:
 - review_status "overdue" = past next_review_date; "due-soon" = within 30 days; "ok" = on track
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
-- For each question, all 156 published policies are searched by keyword. The top 8 matches by relevance have their full text excerpts appended to the user's message; any further matches are listed by doc ID only
+- For each question, all 156 published policies are searched by keyword. The top 4 matches by relevance have their complete indexed text (up to 10,000 chars each, covering the full policy content) appended to the user's message; any further matches are listed by doc ID only
 - For the top 8, answer from the excerpts directly and confidently — do not hedge or say text was "partially retrieved"
 - For any additionally listed doc IDs, describe them using the metadata you have in your system prompt (title, owner, tier, status, domain)
 - If a specific detail is genuinely absent from all retrieved content, say it is not specified in the policy library
