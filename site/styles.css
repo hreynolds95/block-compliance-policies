@@ -426,6 +426,13 @@ details[open] > .panel-header--collapsible::before {
   background: color-mix(in srgb, var(--bg) 60%, var(--card));
   border-top: 1px solid var(--line);
 }
+.detail-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
 .detail-grid {
   display: flex;
   flex-wrap: wrap;

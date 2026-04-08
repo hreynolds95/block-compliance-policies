@@ -176,6 +176,7 @@ function renderTable(docs) {
     <tr class="detail-row" id="detail-${esc(d.doc_id)}" style="display:none;">
       <td colspan="9">
         <div class="detail-panel">
+          <div class="detail-title">${esc(d.title)}</div>
           <div class="detail-grid">
             <div class="detail-item"><span class="detail-label">Approval</span><span class="detail-value"><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></span></div>
             <div class="detail-item"><span class="detail-label">Business</span><span class="detail-value">${esc(d.business ?? '—')}</span></div>
