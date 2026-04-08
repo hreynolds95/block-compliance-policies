@@ -1,0 +1,198 @@
+RETIRED
+Compliance Audit, Exam &
+Independent Assessment
+Management Program
+Block
+Published September 2023
+
+Table of Contents
+Table of Contents 2
+Introduction 3
+Definitions 3
+Roles & Responsibilities 4
+Audit, Exam, and Assessment Phases 5
+Document Management 6
+Document Owner 6
+Scheduled Review & Ad-Hoc Maintenance 6
+Exceptions 6
+Related Documents 7
+Revision & Approval History 7
+Document Details 7
+Compliance Audit, Exam & Independent Assessment Management Program | Block 2
+
+Introduction
+Block, Inc. (the “Company” or “Block”) engages in several money transmission, payment activities,
+investment, and lending services which are regulated. Block maintains money transmission or
+electronic money institution licenses globally and as such is subject to examinations, audits and
+independent assessments. Block must also complete assessments for various aspects of its business
+to ensure we are meeting our legal, regulatory, and business partner requirements for compliance.
+This Audit, Exam, and Independent Assessment Management Program (the “Program”) articulates
+Block’s approach to managing and supporting various audits, regulatory examinations, and
+independent assessments. It outlines the roles and responsibilities of stakeholders to promote
+transparency, consistency, and collaboration.
+This program is established by Block, Inc. (“Block”) and is applicable globally across all Block business
+lines, subsidiaries, and jurisdictions. References to “staff” throughout this document shall refer to all
+full-time employees and fixed-term and contingent workers including interns, temps, consultants,
+vendors, third-party providers, and contractors.
+Definitions
+Regulatory examinations A regulatory examination is a review of a
+financial institution to determine whether the
+financial institution is compliant with the local
+laws and regulations.
+Block is subject to examinations of various
+aspects of its business to ensure it meets
+licensing and regulatory requirements.
+Independent assessments An Independent assessment is a review of
+Block’s Compliance program (either in whole
+or in part) as directed by contractual
+agreements or specific regulatory
+requirements. This may include bank partner
+audits, network and acquirer partner audits.
+Engagement A term used to describe a regulatory exam,
+audit, or independent assessment.
+Internal audit Internal Audit conducts an independent
+review of the compliance controls in an
+Compliance Audit, Exam & Independent Assessment Management Program | Block 3
+
+objective manner to ensure that we comply
+with the company policies, global, federal and
+state regulatory compliance regulations. At
+Block, these audits are performed by a third
+party, such as Deloitte, Ernst & Young on
+behalf of the firm.
+Roles & Responsibilities
+Compliance Core ● Communicates the importance of
+compliance regulatory examinations,
+audits, and assessments to their teams.
+● Fosters a collaborative and open
+environment where Leads are
+empowered to address questions
+directly.
+● Provides support, direction, or
+guidance to leads for questions that
+are ambiguous or unclear.
+Compliance Leads ● Provide cohesive responses for audit,
+exam, and assessment questions.
+● Ensure responses to questions posed
+by auditors and examiners are
+accurate, complete and submitted to
+the Exam and Audit team in a timely
+manner.
+● Escalate responses that require review
+by Compliance core.
+● Develop comprehensive management
+action plans (MAPs)/ Corrective Actions
+that address the root cause of issues
+and mitigate risks to acceptable levels.
+EXAM Team ● Provides support for and facilitates
+regulatory-driven audits, exams, and
+assessments (excluding contractual
+obligations).
+● Facilitates interactions and
+communications with auditors and
+examiners.
+● Engages Compliance Leads for audit,
+exam, and assessment requests and
+questions.
+● Reviews and provides responses to
+draft observations by auditor/examiner.
+● Works with auditors/examiners to
+finalize reports.
+Compliance Audit, Exam & Independent Assessment Management Program | Block 4
+
+● Provides guidance to the Compliance
+partner audit management team for
+managing the partner audits.
+Compliance Partner Risk Team ● Provides support for and facilitates
+partner audits.
+● Facilitates interactions and
+communications with vendors or
+partners conducting the
+audit/assessment.
+● Engages Compliance Leads for
+requests and questions.
+● Reviews and provides responses to
+draft observations by vendors/
+partners.
+● Works with vendors/partners to finalize
+reports.
+● Follows the guidelines provided by the
+EXAM team in order to manage the
+audit.
+Exam and Regulatory Response Managers ● Liaises with EXAM team on regulatory
+responses and requests from
+regulators and regulatory agencies as
+the point of contact for Compliance.
+GPG Lead ● Provides oversight of compliance
+audits, examinations, and assessments
+(and as needed for partner audits)
+Internal Audit ● Block’s third line of defense that
+conducts an independent review of
+Compliance controls in an objective
+manner to ensure that Block complies
+with company policies, global, federal
+and state compliance regulations.
+Audit, Exam, and Assessment Phases
+Compliance audits, regulatory exams, and assessments consist of the following phases:
+● Initiation Phase - Block receives notification of an upcoming engagement. This
+notification may be a notice from state examiners, requests from business partners, or as
+part of a predetermined annual audit plan (“Reviewers”). Internal Audit and Compliance
+collaborate to plan required internal audits.
+Compliance Audit, Exam & Independent Assessment Management Program | Block 5
+
+● Planning Phase - This phase includes creating a timeline for each legal entity in scope for
+the engagement, setting up the working environment, and identifying appropriate
+stakeholders and directly responsible individuals (DRIs). This also includes preparation for
+kickoff meetings, walkthroughs, preparing DRIs for meetings, and creation of necessary
+presentations.
+○ Interaction Model and Communication - The respective engagement
+management team is responsible for sending formal communications to relevant
+stakeholders for the scope, applicability, and roles and responsibilities for each
+engagement. This includes engaging an appropriate Counsel Legal team to
+ensure legal support for each of the jurisdictions and products in scope for the
+engagement. The respective audit management team ensures clear
+communication throughout the engagement. This ensures all stakeholders and
+DRIs are aware and informed of any requests or follow-up questions.
+● On-site Phase - This phase includes managing, responding to, and escalating requests
+and follow-up questions. It also includes coordinating any meeting requests. The
+respective audit management team serves as the main point of contact for all requests
+during the engagement.
+● Post-Engagement Phase - This phase includes working with the reviewers in completing
+the final report with management response and tracking and managing the issues or
+observations and CAPs/ MAPs to completion (link for MAP guidance). This also includes
+providing regular reporting to management, committees, or boards, as appropriate.
+Document Management
+Document Owner
+This document is owned by the EXAM team lead or their designee.
+Scheduled Review & Ad-Hoc Maintenance
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordance with the Compliance Document Approval Matrix.
+Compliance Audit, Exam & Independent Assessment Management Program | Block 6
+
+Exceptions
+Exceptions to the requirements, strategies, or procedures established by this document must be
+pre-approved by the EXAM team lead or their designee. Staff members may submit exception
+requests for review at go/policyhelp.
+Related Documents
+Related Procedure Optional EXAM Team Department Procedure
+Revision & Approval History
+Approver Title Type Description Date
+Sydney Nam Revised Immaterial Change … Updated Sep 26, 2023
+template.
+Danielle Frank… EXAM Initial Approval Previous Sep 26, 2023
+Team version of the
+Lead Program were
+archived, no
+material
+changes made
+to update this
+version.
+Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner EXAM Team Lead
+Original Publication Date Oct 28, 2021
+Last Material Revision Date Feb 22, 2023
+Effective Date Oct 28, 2021
+Compliance Audit, Exam & Independent Assessment Management Program | Block 7

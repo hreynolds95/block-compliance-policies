@@ -1,0 +1,368 @@
+Complaints Policy
+Square | Square AU Pty Ltd
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: This Complaints Policy (“Policyˮ) outlines Square AU Pty Ltdʼs (“Square
+AUˮ) approach to managing complaints in accordance with applicable Australian legislation, Australian
+Financial Complaints Authority (“AFCAˮ) Rules and Australian Securities and Investments Commission
+(“ASICˮ) Regulatory Guides. The Chief Compliance Officer CCO is responsible for overseeing this
+Policy and ensuring compliance with all relevant legal and regulatory obligations.
+This Policy supplements Block Incʼs global Complaints Management framework by setting out specific
+requirements for managing complaints within Square AU. Where any inconsistencies arise, the
+requirements of local policies and standards take precedence.
+Square AU is committed to fair, transparent, and timely complaint handling. The regulated Internal
+Dispute Resolution (“IDRˮ) process provides customers with a fair opportunity to have their concerns
+addressed internally before escalating a complaint to AFCA.
+Scope: This Policy is established by Square, sets out its approach to managing complaints and is
+applicable to all its Employees. Square AU deals with Complaints in accordance with the procedures
+set out in this Policy.
+Definitions:
+Terminology Definition
+IDR Instrument An Internal Dispute Resolution (“IDRˮ) instrument refers to Australian
+Securities and Investments Commission (“ASICˮ) Corporations, Credit and
+Superannuation Internal Dispute Resolution) Instrument 2020/98.
+1
+
+RG 271 ASIC Regulatory Guide 271 Internal dispute resolution which outlines the
+mandated approach for AFSL holders in handling and resolving complaints.
+Complaint An expression of dissatisfaction made to or about an organisation, related to
+its products, services, staff, or the handling of a complaint, where a response
+or resolution is explicitly or implicitly expected or legally required.
+Complainant A Complainant (also referred to as a Consumer/Customer) refers to Square
+AUʼs retail client which includes a small business.
+Systemic Issue A systemic issue is a matter that affects, or has the potential to affect, more
+than one consumer.
+AFCA Australian A free and independent ombudsman service that resolves disputes between
+Financial consumers, small businesses, and financial firms in Australia. Where External
+Complaints Dispute Resolution EDR is required, complaints are referred to AFCA.
+Authority)
+Front Line Refers to any team or staff member who has direct contact with Customers
+Representatives and is able to receive a complaint. This includes Risk, Compliance, Sales,
+Account Management, Customer Success, Complaints Management,
+Application Support Engineering, Square Advanced Support, Winback, and
+all other teams and individuals where direct Customer contact happens,
+either intentionally or incidentally.
+2. Policy Requirements
+2.1 Regulatory Framework
+Square AU, as an Australian Financial Services Licence AFSL holder and a member of the Australian
+Financial Complaints Authority AFCA, is required to comply with a robust regulatory framework
+governing complaint handling. This framework ensures that all complaints are managed fairly,
+promptly, and consistently in accordance with applicable laws, regulations, and industry best practice.
+2
+
+Key components of the regulatory framework include:
+● Corporations Act 2001 Cth, particularly the obligations under section 912A relating to
+efficient, honest, and fair management of financial services.
+● ASIC Regulatory Guide 271 – Internal Dispute Resolution RG 271, providing guidance on the
+requirements and expectations for complaint handling by AFSL holders.
+● AFCA Rules and Terms of Reference, which govern external dispute resolution and outline the
+rights of complainants to escalate unresolved matters.
+Square AU is also subject to mandatory reporting obligations, including the submission of complaints
+data to ASIC on a six-monthly basis, in line with regulatory requirements. Compliance with this
+framework ensures that Square AU maintains transparency, accountability, and a customer-focused
+approach to complaint management.
+2.2 Guiding Principles
+The guiding principles of this Complaints Policy ensure that all complaints are managed in a fair,
+transparent, and accountable manner. Square AU is committed to fairness and impartiality, ensuring
+all complaints are handled objectively and without bias. The complaints process is accessible and
+visible, allowing customers to easily lodge complaints through multiple channels and receive
+appropriate support. Confidentiality is maintained at all times to protect customer information and
+privacy. Complaints are addressed with timeliness, acknowledging and resolving matters as quickly as
+possible in line with regulatory requirements. The process also emphasises systemic issue
+identification, using complaint insights to detect broader issues that may affect multiple customers.
+Finally, Square AU is dedicated to continuous improvement, regularly reviewing complaints data and
+feedback to enhance its products, services, and customer experience.
+2.3 What is a Complaint?
+Square AU considers the Australian legislative definitions and guidelines when considering whether or
+not a matter constitutes a complaint.
+AS/NZS 100022014 sets out the following definition of ‘complaintʼ: An expression] of dissatisfaction
+made to or about an organization, related to its products, services, staff or the handling of a
+complaint, where a response or resolution is explicitly or implicitly expected or legally required.
+Complaints may be received in a variety of forms e.g. in a letter, by email or by telephone and through
+posts on a social media channel / account owned or controlled by Square AU where the author is
+identifiable and contactable and where the post meets the definition of complaint.
+A complaint may also include complaints about a matter that is the subject of an existing remediation
+program or about the remediation program itself (e.g. delays, lack of communication).
+The following is an excerpt from RG 271, regarding matters not considered to be complaints:
+For avoidance of doubt, we do not consider the following to be ‘complaintsʼ:
+3
+
+(a) employment-related complaints raised by financial firm staff;
+(b) comments made about a firm where a response is not expected, such as:
+(i) feedback provided in surveys; or
+(ii) reports intended solely to bring a matter to a financial firmʼs attention—for example, that
+an automatic teller machine ATM is damaged;
+(c) hardship notices or requests to postpone enforcement proceedings, unless the customer raises
+issues that meet the definition of complaint; and
+(d) reports of unauthorised transactions under the ePayments Code and disputed transactions under a
+chargeback process.
+However, we consider that a complaint has been made if the consumer raises separate issues related
+to the transaction that meet the definition of a complaint, or expresses dissatisfaction with the
+outcome or handling of the unauthorised or disputed transaction.
+2.4 Complaints Handling Process
+Square AU ensures all complaints are managed in a timely, fair, and consistent manner in accordance
+with regulatory requirements. The below diagram is an example of how this process is handled at
+Square AU, from receipt of complaint through to resolution and closure:
+4
+
+The complaint handling process more specifically includes the following key stages:
+Acknowledgement and Recording – If a customer lodges a complaint through any channel, Square AU
+will confirm receipt of their complaint within 24 hours (or one business day), or as soon as practicable
+in the event of a delay. Where possible, acknowledgement will be provided using the same method the
+complaint was received, or by another method as agreed with the customer. The complaint is
+documented within the appropriate platform and a record of these complaints is maintained.
+Assessment and Investigation – Each complaint is promptly assigned for review and investigation.
+Relevant facts are gathered, documented, and assessed to ensure an objective and evidence-based
+outcome.
+Response – Where a complaint is not resolved within 5 days of receipt of the complaint, a written
+Internal Dispute Resolution IDR response is required. The IDR must be provided within 30 calendar
+days for financial services complaints, or within 21 calendar days where the complaint involves
+financial hardship. Where the deadline for an IDR falls on the weekend, all endeavours must still be
+made to respond within the mandated timeframe.
+Resolution – The response must clearly outline the outcome of the complaint and any remedial actions
+taken, such as a correction, refund, apology, or explanation. All endeavours must be made to resolve
+the complaint internally and as soon as possible after receipt of complaint, however IDR responses
+must also advise the complainant of their right to escalate the complaint to AFCA.
+Employees must follow internal procedures for escalating complaints that cannot be resolved at the
+frontline or that raise potential regulatory, reputational, or systemic risks. More details on internal
+escalation are contained with section 2.10 of this Policy.
+2.5 Internal Dispute Resolution Response Requirements
+Where a complaint cannot be resolved within 5 days, an IDR response is required to be provided to the
+complainant. IDR responses are also required for all complaints relating to financial hardship. Each final
+IDR response issued by Square AU must meet the requirements set out in ASIC Regulatory Guide 271 –
+Internal Dispute Resolution and the ASIC Corporations, Credit and Superannuation Internal Dispute
+Resolution) Instrument 2020/98.
+An IDR response must:
+● Provide a clear explanation of the outcome of the complaint and the reasons for the decision,
+including reference to any relevant evidence or Terms and Conditions;
+● Inform the complainant of their right to escalate the complaint to the Australian Financial
+Complaints Authority AFCA if they are dissatisfied with the outcome; and
+● Include the contact details for AFCA to facilitate escalation.
+Where the complaint is not resolved within the applicable timeframe of 30 days or 21 days for
+hardship-related complaints, Square AU must issue a written delay notification explaining the reason
+for the delay, the complainantʼs right to take the matter to AFCA, and AFCAʼs contact details.
+5
+
+2.6 External Dispute Resolution
+Square AU is a member of the Australian Financial Complaints Authority AFCA, which serves as the
+independent external dispute resolution EDR body for financial services complaints. Customers have
+the right to escalate a complaint to AFCA if they are not satisfied with the outcome of Square AUʼs IDR
+process, or if the complaint has not been resolved within the prescribed IDR timeframes.
+AFCA provides an accessible and independent forum for the resolution of disputes and can be
+contacted using the following details:
+Website: www.afca.org.au
+Phone: 1800 931 678
+Email: info@afca.org.au
+Mail: GPO Box 3, Melbourne VIC 3001
+Square AU will cooperate fully with AFCA and comply with its determinations, reinforcing our
+commitment to fair, transparent, and accountable complaint resolution.
+2.7 Vulnerable Customers
+Square AU is committed to treating all customers fairly, including those who may be considered
+vulnerable due to personal, financial, or situational circumstances, in line with our Vulnerable
+Customers Standard. Vulnerable customers may include, but are not limited to, individuals
+experiencing financial hardship, mental or physical health challenges, limited English proficiency, or
+other factors that affect their ability to access, understand, or use our products and services.
+Employees endeavour to identify potential vulnerability during interactions and take appropriate
+measures to ensure customers receive clear, accessible, and respectful support. This includes
+providing additional explanations, offering alternative communication channels, and making
+reasonable adjustments to processes to ensure equitable outcomes. Square AU is dedicated to
+ensuring appropriate support for customers experiencing vulnerability.
+2.8 Complaints Relating to Hardship
+Square AU recognises that customers may face temporary or ongoing financial hardship that affects
+their ability to meet contractual obligations. Customers experiencing hardship are encouraged to
+contact Square AU promptly, and their requests will be assessed in a fair, timely, and empathetic
+manner, in line with the Square AU Hardship Support Standard.
+The hardship process is designed to provide reasonable assistance, which may include flexible
+payment arrangements, deferrals or other tailored solutions. Hardship requests are handled
+confidentially and in accordance with applicable laws, regulations, and internal procedures. Customers
+are informed of the outcomes and any options available to them and employees are trained to ensure
+that hardship assessments are conducted consistently and without discrimination.
+6
+
+Where a complaint may arise relating to a customerʼs hardship situation, or our internal process in
+handling a hardship situation, the complaint is handled in accordance with RG 271 with additional care
+and shortened timeframes of 21 days for final IDR responses. All complaints relating to hardship are
+promptly escalated to the Complaints Management team for resolution.
+2.9 Accessibility and Support
+Square AU is committed to ensuring that its complaints and dispute resolution processes are free,
+easily accessible, and inclusive for all customers. To support this, the company provides access to
+translation services, interpreters and additional assistance for customers who may require it, including
+those identified as vulnerable.
+The process also incorporates references to available hardship or vulnerability assistance, ensuring
+that customers experiencing financial, personal, or situational challenges can engage with Square AU
+in a fair and supportive manner. This approach ensures that all customers can lodge complaints, seek
+assistance, and have their concerns addressed effectively, regardless of their circumstances.
+2.10 Systemic Issue Management
+Square AU is committed to identifying, escalating, and addressing systemic issues that may arise from
+customer complaints. A systemic issue is any matter that indicates a recurring problem, process
+failure, or potential risk of harm affecting multiple customers.
+The complaints team is responsible for monitoring and analysing complaints data to detect trends or
+patterns that may indicate potential systemic issues. Where such an issue is identified, the complaints
+team must:
+● Notify the Square AU Compliance team and relevant business or functional area for
+assessment and remediation; and
+● Escalate the matter through the appropriate Square AU Leadership and Management
+Committees for oversight and reporting.
+Remedial actions may include providing feedback to other internal teams, implementing process or
+system improvements, updating staff training, or adjusting products and services to prevent
+recurrence.
+If a systemic issue may involve a significant breach of regulatory obligations or indicate systemic
+misconduct, the matter must be escalated to the Compliance team for assessment under the Square
+AU Breach Reporting Policy, and reported to ASIC as required.
+This approach ensures that systemic issues are addressed in a timely, transparent, and coordinated
+manner—protecting customers, strengthening controls, and maintaining regulatory compliance.
+7
+
+2.11 Internal Escalation and Feedback
+In accordance with RG 271, all expressions of dissatisfaction that meet the definition of a complaint
+must be treated and managed as a complaint from the time they are received, regardless of which
+team or channel receives them. Square AU staff must make all reasonable endeavours to escalate
+complaints internally to the appropriate team to ensure they are managed by staff with the relevant
+expertise and authority. Complaints that raise complex, systemic, or higher-risk issues must be
+referred to the Complaints Management Team for oversight and coordination.
+The Complaints Management Team may also seek input or assistance from relevant internal
+stakeholders, such as Legal, Compliance, Risk, Product, or Customer Operations, to support a
+thorough and fair resolution process.
+Where a complaint relates to a specific product, service, process, or internal procedure, feedback will
+be provided to the relevant business area to promote continuous improvement and prevent recurrence.
+All escalations and feedback loops must be documented in accordance with Square AUʼs complaints
+handling and record-keeping requirements to ensure transparency, accountability, and compliance
+with RG 271.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Chief Compliance Officer Square AU (“CCO Square AUˮ):
+○ The CCO Square AU will provide assistance and support in implementing this Policy
+across the organization and shall be responsible for establishing appropriate practices
+designed to ensure that Square AUʼs operations reflect its commitment to compliance and
+that all employees are aware of that commitment and their individual responsibility.
+○ The CCO is responsible for monitoring and reporting on compliance with this Policy. The
+CCO may delegate to others the authority to adopt, develop, and implement procedures
+and reporting that support this Policy.
+● Legal Counsel:
+○ The Companyʼs Legal Counsel provides interpretative advice and counsel regarding the
+applicability and application of the requirements of this Policy to the Companyʼs business
+and operational activities.
+● Complaints Officer:
+○ The Complaints Officer is responsible for managing the complaints program within Square
+Australia. They are responsible to provide adequate resourcing and systems, management
+and tooling are in place. The Complaints Officer and their delegates (collectively the
+Square AU Complaints Management CM Team) is responsible for:
+■ reviewing Complaints and determining remedies to support resolution;
+■ reviewing systemic issues or recurring complaints highlighted by the Customer
+Success Representatives;
+8
+
+■ having overall responsibility and oversight for Square AUʼs IDR process;
+■ dealing with and ensuring a resolution of the Complaint within regulatory and internal
+timeframes;
+■ compiling and ensuring the Complaints Register is up to date;
+■ investigating any systematic issues or recurring complaints;
+■ gathering sufficient detail about the Complaint in conjunction with the Customer
+Success Representatives to ensure the Complaint is properly investigated and
+resolved to the satisfaction of the Complainant;
+■ approving all IDR Responses; and
+■ ensuring the relevant training requirements that Square AU considers appropriate or
+necessary to competently deal with Complaints.
+● Front Line Representatives:
+○ The Front Line Representatives are responsible for:
+■ capturing Complaints in accordance with the procedures and workflow of this Policy;
+■ Resolving Complaints and
+■ Supporting the Complaints Team in executing their duties.
+3.2. Regulatory Program Monitoring, Testing and Reporting
+Square AU maintains a structured and risk-based approach to monitoring and reporting on its
+regulatory programs and in accordance with the compliance Policy. Oversight is coordinated by the
+Compliance and Risk functions, with input from stakeholder teams.
+Square AU focuses on three key activities:
+● Monitoring: Monitoring activities are conducted on a risk-based schedule to confirm that key
+compliance controls are operating effectively. These activities may include but are not limited
+to dashboards, data reviews, reporting reviews, exception reporting and analysis of
+complaints or incidents. Higher-risk areas are subject to more frequent and detailed
+monitoring to ensure timely detection and remediation of issues.
+● Testing: Independent and Internal testing and thematic reviews are undertaken through
+Compliance, Risk, or Internal Audit to verify that controls are working as intended. Results are
+documented, issues are tracked and remediation actions are followed through until closed.
+● Reporting: Square AU provides risk based reporting on the performance and effectiveness of
+its compliance programs to ensure transparency, accountability, and informed
+decision-making. Reports highlight program health, key risks, control effectiveness and
+remediation progress, giving senior leaders and committees clear visibility of compliance
+outcomes and areas requiring attention. This ensures consistent oversight and supports a
+strong culture of governance across the business.
+3.3. Record Retention
+All Documents are retained according to the longer of:
+9
+
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with
+the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Global Compliant Policy | Block
+● Breach Reporting Policy | Square AU
+Review related references:
+● ASICʼs Regulatory Guide 271 Internal dispute resolution RG 271 (as at December 2022
+● The Corporations Act 2001 Cth Corporations Act)
+● ASIC Corporations, Credit and Superannuation (internal Dispute Resolution) Instrument
+2020/98 IDR Instrument)
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+10
+
+Approver Title Type Description Date
+Not applicable
+Square AU Pty Ltd Creation Approved the September 11, 2019
+Board creation of the
+document
+Not applicable
+Square AU Pty Ltd Scheduled Revi… Approved minor December 10, 2020
+Board changes to the
+document
+Not applicable
+Square AU Pty Ltd Material Chang… Approved changes December 9, 2021
+Board and updated to
+manage changes in
+regulatory guidance
+Not applicable
+Square AU Pty Ltd Immaterial Cha… Approved changes December 8, 2022
+Board and updated to
+manage changes in
+regulatory guidance
+Not applicable
+Square AU Pty Ltd Scheduled Revi… Approved changes December 13, 2023
+Board and updated to
+manage changes in
+regulatory guidance
+CCO Square AU
+Lance Howard Scheduled Revi… Approved minor November 19, 2024
+changes to the
+document and new
+template
+Not applicable
+Square AU Pty Ltd Scheduled Revi… December 11, 2024
+Board
+Regulatory Program Major update to
+Kathryn Boltuzic Manager Material Chang… policy, alignment December 18, 2025
+with processes
+11
+
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Governance
+Document Owner Chief Compliance Officer Square AU
+Approved By Square AU Board
+Document Tier Tier 2
+12

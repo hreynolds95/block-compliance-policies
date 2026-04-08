@@ -8,9 +8,11 @@
   const PROXY_URL = 'https://quincy-proxy.hmreynolds95.workers.dev/v1/messages';
   const MODEL     = 'claude-opus-4-6';
 
-  let chatHistory  = [];
-  let systemPrompt = null;
-  let isStreaming  = false;
+  let chatHistory   = [];
+  let systemPrompt  = null;
+  let isStreaming   = false;
+  let searchIndex   = null;   // Map<doc_id, text> — loaded once on first open
+  let indexState    = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
 
   // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
@@ -104,7 +106,61 @@
     overlay.style.display = '';
     overlay.removeAttribute('aria-hidden');
     document.getElementById('qFab').classList.add('q-fab--open');
+    ensureSearchIndex();
     setTimeout(() => document.getElementById('qInput').focus(), 100);
+  }
+
+  // ── Search index ──────────────────────────────────────────────────────────────
+
+  function ensureSearchIndex() {
+    if (indexState !== 'idle') return;
+    indexState = 'loading';
+    fetch('./search-index.json')
+      .then(r => r.ok ? r.json() : Promise.reject('not ok'))
+      .then(data => {
+        searchIndex = new Map(Object.entries(data.documents || {}));
+        // Only keep docs that have actual content
+        for (const [k, v] of searchIndex) {
+          if (!v) searchIndex.delete(k);
+        }
+        indexState = 'ready';
+        console.log(`Quincy: search index loaded — ${searchIndex.size} docs with content`);
+      })
+      .catch(() => { indexState = 'failed'; });
+  }
+
+  /**
+   * Score each doc in the search index against the query.
+   * Returns up to topN docs sorted by relevance with a short excerpt.
+   */
+  function retrieveRelevantDocs(query, topN = 4) {
+    if (indexState !== 'ready' || !searchIndex) return [];
+
+    const terms = query.toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .split(/\s+/)
+      .filter(t => t.length > 2);
+    if (!terms.length) return [];
+
+    const scored = [];
+    for (const [docId, content] of searchIndex) {
+      const lower = content.toLowerCase();
+      let score = 0;
+      for (const term of terms) {
+        // Count occurrences (capped at 5 per term to avoid one-word docs dominating)
+        let pos = 0, count = 0;
+        while ((pos = lower.indexOf(term, pos)) !== -1 && count < 5) { score++; count++; pos++; }
+      }
+      if (score > 0) {
+        // Find the best excerpt: a 600-char window around the first term hit
+        const firstHit = lower.indexOf(terms[0]);
+        const start    = Math.max(0, firstHit - 100);
+        const excerpt  = content.slice(start, start + 600).trim();
+        scored.push({ docId, score, excerpt });
+      }
+    }
+
+    return scored.sort((a, b) => b.score - a.score).slice(0, topN);
   }
 
   function closePopup() {
@@ -125,7 +181,18 @@
     input.style.height = 'auto';
 
     appendMessage('user', text);
-    chatHistory.push({ role: 'user', content: text });
+
+    // Augment with retrieved policy content if available
+    const hits = retrieveRelevantDocs(text);
+    let userContent = text;
+    if (hits.length > 0) {
+      const context = hits.map(h =>
+        `[${h.docId} excerpt]\n${h.excerpt}`
+      ).join('\n\n');
+      userContent = `${text}\n\n---\nRelevant policy content retrieved from the library:\n${context}`;
+    }
+
+    chatHistory.push({ role: 'user', content: userContent });
 
     const botEl  = appendMessage('bot', '');
     const bubble = botEl.querySelector('.q-bubble');

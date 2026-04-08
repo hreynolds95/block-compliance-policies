@@ -1,0 +1,559 @@
+Compliance Committee & Forum Oversight Standard
+Block, Inc.
+Last Approved: Mar 31, 2026
+Effective Date: Mar 31, 2026
+1. Overview
+Introduction and Purpose: This Compliance Committee & Forum Oversight Standard (the
+“Standardˮ) outlines Block, Inc.ʼs (“Blockˮ or “the Companyˮ) documented approach to the
+structure and operation of Compliance governance. The purpose of this Standard is to document
+the requirements and principles governing the Compliance Committee and Forum Oversight
+Framework (the “Frameworkˮ) that was established to ensure appropriate oversight and
+accountability of the Compliance program. The Framework outlines the structure for a Compliance
+governance model that maintains clear accountability, supports effective decision-making, and
+ensures appropriate oversight.
+Scope: This Standard applies to Block, Inc., its subsidiaries, and affiliates (collectively, “Blockˮ),
+including all products, business lines, and jurisdictions. Further, this Standard applies to all formally
+governed Compliance Committees and Forums and employees participating in the governance
+bodies. An exception to this scope is Square Financial Services (“SFSˮ), Blockʼs Utah
+state-chartered Industrial Bank federally regulated by the Federal Deposit Insurance Corporation,
+which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Tracked Action Items Activities requiring execution or completion that arise and are
+agreed upon during Forum or Committee meetings. Tracked
+Action Items are documented, including a description of the
+action, the responsible party, and the expected completion
+timeframe. These items, which arise from Committee or Forum
+meetings require formal oversight, documentation, and closure
+verification through the governance process.
+Any task that does not meet this definition will not be centrally
+tracked, reported, or formally evidenced, and will instead be
+managed through standard BAU routines by the relevant
+program owners, stakeholders, and/or DRIs.
+1
+
+Terminology Definition
+Additional Observers Individuals who may attend a meeting where their participation
+is deemed relevant or necessary.
+Committee A formally constituted and authorized governance body that
+makes decisions, approves actions, addresses escalated risk
+issues, and/or provides management oversight (as documented
+in the Committee Charter).
+Committee Chair The chairperson (“Chairˮ) for a Committee meeting who, in
+accordance with the Committee Charter, is assigned ownership,
+responsibility, and accountability for the facilitation of the
+Committee meetings.
+Committee Charter A formal document that outlines and defines the Committeeʼs
+purpose, authority, composition, and responsibilities. The
+(“Charterˮ)
+Charter establishes the Committeeʼs role in supporting oversight
+of compliance with applicable laws, regulations, internal
+policies, and ethical standards. The Charter also defines
+meeting frequency, reporting requirements, and access to
+information to support effective communication, information,
+and alignment across the organization.
+Decision-Making The formal authority to approve actions, address escalated risk
+issues, and provide management oversight, which resides at
+Level 3 committees and above. Decisions, which require
+committee quorum, are documented through meeting minutes,
+and, as appropriate, reported upward to Level 2 Block Risk
+Council / ERM Issues Management) and ultimately Level 1
+Board / Audit & Risk Committee).
+For example, the Compliance Strategy and Risk Committee
+CSRC and the Compliance Management System CMS Health
+Committee are formally constituted, Chief Compliance
+Officer-chaired governance bodies with voting members,
+chartered authority, and formal meeting minutes. They receive
+consolidated reporting from Level 4 forums and may make
+decisions on matters such as policy approvals, risk alignment,
+escalated issues, and programmatic changes.
+Delegate A temporary representative who attends a Forum or Committee
+meeting on behalf of a Required Attendee when the Required
+Attendee is unable to attend. Delegates may satisfy attendance
+requirements, but voting authority cannot be delegated.
+2
+
+Terminology Definition
+Directly Responsible A single person, independent of function, who is accountable
+for decision-making and ensuring a project meets its goals.
+Individual (“DRIˮ)
+Escalations Items requiring oversight or decision-making by the
+corresponding, higher-level body.
+Forum A structured, but non-decision-making body, designed to share
+information, align stakeholders, surface and discuss issues, and
+provide input or recommendations to decision-making
+authorities where appropriate.
+Forum DRI The individual assigned ownership, responsibility, and
+accountability for leading and managing the Forum meetings to
+ensure they run effectively and achieve their intended purpose.
+Forum Purpose Statement A formal document that outlines and defines the Forumʼs
+purpose, authority, composition, and responsibilities.
+(“Purpose Statementˮ)
+Framework Documents The collective set of documents that establish and govern the
+Compliance Committee and Forum Oversight Framework,
+including this Standard, Committee Charters, Forum Purpose
+Statements, and supporting artifacts.
+Immaterial Changes Non-substantive changes to a Framework Documentʼs content
+that do not impact requirements or guidance related to goals,
+principles, processes, or directives of the Framework.
+Immaterial Changes may include, but are not limited to:
+● Updating grammar or formatting;
+● Correcting or updating naming conventions, titles, or
+position names;
+● New, modified, or removed Committee/Forum metrics
+that do not materially impact oversight or reporting
+outcomes;
+● Minor refinements to reporting inputs or outputs that do
+not materially change the scope, decision-making, or
+oversight responsibilities; and
+● Updates to attendees that do not alter quorum,
+decision-making authority, or required role
+representation, and are consistent with the applicable
+Charter or Purpose Statement.
+● Alignment changes made to ensure Committee Charters
+and Forum Purpose Statements are consistent with
+Framework requirements, provided such changes: (i) are
+3
+
+Terminology Definition
+limited to conforming language, terminology, or
+processes to match updated Framework requirements;
+(ii) do not introduce new substantive requirements or
+materially change existing obligations; and (iii) are
+applied consistently across similar governance bodies
+within the same governance level. All Framework
+alignment changes must be documented with clear
+rationale linking to specific Framework updates.
+Information-sharing The structured cross-functional or upward flow of risk data,
+metrics, and operational insights through the governance
+hierarchy. Level 4 forums are the primary information-sharing
+bodies — they are non-decision-making forums designed to
+surface, discuss, and consolidate information from sub-Level 4
+workstreams and DRIs within their defined focus areas. Forums
+evaluate risks comprehensively and report critical items,
+aggregated metrics, and recommendations upward to Level 3
+committees. This includes operational performance data,
+emerging risk trends, issue status, and program updates.
+Information sharing ensures compliance leadership has visibility
+into key risk areas without over-relying on a single governance
+body.
+Level 1 Board Level) The Companyʼs ultimate governing body responsible for
+overseeing the Company's activity.
+Level 2 Senior Management A senior leadership level that functions as an aggregation and
+review layer for the Risk and Compliance organization before
+Level)
+Board-level oversight.
+Level 3 Management Compliance oversight level consisting of formally constituted
+Committees.
+Committee Level)
+Level 4 Forum Level) The operational layer consisting of specialized Forums.
+Material Changes Substantive changes to a Framework Documentʼs requirements
+or guidance that impact, or may impact, the goals, principles,
+processes, or directives of the Framework. Material changes
+may include include, but are not limited to:
+● Creation or retirement of a Committee or Forum;
+● Modification of the governance structure or upward
+reporting lines;
+4
+
+Terminology Definition
+● Changes to a Framework Document's purpose,
+authority, scope, decision-making authority, quorum or
+attendance requirements, or reporting and escalation
+structure; and
+● Introduction of new or more restrictive requirements, or
+changes that materially impact business operations, risk
+controls, or regulatory compliance.
+Meeting Materials The presentation documents, inclusive of information as
+outlined in the relevant Forum Purpose Statement or Committee
+Charter, that is shared with attendees of a Committee or Forum
+and serve as a record of content discussed.
+Meeting Minutes The formal written record of a Committee meeting that
+documents key elements such as the date, time, attendees (and
+quorum), agenda items discussed, decisions made, as
+applicable, meeting outcomes, and Action Items.
+Members Collectively, the participants of a Forum or Committee meeting,
+including (when and as applicable) the Forum DRI, Regular
+Attendees, Required Attendees, Committee Chair, Additional
+Observers, and Delegates.
+Periodic Review The recurring reassessment of the adequacy and accuracy of
+the Forum or Committee and actions taken to make the revisions
+as necessary. Periodic reviews must occur at least annually.
+Regular Attendees Individuals who are regularly invited to join a Committee or
+Forum, but are not required to attend per the Forum Purpose
+Statement or Committee Charter. In the case of Committees
+where voting may occur, these are non-voting members.
+Required Attendees Individuals who are required by the Forum Purpose Statement
+or Committee Charter to attend a meeting. In the case of
+Committees where voting may occur, these are the voting
+members.
+5
+
+2. Compliance Committee and Forum Oversight Framework
+Requirements
+The following requirements outline the required actions or responsibilities to be taken by the
+Committee Chair, Forum DRI, or Governance Program Support (“GPSˮ), and the Members of a
+Committee or Forum to execute the Framework.
+As a matter of principle, each Committee or Forum is required to execute its responsibilities, as
+outlined in the respective Committee Charter or Forum Purpose Statement, including but not
+limited to the following:
+● Committee / Forum Membership: Committee or Forum Members will be documented in the
+Committee Charter or Forum Purpose Statement. Members are responsible for attending
+the regularly scheduled meetings in accordance with the Committee Charter and Forum
+Purpose Statements. Quorum or attendance requirements must be met for each meeting.
+● Committee / Forum Meeting Cadence: Meetings occur at the frequency outlined in the
+respective Committee Charter or Forum Purpose Statement. Detailed execution
+requirements are provided in Section 2.3 below.
+● Meeting Minutes / Action Items: Committees are required to maintain Meeting Minutes,
+inclusive of Action Items, while Forums are required to track Action Items only.
+● Committee Charter / Forum Purpose Statement Review: Reviewed at least annually and
+more frequently as needed, in the event of updates or revisions.
+● Performance Review: GPS will present to the Forum DRIs, Committee Chairs, Forum
+Members, and Committee Members an annual performance assessment of the Committee
+or Forum, as outlined in Section 3.2 “Monitoring and Reporting / Oversightˮ below.
+2.1. Threshold Requirements for Committee or Forum Formation
+To ensure alignment with Blockʼs Compliance governance standards and objectives, all Committees
+and Forums established under this Standard must adhere to the following principles and criteria
+outlined herein:
+Adherence to the Governance Structure: Forums and Committees are required to adhere to the
+levels and reporting structure defined in the Framework. For example, a group that meets the
+definition of a Forum under this Standard must be designated as Level 4 and report to the
+corresponding Level 3 Committee identified in the Forum's approved Purpose Statement.
+Any proposed new or modified meeting within the scope of this Standard must follow the
+requirements outlined in the Section 2.5 “Change Management Requirements and Processesˮ below.
+To ensure alignment with the Framework, no new Forum or Committee or material modification may
+be established without prior review and approval by GPS, who must be provided timely notification to
+provide guidance on proposed additions or modifications.
+Adherence to Key Principles: Forums and Committees are required to operate in a manner
+consistent with the Companyʼs key principles for successful Compliance governance, as outlined
+below:
+6
+
+● Right-level Accountability: Decisions are made at appropriate levels with clearly defined
+governance documents;
+● Traceability and Evidence: Governance decisions are supported by consistent
+documentation and clear evidence;
+● Transparency and Predictability: Compliance expectations and outcomes are consistent
+and communicated organization-wide;
+● Data-Driven Decisioning and Escalation: Decisions are informed by clearly defined
+metrics with clear escalation channels;
+● Resolution: Committees drive thorough discussion, outcomes, and swift risk mitigation;
+● Sustainability by Design: Governance structures drive efficient, scalable processes with
+appropriate oversight; and
+● Agility with Control: DRIs are empowered for operational decisions while maintaining
+governance oversight.
+2.2. Committee / Forum Definitions and Purpose
+The purpose of Committees is to provide oversight, recommendations, and decision-making
+authority over defined compliance areas. Key risks and topics are aggregated at the Committee level
+and reported to higher-level governance bodies. Committees operate under the roles and
+responsibilities defined in the Committee Charter. Each Committee must have:
+● A Committee Charter that defines the purpose, objective, authority, and decision-making
+power;
+● A designated Committee Chair;
+● Documented Meeting Minutes;
+● Scheduled meeting cadence; and
+● A process for providing relevant reporting to high-level bodies.
+The purpose of Forums is to share information, align stakeholders, surface and discuss issues, and
+provide input or recommendations to Committees.
+Forum scope may include, where appropriate and applicable, program-specific topics, issues,
+including self-identified issues, risks, controls, and metrics. Metrics reviewed at the Forum level are
+informed by inputs from designated stakeholders and are consolidated, aggregated, and reported to
+the relevant Committee set forth in the Purpose Statement. Forums are also empowered to escalate
+relevant or significant risks, trends, or emerging risk areas, as appropriate.
+Each Forum must have:
+● A documented Purpose Statement outlining its scope, purpose, and objective;
+● A designated Forum DRI;
+● Defined Members;
+● Scheduled meeting cadence;
+● Documented Action Items;
+● A process for providing relevant reporting to high-level bodies
+2.3. Execution of a Committee or Forum Meeting
+Execution of Committee Meetings
+7
+
+● Meeting Frequency: Committees convene at the frequency specified in their respective
+Charter. As a standard practice, Committees typically meet quarterly throughout the year.
+Asynchronous meetings may occur at the discretion of the Chair as outlined in the Charter;
+however, such instances are expected to be infrequent.
+● Reporting Requirements:
+○ Reporting Inputs: Forum DRIs support the development of higher-level Committee
+reporting inputs, which include aggregated materials, metrics, and information from
+the monthly Forum meetings. Reporting inputs include quantitative and qualitative
+inputs to support effective oversight, discussion, and accountability by
+management. Reporting inputs are provided for each meeting and included in the
+meeting materials.
+○ Reporting Outputs: Reporting outputs include (i) aggregated reporting and (ii)
+escalation of matters requiring higher-level oversight or decision-making. Reporting
+outputs are defined for each Committee within the “Committee Outputs &
+Escalationsˮ of the relevant Charter.
+● Attendance: All Members are required to adhere to the attendance obligations set forth in
+the relevant Charter. If a Required Attendee is unable to attend, a Delegate may attend on
+their behalf to ensure continuity of discussion and decision-making. Delegates may satisfy
+attendance requirements; however voting authority cannot be delegated.
+● Privilege: When seeking legal advice or discussing matters that may be subject to
+attorney-client privilege, Committee Chairs must follow attorney-client privilege protection
+measures as established by the Counsel organization, including invoking privilege sessions
+and implementing appropriate confidentiality protocols for sensitive matters such as
+remediations and regulatory look-backs.
+Execution of Forum Meetings
+● Meeting Frequency: Forums convene at the frequency specified in their respective
+Purpose Statements. As a standard practice, Forums typically hold live meetings in the first
+two months of each quarter, with asynchronous material submission in the third month in
+lieu of a live meeting, allowing the corresponding Committee meeting to serve as the
+primary governance touchpoint for that period. Additional asynchronous meetings may be
+conducted at the discretion of the Forum DRI as outlined in the Purpose Statement.
+● Reporting Requirements:
+○ Reporting Inputs: Reporting inputs, as outlined in each Forumʼs Purpose Statement,
+must include relevant metrics, information, and/or insights aligned to the Forumʼs
+scope and objective. These inputs are intended to facilitate informed discussion,
+effective challenge, and, where appropriate, awareness of material topics.
+○ Reporting Outputs: Reporting outputs include (i) aggregated reporting; and (ii)
+escalation of matters requiring higher-level oversight or decision-making. Reporting
+and escalation must be conducted in accordance with the Forumʼs Purpose
+Statement and meeting cadence.
+● Attendance: All Members are required to adhere to the attendance obligations set forth in
+the relevant Forum Purpose Statement. If a Required Attendee is unable to attend, a
+Delegate may attend on their behalf to ensure continuity of discussion.
+8
+
+● Privilege: When seeking legal advice or discussing matters that may be subject to
+attorney-client privilege, Forum DRIs must follow attorney-client privilege protection
+measures as established by the Counsel organization, including invoking privilege sessions
+and implementing appropriate confidentiality protocols for sensitive matters such as
+remediations and regulatory look-backs.
+2.4. Documentation of Meeting Outcomes
+This section describes the minimum requirements and expectations for documenting the outcomes
+of a Committee or Forum meeting. To ensure transparency, line-of-sight, accountability, auditability,
+tracking, and best practices for regulatory compliance, Committee or Forum meetings must be
+formally documented as required by the respective Committee Charter or Forum Purpose Statement.
+2.4.1 Aggregation and Escalation of Matters
+Aggregation and escalation of identified matters will be performed in accordance with the relevant
+Committee Charters and Forum Purpose Statements.
+2.4.2 Tracking and Escalation of Action Items
+All meetings will track Action Items as defined above. Action items will be documented, including a
+description of the action, the DRI assigned, and the expected completion timeframe.
+For Tracked Action Items, GPS serves as the DRI for centralized tracking and coordinating, including
+obtaining closure documentation. The assigned Action Item DRI is required to provide documentation
+and evidence of completion and for providing regular status updates at meetings, until formal
+closure.
+For Managed Tasks, the functional program owner is responsible for managing these Action Items
+within their team. Managed Tasks are not tracked centrally by GPS, and the assigned Action Item DRI
+is not required to provide evidence documentation to GPS. The functional program owner is
+responsible for documentation and managing completion through the standard operational
+processes.
+2.5. Governance Structure - Change Management Requirements and Processes
+Proposed changes to the existing governance structure, including changes to Framework
+Documents are required by this Standard to be submitted to GPS for: (i) determination of whether the
+change is Material or Immaterial, as defined in Section 1.3 “Definitionsˮ; and (ii) guidance on required
+actions depending based on the type of change. GPS, Committee Chairs, and Forum DRIs, or other
+Compliance leadership may propose changes to Framework Documents. All changes must be
+documented in the applicable documentʼs change log.
+2.5.1 Material Changes Approval Requirements
+Material Changes to Framework Documents require formal review and approval prior to
+implementation. Material Changes must be reviewed by GPS and approved by GPS, Committee
+Chair, Forum DRI, or other relevant Compliance leadership.
+2.5.2 Immaterial Changes Approval Requirements
+9
+
+Immaterial Changes may be implemented without formal approval, provided the change does not
+alter a document's core purpose, authority, scope, decision-making authority, or reporting and
+escalation structure. GPS must be notified of Immaterial Changes prior to implementation.
+2.5.3 Annual Review
+All Framework documentation must be reviewed and approved at least annually. Off-cycle changes
+are permitted provided the applicable requirements of this section are followed.
+2.6. Governance Effectiveness & Oversight
+2.6.1 Reporting on the Standard
+The Standard Owner and/or their designee periodically monitors governance activities for
+compliance and objective achievement, including providing regular updates, as applicable to
+Compliance leadership and the Committees and Forums. Reporting may cover specific information
+related to the following:
+Reporting Metric Metric Criteria
+Quorum and Committees achieve quorum for all sessions (as defined by the relevant
+Attendance Rates Charter). Required attendees for Forums achieve a majority for each
+scheduled meeting (as defined by the relevant Purpose Statement).
+Convening Rate Committees convene 100% of scheduled sessions. Forums convene at least
+90% of scheduled sessions.
+Governance Annual feedback surveys completed by the required Committee and Forum
+Effectiveness attendees have an aggregated satisfactory / effectiveness rate of 80% or
+Rating
+higher.
+Action Item 90% of Action Items are closed by the due date set by the Committee or
+Timely Closure Forum, with minimal delays or extensions; Action Items requiring extensions
+Rate
+do not exceed 2 extensions.
+Governance Governance documents (i.e., all Committee Charters and Forum Purpose
+Annual Review Statements) are reviewed and approved annually, at a minimum, by each
+Compliance
+applicable body.
+Committee 100% of Committee minutes are approved by at least two voting members
+Minute Approval and no objections / concerns raised by the meeting minute review due date.
+Timelines
+2.6.2 Committee / Forum Reporting
+As outlined in the respective Committee Charter or Forum Purpose Statement, regular updates are
+provided, as applicable, to the Block, Inc. Board and executive management.
+10
+
+3. Compliance and Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Block, Inc. Board of Directors (“Block Boardˮ):
+○ The Block Board is the Companyʼs ultimate governing body and is responsible for
+overseeing the Companyʼs activity. The Block Board oversees:
+■ management development and execution of the companyʼs strategic
+direction
+■ risk management and compliance programs, and
+■ its commitment to ethical and lawful conduct.
+○ The Audit and Risk Committee assists the Board in fulfilling its oversight
+responsibilities with respect to compliance with applicable laws and regulations,
+including with respect to the companyʼs risk and compliance programs.
+● Audit and Risk Committee (“ARCˮ):
+○ The ARC is a Level 1 governance body that operates outside the Framework and is
+responsible for assisting the Block Board in fulfilling its oversight responsibilities
+with respect to the Companyʼs compliance with applicable law and regulations,
+including with respect to the Companyʼs risk and compliance programs.
+● Block Risk Council (“BRCˮ):
+○ The BRC is a Level 2 governance body that operates outside the Framework. The
+BRC facilitates structured information sharing across Risk and Compliance
+functions, including the review of emerging themes and correlations related to
+macroeconomic and industry trends, potential organizational impacts, and risk
+mitigation activities, and relevant supporting data. In addition, the BRC supports
+Risk and Compliance preparation for the ARC, and BRC materials serve as
+foundational inputs to ARC reporting, as appropriate.
+● Block, Inc. Chief Compliance Officer (“CCOˮ):
+○ In accordance with the Block, Inc. Compliance Management System CMS Policy,
+the CCO maintains responsibility to, among other duties, develop, maintain, and
+administer the CMS based upon the directives set forth in the Companyʼs CMS,
+industry best practices, and applicable regulatory guidance.
+○ The CCO maintains independent and direct reporting authority to the ARC. When
+circumstances warrant immediate Board-level attention or when the CCO
+determines that direct reporting is necessary to maintain compliance
+independence, compliance matters may be escalated directly to ARC. This direct
+reporting path ensures that compliance maintains appropriate independence and
+that critical compliance matters receive timely Board oversight without procedural
+delays.
+○ As it pertains to this Framework, the CCO is responsible for:
+■ When applicable, exercising their decision-making authority, oversight
+authority, escalation authority, and providing Compliance guidance or
+direction;
+■ Serving as the Chair of designated Committees; and
+11
+
+■ Serving as Forum DRI of designated Forums.
+● Governance Program Support:
+○ GPS provides oversight, standardization, and operational support across this
+Framework. GPS is responsible for:
+■ Aggregation of Matters: Aggregating matters identified by Committees and
+Forums to ensure effective reporting and escalation to higher level oversight
+bodies;
+■ Calendar Management: Scheduling meetings and managing the Forum and
+Committee governance calendar;
+■ Action Item Oversight: Overseeing the documentation of Tracked Action
+Items using standardized trackers and methodology;
+■ Templates: Providing meeting material templates and Action Item trackers
+supporting the Committee Chairs and Forum DRIs;
+■ Distribution List Management: Owning and managing distribution lists and
+tracking meeting occurrence and attendance;
+■ Framework Optimization: Gathering feedback from Committees and
+Forums and, where appropriate, recommending or implementing
+enhancements to processes, tooling, or operational practices to support the
+ongoing effectiveness of the Framework;
+■ Meeting Preparation Support: Leading the coordination of meeting
+materials based on the scope outlined in Forum Purpose Statements /
+Committee Charters.
+● Committee Chairs / Forum DRIs:
+○ The Committee Chair or Forum DRI is responsible for:
+■ Meeting Preparation: Defining the meeting agenda and required discussion
+topics, and maintaining accountability for the review and quality of meeting
+materials, including ensuring appropriate subject matter expertise is
+applied;
+■ Facilitate Meetings: Conducting meetings, per the cadence set out in the
+Charter or Purpose Statement, with prepared agendas and materials;
+■ Lead and Manage Forum: Ensuring effective operation and achievement of
+Committee / Forum purpose;
+■ Oversee Membership: Approving additions, removals or modifications to
+attendees, as needed and in accordance with this Standard; and
+■ Report and Escalate: Identifying and escalating matters required higher
+level oversight or decision making in accordance with this Standard, as
+appropriate.
+● Required Attendees:
+○ Required Attendees are obligated to attend Committees / Forums as defined in the
+applicable Charter or Purpose Statement and review the materials in advance of the
+meeting. Their active participation will be consistent with the roles and
+responsibilities assigned to them, which may include voting or decision-making.
+12
+
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner (or designee) will have authority to approve exceptions and/or exemptions to
+this Standard, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and retained
+in accordance with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Standard Owner (and/or designee) will inform
+Compliance Leadership and applicable Committees, Forums, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+3.6. Implementation Date and Transition Period
+The requirements outlined in this Standard are effective by the end of the fiscal year 2026. Block and
+all applicable subsidiaries are expected to be in full compliance with requirements of this document
+no later than nine 9 months after the approval date of this document.
+13
+
+4. Questions and Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents at our internal Compliance Governance Framework page at
+go/compliancecommitteesandforums:
+● Block, Inc. Compliance Strategy and Risk Committee Charter
+● Block, Inc. CMS Health Committee Charter
+● Block, Inc. Compliance Governance Forum Purpose Statement
+● Block, Inc. Compliance Operations Forum Purpose Statement
+● Block, Inc. Financial Crimes Programs Forum Purpose Statement
+● Block, Inc. Emerging Risk Forum Purpose Statement
+● Block, Inc. Compliance Third-Party Oversights Forum Purpose Statement
+● Block, Inc. Compliance Technology Oversight Forum Purpose Statement
+5. Document Details and Revisions
+Review and Approval: This Standard will be reviewed and approved at least once per year, with
+additional reviews conducted as needed.
+Approver Title Type Description Date
+Compliance Initial Appro… New document Mar 25, 2026
+Policy
+Committee
+Michael Read Compliance Material Cha… New section on Mar 31, 2026
+Reporting & Privileged
+Governance Lead materials /
+discussions and
+Sherry Steve… Governance Material Cha… clarification to Mar 31, 2026
+Program Support reaffirm the Chief
+Lead Compliance
+Officer's
+independent and
+direct reporting
+authority to the
+Audit & Risk
+Committee of the
+Block, Inc. Board.
+14
+
+Revision and Approval History:Document Details:
+Business Block, Inc.
+Scope Global
+Compliance Domain Governance
+Standard Owner Compliance Reporting & Governance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+15

@@ -1,0 +1,254 @@
+Gramm-Leach-Bliley Act Privacy Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Gramm-Leach-Bliley Act Privacy Policy (the "Policy") outlines
+Block, Inc.'s enterprise-wide approach to protecting consumer privacy in accordance with the
+Gramm-Leach-Bliley Act ("GLBA") and its implementing regulations. This Policy establishes
+comprehensive guidelines governing Block, Inc. and its U.S. subsidiaries' collection, use, and
+sharing of consumer information while ensuring the security and confidentiality of customer data.
+Scope: This Policy applies to Block, Inc. and its subsidiaries (collectively, "Block") in the United
+States, governing all activities involving the collection, use, and sharing of nonpublic personal
+information from consumers and customers. It establishes requirements for protecting customer
+privacy across all products and services subject to GLBA requirements. The only exception is
+Square Financial Services (“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated
+by the Federal Deposit Insurance Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Affiliate Any company that controls, is controlled by, or is under common control with
+another company.
+Clear and A notice is reasonably understandable and designed to call attention to the
+Conspicuous nature and significance of the information in the notice.
+Consumer An individual who obtains or has obtained a financial product or service that
+is to be used primarily for personal, family, or household purposes.
+Customer A consumer who has a continuing relationship with Block under which Block
+provides one or more financial products or services.
+1
+
+Customer Any record containing Nonpublic Personal Information about a customer,
+Information whether in paper, electronic, or other form, that is handled or maintained by
+or on behalf of Block.
+Nonpublic Personally identifiable financial information that is not publicly available,
+Personal including: 1 information provided by the consumer to obtain a financial
+Information product or service; 2 information about a consumer resulting from any
+(“NPIˮ) transaction involving a financial product or service; or 3 information
+otherwise obtained about a consumer in connection with providing a
+financial product or service.
+Non-affiliated Any person or entity that is not an Affiliate of Block and is not a joint
+Third Party employee of Block.
+Personally Information that can be used to distinguish or trace an individual's identity,
+Identifiable either alone or when combined with other personal or identifying information
+Information that is linked or linkable to a specific individual.
+(“PIIˮ)
+2. Block, Inc. Requirements
+2.1 Policy Statement
+The Gramm-Leach-Bliley Act has four key requirements for electronic signatures to be recognized
+as valid under U.S. law: 1 the consumer's intent to sign and be bound to the transaction
+electronically, 2 the consumer's receipt of required disclosures and affirmative and ongoing
+consent to conduct business electronically in a manner that reasonably demonstrates the
+consumer can access information in the electronic form used by the parties, 3 association of the
+signature with the signer's identity, and 4 record retention. By conforming with these
+requirements Block is permitted to provide consumers with information and certain notices
+electronically.
+2.2 Consumer Notification
+Prior to obtaining the consumer's consent to electronic records and disclosures, Block must clearly
+and conspicuously inform the consumer of several key elements. This includes an explanation of
+whether the consent applies only to a particular transaction that triggered the disclosure or to
+specific categories of records that may be provided electronically or made available as part of the
+consumer relationship, such as disclosures, consents, policies, change-in-terms, and adverse
+action notices.
+The notification must address any right or option to receive disclosures in paper form, including
+the process for requesting a paper copy and whether any fee will be charged. Additionally, the
+notification must include a statement of the right to withdraw consent, the process to withdraw
+such consent, and the consequences of doing so. The consumer must be informed of the
+2
+
+procedures to update their electronic contact information and the minimum hardware/software
+requirements needed to access and retain electronic records.
+2.3 Hardware and Software Requirements
+Prior to transmitting records electronically, Block must provide consumers with a disclosure
+statement of the hardware and software requirements needed for access to and retention of
+electronic records. The disclosure must ensure that consumers have the technical means to
+receive records and disclosures electronically.
+2.4 Changes to Hardware or Software Requirements
+When changes occur to hardware or software requirements needed to access or retain electronic
+records, and these changes create a material risk that the consumer may not be able to access or
+retain subsequent electronic records, Block must notify consumers of such changes. Additionally,
+consent must be reaffirmed when there is a change to the hardware and/or software requirements.
+The notice must include the revised hardware and/or software requirements for access to and
+retention of electronic records, and a statement that the consumer may withdraw consent without
+the imposition of any fees or new conditions.
+2.5 Consumer Consent Process
+Consumer consent must be obtained in a manner that demonstrates the ability to access
+information in the electronic form that will be used. The consumer must affirmatively consent to
+receive electronic disclosures, and this consent must reasonably demonstrate their ability to
+access information in the form that will be used to provide the disclosures.
+2.6 Withdrawal of Consumer
+Consumers may withdraw their consent to receive electronic records and communications at any
+time. Withdrawal can be made using methods established in the disclosures or other supported
+methods. Upon withdrawal of consent, appropriate alternative methods of communication must be
+established.
+The withdrawal of consent to receive electronic records and communications may affect service
+access or features. No fee may be imposed to process the withdrawal of consent to receive
+electronic records and communications. Any withdrawal of consent becomes effective after a
+reasonable period for processing the request, and confirmation of the withdrawal and its effective
+date must be provided in writing.
+2.7 Invalid or Inoperable Contact Information
+When electronic contact information becomes invalid or inoperable, appropriate procedures must
+be implemented to handle such situations. This may include treating the provision of invalid
+contact information or subsequent malfunction of previously valid contact information as a
+withdrawal of consent for electronic communications to that specific contact method.
+3
+
+4.8 State Law Considerations
+While ESign provides the federal framework for electronic signatures and records, we recognize
+that state laws may impose additional or more stringent requirements. In jurisdictions where state
+regulations overlap with ESign requirements, we apply the more conservative approach to ensure
+comprehensive compliance. This includes adherence to state-specific versions of the Uniform
+Electronic Transactions Act UETA and any state-specific consumer protection provisions.
+When conflicts arise between applicable laws and these requirements, we consult with Legal
+Counsel to resolve such conflicts and adjust our practices accordingly. This ensures we maintain
+compliance while providing consistent service across our operating jurisdictions.
+3. Brand-Specific Requirements
+Block will comply with GLBA requirements, which may be detailed further in related Standards or
+Procedures. This section outlines only the distinct implementations and unique requirements
+specific to each subsidiary's lending products.
+3.1 Cash App:
+Cash App's implementation of GLBA requirements reflects its mobile-first approach to financial
+services. During the consumer onboarding process, Cash App requires electronic consent to
+various disclosures, including the Cash App ESign Consent, except for circumstances that allow
+disclosures to be provided without GLBA compliance.
+The consumer's electronic consent at onboarding must demonstrate the ability to access
+information provided by Cash App electronically. A consumer cannot proceed in the application
+process without consenting to receive information and documents electronically. Reading the
+electronic consent form on the Cash App website or application and acknowledging the ability to
+receive and download documents electronically constitutes sufficient confirmation of consent.
+For withdrawal of consent, Cash App may treat a consumer's provision of an invalid e-mail address
+or phone number, or the subsequent malfunction of a previously valid e-mail address or phone
+number, as a withdrawal of consent to receive electronic records and communications via the
+inoperative contact method.
+3.3 Afterpay:
+Afterpay maintains specific requirements for buy-now-pay-later transactions that address the
+unique aspects of installment payment relationships. Prior to obtaining consumer consent to
+electronic disclosures, Afterpay provides clear and conspicuous information about whether the
+consent applies to a particular transaction or to specific categories of records available as part of
+the customer relationship.
+4
+
+For merchant integration, Afterpay requires specific technical standards for capturing consumer
+consent during purchase. This includes implementation requirements for checkout flow integration
+and enhanced record-keeping requirements for installment payment agreements.
+When hardware and/or software requirements to receive electronic disclosures change, Afterpay
+provides notice to customers describing the new requirements. This notice contains a statement
+that the consumer has the right to revoke their consent without incurring any fees or being subject
+to any new conditions not previously disclosed.
+The above brand-specific requirements supplement the general compliance GLBA requirements
+outlined in this Policy but are only applicable to their respective brands (i.e., Cash App
+requirements apply only to Cash App operations and Afterpay requirements apply only to Afterpay
+operations).
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and and approving this Policy annually to ensure
+alignment with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Reviews and approves policy exceptions
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+5
+
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+Subsidiary Roles:
+●
+● Afterpay Board of Directors
+○ Reviews and adopts this Policy following CPC approval
+○ Oversees implementation within Afterpay
+○ Receives regular reporting on compliance with this Policy
+○ Reviews and approves material changes affecting Afterpay, as needed
+● Subsidiary Compliance Leads
+○ Implement policy requirements within their respective business units
+○ Monitor day-to-day compliance activities
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy
+6
+
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+7
+
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Consumer Protection Compliance Program Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+8

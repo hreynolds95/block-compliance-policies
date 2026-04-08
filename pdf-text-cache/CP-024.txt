@@ -1,0 +1,142 @@
+Loan Loss and Charge-Off Policy
+Cash App | US
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: As a service provider in the financial industry, it is the policy of Cash
+App US (“Cash Appˮ) to develop, implement, and maintain this Loan Loss and Charge-Off Policy
+(“Policyˮ) for its Credit Products Borrow, Pre-Purchase Financing, Retroactive Financing, and
+Afterpay Pay Monthly).
+The purpose of this Policy is to describe the terms under which Cash App will charge-off accounts
+on its servicing platforms. Blockʼs Head of Underwriting & Credit and/or their designee is
+responsible for the management of this Policy.
+Cash App conducts business in compliance with applicable laws and regulations. The purpose of
+this Policy is to document Cash Appʼs loan charge-off process in accordance with the Federal
+Financial Institutions Examination Councilʼs (“FFIECˮ) Uniform Retail Credit Classification and
+Account Management Policy, which establishes standards for the classification and treatment of
+retail credit in financial institutions.
+Scope: This Policy governs Cash Appʼs Credit Products and has been created to ensure that Cash
+App and relevant Employees are aware and comply with the expectations of the Policy.
+Definitions:
+Terminology Definition
+Account A continuing relationship established by a person with a financial institution or
+creditor to obtain a product or service for personal, family, household, or
+business purposes, including an extension of credit.
+Charge-Off A determination that an uncollected Account balance is unlikely to be
+collected. The determination to recharacterize the uncollected Account
+balance as a charge-off does not discharge the amount of the debt owed by
+the Account holder.
+1
+
+Covered An Account that is primarily for personal, family, or household purposes.
+Account
+Credit Products Covered Accounts consisting of Cash App’s lending products (Borrow,
+Pre-Purchase Financing, Retroactive Financing, and Afterpay Pay Monthly)
+unless otherwise noted.
+Customer A consumer who is contractually obligated for repayment of an Account.
+Employee Staff members, contractors, temporary workers, and executive management.
+2. Policy Requirements
+2.1. Charge-Off Guidelines
+The following are guidelines for the timing and circumstances of charged-off Credit Products:
+● Accounts originated on or after October 1, 2024 will be charged off no later than upon
+becoming 90 cumulative days delinquent from the contractual due date. Accounts
+originated before October 1, 2024 will be charged off no later than upon becoming 120
+cumulative days delinquent from the contractual due date.
+● Accounts in bankruptcy are charged off no later than 30 days from receipt of notification of
+the filing of bankruptcy, unless there is clear demonstration and document that repayment
+is likely to occur.
+● Accounts that have been disputed by customers and identified as fraudulent are charged
+off no later than 30 days of discovery or when loss is determined, whichever is shorter.
+● Accounts of deceased persons are charged off no later than 30 days from receipt of
+notification of the deceased status.
+Actual credit losses on individual Credit Products should be recorded when Cash App becomes
+aware of the loss, but in no case should the charge-off exceed the timeframes stated in this policy.
+A loss is defined as an asset, or portion thereof, that is considered uncollectible, and of such little
+value that continuance on the books is not warranted. A loss does not mean the asset has
+absolutely no recovery of salvage value; rather, it is not practical or desirable to defer writing off
+an essentially worthless asset, or portion thereof, even though partial recovery may occur in the
+future.
+When an Account is charged off, Cash App will place a note on the Account in the designated
+system of record, and Cash App will maintain an appropriate charge-off coding system to ensure a
+permanent record in its data systems.
+2
+
+2.2. Re-Age Guidelines
+Cash App does not currently re-age any Credit Products.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Head of Underwriting:
+○ The Head of Underwriting & Credit will provide assistance and support in
+implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Company operations
+reflect the Companyʼs commitment to compliance and that all employees are aware
+of that commitment and their individual responsibility.
+● Counsel:
+○ Legal counsel will provide interpretative advice and counsel regarding the
+applicability and application of the requirements of this Policy to Cash Appʼs
+business and operational activities.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+3
+
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+N/A Cash App Creation Feb 2020
+Lending
+Compliance
+Officer
+Ben Gray Cash App Chief Initial Appro… Feb 8, 2022
+Compliance
+Officer
+Sydney Nam Block Policy Immaterial C… Nov 26, 2022
+Governance
+Coordinator
+Derek Kelley Cash Lending Scheduled R… Nov 28, 2022
+Product
+Compliance
+Manager
+Corey Cham… Product Immaterial C… Jul 26, 2024
+Compliance Lead
+4
+
+Compliance Compliance Scheduled R… Annual review, March 25, 2026
+Policy Policy Committee updated
+Committee document to new
+template
+Document Details:
+Business Cash App
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+5

@@ -1,0 +1,262 @@
+Compliance Management System CMS Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Compliance Management System ("CMS") Policy ("Policy")
+outlines Square Capital, LLC's ("Square Capital" or the "Company") commitment to implementing
+and maintaining an effective CMS. The Head of Block Consumer Protection Compliance and/or
+designee is responsible for management of this Policy.
+The purpose of this Policy is to set forth the expectations of the Square Capital Board of Managers
+("SCBM") for managing and mitigating applicable regulatory compliance risk as it pertains to the
+Square Credit Card product.
+This Policy sets forth the framework within which Square Capital implements its CMS. The SCBM
+recognizes that maintaining an effective CMS is critical for mitigating the risks arising from
+violations of law and regulations and the potential for customer harm and is necessary to maintain
+a high level of public confidence in Square Capital's safe and sound operating practices.
+A critical aspect of managing and mitigating regulatory compliance risk is the development and
+maintenance of a CMS that is integrated into the overall framework for product design, delivery,
+and administration of all product and service life cycles. In general, Square Capital achieves this
+standard by ensuring a sound compliance structure is part of daily operations and that the
+Company identifies Issues and initiates appropriate and timely remediations.
+Square Capital's commitment to consumer protection is underscored by its dedication to
+accountability, transparency, and business ethics. It is Square Capital's policy to comply with all
+applicable federal state laws and regulations. Pursuant to this Policy, Square Capital will take
+prudent and reasonable steps to ensure compliance, including careful consideration of applicable
+commercial credit card laws and regulations.
+Scope: This Policy is applicable to the Square Capital Credit Card product only.
+
+Definitions:
+Terminology Definition
+Issue An Issue is defined as a deficiency gap, or weakness in the design,
+performance, or operating effectiveness.
+Staff Member An employee or external worker (e.g., contingent labor, contractors)
+hired by Square Capital who supports the operations covered by this
+Policy.
+2. Policy Requirements
+2.1 Requirements for the CMS
+The SCBM recognizes that sound compliance risk management, like other areas of operational
+management, depends on Square Capital establishing a comprehensive program of risk controls
+and reviews. Square Capital requires the CMS to be tailored to Square Capital's organizational
+needs, business strategy, operational complexity, product diversity, market circumstances,
+regulatory environment, and risk profile. Because these essential criteria are not static, the SCBM
+also requires that the CMS have a strong infrastructure while remaining dynamic in its ability to
+respond to changes. The SCBM mandates that Square Capital's CMS
+● Define roles and responsibilities for regulatory compliance activities covered by Square
+Capital's CMS;
+● Require the creation and maintenance of policies, procedures, and controls that ensure that
+Square Capital conducts business in compliance with applicable laws and regulations and
+in a manner that meets customer service goals;
+● Set forth internal supervision of Square Capital systems in order to deliver consistent and
+on-going execution of CMS standards;
+● Conduct an annual compliance risk assessment to evaluate inherent risks, controls, and the
+resulting residual risks to Square Capital in order to guide the execution of the CMS;
+● Create a monitoring and testing program, and separate independent audit requirements to
+identify operational and programmatic deficiencies;
+● Establish change management and corrective action programs;
+● Outline training requirements for all Staff, including the SCBM;
+● Distribute compliance reporting for internal and external stakeholders; and
+● Reinforce the concepts set forth in Square Capital's CMS Policy as integral to identifying
+potential violations of law and correcting internal control deficiencies;
+● Policies and programs approvals, including those by the Compliance Policy Committee,
+must be evidenced in Square Capital's meeting minutes.
+
+2.2 The Compliance Management System
+2.2.1 Board and Management Oversight and Reporting
+The Block Lending Product Compliance Team will provide quarterly compliance updates to the
+SCBM and Senior Management related to the operation of the CMS, customer complaints,
+monitoring and testing results, corrective action updates, training results, and regulatory
+findings/exams.
+2.2.2 Regulatory Change Management
+The Legal Team will maintain a regulatory change management process to first identify, monitor,
+and track relevant material regulatory changes that may impact Square Capital products, services,
+and operations. The Legal Team will conduct an applicability analysis for certain regulatory
+changes and then, where necessary, notify key compliance and product stakeholders. The Head of
+Business Product Compliance and Partnerships, or their designee, with the support of a
+cross-functional group, will develop and communicate to impacted business teams an
+implementation plan, as needed, and the impacted business teams will be responsible for
+executing on that implementation plan.
+2.2.3 Risk Assessment
+Risk assessments are a process for evaluating the compliance risk arising from: (i) Square Capital's
+operating environments; (ii) the regulatory landscape; (iii) emerging industry and regulatory trends;
+(iv) the Company's size, complexity, and product offerings; and (v) the effectiveness of internal
+controls. Risk assessments assist Square Capital in identifying additional control needs, prioritizing
+compliance resources, and adjusting the CMS to meet new and emerging risks.
+On an annual basis, the Head of Business Product Compliance and Partnerships, or their designee
+will conduct a risk assessment with the support of a cross-functional group of stakeholders across
+product, legal, and compliance.
+The risk assessments will be used to:
+● Understand the risk of specific regulatory requirements to Square Capital;
+● Inform monitoring, testing, and training plans;
+● Identify opportunities to enhance existing controls or to institute additional controls, as
+needed; and
+● Evaluate resource levels needed to manage compliance risks.
+The risk assessment framework will assign inherent risk ratings, identify mitigating controls and
+determine the resulting residual risk rating (which is derived from assessing the likelihood and
+impact of risk occurrence after considering Square Capital's control activities). Compliance will
+present the results of the annual risk assessment to the CCO, SCBM and Senior Management.
+
+The Block Global Compliance Monitoring and Testing team will conduct monitoring and testing
+as needed to verify that regulatory changes are incorporated into Square Capital's CMS program.
+2.2.4 Policies, Standards, and Procedures
+Square Capital requires that compliance-related policies, standards, and procedures be
+documented in written form, in sufficient detail to implement compliance requirements, and are
+formally approved, adopted, or recognized as outlined in the Compliance Document Approval
+Matrix. Policies, standards, and procedures are updated periodically by their respective owners,
+and are reviewed and approved as outlined in the Block, Inc. Compliance Policy on Policies
+("PoP"), as required. All policies and standards are posted in a shared location, as outlined in the
+PoP.
+The PoP establishes the document hierarchy and life cycle of compliance policies, standards, and
+procedures, as well as the roles and responsibilities for keeping Square Capital's compliance
+document inventory reliable and compliant.
+2.2.5 Monitoring and Testing
+Compliance will develop a monitoring and testing plan annually based on the size, scale, and
+complexity of the Company's operations and business offerings. The annual plan will reflect the
+risk profile of Square Capital, including relevant third-party risk, as well as compliance risk impacts
+from new products, regulatory changes, previous testing findings, management action plans and
+due dates, audit coverage areas, and any bank partner requests.
+The testing program will support adherence to regulatory compliance requirements and the
+frequency of testing for applicable regulations and each business unit will depend on Square
+Capital's risk profile. Corrective action to any noted deficiencies will be implemented efficiently
+and documented accordingly.
+Details on this process can be found in Blockʼs Global Compliance Monitoring and Testing
+Program.
+2.2.6 Change Management
+Block, Inc. has implemented procedures to review new or materially changed business practices
+(namely marketing materials and customer communications, products or features) using a
+combination of Legal and Compliance personnel, who will determine whether new or updated
+controls are required. Square Capital Staff is responsible for engaging these functions and
+escalating any such changes for review. The results of reviews will be documented and
+maintained. Business practice changes for Square Capital will also be reviewed, documented and
+maintained, following these procedures.
+2.2.7 Issue Management
+Block, Inc. maintains a documented Issue Management Program applicable to Square Capital that
+defines its standardized approach to the identification, assessment, prioritization, treatment, and
+
+reporting of Issues. A standardized approach is necessary to allow Senior Management the ability
+to make effective decisions concerning risk management.
+Square Capital will track and monitor deficiencies identified through monitoring and testing,
+complaints, audits, and regulatory exams. Square Capital will record and track the nature of the
+Issues, a description of the plan to resolve the Issues, target dates for implementation, and the
+status of resolution progress.
+2.2.8 Complaint Management
+Block, Inc. maintains a Global Complaints Policy and underlying Program applicable to Square
+Capital that includes minimum standards for the Company in relation to the identification,
+classification, treatment, and reporting of complaints. The Global Complaints Program ("GCP") is
+overseen by the CCO and business units maintain programs and procedures that align to the GCP.
+2.2.9 Vendor Management
+Block Inc. maintains a formal Third Party Risk Management ("TPRM") Policy, also applicable to
+Square Capital that reviews and approves third party vendors, identifies, measures, and monitors
+the risks associated with the use of Third Party/Vendors. The Policy outlines processes to perform
+initial due diligence and sets timeframes for ongoing review based on defined risk tiers. Third
+Party/Vendors will be subject to ongoing monitoring and review in accordance with the TPRM
+Policy.
+2.2.10 Audit
+Square Capital conducts periodic risk-based independent audits of requirements of this CMS
+Policy, including related processes, systems, and controls. The audit scope may also, as and when
+appropriate, include independent validation of remediation of closed Issues identified through the
+audit process. Results of these periodic audits, including updates on Issues validation, are reported
+to Senior Management and the SCBM on a periodic basis.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Chief Compliance Officer (“CCOˮ):
+○ The CCO will provide assistance and support in implementing this Policy across the
+organization and shall be responsible for establishing appropriate practices
+designed to ensure that Company operations reflect the Companyʼs commitment to
+compliance and that all employees are aware of that commitment and their
+individual responsibility.
+
+The CCO is responsible for monitoring and reporting on compliance with this Policy.
+The CCO delegates the responsibilities in this section to the Square Head of
+Compliance along with the authority to adopt, develop and implement procedures
+and reporting that support this Policy.
+● Square Capital Board of Managers ("SCBM"):
+○ The SCBM has ultimate responsibility for this Policy and Square's compliance
+efforts. The SCBM is also responsible for the following:
+■ Appointing a Compliance Officer with authority and accountability for the
+CMS & Compliance function;
+■ Demonstrating clear and appropriate expectations about compliance;
+■ Understanding material compliance risks to which the Company is exposed;
+and
+■ Ensuring that the compliance function has the necessary resources to
+appropriately manage compliance risk and are appropriately empowered
+within Square Capital.
+● Counsel:
+○ The Companyʼs legal counsel provides interpretative advice and counsel regarding
+the applicability and application of the requirements of this Policy to the Companyʼs
+business and operational activities.
+● Compliance Policy Committee:
+○ Reviewing this Policy and adjacent policies covered in this CMS, no less than
+annually.
+● Head of Block Consumer Protection:
+○ Owns this Policy document, reviews and approves requested exceptions.
+● Head of Business Product Compliance and Partnerships or Lending Product Compliance
+Lead as designee:
+○ Responsible for implementation of requirements to ensure compliance with this
+Policy.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives
+and will report it to the CCO and/or SCBM.
+
+3.3 Training
+Block, Inc. maintains a Compliance Training Standard & Compliance Training Calendar to detail the
+Company's compliance training strategy and ensure the SCBM and Staff Members are trained on
+applicable aspects of laws and regulations relevant to their job function. Block, Inc. additionally
+maintains a Compliance Training Calendar to outline the training modules and frequency of
+compliance training required by the audience. New Staff Members must first go through Block,
+Inc.'s new hire compliance training. Training time frames must be completed within 30 days of hire
+and annually thereafter, and the content must be commensurate with the responsibilities within the
+job function. In addition, new Staff performing work for Square Capital are required to receive
+training on Consumer Protection (e.g., UDAAP, Fair Lending, Privacy, etc.) and BSA/AML within 30
+days of being hired and then annually thereafter. The SCBM will receive annual training on this
+CMS, Consumer Protection (e.g., UDAAP, Fair Lending, Privacy), and BSA/AML. Where Staff fail to
+complete their required compliance training, People Leads, with the support of Human Resources,
+are responsible for supporting disciplinary action, where required.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Head of Block Consumer Protection Compliance or designee will have authority to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption
+does not violate applicable laws and regulations. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that the Company
+will implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to the Policy Governance Team at go/policyhelp. The Head of
+Business Product Compliance and Partnerships or Lending Product Compliance Lead as designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Capital, LLC and on a need-to-know basis.
+
+4. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually by the
+Compliance Policy Committee and on an ad hoc basis as required. The review includes
+consideration of feedback on the effectiveness of the Policy, and any Bank Partner or audit input.
+Specific to the Compliance Policy Committeeʼs review and approval, the Lending Product
+Compliance Lead is responsible for facilitating such communication.
+Approval History:
+Approver Title Type Description Date
+Laura Fragomeni Head of Square Initial Approval Initial Approval Aug. 9, 2024
+Compliance
+Amelia Childress Chief Initial Approval Initial Approval Aug. 27, 2024
+Compliance
+Officer
+Square Capital Square Capital Initial Approval Initial Approval Aug.27, 2024
+Board of Board of
+Managers Managers
+Compliance Compliance Annual Approval Updated October 3, 2025
+Policy Committee Policy Committee template and
+general
+immaterial
+updates for
+clarity
+Document Details:
+Business Square
+Scope US
+Compliance Domain Governance
+Document Owner Block Head of Consumer Protection
+Approved By Compliance Policy Committee
+Document Tier Tier 2

@@ -1,0 +1,596 @@
+How to use this guide:
+Electronic Money Directive
+EMD Individual Regime
+Policy
+Square | Squareup Europe Limited
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, inc. and on a
+need-to-know basis.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 4
+1. Introduction 7
+2. Purpose 7
+3. Scope 8
+4. Identifying EMD Individuals & Seeking FCA Approval 8
+4.1 Assessment and FCA Approval Process 8
+4.2 Identification of EMD Individuals 8
+4.3 FCA Assessment of Fitness and Propriety 9
+4.4 SEL Assessment of Fitness and Propriety 10
+4.5 Board Approval & FCA Application 11
+4.6 Temporary & Acting Roles 11
+5. Ongoing Responsibilities 11
+5.1 Ongoing Due Diligence 11
+5.2 Annual Board Confirmation 12
+5.3 Changes to Roles 12
+6. Document Management 13
+6.1 Document Owner 13
+6.2 Review and Approval 13
+7. Exceptions 13
+8. Record Retention 14
+9. Related Documentation or References 14
+10. Revision and Approval History 14
+11. Document Details 14
+Appendix 1 The F&P Standards 16
+Appendix 2 Suitability Assessment 18
+Scoring table 18
+Schedule 1 20
+Checklist (reflecting FCA ‘Our Approachʼ document; EBA Guideline 16 20
+Schedule 2 23
+Candidate Profile Template) 23
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Electronic Money An EMD individual, refers to a person responsible for the management of an
+Directive (“EMDˮ) Electronic Money Institution EMI. This includes members of the
+Individual management board, Head of Compliance or Money Laundering Reporting
+Officer (“MLROˮ), and other individuals overseeing the firm's regulated or
+registered activities. These individuals must be registered with the Financial
+Conduct Authority (“FCAˮ) to ensure they are of good repute and possess
+appropriate knowledge and experience.
+Designated A DRI is the individual responsible for ensuring the completion of an
+Responsible assigned process or task and is accountable for its execution.
+Individual (“DRIˮ)
+Good repute An EMD individual must be of a good repute, which involves:
+● Clean criminal record: No serious criminal offences related to
+property crimes or financial activities; and
+● Financial Integrity: Not previously declared bankrupt.
+Good repute also includes the absence of offences related to dishonesty,
+fraud, financial crime or violations of regulations.
+Roles and Responsibilities
+Role Responsibility
+SEL Board of Ultimately responsible for the Companyʼs compliance with the FCAʼs EMD
+Directors (“Boardˮ) Individual Regime ("EMDR"). However, from an operational perspective,
+responsibility for the day-to-day implementation of the Policy is delegated to
+certain persons in the appropriate functions.
+Human Resources In relation to prospective EMD Individuals:
+● In consultation with Compliance and Legal, identifying persons
+performing an EMD individual.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+4
+
+Confidential and Not for Distribution
+● Bringing the Fitness and Propriety F&P Standards to the attention of
+prospective EMD Individuals, and obtaining signed written agreement
+from the prospective EMD Individual in relation to their ongoing
+compliance with the F&P Standards.
+● Documenting the due diligence carried out on EMD individuals to ensure
+adherence to the F&P Standards.
+● Preparing a Statement of Suitability for presentation to the SEL Board (in
+connection with the Boardʼs approval of the appointment).
+● In consultation with Employment Counsel, ensuring that there is a letter
+of appointment in place with each EMD individual which sets out the
+terms of their appointment and the time they commit to the role they
+assume.
+In relation to ongoing checks:
+● Obtain signed written agreement from EMD Individuals, on an annual
+basis, in relation to their ongoing compliance with the F&P Standards.
+● Conduct ongoing due diligence, including refreshing checks and
+searches where deemed appropriate and prudent on an ad hoc basis,
+for each EMD Individual.
+Other:
+● Making relevant records available to the FCA upon request.
+● Maintaining a register of all EMD Individuals.
+● Maintaining a record of persons performing an EMD role in SEL.
+SEL Head of ● Arranging preparation of the EMD Individual Application Form.
+Compliance ● Making the relevant filings on the FCAʼs online system, Connect.
+● Notifying HRBP, and (where appropriate) Board, of material changes in
+the EMDR relating to EMD Individual approval processes.
+● Provide confirmations at SELʼs Q4 Board meeting that:
+○ the F&P Standards have been brought to the attention of all EMD
+Individuals
+○ SEL is satisfied on reasonable grounds that all EMD Individuals are
+compliant with the F&P Standards.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+5
+
+Confidential and Not for Distribution
+○ Where deemed appropriate and prudent, due diligence has been
+undertaken to evidence compliance of each EMD Individual with the
+F&P Standards, and that any concerns regarding the fitness and
+propriety of each person will be (or have been) be investigated and
+appropriate action will be (or have been) taken.
+Regulatory Counsel ● Providing legal advice and relevant support as required from
+time-to-time.
+EMD Individuals ● Playing an important role in ensuring that SEL operates in a compliant
+fashion.
+● Performing their roles to the standard required and in compliance with
+the relevant regulatory requirements.
+● Completing documentation relating to their fitness and propriety
+truthfully and honestly, confirming that they are aware of the FCAʼs F&P
+Standard.
+● Notifying the HRBP of any changes to their circumstances which might
+be material to their fitness and propriety.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+6
+
+Confidential and Not for Distribution
+1. Introduction
+Squareup Europe Limited (“SELˮ or referred to as “the Companyˮ) is authorised by the Financial Conduct
+Authority (“FCAˮ) as an Electronic Money Institution (“EMIˮ) pursuant to the Electronic Money Regulations
+2011 ( “EMoney Regulationsˮ).
+A condition of EMI authorisation is that SEL maintains compliance with the FCAʼs Electronic Money
+Directive Individual Regime (“EMDRˮ, or referred to as “the Regimeˮ) and that the FCA is satisfied (on an
+ongoing basis) that directors and persons responsible for the management of the Companyʼs e-money and
+payment services business (referred to by the FCA as "EMD Individuals") are of "good repute and possess
+appropriate knowledge and experience to issue electronic money and provide payment services"
+Regulation 66b of the EMoney Regulations).
+The EMDR aims to encourage a culture of staff at all levels taking personal responsibility for their actions,
+ensuring that firms and staff can clearly understand and demonstrate where responsibility lies. The fitness
+and propriety requirements imposed on firms under the EMDR are designed to ensure that persons in
+senior positions within firms are competent and capable, honest, ethical and of integrity.
+As an EMI, SEL has an obligation to notify the FCA of any "significant change" in circumstances relevant to
+the EMI's conditions for authorisation Regulation 37 of the of the EMoney Regulations), and one of the
+conditions of an EMI's authorisation relates to the reputation, knowledge, and experience of EMD
+Individuals. Any change to EMD Individuals (including the removal and appointment of directors) should
+therefore be notified to the FCA.
+2. Purpose
+This Policy sets out how SEL maintains compliance with its obligations under the EMDR relating to the
+fitness and propriety of specified individuals. This Policy also provides an explanation of the Regime and
+the relevant requirements that SEL must adhere to, in order to ensure the EMD individuals are competent
+and capable, honest, ethical, and of integrity.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+7
+
+Confidential and Not for Distribution
+3. Scope
+This Policy is applicable to persons who are regarded as EMD Individuals for SEL. This Policy aims to
+ensure that SELʼs EMD Individuals comply with applicable fitness and propriety requirements.
+4. Identifying EMD Individuals & Seeking FCA Approval
+4.1 Assessment and FCA Approval Process
+The following table lists the DRI roles within Block, Inc. responsible for the process steps related to
+assessing EMD individuals and corresponding with the FCA for the EMD approvals.
+Step Further Information DRI
+Step 1. Identifying if the role is an EMD individual Section 4.2 HRBP (in consultation if
+and following standard HR processes. required - SEL Head of
+Compliance and Regulatory
+Counsel)
+Step 2. Interview & Identify preferred candidate Talent Partner
+Step 3. Make offer to preferred candidate Talent Partner
+Step 4. Due diligence Section 4.4 HR Compliance
+Step 5. Board approval of proposed appointment Section 4.5 HR
+Appendix 2 SEL Head of Compliance
+Step 6. FCA Application Section 4.5 SEL Head of Compliance
+Step 7. FCA Approval / lapse of 28 days post Section 4.5 SEL Head of Compliance
+submission Section 5 HR
+4.2 Identification of EMD Individuals
+As specified in the FCAʼs Our Approach document, SEL is required to:
+● Identify the persons (or roles) with responsibility for the management and delivery of the
+payment service or e-money activities of the Company: these persons will be EMD
+Individuals for the purposes of the EMDR; and
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+8
+
+Confidential and Not for Distribution
+● Together with the (prospective) EMD Individual, provide the FCA with full and complete
+information about the EMD Individual in order for the FCA to assess the reputation,
+knowledge and experience of these individuals and approve them accordingly.
+The following roles are regarded as EMD Individuals for SEL
+● Directors;
+● Person responsible for the management and delivery of the payment services or e-money
+activities (e.g., Head of Payments Partnerships and Industry Relations);
+● Persons responsible for the internal control functions (e.g.,SEL Head of Compliance); and
+● Persons in charge of ensuring compliance with anti-money laundering and
+counter-terrorism obligations(e.g., MLRO.
+4.3 FCA Assessment of Fitness and Propriety
+The FCA will assess fitness and propriety based on the information provided in the EMD Individual
+application form and other information available to the FCA from the FCAʼs own and external sources. In
+assessing whether the proposed EMD Individual is fit and proper to act, the FCA will assess the
+individual's:
+1. honesty, integrity and reputation; and
+2. competence and capability (i.e. their relevant knowledge, training and experience).
+The FCA has published (in its Our Approach document) example factors which it will consider conducting
+its assessment - see Appendix 1 (“F&P Standardsˮ).
+The FCA will not automatically dismiss an application where a prospective EMD Individual discloses one or
+more perceived 'negative' factors (such as previous civil proceedings or insolvency of a business) but will
+review the application on a case by case basis. The FCA highlights that they attach considerable
+importance to the completeness and accuracy of the EMD Individual form and that if the Company or
+prospective EMD Individual is in any doubt as to whether or not any information is relevant, it should be
+included in the form. The FCA can view a failure to disclose an issue much more seriously than the issue
+itself: if in doubt, disclose!
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+9
+
+Confidential and Not for Distribution
+4.4 SEL Assessment of Fitness and Propriety
+SEL should undertake appropriate due diligence to satisfy itself on reasonable grounds that a prospective
+EMD individual complies with the F&P Standards.
+To satisfy the reasonable grounds test, SEL should undertake the following due diligence, prior to
+appointment. SEL should assess and document whether any exceptional matter is material to the relevant
+function based on the evidence received (e.g. underlying documentation which the person should be
+required to furnish such as reports/decisions). If the exceptional matter is considered material, SEL should
+make all reasonable enquiries arising because of the information provided by the person, such as, where
+relevant, contacting third parties for further information(e.g.,former employers, regulatory authorities,
+etc.).
+SEL is not required to remove or suspend a person from acting as an EMD individual solely on the basis
+that one or more of the circumstances listed in F&P Standards may have occurred.
+(i) ‘good reputeʼ (honesty, integrity and reputation): Much of an assessment of an individualʼs character,
+in terms of their propriety, can only be undertaken in the case of exceptions, i.e., it is only when evidence
+is available to suggest that a person might not comply with the standard of propriety required of them that
+SEL must investigate thoroughly. The due diligence to be employed to determine a personʼs propriety to
+perform an EMD individual role should include the following measures:
+(a) Written confirmation of compliance with F&P Standards & completion of EMD Individual Application
+Form DRI HRBP / Compliance)
+(b) Due diligence checks DRI SEL Human Resource Business Partner (“HRBPˮ))
+(ii) competence and capability (i.e. their relevant knowledge, training and experience): SEL should be
+well placed to determine the particular demands of an EMD Individual, i.e. what qualifications, experience,
+knowledge and other relevant factors for the performance of that function or role. The level of due
+diligence expected to be undertaken will vary depending on the role.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+10
+
+Confidential and Not for Distribution
+4.5 Board Approval & FCA Application
+The HRBP, in consultation with the SEL Head of Compliance, shall arrange for a Statement of Suitability
+(template included in Appendix 2) to be prepared and shared with the Board. The Statement of Suitability
+requires SEL to assess the prospective EMD Individual against the following key requirements:
+● Knowledge, Skills & Experience;
+● Reputation, Honesty & Integrity;
+● Time Availability; and
+● Independence of Mind.
+Following the approval of the proposed appointment by SEL Board, SEL Head of Compliance shall arrange
+for the EMD Individual Application Form to be submitted to the FCA.
+A candidate's letter of offer should make clear that their appointment to the relevant EMD Individual role
+will not commence until the earliest of (i) the FCA providing its approval; or (ii) 28 days having passed from
+the date of submission of the appointment of the EMD Individual form, provided the FCA has not raised
+any objections.
+4.6 Temporary & Acting Roles
+A prospective EMD Individual should not be appointed to an EMD Individual role in an acting capacity,
+having not provided the FCA with 28 days or having not been approved by the FCA. However, a candidate
+may be permitted to take on 'lesser duties' (not amounting to making decisions) during the interim period.
+Circumstances may arise where an individual is proposed to fill an EMD Individual role on a temporary
+basis pending the appointment of a permanent replacement. In such cases, the FCA should be notified in
+advance. Note that the FCA may limit the term of such appointments.
+5. Ongoing Responsibilities
+5.1 Ongoing Due Diligence
+SEL must conduct due diligence on persons in EMD roles on an on-going basis and cannot permit a
+person to allow a person to continue in an EMD Individual role, unless it is satisfied that the person meets
+the F&P Standards as set out in Appendix 1. SEL HRBP shall on an annual basis:
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+11
+
+Confidential and Not for Distribution
+● Obtain signed written agreement from the EMD Individual in relation to their ongoing
+compliance with the F&P Standards and confirming whether or not any of the circumstances
+set out in the F&P Standards apply to them, and require such individuals to notify SEL if there
+are changes in their circumstances which may impact ongoing compliance with the F&P
+Standards; and
+● Conduct ongoing due diligence, including refreshing checks and searches where deemed
+appropriate and prudent on an ad hoc basis, for each EMD Individual.
+5.2 Annual Board Confirmation
+SEL Head of Compliance will provide to the Board a summary of the steps taken by them as part of the
+ongoing review, at the Q4 Board meeting, which will be recorded in the minutes of the meeting:
+● That the F&P Standards have been brought to the attention of all EMD Individuals and confirm
+that SEL is satisfied on reasonable grounds that all EMD Individuals persons performing EMD
+roles are compliant with the F&PStandards.
+● Where deemed appropriate and prudent, that due diligence has been undertaken to evidence
+compliance of each EMD Individual with the F&P Standards; and
+● That concerns regarding the fitness and propriety of each EMD Individual will be (or have
+been) be investigated and appropriate action will be (or have been) taken and any relevant
+notifications made to the FCA without delay.
+5.3 Changes to Roles
+SEL must notify the FCA where it removes an EMD Individual, within 7 days after the event, using the
+'Remove an EMD Individual' form, which is accessible via Connect. This notice should include the reasons
+for the departure and provide further information if the individual was dismissed for reasons potentially
+relating to criminal or fraudulent activities.
+SEL must also notify the FCA of material changes in the details of existing EMD Individuals (such as a
+name change) or changes to the EMD Individual's fit and proper condition using the 'Amend an EMD
+Individual' form, also accessible through Connect.
+5.4 Non-Compliance
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+12
+
+Confidential and Not for Distribution
+A breach of the F&P Standards could, depending on the nature of the breach, constitute “gross
+misconductˮ and may result in disciplinary sanction(s) up to and including dismissal.
+If SEL becomes aware that any information previously supplied to the FCA in the EMD Individual Form is
+materially inaccurate (e.g. because a criminal conviction or other disciplinary matter has come to light),
+this should be notified to the FCA using the 'Amend an EMD Individual' form available on Connect.
+SEL may also have reporting obligations under FCA Principle 11 and SUP 15.3 (general notification
+requirements), which require SEL to notify the FCA of matters which the FCA would reasonably expect
+notice of.
+6. Document Management
+6.1 Document Owner
+This document is owned by SEL Head of Compliance.
+6.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis, by the SEL
+Board, in accordance with the Compliance Document Approval Matrix outlined in Blockʼs Compliance
+Policy on Policies.
+7. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+13
+
+Confidential and Not for Distribution
+8. Record Retention
+SEL will maintain all information collected in compliance with its obligations under EMDR, the FCA
+Handbook and data protection legislation for the duration during which the person performs the Regulated
+Function and for a period of 6 years afterwards.
+SEL should have regard to its obligations under the General Data Protection Regulation in holding the
+information referenced above including ensuring that the information is held securely and in an
+appropriate manner. All published Documents are retained in accordance with Blockʼs Record Retention
+guidance or in accordance with regulatory guidance - whichever is longer.
+9. Related Documentation or References
+Related Documents:
+Requirement Electronic Money Regulations 2011 (in particular Regulation 66b and
+Regulation 37
+Guidance FCA's Approach to Payment Services and Electronic Money
+FCA Website
+10. Revision and Approval History
+Version Approver Title Type Description Date
+1.0 SEL Board SEL Board Initial Approval March 24, 2023
+2.0 Sara Sayeed Regulatory Scheduled Revi… New
+Program template
+Manager and
+streamlined
+2.0 Elizabeth He… SEL Head of Scheduled Revi… sections Mar 28, 2025
+Compliance
+2.0 SEL Board SEL Board Scheduled Revi… Apr 10, 2025
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+14
+
+Confidential and Not for Distribution
+11. Document Details
+Business Square
+Scope Regional UK
+Compliance Domain Ethics & Employee Conduct
+Document Owner SEL Head of Compliance
+Last Approval Date April 10, 2025
+Effective Date April 10, 2025
+Approved By SEL Board
+Document Review Schedule Annually March, 2026
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+15
+
+Confidential and Not for Distribution
+Appendix 1 The F&P Standards
+The F&P Standards set out below are excerpted from the FCA Approach Document which lists the
+factors that it will consider when determining the honesty, integrity and reputation of an EMD
+Individual. Regard should also be had to the FCA's current EMD Individual Form, which is accessible
+via the FCA's Connect system.
+The factors which the FCA may consider, in assessing the honesty, integrity and reputation of an EMD
+Individual, include whether (in the UK or otherwise):
+● An assessment of the reputation of the individual has already been conducted by a
+regulator;
+● The person has been convicted of any criminal offence (particularly of dishonesty, fraud, or
+financial crime);
+● The person is currently being investigated for any criminal offence. This would include
+where someone has been arrested or charged;
+● The person has been the subject of any adverse finding or any settlement in civil
+proceedings, particularly in connection with investment or other financial business,
+misconduct, fraud or the formation or management of a firm, particularly a payment or
+e-money institution. This would include any findings by the FCA or another regulator,
+clearing houses and exchanges, professional bodies, or government bodies or agencies
+(such as HMRC, the Serious Organised Crime Agency, the Serious Fraud Office, etc.) that
+the person has breached or contravened any financial services legislation. The regulatory
+history of the firm or individual is therefore likely to be relevant;
+● The person is or has been the subject of any existing investigation or disciplinary
+proceedings, by the FCA or other bodies named above;
+● The person has been refused membership, registration or authorisation of a professional
+organisation or has had that registration, authorisation, membership or licence revoked,
+withdrawn or terminated, or has been expelled by a regulatory or government body;
+● The person has been a director, partner, or concerned in the management, of a business
+that has gone into insolvency, liquidation or administration while the person has been
+connected with that organisation;
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+16
+
+Confidential and Not for Distribution
+● The person has been subject to relevant disciplinary action (including disqualification as
+company director); and
+● In the past, the person has been candid and truthful in all their dealings with any regulatory
+body and whether the person demonstrates a readiness and willingness to comply with the
+requirements and standards of the regulatory system and with other legal, regulatory and
+professional requirements and standards.
+The FCA will consider, in assessing the competence, capability and experience of an EMD Individual,
+whether the individual has the:
+● Knowledge;
+● Experience; and
+● Training,
+to be able to perform the activity of providing payment services and e-money services.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+17
+
+Confidential and Not for Distribution
+Appendix 2 Suitability Assessment
+Role: [x]
+Candidate: FCA approval of appointment]
+Entity: Squareup Europe Limited (‘SELʼ)
+Prepared by: HRBP
+Approved by: Board of Directors, SEL (date)]
+Background
+Introduction: In line with the obligation on e-money institutions to ensure that the regulated activity
+is run by individuals who are suitably qualified to do so, SEL assesses proposed EMD individuals
+against FCA expectations.
+Methodology: Each candidate is assessed against the key requirements for an individual who is
+taking on a senior management or influential position relating to SELʼs regulated business. A
+ranking is deemed sufficient and suitable if it is 3 or above. The overall ranking for a certain
+category is deemed more relevant than an individual component score, as SEL strives to identify
+overall suitability for a certain component, in a collective setting.
+Determinates
+● Knowledge, Skills & Experience
+● Reputation, Honesty & Integrity
+● Time Availability
+● Independence of Mind
+Scoring table
+Score Rank
+1 Does not meet expectations.
+2 Partially meets expectations / needs improvement.
+3 Fully meets expectations / fully successful.
+4 Exceeds expectations /superior.
+5 Significantly exceeds expectations / distinguished.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+18
+
+Confidential and Not for Distribution
+Assessment
+Area Evidence Assessment
+Reputation, E.g. The Firm has identified no concerns with the 15
+Honesty and Candidateʼs reputation, honesty and integrity.
+Integrity
+The Candidate has [not] previously been subject to an
+assessment of his reputation by a competent authority. As
+noted in the Checklist (see Schedule 1):
+● the Candidate has provided a self-declaration
+regarding criminal, civil and regulatory
+investigations/actions; and
+● SEL has separately obtained third party evidence
+which verifies the Candidateʼs Self-Declaration.]
+Knowledge, E.g. As noted at Schedule 2, the Candidate is currently x of 15
+Skills & x.
+Experience
+The Candidate brings a wealth of experience, with deep
+understanding of international business strategy, operational
+excellence and strategic insight positioning. S/he has over 18
+years of senior management experience across fintech
+organisations, including x.
+Her/his professional experience, skills and strong background
+are complimented by her/his commercial awareness and
+her/his proven customer focus The Firm is satisfied that the
+Candidate possesses the experience, skills, and strategic
+vision required for the role of X.]
+Independence E.g. The Firm is satisfied that the Candidate has the 15
+of mind autonomy required for this role. S/he has extensive
+experience in challenging peers to ensure proposals and
+strategies are fit for purpose.]
+Time E.g. The Candidate will at all times be cognisant of SELʼs 15
+availability requirements and will make herself/himself available to the
+firm at all times. The Candidate has been made aware of the
+minimum time commitments expected of the role of x.]
+Conclusion Overall Ranking: 15
+Any The Firm will arrange training for the Candidate in the areas of: [x]
+recommended
+OR The Firm has not identified training or other remedial actions.]
+remedial action
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+19
+
+Confidential and Not for Distribution
+Schedule 1
+Checklist (reflecting FCA ‘Our Approachʼ document; EBA Guideline 16
+Requirement Completed
+A. Personal Details
+Full name, gender, place and date of birth, address and nationality, Yes (held by HR
+and personal identification number or copy of ID card or equivalent
+B. Details of Role
+Role Description (including a description of the individualʼs key Yes - shared with the
+duties and responsibilities) Candidate]
+Draft letter of appointment Yes - draft prepared]
+Planned start date as approved EMD E.g. 28 days post
+submission of application
+/ date of FCA approval of
+appointment]
+C. Suitability Assessment
+Suitability assessment carried out, including details of the result of Yes (see above, subject
+any assessment of the suitability of the individual performed by the to Board approval)
+institution
+D. Evidence of knowledge, skills and experience
+The Candidate has provided a Curriculum Vitae containing details of Yes
+education and professional experience, including academic
+qualifications, other relevant training, the name and nature of all
+organisations for which the individual works or has worked, and the
+nature and duration of the functions performed, in particular
+highlighting any activities within the scope of the position sought.
+E. Evidence of reputation, honesty and integrity
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+20
+
+Confidential and Not for Distribution
+Self-declaration by Candidate that: Yes
+(a) he has not been involved in (and is not currently subject to):
+● criminal investigations and proceedings; or
+● relevant civil and administrative cases; or
+● disciplinary actions, including disqualification as a company
+director, bankruptcy, insolvency and similar procedures; or
+● insolvency proceedings or comparable proceedings; or
+● investigations, enforcement proceedings or sanctions by a
+supervisory authority that the individual has been directly or
+indirectly involved in; or
+● refusal of registration, authorisation, membership or licence
+to carry out a trade, business or profession; the withdrawal,
+revocation or termination of registration, authorisation,
+membership or licence; or expulsion by a regulatory or
+government body or by a professional body or association;
+or
+● dismissal from employment or a position of trust, fiduciary
+relationship or similar situation, or having been asked to
+resign from employment in such a position, excluding
+redundancies; and
+(b) regarding assessments of reputation, the Candidate:
+● [has / has not] been subject to an assessment of reputation
+as an acquirer or a person who directs the business of an
+institution has already been conducted by another
+competent authority [if yes - include details of including the
+identity of that authority, the date of the assessment and
+evidence of the outcome of this assessment, and the
+consent of the individual where required to seek such
+information to be able to process and use the provided
+information for the suitability assessment];
+● [has / has not] been subject to an assessment of reputation
+by another, non-financial sector, including the identity of that
+authority and evidence of the outcome of such an
+assessment.
+Evidence of the absence of criminal conviction, investigations and Yes
+proceedings.
+E. EMD Individual Form
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+21
+
+Confidential and Not for Distribution
+SEL should also include all relevant information even if: (i) SEL Yes - drafted]
+expects that the information is, or may be, already known to the
+FCA, as a result of it being in the public domain, or has been
+previously disclosed to us or to another regulatory body; or (ii) the
+information is considered to be immaterial.
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+22
+
+Confidential and Not for Distribution
+Schedule 2
+Candidate Profile Template)
+Candidateʼs Overall Experience:
+Insert
+Experience and Leadership:
+Insert
+Core Competencies:
+Insert
+EMD Individual Regime Policy| Square | Squareup Europe Limited
+23

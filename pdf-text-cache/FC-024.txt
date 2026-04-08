@@ -1,0 +1,921 @@
+Bank Secrecy Act/Anti-Money Laundering &
+Countering the Financing of Terrorism Program
+Standard
+Block, Inc
+Last Approved: August 12, 2025
+Effective Date: August 12, 2025
+1. Overview
+Introduction and Purpose: Money Laundering and terrorist financing are serious financial crimes
+with potentially serious social and financial effects. The laws of the U.S. government impose
+affirmative obligations on covered entities to implement systems and processes to prevent, detect,
+and report on a range of illicit activity, including money laundering, terrorist financing, and other
+criminal acts. Block, Inc. and its subsidiaries (hereinafter referred to as "Block" or the "Company")
+are committed to complying with anti-money laundering ("AML") and countering the financing of
+terrorism ("CFT") laws and regulations in all jurisdictions in which they operate, and to preventing
+the misuse of services and any other related involvement in criminal or unlawful activity.
+This Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program
+Standard ("Standard") is designed to operationalize requirements under U.S. laws and regulations
+and meet the minimum standards set out under Block's Global AML/CFT Policy. This Standard also
+forms part of Block's Anti-Financial Crime domain under the Block Compliance Policy Governance
+Framework.
+Block complies with a number of AML/CFT laws and regulations globally including, but not limited
+to, the Bank Secrecy Act (“BSAˮ). The U.S. Financial Crimes Enforcement Network (“FinCENˮ), a
+bureau of the U.S. Department of the Treasury, issues and enforces regulations under the BSA.
+Among other things, the BSA requires financial institutions, such as money services businesses
+(“MSBsˮ), to develop, implement, and maintain an effective BSA/AML Compliance Program
+(“Programˮ or “BSA/AML Programˮ).
+Scope: This Standard is applicable to Block and all its U.S. subsidiaries. The only exception is
+Square Financial Services which is a Utah state-chartered Industrial Bank federally regulated by
+the Federal Deposit Insurance Corporation and has its own Compliance Program, which includes
+its own BSA/AML Program, and Cash App Investing LLC, a licensed money transmitter and
+
+registered money service business subject to the Bank Secrecy Act ("BSA") and USA PATRIOT Act.
+Cash App Investing maintains its independent AML/CFT Program while leveraging the resources,
+technology, and sophistication of the enterprise-wide Block AML Program.
+Definitions:
+Terminology Definition
+Anti-Financial Crime A set of regulatory rules (including the BSA, USA PATRIOT
+Act, CTA, AMLA, etc.) and investigative techniques aimed at
+preventing and combating various illegal activities related to
+the financial system, including (but not limited to): Money
+Laundering; Terrorist Financing; Fraud; Identity Theft;
+Corruption; Sanctions Violations; Cybercrime; Tax Evasion.
+Customer Identification Program CIP comprises two elements: a) the collection of customer
+("CIP") information Identity Collection); and b) verification Identity
+Verification) using reliable and independent sources to
+reasonably establish the identity of the customer.
+Covered Products Block defines its Covered Products as the products and
+services that Block offers pursuant to a license or
+registration and that are subject to BSA/AML related laws
+and regulations. Certain other products may also be
+considered Covered Products, such as where required
+under partner bank expectation and/or contractual
+obligation. Each Business Line is responsible for maintaining
+a documented and up-to-date list of products and services
+that meet this definition.
+Customer Due Diligence Including CIP, CDD involves the collection and risk-based
+("CDD") verification of additional information from customers at
+onboarding, account setup, or on an ongoing basis.
+Enhanced Due Diligence ("EDD") EDD includes CDD plus additional collection, verification, or
+corroboration of customer or transactional information. This
+information is used to enhance the overall understanding of
+the customer and the activities the customer is engaged in
+where the customer has demonstrated potential higher AML
+risk. Local Laws may specify circumstances where EDD
+must be performed and the measures required.
+Know Your Customer ("KYC") KYC includes the process of establishing risk-based
+controls to identify and apply a risk-based approach to
+verifying the identity of Block's customers. The term KYC
+may also be referred to as Know Your Business KYB when
+dealing with non-individual entities or business customers.
+Integration As the final stage of money laundering, integration occurs
+when the criminal receives the proceeds of what now
+appear to be legitimate payments. The criminal can then use
+the funds as they wish.
+
+Terminology Definition
+Layering As the second stage of money laundering, layering is
+generally the use of many complex transactions to obscure
+the source of the criminal proceeds and make them appear
+legitimate.
+Money Laundering Money Laundering is the process of making criminal
+proceeds ('dirty' money) appear to have come from a
+legitimate source ('clean' money). Criminals do this by
+moving those proceeds through different entities, accounts
+and transactions where the funds are less likely to attract
+attention but are readily accessible when required.
+Money Transmitter A person that provides "money transmission services",
+which are generally defined under the BSA to mean
+acceptance of currency, funds, or other value that
+substitutes for currency from one person and the
+transmission of currency, funds, or other value that
+substitutes for currency to another location or person by any
+means.
+Placement As the first stage of money laundering, placement is the
+introduction of criminal proceeds into the financial system.
+Provider of Prepaid Access A participant in a prepaid program that agrees to serve as
+the principal conduit for access to information from its
+fellow program participants in which "prepaid access" is
+defined as access to funds or the value of funds that have
+been paid in advance and can be retrieved or transferred at
+some point in the future through an electronic device or
+vehicle, such as a card, code, electronic serial number,
+mobile identification number, or personal identification
+number.
+Terrorist Financing Terrorist financing is the solicitation, collection or delivery of
+funds to support terrorist acts or organizations. Unlike
+money laundering, which always involves the proceeds of a
+crime, funds to finance terrorism are often diverted from
+legitimate sources. Terrorists may also rely on laundered
+funds derived from criminal enterprises.
+2. About Block
+2.1 Blockʼs Money Services and Virtual Currency Business Activities
+Block engages in money services business activity by acting as a Money Transmitter and Provider
+of Prepaid Access. Block is registered as an MSB with FinCEN. Block has established procedures
+for the maintenance of the MSB registration with FinCEN and the state regulators. These
+
+procedures include, but are not limited to, registration renewal timelines and filing requirements for
+significant events.
+2.2 Cash App
+Cash App is a Business Line that provides its customers access to a range of financial services,
+which may be accessed through its mobile application (and for some features, its website). Among
+other features, Cash App allows its customers to receive, transfer, and hold funds. Cash App
+customers may also have the ability to buy, sell, hold, receive, and transfer Bitcoin. Cash App
+partners with banks to enable certain features, such as a Visa Prepaid Debit Card ("Cash App
+Card") and loans. Customers are required to meet certain eligibility criteria in order to access many
+of these features.
+2.3 Square
+Square is a merchant payment services platform that enables businesses of all sizes ("Sellers") to
+manage how they accept payments, bank, manage inventory and appointments, pay vendors and
+employees, send invoices, message customers, access credit such as loans and cash advances,
+organize multiple locations, and, among other things, engage in e-commerce. Sellers have access
+to Square's products through mobile and desktop applications and through use of Square's
+hardware products. Square partners with banks to enable certain products, such as Square
+Checking (business checking account) and Square Card (a debit card offered to Square Checking
+customers).
+3. Mitigating Controls
+Block mitigates the money laundering risks associated with its business in several ways, including
+but not limited to:
+● Assigning customer risk ratings and performing risk-based KYC, customer due diligence,
+and enhanced due diligence, as applicable, based on the potential AML/CFT risk that the
+customer presents;
+● Prohibiting certain customers from processing payments due to unacceptable money
+laundering, reputational, or other risks and outlining these prohibitions in its terms of
+service and internal compliance policies;
+● Blocking transactional activity for accounts with connections to other accounts, individuals,
+or devices with a known history of illicit activity within the Block system;
+● Monitoring transactions using proprietary algorithms, including heuristic and
+machine-learning methodologies, to identify and prevent patterns of transactional behavior
+suggestive of money laundering or other suspicious activities;
+● Monitoring transactional activity related to card payments associated with high risk
+jurisdictions, which may not otherwise be subject to the AML controls of U.S. financial
+institutions subject to the BSA;
+● Screening customer and account data at onboarding and other points in the account
+lifecycle to prevent the onboarding or continued use of the product by previously identified
+bad actors; and
+
+● Maintaining procedural controls that can identify and terminate high-risk accounts in real
+time or following appropriate investigations, including blocking any corresponding inflows
+or outflows of funds and potentially restricting accounts where appropriate.
+4. Anti-Money Laundering Program
+In accordance with the BSA and other applicable laws and regulations, U.S. financial institutions
+(including MSBs) are relied upon to assist U.S. government agencies in preventing and detecting
+money laundering, terrorist financing, and other illicit activity. The BSA mandates the development,
+implementation, and maintenance of a written risk-based BSA/AML Program that is reasonably
+designed to ensure compliance with all applicable BSA requirements. In addition, Block is subject
+to AML-related requirements of state regulators, which are contemplated in this Standard and
+Business Line-specific standards.
+4..1 Governance
+The Block Board of Directors ("Board") appoints a BSA/AML Compliance Officer who is
+responsible for coordinating, managing, and monitoring the Standard.
+In addition, the Board has formed and appoints members to the Audit and Risk Committee ("ARC")
+to assist the Board in overseeing the Company's compliance with applicable laws (including U.S.
+federal securities laws and other legal requirements). Among other responsibilities, the ARC
+ensures that the BSA/AML Compliance Officer has sufficient authority and resources (e.g.,
+monetary and personnel) to administer an effective risk-based Program.
+Blockʼs Board has direct oversight of Blockʼs AML/CFT compliance through the Chief Compliance
+Officer (“CCOˮ) and the BSA/AML Compliance Officer to ensure compliance with this Standard.
+Please refer to the Roles and Responsibilities and Designation of BSA/AML Compliance Officer
+sections of this Standard for further detail.
+4.2 Relationship with Sanctions Program
+Block maintains a Global Sanctions Policy and a corresponding Global Sanctions Program, which
+are overseen by the Head of Global Sanctions Compliance. In order to monitor and manage
+financial crimes risks holistically for its customers and transactions, Block's BSA/AML Compliance
+Officer partners closely with the Head of Global Sanctions Compliance and Business Line
+Compliance Leadership. Block is cognizant of the interdependencies and proximity of the two
+programs, which may result in controls and other references being made between both Standards
+and Business Line-specific standards and procedures.
+4.3 Five Pillars Structure
+Consistent with U.S. and international laws and regulations, including the BSA, Block implemented
+and maintains the following key components of its BSA/AML Program:
+
+1. Designation of BSA/AML Compliance Officer;
+2. Internal Policies, Procedures, and Controls;
+3. AML Training and Awareness;
+4. Independent Testing and Review; and
+5. Customer Due Diligence ("CDD") Program (hereafter referred to as "KYC Program").
+5.Designation of BSA/AML Compliance Officer
+5.1 Appointment and Approval
+The Board designates the BSA/AML Compliance Officer, who is responsible for coordinating and
+monitoring day-to-day BSA compliance. The Board has designated the CCO in this role. The
+BSA/AML Compliance Officer may fulfill other responsibilities and delegate certain duties under
+the Standard to other suitably qualified and experienced Staff Members.
+The BSA/AML Compliance Officer has the authority to communicate directly with the Board and
+the ARC. This may be performed on an ad-hoc basis when deemed appropriate or requested, or as
+part of a written report to the ARC delivered quarterly, or at least on an annual basis. At the
+discretion of the BSA/AML Compliance Officer, in the event of an instance of disagreement on
+material compliance matters with Senior Management, this may include escalation requiring Board
+decisioning to the ARC chairperson.
+To support this responsibility, the BSA/AML Compliance Officer or their designee conduct activities
+to ensure Block complies with BSA requirements. In addition to activities expressly described in
+other sections, these activities include but are not limited to:
+● Ensuring that regulatory reports required of Block by this Standard are accurate and timely
+filed with the appropriate governmental agencies;
+● Ensuring documents required to be retained pursuant to the BSA or Blockʼs BSA Policy are
+retained in the manner prescribed for the required period;
+● Ensuring that processes or procedures used to monitor new and existing customers are
+appropriately designed and implemented to identify potential money laundering / terrorist
+financing/other illicit activity, taking into account the unique money laundering / terrorist
+financing/other illicit activity risks of each such product or service;
+● Monitoring relevant federal and state regulatory changes, FinCEN and other guidance, and
+enforcement developments to ensure that the Standard remains reasonably designed to
+prevent Block from being used to facilitate money laundering, terrorist financing, and other
+illicit activity and implementing changes to the Program when necessary to detect and
+prevent such actions; and
+● Assessing the development and administration of an effective training program to support
+implementation of this Standard, monitoring for quality and effectiveness.
+5.2 Appointment of Deputy Officers
+While the BSA/AML Compliance Officer will ultimately be responsible for the Program, to support
+both adequate coverage and continuity the BSA/AML Compliance Officer may also formally
+
+appoint Deputy BSA/AML Compliance Officers to undertake their duties when not available, or
+otherwise deemed appropriate. Such Deputy Officers should be adequately trained and
+experienced to perform the applicable duties assigned. Appointments of Deputy Officers should
+be approved in writing including, amongst other things, the scope of coverage under the Program.
+6. Internal Policies, Procedures, and Controls
+Block manages a range of standards and processes to maintain compliance with relevant legal
+requirements, industry standards, and Block's own internal policies.
+6.1 Documented Program
+Notwithstanding the exceptions noted within, this Standard serves as the minimum standards for
+Block's BSA/AML Program for its U.S. business.
+6.2 BSA/AML Risk Assessment
+Block is responsible for conducting BSA/AML risk assessments in order to identify potential money
+laundering and terrorist financing risks and to inform the design and priorities of the BSA/AML
+Compliance Program. The BSA/AML risk assessment must undergo periodic review to account for
+changes in product offerings and services, customers, and geographic locations.Blockʼs BSA/AML
+risk assessment also assesses emerging risks, operations, and employees.
+Risk assessments must be updated on a regular basis including but not limited to the following
+circumstances:
+● New products or services are offered;
+● Material changes being made to existing products;
+● Material changes are made to legal or regulatory requirements; or
+● New markets or jurisdictions are entered through Blockʼs U.S. operations that will materially
+impact Blockʼs risk profile.
+For the avoidance of doubt, risk assessments specific to products must be completed prior to:
+● New or materially changed products or services being available in any capacity to active
+customers; or
+● The effective date of applicable legal requirements.
+Block conducts an annual risk assessment process which is an assessment of Blockʼs AML/CFT
+Risk Assessment for the prior year. This annual risk assessment is to be approved by the BSA/AML
+Compliance Officer with results presented to the ARC, and any subsidiary Board or Management
+Committee, where applicable.
+6.3 Management Reporting
+In order to manage Program operations and mitigate organizational risk, routine reporting must be
+conducted on this Standard. Compliance Leadership is responsible for providing periodic BSA/AML
+
+Program reports, updates, and material developments to the BSA/AML Compliance Officer who is
+then responsible for reporting those developments to the Board or designated Board
+subcommittee, quarterly, or at least on an annual basis. The BSA/AML Compliance Officer may
+provide ad-hoc Program updates to the Board, when deemed appropriate or requested.
+6.4 Third-Party Risk Management
+Block engages and maintains third-party relationships including vendors (e.g., technology service
+providers for identity verification, sanctions watchlist screening, transaction monitoring) and
+partners (e.g., bank partners, payment service providers, card networks) to provide products or
+perform services that support certain business activities within the Program.
+Block maintains a third-party risk management framework that incorporates activities
+commensurate to the level of risk or complexity undertaken or supported by each third-party
+relationship. Activities include but are not limited to initial due diligence, periodic risk assessments,
+service level reviews, and ongoing performance monitoring.
+6.5 Transaction Monitoring Program
+Block acknowledges that transaction monitoring is a vital component of ensuring BSA/AML
+compliance as it provides a mechanism for evaluating suspicious activity and transactions across
+Block's products. Block utilizes various proprietary algorithms and vendor tools to create alerts for
+the Transaction Monitoring team to review. This includes automated alert queues and periodic or
+manual reports for review. Alert queues and reports are generated using machine-learning,
+heuristics, or manual methodologies. Product specific activities to identify risk indicators and
+transactional activity for Bitcoin are governed by dedicated rulebooks that define the methodology
+and associated risks relevant to those products. Requirements for Bitcoin detection can be found in
+Cash App Bitcoin Transaction and Sanctions Monitoring Rulebook. Any new models or
+recommended changes to the existing models are reviewed and approved by the Financial Crimes
+program which oversees Transaction Monitoring, and validated by the Model Risk Management
+team in accordance with the Model Change Management Process.
+6.6 Model Governance
+Block uses certain technologies to support its management of financial crime related risks, and this
+includes certain filtering systems and transaction monitoring models to identify money laundering,
+terrorist financing, and other illicit activity risks. In accordance with requirements issued by the
+New York Department of Financial Services (“NYDFSˮ) (i.e., NYCRR Part 504, other U.S. and
+international laws, and best practices, Block maintains a Model Risk Management Program to
+oversee and manage its use of these filtering systems and models. This program is augmented by
+the Financial Crimes program which oversees Transaction Monitoring, which plays a crucial role in
+approving material changes to transaction monitoring models and technologies. This includes the
+following requirements, which Block has incorporated into its Model Governance Program:
+● With respect to transaction monitoring models and technologies, on a periodic basis, Block
+elects to conduct a Typology Coverage Assessment. The Typology Coverage Assessment
+supports Block in assessing the completeness and appropriateness of its automated
+
+transaction monitoring systems in accordance with regulatory guidance based on relevant
+typologies (or red flags) appropriate for the size, nature, and product set that Block offers;
+● Periodic reviews and testing of the accuracy of Blockʼs filtering systems and transaction
+monitoring systems to policy and standard level documentation;
+● Maintenance of documentation relating to the configuration of Blockʼs filtering systems and
+transaction monitoring rules;
+● Approval processes for changes to configurations within the filtering systems and
+transaction monitoring systems, including approval from delegates of the BSA/AML
+Compliance Officer; and
+● The completion of an independent assessment to support the BSA/AML Compliance
+Officerʼs annual NYDFS Regulation 504 certification concerning Blockʼs monitoring and
+filtering programs.
+6.7 Suspicious Activity Reporting
+Block files a Suspicious Activity Report ("SAR") with FinCEN in accordance with its instructions and
+relevant guidance. SARs must be filed within 30 calendar days from the time the Compliance
+Analyst determines that the activity at issue is "suspicious" within the meaning of the SAR
+regulation.
+Block maintains records related to the SAR filing, including but not limited to, a copy of the
+completed SAR that was submitted to FinCEN, for a minimum of five years from the date of filing
+the SAR.
+A SAR is filed if Block knows, suspects, or has reason to suspect that a transaction (or pattern of
+transactions):
+● Involves criminal violations of any amount which involve insider abuse, terrorist financing,
+human trafficking or child sexual exploitation;
+● In circumstances where a transaction or transactions aggregate to a value of $2,000 or
+more, and Block knows, suspects, or has to reason to suspect that the transaction or
+pattern of transactions:
+○ Involves funds derived from illegal activity, or is intended to hide or disguise funds
+or assets derived from illegal activity, as part of a plan to violate or evade any
+federal law or regulation, or to evade any transaction reporting requirement under
+federal law or regulation;
+○ Is designed, whether by structuring or other means, to evade any requirements of
+the BSA;
+○ Involves the use of cryptocurrency to facilitate illicit activity, or indicators of
+cyber-enabled fraud;
+○ Serves no business or apparent lawful purpose, and Block knows of no reasonable
+explanation for the transaction after examining the available facts, including the
+background and possible purpose of the transaction; or
+○ Involves the use of Block to facilitate criminal activity.
+Block pays particular attention to red flags that may indicate a higher risk of money laundering,
+terrorist financing, or other illicit activity and takes appropriate action, which may include filing a
+
+SAR or undertaking Enhanced Due Diligence. In particular, relevant teams will review instances of
+the following as determined by applicable procedures:
+● Repeated attempts by a customer to exceed transaction thresholds;
+● Repeated attempts by a customer to provide insufficient or suspicious information;
+● Unusual sales or transactions given the history, location, and nature of the transactions
+previously processed by Block for a particular customer;
+● Customers who exhibit behavior indicative of attempting to abuse Blockʼs platforms by
+creating or using multiple linked accounts inappropriately;
+● Transactions for which there is no apparent business or lawful purpose;
+● Transactions that do not align with intended product usage; or
+● Suspicion arising from customer interactions or communications, including queries or
+behaviors that may indicate potential attempts to circumvent or exploit the program; or
+● Transactions or activities that may indicate potential involvement in terrorism financing,
+including but not limited to unusual or high-risk patterns associated with known typologies.
+If one or more transactions are identified and meet any of the criteria above, the relevant team will
+conduct a review of the transactions to assess whether a reportable suspicious event has
+occurred and determine whether or not a SAR should be filed. If a SAR filing is warranted, the
+customer relationship may be terminated in alignment with each Business Lineʼs customer
+retention guidance.
+If an investigation identifies child sexual abuse material (“CSAMˮ) images, the SAR Investigator
+must submit both a regulatory report and also a summary report via the Cyber TipLine reporting for
+NCMEC. Regulatory reporting involves filing a report to a regulating body (e.g. FinCEN. Summary
+reporting involves the SAR Investigator writing and submitting a summary of the investigation
+separate from the SAR itself and alerting NCMEC of potential child sexual exploitation, and removal
+of any CSAM images from the Block platform when required.
+6.7.1 Continuing Activity Reporting
+For all cases in which Block filed a SAR with FinCEN, a Continuing Activity Review is conducted in
+accordance with FinCEN instructions and relevant guidance; and if necessary a Continuing Activity
+SAR is filed to report continuation of the activity.
+Continuing Activity Reviews commence 90 days after the prior filing date; and Continuing Activity
+SARs are filed no later than 120 days after the previous SAR filing date. Continuing Activity Reviews
+are required after every SAR filing, regardless if a Continuing Activity SAR has previously been
+filed. The cycle of the investigation reopening every 90 days after a filing continues until the
+reportable activity has ceased.
+Further details are documented in Business Line SAR standards and procedures.
+The BSA/AML Compliance Officer reports a summary of SAR filings to the ARC, quarterly, or at
+least on an annual basis.
+
+6.8 Prohibition on Tipping Off
+If Block files a SAR, neither Block nor any director, officer, Staff Member, or agent of Block may
+notify any person that the transaction has been reported on a SAR nor admit or deny the fact that a
+SAR has been filed. If Block is subpoenaed or otherwise requested to disclose that a SAR has been
+filed or the information contained in a SAR, except when such disclosure is requested by FinCEN or
+an appropriate law enforcement or supervisory agency, Block must decline to produce the SAR or
+to provide any information that would disclose that a SAR has been prepared or filed. The
+appropriate Company Staff Member must promptly notify FinCEN of any such request and of
+Blockʼs response. When Block files a SAR, both Block and any director, officer, Staff Member, or
+agent of Block are protected from liability for any disclosure contained in the report or for failure to
+provide notice of such disclosure to the person who is the subject of such report.
+6.9 314(a) and 314(b) Programs
+Section 314 of the Uniting and Strengthening America by Providing Appropriate Tools Required to
+Intercept and Obstruct Terrorism Act of 2001, as amended, ("USA PATRIOT Act") encourages
+information sharing between government agencies or law enforcement authorities and financial
+institutions to deter money laundering and terrorist activity.
+FinCENʼs USA PATRIOT Act implementing regulations under Section 314(a) require financial
+institutions to search their records and produce certain documents and records on demand (each,
+a “Section 314(a) Requestˮ).
+Section 314(b) of the USA PATRIOT Act provides financial institutions with the ability to share
+information with one another, under a safe harbor that offers protections from liability, in order to
+better identify and report activities that may involve money laundering (defined broadly, to include
+fraud and other illicit activities) or terrorist activities. Participation in information sharing pursuant
+to Section 314(b) is voluntary, and FinCEN strongly encourages financial institutions to participate.
+Financial institutions subject to an anti-money laundering program requirement under FinCEN
+regulations, and any association of these financial institutions, are eligible to register to share
+information under Section 314(b). This includes Money Services Businesses.1
+6.9.1. Designation of Section 314(a) and 314(b) Contact Person
+Block has designated Compliance personnel identified as the contact person(s) for receipt of all
+incoming Section 314(a) and 314(b) requests, and shall provide FinCEN their name, contact
+information, and any other details FinCEN may request. This contact information is accessible to
+any other institution that is actively participating in Section 314(b) information sharing.
+6.9.2 Action upon Receipt of a Section 314(a) Request
+Upon receipt of a Section 314(a) Request, Compliance Leadership or their designated team
+member(s) will search Blockʼs records to determine both (i) whether Block maintains or has
+maintained any account for, or (ii) has engaged in any transaction with each individual, entity, or
+1 Block, Inc. registered for voluntary participation in the 314(b) program from October 1, 2024. Block Inc's participation is
+limited to the Square and Cash App business areas as defined within the scope of this Standard.
+
+organization named in the Section 314(a) Request. For accounts, the scope of the search must
+include both current accounts as well as any accounts maintained in the preceding 12 months. For
+transactions, the scope of the search must include any transactions that occurred in the preceding
+six months. If Blockʼs Section 314(a) records search identifies an account or a transaction
+pertaining to any individual, entity, or organization named in the Section 314(a) Request,
+Compliance Leads must report the affirmative nature of the search results together with pertinent
+identifying information to FinCEN within the timeframe and in the manner specified in the Section
+314(a) Request.
+6.9.3 Limitations of Use of 314(a) Information Provided by FinCEN
+Block shall not use any of the information obtained from FinCEN in any Section 314(a) Request,
+except for the following purposes:
+● Making its Section 314(a) report to FinCEN;
+● Determining whether to establish or maintain an account or engage in a transaction; or
+● Complying with any other BSA statutory or regulatory requirement
+In addition, Block shall not disclose to any person other than FinCEN or the law enforcement
+agency on whose behalf FinCEN made the Section 314(a) Request that FinCEN has requested or
+obtained information pursuant to Section 314(a). This prohibition does not apply, however, to (a)
+disclosures necessary to comply with the Section 314(a) Request or (b) information sharing
+between financial institutions under Section 314(b), provided such information sharing does not
+disclose the fact that FinCEN made a Section 314(a) Request.
+6.9.4 Action upon Receipt of a Section 314(b) Request
+Upon receipt of a Section 314(b) request, Compliance Leadership or their designated team
+member(s) will confirm if: (i) the request is from a Block bank partner that is in-scope for
+information-sharing at the time, (ii) the subject(s) of the Section 314(b) request is a Block
+customer, (iii) Block has any information regarding each individual, entity, or organization within the
+request, and (iv) if the request is within the acceptable scope for response as defined by
+participation guidance, as well as Blockʼs additional response criteria. If the Compliance Lead (or
+other designated team member) determines that the subject(s) is a customer and the request is in
+scope, the subject(s) and associated activity will be investigated in accordance with Blockʼs
+internal Compliance policies and procedures.
+Due to the voluntary nature of Section 314(b) participation, Block may not respond to all incoming
+requests not in scope, and will employ a risk-based approach to evaluating all requests for
+response eligibility. Compliance Leads aim to respond to in-scope requests within the SLA
+documented in their internal processes and procedures via the manner Block specifies in the
+Section 314(b) Request.
+
+6.9.5 Outgoing 314(b) Requests
+On a case-by-case basis, Compliance Leads and their teams may recommend sending an
+outgoing 314(b) request to a participating financial institution. The outgoing 314(b) request can be
+used as another investigative tool to help mitigate or confirm activity identified on Blockʼs platform.
+6.9.6 314(a) and 314(b) Record Retention
+Block retains relevant records associated with the 314(a) and 314(b) Program for a minimum period
+of seven years.
+6.10 Law Enforcement Requests
+Block has established processes for identifying subjects of law enforcement requests, subpoenas,
+and national security letters. When Block receives a law enforcement request, subpoena, or
+national security letter, it involves a request for copies of account records related to activity that
+has occurred on a Block account or information associated with an account holder. While Blockʼs
+timely responsiveness to subpoenas is a fundamental priority, Blockʼs Legal department will first
+scrutinize any request to ensure its validity and Block will only provide information that is within its
+scope, and in compliance with all applicable laws and Blockʼs Privacy Policy.
+When a valid request is received, it is Blockʼs standard to partner with government and law
+enforcement agencies in the spirit of cooperation to prevent abuse and misuse of Blockʼs systems
+and the financial ecosystem. Absent specific record retention requirements, Block retains these
+documents for no less than five years from the final actions.
+6.11 Special Measures, Sections 311 and 9714
+The U.S. Secretary of the Treasury (via FinCEN is authorized to require domestic financial
+institutions to take certain special measures against foreign jurisdictions, foreign financial
+institutions, classes of international transactions, or types of accounts that FinCEN finds to be
+"primary money laundering concerns."These special measures include, for example, a prohibition
+on correspondent accounts or remittances, or additional record keeping/reporting on transactions
+involving the target of the 311 or 9714 actions.
+Block monitors for findings and proposed rules under sections 311 and 9714 and considers
+potential impact on its relevant products and services. In the event of a final rule relevant to Blockʼs
+business (e.g., record keeping or reporting related to certain funds transmittals), Block will ensure
+that it has established controls to comply with the legal requirements. 6.12 Currency Transaction
+and other Reports.
+Currency Transaction Reports ("CTRs") must be filed by Money Transmitters for transactions in
+currency, by or on behalf of a customer, that in aggregate exceeding $10,000 during any one
+business day. CTRs must be filed for such transfers made by, to, or through Block. When a
+third-party who is also obligated to file a CTR receives currency on behalf of Block, the parties
+may contractually agree as to which party must file a CTR, in compliance with FinCEN Ruling
+20011. To the extent that Block engages in transactions that require a CTR, Block is responsible
+
+for ensuring CTRs are filed in accordance with regulatory reporting requirements for these
+products, whether directly or by a third party to which it outsources the obligation..
+Geographic Targeting Orders GTOs are specific directives issued by FinCEN under the authority
+of the Bank Secrecy Act to combat money laundering and financial crime in particular geographic
+areas. While GTOs authorities are broader than CTR requirements, FinCEN has recently issued
+specific GTOs that effectively modify CTF obligations for certain reporting entities by lowering the
+dollar threshold for reporting currency transactions in certain US jurisdictions.
+GTOs can be public or nonpublic, targeted at certain types of financial and nonfinancial entities.
+Block must comply with public GTOs that include MSBs as reporting entities, and any nonpublic
+GTOs issued by FinCEN directly to Block or one of its subsidiaries. GTOs are temporary, with a
+maximum duration of 180 days, which can be renewed by FinCEN. The purpose of GTOs are to
+increase transparency associated with financial activity in specific geographical areas, and
+typically require financial institutions and other businesses (like title companies) to comply with
+certain recordkeeping and/or reporting obligations.
+6.13 Employee Due Diligence
+Block mandates screening on all prospective, new, and existing employees (including contractors)
+to understand and monitor the financial crimes risks to which its employees may pose to Block.
+Block takes necessary steps once any due diligence or screening reveals substantiated concerns,
+including but not limited to termination of such employees and compliance with record keeping and
+reporting obligations.
+6.14 Resourcing and Workforce Management
+Block periodically assesses the adequacy and staffing needs for its BSA/AML Program and actions
+upon identified needs as related to resourcing and workforce management.
+6.15 Quality Control & Assurance
+Block maintains a Quality Control & Assurance Program that continuously assesses the output of
+BSA/AML operations as well as a feedback loop for continuous improvement, across the following
+components of the Program.
+● KYC Due Diligence Reviews;
+● Name Screening Reviews and Escalations;
+● Transaction Monitoring Investigations & SAR Filing;
+● Unacceptable Use / Terms of Service Monitoring Reviews; and
+● Appeals Reviews.
+The Quality Control & Assurance Program consists of two components, quality control, when a review
+is conducted prior to a decision, such as prior to filing SARs against predefined criteria, and quality
+assurance, which is performed post decision by a dedicated team. The Quality Control & Assurance
+Program covers both internal staff and third party providers performing operations functions.
+
+Further details are documented in Business Line programs and procedures.
+6.16 Compliance Monitoring and Testing Program
+Block requires risk-based periodic monitoring and testing of relevant Program controls by
+Compliance. Issues identified during monitoring are documented in accordance with program
+procedures and tracked to ensure appropriate resolution. These issues are reported to Senior
+Management periodically.
+6.17 Record keeping
+Block adheres to the BSA's reporting and record keeping obligations, which impose requirements
+on financial institutions for reports or records that have a high degree of usefulness in criminal, tax,
+or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence
+activities, including analysis, to protect against international terrorism. The BSAʼs reporting and
+record keeping obligations include SARs and currency transaction reports.
+6.17.1 Customer Transaction Records
+Customer transaction records are maintained and kept for at least seven years, or such other time
+period as required by applicable law.
+6.17.2 Reports related to Prepaid Access
+Cash App provides prepaid access through its stored value balance, and also offers prepaid
+access in the form of the Cash App Card. All prepaid access providers must implement certain
+record keeping requirements. To satisfy these requirements, Block maintains Cash App transaction
+records generated in the ordinary course of business that would be needed to reconstruct prepaid
+access activation, loads, reloads, purchases, withdrawals, transfers, or other prepaid-related
+transactions.
+6.17.3 Record keeping for Funds Transfers
+FinCEN requires non-bank financial institutions to obtain and retain information relating to the
+funds transmittal of $3,000 or more that are sent or received in any one transaction.
+For every fund transfer covered by this requirement, Block will obtain and retain the following
+information:
+● Senderʼs name and address;
+● Amount of the transmittal order;
+● Execution date of the transmittal order;
+● Any payment instructions received from the sender;
+● Identity of the recipientʼs financial institution; and
+● Any of the following items, if received with the transmittal order:
+○ Name and address of the recipient;
+○ Account number of the recipient;
+
+○ Any other specific identifier of the recipient.
+6.17.4 Travel Rule
+The Travel Rule requires financial institutions that affect funds transmittals over $3,000 to provide
+certain details to the receiving financial institution. Cash Appʼs digital currency transfer activity is
+subject to this requirement, under the definition of funds transmittal. Block has developed
+measures to maintain and transmit relevant information regarding crypto currency transactions that
+satisfies certain state (see below) and federal regulations. The Travel Rule's application to
+cryptocurrency transactions remains an area where additional regulatory clarity is still emerging.
+As such, Block will continue to monitor and add controls as clarity becomes available.
+Square Payroll is subject to the Travel Rule. Square Payroll transmits the following information to
+receiving institutions for physical check transmittals:
+● The senderʼs name, and if the payment is ordered from an account, the account number;
+● The senderʼs address;
+● The amount of the transmittal order;
+● The execution date of the transmittal order;
+● The name of the recipientʼs financial institution; and
+● As many of the following items received with the transmittal order:
+○ The name and address of the recipient;
+○ The account number of the recipient;
+○ Any other specific identifiers of the recipient;
+○ Either the name and address or numerical identifier of the transmitterʼs financial
+institution.
+6.17.5 Records of Digital Currency Transactions
+Given that Cash App permits customers to buy, sell, and transfer digital currencies, Block is
+required to maintain a Virtual Currency License issued by the state of New York. In accordance
+with this license, Block shall maintain the following information for all digital currency transactions
+involving the payment, receipt, exchange, conversion, purchase, sale, transfer, or transmission of
+digital currency:
+● The method of payment;
+● A description of the transaction;
+● The date or dates on which the transaction was initiated and completed;
+● The identity and physical addresses of the party or parties to the transaction that are
+customers or account holders of Block and, to the extent practicable, any other parties to
+the transaction; and
+● The amount or value of the transaction, including in what denomination it was purchased,
+sold, or transferred.
+Block also maintains a program and procedures to address compliance requirements with the
+Travel Rule that are relevant to Cash Appʼs digital currency business.
+
+6.17.6 Training Records
+Training records must be maintained and stored in order to demonstrate the implementation of the
+Training Program. Records must be kept for a minimum period of seven years.
+Training records include at a minimum:
+● Training content and materials, including versions of training materials;
+● Records of training completion; and
+● Where applicable, records of training assessment.
+7. AML Training and Awareness
+In accordance with legal requirements, Block is responsible for the implementation of an AML/CFT
+training program. The depth and content of the BSA/AML training depends on the degree of
+responsibility each individual has for BSA/AML compliance. At a minimum, each iteration of the
+BSA/AML Training shall provide details regarding this Standard and related Policy, including but not
+limited to the requirement to file reports to FinCEN, penalties for noncompliance with BSA related
+policies and legal requirements, and risks associated with money laundering and terrorist
+financing.
+To ensure that the content of the BSA/AML Training remains current, the BSA/AML Compliance
+Officer stays abreast of developments in the BSA and other related matters and directs updates to
+the BSA/AML Training, as appropriate.
+The Training Program is based on four elements of: 1 Mandatory Enterprise-Wide Training, 2 Role
+Specific Training, 3 Specialist Compliance Training, and 4 Board Training. Each element is
+defined in further detail below.
+7.1 Mandatory Enterprise-Wide Training
+Blockʼs education and Training Program is the responsibility of the BSA/AML Compliance Officer or
+their delegate. All Block employees and contractors receive BSA/AML training (“BSA/AML
+Trainingˮ) at least once per calendar year. Enterprise-wide training assignments are managed
+through Block's Learning Management System LMS. All employees and select contractors are
+required to complete their assigned modules within specified enrollment windows. The LMS tracks
+enrollment, progress and retains the documentation needed for compliance audits. The BSA/AML
+Training is provided to each new employee and contractor within a reasonable timeframe after
+their start date and thereafter each calendar year. The Enterprise BSA/AML training includes
+bitcoin specific training.
+7.2 Role-Specific Training
+Additionally, Block may require role-specific AML/CFT training based on individual or team
+responsibilities and their relevance to this Standard.
+
+7.3 Specialist Compliance Training
+Block Compliance Team members participate in a specialist compliance training program which
+includes both professional and technical development. Additionally, professional membership for
+the purpose of personal development of compliance professionals is encouraged by Block.
+7.4 Board Training
+The Board receives targeted AML/CFT training annually, inclusive of material changes and new
+developments in the BSA and the federal financial agenciesʼ regulations from which they are
+implemented.
+8. Independent Testing and Review
+Block's Internal Audit team conducts independent, periodic risk-based assessments on the overall
+adequacy and effectiveness of this Standard. This independent evaluation is conducted in
+accordance with Internal Audit standards and includes testing of compliance with all applicable
+reporting, record keeping, and program requirements of the BSA as well as related policies,
+standards, and applicable supporting procedures. Internal Audit retains individuals with the
+knowledge and expertise to conduct a thorough and effective review.
+Internal Audit updates ARC on the status and results of AML/BSA internal audits during their
+scheduled committee meetings summarizing any findings and resultant management action plans.
+Internal Audit also performs validation of any management action plan prior to acceptance of
+closure. The Board places accountability on Senior Management to address any results from the
+audit of the AML/CFT Program in an appropriate manner and to report on the status of any
+remediation efforts on a regular basis.
+9. Know Your Customer Program
+Although there may be different obligations and expectations for certain Business Lines and
+products, Block's KYC Program consists of a three-tier approach, starting with its Customer
+Identification Program ("CIP") as the minimum standard for Covered Products.The level of KYC
+varies depending on the level of potential AML/CFT risk presented. The three tiers which are
+defined in the sections that follow are:
+● Customer Identification Program (“CIPˮ);
+● Customer Due Diligence (“CDDˮ); and
+● Enhanced Due Diligence (“EDDˮ).
+For certain product lines (e.g., Cash App), customers may maintain accounts with limited
+functionality. These accounts are subject to product controls and limits, restricted functionality,
+and cumulative lifetime transaction limits designed to mitigate risks where customers have not
+successfully completed Identification & Verification processes.
+
+Block also uses risk-based controls to conduct ongoing customer due diligence (“OCDDˮ) of
+customers and their accounts. Refer to the section on “Ongoing Customer Due Diligenceˮ below.
+9.1 Customer Identification Program
+Block establishes standards for the collection of customer information Identity Collection) and
+verification Identity Verification) using reliable and independent sources to reasonably establish
+the identity of the customer.
+Identity Collection refers to the collection of key information, which may be collected directly from
+the customer or from third party sources.
+Identity Verification refers to the verification of certain aspects of this information to reasonably
+verify the identity of customers. Additional information may be collected for individual customers,
+including Social Security Number which is used to support the identity verification process. Block
+primarily relies on two methods for identity verification, depending on the circumstances:
+documentary or non-documentary. Identities may also be verified through a combination of both
+methods.
+Further details are documented in Business Line KYC/CIP standards and procedures.
+9.2 Lack of Verification
+Block maintains procedures for circumstances where it cannot form a reasonable belief that it
+knows the true identity of a customer for which identity verification is required. At a minimum,
+these procedures describe:
+● Circumstances in which Block should not open an account or should exit the relationship
+with the customer;
+● The terms under which a customer may use an account while Block attempts to verify the
+customerʼs identity;
+● When Block should close an account after attempts to verify a customerʼs identity have
+failed; and
+● When Block should file a suspicious activity report (“SARˮ) or similar applicable reports
+with a bank partner.
+9.3 Adequate Customer Notice
+Block provides customers with adequate notice that Block is requesting information to verify their
+identity. The notice must generally describe Blockʼs identification requirements and be provided in
+a manner that is reasonably designed to allow a customer to view the notice or otherwise receive
+the notice before the account is opened.
+
+9.4 Discrepancy Management
+Appropriate discrepancy management systems and processes are in place to deal with material
+discrepancies in CIP, including arrangements such as triggers, escalations and reviews.
+9.5 Customer Due Diligence
+Including CIP, Customer Due Diligence involves the collection and risk based verification of
+additional information from customers at onboarding, account setup, or on an ongoing basis.
+Depending on the business line, CDD and EDD are triggered when a customer presents certain
+signals of potential higher risk, based on the application of a Customer Risk Rating CRR or based
+on manual escalation or referral through other processes.
+9.6 Customer Risk Rating (“CRRˮ)
+Block has adopted an automated CRR Program to assess and manage customer risk throughout
+the account lifecycle. At the time of onboarding, all accounts are assigned an initial risk rating
+(activation CRR as well as part of ongoing customer due diligence (continuous CRR. The CRR
+Program applies, assigns and periodically updates risk ratings to customer accounts. The CRR
+Program operates in conjunction with other due diligence processes (e.g., KYC, to ensure
+risk-based compliance standards across Block's products and services.
+9.7 Politically Exposed Person (“PEPˮ)
+PEPs are often viewed as higher risk based on the potential risk that their funds may have derived
+from or involve foreign corruption, bribery, terrorist financing, or money laundering. Immediate
+family members or close associates of PEPs may pose a similar elevated risk as they may be used
+to conceal misappropriated funds. Block employs a risk-based approach to PEP monitoring. Refer
+to Business Line standards and procedures for further details.
+PEPs are categorized and defined as:
+● Domestic PEPs: Individuals who are or have been entrusted domestically US with
+prominent public functions;
+● Foreign PEPs: Individuals who are or have been entrusted with prominent public functions
+by a foreign (non-US) country;
+● International Organization PEPs: Individuals who are or have been entrusted with a
+prominent function by an international organization;
+● Family Member: Individuals who are related to a PEP either directly or through marriage or
+similar (civil) forms of partnerships; or
+● Close Associates: Individuals who are closely connected to a PEP, either socially or
+professionally.
+9.8 Adverse Media
+Block recognizes that information external to Block may contribute to a customerʼs elevated level
+of money laundering, terrorist financing, reputational, and financial crimes risk exposure. This
+
+information can be uncovered through adverse media screening resources and third-party vendor
+systems. Block employs a risk-based approach to adverse media monitoring. Refer to Business
+LineL standards and procedures for further details.
+9.9 Ongoing Customer Due Diligence (“OCDDˮ)
+Block uses risk based controls (automated, manual, or a combination of both) to conduct ongoing
+customer due diligence (“OCDDˮ) of customers and their accounts. The purpose of OCDD is to
+regularly review customers' transactional activity as well as keeping customer information up to
+date.
+CRR will be used to trigger refresh methods to keep the customer information up-to-date, including
+on a risk basis, requesting the customer to update profile information, triggering identity
+re-verification, and/or prompting EDD.
+9.10 Enhanced Due Diligence (“EDDˮ)
+Some customers pose higher money laundering, terrorist financing, reputational, or other
+crime-related risk. Block uses EDD measures and other controls to mitigate risk exposure
+associated with high-risk accounts and relationships, to evaluate whether the relationship will be
+retained, and to determine the measures required to appropriately manage the risk. Special
+circumstances, including PEP status, reputational risk concerns, or other elevated risk factors
+identified through review, may require EDD regardless of risk score. In these circumstances, EDD
+measures may be leveraged at the discretion of Compliance Leadership.
+Where applicable, EDD should be completed within a reasonable time after the customer has
+onboarded onto the platform, and on an ongoing basis.
+9.11 Documentation Refresh & Updated Verification
+Identification documentation that was valid at the time of onboarding, or at the time that the
+documentation was subsequently obtained, does not need to be updated upon expiration, except if
+there has been a material (e.g. name) change to the KYC profile, there is a legal requirement to
+obtain updated documentation upon expiration, or at the discretion of Block. When updated
+identification documentation must be provided, the new document(s) must be valid and unexpired.
+Additional information and documentation in the customer's KYC profile may require refresh during
+the scheduled periodic review in accordance to the table below:
+Customer Risk Rating2 Periodic Review Frequency
+High Annually
+Medium Every 3 years
+Low Every 5 years
+2 As determined by CRR Program or special circumstances described under 10.10 Enhanced Due Diligence (“EDD”)
+
+During this review, if Block becomes aware or has reason to believe information is no longer
+current or invalid, Block will attempt to update information through client outreach or by leveraging
+open source information depending on the information believed to be no longer valid. Customer
+information such as legal name and address should be confirmed as current and accurate. A
+material change, such as a legal name change, will require a refresh of the customerʼs identity
+verification through documentary methods and/or non-documentary methods or third party
+sources, as appropriate.
+The KYC refresh cadence is determined by the customerʼs assigned risk score, with high-risk
+customers undergoing reviews on an annual basis, medium-risk customers every three years, and
+low-risk customers every five years. For certain Business Line, alternative periodic review
+cadences may be adopted based on their respective compliance frameworks and risk
+considerations. As part of the refresh process, customers are required to confirm or update their
+personal information, including legal name and address, and may provide updated identification
+documentation if the previously provided documents have expired. If customers fail to meet the
+KYC refresh requirements within the designated timeframes, accounts may be subject to
+restrictions until compliance requirements are fulfilled.
+Inactive accounts are required to undergo the KYC refresh process upon reactivation, including
+verifying personal information and updating identification documentation if it has expired.
+Noncompliance with these requirements may result in account restrictions.
+9.12 Prohibited Customers
+Block maintains lists of prohibited customers and attributes associated with customers, such as
+phone number, device, and financial instrument, to ensure such customers are not permitted to
+onboard or open an account with Block. Lists are maintained and updated on a regular basis to
+ensure proper implementation of the KYC Program.
+10. Compliance & Enforcement
+10.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Board of Directors of Block, Inc.: The Board is primarily responsible for ensuring that Block
+establishes a comprehensive and effective program and an oversight framework that is
+reasonably designed to ensure compliance with applicable laws and regulations. The Board
+is additionally responsible for:
+○ Establishing an appropriate culture of BSA/AML compliance;
+○ Overseeing the ongoing effectiveness of the BSA/AML program;
+
+○ Ensuring that Senior Management is capable, qualified, and properly motivated to
+manage the compliance risks arising from each relevant subsidiary or jurisdiction's
+activities;and
+○ Appointing a BSA/AML officer responsible for coordinating, monitoring, and
+managing the operationalization of relevant programs.
+● Senior Management: Senior Management, which includes key members of Block's
+management team, is responsible for communicating and reinforcing the BSA/AML
+compliance culture established by the Board. Additionally, they are responsible for
+implementing and enforcing approved AML/CFT compliance policies and standards.
+● BSA/AML Compliance Officer: The BSA/AML Compliance Officer is responsible for
+coordinating and monitoring day-to-day BSA/AML compliance. Please refer to the section
+on the BSA/AML Compliance Officer for further details.
+● Compliance Leads or Leadership: Assist in coordinating, managing, and monitoring
+Block's BSA/AML Program Standard and review the Standard and related documents
+annually and upon any material change.
+● Business Lines: Internal business teams are subject to the Standard based on the products
+or services they develop, manage, and oversee. Business Lines ("BL") are responsible for
+implementing, maintaining, and complying with Standard requirements.
+● Internal Audit: Internal Audit is responsible for ensuring the company independently
+assesses Block's adherence to this Standard and key legal requirements / expectations and
+industry practices.
+● Staff Members: Staff Members play a crucial role in the prevention, detection and
+reporting of money laundering and terrorist financing violations. Staff Members are
+responsible for paying particular attention to customer behavior or transactions that may
+be unusual or warrant additional scrutiny, and must not knowingly provide advice or other
+assistance to individuals who attempt to violate laws, regulations, or Block's related
+policies, standards, or procedures.
+10.2 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+10.3 Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Standard, provided the proposed exception or exemption does not violate applicable law.
+Standard exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+
+with the exception. Any approved exceptions must be documented in writing and retained with
+record keeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+10.4 Confidentiality
+This document is confidential and should only be accessed by employees.
+11. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard owner.
+Review related documents:
+● Anti-Money Laundering & Counter Terrorist Financing Policy | Block, Inc.
+● Global Sanctions Policy | Block, Inc.
+● Global Sanctions Program | Block, Inc.
+12. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+John Alfano Head of Global Creation Review of former March 12, 2024
+Policy & Block Inc BSA/AML
+Governance Program Q4 2021.
+Migrated and
+reformatted into
+new Block template.
+Amelia Childress BSA/AML Material Approval March 12, 2024
+Compliance Change
+Officer Approval
+
+Approver Title Type Description Date
+Tyler Hand Block's Head of Material
+Compliance Change
+Approval
+Compliance Material Material changes: August 12, 2025
+Policy Committee change Key updates include
+Approval addressing
+compliance for
+virtual currency
+activities, new
+obligations for
+GTOs, and a new
+section on
+Continuing Activity
+Reporting.
+Expanded CRR
+programs and
+clarified KYC refresh
+policy. Expanded
+314(b) programs to
+formalize
+information-sharing
+under the USA
+PATRIOT Act,
+alongside improved
+SAR to address
+emerging risks such
+as terrorism
+financing and cyber
+threats.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Anti-Financial Crimes
+Document Owner Head of BSA/AML Program Office
+Approved By BSA/AML Compliance Officer
+
+Document Tier Tier 3

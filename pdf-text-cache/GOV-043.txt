@@ -1,0 +1,208 @@
+Training and Competence Standard
+Clearpay Finance Ltd
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: Clearpay Finance Limited (“Clearpayˮ) is committed to upholding the
+highest standards of conduct and governance. This Training and Competence Standard
+(“Standardˮ) outlines Clearpayʼs approach to complying with the Financial Conduct Authority
+(“FCAˮ)ʼs requirements to ensure all staff possess the required competence to undertake their
+responsibilities to Clearpay regulated activities. The Chief Compliance Officer is responsible for
+management of this Standard.
+Scope: This Standard applies to Clearpay, all its employees, outsourced service providers,
+consultants, contractors, suppliers and agents (“Clearpay employeesˮ).
+It is the duty of all Clearpay employees to be familiar with this Standard and any operational
+routines concerning Training and Competence which are relevant to their work. Mandatory
+compliance training administered in person and through Clearpayʼs Learning Management System
+(“LMSˮ) is managed under this Standard. Clearpay updates its Compliance Training Calendar on an
+annual basis , which details the schedule and audiences for global and regional mandatory
+compliance training for the calendar year.
+Clearpay is authorised and regulated by the FCA to enter into regulated consumer credit
+agreements with customers (“consumersˮ or “customersˮ). Under the FCAʼs Systems and Controls
+requirements (“SYSCˮ) Clearpay is required to ensure it employs personnel with the skills,
+knowledge and expertise necessary for the discharge of the responsibilities allocated to them.
+Clearpay also needs to ensure its systems and controls enable it to satisfy itself of the suitability of
+anyone who acts for it, including an assessment of their competence. This assessment should take
+account of the level of responsibility of that individual.
+Definitions:
+Terminology Definition
+1
+
+Assignment Generally, enterprise-wide mandatory compliance training is assigned to new
+hires within a week of onboarding and they are given 30 days to complete
+the training. For enterprise-wide mandatory compliance training assigned
+annually, staff are generally given 45 days to complete the training.
+Exceptions are outlined in the Compliance Training Calendar.
+Enrollment Staff Members who are assigned training based on eligibility criteria
+Audience determined and approved by the Content Owner for each training course.
+Training The end-to-end cycle to manage a specific training course.
+Campaign
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Standards, and includes
+interns, temporary workers, consultants, vendors, third-party providers and
+contractors.
+FCA Financial Conduct Authority Clearpay is authorised and regulated by the
+FCA.
+2. Standard Requirements
+2.1. Board Training
+Board Training is delivered on an annual basis to the Clearpay Board by the Chief Compliance
+Officer and/or Money Laundering Reporting Officer (“MLROˮ) or their delegate. This training may
+include but is not limited to AML, Anti-Bribery & Corruption (“ABCˮ),and Consumer Protection
+topics along with any additional content identified by the CCO. If a Board Director is also an
+employee, they will be waived from employee-level training if they attended the Director-level
+training.
+2.2. Intake Process
+New training requests for in-house development are considered and prioritised on a case-by-case
+basis by the Clearpay Training Team (“CTTˮ). The CTT then determines the best learning solution
+for required training, and the order in which the request will be prioritised against the Compliance
+Training Calendar (“CTCˮ).
+For training that will require vendor support, the CTT will manage the relationship, advise on
+system requirements, evaluate vendor options, customise vendor content, and support use of
+vendor content.
+2
+
+2.3 Training Records
+Training records are maintained and stored in accordance with Blockʼs Data Classification &
+Handling Policy.
+Training records include:
+● Training Content, including versions of training materials;
+● Records of Training Completion from LMS; and
+● Where applicable, records of Training Assessments and corresponding results.
+● Records are stored within the LMS and secure shared drives managed by the CTT.
+2.4 Communication Plan
+2.4.1 Annual Training Communication Plan
+In order to ensure completion of required foundational corporate Compliance training and maintain
+a culture of compliance, Clearpay has established the below communication and escalation
+process to ensure team members are encouraged to complete training by the required due date.
+Once training is assigned, employees must complete training within 30 days from annual training
+enrollment and enrollment for new hires (unless otherwise noted in the Compliance Training
+Calendar).
+2.4.2 New Hire & Other Modified Escalation Process
+The CTT review new hire completion rates are reviewed on a monthly basis and notifications are
+sent to employees and their leads for two monthly cycles or until complete for learners who are
+30 days overdue.
+Additionally, at times, select training may need to have a customised escalation process based on
+audience, requirements, campaign length, and/or subject matter. This determination is made in
+partnership between the CTT and the Content Owner. In these instances, a modified escalation
+process will be developed and applied to the campaign.
+2.4.3 Training Non-Completion
+Clearpay requires all Staff Members to complete and understand mandatory Compliance Training
+within established timeframes. Staff Members who do not complete training by established due
+dates may be subject to further escalations and or disciplinary action. Upon the conclusion of a
+Training Campaign cycle, the CTT will provide a final list of Staff Members with incomplete training
+to the HRBPs at the completion of the Training Campaign.
+2.5 Enrollment Waivers
+At times, it may be necessary, based on audience updates or changes to training requirements, to
+make changes to an approved Enrollment Audience after training has been assigned to employees
+3
+
+via LMS. The CTT manages a formal exception process for how these changes are managed and
+processed, following one of the two pathways described below.
+● Waivers: Waivers are enrollment exceptions that deviate from the audience Assignment
+parameters for an individual or group of individuals. Waivers are reviewed on a
+case-by-case basis by the CTT and Content Owners. For waivers (both individual and
+bulk), requestors must submit a request in writing providing a business justification for the
+unenrollment request. The CTT will review requests and work with respective Content
+Owners to determine if additional approvals are required (i.e. such as from Employment
+Counsel). If the waiver request is approved, the CTT will fulfill the request in the LMS and
+maintain a record of the request and its approval.
+● Changes to Training Audience: For any other changes to the training audience after
+training has been assigned (e.g. adding employees missed), Content Owners must make
+the request to the CTT in writing, detailing which course and how the audience needs to be
+updated. The CTT will maintain a record of the request and its approval.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Clearpay Roles:
+● Chief Compliance Officer CCO
+○ Advises on Clearpay training content review, provides input on relevant training
+requirements
+○ Delivers training to Clearpay Finance Ltd Board.
+○ Reviews and approves waivers for training based on eligibility; this responsibility
+may be delegated
+● Money Laundering Reporting Officer MLRO
+○ Advise on AML training content review, provides input on relevant training
+requirements
+○ Reviews and approves waivers for AML training based on eligibility; this
+responsibility may be delegated
+● Compliance Training Team CTT
+○ Owns and manages this Compliance Training & Competence Standard which
+outlines the requirements and strategy for implementing the requirements.
+○ Advises on training development and design, escalation process, communications
+plan, and other CTT-owned processes and enterprise-wide mandatory compliance
+training.
+○ Responsible for monitoring adherence to Standards requirements.
+○ Supports development of Compliance Training for the Clearpay Finance Ltd Board
+which are delivered and facilitated by the Chief Compliance Officer (“CCOˮ).
+● Content Owners:
+○ Own training content, and in collaboration with the Compliance Training Team
+4
+
+(“CTTˮ), are responsible for ensuring that their content and enrollment deliverables
+are completed by target dates.
+○ Provide the Enrollment Audience requirements for their training to the CTT.
+○ Review and approve final training content, audience, and waiver requests (based on
+eligibility criteria) prior to campaign launch
+● Human Resources Business Partners (“HRBPsˮ):
+○ Where Staff Members fail to complete their required Compliance Training HRBPs (in
+partnership with People Leads) determine and support disciplinary action, as
+appropriate.
+● People Leads:
+○ People Leads should ensure timely completion of training for all their team
+members.
+○ Where Staff Members fail to complete their required Compliance Training
+requirements, People Leads determine and or support disciplinary action, as
+appropriate.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related
+activities to evaluate adherence to the Standard and determine whether outputs adhere to
+established objectives.
+Specifically, training results are reported and submitted to the Clearpay Finance Ltd Board on a
+quarterly basis. Training reports include completion rates for each training and can be broken
+down by region, cost center, and team code. Training results are reported and submitted to the
+Clearpay Finance Ltd Board on a quarterly basis.
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Block Inc.ʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+Training records include:
+● Training Content, including versions of training materials;
+● Records of Training Completion from LMS; and
+● Where applicable, records of Training Assessments and corresponding results.
+Records are stored within the LMS and secure shared drives managed by the CTT.
+3.4 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+5
+
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions and Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Blockʼs Data Classification & Handling Policy
+● Block Code of Business Conduct and Ethics
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Adrienne La… Clearpay Chief Initial Appro… New document Mar 25, 2026
+Compliance
+Officer
+Document Details:
+Business Clearpay
+Scope UK
+Compliance Domain Governance
+6
+
+Document Owner Amanda Ettridge Clearpay UK Compliance Senior
+Manager
+Approved By Adrienne Lamond Clearpay UK Chief Compliance Officer
+Document Tier Tier 3
+7

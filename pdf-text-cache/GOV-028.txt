@@ -1,0 +1,538 @@
+Anti-Money Laundering,
+Countering the Financing
+of Terrorism & Sanctions
+Product Risk Assessment
+Standard
+Block
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc.
+and on a need-to-know basis.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 4
+1. Introduction 6
+2. Purpose 6
+3. Scope 6
+4. Product Risk Assessment Process Overview 7
+5. Global Methodology 7
+5.1 Confirm Triggering Event 8
+5.2 Determine Inherent Risk Rating 8
+5.2.1 Identifying Inherent Risk Factors 9
+5.3 Evaluating and Scoring Inherent Risk Factors 12
+5.3 Align Risk-Proportionate Controls 14
+5.3.1 Identify and Document Controls 14
+6. Communicating Results 15
+7. Document Management 16
+7.1 Document Owner 16
+7.2 Review and Approval 16
+8. Monitoring and Reporting 16
+9. Exceptions 16
+10. Record Retention 16
+11. Implementation Date and Transition Period 16
+12. Related Documentation or References 17
+13. Revision and Approval History 17
+14. Document Details 18
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Inherent Risk Level of risk of business processes and activities without considering the
+perceived mitigating effect of related controls
+Control Activity An activity that mitigates (some of) the risks associated with conducting
+business processes that could otherwise cause negative outcomes for
+the company, employees, shareholders, and/or community it services
+Control Mechanism designed to enable business to be conducted in an orderly
+Environment and efficient manner and ensure adherence to prescribed practice;
+Control The measure of how well a control is designed and/or operating to
+Effectiveness achieve the control objectives and address the cause and/or
+consequence of the risk.
+Launch For the purposes of the Product Risk Assessment, launch refers to the
+moment a Product or Feature is available for use by end users (inclusive
+of customers and internal employees).
+Product Risk A standardized set of evaluation points that is commissioned by the
+Assessment (PRA) Global Policy and Governance (GPG) team, which are intended to
+evaluate the inherent risk(s) associated with products and features. The
+evaluation points and risk assessment is focused on money laundering,
+terrorist financing, and sanctions risk only.1
+PRA Tool A user-friendly worksheet designed by the CGR-RA Team for business
+unit compliance to 1)determine if a triggering event has occurred,
+requiring a PRA; and, 2)complete a PRA
+Products and For the purposes of the PRA, Products and Features refers to the services
+Features (Products) that product teams build and release to end users, inclusive of internal
+customers.
+Product Initiative The process of bringing a new product to the market, renewing an
+existing product and introducing a product in a new market.
+Residual Risk Level of risk inclusive of considering the perceived mitigating effect of
+related controls.
+1 Work is underway to expand the scope of PRAs to include all compliance risk types.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+4
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibilities
+Compliance ● Manages the Anti-Money Laundering / Countering the Financing
+Governance and of Terrorisim & Sanctions Product Risk Assessment Standard
+Reporting Risk ● Develops and maintains the methodology
+Assessment Team ● Designs and manages tools and reporting
+(CGR-RA) ● Provides oversight and guidance for the PRA process
+Business Unit ● Responsible for maintaining and owning the PRAs related to the
+Compliance (i.e. products and features managed by their respective business units
+Product ● Responsible for designating an Assigned Person (as needed) to
+Compliance execute PRAs
+Management ● Facilitates collecting any information that must be acquired from
+(PCM), Global the product or business teams (such as information about product
+Regulatory controls)
+Oversight, Assigned ● Reviews and confirms accuracy of PRA Tool responses
+Persons) ● Responsible for ensuring all PRAs and associated control
+documentation are stored in the PRA Tracker at go/RA
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Product Risk Assessment Standard (“Standard”) outlines Block’s approach to conduct
+Anti-Money Laundering (“AML”) and Countering the Financing of Terrorism (“CFT”) & Sanctions
+Product Risk Assessment(s) (“PRA”) and ensure a consistent and standardized approach across all
+business lines and markets in which we operate. The Compliance Governance and Reporting Risk
+Assessment Lead is responsible for management of this Standard.
+PRAs are used to:
+● Self-identify products and features that may pose potential AML/CFT & Sanctions risks;
+● Measure, document, and prioritize risk;
+● Evaluate and develop sound controls;
+● Assess current control environment relevant to the product or feature launch; and
+● Identify opportunities to strengthen the control environment as appropriate.
+The PRA is an AML/CFT & Sanctions assessment that measures the product-specific inherent risks to
+inform and align control activities prior to the launch of new Products and Features. This process
+requires the use of a worksheet (“PRA Tool”) to standardize the approach and drive consistency in the
+evaluation of risks.
+2. Purpose
+This Standard outlines Block’s requirements and process for managing risks associated with its
+products and services, ensuring compliance with AML/CFT sanctions regulations, and other related
+laws and standards. This Standard further aims to protect Block’s business integrity, maintain
+customer trust, and minimize financial and reputational risks.
+3. Scope
+This PRA process is applicable to all products & services within Block’s businesses, including but not
+limited to Square, Cash App, Afterpay and TIDAL business units. PRAs are conducted by each Block
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+6
+
+Confidential and Not for Distribution
+business unit on all Products and Features whose characteristics and functionality may present the
+risk of money laundering, terrorist financing, or sanctions violations.
+The PRA is used to ensure that Compliance and Business stakeholders are aware of the AML/CFT
+and Sanctions inherent risks prior to launch of the product with adequate time to consider whether
+to enhance existing or implement new controls.
+Note: Following a determination that a PRA is required, it is a standing condition for go-live of a new
+product that controls are identified and documented for all identified areas of increased risk
+identified by the PRA Tool. See section 5.3 Align Risk-Proportionate Controls for more information.
+4. Product Risk Assessment Process Overview
+The PRA is a Block enforced requirement that is completed prior to product launch. Business Unit
+Compliance is responsible for completing the PRA in addition to coordinating any requirements
+from relevant stakeholders. The PRA must be completed in accordance with the following steps:
+1. Qualify need for PRA using the ‘Triggering Event Evaluation’ within the PRA Tool;
+2. Determine Inherent Risk rating by completing the assessment in the PRA Tool;
+3. Align risk proportionate controls to all areas of increased risk identified by the PRA Tool;
+and
+4. Communicate results to relevant stakeholders.
+Further explanation of each step is found below in the Global Methodology section.
+5. Global Methodology
+The PRA should be conducted in accordance with the requirements set forth above and the
+methodology described below.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+7
+
+Confidential and Not for Distribution
+5.1 Confirm Triggering Event
+When launching new products, materially enhancing existing products, registering new entities, or
+following a merger & acquisition, Block's exposure to money laundering, terrorist financing and
+sanctions risk may be impacted. Certain activities require a PRA. These activities are referred to as a
+Triggering Event. PRAs are required to be completed whenever there is an applicable Triggering
+Event, in alignment with the relevant program and tools managed by the CGR-RA Team. Examples
+of Triggering Events for which a PRA must be completed include but are not limited to:
+● Introduction of a new product or feature that is:
+○ Not currently offered by the business unit;
+○ Being launched for the first time; or
+○ Introduced to Block through mergers or acquisitions.
+● Material changes to an existing product or feature including but not limited to:
+○ The introduction of new payment methods, transaction types, or payment options
+such as credit facilities, investment options, e-wallets, or crypto/virtual currencies;
+○ The addition of new delivery channels, such as mobile app integrations, online
+marketplaces, or blockchain integrations;
+○ Changes to product jurisdiction, including expansion into new regions, new
+geographic markets, or changes from domestic-only to cross-border functionality;
+○ Introduction of product to new customer types, including: corporate customer
+segment, non-profit organizations, government segments, or other changes to
+initial product targets;
+○ An increase of transaction limits or thresholds;
+○ Change of a product from unregulated to regulated; and
+5.2 Determine Inherent Risk Rating
+The PRA Tool serves as a structured mechanism for identifying and assessing the inherent risks
+posed by various product characteristics, functionalities, and usage scenarios. It encompasses a set
+of risk factors or attributes that are relevant to the product or service being evaluated. These risk
+factors include elements such as the product's accessibility, geographical reach, customer base,
+transaction types, funding sources, anonymity features, and potential for misuse or exploitation by
+bad actors.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+8
+
+Confidential and Not for Distribution
+5.2.1 Identifying Inherent Risk Factors
+By examining each risk factor and its associated implications, the PRA Tool facilitates a thorough
+understanding of the risks inherent to the product, prior to considering any mitigating controls or
+measures. The following factors are considered for the identification of risk with accompanying
+rationale2 for their inclusion.
+Risk Factor Rationale
+Identify what countries or The countries or jurisdictions in which a product is offered or
+jurisdictions this product available can present money-laundering, terrorist financing, and/or
+will be offered/available in sanctions risks. Some jurisdictions may have weaker AML/CFT
+and/or Sanctions regulations or enforcement, making it easier for
+illicit actors to exploit regulatory gaps or inconsistencies.
+Additionally, certain high-risk jurisdictions may be subject to
+international sanctions or identified as havens for illegal activities,
+increasing the risk of facilitating prohibited transactions or the
+movement of illicit funds. Offering a product in multiple
+jurisdictions can also complicate compliance efforts due to varying
+regulatory requirements and the need for enhanced due diligence
+and monitoring measures.
+This product can be This factor indicates that the product has the ability to function
+operated/used outside of beyond the boundaries of the jurisdiction it originated in, adding
+the jurisdiction it was risk as different jurisdictions may have varying regulations,
+provisioned in enforcement mechanisms, and reporting requirements, making it
+easier for illicit actors to exploit regulatory gaps or inconsistencies.
+This product allows for a Third-party involvement can introduce additional layers of risk and
+3rd party (individual or complexity in ensuring compliance with regulations, through
+entity that is not the obscuring the true beneficial ownership or control of funds or
+customer) to give facilitating the movement of illicit proceeds or circumventing
+instructions, transact, or financial restrictions.
+use the product
+The ownership of this The potential for customers to transfer ownership of the product
+product can be transferred and the implications this may have on privacy and anonymity
+by the Customer concerns. Transferring ownership could impact how the product is
+attributed to a specific customer and may introduce anonymity
+risks if ownership transfer occurs without proper verification and
+due diligence, obfuscating the true beneficial ownership of the
+product or facilitating the movement of illicit proceeds or
+circumventing financial restrictions.
+2 Please refer to the PRA Tool for product and use examples for each Risk Factor.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+9
+
+Confidential and Not for Distribution
+This product (transactions) Involvement of multiple parties across different jurisdictions can
+involves multiple parties introduce complexities and regulatory challenges, which presents
+and/or multiple risk due to the increased difficulty in tracing the source and
+jurisdictions destination of funds, as well as the potential for jurisdictional
+arbitrage or exploitation of regulatory loopholes. International
+funding sources and payments raise potential money laundering
+and regulatory concerns, as they can be used to obscure the true
+source of funds, facilitate the movement of illicit proceeds across
+borders, or circumvent sanctions or other financial restrictions.
+This product allows Payments or fundings from third parties that are not part of the
+payments or fundings from relationship increases the risk of illicit activities, as these third
+3rd parties that are not parties may not be vetted or monitored to the same extent as
+part of the customer’s customers with an established relationship. Furthermore, this
+account (relationship) arrangement may also create opportunities for money laundering
+schemes, such as layering and integration, to be carried out
+through the transfer of funds between entities.
+This product allows for Overpayments and refunds can be used to disguise the source of
+overpayments with the funds or facilitate the movement of illicit proceeds. Overpayments
+possibility of a refund back and refunds can create a lack of transparency in transaction history.
+to the Customer
+This product allows for Untethered refunds can be misused to evade regulatory scrutiny or
+untethered (not tied to a disguise the origins of funds, and can be used to introduce illicit
+transaction) refunds to be proceeds into the financial system or facilitate the movement of
+issued (including those by funds without a legitimate source or purpose.
+the Customer to 3rd
+parties)
+This product allows for the Direct deposit or funding from third-party virtual currency
+direct deposit or funding accounts may involve heightened risks related to anonymity and
+from 3rd party virtual regulatory compliance, presenting risk as virtual currencies can be
+currency accounts used to obscure the source of funds, facilitate cross-border
+(including unhosted transfers, and circumvent financial controls or reporting
+wallets) requirements.
+This product allows for Indirect cash deposits may be used to conceal the source or nature
+indirect cash (physical) of funds, posing money laundering risks, as cash transactions are
+deposits, i.e. transfers from more difficult to trace and can be used to introduce illicit proceeds
+Western Union, into the financial system or facilitate the movement of funds
+MoneyGram, UA Exchange, without a legitimate source or purpose.
+Cash Services Transport
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+10
+
+Confidential and Not for Distribution
+This product can be funded Use of non-domestic funding sources and payment instruments
+(or payments received) by may complicate regulatory compliance efforts, presenting a risk as
+the use of non-domestic it can be more challenging to verify the legitimacy of foreign
+(international) funding funding sources, monitor cross-border transactions for suspicious
+sources or payment activities, or comply with applicable regulations in multiple
+instruments (i.e. foreign jurisdictions.
+issued cards, foreign bank
+accounts)
+This product involves the Use of physical currency can increase the risk of cash-intensive
+use of (or supports the use money laundering activities, as cash transactions are more difficult
+of) physical currency to trace and can be used to obscure the source of funds or facilitate
+the movement of illicit proceeds.
+This product facilitates or Facilitation of high-value transactions may indicate a higher risk of
+encourages high-value financial crime, as large sums of money can be more attractive
+transactions (greater than targets for money laundering, terrorist financing, or other illicit
+$10,000) activities. High-value transactions can be used to move significant
+amounts of illicit proceeds into the financial system, potentially
+circumventing reporting requirements or taking advantage of
+higher thresholds for scrutiny. Additionally, large transactions can
+be more appealing for terrorist financing activities, as they can
+facilitate the transfer of substantial funds to support illegal
+operations.
+This product supports high High transaction velocity may suggest potential attempts to
+velocity of transactions circumvent transaction monitoring requirements, which presents a
+money-laundering risk as it can be used to break down large sums
+of money into smaller transactions to avoid detection or reporting
+thresholds.
+This product can be Provisioning a product to a customer without human-to-human
+provisioned to a Customer interactions may raise concerns about identity verification and due
+without human-to-human diligence, which presents a money-laundering, terrorist financing,
+interactions (i.e. offered and/or sanctions risk because it can increase the potential for
+online) identity fraud or impersonation, allowing illicit actors to access
+financial products or services without proper scrutiny.
+This product allows for Anonymity of end-users can be exploited for illicit purposes, such as
+anonymity of the end-user money laundering or terrorist financing, as it can obscure the true
+/ Customer identities and beneficial ownership of funds, facilitating the
+movement of illicit proceeds or the financing of illegal activities.
+This product leverages Leveraging introducers or intermediaries can amplify risks of
+introducers or financial crime and money laundering, as it introduces additional
+intermediaries (3rd parties) layers of complexity and potential obfuscation of the true beneficial
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+11
+
+Confidential and Not for Distribution
+ownership or source of funds, which can facilitate the movement of
+illicit proceeds or circumvention of financial restrictions.
+This product allows for the The cross-border movement of funds raises potential risks related
+transference or exchange to money laundering, sanctions evasion, and regulatory
+of funds across compliance. International fund transfers can be used to obscure
+international borders. the true source or destination of funds, facilitate the movement of
+illicit proceeds across jurisdictions, or circumvent financial
+restrictions or reporting requirements imposed by different
+countries. Additionally, varying AML and CFT regulations across
+borders can create vulnerabilities if funds are transferred to or from
+jurisdictions with weaker controls or oversight.
+This product allows for the Conversion of funds and the use of gift cards can be exploited for
+conversion of funds from money laundering or illicit financial activities, as they can be used
+one form or currency to to disguise the source of funds, facilitate the movement of illicit
+another (this also includes proceeds, or evade financial reporting requirements, presenting a
+the purchasing or money-laundering risk.
+refunding of gift cards)
+5.3 Evaluating and Scoring Inherent Risk Factors
+The PRA Tool provides a structured approach to assessing the inherent risks associated with any
+given product or service by evaluating each risk factor based on its applicability and potential
+impact. The assessment involves categorizing each risk factor as "Expected," "Possible," or "Not
+Operationally Possible," with each response carrying specific implications and considerations.
+Inherent Risk Response
+Response Definition
+Expected The "Expected" response should be selected for risk factors
+that are core design elements, inherent features, or
+fundamental capabilities of the product itself. These are risk
+factors that are directly aligned with the product's intended
+functionality, purpose, and anticipated use cases.
+Essentially, if a risk factor represents a key attribute,
+functionality, or characteristic that is deliberately built into the
+product and is an essential part of its operation or value
+proposition, it should be categorized as "Expected." These are
+not ancillary or peripheral risks but rather risks that are
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+12
+
+Confidential and Not for Distribution
+inherently present and expected to be facilitated by the
+nature of the product itself.
+Possible The "Possible" response is more appropriate for risk factors that
+could potentially be facilitated by the product, but they are not
+fundamental or prevalent aspects of its operation. These are risk
+factors that may arise under certain circumstances or specific
+usage scenarios, but they are not inherently expected or
+encouraged by the product's core design or functionality.
+Not Operationally Possible The "Not Operationally Possible" response should be selected
+for risk factors that are fundamentally incompatible with the
+product's design, architecture, or intended functionality. These
+are risk factors that cannot be facilitated or realized due to
+inherent limitations or characteristics of the product itself,
+rather than the presence or absence of controls.
+The key distinction for this category is that the risk factor is
+fundamentally precluded or cannot be realized due to the
+product's inherent design, architecture, or intended
+functionality, rather than the presence or absence of specific
+controls or operational constraints.
+When evaluating inherent risk factors using the PRA Tool a comprehensive scoring methodology is
+employed. Each of the 19 inherent risk factors are rated on a scale of "Expected," "Possible," or "Not
+Operationally Possible," with corresponding numerical values assigned to facilitate quantitative
+analysis.
+The "Expected" rating carries the highest score of 5, indicating that the risk factor is a core element,
+inherent feature, or fundamental capability of the product itself, directly aligned with its intended
+functionality, purpose, and anticipated use cases.
+The "Possible" rating is assigned a medium score of 3, reflecting risk factors that, while not
+fundamental to the product's core design or purpose, could potentially arise or be facilitated by the
+product's capabilities or usage scenarios.
+The "Not Operationally Possible" rating receives the lowest score of 1, representing risk factors that
+are fundamentally incompatible with the product's design, architecture, or intended functionality,
+and cannot be realized due to inherent limitations or characteristics of the product itself.
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+13
+
+Confidential and Not for Distribution
+To determine the overall inherent risk level, the scores for each of the 19 risk factors are summed,
+resulting in a total score ranging from 19 (if all risk factors are rated "Not Operationally Possible") to 95
+(if all risk factors are rated "Expected").
+This total score is then mapped onto a 5-band3 matrix with predefined thresholds:
+Risk Thresholds (19 Factors/Questions)
+19 to < 34.2 Low
+34.2 to < 49.4 Medium Low
+49.4 to < 64.6 Medium
+64.6 to < 79.8 Medium High
+79.8 to < 96 High
+96+ Prohibited4
+By categorizing each risk factor based on its applicability and summing the scores, the overall
+inherent risk level can be determined and mapped to the corresponding band on the matrix. This
+quantitative approach provides a structured and consistent method for evaluating and
+communicating the inherent risk associated with the product, facilitating informed decision-making
+and risk management strategies.
+5.3 Align Risk-Proportionate Controls
+After documenting the inherent risks responses with all 19 factors considered and the rationale
+behind the inherent risk rating, at a minimum, controls objectives need to be documented to
+evidence how they mitigate or prevent those factors rated High (Expected) and to evidence how
+they monitor those factors rated Medium (Possible).
+5.3.1 Identify and Document Controls
+The focus of this stage is to ensure the application of necessary controls to mitigate the risks
+exposure for the product in scope. This stage is crucial as it lays the foundation for effective risk
+3 The five risk bands are created by dividing the total score range (76) into five equal parts (15.2 each), and then adding these
+increments to the minimum score (19) to determine the thresholds for each band. This approach ensures that the risk levels
+are evenly distributed across the total possible score range, with each band representing a 20% portion of the range.
+4 The threshold for Prohibited can only be met if a Comprehensive Sanctioned Country is chosen as a location of product
+offering or availability
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+14
+
+Confidential and Not for Distribution
+management and control implementation before the product becomes operational. Block
+accomplishes this by leveraging the output from the PRA Tool to identify and document the controls
+that will be implemented to mitigate the inherent risks identified.
+Control considerations derived from regulatory guidance5 have been incorporated into the PRA Tool
+to serve as both decision support and to assist in the evaluation of the requisite Control(s) required
+prior to go-live. Once identified these controls should be specific, measurable, and aligned with
+industry best practices and regulatory requirements. As such, the following information must be
+included in the Business Unit control library as a part of their post-launch process:
+a. Control Description;
+b. Control type (preventive, detective, or mitigative);
+c. Control automation (manual or automated);
+d. Control frequency (real-time, periodic, or ad-hoc);
+e. Control ownership and accountability; and
+f. Control monitoring and reporting mechanisms.
+6. Communicating Results
+Upon completing the PRA, Business Unit Compliance will communicate both the inherent risks as
+well as the recommendation of controls from the PRA through the uploading of the results to the
+PRA Tracker File.
+At any given time, there will only be one version (per product) of a Product Risk Assessment that will
+be considered the source of truth for each combination of product and market. It should also be
+noted that one or more draft versions of a given PRA may be in circulation for review until approval.
+All draft versions are not considered formally approved and therefore not subject to storage and
+archive requirements. All PRAs should be stored within the PRA Tracker File.6
+5 Regulatory guidance and considerations obtained from sources including the FFIEC Exam Manual and Office of
+Foreign Assets Control Regulations, and the European Banking Authority.
+6 Please refer to go/RA for PRA Tracker File link and access
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+15
+
+Confidential and Not for Distribution
+7. Document Management
+7.1 Document Owner
+This document is owned by the Compliance Governance and Reporting Risk Assessment Lead or
+their designee.
+7.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+8. Monitoring and Reporting
+On an ongoing basis, the Document Owner and/or their designee will monitor Program related
+activities to evaluate adherence to the Program and determine whether outputs adhere to
+established objectives.
+9. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Program. Any approved exceptions or exemptions should be submitted to the Policy
+Governance Team at go/policyhelp and will be retained in accordance with Block’s record retention
+requirements. The Document Owner and/or designee will inform Compliance Leadership and any
+applicable committees, as needed, of exceptions.
+10. Record Retention
+Block will maintain records of this Program in accordance with Block’s document retention
+guidelines.
+11. Implementation Date and Transition Period
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+16
+
+Confidential and Not for Distribution
+Block and all applicable subsidiaries are expected to be in full compliance with requirements of this
+document upon approval date of this document. Any Business Units or entities in scope that are
+unable to meet the date are expected to log an issue in accordance with the Issue Management
+Program.
+12. Related Documentation or References
+Related Documents:
+Related Policy Anti-Money Laundering & Counter-Terrorist Financing Policy | Bl…
+Related Program Anti-Money Laundering, Counter-Terrorist Financing & Sanctions…
+13. Revision and Approval History
+Stakeholder Review Tracking
+Reviewer Team Stakeholder Status Date
+Represented
+Jason Liberman Cash Product Reviewed/Feedback Provided Jun 28, 2024
+Compliance
+Tim Spencer Square Product Reviewed/Feedback Provided Jun 28, 2024
+Compliance
+Estefania Scherer Global Sanctions Reviewed/Feedback Provided Jun 28, 2024
+Document History
+Name Title Approval Type Description Date
+Joseph DiLella Risk Assessment Creation N/A Jun 20, 2024
+Lead
+Sherry Stevens Head of Initial Appro… N/A Jun 28, 2024
+Compliance
+Governance &
+Reporting
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+17
+
+Confidential and Not for Distribution
+14. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Joseph DiLella - Risk Assessment Lead
+Last Approval Date Jun 28, 2024
+Effective Date Jul 1, 2024
+Approved By Sherry Stevens
+Document Review Schedule Annually
+Anti-Money Laundering, Combating the Financing of Terrorism & Sanctions Product Risk Assessment Standard
+| Block
+18

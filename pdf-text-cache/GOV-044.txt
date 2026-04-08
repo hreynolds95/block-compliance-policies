@@ -1,0 +1,339 @@
+T
+Compliance InFcident
+Management Reporting
+A
+Standard
+R
+D
+Block
+May 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Compliance Incident Management Standard | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+1. Introduction 8
+2. Purpose 8
+3. Scope 8
+4. Standard Requirements 8
+4.1 Incident Identification / Detection 9
+4.2 Incident Documentation & Escalation 9
+4.2 Incident Stabilization / Remediation 9
+5. Document Management 10
+5.1 Document Owner 10
+5.2 Review and Approval 10
+6. Exceptions 11
+7. Record Retention 11
+8. Implementation Date and Transition Period 11
+9. Related Documentation or References 11
+10. Revision and Approval History 11
+11. Document Details 12
+Compliance Incident Management Standard | Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Incident An unforeseen, unplanned or near-miss event that negatively impacts
+our operations, quality of services and/or function. An Incident may be
+caused by either (or a combination of) internal control failure(s) or an
+external event outside of the organization’s control.
+An incident is separate from but can be related to Issues a high level
+control improvement, actions, risks or regulatory changes, etc.
+Issue A deficiency, gap, or weakness in the design, performance, or operating
+effectiveness of a process or control or the absence of a control.
+Production An Engineering event impacting one or more of the following:
+Incidents
+(Non-Security 1. a significant service (e.g., payment rails, Cash App)
+Incident) 2. a significant number of services (e.g., refunds, reporting, & logins)
+3. a significant number of customers (e.g., x% of certain customers)
+4. a significant miss in service level availability (e.g., product/service
+is X% down)
+Security/Privacy A confirmed breach, policy violation, or event that threatens the
+Incident confidentiality, integrity, or availability of Block Information, requiring
+investigation and response.
+Any loss or unauthorized access to, or acquisition or use of, Block’s
+information maintained by, or on behalf of, Block, or malicious or
+non-malicious activities or vulnerabilities that result in unauthorized
+modification or damage to Block technology or systems, including the
+Block network or mobile applications.
+A non-exhaustive list of examples includes computer system intrusion,
+suspected or actual breaches, compromises, or other unauthorized
+access to Block systems, data, applications, or accounts, denial of service
+(DDoS) attack or an attack that prevents or impairs the authorized use of
+networks, systems, or applications.
+SEV Levels Severity levels are defined by impact (e.g., SEV 0 to SEV 4), guiding
+prioritization and response efforts. SEVs is shorthand for a Product
+Incident.
+Block SEV Levels
+● SEV 0: Adversely affecting crucial, time-sensitive business
+activities for our Sellers, resulting in financial loss or damage to
+their reputation. For example: blocking Sales or Deposits. Triggers
+Compliance Incident Management Standard | Block
+4
+
+Confidential and Not for Distribution
+Terminology Definition
+update to issquareup.com
+● SEV 1: Adversely affecting crucial business activities for our Sellers,
+with the potential to incur financial loss or harm their reputation.
+For example: blocking Payroll runs or administrative tasks
+Triggers update to issquareup.com
+● SEV 2: Disrupting non-essential operations that can reasonably
+be postponed during the incidents’ occurrence. For example:
+delaying a non-critical report
+● SEV 3: Minimal disruption to non-essential operations.
+Cash SEV Levels:
+● SEV 0: Any incident that threatens Block or Cash in any market
+with serious reputational, regulatory, or business harm.
+● SEV 1: Any incident that significantly impacts a large group of
+customers or causes widespread work halting for Cash engs.
+● SEV 2: An incident that inconveniences a large group of
+customers or Cash engs (e.g. work halting for 30 or more
+engineers).
+● SEV 3: An incident that affects a small enough group that there is
+no noticeable impact to customer success, or where there is an
+obvious workaround. Internal SEVs have minor impact or impact
+few employees.
+● SEV 4: Indicates that external customers or developers are not
+impacted.
+Square SEV Levels:
+● SEV 0: Any incident that stops a seller from running their
+business. Threatens Square in any market with serious
+reputational, regulatory, or business harm. (e.g., blocking Sales or
+Deposits)
+● SEV 1: Any incident that significantly impacts a large group of
+customers or causes work halting (e.g. blocking Payroll runs or
+administrative tasks)
+● SEV 2: An incident that inconveniences a large group of
+customers or engs, or where there is an obvious workaround.
+● SEV 3: An incident that affects a small enough group that there is
+no noticeable impact to customer success or the seller
+● SEV 4: Indicates that external customers or developers are not
+impacted. Preemptive SEVs.
+On-Call Bug A bug is an error, flaw, failure, or fault in a computer program or system
+that causes it to produce an incorrect, or unexpected result, or to behave
+in unintended ways.
+Compliance Incident Management Standard | Block
+5
+
+Confidential and Not for Distribution
+Terminology Definition
+Depending on the impact, bugs can be fixed immediately &/or live in our
+codebase indefinitely, or simply fall somewhere in between.
+incident.io An incident management platform in use at Block. There are two
+distinct, highly customized instances currently in use; one for the Cash
+App and one for Square. The two instances operate independently in
+both workflow and configuration.
+incident.io is integrated with Slack, PagerDuty, and Jira.
+Rootly An incident management platform for managing and resolving
+Information Security and Privacy related incidents. Rootly is integrated
+with tools like Slack and Jira to automate and streamline incident
+response processes.
+PagerDuty PagerDuty is a SaaS incident command system used by Block across all
+brands.
+Fire Hydrant An incident management platform used for Production Incidents for
+Afterpay. It is integrated with Slack, PagerDuty, and Jira.
+Datadog Datadog is a monitoring and analytics tool used by Engineering to track
+the performance and health of applications and infrastructure.
+Stabilization Stabilization is the process of restoring normal activity. All Incidents
+require stabilization.
+Remediation Distinct from Stabilization, Remediation is the process of undoing the
+harm caused. Remediation is not required for all Incidents.
+Roles and Responsibilities
+Role Responsibility
+Compliance Responsible for monitoring processes and operations to identify and
+escalate Compliance-related Incidents, including Anti-Money
+Laundering (“AML”)/Countering Financial Terrorism (“CFT”) &
+Sanctions-related Incidents.
+Detection and Responsible for detecting, assessing, and responding to Security
+Response Team Incidents.
+(“DART”)
+DART operational teams handle the initial response for all Information
+Security/Privacy Incidents using the DART Security Incident Response
+Compliance Incident Management Standard | Block
+6
+
+Confidential and Not for Distribution
+Runbook (“IRP”). For Information Security/Privacy Incidents that do not
+meet the threshold to trigger the IRP, the Runbook guides resolution of
+those other Incidents.
+DART is responsible for assessing and responding to any potential
+Security/Privacy Incidents. These incidents may be detected through
+various sources, including internal or external IT sources, employees,
+anonymous reports, third parties, the press, or law enforcement.
+Anything suspicious should be reported to DART, which actively
+monitors for Security/Privacy Incidents and evaluates their seriousness.
+Incident Response After an evaluation, if a Security/Privacy Incident is deemed Critical or
+Team (“IRT”) High Impact, Block will mobilize the IRT, which is responsible for
+managing and resolving Security Incidents, led by the CISO.
+Computer Security The DART team that investigates and resolves Security/Privacy Incidents.
+Incident Response
+Team (“CSIRT”)
+Compliance Group Advise the IRT on compliance-related decisions during an incident,
+Lead ensuring that actions taken do not expose the organization to legal risks.
+Counsel Group Responsible for overseeing legal aspects of the incident response,
+Lead ensuring compliance, providing guidance, coordinating with external
+legal entities, assessing legal risks, managing stakeholder
+communication, and maintaining documentation for potential legal
+proceedings.
+Privacy Group Lead Responsible for managing and protecting data privacy during an
+incident, ensuring compliance with data protection laws, advising on
+privacy issues (including determining whether notification to data
+subjects, regulators and / or partners is necessary), coordinating with
+regulators, overseeing privacy safeguards, managing breach
+notifications, and maintaining records of privacy-related action
+Service Providers / When Block is informed of an Incident at a third party, the IRT may rely
+Third Party on a DRI to facilitate communication with their partner or vendor.
+All communications with 3rd parties regarding a Block Security Incident
+or investigation must be approved by Block Legal.
+Technology In instances of high severity Production Incidents, Block will mobilize
+Operations Teams TechOps, which is responsible for coordinating and managing towards
+(“TechOps”) stabilization and recovery.
+Compliance Incident Management Standard | Block
+7
+
+Confidential and Not for Distribution
+1. Introduction
+This Compliance Incident Management (“Standard”) outlines Block, Inc.’s approach to managing and
+reporting Compliance-related Non-Security Incidents and Security Incidents (collectively, “Incidents”
+or “SEVs”), including, among others, Anti-Money Laundering AML/CFT and Sanctions Incidents and
+Consumer Protection Incidents.
+2. Purpose
+Block, Inc. (“Block”) conducts business in compliance with all applicable laws and regulations. The
+purpose of this Standard is to establish a unified framework for the management of Incidents across
+the Compliance organization, ensuring compliance with regulatory obligations, adherence to
+Block-level frameworks, operational resilience, and timely communication to stakeholders.
+3. Scope
+This Standard is established by Block and is applicable globally across Block’s Compliance
+organization.
+4. Standard Requirements
+This Standard describes the framework that Compliance follows to respond to, contain, remediate,
+and resolve Incidents involving Compliance-related processes, systems, tools, or data. It also
+describes the structure, roles, and responsibilities of key personnel involved in responding to and
+escalating such Incidents.
+The Compliance organization adheres to Block’s enterprise-wide Incident Management frameworks,
+including the Block Information Security Incident Response Plan and the Block Security Incident
+Management Framework. Compliance plays a key role in the identification, escalation, assessment,
+resolution, and documentation of incidents and breaches related to Compliance systems, processes,
+and operations.
+Compliance Incident Management Standard | Block
+8
+
+Confidential and Not for Distribution
+4.1 Incident Identification / Detection
+Through daily monitoring of processes including internal detection alerts notifications, metrics
+dashboard monitoring, or by other teams such as Customer Service, Compliance may identify
+Incidents negatively impacting the operational integrity and/or quality of the organization’s services
+or functions, including transaction alert failures, tooling issues, KYC system degradations, and
+Sanctions-related breaches. Compliance Incidents may be caused by production changes, third
+party vendor failure, or unexpected user behavior.
+4.2 Incident Documentation & Escalation
+In the event of an Incident impacting compliance, risk, tooling systems, or customer experience,
+Compliance assesses the severity of the issue, the potential operational and regulatory impact, and
+the urgency of escalation to the tool or system owners. The team then notifies the appropriate
+platform, system, tool, or process owner of the Incident and provides a summary. Relevant details are
+documented, ensuring visibility across functions and providing a central location for tracking
+discussions and actions. Compliance also supports the IRT’s Counsel Group Lead and Privacy Group
+Lead to ensure that Incidents are reported to external authorities, as required.
+4.2 Incident Stabilization / Remediation
+The goal of Incident Management at Block is to restore normal and reliable service as quickly as
+possible and minimize customer harm, ensure Incidents are detected and solved consistently, direct
+support resources where most required, and provide detailed and relevant information to all internal
+and external stakeholders, allowing support processes to be optimized and refined, and the number
+of Incidents to be reduced.
+Remediation coordination and completion, which is distinct from Stabilization, depends on
+ownership and/or control of the platform, system, or tool. The Compliance, Product, and Engineering
+teams each have defined points of contact (“DRIs”) who collaborate during investigations. Access
+and database management are handled by platform teams with system owner approval.
+Key stakeholders from Compliance Leadership, Risk Management, Ops Team Leadership, and
+Engineering Teams maintain regular communication throughout incident resolution, as needed.
+Compliance Incident Management Standard | Block
+9
+
+Confidential and Not for Distribution
+Communications are maintained with all key stakeholders, including Compliance, may be engaged
+to:
+● Drive resolution through various channels (e.g., Slack discussions, huddles, or emergency
+syncs)
+● Provide regular updates on issue status and actions taken;
+● Ensure timely mitigation and documentation; and
+● Coordinate with and engage legal on potential regulatory notifications
+4.4 Postmortem Process
+Incidents require postmortems that document root causes and remediation plans, where applicable.
+Upon resolution, a post-mortem review meeting should be held to review the Root Cause Analysis
+(“RCA”), timeline, lessons learned, and remediation and prevention actions. The Incident and RCA are
+documented in the designated system of record.
+4.5 Issues Management Process
+Following immediate resolution of the Incident, Compliance may open an Issue, in accordance with
+Block’s Issues Management Program, to address underlying reasons why the Incident occurred. This
+Program is the standardized approach to the identification, assessment, prioritization, treatment and
+reporting of Issues at Block. Issues are entered into Block’s Issues Management System of Record
+and tracked through remediation.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Compliance Reporting Lead within Governance and Program
+Support or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+Compliance Incident Management Standard | Block
+10
+
+Confidential and Not for Distribution
+6. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Document Owner and/or designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+7. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+8. Implementation Date and Transition Period
+Block and all applicable subsidiaries are expected to be in full compliance with requirements of this
+document no later than six (6) months after the approval date of this document.
+9. Related Documentation or References
+Related Documents:
+Related Standard Issue Management Program
+Related Procedures Block Incident Management High-Level …
+BLOCK INFORMATION SECURITY INCIDE…
+Security Incident Response Runbook
+Security Incident Management Framewo…
+Cash SEV Response Training
+Compliance Incident Management Standard | Block
+11
+
+Confidential and Not for Distribution
+10. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Sherry Stevens Compliance Reviewed/Approved May 27, 2025
+Approval History
+Approver Title Type Description Date
+Sherry Stevens Head of Creation Initial Approval May 30, 2025
+Governance &
+Program
+Support
+11. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Compliance Reporting Lead, Governance &
+Program Support
+Last Approval Date May 30, 2025
+Effective Date May 30, 2025
+Approved By Head of Governance & Program Support
+Document Review Schedule Annually [May 2026 ]
+Compliance Incident Management Standard | Block
+12

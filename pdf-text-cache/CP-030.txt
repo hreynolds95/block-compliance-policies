@@ -1,0 +1,491 @@
+Vulnerable Customer Standard
+Clearpay
+Last Approved: Mar 26, 2026
+Effective Date: Mar 26, 2026
+1. Overview
+Introduction and Purpose: The purpose of this Vulnerable Customer Standard (“Standardˮ) is for
+Clearpay Finance Limited (“Clearpayˮ) to establish a comprehensive framework for engaging with
+vulnerable customers when providing its regulated products and services. Clearpayʼs aim is to
+ensure that every customer who has a characteristic or characteristics of vulnerability is treated
+fairly, and, where possible, in accordance with their needs. This requirement is designed to ensure
+that vulnerable consumers experience outcomes equal to those of other consumers, and receive
+consistently good outcomes.
+This Standard is Clearpay's enterprise vulnerability standard and establishes the primary
+framework for identifying, categorising, and supporting vulnerable customers across all areas of
+the business.
+Whilst this Standard sets out Clearpay's comprehensive approach to vulnerability, Clearpay
+recognises that vulnerability considerations are relevant throughout the organisation. Accordingly,
+other Clearpay policies, standards and procedures will reference and incorporate considerations
+relating to customer vulnerability where appropriate to their scope and purpose.
+Examples of areas where vulnerability considerations are embedded include, but are not limited to:
+● Product Design and Development – ensuring products are designed with vulnerable
+customers' needs in mind
+● Marketing and Financial Promotions – ensuring communications are fair, clear, and not
+exploitative
+● Credit Decisioning and Affordability Assessments – considering vulnerability factors in
+lending decisions
+● Customer Communications – ensuring all communications are accessible and easy to
+understand
+● Collections and Arrears Management – tailoring approaches to vulnerable customers'
+circumstances
+
+● Complaints Handling – providing enhanced support to vulnerable customers during the
+complaints process
+● Data Protection and Privacy – ensuring sensitive personal information is handled
+appropriately
+● Third Party Management – ensuring outsourced service providers understand and comply
+with vulnerability requirements
+● Staff Training and Competence – ensuring all relevant staff are equipped to identify and
+support vulnerable customers
+All Clearpay Employees are responsible for considering vulnerability in their day-to-day work and
+ensuring that customers are treated fairly, regardless of whether they have been formally identified
+as vulnerable. This enterprise-wide approach ensures that vulnerability is not treated as an
+isolated concern but is embedded within Clearpay's culture and business practices.
+Scope: This Standard applies to Clearpay, all its employees, outsourced service providers,
+consultants, contractors, suppliers and agents (“Clearpay Employeesˮ). It is the duty of all
+Clearpay Employees to be familiar with this Standard and any operational routines concerning
+vulnerable or potential vulnerable customers which are relevant to their work.
+Definitions:
+Terminology Definition
+FCA Financial Conduct Authority
+Vulnerable The FCA's definition: "someone who, due to their personal circumstances, is
+Customer especially susceptible to detriment, particularly when a firm is not acting with
+appropriate levels of care."
+Retail Customers Customers in the context of Clearpay’s regulated consumer credit
+agreements.
+PATHways Clearpay's model used by staff to manage in-depth conversations and
+Model categorise vulnerability.
+2
+
+2. Clearpay Requirements
+2.1 Regulatory Framework
+Clearpay is authorised and regulated by the Financial Conduct Authority (“FCAˮ) to enter into
+regulated consumer credit agreements with customers (“consumersˮ or “customersˮ). In its
+Finalised Guidance on the Fair Treatment of Vulnerable Customers (“FG21/1ˮ), the FCA provided
+guidance on how authorised firms should treat vulnerable customers, the latest version of which is
+referred to throughout this Standard. Authorised firms are required to pay attention to the fair
+treatment of vulnerable customers across all products and services. In this Standard, Clearpay
+demonstrates how its business model, the actions it takes, and its culture ensures the fair
+treatment of customers.
+The FCAʼs approach to regulation is outcomes-focused and based on the Principles for Business
+(“Principlesˮ), with Principle 12Consumer Duty (the delivery of good outcomes for retail
+customers) underpinning the need for Clearpay to take particular care in the treatment of
+vulnerable customers. In the context of Clearpayʼs regulated consumer credit agreements,
+borrowers will be retail customers.
+Clearpay will also comply with its obligations under the Equality Act 2010, particularly in its
+approach to vulnerable customers.
+2.2 Identifying Vulnerable Customers
+The FCAʼs definition of a Vulnerable Customer is:
+“...someone who, due to their personal circumstances, is especially susceptible to detriment,
+particularly when a firm is not acting with appropriate levels of care.ˮ
+In order for the needs of vulnerable customers to be correctly addressed, it is important for
+Clearpay to be able to identify them.
+The FCA acknowledges that vulnerability is a broad concept and is “such a subjective term that it
+is hard to define.ˮ Furthermore, when looking at consumerʼs use of credit products, vulnerability
+can manifest itself in a number of ways. Clearpay will need to consider the increased risk of
+consumer harm that may be present for vulnerable customers, and should consider the four
+objectives of the FCAʼs Consumer Duty when considering areas where foreseeable harm may be
+present for vulnerable customers. The below is not an exhaustive list:
+● Products and Services:
+○ Customers may choose a product that is not suitable for their needs;
+○ Clearpay could provide a product to a customer that is not suitable for their needs, if they
+have not adequately considered its target market or built vulnerability concerns into its
+design;
+● Price and Fair Value:
+○ Customers may choose a high cost product as a result of poorly informed decisions;
+3
+
+○ Customers may incur charges due to being poorly informed of how a product works;
+● Consumer understanding:
+○ Customers may choose a product that is not suitable for their needs due to lack of
+understanding;
+○ Customers may not fulfil their repayment obligations due to lack of understanding;
+● Consumer support:
+○ Customers may not be able to access the services offered by Clearpay designed to
+support customers with specific needs if they are not designed with accessibility
+considerations;
+2.3 Examples of Characteristics of Vulnerability
+The FCAʼs FG21/1 guidance requires Clearpay to think about vulnerability on a spectrum of risk.
+Clearpay acknowledges that all customers are at risk of becoming vulnerable and this risk is
+increased by characteristics of vulnerability related to four key drivers, as set out below.
+Health – health conditions or illnesses that affect ability to carry out day-to-day tasks, such as:
+● Physical disability
+● Severe or long-term illness
+● Hearing or visual impairment
+● Mental health condition or disability
+● Addiction
+● Low mental capacity or cognitive disability
+Life events, such as:
+● Retirement
+● Bereavement
+● Income shock
+● Relationship breakdown
+● Domestic abuse (including economic control)
+● Caring responsibilities
+● Other circumstances that affect peopleʼs experience of financial services eg. leaving care,
+migration or seeking asylum, human trafficking or modern slavery, convictions
+Resilience – low ability to withstand financial or emotional shocks, such as:
+● Inadequate (outgoings exceed income) or erratic income
+● Over-indebtedness
+● Low savings
+● Low emotional resilience
+Capability – low knowledge of financial matters or low confidence in managing money (financial
+capability), such as:
+● Low knowledge or confidence managing finances
+4
+
+● Poor Literacy or numeracy skills
+● Poor English language skills
+● Poor digital or technology skills
+● Learning difficulties
+● No or low access to help or support
+Clearpay recognises that it is a personʼs situation and specific barrier(s) to accessing services that
+may make them vulnerable, regardless of whether the customer lives with a disability, illness or
+diagnosis. Vulnerability can be a fluid state and customers may transition in and out of vulnerability
+during the term of their relationship with Clearpay.
+Impact of a change in circumstances: A change in personal circumstances can cause a customer
+to fall into a vulnerable situation - all the more so if the customer already has one or more risk
+characteristics.
+People are particularly at risk in their interaction with financial services when they experience a
+change in circumstances that often leads to financial shock.
+Examples of a change of circumstances can include:
+● A change of job leading to different working patterns, making communication more difficult;
+● A change in relationship status;
+● An unwell child, relative or dependent;
+● A change in physical health leading to reduced working hours;
+● Bereavement of a loved one
+● Moving house; or
+● A change in mental health, making managing finances more difficult
+Impact of a change of income: A financial shock could be an unexpected large expense or loss of
+income. A reduction in income, or income volatility, can cause particular problems due to the
+ongoing commitment presented by many financial products. A reduction in the ability to meet
+these financial commitments can cause both immediate and longer-term problems.
+Examples of a change of income vulnerabilities include:
+● Zero hours contracts (leading to fluctuating income);
+● Redundancy;
+● Retirement (leading to a drop in income);
+● Statutory sick pay or maternity leave (where not paid in full).
+With all of this in mind, Clearpay has identified four core risks to customers who have
+characteristics of vulnerability that could cause harm if it does not act with the appropriate levels
+of care. These are:
+● Customers who are unable to use Clearpay in the intended way (including where the design of
+our products mean they are not accessible for customers with certain vulnerability
+characteristics)
+5
+
+● Customers who have issues in communicating with us (including our communications with
+them and their understanding)
+● Customers who are at risk of not repaying or difficulty managing wider finances
+● Customers who are at greater risk of becoming victims of financial crime
+Clearpay will consider these core risks when assessing aspects of customer vulnerability across
+the business, in order to assess impacts to its target market.
+2.4 Consumer Duty
+Under the Consumer Duty, Clearpay is required to comply with cross-cutting rules and the four
+outcomes when identifying potential characteristics of vulnerability within its target market and in
+dealing with vulnerable customers. In order to do this, Clearpay will do the following:
+Tailored Products and Services: Accessibility: Clearpay will include accessibility considerations
+when designing products and services. It will assess and ensure customers with characteristics of
+vulnerability can easily access and use its product, considering factors such as physical
+disabilities, cognitive impairments, and language barriers. This may involve providing alternative
+formats, simplified language, or assistive technologies to accommodate different needs.
+Clear and Transparent Communication Plain Language): To enhance customer comprehension
+and reduce confusion, Clearpay will utilise clear and simple language in all customer facing
+communications. Clearpay will avoid complex jargon or acronyms that may pose greater
+challenges for vulnerable customers. By adopting plain language, Clearpay aims to ensure that
+information is easily understandable, enabling informed decision-making.
+Communication Channels: Clearpay will establish appropriate communication channels to
+accommodate the preferences and needs of vulnerable customers. This may include telephone
+helplines, online chat support, and email correspondence. By offering diverse channels, Clearpay
+aims to make it easier for vulnerable customers to reach out for assistance and engage with
+Clearpay.
+Assessment of characteristics of vulnerability within Clearpayʼs target market: Clearpay has
+carried out an assessment of characteristics of vulnerability against its target market. This
+assessment will be reviewed periodically and will be considered during product development.
+2.5 Managing Vulnerability
+This section sets out a process-based summary of Clearpayʼs approach towards Vulnerable
+Customers and includes some examples of the practices that Clearpay will undertake to ensure
+good outcomes.
+2.5.1 Advertising, Marketing, and Customer Communications
+Clearpay will take precautions in its customer communications to ensure that consumers, including
+vulnerable customers, are provided with clear and fair information about the Clearpay product and
+6
+
+are not misled or improperly incentivised to enter into credit agreements with Clearpay. Clearpay
+will always comply with financial promotion rules in CONC 3, wider consumer protection legislation
+and the Advertising Standards Authority Committee of Advertising Practice Codes (the Cap and
+BCAP Codes).
+For example, Clearpayʼs marketing will never be targeted nor suggest that the Clearpay product is
+appropriate for those on the very lowest incomes, and/or those who may be vulnerable due to their
+age or experience of credit products.
+For more information on Clearpayʼs marketing approach, please refer to the UK Marketing &
+Financial Promotions Policy and Customer Communications Standard .
+2.5.2 Product Design
+The design of Clearpayʼs products and services aims to take into account the needs of vulnerable
+customers in its target market and customer base.
+2.5.3 During the Life of the Account
+We may engage with customers pre-contractually (before they make a purchase), however most of
+Clearpayʼs interactions with vulnerable customers are most likely to be during the life cycle of their
+account and often when there is a problem, for example if they are unable to make a payment.
+As acknowledged above, vulnerability may be temporary or may be more permanent. Clearpay will
+encourage customers to communicate with Clearpay whenever their circumstances change.
+2.5.4 Collections & Hardship
+Clearpayʼs Collections & Hardship processes are sensitive to the fact that consumers that are in
+arrears may be vulnerable, however it acknowledges that these two factors are not mutually
+exclusive.
+Clearpay will treat vulnerable customers fairly and make adjustments to their circumstances.
+Clearpay will consider the following options to deliver good outcomes for vulnerable customers in
+collections & hardship:
+● Providing the customer with sufficient time and space to consider their position and seek
+free and impartial debt advice (and provide directions as to how they can seek such
+advice)
+● Undertaking a review of whether the credit was/is still suitable for the customerʼs needs
+● Providing appropriate forbearance to ensure the customer is treated fairly, including:
+○ Freezing any charges (e.g. late fees)
+○ Writing off charges
+○ Agreeing a repayment plan with the customer or their nominated third party
+representative
+○ Extended space or payment holiday periods
+○ Writing off a proportion or total balance of their account
+7
+
+○ In the case of significant failing by Clearpay, consider whether redress is required
+2.5.5 Medical Information
+In certain circumstances, Clearpay may need to obtain medical information (e.g. GP letters, Debt
+and Mental Health Evidence Form etc.). It is important to note that medical information should not
+be requested to ‘proveʼ the customer has a medical condition/vulnerability. Medical information
+should be requested to enable Clearpay to have a better understanding of the customer's situation
+to enable it to make an informed decision with regards to next steps for the customer.
+Medical information received by Clearpay will be treated as sensitive personal data in accordance
+with Blockʼs Data Classification & Handling Policy.
+2.5.6 Dealing with Third Parties
+For a variety of reasons, a customer may request that a third-party act on their behalf, or a
+third-party may be appointed on their behalf due to medical reasons. This may be due to a mental
+health capacity issue or illness, or where the customer uses independent debt advice services for
+a matter of convenience for the customer.
+Where a customer requires Clearpay to liaise directly with a third party acting on their behalf, it
+must act in line with its Third Party Authorisation processes. Clearpay will be able to accept a
+request from the customer for a third party to act on their behalf via the following means:
+● A signed letter of authority
+● Written confirmation from the customerʼs registered email address or internal account
+● Verbal confirmation from the customer over the telephone once ID&V is confirmed
+In certain circumstances, where the customer lacks capacity, they may not be able to provide the
+necessary authority. In these instances, Clearpay will require evidence of Power of Attorney that
+gives named individuals authority to act on the customerʼs behalf. Care will be taken in these
+circumstances that Clearpay does not allow this party to act outside of any restrictions placed on
+them by the Power of Attorney.
+Clearpay records Vulnerability on the customerʼs account if shared by an authorised third party
+and ensures suitable support is provided in light of this information (see Identifying and Recording
+Vulnerability section).
+2.6 Identifying and Recording Vulnerability
+2.6.1 Target Market
+Clearpayʼs target market for its regulated lending product is broad, which can include customers
+who are vulnerable.
+8
+
+2.6.2 Identifying Vulnerability
+Clearpay staff will use a range of methods in order to help identify customer vulnerability. Staff are
+encouraged to understand the customerʼs circumstances and use open ended questions in their
+approach. Clearpay must never pass judgement on a customerʼs circumstances. The outcome
+must not be pre-determined and only considered after the representative feels they have gained
+enough information to discuss potential suitable outcomes.
+Signs of vulnerability relevant to Clearpayʼs customer base
+Customer behaviours which may indicate vulnerability are listed below, this is not an exhaustive
+list, and presence of one or more of these indicators may not, in itself, demonstrate vulnerability.
+Staff are reminded to be on the lookout for:
+● Multiple applications for credit across a number of accounts;
+● Repeat requests for the same or similar information from the customer by Clearpay;
+● Requests for contact or dialogue via non-digital communication methods;
+● Requests for a third party representative (e.g. relative or carer) to have access to a
+customerʼs account; or
+● Complaints or negative comments about aspects of Clearpayʼs products, services, or
+delivery channel.
+Customer-facing teams should be watchful for indicators, like those listed below, when interacting
+with customers. These, or similar, phrases could indicate a customer vulnerability:
+● “I canʼt read my agreementˮ
+● “I canʼt understand the email/notice/letter you sent meˮ
+● “My son/daughter/partner/carer deals with these things for meˮ
+Staff are also reminded to be on the lookout for:
+● Signs of agitation;
+● Signs that the customer has not understood or signs of customer confusion;
+● Mention of medication or physical difficulty; or
+● The customer keeps repeating themself or repeats the same questions.
+Identification of any particular key vulnerability driver does not mean that Clearpayʼs customers are
+not at risk of other drivers. Clearpay must remain diligent, open-minded and flexible in light of
+customersʼ circumstances.
+Dealing with vulnerability
+When dealing with vulnerable customers, Clearpay will use Clearpayʼs PATHways model, which
+has been developed with consideration of the TEXAS and the IDEA protocols advised for use by
+the FCA to help categorise vulnerability.
+9
+
+The PATHways model helps staff to manage in depth conversations with customers about
+vulnerabilities and to ask key questions as well as to appropriately acknowledge and record details
+of a customerʼs vulnerability, help them in identifying the best possible solution to support them
+that Clearpay are able to offer, as well as to signpost them to where they may receive additional
+support.
+Clearpay will record details of disclosed vulnerability on a customerʼs account in line with Blockʼs
+Data Classification & Handling Policy. Itʼs important to note that, as a customerʼs circumstances
+may change, and so the customer may move from a state of vulnerability to no longer being
+vulnerable, Clearpay will need to take steps to remove this sensitive information from its systems
+where it is no longer relevant.
+2.6.3 Categorising Vulnerability
+Clearpay has implemented a Vulnerability Categories framework based on the Financial Conduct
+Authority's drivers of vulnerability as outlined in FG21/1 guidance. These categories enable it to
+identify and appropriately support customers who may be vulnerable across key areas of their
+customer journey.
+Application of Vulnerability Categories
+Vulnerability category flags are applied to customer accounts by our customer facing teams based
+on direct customer interactions and the information customers provide to us. Flags are not
+assigned through automated processes; instead, they are determined through meaningful
+engagement with customers.
+When assigning vulnerability category flags, the Clearpay team applies the PATHways method to
+ensure consistent, fair, and appropriate categorisation. This approach allows Clearpay to tailor
+treatment in other areas of the business, such as:
+● Customer Service Support – including communication preferences and accessibility
+requirements
+● Marketing and Promotional Content – ensuring messaging is appropriate and not
+exploitative
+● Collections Processes and Outsourcing – adapting debt management approaches to
+individual circumstances
+● Credit Decisioning – considering vulnerability factors in lending assessments
+● Incident Management – providing enhanced support during service failures or complaints
+2.6.4 Dynamic Nature of Vulnerability Categories
+Vulnerability is not static. Customers may move in and out of vulnerability categories as their
+circumstances change, and a customer may have multiple vulnerability category flags applied to
+their account at any one time. Clearpay recognises this fluidity and continues to monitor vulnerable
+customers through ongoing engagement to ensure it maintains adequate and up-to-date
+10
+
+information. This enables Clearpay to support customers in managing their account with Clearpay
+effectively and in line with their evolving needs.
+By categorising vulnerability in this way, Clearpay ensures consistent, fair, and appropriate
+treatment of customers throughout their relationship with it.
+2.6.5 Management Information (“MIˮ)
+In line with Clearpayʼs commitment to providing good outcomes for vulnerable customers, it has
+established processes to collect MI to monitor and track key indicators related to customer
+vulnerability. Clearpayʼs MI framework encompasses a comprehensive set of metrics and data
+points designed to provide insights into the experiences and behaviours of vulnerable customers
+across various touch points and interactions with its product. This MI will be used to help tailor
+support for Clearpayʼs customers and also be reviewed to assist in future product development.
+2.6.6 Vulnerable Customer Monitoring and Evaluation
+Clearpay has a Customer Forum dedicated to reviewing the MI collected in relation to all
+customers, which includes addressing the needs and concerns of vulnerable individuals within its
+customer base. Comprised of key members representing various departments and expertise within
+Clearpayʼs organisation, the forum will convene on a quarterly basis to review and discuss aspects
+related to vulnerable customers. It will be responsible for the following:
+● Reviewing MI relating to Vulnerable Customers
+● Identify emerging trends
+● Evaluate the effectiveness of support measures and existing controls
+● Discuss escalated cases to calibrate a business approach
+● Escalate and report issues to the Board, as required.
+2.6.7 Testing
+First line testing
+Call Monitoring: The team will regularly listen to recorded calls. They will assess whether
+representatives comply with the requirements of this Standard and demonstrate empathy,
+patience, and understanding towards customers' needs and concerns.
+Review of Written Correspondence: This includes emails, live chat transcripts, and other written
+communications. The team will examine the language, tone, and clarity of responses to ensure
+they are appropriate and accessible to vulnerable customers.
+Documentation Review: The quality assurance team will examine case notes and documentation
+related to interactions with vulnerable customers. They will ensure that relevant information is
+accurately recorded, actions taken are appropriate, and follow-up steps are documented for future
+reference.
+11
+
+Feedback and Coaching: Based on their evaluations, the team will provide feedback for
+representatives to support with coaching. This may involve highlighting areas for improvement,
+reinforcing best practices, and offering additional training or resources to enhance their ability to
+support vulnerable customers effectively.
+Reporting and Analysis: The team will compile data and generate reports to track trends, identify
+recurring issues, and measure performance indicators related to interactions with vulnerable
+customers.
+Second line testing
+Clearpayʼs Compliance team will carry out second line monitoring & testing relating to vulnerable
+customers to ensure adherence to this Standard and regulation. Please refer to the Compliance
+Monitoring Plan for further details.
+3. Compliance & Enforcement
+3.1 Clearpay Roles
+● Clearpay Finance Board of Directors:
+○ Ultimate oversight and approval
+● Clearpay Chief Compliance Officer:
+○ Oversight of regulatory requirements and approval of exceptions
+● First-line Clearpay Customer Service staff:
+○ Application of PATHways model for application of vulnerability flags to customer
+accounts and assigning correct support options
+● Clearpay Collections & Hardship teams:
+○ Implementation of support paths for vulnerable customers
+● Clearpay Quality Assurance (“QAˮ) teams:
+○ Conducting monitoring to assess compliance with standard and providing reporting
+to Customer Forum
+● Clearpay Customer Forum:
+○ Monitoring of reporting from first line QA teams and reporting to Chief Compliance
+Officer
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. Compliance will provide regular updates, as applicable, to the Clearpay
+Finance Limited Board and executive management. Reporting may cover specific information
+related to:
+● Policies and standards
+● Procedures
+12
+
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All staff involved in the manufacture and distribution of the Clearpay product will receive training
+on vulnerable customers, alongside Consumer Duty. Front line staff who deal directly with
+customers will receive more comprehensive training in the identification, and handling of
+interactions with customers who have characteristics of vulnerability.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+As standard practice, Clearpay will retain all documents and records associated with this Standard,
+including those relating to individual customers, for a minimum of 5 years from the date that its
+relationship with the customer ends. Where another Standard requires that Clearpay retain the
+same or similar data for a different period of time (e.g. a regulatory requirement), this will be
+documented within that relevant Policy and the Block Data Classification & Handling Policy.
+3.5 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to
+this Standard, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+Exceptions to this document must be pre-approved by the Chief Compliance Officer or their
+designee.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+13
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Blockʼs Data Classification & Handling Policy
+● Block’s Code of Business Conduct and Ethics
+● Clearpayʼs UK Marketing & Financial Promotions Policy
+● Clearpayʼs Customer Communications Standard
+Review related regulations:
+● FG21/1: The FCA's Finalised Guidance on the Fair Treatment of Vulnerable Customers.
+● Principles for Business ("Principles"): The framework for the FCA's outcomes-focused
+approach to regulation.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad-hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Adrienne L… Clearpay Chief Initial Appro… New Document Mar 26, 2026
+Compliance
+Officer
+Document Details:
+Business Clearpay UK
+Scope UK
+Compliance Domain Consumer Protection
+Document Owner Amanda Ettridge Clearpay UK Compliance Senior Manager
+Approved By Clearpay Chief Compliance Officer
+Document Tier Tier 2
+14

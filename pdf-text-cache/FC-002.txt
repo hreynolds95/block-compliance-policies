@@ -1,0 +1,301 @@
+Global Sanctions
+Compliance Policy
+Block
+October 2024
+Last Approval Date
+
+Confidential
+Table of Contents
+TableofContents 2
+Definitions 3
+1.Introduction 5
+2.Purpose 5
+3.Scope 5
+4.PolicyRequirements 5
+4.1Prohibitions 5
+4.1.1ProhibitedJurisdictions 5
+4.1.2ProhibitedPersons 6
+4.1.3Exceptions 6
+4.2RefusalofAccountsorBusinessRelationships 6
+4.3InternalPolicies,Procedures,andControls 7
+4.4RiskAssessment 7
+4.5IndependentTesting 7
+4.6RegulatoryReporting 7
+4.7DutytoReport/Non-Retaliation 7
+5.DocumentManagement 7
+5.1DocumentOwner 7
+5.2ReviewandApproval 8
+6.ConflictsofLaw 8
+7.Training 8
+8.MonitoringandReporting 8
+9.Exceptions 8
+10.RecordRetention 9
+11.RelatedDocumentation 9
+12.RevisionandApprovalHistory 9
+13.DocumentDetails 10
+Global Sanctions Compliance Policy | Block
+2
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+BlockedPersons Partiessubjecttoassetfreezingmeasuresasaresultoftheimpositionof
+sanctionsbyapplicablesanctionsregulatoryauthorities.
+Comprehensive Alsoknownasembargoes;sanctionsthatbanmosttradewithspecific
+Sanctions countries,governments,orregionsabsentgovernmentauthorization.
+Forexample,asofthedateofthisPolicy,theU.S.hasimposed
+ComprehensiveSanctionsonNorthKorea.
+List-Based Sanctionsthatinvolveagovernmentspecifyingcriteria(e.g.,supportof
+Sanctions terroristgroups)andthenpubliclyidentifyingparties(e.g.governments,
+entities,orindividuals)sanctionedunderthatspecifiedcriteriaonalist.
+ExamplesincludetheU.S.TreasuryDepartment’sOfficeofForeignAssets
+Control’s(“OFAC”)SpeciallyDesignatedNationalsandBlockedPersons
+List(the“SDNlist”)andtheU.K.HisMajesty’sTreasury’sOfficeof
+FinancialSanctionsImplementation’sConsolidatedList.
+Economic Restrictivemeasuresimposedbygovernmentsorinternationalbodiesto
+Sanctions restrictorprohibittradeoreconomicactivitieswithaspecificcountry,
+entity,orindividualinordertoaccomplishforeignpolicyandnational
+securitygoals.
+Targeted Sanctionsthatprohibitspecifieddealingswithparticularpersonsor
+Sanctions specificeconomicsectorsorcategoriesofconductwithaparticular
+country.
+Forexample,theprohibitionsimposedbyOFACpursuanttoExecutive
+Order13662Directive4withregardtocertainoilproducingactivities
+involvingspecifiedentitiesoperatingintheRussianoilsector.
+RolesandResponsibilities
+Role Responsibility
+AuditandRisk Following approval by the Block Chief Compliance Officer (“CCO”), ARC
+Committee reviews the reported results of Block’s Annual Anti-Money
+(“ARC”) Laundering/Countering the Financing of Terrorism(“AML/CFT”) and
+SanctionsRiskAssessment.
+Global Sanctions Compliance Policy | Block
+3
+
+Confidential
+BlockChief The CCO will provideassistanceandsupportinimplementingthisPolicy
+Compliance across the organization and shall be responsible for establishing
+Officer(“CCO”) appropriate practices designed to ensure that Company operations
+reflect the Company’s commitment to compliance and that all
+employees are aware of that commitment and their individual
+responsibility.
+The CCO isresponsibleformonitoringandreportingoncompliancewith
+this Policy. The CCO may delegate to others the authority to adopt,
+develop, and implement procedures and reporting that support this
+Policy.
+Block,Inc.Board The Board and its relevant committees are primarily responsible for
+ofDirectors ensuring that Blockestablishesacomprehensiveandeffectivesanctions
+(“Board”) compliance program and an oversight framework that is reasonably
+designed to ensure compliance with applicable laws. The Board is
+additionallyresponsiblefor:
+● Establishinganappropriatecultureofcompliance;
+● Overseeing compliance with sanctions policies and programs;
+and
+● Ensuring that Senior Management is capable, qualified, and
+properly motivated to manage compliance risks arising from
+eachrelevantsubsidiaryorjurisdiction’sactivities.
+Legal Block’s legal counsel provides interpretative advice and counsel
+regarding the applicability and application of the requirements of this
+PolicytotheCompany’sbusinessandoperationalactivities.
+Country Country Compliance Leads are responsible for overseeing their
+ComplianceLeads respective country’s sanctions programs and for advising on conflict of
+lawconcernswhentheyarise.
+GlobalHeadof The Global Head of Sanctions is the owner of this Policy and is
+Sanctions responsible for oversight of the day-to-day operation of the global
+sanctions compliance program, including: (i) providing updates on the
+health and status of the global sanctions compliance program to senior
+management; (ii) setting Policy requirements; (iii) approving Policy
+exceptions.
+StaffMember(s) Anemployeeorexternalworker(e.g.,contingentlabor,contractors)hired
+bytheCompanywhosupportstheoperationscoveredbythisPolicy.
+Global Sanctions Compliance Policy | Block
+4
+
+Confidential
+1. Introduction
+ThisGlobalSanctionsCompliancePolicy(“Policy”)outlinesBlockInc.’s(“Block”)approachtoensuring
+compliance with applicable Economic Sanctionslawsandregulations.TheGlobalHeadofSanctions
+isresponsibleformanagementofthisPolicy.
+2.Purpose
+The Policy sets forth Block’s commitment to comply with applicable sanctionslawsandregulations
+in all jurisdictions in which it does business, including but not limited to those implemented and
+enforced by (i) theUnitedNations;(ii)theUnitedStates;(iii)Canada;(iv)theEuropeanUnionandany
+relevant member state thereof; (v) the United Kingdom; (vi) Australia; (vii) New Zealand; and (viii)
+Japan. Compliance with this Policy and relevant laws and regulations is to be achievedthroughthe
+implementation of risk-based compliance programs, including but not limited to the Global
+Sanctions Compliance Program (the “Program”). This Policy is intended to be supplemented by
+additionaldocumentationasnecessary.
+3. Scope
+This Policy is established by Block and is applicable globally across all Block business lines,
+subsidiaries,andjurisdictions.
+4.Policy Requirements
+4.1 Prohibitions
+This Policy prohibits activity involving certain jurisdictions and persons, asdescribedindetailbelow.
+This Policy further prohibits any direct or indirect dealings that would otherwise violate any
+applicablesanctionslawsandregulations.
+4.1.1 Prohibited Jurisdictions
+To ensure compliance with regulatory requirements in the jurisdictions in which it operates, Block
+has made a commercial decision pursuant to this Policy to prohibit any directandindirectdealings
+with, involving, or for the benefit of the following jurisdictions, which Block hasdeterminedpresent
+Global Sanctions Compliance Policy | Block
+5
+
+Confidential
+anelevatedlegal,business,and/orreputationalrisktothecompany:
+● Cuba
+● Iran
+● NorthKorea
+● Syria
+● TheCrimeaRegionofUkraine
+● So-calledDonetskPeople’sRepublic(DNR)regionofUkraine
+● So-calledLuhanskPeople’sRepublic(LNR)regionofUkraine
+Staff Members are also prohibited from working from and bringing work materials (e.g., laptops,
+work-relatedmobileapplications)intothesejurisdictions.
+4.1.2 Prohibited Persons
+The Policy also prohibits all direct and indirect dealings with any “sanctioned persons,” defined as
+any individuals or entities (“Persons”), (a) located, domiciled, resident, or organized in any of the
+jurisdictions listed above; (b) targeted by any applicable sanctions authority; and/or (c) majority
+owned or controlled, individually or in the aggregate, directly or indirectly, by one or more persons
+referredtoin(a)and(b).
+4.1.3 Exceptions
+Block may make exceptions to these prohibitions where dealings with prohibited jurisdictions or
+persons are permissible under applicable law. Refer to Section 9 for details on the process for
+requestinganexception.
+4.2 Refusal of Accounts or Business Relationships
+Block reserves the right to terminate or refuse to enter into a relationship with anypartythatBlock
+assesses to pose an undue sanctions risk. Block may end arelationshipthatexposesittoregulatory
+orreputationalriskorthatotherwisecontravenesanypartofthisPolicy.
+Global Sanctions Compliance Policy | Block
+6
+
+Confidential
+4.3 Internal Policies, Procedures, and Controls
+The Policy requires Block to implement and maintain policies, procedures, controls, processes, and
+systems reasonably designed to ensure compliance with all applicable sanctions laws and
+regulations. Controls may consist of, but are not limited to, customer screening and due diligence,
+transaction screening, and geoblocking. Block maintains a risk-based approach to implementing
+controls that is commensurate with sanctions risks posed by Block’s business model, geographic
+operations,andproductofferings.
+4.4 Risk Assessment
+The Policy requires Block to conduct sanctions risk assessments in order to identify potential
+sanctionsrisksandtoinformthedesignandprioritiesoftheProgram.
+4.5 Independent Testing
+The Policy requires Block to be subject to independent, periodic risk-based audits on the overall
+adequacyandeffectivenessofthePrograminaccordancewithregulatoryrequirements.
+4.6 Regulatory Reporting
+The Policy requires Block to comply with sanctions reporting obligations required by relevant
+regulatory authorities, including but not limited to annual reports ofblockedorfrozenpropertyand
+ad-hocreportingofcertainblocked,frozen,orrejectedtransactions.
+4.7 Duty to Report/Non-Retaliation
+Any potential violations of this Policy or any sanctions-related law or regulation must be reported
+immediately to the Global Head of Sanctions or by making a report—including anonymously—at
+ethics.block.xyz. Block will not tolerate retaliation against any individual who submits a good faith
+allegationofasuspectedviolationoflaworregulationorthisPolicy.
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheGlobalHeadofSanctionsortheirdesignee.
+Global Sanctions Compliance Policy | Block
+7
+
+Confidential
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis by the
+Global Head of Sanctions, CCO, and the Board in accordance with the Compliance Document
+ApprovalMatrix.
+6.Conflicts of Law
+No part of this Policy or its supporting documentation should be interpreted as contravening or
+superseding any other legal or regulatory requirements imposed upon Block. Block and its Staff
+Members may be subject to sanctions laws in the jurisdictions in which they are located or do
+business. Staff Members may also be subject to the sanctions laws of the jurisdictions where they
+are citizens or residents, as well as where they are physically located. Any conflicts between this
+Policy and Block’s other legal or regulatory obligations, or between the laws of applicable
+jurisdictions, should be submitted immediately to the Global Head of Sanctionsand/ortherelevant
+CountryComplianceLeadforfurtherevaluationand/orsubsequentsubmissiontotheCCOorLegal.
+7. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implementthisPolicyeffectively.AlltrainingactivitiesaremonitoredbytheCompliance
+TeamandareoutlinedintheComplianceTrainingProgramStandard.
+8.Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitorPolicyrelatedactivitiesto
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+Additionally, the Policy Owner and/or their designee will provide periodic updates to senior
+management.
+9.Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy. Policy exception requests mustbedocumentedinwriting,includeareasonforarequest,
+and provide a description of the controls that the Company will implement to mitigate risks
+Global Sanctions Compliance Policy | Block
+8
+
+Confidential
+associated with the exception. Any approved exceptions must be retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy
+Governance Team at go/policyhelp. The Policy Owner and/or designee will inform Compliance
+Leadershipandapplicablecommittees,asneeded,ofexceptions.
+10. Record Retention
+Block will maintain records of this Policy in accordance with Block’s documentretentionguidelines
+and applicable regulatory requirements. As of the date of this Policy, all relevant sanctions-related
+records shall be retained for a period of at least five (5) years1. Such documentation shall include
+transaction records, customer information, screening results, training (including materials and
+attendees),regulatoryreports,riskassessments,auditresults,andProgramdocumentation.
+11. Related Documentation
+RelatedDocuments:
+RelatedPolicy Anti-MoneyLaundering/Counteringthe
+FinancingofTerrorismPolicy
+RelatedProgram GlobalSanctionsComplianceProgram
+RelatedProcedure GlobalSanctionsRegulatoryReporting
+Procedure
+RelatedProcedure SanctionsListMaintenanceProcedure
+12. Revision and Approval History
+Approver Title Type Description Date
+bgray@squar… GlobalChief Initial Appro… Sep 13, 2021
+Compliance
+Officer
+Erin Colocillo GlobalSanctions Immaterial … Rebrandfrom Mar 25, 2022
+Regulatory SquaretoBlock
+Program
+1BlockiscurrentlyevaluatingchangesexpectedasaresultofOFAC’sInterimFinalRuletoextend
+RecordkeepingRequirementsfromfivetotenyears,announcedSeptember11,2024.
+Global Sanctions Compliance Policy | Block
+9
+
+Confidential
+Manager
+John Alfano HeadofGlobal Material Ch… Revampof May 31, 2023
+Policy& Policy.Removed
+Governance program-level
+detailswhichwill
+beaddedtoan
+in-progress
+program
+document.
+RetiredOFAC
+GlobalPolicy.
+Sydney Nam BlockPolicy Immaterial … Revised Aug 28, 2023
+Governance template.
+Coordinator
+sandyz@bloc… Global Immaterial … Fixedduplicate Oct 14, 2023
+Compliance scopetextinthe
+PolicyManager intro.
+Faisal Sohail GlobalHeadof Scheduled … Approvalaspart Sep 30, 2024
+Sanctions ofannualreview.
+Tyler Hand InterimChief Scheduled … Approvalaspart Oct 5, 2024
+Compliance ofannualreview.
+Officer
+BlockBoardof BlockBoardof Scheduled … Approvalaspart Oct 24, 2024
+Directors Directors ofannualreview.
+13. Document Details
+Business Block
+Scope Global
+ComplianceDomain Anti-Financial Crimes
+DocumentOwner GlobalHeadofSanctions
+LastApprovalDate October24,2024
+EffectiveDate September13,2021
+ApprovedBy Block,Inc.Board
+Global Sanctions Compliance Policy | Block
+10
+
+Confidential
+DocumentReviewSchedule Annually
+Global Sanctions Compliance Policy | Block
+11

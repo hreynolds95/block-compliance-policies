@@ -1,0 +1,513 @@
+Lending Operations
+Complaints Standard
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+2
+
+Confidential
+Table of Contents
+Definitions 4
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Standard Requirements 7
+4.1 Defining Complaints 7
+4.2 Complaint Paths and Corresponding Service Level Agreements (“SLA”) 8
+4.3 Complaint Severity Tiering 9
+4.4 Tier 1 Complaints: Legal Tags 10
+4.4.1 Fair Lending Legal Tag 10
+4.4.2 UDAAP Legal Tag 11
+4.4.3 No Legal Tag 11
+4.5 Global Taxonomies 11
+4.6 Other Complaint Data Elements 12
+5. Lending Complaints Governance 13
+5.1 Lending Complaints Program Testing, Monitoring and Reporting 13
+6. Document Management 14
+6.1 Document Owner 14
+6.2 Review and Approval 15
+7. Training 15
+7.1 Complaints New Hire Training 15
+7.2 Cash App Lending Complaints Training 15
+8. Monitoring and Reporting 15
+9. Exceptions 15
+10. Record Retention 16
+11. Related Documentation or References 16
+12. Revision and Approval History 16
+13. Document Details 17
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+3
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+Banking Partner Cash App engages with bank partners and other third parties to offer products
+and services and may have contractual obligations set by those partners with
+which Cash App must comply.
+Complaint An expression of dissatisfaction or grievance (oral or written) by an individual,
+business entity, or someone authorized to act on their behalf, with a Cash App
+product, process, service, decision, vendor, or interaction, regardless of the
+validity. Complaints are more than just the ‘words’ but also are identified by
+the tone of and intention behind the Consumer outreach, as well as sentiments
+of a breach in the business’ responsibilities. Complaints may also include
+allegations that Cash App engaged in wrongful or unfair conduct. Complaints
+do not include disputes of authorized or erroneous electronic funds transfers,
+which are handled through a distinct process according to relevant policies
+and procedures.
+Consumer Consumer refers to an individual who is a natural person who obtains or has
+obtained a financial product or service from Cash App that is to be used
+primarily for personal, family or household purposes.
+Consumer Harm Consumer Harm is any actual or potential loss or injury to a Consumer, whether
+financial or non-financial, that may be caused by the violation of federal or
+state consumer protection laws or regulations, or by weaknesses in the
+compliance management system.
+Credit Products Credit Products encompass Cash App US’s lending products (Cash App
+Borrow, Pre-Purchase Financing, and Retroactive Financing) unless otherwise
+noted.
+Fair Lending The unbiased treatment of all Consumers when making credit-related
+decisions and the availability of credit to all creditworthy applicants without
+regard to race, color, religion, national origin, sex, marital status, or age
+(provided the applicant has the capacity to contract); to the fact that all or part
+of the applicant's income derives from a public assistance program; or to the
+fact that the applicant has in good faith exercised any right under the
+Consumer Credit Protection Act. Fair Lending also prohibits creditor practices
+that discriminate on the basis of any of these factors.
+Legal Tag A classification used to identify and categorize Complaints that involve
+potential legal issues or have legal implications.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+4
+
+Confidential
+Service Level Service Level Agreement is the maximum allotted time for intake-to-resolution
+Agreement (“SLA”) of consumer complaints. SLAs are measured in business days, unless
+otherwise determined by a third party.
+Unfair, Deceptive or Unfair, Deceptive, or Abusive Acts or Practices (UDAAP) is the standard of
+Abusive Acts or fairness pursuant to the Dodd-Frank Act that protects consumers from unfair,
+Practices (“UDAAP”) deceptive, or abusive acts or practices that can cause significant financial
+injury to consumers, erode consumer confidence, and undermine the financial
+marketplace. Consumer complaints play a key role in detecting UDAAP
+violations.
+Roles and Responsibilities
+Role Responsibility
+Cash App Consumer Responsible for:
+Protection ● Ensuring this Standard and its accompanying Program reflect industry
+Compliance Lead best practices and applicable regulatory guidance;
+● Ensuring regulatory risks are identified in documentation;
+● Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners;
+● Provide oversight and guidance to business units in implementing
+Standard requirements;
+● Conducting periodic review(s) of the Standard; and
+● Delegating and overseeing documentation requirements, as needed.
+Cash App Consumer Responsible for:
+Protection ● Serving as a subject matter expert for content relevant to this
+Compliance Standard;
+● Provide oversight and guidance to business units in implementing
+Program Manager(s)
+Standard requirements; and
+● Conducting periodic reviews of the Standard.
+Cash App Head of Responsible for:
+Compliance ● Ensuring appropriate resources and support are available to implement
+this Standard;
+● Serves as an escalation point for matters related to this Standard;
+● Ensuring that appropriate workforce are trained on relevant topics from
+this Standard at least annually commensurate with their roles
+and responsibilities.
+● As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App
+Consumer Protection Compliance Lead or Compliance Staff who
+inform and escalate key risks and Issues to the Head of Compliance.
+Cash App Lending The Cash App Lending Operations Team supports Consumers with product or
+Operations Team service questions or concerns. All Consumer-facing staff are trained on how to
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+5
+
+Confidential
+properly identify a Complaint during their interactions, as well as the process
+for escalating to the Complaints Management Team.
+Cash App Lending The Complaints Management team, a team within Cash App Lending
+Complaints Operations (“CCO”) that oversees the investigation, resolution, root cause
+Management Team analysis and reporting of all Complaints received by Cash Lending Operations.
+The Team provides data insights to drive process and training improvements.
+Counsel Cash App’s legal counsel provides interpretative advice and counsel regarding
+the applicability and application of the requirements of this Standard to Cash
+App’s business and operational activities.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+6
+
+Confidential
+1. Introduction
+This Lending Complaints Standard (“Standard”) outlines Cash App Lending Operations’ approach to the
+intake, investigation and resolution of Complaints related to Cash App Credit Products. The Cash App
+Consumer Protection Lead is responsible for management of this Standard.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Standard is to further Cash App Lending Operation’s process for the intake, investigation and resolution of
+Consumer Complaints. This Standard also outlines the Tier 1 Complaint identification requirements for
+Unfair, Deceptive, or Abusive Acts and Practices (“UDAAP”) pursuant to the Dodd Frank Act and the Equal
+Credit Opportunity Act (“ECOA”) implemented by Regulation B, which prohibits discrimination in any aspect
+of a credit transaction.
+3. Scope
+This Standard is established by Cash App, a line of business under Block, Inc., and is applicable to the
+management of Complaints alleged against Cash App’s Credit Products received both internally and
+externally within the United States.
+4. Standard Requirements
+This Standard provides a framework and guiding principles for Complaint management at Cash App. This
+framework includes, but is not limited to an established process for the governance, intake, and complaint
+classification and categorization.
+4.1 Defining Complaints
+Cash App uses the following classifications to identify Consumer Complaints for its Credit Products.
+● A Complaint is defined as: An expression of dissatisfaction or grievance (oral or written) by an
+individual, business entity, or someone authorized to act on their behalf, with a Cash App product,
+process, service, decision, vendor, or interaction regardless of the validity.
+● Complaints are more than just the ‘words’ but also are identified by the tone of and intention
+behind the Consumer outreach, as well as sentiments of a breach in the business’
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+7
+
+Confidential
+responsibilities. Complaints may also include allegations that Cash App engaged in wrongful or
+unfair conduct.
+A Complaint does not include:
+● A communication that includes general questions, comments, or opinions about a Cash App
+product, process, service, decision, or interaction;
+● An expression of dissatisfaction with respect to matters other than Cash App’s products or
+services;
+● An expression of dissatisfaction communicated within survey responses;
+● An expression of dissatisfaction communicated via automated account review and
+communication mechanisms;
+● Disputes of authorized or erroneous electronic funds transfers, which are handled through a
+distinct process according to relevant policies and procedures;
+● Third parties not in purview of Cash App.
+4.2 Complaint Paths and Corresponding Service Level Agreements (“SLA”)
+It is helpful to understand the different paths in which Cash App receives Complaints for Credit Products and
+services and our corresponding internal SLAs in which Cash App aims to respond to the communication. The
+target compliance rate for all SLAs is 100%. This information is reported in the Monthly Complaints Report.
+Complaint Path Description SLA
+Cash Force 1 Complaint Intake Cash App’s iteration of Salesforce allows for Initial
+Form Complaints to be flagged directly from cases. The Response: 5
+Complaint Intake Form confirms the details of the business days
+Complaint, the business line, and the state of the
+Consumer’s residence.
+Flag a Complaint Field This field in Cash Force One (Cash Apps Instance of Initial
+Salesforce Service Cloud), also known as “CF1”, will Response: 5
+be used by Customer Success to escalate business days
+Complaints to Complaints Management for
+review/resolution.
+Case Escalations Lending Operations Advocates will use the Case Initial
+Escalation process to gain Lending Advanced Response:
+Support assistance when they are unable to Same Day
+de-escalate a Consumer. This transfer takes place
+in the email feature in CF1. The Lending Advanced
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+8
+
+Confidential
+Support Specialist will continue in the original CF1
+case, using case notes and then Flag a Complaint
+Field (as appropriate) to log the intake, investigation
+and resolution process.
+Regulatory (CFPB and other Cash App Credit Product Consumers may present a CFPB
+federal/state agencies) formal Complaint to federal or state regulatory Complaints: 15
+bodies such as the Consumer Financial Protection calendar days
+Bureau (“CFPB”) in the US. The External Complaints
+function within the Cash Complaint Operations State
+Team (“CCOT”) monitors the CFPB portal and Complaints:
+addresses these Complaints in partnership with the 15-30 calendar
+Lending Complaints Management team. To ensure depending on
+these Complaints are accurately included in state
+reporting for the Cash App Lending program, a
+separate Lending Complaint form must be
+recorded.
+Better Business Bureau The BBB is a private, nonprofit organization that Response to
+(“BBB”) provides companies with a rating based on Consumer via
+Consumer feedback in the US. The External BBB: 10
+Complaints function within the CCOT monitors the calendar days
+BBB portal and addresses these Complaints in
+partnership with the Lending Complaints
+Management team. To ensure these Complaints are
+accurately included in reporting for the Cash App
+Lending program, a separate Lending Complaint
+form must be recorded.
+4.3 Complaint Severity Tiering
+It is Cash App’s approach to review, address and respond to each Complaint appropriately considering the
+complexity and urgency of each Complaint. Complaint Taxonomies are used to categorize Complaints based
+on common characteristics or themes and are identified by using “trigger terms” that the Consumer may use
+when surfacing a Complaint.
+Complaints are classified in tiers, as follows:
+Complaint Tier Description
+Tier 1 ● Better Business Bureau Complaints and Complaints received
+through a third-party including but not limited to the Consumer
+(High Risk)
+Financial Protection Bureau, Federal Deposit Insurance Corporation,
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+9
+
+Confidential
+State Attorneys General, or any other governmental agency, official,
+or elected representative;
+● Any Complaints alleging Unfair, Deceptive or Abusive Acts or
+Practices (“UDAAP”or Fair Lending violations;
+● Complaints that threatens material litigation, regulatory action or
+material reputational damage received by or referencing senior
+management by name or title of any Party related to the Program
+("Executive Complaint");
+● Complaints received from a Consumer’s attorney or any Consumer
+who is a practicing attorney; or
+● Escalated Tier 2 or Tier 3 Complaints.
+Tier 2 ● Any Complaint that might be indicative of a failure to follow established
+procedures that does not on its premise qualify as Tier 1; or
+(Medium Risk)
+● Escalated Tier 3 Complaints.
+Tier 3 ● Any Complaint that might be indicative of a failure to follow established
+procedures that does not on its premise qualify as Tier 1 or Tier 2 and
+(Low Risk)
+lack materiality.
+4.4 Tier 1 Complaints: Legal Tags
+4.4.1 Fair Lending Legal Tag
+A Tier 1 Complaint should be tagged as Fair Lending if it alleges that discrimination, discouragement or
+steering occurred at any point in the life-cycle (including, but not limited to: advertising, marketing,
+application, servicing or collection) of a credit transaction based on one or more of the following protected
+classes:
+● Race or Color;
+● Religion;
+● National origin;
+● Sex;
+● Marital status;
+● Age, as long as the applicant is able to enter into a contract;
+● Receipt of income from a public assistance program;
+● Exercising rights under the Consumer Credit Protection Act in good faith;
+● Gender/gender identity/gender expression;
+● Sexual orientation;
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+10
+
+Confidential
+● Veteran/servicemember status;
+● Disability;
+● Pregnancy;
+● HIV status;
+● Ancestry;
+● Immigration status; or
+● Any other factor unrelated to the consumer's creditworthiness.
+4.4.2 UDAAP Legal Tag
+Tier 1 Complaints should be tagged as UDAAP in situations where Consumer’s claim:
+● That they were harmed or at risk of being harmed (either monetarily or otherwise) in a way
+that they could not avoid and was Cash App’s fault; and/or
+● The Consumer claims they were provided with incorrect information (e.g. misled, tricked,
+deceived, lied to, etc.) which harmed them; and/or
+● Cash App representatives or products took advantage of their lack of understanding or
+intentionally prevented them from getting the information they needed to make an informed
+decision.
+4.4.3 No Legal Tag
+● Not all Tier 1 Complaints will have a Legal Tag. This option is used when no Legal Tag is
+required. It is commonly used for expressions of dissatisfaction when no other Legal Tag is
+appropriate.
+4.5 Global Taxonomies
+Complaint Taxonomies are used to categorize Complaints based on common characteristics or themes. They
+are identified by using “trigger terms” that the Consumer may use when surfacing a Complaint. Cash App
+Lending Operations utilizes the following global taxonomies:
+Tier 1 Complaints
+● Complaint via Government Official
+● Attorney Demand Letter
+● Pre-litigation Demand
+● Consumer Rights Violation
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+11
+
+Confidential
+● Privacy Violation
+● Intellectual Property (IP) Infringement
+● Alleged Regulatory Violation
+● Alleged Discrimination
+Tier 2 Complaints
+● Reputational Risk
+● Alleged employee or company misconduct
+● Executive Complaint
+● Repeat Complaint without response/resolution
+● Abusive Consumer
+4.6 Other Complaint Data Elements
+In addition to Tiers and Taxonomies, this Standard also outlines other Complaint Data Elements.
+● Complaint Intake Channel: How did Cash App receive this Complaint from the Consumer? For
+example: phone, email, BBB, Social Media, etc.
+● Product: To which Cash App Lending product does the Complaint relate to?
+● Corrective Action Taken: What was done to resolve the Complaint? Options include:
+○ Consumer received knowledge materials
+○ Account access restored
+○ Account access restricted
+○ Account terminated
+○ Additional training/corrective action provided to employee
+○ Apology, acknowledge Consumer frustration
+○ Financial compensation or refund
+○ Other - See RCA Notes
+○ Settlement
+○ SEV opened
+● Repeat Complaint: To be selected when the Consumer has raised a Complaint through multiple
+intake channels.
+● Duplicate Complaint: To be selected when a Consumer’s initial Complaint was flagged more than
+once or if new Complaint language was flagged in the same case.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+12
+
+Confidential
+● Complaint on Different Topic: To be selected when a Consumer has a Complaint on a different
+issue in the same or new case.
+● Root Cause Analysis: Used to identify the root cause of the Complaint once the investigation has
+been completed.
+● Complaint Review Status: Indicates where the Complaint resides in the intake > investigation >
+resolution > root cause analysis process. Options include:
+○ New: Consumer-facing team member has flagged a Complaint for review.
+○ Open: A member of Complaints Management has taken over the case and will soon begin
+investigating.
+○ Pending: Complaints Management is in the process of investigating and communicating
+with the Consumer.
+○ Resolved: Complaints Management has done everything possible to resolve the issue.
+Note: This does not necessarily mean that the Consumer has received full resolution, but
+only that the current communication thread with the Consumer being discussed at the
+time has been resolved.
+5. Lending Complaints Governance
+5.1 Lending Complaints Program Testing, Monitoring and Reporting
+The Lending Complaints Standard outlines a suite of testing, monitoring and reporting activities. The
+documented actions below are taken to i) reduce risk related to processes and ii) provide reasonable
+assurance regarding the effectiveness and iii) efficiency of operations and compliance with applicable
+policies, procedures, laws, and regulations.
+● Cash Lending - Complaint Record Audit. The Lending Complaint Handler directly responsible
+individual (“DRI”) facilitates a monthly audit of the Lending Complaints received that month. This
+audit ensures that all Complaints were handled within SLA, all minimum data elements have
+been recorded and all Complaints requiring escalation have been handled accurately.
+● Quality Assurance Testing. On a monthly basis, Customer Success Quality Assurance associates
+will select eight emails (at minimum) at random per Customer Success Advocate to test against
+Complaints requirements around proper identification and classification of Complaints. Evidence
+of email reviews and results are documented in the QA Performance Report found in Looker.
+Individual email review specifics are also located in reporting in Gridspace.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+13
+
+Confidential
+● Complaints Review. Should correspondence be needed to a Consumer or Regulatory Agency
+regarding Complaints, the Lending team member that flags the Complaint will alert the Lending
+Complaints Specialist requesting a review. The Complaint Specialist will review the Complaint
+flagged by the peer and provide guidance on how to respond. If the Complaint is confirmed to be
+a Tier 1, then the Complaint Specialist will initiate the Tier 1 Complaint workflow.
+● Complaints Service Level Agreement Reporting. On a monthly basis, Complaints Management
+reports on their ability to meet SLA requirements in the Monthly Complaints Report that is
+shared via email across the Block enterprise. The goal for SLA Complaint handling is 100%.
+Archives of Monthly Complaints Report are available in the Complaints Google Drive folder
+maintained by the Complaints Management Team.
+● Complaints Missed Service Level Agreement Audit. On an ad hoc basis, the Cash App Lending
+Complaints Management team may identify a failure to meet the goal of 100% SLA for a specific
+intake channel after reviewing monthly reporting and an audit process is initiated. During the
+audit process the individual cases that did not meet the SLA are identified and a journey map is
+completed to understand the flow of the Complaint from intake to resolution. This journey map is
+utilized to identify opportunities in workflow and create action plans to avoid missed SLAs in
+future. Evidence of missed SLA deep dives are stored in the Complaints Google Drive folder
+maintained by the Complaints Management Team.
+● Complaints Resources Review. On an annual basis, Cash App Compliance Management audits
+the existing resources available for Cash App Lending staff pertaining to Complaints
+management. The resources reviewed include, among other items,program guides, email
+templates and call scripting. Documents are updated per any gaps found during the refresh
+process. Audit reports are located in the Complaints Program Resource Audit Google Drive folder
+maintained by the Complaints Management Team. Refresh dates are noted on the document in
+question.
+6. Document Management
+6.1 Document Owner
+This document is owned by the Cash App Consumer Protection Compliance Lead, or their designee.
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+14
+
+Confidential
+6.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+7. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Standard effectively.
+7.1 Complaints New Hire Training
+Within the first 30 days of their start date new hires of the Cash Lending Complaints organization are
+assigned and required to complete a Complaint Program training delivered by the Learning and Development
+Team. This training is tailored to the specific role of the new hire (e.g. Complaints Manager, Advanced
+Support Specialist or Customer Success Advocate).
+7.2 Cash App Lending Complaints Training
+Facilitated to new Lending Operation Support Advocates during on-boarding, prior to the handling of
+Consumer correspondence and then again annually to ensure adherence. Training attendance is tracked via
+recording of the Complaints Training Assessment completion, with acknowledgement stating that the
+individuals have participated in the Lending Complaints Training Program.
+8. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related activities to
+evaluate adherence to the Standard and determine whether outputs adhere to established objectives.
+9. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Standard exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Standard Governance
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+15
+
+Confidential
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+10. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+11. Related Documentation or References
+Related Documents:
+Related Procedure Cash App | Definition and Guidelines of
+Non-complaints Procedure
+Related Procedure Cash App | Lending Operations Complaint
+Procedure
+Related References:
+The Dodd Frank Act APA. Copy. 124 Stat. 1376
+Regulation B, ECOA 12 CFR part 1002
+12. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Roy Tahsin Cash App Lending Reviewed/Approv… Apr 17, 2025
+Operations Lead
+Isaiah Boswell Product Compliance Reviewed/Approv… Apr 17, 2025
+Manager - Cash App
+Lending
+Roy Tahsin Cash App Lending Reviewed/Approv… Dec 20, 2024
+Operations Lead
+Isaiah Boswell Product Compliance Reviewed/Approv… Dec 20, 2024
+Manager - Cash App
+Lending
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+16
+
+Confidential
+Seyi Iwarere Regulatory Counsel Reviewed/Approv… Dec 20, 2024
+Approval History
+Approver Title Type Description Date
+Corey Chambe… Cash App Product Initial Appro… Reviewed/A… Jan 21, 2025
+Compliance Lead
+Brian Kollmeyer Cash App Initial Appro… Reviewed/A… Jan 21, 2025
+Consumer
+Protection
+Compliance Lead
+Corey Chambe… Cash App Product Immaterial C… Immaterial Apr 17, 2025
+Compliance Lead Changes
+Brian Kollmeyer Cash App Immaterial C… Immaterial Apr 18, 2025
+Consumer Changes
+Protection
+Compliance Lead
+13. Document Details
+Business Cash App Lending
+Scope Regional- (United States)
+Compliance Domain Consumer Protection
+Document Owner Cash App Consumer Protection Compliance Lead
+Last Approval Date Apr 17, 2025
+Effective Date Jan 21, 2025
+Approved By Cash App Consumer Protection Compliance Lead
+Document Review Schedule Annually
+Lending Operations Complaints Standard | Cash App (U.S) | Lending Product | Block, Inc.
+17

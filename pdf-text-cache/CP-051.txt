@@ -1,0 +1,895 @@
+Global Complaint
+Program Standard
+Block
+December 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbyindividualswithinBlock,Inc.and
+onaneed-to-knowbasis.
+Global Complaint Program Standard | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 5
+1.Introduction 11
+CultureStatement 11
+2.Purpose 12
+3.Applicability 12
+4.StandardRequirements 13
+4.1ComplaintProgramFramework 14
+4.2ProgramGovernance 14
+4.3RegionSpecificandBankPartnerRequirements 14
+4.4ComplaintClassification 15
+4.4.1Complaint,Inquiry,andFeedbackDefinitions 15
+4.5ComplaintSeverityTiers 16
+4.6ComplaintIntake 17
+4.6.1ComplaintIntakeChannels 17
+4.7MinimumComplaintInformationRequirements 17
+4.8AcknowledgementRequirements 18
+4.9ComplaintInvestigationandClosure 18
+4.9.1ComplaintClosureOverview 18
+4.10EarlyResolution 19
+4.11FormalInvestigationProcess 20
+4.12DelayedInvestigations 20
+4.13FinalResponse 20
+4.14ReopenedComplaints 21
+4.14.1CaseManagementTool 21
+4.14.2ComplaintManagementReporting 23
+4.14.3RootCauseAnalysis 25
+4.14.4MisdirectedComplaints 25
+4.15ComplaintProcessPresentation 26
+5.DocumentManagement 26
+5.1DocumentOwner 26
+5.2ReviewandApproval 26
+6.Training 26
+7.MonitoringandReporting 27
+8.Exceptions 27
+9.RecordRetention 27
+10.ImplementationDateandTransitionPeriod 28
+11.RelatedDocumentationorReferences 28
+Global Complaint Program Standard | Block
+3
+
+Confidential and Not for Distribution
+12.RevisionandApprovalHistory 28
+13.DocumentDetails 29
+Global Complaint Program Standard | Block
+4
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Abusive Customerswhosecommunicationincludes:
+Customer ● racialandethnicslurs
+● homophobiclanguageandslurs
+● sexistlanguage
+● harassinglanguage(suchassexualharassment)
+● threatsofharmorabusetothemselvesorouremployees
+Acknowledgeme AresponsethatconfirmsreceiptandrecognitionofaCustomer’s
+nt issue,indicatingthattheissuewillbeaddressed.Aninformal
+Acknowledgmenthappensconversationally,oftenembeddedinthe
+flowofaphonecall,chat,orsocialmediainteraction.Aformal
+Acknowledgementisdocumentedinwrittenformsuchasemail,
+letter,orsecuremessage.
+BankPartner Federalorstate-charteredbanksthat,inconnectionwiththeir
+licensure,providetheappropriateauthorityandcapabilitiesallowinga
+Blockbusinesstoofferfinancialservices.OneormoreBlockentities
+mayhaveawrittenagreementwithabankthatsubjectsittospecific
+bank-drivencontractualandregulatoryobligations.Thebanks
+typicallyfunctionasthirdpartiestothecustomersofaBlockentity,or
+mayalsohavealimitedcontractualagreementwiththecustomerin
+connectionwithenablingaspecificservice.
+Block ReferstoBlock,Inc.,andincludesallsubsidiariestowhichthis
+Standardapplies,ascoveredinthe“Applicability”Section.
+CloseDate ThedateaComplaintisclosed.Thismaybedonewithafinal
+response,theCustomer’srequesttowithdrawtheComplaint,orwhen
+thebusinessdeterminesthattheComplaintissue(s)hasbeen
+addressedpreviouslyandnonewactionwillbetaken.
+Complaint Anexpressionofdissatisfactionorgrievance(oralorwritten)byan
+individual,businessentity,orsomeoneauthorizedtoactontheir
+behalf,withaBlockproduct,process,service,decision,vendor,or
+interaction,regardlessofthevalidity.Complaintsaremorethanjust
+the‘words’butalsoareidentifiedbythetoneofandintentionbehind
+thecustomeroutreach,aswellassentimentsofabreachinthe
+business’responsibilities.Complaintsmayalsoincludeallegations
+thatBlockengagedinwrongfulorunfairconduct.
+ComplaintsdonotincludeDisputesofauthorizedorerroneous
+electronicfundstransfers,whicharehandledthroughadistinct
+processgovernedbyseparatepoliciesandprocedures.
+Global Complaint Program Standard | Block
+5
+
+Confidential and Not for Distribution
+Complaint TheissueorconcernrelatedtotheCustomer’sComplainthasbeen
+Resolution addressedandclosedinamannerthatmeetstheCustomer’s
+expectations.Customersatisfactionwiththebusiness’sresponseto
+theComplaintisrequiredtoconsideraComplaintresolved.
+Complaint AuniqueidentifierforCustomersormerchants,suchasaComplaint
+Identifier casenumber.ThesemayvarybyBusiness.
+ComplaintIssue AclassificationmethodusedtogroupComplaintsbasedonsimilar
+attributes.Generallyidentifiedthroughkeywordsorphrasesusedby
+thecomplainant.
+Complaint ThepersonresponsibleforhandlingandresolvingtheComplaintby
+Investigator conductingathoroughinvestigation.Thisincludes,butisnotlimited
+to,gatheringandanalyzinginformationtoassesstheComplaint,
+communicatingwiththeCustomer,collaboratingwithother
+departments,anddeterminingappropriateactions.
+Complaint AclassificationmethodusedtocategorizeComplaintsbyseverity.
+SeverityTier
+ComplaintStatus AnoverviewofwhereaComplaintstands.Ittracksandcategorizes
+thestageofeachComplaintwithintheresolutionprocess.
+● New-theComplainthasbeenreceivedandloggedbuthas
+notyetbeenassignedforaction
+● InProgress-theComplaintisbeingactivelyinvestigated
+● Withdrawn-thecomplainanthasdecidedtoretractthe
+ComplaintsothatitwillbeClosedwithoutresolution
+● PendingComplainant-theComplaintisonholdbecauseof
+additionalinformationoractionsneededfromthe
+complainant
+● Closed-theComplainthasbeenfullyaddressed,investigated,
+andtheFinalResponsehasbeenprovidedtothecomplainant.
+Itindicatesallnecessaryactionshavebeentakenandthe
+Complaintcasehasconcluded.
+Controls Themechanisms,processes,andproceduresdesignedtominimize
+riskandprovidereasonableassuranceregardingtheeffectivenessand
+efficiencyofoperationsandcompliancewithapplicablepolicies,
+procedures,laws,andregulations.
+Customer ACustomerreferstoanyindividual,entity,ororganizationthathas
+engagedinatransaction,purchasedgoodsorservices,orinteracted
+withBlockinamannerthatestablishesadirectrelationshipor
+affiliation.Thisalsoencompassesindividualswhomaynothave
+directlyinteractedwithBlockproductsorservicesbutinformof
+grievancesonbehalfofanotherwithadirectrelationship.
+Dispute ACustomer’sclaimthatanelectronicfundstransferfromtheir
+accountwasunauthorized,incorrect,ornotexecutedasintended.A
+DisputeisoutsidethescopeofthedefinitionofComplaint.
+Global Complaint Program Standard | Block
+6
+
+Confidential and Not for Distribution
+Feedback Compliments(oralorwritten)aboutBlockorCustomer
+recommendationsforimprovingBlockproduct,process,orservice.
+Overall,CustomersprovidingFeedbackaresatisfiedwithBlockand
+simplywanttooffercommendationorideasforimprovement.
+Fraud/IDTheft Wrongfulordeceptiveactivityintendedtounlawfullyobtainmoneyor
+othervaluables,ortheunauthorizeduseofpersonalinformationfor
+financialgain.
+IntakeChannel ThemethodbywhichaComplaintiscommunicatedordeliveredtoa
+business.Itidentifiesthesourceormediumthroughwhichthe
+Customer’sconcernwassubmitted.
+● RegulatoryAgency-agovernmentbodythatreceives
+ComplaintsonbehalfofCustomersandforwardstothe
+businessforinvestigation
+● Attorney-alegalrepresentativesubmittingaComplainton
+behalfofaCustomer
+● ConsumerAgency-anorganizationthatassiststheCustomers
+withComplaintstofacilitatearesolution
+● ExecutiveEscalation-aComplaintdirectedtoaboard
+member,BlockCore,orSeniorLeader
+● CustomerEmail-aCustomer’soutreachviaemail
+● SocialMedia-aCustomer’spublicorprivateposttoBlockora
+businessmanagedplatform
+● CustomerMail-aCustomer’soutreachviapostalservices.
+● CustomerPhone-aCustomer’soutreachbytelephonecall
+● Fax-aCustomer’soutreachbyfacsimile
+● Messaging-aCustomer’soutreachbyinstantMessagingor
+chatfeatureswithinthebusiness’swebsiteorapp.
+● Other-Anyintakemethodthatdoesnotfitwithinthespecific
+categoriesabove.
+Inquiry Acommunication(oralorwritten)thatincludesgeneralquestions,
+servicerequests,ortechnicalissuesthatdonothavesentimentsofa
+Complaint.
+IPInfringement Theunauthorizeduse,reproduction,distribution,orexploitationof
+intellectualpropertyassets,suchaspatents,copyrights,trademarks,
+andtradesecrets,withouttheexplicitpermissionoftherightful
+owneroralicense.
+LegalTag ClassificationusedtoidentifyandcategorizeComplaintsthatinvolve
+potentiallegalissuesorhavelegalimplications.
+LitigationThreat Potentialoractuallegalactionordisagreementsthatmayresultina
+lawsuit.
+Material Importantinformation,generallysignificantenoughtomerit
+attentiontoaspecificissueidentified.Includesanyinformationor
+detailthatwouldreasonablyinfluenceaperson’sdecisionor
+judgmentregardingaparticularmatter.Thiscouldinclude
+Global Complaint Program Standard | Block
+7
+
+Confidential and Not for Distribution
+documents,industrystandards/practices,regulatoryobligations,andif
+thefactualinformationcouldpotentiallyaltertheoutcomeorcourse
+ofaction.
+IssueType AclassificationthatidentifiesthereasonaComplaintwasraised.
+● Primary-theoverarchingproblemthattriggeredthe
+Complaint.
+● Secondary-secondpriorityissuewithinaComplaint
+representinganadditionalconcernrelatedto,butdistinct
+from,thePrimaryissue.
+ProductType Thespecificcategoryorclassofgoodsorservicesofferedbythe
+business.
+PrivacyViolation Unauthorizedaccesstooruseofpersonalorconfidentialinformation.
+ReceivedDate ThedateaComplaintisreceivedthroughaComplaintchannel,
+regardlessofwhetheritisimmediatelyescalatedtothebusinessfor
+review.Theduedatesforacknowledgmentandresponsesbeginasof
+theComplaintdate.TheReceivedDateisDay0oftheComplaint
+servicelevelagreement.
+Forvoicecalls:ThedateaComplaintisacceptedorrecordedviaa
+voicemessageortelephonecall.
+Forsocialmedia:ThedateaComplaintispostedormessagedtoa
+socialmediaaccountownedbythebusiness.Thetimestampofthe
+postwillserveastheReceivedDate.
+Formail:ThedateaComplaintisphysicallyreceivedatthebusiness’s
+postaladdress.Intheeventthemailwassentwithtracking,the
+deliverydatefromthecourierwillserveastheReceivedDate.
+Foremail:ThedateaComplaintentersthebusiness’semailsystemor
+inbox.ThetimestampoftheemailwillserveastheReceivedDate.
+Reopened ApreviouslyClosedComplaintthataCustomerhasreactivateddueto
+Complaint dissatisfactionwiththeinitialresponse.
+ReputationalRisk Thepotentialharmtoacompany'sreputationthatmayoccurwhen
+itsactions,decisions,orthebehaviorofitsemployeesorproductsare
+perceivednegativelybythepublic,Customers,orstakeholders.
+ResultingAction ThePrimaryactiontakentoresolvetheComplaint.Thiscouldbea
+broadrangeofactionswhichmayinclude(butnotlimitedto)issuing
+anapology,correctionofincorrectrecords,ceasingcollectionefforts,
+grantingadditionaltimebeforeclosinganaccount,reactivatingor
+closinganaccount,ornotmakingachangeafterinvestigation.
+RootCause AComplaintreductionmechanismthathelpstoinformwhy
+Complaintshavebeenraised,iftheComplaintallegationswere
+Global Complaint Program Standard | Block
+8
+
+Confidential and Not for Distribution
+substantiated,whethererrorsaresystemicorisolated,andthelevelof
+severityorrisktheymaypresenttotheorganization.
+● Primary-thefundamentalfactordirectlyresponsibleforthe
+PrimaryIssueType,whichisthecoreproblemthattriggered
+thedissatisfaction.
+● Secondary-theunderlyingfactorcontributingtothe
+SecondaryIssueType.
+StaffMembers Allemployeesandfixed-termandcontingentworkerswhosupport
+theoperationsand/orsubsidiariescoveredbythisStandard,and
+includeinterns,temporaryworkers,consultants,vendors,third-party
+providers,andcontractors.
+SystematicRisk Alsoknownasamarketornon-diversifiablerisk.Itreferstothe
+inherentriskthataffectsanentiremarket,industry,ortheoverall
+economy.Itisatypeofriskthatisbeyondthecontrolofasingle
+company.SystematicRiskiscausedbyfactorssuchas
+macroeconomicconditions,geopoliticalevents,ornaturaldisasters
+whichimpactentiremarkets/sectorsratherthanspecificcompanies.
+UnfairTreatment Allegationsofdiscrimination,bias,orunequaltreatmentinviolationof
+legalorethicalstandards.
+Roles&Responsibilities
+Terminology Definition
+1stLineof Consistsofthebusinessoperationsteam,agentteamleaders,
+Defense(1stLoD) Complainthandlingunit,andqualityassurance.Thefirst-linefunction
+isresponsiblefordesigning,implementing,andmaintaininginternal
+ControlsnecessarytocomplywiththeGlobalComplaintsProgram
+requirements.
+2ndLineof Thesecond-linefunctionistheCompliancefunction,includingthe
+Defense(2nd GlobalComplaintsProgramandothercomplianceteamssupporting
+LoD) theoversightoftheprogram.The2LoDisresponsiblefortheoversight
+ofthe1LoDactivities,includingtheexecutionofriskbased,
+independentcomplianceandvalidationtesting.Thisalsoincludes
+Product,Business,andMarket-SpecificcomplianceStaffwhoensure
+heightenedrequirementssetbycontractual,regional,orregulatory
+requirementsthatexceedthoseoutlinedinthisStandard.
+3rdLineof Thethird-linefunctionconsistsoftheInternalAudit(“Audit”)team.
+Defense(3rdLoD) The3LoDisresponsibleforconductingperiodreviewsofthebusiness
+andgloballevelprograms,aswellasindependenttestingand
+evaluationofthecontrolenvironment.
+GlobalComplaint TheGlobalComplaintProgramLeadisresponsibleforcreatingand
+ProgramLead developingtheComplaintprogramstrategyandrequirements.They
+Global Complaint Program Standard | Block
+9
+
+Confidential and Not for Distribution
+areresponsibleforensuringbusinessesareawareofProgram
+requirements,receivethenecessarytrainingontheProgram,and
+conductanongoingreviewofbusiness-levelprograms.
+GlobalChief SeniorexecutiveresponsibleforoversightoftheGlobalComplaint
+Compliance PolicyandGlobalComplaintProgram.Theyreceiverecurring
+Officer(GCCO) reportingonProgramandProgram-levelcomplianceandmetrics.
+Global Complaint Program Standard | Block
+10
+
+Confidential and Not for Distribution
+1. Introduction
+This Global Complaint Program Standard (“Standard”) outlines Block Inc.’s minimum
+requirements for Complaint management and provides a structured framework for developing
+and managingComplaintprogramswithineachbusiness.TheGlobalComplaintProgramLeadis
+responsibleformanagementofthisStandard.
+Culture Statement
+Block is committed to maintaining the highest standards of complianceandfosteringapositive
+enterprise culture. It believes that an effective Complaint oversight system is vital to achieving
+these goals. This statement serves as a reminder of its commitment to ensuring fairness,
+transparency,andaccountabilityinhandlingCustomerComplaintsthroughoutitsorganization.
+Compliance Excellence: Block strives for excellence in compliance by adhering to allapplicable
+laws, regulations, and industry standards. It encourages all employees to understand and follow
+theseguidelinesintheirdailyworkactivities.
+Open Communication: Block promotes open and transparent communication channels within
+the organization. It values Feedback from its Customers and actively encouragesthemtoreport
+any concerns or Complaints they may have. It is committed to addressing issues promptly and
+confidentially.
+Non-Retaliation: BlockstrictlyprohibitsretaliationagainstanyCustomerwhoraisesaconcernor
+files a Complaint in good faith. It is dedicated to creating an environment whereCustomersfeel
+safetospeakupwithoutfearofreprisal.
+Fair Investigation: All Complaints received willbetreatedseriouslyandinvestigatedthoroughly.
+Block ensuresthatinvestigationsareconductedinanunbiased,objective,andimpartialmanner,
+withdueregardforprivacyandconfidentiality.
+Continuous Improvement: Block recognizes that an effective Complaint oversight system
+requires continuous improvement. It regularly reviews its processes to identify areas for
+enhancement,provideadditionaltrainingwherenecessary,andlearnfromanymistakesmade.
+Leadership Commitment:Block’sleadershipteamiscommittedtosettingapositiveexampleby
+actively promoting and supporting a compliant and ethical work environment. Theywillleadby
+exampleandensurethatthenecessaryresourcesareavailableforeffectiveComplaintoversight.
+Global Complaint Program Standard | Block
+11
+
+Confidential and Not for Distribution
+2. Purpose
+Block developed this Standard to create a unified Complaint management framework. For the
+applicable Block, Inc. entities that develop, manage products and services, and oversee
+Customer-facing Complaint Intake Channels, this Standard provides guiding principles for the
+developmentandmanagementofbusinesslineComplaintprograms.
+The Global Complaints Policy, a separate document, establishes the high-level principles and
+expectations for managing complaints across Block, ensuring alignment with company values
+andprinciples.Itdefineswhatmustbeachieved,whilethisStandardoutlineshowtoachieveit.
+As detailed in the “Complaint Program Framework” Section below, individual businesses and
+entities to which this Standard applies are expected to create contextualized guidance
+documentsbasedonthisStandard’srequirementsandprinciples.
+Further, Block maintains this Standard to proactively comply with legal, regulatory, and
+contractualrequirementsgoverningthehandlingofCustomerComplaints.
+3. Applicability
+This Standard applies to the followingBlock,Inc.entitiesacrossalljurisdictionsandallsubsidiary
+and affiliate companies over which they exercise control. References to “Staff Members''
+throughout this document refer to all employees and fixed-term and contingent workers who
+support the operations and/or subsidiaries covered by this Standard, and include interns,
+temporaryworkers,consultants,vendors,third-partyproviders,andcontractors.
+● AfterpayAustraliaPtyLtd
+● AfterpayCanadaLimited
+● AfterpayNZLimited
+● AfterpayUSServices,LLC
+● ASPIROAB
+● CashAppInvestingLLC
+● CashAppTaxes,Inc.
+Global Complaint Program Standard | Block
+12
+
+Confidential and Not for Distribution
+● ClearpayFinanceLimited
+● SquareAUPtyLtd
+● SquareCanadaInc.
+● SquareCapital,LLC
+● SquareK.K.
+● SquareupEuropeLimited
+● SquareupInternationalLimited
+● TIDALMusicLLC
+● TidalServiçosdeEntretenimentoLtda
+.
+4. Standard Requirements
+This Standard mandates the establishment of a framework to ensure consistent and compliant
+handling of Complaints across all business markets and product lines. The Standard will
+incorporatethefollowingkeyrequirements:
+● Lifecycle Stages and Handling Standards: Define standardized lifecycle stages from
+intake to closure of a Complaint; as well as ensure timely and accurate tracking of
+Complaintsthrougheachstage.
+● Roles and Responsibilities: Assign clear responsibilities for Complaint intake,
+investigation, resolution, quality assurance, reporting, Root Cause analysis, and
+oversightfunctions.
+● Product, Business, and Market-Specific Requirements: Within the 2nd LoD, ensure
+that businesses adhere to the heightened requirements set by contractual, regional,
+orregulatoryrequirementsthatexceedthoseoutlinedinthisStandard.
+● Methodologies, Standards, and Frameworks: Establish a framework to guide
+Complaintmanagementprocesses,qualityassurance,andRootCauseanalysisefforts.
+● Audit: As the 3rd LoD, responsible for independent monitor and audit Complaint
+handling activities, and reports findings to ensure adherence to regulatoryandpolicy
+standards.
+4.1 Complaint Program Framework
+TheStandardprovidesaframeworkandguidingprinciplesfordevelopmentandmanagementof
+business-level Complaint programs. The framework includes, butisnotlimitedto,anestablished
+processforthegovernance,handling,andreportingofComplaints.
+Global Complaint Program Standard | Block
+13
+
+Confidential and Not for Distribution
+4.2 Program Governance
+All businesses must adhere to the global Complaint governance requirements outlined within
+this Standard. Further, all businesses must create and maintain business-level governance
+materialsandprocesseswhichmayinclude,butarenotlimitedto,thefollowing:
+● Complaintpolicy;
+● Complaintstandard;
+● Complainthandlingprocedures;
+● InternalControllibrary(inventory);
+● Qualitycontrolprocesses;and
+● Trainingmaterials.
+Businesses are responsible for reviewing applicable governance materials on an annual basis. If
+Material changes are made during the annual review, or otherwise, such changes are to be
+communicatedtotheGlobalComplaintProgramLeadforreviewandapproval.
+4.3 Region Specific and Bank Partner Requirements
+For businesses that operate in markets withregion-orcountry-specificComplaintrequirements,
+the business must comply with the regional Complaint requirements, in addition to the
+requirements established in this Standard. These regional compliance requirements should be
+documentedinentityorregionspecificpoliciesorstandards.
+Additionally, businesses with contractual obligations set by Bank Partners must comply with
+them, in addition to this Standard. These compliance requirements are documented in Bank
+Partner contracts. Individuals who oversee Bank Partner contracts will work with legal and
+compliance to provide guidance on integratingBankPartnerrequirementsrelatedtoComplaint
+managementintothebusiness’sComplaintgovernancedocumentsandprocesses.
+Global Complaint Program Standard | Block
+14
+
+Confidential and Not for Distribution
+4.4 Complaint Classification
+4.4.1 Complaint, Inquiry, and Feedback Definitions
+The initial phase of the Complaint intake process consists of determining whether a
+communication is a Complaint, Inquiry, or Feedback; this Standard provides enterprise-wide
+Complaint, Inquiry, and Feedback definitions. Global definitions must be adopted by all
+businesses subject to thisStandard,absentanapprovedExceptiontoStandard(“ETS”)requestin
+accordance with the Exception to Standard process outlined herein Complaint Program
+Framework.
+TheStandarddefinesthetermsComplaint,Inquiry,andFeedbackasfollows:
+● Complaint: An expression of dissatisfaction or grievance (oral or written) by an
+individual, business entity, or someone authorized to act on their behalf, with aBlock
+product, process, service, decision, vendor, or interaction regardless of the validity.
+Complaints are more than just the ‘words’ but also are identified by the tone of and
+intention behind the Customer outreach, as well as sentiments of a breach in the
+business’s responsibilities. Complaints may also include allegations that Block
+engaged in unfair or wrongful conduct. Complaints do not include Disputes of
+authorized or erroneous electronic funds transfers, which are handled through a
+distinctprocessgovernedbyseparatepoliciesandprocedures.
+● Inquiry: A communication (oral or written) that includes general questions, service
+requests, or technical issues that do not have sentiments of dissatisfaction or
+grievances. Inquiries do not include Disputes of authorized or erroneous electronic
+funds transfers, which are handled through a distinct process according to relevant
+policiesandprocedures.
+● Feedback: Compliments (oral or written) about Block orCustomerrecommendations
+for improving Block product, process, or service. Overall, Customers providing
+FeedbackaresatisfiedwithBlock,andsimplywanttooffercommendationorideasfor
+improvement.
+Global Complaint Program Standard | Block
+15
+
+Confidential and Not for Distribution
+4.5 Complaint Severity Tiers
+Complaint Severity Tiering is a method used to rank Complaints based on the inherent risk
+present within the communication, as well as the source of the Complaint such as Complaints
+from aRegulatoryAgency.Tieringprovidesaclearmechanismforunderstandingthecriticalityof
+a Complaint and determines the levelofescalatedorspecializedreviewnecessary.Italsoaimsto
+align the proper Complaint management resources and processes pertaining to thenatureand
+complexity of the Complaint, while still allowing for timely investigation and response to the
+Customer. Complaint Severity Tieringisinformedby,butnotlimitedto,trendanalysis,regulatory,
+contractual,reputational,andbusinessrisksorobligations.
+A multi-tier approachprovidesanefficientwaytodistributeresources,establishescalationpaths,
+prioritize Complaints, and ensure that each Complaint receives the appropriate degree of
+attention. This organized framework for Complaint handling helps to improve the Customer
+experience because the Complaint is routed to the tier where Staff members have the
+appropriate tools,skills,andknowledgetoaddresstheComplaint.ThisStandardidentifiescriteria
+toinformComplaintseveritytieringthatbusinessesmustadopt.
+ComplaintTier Description
+● SourceoftheComplaintorcorrespondenceisaGovernment
+Official,GovernmentAttorney,orAttorneyrepresenting
+Customer;
+● SourceoftheComplaintisaRegulator,ComplaintAuthority,or
+ConsumerAdvocacyAgency;
+Tier1
+● Complaintsenttothelegalentityforthebusiness,aboard
+(HighRisk)
+member,CEO/Executive,orSeniorLeader;
+● Complaintallegesviolationoflaworregulation,including
+PrivacyViolations;
+● ComplaintallegesIPinfringement;
+● ComplaintallegesUnfairTreatment;and
+Global Complaint Program Standard | Block
+16
+
+Confidential and Not for Distribution
+● Complaintpresentsareputational,SystematicRisk,highrisk,
+orhighlycomplexissuerequiringspecializedreview.1
+● ComplaintisaReopenedComplaint(sameorrelatedissuetoa
+Tier2
+priorComplaint);and
+(MediumRisk)
+● Complaintsescalatedtoasuperior.
+Tier3 ● Complaintsthatdonotrequireescalationorspecialized
+(LowRisk) supporttoclose.
+4.6 Complaint Intake
+4.6.1 Complaint Intake Channels
+Businesses are responsible for documenting and maintaining Complaint Intake Channels. They
+must also externally publish information about how and where Complaints can be made.
+Providing clear and transparent communication regarding the methods available to Customers
+to file a Complaint is aligned with our Culture Statement addressed in the Introduction. Intake
+Channels may include but are not limited to, online Complaint Forms, email,phone,postalmail,
+andsocialmediaplatformsmanagedbythebusiness.
+4.7 Minimum Complaint Information Requirements
+Ataminimum,businessesmustobtain:
+1. ThereasonfortheComplaint;and
+2. Sufficient information to identify the complainant, account, or transaction that is the
+subjectoftheComplaintinordertoacceptandinvestigateaComplaint.
+a. Customers must satisfy the business’s account authentication process before
+providing the complainant with account-specific informationintheComplaint
+response. Absent authentication, the complainant may only be provided with
+general information and reassurance that the business will investigate the
+matterinternally.
+1 SpecializedReviewwithinthecontextoftheStandardwillbeapplicabletoComplaintsinwhichan
+escalated support or specialized knowledge (Legal, Compliance, Risk) is required to properly
+respondtoorresolvetheComplaint.
+Global Complaint Program Standard | Block
+17
+
+Confidential and Not for Distribution
+4.8 Acknowledgement Requirements
+Businesses are required to issue the Complaint acknowledgment in the language that
+corresponds with the Customer’s Terms of Service agreement. However, if it is feasibleanddoes
+not place a hardship on the business, the language can be modified based on Customer
+preference.
+Unless a Complaint has been Closed by the end of the 5th business day from when it was
+received, businesses should formally acknowledge receipt of a Complaint. Businesses should
+viewthe5businessdayorlessrequirementasthebaselineforComplaintAcknowledgement.
+The Acknowledgement ofaComplaintmaybeverbalorinwriting(email,Messaging,postalmail,
+or social media). When determining the appropriate method of communication, businesses are
+expected to consider the method the Customer used to make their Complaint and any
+preferencestheymayhaveexpressedaboutcommunicationmethods.
+Complaints submitted through a Consumer Advocacy Agency, Complaint Authority, or
+Regulatory Agency’s secure portal are not required to receive a formal Acknowledgement of
+receipt. The business must adhere to tighter deadlines than those set in this Global Complaint
+StandardiftheComplaint:
+● IssubmittedbyaconsumerorComplaintauthoritywithitsowndeadline;
+● IssubmittedbyaRegulatoryAgencywithitsowndeadline;
+● Hasastatutorydeadlinerequirement;or
+● IssubjecttoaBankPartner’sdeadlinerequirement.
+4.9 Complaint Investigation and Closure
+4.9.1 Complaint Closure Overview
+A reasonable Complaint investigation process can fix problems to avoid escalation, provide
+sufficient redress for Customers, increase Customer and Staff satisfaction, and produce data
+andinsightstohelpBlockregularlyenhanceitsComplaintsprocesses.
+Businesses are required to issue the Complaint closure response in the language that
+corresponds with the Customer’s Terms of Service agreement. However, if it is feasibleanddoes
+Global Complaint Program Standard | Block
+18
+
+Confidential and Not for Distribution
+not place a hardship on the business, the language can be modified based on Customer
+preference.
+All businesses must aim to close Complaints in 15 business days or less. Businesses should
+view the 15 business day or less requirement as the baseline for Complaint Resolution. The
+business must adhere totighterdeadlinesthanthosesetinthisGlobalComplaintStandardif
+theComplaint:
+● IssubmittedbyaconsumerorComplaintauthoritywithitsowndeadline;
+● IssubmittedbyaRegulatoryAgencywithitsowndeadline;
+● Hasastatutorydeadlinerequirement;or
+● IssubjecttoaBankPartner’sdeadlinerequirement.
+4.10 Early Resolution
+Early resolution is suitable for Complaints that appear to be resolvable quickly, with minimal
+evidence or additional information needed fromtheCustomer.Businessesshoulddetermine
+their appetite for billing adjustments or credits based on Customer happinessorgoodwillas
+a means for resolution for each level of support. Additionally, businesses are expected touse
+data insights to pinpoint common Complaint issues, ensure Staff has the authorityoraccess
+to persons who can remedy the issues, and compose procedurestoallowforearlyresolution
+oftheissuesinamannermoreefficientforboththeCustomerandbusinessresources.
+TheComplaintrecordandresponseshouldinclude:
+1. Summary of all ComplaintissuesraisedbytheCustomerandthedesiredoutcome
+soughtbytheCustomerinclusiveof:
+a. atimelineorkeydatesrelatingtotheissue(s);
+b. completerecordsofcommunicationwiththeCustomer;and
+c. theComplaintresponseprovidedtotheCustomer.
+2. Actions Staff take to address each Complaint issue, and stakeholders involved in
+therevieworapprovalofthoseactions;
+3. Financial and non-financial redress and compensation offers made to the
+Customer,includingconditionsforacceptanceifapplicable;and
+Global Complaint Program Standard | Block
+19
+
+Confidential and Not for Distribution
+4. A Customer’s right to refer/escalate the Complaint in regions where wearestatutorily
+requiredtoinformtheCustomeroftheright.
+4.11 Formal Investigation Process
+Even in cases where early resolution is not possible, Complaints should be dealt with
+promptly, courteously and inaccordancewiththeirseveritytier.TheComplaintrecordshould
+include:
+1. Summary of all Complaint issues the Customer raised andtheCustomer’sdesired
+outcome,inclusiveof:
+a. atimelineorkeydatesrelatingtotheissue(s)
+b. completerecordsofcommunicationwiththeCustomer
+c. theComplaintresponseprovidedtotheCustomer
+2. Internal records, documents obtained during the course of the investigation,
+policies,orservicingagreementsusedtoformulatetheFinalResponse;
+3. ResultsofinvestigationbasedoncompleteanalysisoftheComplaintissues;
+4. Actions taken to resolve each Complaint issue, and stakeholders involved in the
+revieworapprovalofthoseactions;and
+5. Financial and non-financial redress and compensation offers made to the
+Customer,includingconditionsforacceptanceifapplicable.
+4.12 Delayed Investigations
+If the business cannot provide the final response by the 15th business day, the business
+should provide the Customer prompt notification of the delay and set a new expectationfor
+when the final response will be issued.InregionswheretheCustomerhasarighttoreferthe
+Complaint to a regulator or alternative Complaint resolution agency, the Customer must be
+notifiedoftheirrightsinthedelaynotification.
+4.13 Final Response
+Within 1 business day of completing the formal investigation, the Customer should be
+notified in writing (email, Messaging, postal mail, or socialmedia)oftheinvestigationresults.
+The timestamp orpostmarkmustbeusedtorecordthedatetheresponsewasissued.Thisis
+Global Complaint Program Standard | Block
+20
+
+Confidential and Not for Distribution
+referred to as the Final Response. It should help the Customer understand what happened,
+andshouldincludethefollowingwhenapplicable:
+1. Summary of all ComplaintissuesraisedbytheCustomerandthedesiredoutcome
+soughtbytheCustomer;
+2. Explanation of the actions taken to investigate the Complaint, such as account
+correctionorcustomereducation;
+3. Reference to information considered to reach the Final Response (not including
+proprietaryinformation);
+4. Financial and non-financial redress and compensation offers made to the
+Customer,includingconditionsforacceptanceifapplicable;and
+5. A Customer’s right torefer/escalatetheComplaintinregionswherewearerequiredto
+informtheCustomeroftheright.
+4.14 Reopened Complaints
+A Customer may remain dissatisfied after Early Resolution or Final Response and they may
+reopen a Complaint on topics already investigated and Closed. In these instances, formal
+acknowledgement is not required for the Customer's Reopened Complaint if the issue(s) of
+the Complaint were previously addressed in Early ResolutionorFinalResponsewithinthe30
+calendar day period preceding the Complaint reopening date.Businessesshoulddetermine
+if an opportunity to settle the matter amicably exists or if it is unable to resolve this to the
+Customer's satisfaction, provide theCustomerwithaclearresponseexplainingitspositionno
+morethan15businessdaysaftertheComplaintisreopened.
+If the Customer decides to further escalate the Final Response to a Consumer Agency or
+regulator, the business will investigate and seek to resolve the Complaint in line with the
+requirementsfromtheComplaintauthority,ConsumerAgency,orregulator.
+4.14.1 Case Management Tool
+To ensure that Block has consistent Complaint handling and reporting across the enterprise,
+each business mustprovideatleasttheminimumdataelementsdefinedbelowforbetterrecord
+keeping, tracking, and assessment of Complaints. Each business must build the minimum data
+elements into existing or new Complaint case management tools.Businessesshouldviewthese
+Global Complaint Program Standard | Block
+21
+
+Confidential and Not for Distribution
+elements as the baselineforComplaintcapture,thoughalloptionslistedbelowmaynotapplyto
+each business. The business is not precluded from also using additional data fields for effective
+Complaintmanagement.
+FieldName Options
+ComplaintInvestigator*
+ComplaintStatus ● New
+● InProgress
+● Withdrawn
+● PendingComplainant
+● Closed
+ReopenedComplaint ● Yes
+● No
+ComplainantIdentifier
+ProductType*
+IntakeChannel* ● RegulatoryAgency
+● Attorney
+● ConsumerAgency
+● ExecutiveEscalation
+● CustomerEmail
+● SocialMedia
+● CustomerMail
+● CustomerPhone
+● Fax
+● Messaging
+● Other
+State* ● N/A
+● Thetwo-letterabbreviationofUSstate
+orCANprovince/territory
+Country/Jurisdiction*
+ReceivedDate* MM/DD/YYYY
+DateAcknowledged MM/DD/YYYY
+CloseDate* MM/DD/YYYY
+Global Complaint Program Standard | Block
+22
+
+Confidential and Not for Distribution
+FieldName Options
+PrimaryComplaintIssue* ● Dissatisfiedbyemployeeinteraction
+SecondaryComplaintIssue ● Dissatisfiedbyemployeeinteraction
+ResultingAction* ● Nochange
+● Apology
+● Reactivatedaccount
+● Removedaccountrestriction
+● Refund/feewaiver
+● Referredtopartyfullyresponsiblefor
+Complaint
+PrimaryIssueRootCause
+SecondaryIssueRootCause
+ComplaintSeverityTier ● Tier3
+● Tier2
+● Tier1
+LegalTag* ● AbusiveCustomer
+● Dispute
+● Fraud/IDtheft
+● IPInfringement
+● Litigationthreat
+● Otherlegal/regissue
+● PrivacyViolation
+● ReputationRisk
+● SystematicRisk
+● UnfairTreatment
+EscalatedtoLegal(Y/N) ● Yes,MM/DD/YYYY
+● No
+Routedtoanexternalpartner? ● Yes,MM/DD/YYYY
+● No
+*FieldsrequiredforEarlyResolutionComplaints
+4.14.2 Complaint Management Reporting
+Reporting is a crucial component of Complaint management and functions as both a
+preventative and detective Control to identify process gaps, emerging issues, trends, and
+Global Complaint Program Standard | Block
+23
+
+Confidential and Not for Distribution
+systemic issues. The business is responsible for implementing Complaint program monthly
+reportingtocapturekeymetricsandglobalStandardrequirements.
+Reportsmustinclude,butarenotlimitedto:
+1. ThenumberofComplaintsreceived;
+2. ThenumberofComplaintsClosed;
+3. ThenumberofComplaintsWithdrawn;
+4. ThenumberofComplaintsnotyetClosed;
+5. ThenumberofReopenedComplaints;
+6. ThenumberofformalComplaintsacknowledgedwithin5businessdays;
+7. ThenumberofComplaintsClosedwithintheinitial15businessdays;
+8. ThetotalnumberofComplaintsbyResultingAction;
+9. ThetotalnumberofComplaintsbyProduct;
+10. ThetotalnumberofComplaintsbyseveritytier;
+11. Averageresolutiontimebyseveritytier;
+12. ThepercentageofComplaintsreceivedbyeachIntakeChannel
+13. Complainttotalscategorizedbyissue;
+14. ThetotalofComplaintsbyLegalTag;
+15. NumberofComplaintsEscalatedtoExternalPartner;
+16. NumberofComplaintsEscalatedtoLegal;
+17. ComplainttotalsbyRootCause;and
+18. Systemicissuesidentifiedinthereportingperiod.
+The business isresponsibleforprovidingreportingonmetricsonamonthlybasistokeybusiness
+stakeholders, which include the Global Complaint Program Lead. As the Program develops and
+additional requirements are implemented, these updated requirements must be incorporated
+intothebusinessComplaintcasemanagementsystemsandreflectedinbusinessreporting.
+The Global Complaint Program Lead oversees implementation requirements and timelines.
+Further, the Global Complaint Program Lead is responsible for reviewing global and
+business-level Complaint data for additional analysis for the 2nd LoD. Issues, gaps, or
+recommendations identified by the Global Complaint Program Lead will be provided to the
+business,committeereporting,andtheGlobalChiefComplianceOfficer(“GCCO”).
+Global Complaint Program Standard | Block
+24
+
+Confidential and Not for Distribution
+4.14.3 Root Cause Analysis
+Root Cause Analysis (“RCA”) andtrendreportingisoneofthepillarsofComplaintsmanagement,
+which ultimately serves as a Complaint reduction mechanism. RCA helps to inform why
+Complaints have been raised,iftheComplaintallegationsweresubstantiated,whethererrorsare
+systemicorisolated,andthelevelofseverityorrisktheymaypresenttotheorganization.
+Businesses must conduct a RCA with respect to Complaints where appropriate and justified by
+the Complaint severity and/or volume. The RCA will be used to determine whether a justifiable
+change to product, technology, policies or procedures could be reasonablyexpectedtomitigate
+the occurrence of the circumstances leading to such Complaints. Where an underlying issue is
+identified that causes Material harm to additional Customers, businesses must take appropriate
+remedial action regardless of whether those additional Customers have made a Complaint or
+not, including escalating to Issue Management for assistance in identifying all Customers
+affected, documenting and resolving systemic issues. Root Cause analyses provide information
+onindividualandaggregatelevels,thusbusinessesmustmonitordevelopmentsatbothlevels.
+Quarterly,theGlobalComplaintProgramLeadwillreviewbusinessRCAandprovideobservations
+and recommendations for improving products or services as needed. The Global Complaint
+Program LeadwillalsomonitorsystemicissuesraisedwithIssueManagementuntiltheissuehas
+beenremediatedandClosed.
+4.14.4 Misdirected Complaints
+It is foreseeable thatCustomersmaysendComplaintsoutsideofthededicatedComplaintIntake
+Channels. To account for this, each business should also develop training or internal process
+awareness so that applicable Staff members who may not regularly handle Complaints are
+informed of how to escalate Complaints and the role they play in guiding misdirected
+ComplaintstotheproperComplaintchannel.
+Global Complaint Program Standard | Block
+25
+
+Confidential and Not for Distribution
+4.15 Complaint Process Presentation
+ThediagrambelowillustratestheComplaintlifecycle.
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheGlobalComplaintProgramLeadortheirdesignee.
+5.2 Review and Approval
+Thisdocumentshallbereviewedandapprovedatleastannuallyandonanad-hocbasisin
+accordancewiththeComplianceDocumentApprovalMatrix.
+6. Training
+All relevant Staff Members will receive training at least annually covering applicable
+requirements and guidance to implement this Standard effectively. All training activities are
+monitoredbytheComplianceTeamandareoutlinedintheComplianceTrainingStandard.
+Global Complaint Program Standard | Block
+26
+
+Confidential and Not for Distribution
+7. Monitoring and Reporting
+Compliance will provide regular updates to the Block, Inc. Board (“Board”) and executive
+management. This reporting may include specific information related to policies, Standards,
+procedures,audit/examfindings,issuesmanagement,training,andComplaints.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/orexemptions
+to this Standard, provided that the proposed exception orexemptiondoesnotviolateapplicable
+contracts, laws and regulations. Standard exception requests must be documented in writing,
+include a reason for a request, and provide a description of the controls that the Company will
+implementtomitigaterisksassociatedwiththeexception.
+Businesses are expected to submit ETS requests within 45 days of becoming aware that they
+may not be in compliance with this Standard due to new product development or identified
+procedural, people, or technological issues using the Exception to Standard Request form. Any
+approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Global
+Complaint Program Lead. The Document Owner and/or designee will inform Compliance
+Leadershipandapplicablecommittees,asneeded,ofexceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s RecordRetentionguidanceor
+inaccordancewithregulatoryguidance-whicheverislonger.
+Complaint records will be classified as general Customer Complaints or regulatory/legal
+Complaints, which will be identified by the Legal Tag and Escalated to Legal fields in the Case
+Management tool. Complaint records related to general Customer Complaints will be retained
+for the period of seven (7) years from thedateofclosure.Complaintrecordsrelatedtoregulatory
+and legal Complaints will be retained for the period of ten (10) years from the date of closure.
+Complaint records will be securely destroyed 2 years after the retention periodexpirestoensure
+compliancewithdataprotectionregulationsandprivacyconsiderations.
+Global Complaint Program Standard | Block
+27
+
+Confidential and Not for Distribution
+10. Implementation Date and Transition Period
+Block and all applicable subsidiaries are expected to be in full compliance with requirements of
+thisdocumentnolaterthansix(6)monthsaftertheapprovaldateofthisdocument.
+11. Related Documentation or References
+RelatedDocuments:
+RelatedPolicy GlobalComplaintPolicy
+12. Revision and Approval History
+StakeholderReviewTracking
+Approver TeamRepresented StakeholderStatus Date
+Lee Buchmann ConsumerProtection Reviewed/Approved November15,
+-CashApp 2024
+Michael Quarton ConsumerProtection Reviewed/Approved November19,
+-CashApp 2024
+Seyi Iwarere RegulatoryCounsel– Reviewed/Approved November24,
+CashApp withcomments 2024
+ApprovalHistory
+Approver Title ApprovalType Date
+N/A N/A Creation August2020
+N/A ComplianceLead, Initial Approval November2020
+Seller
+BenGray Block(prev.Square) Initial Approval November2020
+ChiefCompliance
+Officer
+N/A GlobalComplaint Scheduled Revi… October2021
+ProgramLead
+BenGray Block(prev.Square) Scheduled Revi… November2021
+ChiefCompliance
+Global Complaint Program Standard | Block
+28
+
+Confidential and Not for Distribution
+Officer
+N/A N/A Immaterial Cha… February2022
+Documentis
+migratedtonew
+templatein
+accordancewith
+changefromSquare,
+InctoBlock,Inc.
+John Alfano BlockGlobalPolicy& Immaterial Cha… December8,2022
+Lead
+Madeclarifyingedits
+todocumentand
+migrateddocument
+tonewtemplate.
+John Alfano BlockGlobalPolicy& Material Chang… March30,2024
+Lead
+Briana Peterkin BlockGlobal Immaterial Cha… December16,2024
+Complaint
+MonitoringLead
+13. Document Details
+Business Block
+Scope Global
+ComplianceDomain Consumer Protection
+DocumentOwner GlobalComplaintMonitoringLead
+LastApprovalDate December16,2024
+EffectiveDate December2020
+ApprovedBy BlockGlobalPolicy&Lead
+DocumentReviewSchedule Annually
+Global Complaint Program Standard | Block
+29

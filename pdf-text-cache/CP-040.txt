@@ -1,0 +1,380 @@
+Credit Card Privacy Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Credit Card Privacy Policy (“Policyˮ) outlines Square Capital, LLCʼs
+(“Square Capitalˮ or the “Companyʼ) approach to compliance with the Right to Financial Privacy
+Act (“RFPAˮ) and Gramm-Leach-Bliley Act (“GLBAˮ). This Policy was created and adopted with the
+sole focus on Square Capitalʼs commercial credit card program and is complementary to Blockʼs
+wider Privacy program and Privacy Principles. The Chief Compliance Officer (“CCOˮ) oversees the
+development and implementation of this Policy and has delegated ownership of this Policy
+document to the Square Head of Compliance. Square Capital conducts business in compliance
+with all applicable laws and regulations. The purpose of this Policy is to further Square Capitalʼs
+compliance with RFPA and GLBA. Square Capital is committed to fully complying with RFPA and
+GLBA and to upholding Square Capital business requirements that do not run counter to the Act.
+Scope: This Policy is established by Square Capital and is applicable to Square Capitalʼs credit
+card product. It applies to all activities that involve non-affiliated third parties and the disclosure of
+nonpublic personal information NPI of customers for Square Capital's credit card product.
+Square Capital engages with non-affiliated third parties for the carrying out of financial
+transactions and for marketing of financial products. Such vendors may include, but are not limited
+to, vendors that verify customer identification information. The use of NPI for these reasons does
+not require that Square Capital obtain explicit prior consent from the customer. As of the enacting
+of this Policy, Square Capital may engage with any non-affiliated third party so that the
+non-affiliate can market Square Capital products, subject to Squareʼs standard privacy due
+diligence practices of third parties.
+Definitions:
+Terminology Definition
+Customer An individual who has a continuing relationship with Square Capital under
+which Square Capital provides one or more financial products or
+
+services. For example, because Square Capital services the loans, an
+applicant that receives a loan from Square Capital becomes a customer.
+Personal Data Information related to an identifiable person or household. Data is
+considered personal data if it can be used to identify a person, directly or
+indirectly.
+Nonpublic Personal The nonpublic portion of personal data, including any customer lists.
+Information (“NPIˮ) Nonpublic personal information consists of nonpublic information that is
+collected in connection with providing a financial product or service.
+Specifically, it means:
+● Personally identifiable financial information, which includes:
+○ Information a customer provides on an application for a
+loan or other financial product or service;
+○ Account balance information, payment history, overdraft
+history and credit or debit card purchase information;
+○ Information that a customer provides to Square Capital (or
+an agent thereof) that Square Capital obtains in
+connection with collecting on a loan or servicing a loan,
+as the case may be;
+○ Any information collected through an Internet “cookieˮ;
+○ Information from a customer report;
+○ The fact that an individual is or has been a customer of
+Square Capital or has obtained a financial product or
+service from Square Capital; and
+○ Any information about Square Capitalʼs customer if it is
+disclosed in a manner that indicates that the individual is
+or has been a Square Capital customer.
+● Any list, description, or other grouping of customers that is
+derived using any personally identifiable financial information that
+is not publicly available. Lists include, but are not limited to, any
+list of individualsʼ names and addresses that is derived in whole
+or in part using personally identifiable information that is not
+publicly available, such as account numbers.
+Nonpublic personal information does not include information that is
+available from public sources, such as telephone directories or
+government records. It also does not include aggregate information or
+blind data that does not contain personal identifiers.
+Affiliate Any company that controls, is controlled by, or is under common control
+with another company.
+Non-Affiliated Third Persons or entities except affiliate(s) and persons jointly employed by a
+Party financial institution and a nonaffiliated third party. GLBA Privacy Rules
+restrict information sharing with non-affiliated third parties.
+Clear and A notice is reasonably understandable and designed to call attention to
+Conspicuous the nature and significance of the information in the notice.
+
+Collect To obtain information that can be organized to retrieve information by the
+name of an individual or by identifying number, symbol, or other
+identifying information assigned to the individual, irrespective of the
+source of the underlying information.
+2. Block, Inc. Requirements
+2.1. Credit Card Privacy
+2.1.1. How Square Capital Collects Information
+Information about customers is accumulated in various ways including, but not limited to, via loan
+applications and information from a customer report.
+2.1.2. Information Square Capital is Allowed to Share
+The law allows Square Capital to share information with Square Capitalʼs affiliate(s), to the extent it is
+allowable for Squareʼs affiliate(s) to have that information to act as required by or for Square Capital.
+The law further allows sharing as permitted for customer credit report information as established by
+the Fair Credit Reporting Act FCRA. In addition, Square Capitalʼs current practice is to only share
+information about transactions and experiences with its affiliate(s). Please see the Square Capital
+Fair and Accurate Transactions Act Policy for more information.
+Prior to sharing information with third parties, Square Capital must have a permissible purpose and
+must receive approval to share the information with third parties via Squareʼs standard third party
+risk management practices. Square Capital may share information with other parties under any of
+the following conditions:
+● To market Square Capitalʼs own financial products or services;
+● Where third parties are performing services or functions on behalf of Square Capital, including
+marketing Square Capitalʼs own products or services;
+● Products and services offered pursuant to a joint agreement between Square Capital and a
+third party financial institution, provided that Square Capital:
+○ discloses that arrangement, and
+○ enters into an agreement with the third party to maintain the confidentiality of the
+information.
+● The customer consents;
+
+● It is necessary to effect, administer, or enforce a transaction requested or authorized by the
+customer;
+● To process and service transactions the customer requests or authorizes;
+● To protect against potential fraud or unauthorized transactions;
+● To protect the confidentiality or security of Square Capitalʼs records;
+● For risk control purposes or for resolving customer disputes;
+● To persons holding a legal or beneficial interest relating to the customer;
+● To persons acting in a fiduciary capacity on behalf of the customer;
+● To law enforcement agencies, if permitted or required under other provisions of law;
+● To respond to judicial process, attorneys, accountants and auditors;
+● To respond to governmental authorities for examination, compliance, or other lawful purposes;
+● To a customer reporting agency in accordance with the FCRA; or
+● To comply with federal state or local laws.
+2.1.3. OptOut Provision
+Although Square Capital does not currently engage in this practice, if the company does share
+nonpublic personal information with nonaffiliated third parties other than as defined above, Square
+Capital may offer customers the opportunity to “opt-outˮ of the information sharing process. Prior to
+any such sharing and if choosing to offer an opt-out provision, Square Capital will ensure that the
+customer is provided with the right to opt-out or limit the sharing by notifying Square Capital of the
+intent to “opt-outˮ through the use of a mail-in form or other permissible means.
+2.1.4. Privacy Notice to New Customers
+Square Capital is required to provide a copy of the Privacy Notice when it enters into a customer
+relationship with a customer. A customer relationship means a continuing relationship between a
+customer and Square Capital, and is established when Square Capital provides one or more financial
+products or services to the customer that are to be used primarily for personal, family, or household
+purposes. Square Capital provides a copy of its Privacy Notice to all customers prior to origination
+and requires the customer to acknowledge receipt of the privacy notice as a necessary step to
+obtaining a loan with Square Capital.
+2.1.5. Annual Privacy Notice
+Square Capital may elect to annually provide a Privacy Notice to applicable customers, as long as
+there is a continuation of the customer relationship, subject to the below qualifiers:
+
+● Annually means at least once in any period of 12 consecutive months during which that
+relationship exists; and
+● Square Capital may post the Privacy Notice on its webpage (e.g., Square Capital website or
+consumer dashboard) and send an email to all applicable customers notifying them of the
+location of the Privacy Notice.
+Alternatively, as a business decision, Square Capital may elect not to send a Privacy Notice, which
+may be appropriate in particular where both of the following are true:
+● Nonpublic personal information is only shared in the manner and to the extent outlined above;
+and
+● The policies and practices regarding the disclosure of nonpublic personal information have not
+changed from those that were disclosed in the most recent privacy notice that was sent.
+2.1.6. Changes to the Privacy Notice
+Square Capital does not disclose any nonpublic personal information about a customer other than as
+described in the Privacy Notice, unless Square Capital provides a clear and conspicuous revised
+privacy notice that accurately describes the new policies and practices.
+2.1.7. Other Information Use and Sharing Restrictions
+Below are additional restrictions related to information use and sharing, including:
+● Account numbers or similar forms of access numbers or access codes for a customer's credit
+account cannot be disclosed to any non‑affiliated third party for the purpose of marketing
+non‑Square Capital products;
+● Customer information or other types of information obtained from companies for which Square
+Capital is a service provider may not be used except as permitted by the contract. For
+example, Square Capital may not use information received through delivery of cash
+management services for Square Capitalʼs own marketing purposes; and
+● Business Lines are responsible for ensuring information passed to non‑affiliated third parties
+(e.g., service providers, marketing companies, etc.) is limited to information needed to fulfill
+the service provided by the third party.
+
+2.2. Right to Financial Privacy Act
+2.2.1. Access to Financial Records by Federal Government Authorities
+In respect of any requests received from law enforcement or federal government authority for a
+customerʼs financial records, Square Capital must ensure that any disclosure complies with the
+requirements of the Right to Financial Privacy Act. Before Square Capital staff members provide a
+customerʼs financial records to a federal government authority, one of the following must have been
+received:
+● Voluntarily signed and dated authorization by a customer which:
+○ Authorizes such disclosure for a period not to exceed three 3 months;
+○ States that the customer may revoke such authorization at any time before the financial
+records are disclosed;
+○ Identifies the financial records authorized to be disclosed;
+○ Specifies the purposes for which, and the government authority to which, such records
+may be disclosed; and
+○ States the memberʼs rights under the RFPA.
+Square Capital does not require customer authorization for disclosure as a condition of doing
+business.
+An administrative subpoena or summons. Square Capital may release a customerʼs financial
+information only if:
+● There is reason to believe the records sought are related to a legitimate law enforcement
+inquiry;
+● The customer has been served with a copy of the subpoena and the notice required by the
+RFPA on or before the date that Square Capital is served; and
+● Ten 10 days have expired from the date the customer was served (or 14 days if the customer
+was served by mail), and the customer has not filed a motion/application to stop the subpoena.
+● A search warrant.
+● A judicial subpoena. If the customer does not challenge the subpoena in court, the records
+may be available to a federal government authority upon expiration of ten 10 days from the
+date of service (or 14 days if the notice was mailed to the customer).
+● A formal written request by a federal government authority, which is only used when no
+administrative summons or subpoena authority is available to the federal authority (above). If
+the customer does not challenge this written request in court, the records may be available to a
+
+federal government authority upon expiration of ten 10 days from the date of service (or 14
+days if the notice was mailed to the customer).
+In addition to one of the above documents, Square Capital must also receive a written certification
+from the federal government authority that the authority has complied with the applicable provisions
+of the RFPA. Upon receipt, Square Capital prepares delivery of the requested financial information,
+subject to consultation with the Law Enforcement Response Team and other appropriate
+stakeholders (e.g. Privacy or Regulatory Counsel) as needed.
+2.2.2. Delayed Notification
+Square Capital may be required to delay notice to the customer that records have been requested or
+obtained for ninety 90 days, or indefinitely, if a judge finds that:
+● The investigation being conducted is within the lawful jurisdiction of the federal government
+authority seeking the financial records;
+● There is reason to believe the records sought are relevant to a legitimate law enforcement
+inquiry; and
+● There is reason to believe such notice will result in:
+○ Endangering the life or physical safety of any person;
+○ Flight from prosecution;
+○ Destruction of or tampering with evidence;
+○ Intimidation of potential witnesses; or
+○ Otherwise seriously jeopardizing an investigation or official proceeding or unduly
+delaying a trial or ongoing proceeding to the same extent as the circumstances above.
+2.2.3. Exceptions
+The RFPA's notification and certification requirements do not apply to the following situations:
+● When the disclosure is incident to the perfection of a security interest, proving a claim in
+bankruptcy, collecting a debt, or processing an application for a customer with regard to a
+government loan, loan guarantee or loan insurance agreement;
+● When the request for disclosure is not identified with a particular customer, which also
+includes records or information that is not identifiable as being derived from the financial
+records of a particular customer;
+
+● When the request for disclosure is pursuant to the exercise of supervisory, regulatory or
+monetary functions with respect to financial institutions (e.g., examinations, conservatorships
+and receiverships);
+● When the disclosure is pursuant to procedures authorized by the Internal Revenue Code;
+● When the disclosure is pursuant to the filing of a Suspicious Activity Report (“SARˮ) when
+Square Capital believes that information may be relevant to a possible violation of a statute or
+regulation;
+● When the disclosure is required, pursuant to a federal statute or regulation;
+● When the request for disclosure is sought under the Federal Rules of Civil or Criminal
+Procedure, or comparable rules of other courts in connection with litigation to which the
+government authority and the customer are parties;
+● When the request is pursuant to an administrative subpoena issued by an administrative law
+judge in certain adjudicatory proceedings to which the government authority and the customer
+are parties;
+● When the request is pursuant to legitimate law enforcement inquiries, and the information
+sought is the name, address, account number and type of account of any customer; When the
+request is pursuant to a grand jury subpoena. In these instances, Square Capital staff members
+do not disclose the existence of such a subpoena to the customer, or that financial records
+were turned over to a grand jury;
+● When the records are sought by the Government Accountability Office pursuant to an
+authorized proceeding, investigation, examination or audit directed at a government authority;
+and
+● When Square Capital or supervisory agency provides any record of any officer or employee to
+the U.S. Attorney General, a state law enforcement agency, or the Secretary of the Treasury
+that there is reason to believe there were crimes against Square Capital by an insider.
+2.3. Special Procedures
+2.3.1. Access to Financial Records for Certain Intelligence and Protective Purposes
+Aside from the exceptions listed above, Square Capital may provide records to the following entities:
+● A government authority authorized to conduct foreign counter- or foreign positive-intelligence
+activities, when the authority has certified in writing that it has complied with the applicable
+provisions of the RFPA;
+● The Secret Service for the purpose of conducting its protective functions, when the agency
+has certified in writing that it has complied with the applicable provisions of the RFPA;
+
+● A government authority authorized to conduct investigations of, or intelligence or
+counterintelligence analyses related to, international terrorism, when the authority has certified
+in writing that it has complied with the applicable provisions of the RFPA; or
+● The Federal Bureau of Investigation (“FBIˮ), when the FBI Director (or its designee) certifies in
+writing that such records are sought for foreign counterintelligence purposes to protect against
+international terrorism or clandestine intelligence activities, provided that such an investigation
+of a U.S. person is not conducted solely on the basis protected by the first amendment to the
+U.S. Constitution.
+Square Capital staff members do not disclose that a government authority listed above has sought or
+obtained access to financial records when such authority certifies that there may result a danger to
+the national security of the United States, interference with a criminal, counterterrorism, or
+counterintelligence investigation, interference with diplomatic relations, or danger to the life or safety
+of any person.
+2.3.2. Emergency Access to Financial Records
+Square Capital staff members may release financial records to a government authority when the
+authority determines that delay in obtaining access to such records would result in imminent danger
+of the following:
+● Physical injury to any person;
+● Serious property damage; or
+● Flight to avoid prosecution.
+In these cases, the government authority will submit to Square Capital the required certificate of
+compliance that is signed by a supervisory official of a rank designated by the head of the
+government authority.
+2.3.3. Customer Request for Records
+When a customer's record is disclosed to a government authority pursuant to the customerʼs
+authorization, the customer has the right to obtain a copy of the record, including the identity of the
+government authority to which such disclosure is made so long that disclosure is not prohibited by
+court order. Upon customer request, Square shall provide a copy of the record unless a valid delay
+has been granted by the court.
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Chief Compliance Officer (“CCOˮ):
+○ The CCO will provide assistance and support in implementing this Policy across the
+organization and shall be responsible for establishing appropriate practices
+designed to ensure that Company operations reflect the Companyʼs commitment to
+compliance and that all employees are aware of that commitment and their
+individual responsibility.
+○ The CCO is responsible for monitoring and reporting on compliance with this Policy.
+The CCO delegates the responsibilities in this section to the Square Head of
+Compliance along with the authority to adopt, develop and implement procedures
+and reporting that support this Policy.
+● Compliance Policy Committee:
+○ Reviews and adopts this Policy on an annual basis.
+● Head of Business Product Compliance and Partnerships, or Business Product
+Compliance Lead, Lending as designee :
+○ Owns this Policy document, reviews and approves exception requests.
+● Counsel:
+○ The Companyʼs legal counsel provides interpretative advice and counsel regarding
+the applicability and application of the requirements of this Policy to the Companyʼs
+business and operational activities.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Block Inc.ʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Policy Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Capital, LLC and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Global Complaint Policy
+● Document Management Policy
+● Fair and Accurate Credit Transactions Act Policy
+● Square Capital RFPA Request Procedure
+Review related Regulations
+● Right to Financial Privacy Act
+● Fair Credit Reporting Act
+● Gramm-Leach-Bliley Act
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+
+Approval History:
+Approver Title Type Description Date
+Square Capital Square Capital Creation Revision of August 9, 2024
+Board of Board of previously drafted
+Managers Managers Privacy Principles
+Policy,
+reformatted and
+edited to current
+standards
+Square Capital Square Capital Scheduled R… Scheduled January 24, 2025
+Board of Board of review; immaterial
+Managers Managers change
+Compliance Compliance Scheduled R… Scheduled October 3, 2025
+Policy Policy Committee review; minor
+Committee enhancements
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2

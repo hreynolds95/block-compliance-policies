@@ -1,0 +1,259 @@
+Controlling the Assault of Non-Solicited
+Pornography and Marketing Act (“CANSPAMˮ)
+Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: The Controlling the Assault of Non-Solicited Pornography And
+Marketing Act (“CANSPAMˮ) Policy demonstrates Block, Inc.'s commitment to comply with the
+CANSPAM Act across all its subsidiaries and operations. This policy establishes comprehensive
+guidelines governing Block's commercial email practices while maintaining brand-specific
+flexibility where needed.
+The CANSPAM Act serves as a crucial regulatory framework enacted to reduce spam and
+unsolicited pornography by prohibiting senders of unsolicited commercial email messages from
+disguising the source and content of their messages, while ensuring consumers maintain control
+over their email communications. CANSPAM requires Block to follow specific procedures when
+initiating email messages to customers or prospective customers, including obtaining affirmative
+consent, ensuring message content is not false or misleading, and providing recipients with the
+ability to opt-out of future correspondence.
+Scope: This Policy applies to Block, Inc. and its applicable U.S. subsidiaries and affiliates
+(collectively, "Block") that send commercial email messages. The only exception is Square
+Financial Services (“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated by the
+Federal Deposit Insurance Corporation, which has its own Compliance Program.
+It governs all commercial emails sent by or on behalf of Block, including messages with both
+commercial and transactional content, and third-party email services. This Policy applies to
+Square, Cash App, and Afterpay's commercial email communications but does not apply to purely
+transactional messages or internal communications.
+1
+
+Definitions:
+Terminology Definition
+Affirmative As it relates to commercial electronic mail ("Email") messages, Affirmative
+Consent Consent occurs when the Recipient expressly consents to receive the
+message, either in response to a clear and conspicuous request for such
+consent or at the Recipient's own initiative. If the message is from a party
+other than the party to which the Recipient communicated such consent, the
+Recipient must have been given clear and conspicuous notice at the time the
+consent was communicated that their Email address could be transferred to
+such other party for the purpose of initiating Commercial Email Messages.
+Commercial Any Email message the Primary Purpose of which is to advertise or promote
+Email Message for a commercial purpose, a commercial product or service including content
+on the Internet. An Email message would not be considered to be a
+Commercial Email Message solely because such a message includes a
+reference to a commercial entity that serves to identify the Sender or a
+reference or link to an Internet website operated for a commercial purpose.
+Primary Purpose The Primary Purpose of an Email message will be deemed to be commercial
+if it:
+● Contains only the commercial advertisement or promotion of a
+commercial product or service
+● Contains both commercial content and "transactional or relationship"
+content if either:
+○ A Recipient reasonably interpreting the subject line of the
+Email message would likely conclude that the message
+contains commercial content; or
+○ The Email message's "transactional or relationship" content
+does not appear in whole or substantial part at the beginning
+of the body of the message
+● Contains both commercial content as well as content that is not
+transactional or relationship content if a Recipient reasonably
+interprets either:
+○ The subject line of the Email message would likely conclude
+that the message contains commercial content; or
+○ The body of the message would likely conclude that the
+Primary Purpose of the message is commercial
+Recipient An authorized user of the Email address to which the message was sent or
+delivered.
+2
+
+Sender A person who initiates an Email message and whose product, service, or
+Internet website is advertised or promoted by the message.
+Staff Member(s) References to "staff" throughout this document shall refer to all full-time
+Employees and fixed-term and contingent workers including interns, temps,
+consultants, vendors, third-party providers, and contractors.
+Transactional or An Email message with the Primary Purpose of facilitating, completing, or
+Relationship confirming a commercial transaction that the Recipient had previously
+Email agreed to enter into; to provide warranty, product recall, or safety/security
+information; or subscription, membership, account, loan, or other information
+relating to an ongoing purchase or use.
+2. Block, Inc. Requirements
+2.1 General Requirements
+Block ensures all commercial email communications comply with CANSPAM requirements. This
+includes emails sent directly by Block or through third parties on Block's behalf. Block maintains
+appropriate controls to ensure compliance across all brands and communication types.
+2.2 Message Classification and Content Requirements
+Commercial Email Classification
+Block classifies email messages based on their primary purpose to determine applicable
+CANSPAM requirements. Messages are evaluated to determine whether they are:
+● Commercial messages promoting products or services
+● Transactional or relationship messages facilitating existing services
+● Mixed-purpose messages containing both commercial and transactional content
+Content Standards
+All commercial email messages must include:
+● Accurate header information that identifies the sending source
+● Subject lines that accurately reflect message content
+● Clear identification as advertisements when required
+● Valid physical postal address
+● Visible and operable unsubscribe mechanism
+● Required regulatory disclosures based on message content
+2.3 Recipient Rights and Controls
+Opt-Out Requirements
+3
+
+Block maintains comprehensive opt-out processes that:
+● Provide clear and conspicuous opt-out mechanisms
+● Honor opt-out requests within 10 business days
+● Maintain opt-out functionality for 30 days after message delivery
+● Prohibit charging fees or requiring additional information for opt-outs
+● Prevent sale or transfer of email addresses after opt-out
+Consent Management
+Block maintains appropriate controls for:
+● Obtaining and documenting affirmative consent
+● Managing consent across brands and product lines
+● Honoring recipient preferences
+● Maintaining records of consent and opt-out requests
+2.4 Third-Party Management
+Block maintains oversight of third parties involved in commercial email communications through:
+● Clear contractual requirements for CANSPAM compliance
+● Established approval processes for email content and configuration
+● Monitoring of third-party compliance with requirements
+● Integration of opt-out processes across platforms
+2.5 Transactional or Relationship Email Exclusions
+Block ensures transactional or relationship messages:
+● Prioritize transactional content at the beginning of messages
+● Maintain clear distinction from commercial content
+● Include required account servicing information
+● Meet timing requirements for critical notifications
+3. Brand-Specific Requirements
+Block implements CANSPAM requirements across its subsidiaries while recognizing the unique
+characteristics of each business line's email communications. Detailed procedures for
+implementation are maintained in subsidiary-specific standards and procedures.
+4
+
+3.1 Cash App
+Cash App's implementation of CANSPAM requirements addresses the specific needs of consumer
+financial services:
+Message Classification
+● Financial transaction confirmations and security alerts are treated as transactional
+● Investment-related communications must meet additional regulatory requirements
+● Promotional content must be clearly distinguished from account servicing communications
+Consumer Protection Requirements
+● Essential account and security notifications must be maintained regardless of marketing
+preferences
+● Investment and cryptocurrency promotional content must include required disclosures
+● Cross-border payment communications must meet additional regulatory requirements
+3.2 Afterpay
+Afterpay's implementation focuses on the unique aspects of BNPL services:
+Payment Communications
+● Payment schedule and confirmation messages are treated as transactional
+● Marketing communications must be clearly separated from payment notifications
+● Merchant partnership promotions require clear identification of all parties
+Consumer Requirements
+● Payment-related communications must be maintained regardless of marketing preferences
+● Credit-related disclosures must meet additional regulatory requirements
+● Shop Directory promotional content must clearly identify merchant relationships
+The above brand-specific requirements supplement the general compliance TILA requirements
+outlined in this Policy but are only applicable to their respective brands (i.e., Square Banking
+requirements apply only to Square Banking operations, Cash App requirements apply only to Cash
+App operations, and Afterpay requirements apply only to Afterpay operations).
+5
+
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and and approving this policy annually to ensure
+alignment with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+Subsidiary Roles:
+● Afterpay Board of Directors
+○ Reviews and adopts this Policy following CPC approval
+○ Oversees implementation within Afterpay
+○ Receives regular reporting on compliance with this Policy
+○ Reviews and approves material changes affecting Afterpay, as needed
+● Subsidiary Compliance Leads
+○ Implement policy requirements within their respective business units
+6
+
+○ Monitor day-to-day compliance activities
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+4.3 Training
+As applicable, all relevant personnel will receive training at least annually covering applicable
+requirements and guidance to implement Policy effectively. All training related activities are
+monitored by the Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+7
+
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Compliance Compliance Initial Appro… Approval of October 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Head of Block Consumer Protection
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+8

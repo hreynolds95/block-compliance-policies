@@ -1,0 +1,225 @@
+Model Governance Policy
+Block
+Published November 2023
+
+Table of Contents
+Table of Contents 2
+Introduction 3
+Definitions 4
+Roles & Responsibilities 5
+Scope 5
+Key Regulatory Guidance 6
+Typology Coverage Assessment 6
+Model Development 6
+Model Change Management 7
+Model Maintenance 7
+Model Validation 7
+Document Management 8
+Document Owner 8
+Scheduled Review & Ad-Hoc Maintenance 8
+Exceptions 8
+Related Documents 8
+Revision & Approval History 8
+Document Details 8
+Model Validation Policy | Block 2
+
+Introduction
+Block Inc. and its subsidiaries (collectively “Block”) uses certain technologies to support its
+management of financial crimes-related risks. These technologies include certain filtering and
+monitoring systems and models to detect and prevent money laundering, terrorist financing, and
+sanctions evasion activities.
+Block will comply with the New York State Department of Financial Services’s (NYDFS) Part 504
+provisions as well as other international laws, regulations, and expected standards and accordingly
+maintain this Model Validation Policy (the “Policy”), which will oversee Block’s model governance
+framework and provide guidance on how Block will incorporate the following practices, for the
+anti-money laundering (AML) transaction monitoring models and watchlist screening and filtering
+technologies:
+● On an annual basis, Block elects to perform a coverage assessment on applicable key financial
+crimes models to test against expected levels of conceptual soundness;
+● Block performs periodic reviews and testing of the accuracy of its transaction monitoring and
+filtering and screening systems as well as their alignment to the Global AML and
+Counter-Terrorist Financing Policy and the Global Sanctions Policy, and their corresponding
+key programs;
+● Block maintains key model, system, and data-related documentation for Block’s AML
+transaction monitoring system and watchlist screening and filtering systems1;
+● Block maintains robust oversight through mandated review and approval processes for any
+changes to its transaction monitoring system and watchlist screening and filtering systems,
+from the relevant money laundering reporting officers (MLROs) and delegates of the Bank
+Secrecy Act (“BSA”)/AML Compliance Officer; and
+● Block elects to conduct an independent assessment to assist the BSA/AML Compliance Officer
+in accurately attesting for the annual NYDFS Part 504 certifications.
+This Policy is established by Block and is applicable globally across all Block business lines,
+subsidiaries, and jurisdictions. References to “staff” throughout this document shall refer to all
+full-time employees and fixed-term and contingent workers including interns, temps, consultants,
+1 Separately, Block maintains appropriate documentation relating to the procedures for the adjudication, investigation and
+escalating of outputs from our model systems and processes.
+Model Validation Policy | Block 3
+
+vendors, third-party providers, and contractors.
+Definitions
+Model A quantitative method, system, or approach
+that applies statistical, economic, financial, or
+mathematical theories, techniques, and
+assumptions to process input data into
+quantitative estimates. A model consists of
+three components: an information input
+component, which delivers assumptions and
+data to the model; a processing component,
+which transforms inputs into estimates; and a
+reporting component, which translates the
+estimates into useful business information.
+Model Tuning A subset of model validation, which is a
+process to determine that a defined model is
+optimized to deliver effective results, per
+predefined performance metrics.
+Model Validation Set of standards for independent validation of
+Block’s BSA/AML and OFAC Sanctions
+program to identify areas for improvement
+and increase confidence of Block’s TM and
+Sanctions models, and determine that a
+defined model is working as designed and to
+documented and approved specifications.
+Money Laundering The process by which individuals attempt to
+conceal and disguise the true nature of illegal
+proceeds through phases known as
+placement, layering, and integration.
+Terrorist Financing The process of raising money to carry out
+terrorist activities, the funds of which may be
+derived from unlawful or legitimate sources,
+such as personal donations and profits from
+businesses and charitable organizations.
+Watchlist Screening Watchlist screening is the process of checking
+individuals and entities against global
+watchlists, including but not limited to
+sanctions, Politically Exposed Persons (PEPs),
+and adverse media.
+Model Validation Policy | Block 4
+
+Roles & Responsibilities
+BSA/AML Compliance Officer The BSA/AML Compliance Officer is a suitably
+experienced and qualified person who is
+appointed by the Block Board of Directors and
+who is responsible for oversight of day-to-day
+AML compliance.
+Global Policy and Governance The Global Policy and Governance Team
+oversees the Policy and manages its
+corresponding requirements for key
+compliance models.
+Model Risk Management Team (MRM) The Model Risk Management team is
+responsible for operational oversight of
+in-scope models and performs a review of
+changes during the validation stage.
+BU Compliance and Operations Teams BU Compliance and Operations teams are
+end users of the in-scope models and provide
+business requirements and feedback to the
+model output.
+Technology Owners Technology Owners maintain and manage
+the technical requirements and specifications
+and ensure the in-scope models reflect the
+business requirements from the BU
+Compliance and Operations Teams.
+Scope
+The scope of this document includes the key models related to financial crimes risk detection,
+monitoring, and reporting:
+● AML Transaction Monitoring System;
+● Watchlist Screening and Filtering Systems;
+● Customer Risk Rating Models; and
+● Other key detection, monitoring, and reporting systems or models.
+In accordance with NYDFS 504 provisions, other international laws and best practices, Block
+maintains a model risk management program to oversee and manage its use of these filtering
+systems and models. In particular, Block complies with NYDFS 504 in managing and maintaining its
+AML transaction monitoring system and watchlist screening and filtering systems.
+Model Validation Policy | Block 5
+
+Key Regulatory Guidance
+Block complies with the following domestic and international laws and regulatory guidelines as
+related to Model Validation and Model Risk Management.
+Office of the Comptroller of the Currency Model Risk Management, Comptroller's
+(“OCC”) Handbook
+New York State Department of Financial NYSDFS Part 504 Provisions
+Services
+Federal Reserve Bank Interagency Statement on Model Risk
+Management for Bank Systems
+Supporting Bank Secrecy Act/Anti-Money
+Laundering Compliance (April 9, 2021)
+Office of Foreign Assets Control (OFAC) A Framework for OFAC Compliance
+Commitment
+Typology Coverage Assessment
+Block performs a Typology Coverage Assessment on its AML transaction monitoring rules to ensure
+coverage of the risk flags and corresponding typologies for suspicious activities indicative of money
+laundering and terrorist financing. The Typology Coverage Assessment is performed annually, and
+the corresponding results from the analyses are documented in a report along with a remediation
+plan to address any risk coverage gaps found in the assessment. While the Typology Coverage
+Assessment is owned by the appropriate BU Compliance and Operations Teams, it is closely related
+as input to the models considered to be governed by this Policy.
+Model Development
+When a need is identified to design, develop, and implement a new model or system, Block first
+assesses the risk coverage and purview of the model and bases its design on the business or
+regulatory requirements. At the point of development of the model, key model development
+considerations are translated into technical and functional requirements, and the model is subject to
+review by the appropriate stakeholders, and may only be implemented after required
+Model Validation Policy | Block 6
+
+pre-implementation and post-implementation testing are conducted and any issues have been
+identified and remediated. Necessary approval must be obtained before the model go-live.
+Model Change Management
+Block’s model change management framework covers the holistic life cycle of the in-scope models
+and consists of 4 major stages: Creation, Analysis, Execution, and Validation. It is accompanied by
+strict requirements for audit trail to ensure material changes to a given model are captured, logged,
+and properly communicated to the appropriate stakeholders.
+Detailed process requirements are included in the Model Change Management Procedure.
+Model Maintenance
+All in-scope models are maintained through performance monitoring, model tuning and
+optimization, periodic testing, and evaluations. Relevant results are reported on a periodic basis to
+the financial crimes management team and other appropriate stakeholders. All issues found in
+ongoing monitoring of model performance are tracked for timely remediation and closure. The
+testing focuses on the accuracy and validity of the AML transaction monitoring system and watchlist
+filtering and screening systems against the expectations set within the appropriate policies and
+programs. Any findings or issues identified in the testing are documented and tracked along with a
+remediation plan to bring them to closure.
+Model Validation
+Where required, an independent party will perform model validation to assess and verify Block’s AML
+transaction monitoring and watchlist screening and filtering models to identify areas of potential
+improvement and to increase confidence in such models and subsequently Block’s ability to monitor
+and detect suspicious activities for money laundering and terrorist financing or potential sanctions
+violations. The independent party will verify the model performance based on expectations from
+regulatory requirements, business requirements, Block’s expectations, defined objectives, and
+intended business uses. Model validation may be performed on an ad hoc basis in addition to the
+periodic, scheduled validation, if local laws or regulatory requirements specify more frequent
+validation.
+Model Validation Policy | Block 7
+
+Document Management
+Document Owner
+This document is owned by the Head of Global Policy and Governance or their designee.
+Scheduled Review & Ad-Hoc Maintenance
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordance with the Compliance Document Approval Matrix.
+Exceptions
+Exceptions to the requirements, strategies, or procedures established by this document must be
+pre-approved by the Model Risk Management Lead or their designee. Staff members may submit
+exception requests for review at go/policyhelp.
+Related Documents
+Related Policy Global AML and Counter-Terrorist Financing
+Policy
+Related Policy Global Sanctions Policy
+Related Procedure Model Change Management Procedure
+Other CET ML Model Development Methodology
+Other Model Tuning & Optimization Methodology
+Revision & Approval History
+Approver Title Type Description Date
+John Alfano Head of Global Initial Appro… Initial approval November 20,
+Policy and for newly 2023
+Governance created
+document.
+Document Details
+Business Block
+Model Validation Policy | Block 8
+
+Scope Global
+Compliance Domain Compliance Analytics & Technology
+Document Owner Head of Global Policy and Governance
+Original Publication Date November 20, 2023
+Last Material Revision Date November 20, 2023
+Effective Date November 20, 2023
+Model Validation Policy | Block 9

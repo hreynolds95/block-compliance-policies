@@ -1,0 +1,358 @@
+Customer Communication Standard
+Squareup International Limited
+Last Approved: Dec 17, 2025
+Effective Date: Dec 17, 2025
+1. Overview
+Introduction and Purpose: This Customer Communication Standard (“Standardˮ) outlines
+Squareup International Limitedʼs (“SILˮ) approach for designing, testing, and monitoring customer
+communications. The Head of Compliance is responsible for management of this Standard.
+The purpose of this Standard is to ensure that SIL communicates with customers in a manner that
+is clear, fair, and not misleading, supporting good outcomes and consumer understanding while
+meeting applicable laws and regulatory expectations.
+Scope: This Standard applies to all oral and written customer communications across SILʼs
+channels, including but not limited to:
+● Website and app content
+● Onboarding and welcome communications
+● Account updates
+● Marketing and promotional materials
+● Product disclosures (e.g., terms, pricing, and fees)
+● Sales and Customer support interactions
+● Social media/Telephone communications
+● Complaint responses
+This Standard does not apply to:
+● Internal employee communications or training materials
+● Communications related to supplier or partner agreements
+● Automated transaction confirmations (e.g., receipts) where no decision-making is involved.
+It covers both new and existing communications, ensuring legacy content is also brought up to
+Standard.
+1
+
+Definitions:
+Terminology Definition
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired
+by the Company who supports the operations covered by this Standard.
+Central Bank of The CBI is a financial regulatory body in Ireland(“IEˮ), responsible
+Ireland (‘CBIˮ) for issuing the SIL license as an e-Money Institution (“EMIˮ).
+Customer For the purposes of this document, a Customer is defined as all SIL
+Square merchants, including potential Customers, where appropriate.
+Vulnerable The CPC, 2025 defines a consumer in vulnerable circumstances" as a
+Customer consumer that is a natural person and whose personal circumstances,
+whether permanent or temporary, make that consumer especially
+susceptible to harm, particularly where a regulated entity is not acting with
+the appropriate levels of care, and "vulnerable circumstances" shall be
+construed accordingly.
+Complaint
+A "complaint" means, subject to Regulation 260, an expression of
+grievance or dissatisfaction by a consumer, either orally or in writing, in
+connection with -
+(a) the provision or the offer of the provision of a financial service to a
+consumer by a regulated entity, or(b) the failure or refusal of a regulated
+entity to provide a financial service to a consumer;
+Note: Potential Customers can make a Complaint to SIL.
+2. Standard Requirements
+The Standard mandates that all SIL communications must:
+● Be clear, fair, and not misleading;
+● Highlight key information customers need to make decisions;
+● Present information in an accessible and understandable manner; and
+● Be tested, monitored, and refined based on actual customer outcomes.
+2
+
+2.1. Communication Design
+All customer communications must be designed and delivered in alignment with the following
+principles:
+1. Language and Clarity
+● Use plain, everyday language appropriate for the target audience; avoid technical
+jargon where possible.
+● Ensure key terms, risks and pricing are prominent, understandable, and easy to
+locate.
+● Present content in a clear, concise, and factually accurate manner, consistent across
+all channels.
+2. Accessibility and Inclusion
+● Design communications to be accessible to all customer groups, including those with
+characteristics of vulnerability.
+● Use a readable, user-friendly layout with bullet points, clear headings, summaries,
+diagrams, and infographics, where helpful.
+● Offer information through multiple accessible formats and channels (e.g., email,
+phone, chat, video tutorials, alternative formats).
+3. Channel Effectiveness and Support
+● Assess and select communication channels based on their ability to deliver clear,
+timely, and accessible information to different customer segments.
+● Monitor customer engagement across channels to identify gaps and determine
+whether additional support or alternative formats are required.
+4. Journey Mapping and Friction Reduction
+● Map the customer journey across all channels to identify pain points where users
+experience frustration, confusion, delays, or obstacles that impede customer
+understanding, decision-making, or task completion. Use these insights to eliminate
+unnecessary friction and create a smoother, more intuitive experience.
+● Tailor communications to reflect customer needs, preferences, and their stage in the
+journey.
+● Use a layered approach where appropriate, offering key information upfront with
+options to access more detailed explanations.
+● Ensure proactive delivery of important information at the right time at key decision
+points (e.g., post-sale) to help the customers assess their options, understand
+associated risks, and make choices that align with their needs.
+5. Regulatory Disclosure and Transparency
+● Clearly distinguish between regulated and unregulated products, and explicitly
+communicate the regulatory status and associated protections of each.
+● Include the following regulatory disclosure, in a durable medium, in all regulated
+customer-facing documentation (e.g., letters, emails, marketing content, websites)
+“Squareup International Limited, trading as Square is regulated by the Central Bank
+3
+
+of Ireland.ˮ Translate to where applicable)
+2.2. Telephone Communication and Personal Visits
+Square may, from time to time, need to contact existing, potential or former customers via telephone or
+by visiting their business premises. Permitted contact with a customer by telephone or by visit, must
+be made only between 9.00 a.m. and 9.00 p.m. Monday to Saturday, excluding public holidays, unless
+otherwise agreed in writing with the consumer.
+When making a personal visit or initiating communication by means of telephone call, advocates must,
+and in the following order provide:
+● their name and the company name
+● the purpose of the telephone call or visit
+● inform the consumer that telephone contact is being recorded, if this is the case
+● establish if the consumer wishes the personal visit or telephone call to proceed and, if not,
+end the contact immediately
+Example - Hi, my name is John, calling from Square about X, before proceeding i need to inform you,
+this call is recorded for training and verification purposes, is that OK?
+Telephone Calls with Existing Customers
+SIL may make telephone calls with existing customers only when one or more of the following specific
+conditions is met:
+● The consumer holds a product which requires SIL to maintain contact with the consumer in
+relation to that product
+● The contact must directly relate to that existing product
+● SIL has provided that consumer with a financial service similar to the one that is the purpose
+of the contact within the previous 12 months
+● The similarity of services must be clearly documented and justifiable
+● Records must be maintained showing the previous service relationship and timing.
+● The necessity for ongoing contact must be clearly established and documented
+● The consumer has given written consent to being contacted by telephone
+4
+
+Telephone Calls with potential or former Customers
+SIL may initiate telephone calls with potential customers or former customers only if one of the
+following specific conditions is met:
+● The contacted person has provided written consent for SIL to contact them for a specific
+purpose within the previous 12 months
+● The contact must directly relate to that specified purpose
+● Consent must be documented with clear purpose specification and date
+● The contacted person has made their contact details public in Ireland through Business listing
+section of a current telephone directory or classified telephone directory Trade or
+professional directories or a website, software app, or other digital technology operated by a
+business (with the person's consent)
+● The contacted person is a director of a company or partner in a firm with an entry in the
+directories or digital platforms referenced above. Contact must be made via the business
+contact details of the company or firm and must be in connection with their role as director or
+partner
+All telephone communications must ensure that the extent of communications is proportionate,
+reasonable, and not excessive. SIL must take into account the circumstances of the consumer,
+including, contact frequency, timing and duration of calls.
+Personal Visits
+SIL may make a personal visit to a consumer only if that consumer has provided written consent
+covering all of the following elements:
+● Clear specification of the purposes for which the personal visit is to be made
+● For sales and marketing visits, explicit identification of the product to be discussed during the
+personal visit
+● documentation of the specific business objectives and intended outcomes
+● Agreed time, date, and location for the personal visit
+● If applicable, clear disclosure of any fee that SIL proposes to charge for the personal visit
+5
+
+All written consent must be obtained prior to the visit, properly documented, and retained in
+accordance with record retention requirements.
+2.3. Review and Approval
+The first line of defence must ensure that new customer communications, or updates to existing
+communications, undergo a structured review and approval process before deployment. The review
+must cover three key dimensions to ensure content is accurate, clear, and compliant:
+● Customer Understanding Review: Ensure that the content meets the design principles
+outlined in Section 2.1, with a focus on clarity, consistent branding, accessibility, and ease of
+understanding for the target audience.
+● Subject Matter Expert (“SMEˮ) Review: Relevant SMEs - Product, Marketing, Risk, Customer
+Success, etc must validate the content for accuracy, ensuring it aligns with the operational
+process and customer expectations.
+● Legal and Compliance Review: Ensure alignment with applicable laws, regulations, and
+Consumer Duty requirements.
+Each review must be documented, with sign-offs obtained from the appropriate stakeholders prior to
+deployment.
+2.4. Communication Categorisation
+To ensure a proportionate approach to design, testing, and monitoring, all customer communications
+must be categorised based on criticality i.e., the potential risk or impact they pose to customer
+understanding, decision-making, and outcomes. This categorisation informs the level of governance
+and review required.
+Criticality Definition Examples Review
+High Communications - Terms & Conditions - SME Review
+that have a major - Fees and Pricing - Customer
+impact on - Risk disclosures Understanding review
+customer - Complaint - Legal & Compliance Review
+decisions, or response
+where templates
+misunderstanding
+could lead to harm.
+6
+
+Medium Communications - Account updates - SME Review
+that are important - Feature tips - Customer
+but lower risk, - Support Pages and Understanding review
+such as those scripts - Legal & Compliance
+explaining features - Service notifications Review where required
+or service
+changes.
+Low General, - Newsletters - SME Review
+non-critical - Seasonal greetings - Customer
+communications - Announcements Understanding review
+that donʼt involve - Product promotions
+decision-making or
+risk.
+2.5. Testing
+Testing aims to validate that customer communications meet the design principles outlined in Section
+2.1. The depth and method of testing should be proportionate to the criticality of the communication, as
+defined in Section 2.3.
+● High-Criticality Communications must undergo comprehensive testing to ensure they are
+understood and do not lead to customer harm.
+● Medium-Criticality Communications require focused testing, such as sample-based feedback
+or user surveys to assess clarity and tone.
+● Low-Criticality Communications may benefit from light-touch review.
+Additionally, all key customer communications such as those relating to new product launches, material
+changes, or required customer actions must be retested regularly ensuring the communication remains
+relevant and effective over time. The following methods may be used:
+Testing Method Description
+Customer Ask customers to explain key messages in their own words to
+Comprehension assess understanding and identify potential areas of confusion.
+Checks
+Surveys and Collect direct feedback from customers on the clarity, tone,
+Feedback Forms and usefulness of communications.
+User Testing Engage a sample of the target customer base — including
+vulnerable customer segments, where relevant — to test content
+accessibility and comprehension.
+7
+
+A/B Testing Compare two or more variations of a communication to determine
+which version performs better in terms of engagement or customer
+understanding.
+Usability Testing Use readability tools to assess navigability and accessibility of
+websites.
+Sample-Based Testing Review a randomly selected or targeted sample of communications (e.g. call
+recordings, emails, chat transcripts) to validate performance and detect issues.
+Judgment-Based Testing Use expert reviewers - Use expert reviewers (e.g., SMEs) to assess whether
+a communication is likely to be understood as intended by the target audience.
+The outcomes of all testing activities must be documented, including the insights gathered from
+customer feedback, along with the actions taken to address identified gaps, confusion, or potential
+risks. Testing results should be reviewed by relevant stakeholders such as Legal, Compliance, relevant
+teams, SMEs, as appropriate. These findings must then be used to inform updates or improvements to
+the communication, ensuring ongoing clarity, accuracy, and effectiveness while supporting good
+customer outcomes and meeting regulatory expectations.
+2.6. Monitoring
+Ongoing monitoring is essential to ensure that customer communications remain effective, relevant,
+and compliant over time. While testing validates the clarity and effectiveness of communications before
+and immediately after deployment, monitoring focuses on real-world, ongoing performance, identifying
+signs of customer harm, confusion, or suboptimal outcomes in day-to-day operations. It also assesses
+whether an average customer can understand the communication, recall key messages, and make
+informed decisions based on the information provided. Monitoring methods may include:
+Monitoring Method Purpose
+Customer Analyse support tickets, complaints, and dashboard submissions to
+Feedback identify recurring pain points or misunderstandings.
+Channels
+Quality Evaluate consistency, tone, and clarity in customer interactions (e.g.,
+Assurance call recordings, support scripts).
+(“QAˮ) Reviews
+8
+
+Digital Analytics Use metrics like open rates, bounce rates, heatmaps, and click-throughs
+to assess how customers engage with digital content.
+Experience Metrics Monitor CSAT, NPS, and RCA to evaluate customer sentiment
+and communication effectiveness.
+Annual or Reassess communications annually, or sooner if there's a material
+Trigger-Based product, service, or regulatory change.
+Reviews
+2.7. Escalation
+Issues identified through monitoring, testing and the Issue Management Program that indicate potential
+customer harm, regulatory breaches, or communication design failures must be addressed as follows:
+● The issue should be flagged to Compliance and the Regulatory Governance Committee
+(“RGCˮ) with relevant context, evidence, and potential impact for review and oversight.
+● Communication content must be updated promptly. Revisions may include improving
+accuracy, clarifying language, enhancing format or delivery, or increasing accessibility.
+● Revised communications must be reviewed by Compliance and relevant SMEs before reissue
+to ensure the issue is effectively resolved and customer understanding Standards are met.
+● Insights gained should be used to inform process improvements, staff training, and broader
+policy updates to prevent recurrence.
+● All escalations and subsequent actions must be documented and retained for audit and
+continuous improvement purposes.
+2.8. Governance and Oversight
+Clear escalation protocols are established to ensure significant communication issues are promptly
+addressed. When substantial risks or failures are detected, they are escalated to Compliance, the RGC,
+and the SIL Board for appropriate oversight and corrective action. Additionally, Compliance provides
+regular updates to the RGC and SIL Board on communication reviews, customer feedback, identified
+risks, testing and monitoring outcomes, audit findings, training activities, and complaints data.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+9
+
+● The Board:
+○ Reviews and approves significant policy changes and receives regular updates on
+communication effectiveness, risks, and compliance performance from the Regulatory
+Governance Committee RGC and Compliance.
+● Head of Compliance:
+○ Responsible for overseeing the implementation of this Standard across SIL. Provides
+guidance and support to ensure that business operations reflect the Companyʼs
+commitment to compliance.
+● Compliance:
+○ Monitors adherence to this Standard and reports on compliance performance.
+Supports operational teams by providing regulatory interpretation and guidance,
+particularly on high-criticality communications.
+● First Line of Defence:
+○ Responsible for applying this Standard in their daily activities, ensuring
+communications are designed, reviewed, and updated in line with the Standard. They
+must also actively participate in ongoing monitoring and feedback loops. Captures
+and escalates customer feedback, recurring issues, and common misunderstandings
+to support improvement of communication effectiveness.
+● Regulatory Governance Committee (“RGCˮ:
+○ Oversees the outcomes experienced by customers through communications.
+Reviews significant issues identified through monitoring, testing, or formal escalation,
+and provides necessary support and direction to remediate them effectively.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management. Reporting
+may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All documents are retained in accordance with:
+● Applicable regulatory requirements
+● Blocks Data Retention Standard
+10
+
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with
+the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the Policy
+Governance Team. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Document Owner.
+Review related documents:
+● Consumer Protection Policy, Squareup International Ltd
+5. 5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least triennially and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Elizabeth He… EU/UK Chief Initial Appro… New document Dec 17, 2025
+Compliance
+Officer
+Document Details:
+Business Square
+Scope Regional - Europe
+Compliance Domain Consumer Protection
+Document Owner Regulatory Program Manager
+11
+
+Approved By EU/UK Chief Compliance Officer
+Document Tier Tier 3
+12

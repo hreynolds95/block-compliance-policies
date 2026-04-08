@@ -1,0 +1,426 @@
+Equal Credit Opportunity Act Policy
+Square | Square Capital, LLC | Credit Card Product
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Equal Credit Opportunity Act (“ECOAˮ) Policy (“Policyˮ) outlines
+Square Capital, LLCʼs (“Square Capitalˮ or the “Companyˮ) approach to compliance with the Equal
+Credit Opportunity Act (“ECOAˮ or the “Actˮ) and to upholding requirements that do not run counter
+to the Act. The Policy was created and adopted with the sole focus on Square Capitalʼs commercial
+credit card program. The Chief Compliance Officer (“CCOˮ) oversees the development and
+implementation of this Policy and has delegated ownership of this Policy document to the Square
+Head of Compliance. Square Capital conducts business in compliance with all applicable laws and
+regulations. The purpose of this Policy is to outline Square Capitalʼs compliance with ECOA and to
+uphold Square Capital business requirements that do not run counter to the Act.
+Scope: This Policy is established by Square Capital and is applicable to Square Capitalʼs credit
+card product. All Square Capital business units, Staff Members, and contractors, including those
+from vendors and third parties (i.e., Square, Inc.) must comply with all aspects of this Policy.
+Square Capital recognizes a further duty to support the compliance program of its Bank Partner,
+where applicable.
+Definitions:
+Terminology Definition
+Adverse Action The term means:
+● A refusal to grant credit in substantially the amount or on
+substantially the same terms as requested in an Application;
+● A termination of an account or an unfavorable change in the terms of
+an account that does not affect all of substantially all of a class of
+Square Capitalʼs accounts; or
+● A refusal to increase the amount of credit available to an applicant to
+who has made an Application for an increase.
+
+Application Means a request for an extension of credit for the type of credit offered.
+There are two types of Applications:
+● Complete: An Application is complete once Identity Verification
+Service (“IDVˮ) screening is successfully passed and Square Capital
+has received all information needed to evaluate an Application, as
+defined by Square Capital and rendered a credit review decision.
+● Incomplete: An Application is incomplete when Identity Verification
+Service (“IDVˮ) screening is successfully passed but Square Capital
+has not received all information needed to evaluate an Application, as
+defined by Square Capital, and has not rendered a credit decision.
+Inquiries and pre-qualification requests related to credit are not Applications.
+However, an inquiry or pre-qualification request becomes an Application if
+Square Capital evaluates information about a person, determines the person
+does not or does not qualify for a credit card or pre-qualification order, and
+communicates that decision to that person. This still applies whether the
+communication of a decision is intentional or inadvertent. Examples of
+responses that can turn an inquiry into an Application:
+● “We can approve your Application for at least the minimum offer
+amount because you have high GPV and no chargebacks.ˮ
+● Your credit score qualifies so go ahead and submit an Application
+and we will approve you.ˮ
+Creditor The person or entity that is intending to grant a credit extension. In the credit
+card program, the Creditor is Celtic Bank and Square Capital is considered
+the servicer to this program.
+Discrimination Means to treat an applicant less favorably than other applicants.
+Against an
+Applicant
+Prohibited Basis Means race, color, religion, national origin, sex, sexual identity or sexual
+orientation, marital status, or age (provided that the applicant has the
+capacity to enter into a binding contract); the fact that all or part of the
+applicantʼs income derives from any public assistance program; or the fact
+that the applicant has in good faith exercised any right under the Consumer
+Credit Protection Act or any state law upon which an exemption has been
+granted by the Federal Reserve Board of Governors.
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Policy, and includes interns,
+temporary workers, consultants, vendors, third-party providers and
+contractors.
+
+2. Block, Inc. Requirements
+2.1. Policy Statement
+Square Capital manages its lending programs so as to not discriminate nor to discourage applicants
+from applying for credit based on any Prohibited Basis or, once origination, for any aspect of a credit
+transaction on a Prohibited Basis.
+Additionally, Square Capital provides applicants for credit all disclosures and notifications required
+under ECOA, its implementing rule, Regulation B, and other applicable fair lending laws.
+2.2. Background
+ECOA and its implementing rule, Regulation B, make it illegal for Creditors to discriminate, on a
+Prohibited Basis, against qualified individuals seeking credit and on any aspect of a credit
+transaction,as long as they are found to be creditworthy.
+Under ECOA, it is illegal to discriminate against an applicant because of their:
+● Race or color;
+● Religion;
+● National origin;
+● Sex;
+● Gender identity or sexual orientation;
+● Marital status;
+● Age (provided the applicant has the capacity to contract);
+● The applicantʼs receipt of income derived from any public assistance program; or
+● The applicantʼs exercise, in good faith, of any right under the Consumer Credit Protection
+Act.
+ECOA prohibits Creditors from discriminating on a Prohibited Basis in virtually all aspects of a lending
+transaction, including:
+● Accepting credit Applications;
+● Processing and evaluating credit Applications;
+● Notifying the applicant of the credit decision;
+● Servicing the credit transaction;
+● Collection activities;
+
+● Advertising;
+● Compensation programs; and
+● Complaint handling.
+2.3. ECOA Requirements
+2.3.1. Prohibitions
+ECOA contains two basic and comprehensive prohibitions against discriminatory lending practices:
+1. A Creditor shall not discriminate against an applicant on a Prohibited Basis regarding any
+aspect of a credit transaction.
+2. A Creditor shall not make any oral or written statement, in advertising or otherwise, to
+applicants or prospective applicants that would discourage, on a Prohibited Basis, a
+reasonable person from making or pursuing an Application.
+By making it illegal to discriminate in this manner, ECOA ensures that all customers have an equal
+and fair opportunity to obtain credit, as long as they are found to be creditworthy. Under ECOA and
+applicable state law, it is illegal to discriminate against an applicant because of their:
+● Race or color;
+● Religion;
+● National origin;
+● Sex;
+● Marital status;
+● Gender identity or sexual orientation;
+● Age (provided the applicant has the capacity to contract);
+● The applicantʼs receipt of income derived from any public assistance program; or
+● The applicantʼs exercise, in good faith, of any right under the Consumer Credit Protection
+Act.
+Square Capital structures its product offerings and controls to ensure that it prevents the following
+three types of discrimination:
+1. Overt Discrimination:
+Intentional discrimination on a Prohibited Basis. An example of overt discrimination is
+having a policy not to issue credit to persons based on one of the prohibited bases.
+
+2. Disparate Treatment:
+A form of discrimination that may arise when a lender treats an applicant less favorably
+than a similarly situated applicant on the basis of a prohibited characteristic, and there is no
+credible, non-discriminatory explanation for the difference in treatment. An example of
+disparate treatment is providing a different rate, term or duration, information, or level of
+service to an applicant because of a prohibited factor, such as the race or gender of the
+borrower.
+3. Disparate Impact:
+A neutral policy or practice is implemented uniformly, but the policy or practice
+disproportionately affects a protected class, and there is no credible, non-discriminatory
+business justification for the policy. An example of disparate impact is a prohibition on
+issuing credit to a particular type of business may result in a disparate impact if the
+prohibition leads to the exclusion of credit to businesses owned predominantly by
+members of protected classes.
+2.3.2. Accepting Credit Applications
+The credit Application process is neutral in nature and of a type applicable to every applicant
+desiring the same kind and amount of credit. Square Capital employees, contractors, or third parties
+involved in the lending transaction may not consider any Prohibited Basis as a factor in taking or
+processing Applications for credit, except to the extent allowed by federal and state law.
+All disclosures required to be given under ECOA are to be made in a clear and conspicuous manner.
+2.3.3. Processing and Evaluating Credit Applicants
+Square Capital Data Science (“Data Scienceˮ) creates and maintains the heuristic model that
+underwrites customer applicants to determine whether they are eligible for a credit card. Square
+performs periodic fair lending analysis on its underwriting models and processes to identify and
+mitigate potential disparate impact, with results reviewed by Compliance and Legal
+Square Capital may elect to utilize an automated onboarding review process based on the above
+heuristics or conduct review manually for all Applications. Regardless, once that review is completed
+one of the following then occurs:
+● The automated heuristic model or the Capital Team approves the submitted Application and
+notifies the customer of the approval in writing; or
+
+● The automated heuristic model of the Capital Team does not initially approve the
+Application then the following occurs:
+○ The Application is not approved and the customer is notified in writing of the
+declined Application.
+Note that manual reviews are not conducted today. The Capital Team plans to implement a manual
+review process before a general audience release. Once released, the Capital Team would review
+Applications and one of the following would occur:
+● The Application is approved and the customer is notified in writing of the approval
+Application;
+● The Application is determined to be incomplete. The Capital Team then contacts the
+customer in writing to request the additional information; or
+● The Application is not approved and the customer is notified in writing of the declined
+Application.
+Additional Application Review
+Square Capital does not ask questions through its Application or evaluation process related to race,
+color, religion, national origin, or sex of an applicant. Square Capital adheres to the following
+additional rules when evaluating an applicantʼs creditworthiness:
+● Square Capital permits applicants to file an Application using their birth-given surname,
+their spouseʼs surname, or a combined surname; and
+● Square Capital does not require a spouseʼs signature on any document.
+2.3.4. Notifying the Applicant of the Credit Decision
+Square Capital provides a written notice to the customer, thirty 30 calendar days (hereafter “daysˮ)
+after receiving a completed Application, regarding the appropriate outcome of the review of a
+submitted Application:
+● A notice of the approved Application;
+● A notice of incomplete Application;
+● A notice of a counteroffer; or
+● A notice of the declined Application.
+Withdrawn Application
+No written notice is required if the applicant expressly withdraws an Application.
+
+2.3.5. Notice for Approved Applications
+Square Capital provides notice of approval to all applicants within thirty 30 days after receiving a
+completed Application concerning the Creditor's approval of, counteroffer to, or Adverse Action on
+the Application.
+2.3.6. Notifying the Applicant of the Credit Decision
+While Square Capital does not currently send a notice requesting additional information when an
+Application is determined to not include enough relevant information to render a credit decision,
+such a notice will be implemented prior to a general audience release. This notice must state that:
+● That the Application is incomplete;
+● That additional information and/or documentation is needed to complete the Application
+● A specific description of all the additional information/documentation that is needed to
+complete the Application;
+● A reasonable date or time frame by which the customer must respond with all the
+requested additional information/documentation;
+● That the Application is denied and no further communication will be forthcoming if all the
+all the requested additional information/documentation is not received;
+OR
+● If no such statement is contained, then the Capital Team is required to send the appropriate
+Adverse Action Notice no later than thirty 30 days from the date of receipt of the original
+incomplete Application.
+There are two potential outcomes regarding the notice of incomplete Application:
+● The customer responds with all requested additional information in which case the Capital
+Team:
+○ Renders a decision to approve or decline the Application and sends the appropriate
+notification within thirty 30 days of receipt of all the information; or
+○ Determines more information is needed from the customer. The procedure outlined
+in this subsection "Notice for Incomplete Application" must then be followed.
+● The customer does not respond in which case the Capital Team declines the Application
+and the Capital Team does one of the following:
+○ Sends the appropriate Adverse Action notice within thirty 30 days of receipt of
+the original incomplete Application; or
+
+○ Closes the Application with no further action. This option is only available if the
+request for additional information advises the customer that the Application will be
+closed if the request is not completely fulfilled by the stated date or time frame.
+Unwarranted Request for Additional Information/Documentation
+Requests for additional information/documentation should both:
+● Request all additional information/documentation at once; and
+● Be warranted to complete the Application review process.
+Requests that are deemed to be not required to complete an Application, meaning that the initial
+Application is considered complete, cannot be used to extend the initial thirty 30 day response
+timeframe mandated by ECOA.
+2.3.7. Notice of Counter Offer
+In the event the program will provide for counter offers, Square Capital will send written notice of
+counter offer any time it is unable to offer the terms the applicant requested but when other terms
+are available. The initial written notice must be sent within thirty 30 days of the receipt of a
+completed Application and must include the following statements:
+● That Adverse Action has been taken on the original Application and the nature of that
+action, and
+● No more than four specific reason(s) for the Adverse Action.
+OR
+● Advising that the applicant has sixty 60 days from the date of the notification to request a
+statement from Square Capital giving the specific reasons for the Adverse Action. Square
+Capital will respond within thirty 30 days of receiving the request for information.
+● That a separate less favorable offer is being made to the customer.
+● That if the customer uses the credit extension then the new terms are deemed to have
+been accepted.
+Before the customer submits an acceptance of the counteroffer, a disclosure must be provided in a
+reasonable form and placement advising that acceptance of the counteroffer will trigger a credit
+review of all submitted information.
+
+2.3.8. Notice of Declined Application
+Square Capital sends a notice of Adverse Action for a declined Application any time it is unable to
+offer the credit the applicant requested. The written notice must be sent within thirty 30 days of the
+receipt of a complete or incomplete Application, whichever is applicable to the situation, and must
+include the following statements:
+● That Adverse Action has been taken on the original Application and the nature of that
+action, and
+● No more than four specific reason(s) for the Adverse Action
+OR
+● Advising that Square Capital must receive within sixty 60 days from the date of the
+Adverse Action Notice a request for the reasons the decision was made. Square Capital
+must respond with these details within thirty 30 days of receiving the request.
+2.4. Servicing the Credit Transaction
+2.4.1. Collections
+Loss mitigation and collections activities executed by Square Capital, or through any third-party
+collection agency acting on Square Capitalʼs behalf, are executed in compliance with this Policy. Loss
+mitigation and collections activities are executed in a consistent manner and the business units
+adopt procedures which limit discretion in the handling of any workout arrangement or collection
+effort. Square Capital does not provide varying levels of service or apply varying collections efforts
+on a Prohibited Basis.
+2.4.2. Advertising
+Square Capital does not make any oral or written statement, in advertising or otherwise, to applicants
+or prospective applicants that would discourage, on a Prohibited Basis, a reasonable person from
+making or pursuing an Application.
+“Advertisingˮ Defined as an External-Bound Communications
+This section applies to any and all external-bound communications, by any individual bound by this
+Policy to a third party (and not just publicly released “Advertisingˮ), at any point during the lending
+transaction.
+
+2.4.3. Compensation Programs
+Compensation programs for any Square Capital employee related to the referral, sale, origination, or
+servicing of credit products must be designed to promote sound business practices consistent with
+applicable fair and responsible laws, and this Policy.
+2.4.4. Complaint Handling
+All complaints are handled according to the Global Complaints Program Standard.
+2.5. Exclusions
+The below chart represents a list of Policy exclusions intended to address additional activities that
+are not undertaken currently but which are permissible under ECOA
+Lending
+Transaction Stage Requirement Applicability
+(if applicable)
+Processing and Information about a Square Capital does not inquire on an applicantʼs
+evaluating lending Spouse or Former marital status nor request information about an
+Applications Spouse, Inquiries applicantʼs spouse or former spouse. Square Capital
+Concerning Marital does not support joint accounts.
+Status
+Processing and Source of Income, Square Capital does not inquire if an applicant is
+evaluating lending Alimony, Child receiving alimony, child support, or separate
+Applications Support, or Separate maintenance payments. Furthermore, Square Capital
+Maintenance Income does not ask about an applicantʼs source of income.
+Repayments towards card balances are made through
+debits against a borrowerʼs linked bank account and
+through a fixed percentage of daily sales.
+Processing and Country of Origin, ECOA permits a Creditor to inquire about the
+evaluating lending Permanent applicantʼs permanent residence and immigration
+Applications Residency, and status in the United States in determining
+Immigration Status creditworthiness. However, Square Capital does not
+currently inquire about the applicantʼs country of origin,
+
+permanent residence, or immigration status in the
+United States.
+Processing and Credit History ECOA allows Square Capital to consider an applicantʼs
+evaluating lending credit history in evaluating creditworthiness. However,
+Applications Square Capital does not currently collect, inquire, or
+consider an applicantʼs credit history.
+Notifying the Third-Party Creditors ECOA specifies that when more than one Creditor is
+applicant of the involved in a transaction and Adverse Action is taken
+lending decision with respect to the Application for credit by all the
+Creditors involved, each Creditor that took such action
+must provide a notice of action taken. Square Capital
+does not currently have more than one Creditor
+involved in a transaction.
+Notifying the Providing Appraisals Square Capital does not allow applicants to secure
+applicant of the and Other their credit by a first lien on a dwelling. Therefore,
+lending decision Valuations there are no appraisals or other written valuations to
+provide applicants.
+N/A Reporting to ECOA outlines specific requirements for a Creditor
+Customer Reporting that furnishes credit information to a customer
+Agency reporting agency. Square Capital does not currently
+furnish credit information to a customer reporting
+agency.
+N/A Special Purpose Although ECOA permits Creditors to establish
+Credit Programs special-purpose credit programs, Square Capital
+currently does not have any special-purpose credit
+programs.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Chief Compliance Officer (“CCOˮ):
+○ The CCO will provide assistance and support in implementing this Policy across the
+organization and shall be responsible for establishing appropriate practices
+designed to ensure that Company operations reflect the Companyʼs commitment to
+compliance and that all employees are aware of that commitment and their
+individual responsibility.
+
+○ The CCO is responsible for monitoring and reporting on compliance with this Policy.
+The CCO delegates the responsibilities in this section to the Square Head of
+Compliance along with the authority to adopt, develop and implement procedures
+and reporting that support this Policy.
+● Counsel:
+○ The Companyʼs legal Counsel provides interpretative advice and counsel regarding
+the applicability and application of the requirements of this Policy to the Companyʼs
+business and operational activities.
+Subsidiary Roles:
+● Square Capital Data Science:
+○ This team creates and maintains the heuristic model that underwrites customer
+applicants to determine whether they are eligible for a credit card.
+● Square Capital:
+○ Utilizes an automated onboarding review process based on Data Scienceʼs
+heuristics. Provides a written notice to the customer, thirty days after receiving a
+completed Application, regarding the appropriate outcome of the review of a
+submitted Application.
+● Square Capital Board of Managers (“SCBMˮ):
+○ Reviews and adopts this Policy annually.
+● Square Head of Compliance, or Square Consumer Protection Program Lead as designee:
+○ Owns this Policy document, reviews and approves exception requests.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Policy Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Capital, LLC and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Global Complaints Program Standard
+● Equal Credit Opportunity Act
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square Capital Square Capital Creation Creation July 2, 2024
+Board of Board of
+Managers Managers
+Square Capital Square Capital Scheduled R… Scheduled January 24, 2025
+Board of Board of review; immaterial
+Managers Managers changes
+
+Compliance Compliance Scheduled R… Scheduled October 3, 2025
+Policy Policy Committee review; immaterial
+Committee changes
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2

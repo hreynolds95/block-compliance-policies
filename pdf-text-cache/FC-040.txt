@@ -1,0 +1,318 @@
+Suspicious Matter Report Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: In order to fulfil our reporting obligations under Australiaʼs Anti-Money
+Laundering and Counter-Terrorism Financing Act AML/CTF Act), Square Australia Pty Ltd (“Square
+AUˮ) has developed the Suspicious Matter Report Program (“Programˮ) as part of Square AUʼs
+Anti-Money Laundering & Counter-Terrorism Financing Policies, to prevent, detect, and report
+suspicious activities as they pertain to the Designated Services Square AU provides.
+The purpose of the Program is to establish a structured process within Square AU for identifying,
+escalating, and reporting suspicious activities to AUSTRAC in compliance with the AML/CTF Act.
+The Program ensures that all relevant Staff Members understand their obligations, including the
+need to identify suspicious transactions or behaviour, perform enhanced due diligence, and submit
+accurate and timely reports to AUSTRAC when required without tipping off.
+Scope: This Program is established by Square AU and is applicable to the Square AU products
+through which Square AU provides Designated Services as defined under the AML/CTF Act, as
+specified in theAnti-Money Laundering and Counter-Terrorism Financing Program. This Program is
+implemented, managed and maintained by the Square AU Compliance team and outlines the
+approach to designing and executing Square AUʼs SMR Program.
+Square AUʼs Designated Services do not involve “threshold transactionsˮ as defined in the
+AML/CTF Act therefore we are not required to report Threshold Transaction Reporting TTR.
+Definitions:
+Terminology Definition
+Anti-Money Set of laws, regulations and procedures designed to detect and deter money
+Laundering laundering, terrorist financing, and any other financial crimes.
+(“AMLˮ)
+1
+
+Counter-Terrorist Set of laws, regulations and measures designed to detect, prevent and
+Financing disrupt the flow of funds of terrorist organisations and activities.
+(“CTFˮ)
+Proliferation The act of providing funds or financial services used, in whole or in part, for
+Financing (“PFˮ) the manufacture, acquisition, possession, development, export,
+trans-shipment, brokering, transport, transfer, stockpiling or use of nuclear,
+chemical or biological weapons and their means of delivery.
+The Anti-Money As part of its broader regulatory compliance obligations, Square AU Pty Ltd
+Laundering and Square AU is required to comply with the Anti-Money Laundering and
+Counter-Terroris Counter-Terrorism Financing Act 2006, as amended from time to time. The
+m Financing Act AML/CTF Act is designed to deter, detect and disrupt money laundering and
+2006 (“AML/CTF terrorism financing.
+Actˮ)
+Enhanced Enhanced Customer Due Diligence ECDD involves carrying out extra
+Customer Due checks on a customerʼs identification, collecting additional information and
+Diligence doing additional verification, according to Enhanced Customer Due Diligence
+(“ECDDˮ) Program.
+Suspicious A report that a reporting entity must submit under AML/CTF Act if they have
+Matter Report reasonable grounds to suspect that a transaction may be related to money
+(“SMRˮ) laundering, terrorism financing, tax evasion, proceeds of crime or any other
+serious crimes under Australian law. An SMR must also be submitted if the
+reporting entity has reasonable grounds to suspect the customer or an agent
+of the customer is not who they say they are.
+AUSTRAC The Australian Transaction Reports and Analysis Centre (‘AUSTRACʼ), which
+performs a dual role as AML and CTF regulator and financial intelligence unit.
+Quality The Quality Assurance process of reviewing decisions made by an analyst
+Assurance during SMR alerts reviews by a Quality analyst.
+Service Level Defines the expected review period for cases and other responsibilities of
+Agreements the Compliance Australia Analysts working on filing SMR.
+(“SLAˮ)
+Tipping Off The conduct of disclosing any information about an SMR, or inferring that
+Square AU has submitted or will submit an SMR.
+Financial Act that imposes certain obligations on solicitors and entities known as “cash
+Transaction dealersˮ under the FTR Act.
+Reports (“FTRˮ)
+Act
+Designated A service that is listed in section 6 of the AML/CTF Act.
+Service
+2
+
+2. Program Requirements
+2.1. Employee Obligations
+2.1.1. Tipping Off
+“Tipping offˮ is a criminal offence prohibited by AML/CTF Act and can result in a penalty of up to two
+years imprisonment, 120 penalty units, or both. The tipping off offence applies to the following
+persons (current or former):
+● A Reporting entity;
+● An officer, employee or agent of a reporting entity;
+● A person that has been required to give information or produce documents under sections
+491 or section s49B1 of the AML/CTF Act.
+Tipping off is disclosing certain types of information to another person, where it would or could
+reasonably be expected to prejudice an investigation. This includes:
+● Information about SMRs
+○ Information that establishes that an SMR has been submitted, or that a requirement to
+submit an SMR has been triggered.
+○ A report made or prepared for the purposes of meeting SMR obligations, including
+any copies.
+○ any document purporting to set out information contained in an SMR.
+● Information relating to notices issued under sections 49 and 49B of the AML/CTF Act.
+○ That a requirement was or is in place to provide information or produce a document in
+response to a notice.
+○ that you have given information or produced a document in response to a notice.
+Appropriate controls will be implemented to prevent the improper disclosure of protected
+Information, including when sharing within the reporting group or with third parties. Information held
+will be identified, and circumstances where disclosure could prejudice an investigation will be
+assessed, with measures applied such as restricting access on a genuine need-to-know basis,
+maintaining confidentiality and security safeguards, and ensuring appropriate protections when
+sharing Information externally. Regular employee training and appropriate due diligence processes
+will be maintained to support compliance with tipping off obligations.
+2.1.2. Notification and escalation
+There are three broad channels through which a member of the Square AU Compliance Team may
+become aware of activity requiring further investigation to determine if it warrants a SMR
+submission. These channels include:
+● Automated account monitoring that has been established to identify potentially suspicious
+activity.
+3
+
+● Internal referrals from Block Staff Members (e.g., Compliance, Risk, Capital Operations,
+Afterpay or Customer Success teams)
+● External referrals from third parties (e.g., banking partners, other financial institutions, law
+firms, law enforcement or government agencies)
+The investigation will be conducted within a time frame set internally by Square AU. An internal
+tracking system is set up to ensure the time frame is strictly followed.
+If any Square AU Staff Member is aware of any activity that may involve money laundering, terrorist
+financing, proliferation financing, and/or other criminal activity that they believe should be
+investigated immediately by the Square AU Compliance Team for reporting purposes, the Square AU
+Compliance Team shall be contacted immediately via compliance_au@squareup.com.
+2.2. When to Submit SMR
+If unusual activity has been identified and the Square AU Compliance Team is notified, Enhanced
+Customer Due Diligence ECDD must be conducted initially to determine if Square AU have
+reasonable grounds for suspicion.
+Square AU is required to submit an SMR to AUSTRAC when Square AU forms a suspicion on
+‘reasonable groundsʼ, which means, that if a reasonable person (e.g. Square AU
+InvestigationsAnalyst) would conclude from the facts, circumstances and all the information
+available about the matter that an SMR should be submitted, Square AU must report it. Square AU
+must also explain why Square AU has formed a suspicion in the SMR.
+A SMR must be submitted if Square AU has reasonable grounds to suspect that the customer or
+transaction is related to one or more of the following offences or scenarios:
+● Terrorism financing;
+● Money laundering;
+● An offence against a Commonwealth, state or territory law;
+● Proceeds of crime;
+● Tax evasion;
+● Someone is not who they claim to be; and
+● Could be the victim of a crime.
+A SMR must be submitted each time a new suspicion is formed on reasonable grounds.
+SMRs only relate to matters involving Designated Services. This includes when Square AU starts
+providing Designated Services, or when Square AU is asked about providing Designated Services as
+part of our normal business activities.
+4
+
+2.3. Deadline for SMR
+The SMR reporting deadlines start once Square has formed its suspicion, which may be at any time
+in Square AUʼs business relationship with its customers. A suspicion is only ‘formedʼ after the Square
+AU Compliance team has conducted ECDD and when the Square AU Investigation team determines
+that there are reasonable grounds for suspicion.
+Once a suspicion on reasonable grounds has been formed after investigations, the Square AU
+Investigation team must submit an SMR about the matter (subject to ensuring a "Tipping Off" offence
+is not committed) within:
+● 24 hours after forming the relevant suspicion if the suspicion relates to terrorism financing; or
+● 3 business days after forming the suspicion in all other cases; or
+● 5 business days after the day the suspicion is formed if Square AU claim the SMR include
+information protected by Legal professional privilege LPP. It does not apply if suspicion was
+relevant to terrorism financing.
+The Square AU Compliance team leverages an internal mechanism to track the above deadline is
+strictly followed to avoid any late submission.
+2.4. After Submitting SMR
+2.4.1. Relationship with suspicious customers
+Square AU is not required to end the business relationship or stop providing Designated Services to
+a customer because Square AU has formed a suspicion about them.
+If Square AU decides to end the relationship or stop providing Designated Services, Square AU
+needs to ensure not to tip off.
+If Square AU decides to continue the relationship or to provide the Designated Service, Square AU
+will apply ECDD to the customer.
+2.4.2. Record Retention related to SMRs
+SMR Records: All records related to SMRs and accompanying documentation will be retained
+securely for a period of seven years from the date of submission as per requirement in AML/CTF
+Act. For additional details about record retention related to this Program document, please refer to
+Section 8 “Record Retentionˮ.
+2.4.3. Information Requests
+AUSTRAC and its partner agencies may request more information from Square AU about a submitted
+SMR. A written notice (usually referred to as "Section 49" of the AML/CTF Act) will be issued to
+Square AU in such circumstances. This might include asking Square AU for further details about the
+5
+
+customer or a specific transaction or account. The request will be processed by the Law
+Enforcement Response Team with support from Square AU Compliance Team.
+2.5. Training
+Square AU ensures that the Analysts working on SMR cases are fully trained in the AU Suspicious
+Matter Report Procedure to take appropriate steps to investigate and provide rationale for reviewing
+alerts, through a combination of new hire, on the job，targeted SMR continuous training, according to
+Square | Anti-Money Laundering & Counter-Terrorism Risk Awareness Training Program.
+2.6. Quality Assurance
+The Square Compliance Quality Assurance Team is a separate team from the Square AU Compliance
+Team and exercises Quality Assurance by reviewing decisions made by the analysts during SMR
+filing. The Square Compliance Quality Management Team reports the results of the reviews to
+individual team members, their leads and senior management.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities :
+● Square Australia (“AUˮ) Chief Compliance Officer (“CCOˮ):
+○ Acts as the designated Senior Manager for approvals required under the AML and
+CTF Act and Rules, including approving the Suspicious Matter Report Program and
+any material updates to it.
+● Square AU Regulatory Program Manager:
+○ Acts as the AML/CTF Compliance Officer to oversee and coordinate the operational
+functions of the Suspicious Matter Report Program in compliance with local
+regulatory requirements, ensures that all due diligence processes, including
+onboarding, screening, and ongoing checks, are implemented effectively and
+consistently, and is responsible for reporting.
+● Square Global Investigations Team Lead:
+○ Manages the operational team responsible for reviewing compliance alerts;
+provides guidance, training and acts as an escalation point in addition to managing
+SLAs.
+● Square AU Investigations Analyst (“The Analystˮ):
+○ Monitors and acts upon SMR alerts, including reviewing and filing SMRs to
+AUSTRAC.
+● Square AUʼs Board (“The Boardˮ):
+6
+
+○ Responsible for providing governance and oversight by ensuring Square AU
+implements an effective AML/CTF program, manages risks, and complies with
+reporting obligations.
+● Square Compliance Quality Assurance Team:
+○ Performs Quality Assurance by reviewing decisions made by the analysts during
+SMR alerts review and filing; provides feedback on decision-making, observations,
+and insights into trends, processes, and procedures; highlights opportunities for
+consistency and efficiency; and reports the results of the reviews to individual team
+members, their leads and senior management and supports regulatory and audit
+requirements.
+● Staff Members:
+○ All full-time employees and fixed-term and contingent working including interns,
+temps, consultants, vendors, third-party providers, and contractors.
+● Law Enforcement Response Team:
+○ Responsible for handling and responding to law enforcement requests.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+7
+
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Related Documentation or References:
+● Square AU | Anti-Money Laundering & Counter-Terrorism Financing Policies
+● Square AU | Anti-Money Laundering & Counter-Terrorism Risk Awareness Training Program
+● Square AU |Suspicious Matter Report Procedure
+● Anti-Money Laundering and Counter-Terrorism Financing Act 2006
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ying Li Square AU CCO Creation First issuance of Apr 27, 2020
+this document
+Lance Howard Square AU CCO Scheduled R… Annual review of May 13, 2021
+document
+Lance Howard Square AU CCO Scheduled R… Annual review of Oct 5, 2022
+8
+
+document
+- Update
+“Tipping Offˮ
+following
+Austracʼs
+updated
+guidance
+- Remove
+reference to
+local External
+Inquiry
+Process.
+JING WANG Square AU Scheduled R… Annual review of Nov 22, 2023
+Compliance document
+Program Manager
+Lance Howard Square AU CCO Material Cha… Annual review of Nov 27, 2023
+document
+JING WANG Square AU Scheduled R… Annual review of Nov 11, 2024
+document
+Compliance
+- Update the
+Program Manager requirement
+for applying
+ECDD when
+determining
+whether a SMR
+is warranted
+Lance Howard Square AU CCO Scheduled R… Annual update - Nov 11, 2024
+same as above
+JING WANG Square AU Scheduled R… Annual review of Mar 24, 2026
+document
+Regulatory
+- Update
+Program Manager requirement
+about Tipping Off
+to reflect
+Lance Howard Square AU CCO Material Cha… Mar 25, 2026
+AML/CTF reforms
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Financial Crimes
+9
+
+Document Owner Square AU Regulatory Program Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+10

@@ -1,0 +1,433 @@
+Anti-Social Forces ASF
+Management Program
+反社会的勢力対応プログラム
+Square | Square K.K.
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should not be distributed to anyone outside of Square, Inc. It is only to
+be accessed by individuals who need to refer to internal information within the company.
+社外秘
+この文書は機密情報であり、Square株式会社の社員及びその他必要な権限を持つ者以外の閲覧は禁じる。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+Table of Contents
+Roles and Responsibilities 4
+1. Introduction 5
+2. Purpose 5
+3. Scope 6
+4. Standard Requirements 6
+4.1 Internal Systems and Executive Reporting 6
+4.2 Collaboration with External Agencies 7
+4.3 Information Collection and Database Management 7
+4.4 Anti-Social Forces Exclusion Clauses 8
+4.5 Onboarding Screening 8
+4.6 Ongoing Monitoring 9
+4.7 Response to Identified Transactions with possible ASF 10
+4.8 Response to Unjust Demands by ASF 12
+4.9 Training 13
+4.10 Monitoring 14
+4.11 Outsourcing 14
+5. Document Management 15
+5.1 Document Owner 15
+5.2 Review and Approval 15
+6. Exceptions 15
+7. Record Retention 16
+8. Related Documentation 16
+9. Revision and Approval History 16
+10. Document Details 17
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibility
+Employees All employees of Square K.K. are responsible for conducting Company's
+operations to ensure the proper management of affairs by severing and
+excluding any relationships with antisocial forces.
+Japan Chief Japan Chief Compliance Officer (“JP CCOˮ) will regularly, or as needed,
+Compliance Officer report to the Board members on the company's status in dealing with
+(“JP CCOˮ) antisocial forces. Additionally, the JP CCO Compliance Lead will issue
+necessary internal instructions for responding to antisocial forces. If
+necessary, a designee can be appointed to fulfill these responsibilities.
+Japan Compliance Japan Compliance Team is responsible for centrally managing and
+Team accumulating information related to antisocial forces, supporting efforts to
+sever ties with such forces, and collaborating with domestic and Block, Inc.
+(“Blockˮ) officers and employees.
+Legal Counsel The Legal Counsel ensures that contracts include clauses to exclude
+organized crime, advises on legal matters related to antisocial forces,
+ensures compliance with laws, and assists in legal proceedings as needed.
+Third Party Risk The TPRM Team at Block Inc. is responsible for ensuring that our external
+Management Team partners and vendors have no ties to antisocial forces. They conduct due
+(“TPRMˮ) diligence using the ASF Background Check provided by the Trust & Safety
+Team.
+Trust & Safety Team The Trust & Safety Team of Block is responsible for ensuring the safety and
+security of employees, by supporting the screening process of
+counterparties to prevent transactions with antisocial forces.
+Talent Team The Talent Team of Block inc is responsible for preventing the hiring of
+candidates who have relationships with antisocial forces through a rigorous
+screening process.
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+1. Introduction
+Japan has stringent regulations against Anti-Social Forces (“ASFˮ) to ensure business integrity and safety.
+Compliance with regulations against ASF mandated by the Japanese Government policies and prefectural
+authorities, is essential. All entities in Japan must ensure a secure and ethical business environment, by
+prohibiting any relationships with these anti-social members.
+This “Anti-Social Forces Management Programˮ (“Programˮ) has been established to ensure the proper
+implementation of Square Kabushiki Kaishaʼs (“Square K.K.ˮ or the “Companyˮ) Anti-Social Forces
+Management Policy. Japan Chief Compliance Officer (“JP CCOˮ) is responsible for the operation and
+management of this Program.
+1. 目的
+日本では、企業の健全性および安全性を確保するため、反社会的勢力（以下「ASF」という。）に対する厳格な規制が敷
+かれています。政府の方針および都道府県当局が定めるASF関連規制の遵守は不可欠です。国内のすべての事業体
+は、これら反社会的勢力との一切の関係を禁止し、安全かつ倫理的な事業環境を確保しなければなりません。
+本「反社会的勢力対応管理プログラム」（以下「本プログラム」という。）は、Square株式会社（以下「Square K.K.」また
+は「当社」という）の「反社会的勢力対応規程」の適切な運用を確保するため策定されました。本プログラムの運用管理
+は日本エンティティのチーフコンプライアンスオフィサー（以下「JP CCO」という。）が担当します。
+2. Purpose
+The purpose of the Program is to describe the detailed measures for implementing Square K.K.'s ASF
+Policy (“ Policyˮ), ensuring proper administrative operations at Square K.K.
+2. 目的
+本プログラムは、「反社会的勢力対応規程」に基づき、当社が、反社会的勢力との関係を遮断し、排除するために必要と
+なる事項の詳細および具体的な手続き等に関し遵守すべき事項等を定めることを目的とします。
+3. Scope
+This Program is applicable to all Employees engaged in the Company's operations (including Board
+members, auditors, staff, secondees, contract employees, temporary employees, etc., hereinafter referred
+to as "Employees") and has the same scope of application as the Policy.
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+3. 対象
+本規程は、「反社会的勢力対応規程」と同じく、当社のすべての事務を対象とし、当社の事務を行うすべての社員（取締役、
+監査役、職員、出向者、契約社員、派遣社員等を含む。以下「役職員」という。）に適用する。
+4. Standard Requirements
+4.1 Internal Systems and Executive Reporting
+Pursuant to Article 5.2 of the Policy, the JP CCO and the Compliance Team is responsible for establishing
+and maintaining a framework to block and eliminate any ties with Anti-Social Forces, implementing
+necessary measures, and ensuring that all employees fully understand the requisite knowledge and
+regulations concerning ASFs.
+The JP CCO is required to deliver an appropriate report and conduct training on the Company's measures
+against Anti-Social Forces to the Board annually.
+In the event of the JP CCO's absence or when necessary for the efficient execution of duties, the JP CCO
+may appoint a suitable delegate to carry out their responsibilities. The delegate appointed under the
+previous provision shall be the APAC Alert Monitoring Lead.
+4.1 内部体制および経営層への報告
+規程5.2に基づき、JP CCOおよびコンプライアンスチームは、反社会的勢力との関係を遮断し排除するための体制整備と
+取組みの実施、および全従業員が反社会的勢力に関する必要な知識・規制を十分に理解できるよう責任を負います。
+JP CCOは当社の反社会的勢力対策について、年1回取締役会へ適切な報告を行い、併せて研修を実施しなければなりま
+せん。
+また、JP CCOが不在の場合や職務遂行上必要と判断した場合には、JP CCOは代行者を指名してその職務を代行させる
+ことができます。現在の代行者はAPAC Alert Monitoring Leadとします。
+4.2 Collaboration with External Agencies
+In accordance with Article 5.3 of the Policy, the JP CCO regularly, or as needed, evaluates collaboration
+with necessary external agencies and the use of databases related to ASF, as well as managing
+membership rights and related matters.
+4.2 外部機関との連携
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+規程5.3に従い、JP CCOは反社会的勢力対応において必要となる外部機関との連携状況や、関連データベースの利用・会
+員権等の管理状況を定期的にまたは必要に応じて評価します。
+4.3 Information Collection and Database Management
+According to the Article 5.4 of the Policy, the Japan Compliance Team is tasked with gathering information
+and maintaining databases to prevent making relationships with ASF. A comprehensive database with
+following information about ASFs, ensuring timely additions, deletions, or modifications;
+1. Information collected by our ASF response actions from previous screenings;
+2. Information gathered by external partners;
+3. Information shared by Block Inc. and its group companies;
+4. Information provided by external experts, such as the police, the Center for the Elimination of
+Violence, lawyers, and the Japan Credit Association; and
+5. Any other relevant information similar to the above categories.
+JP CCO and JP Compliance Team establish strong working relationships with external experts, such as
+the Police and the Center for the Elimination of Violence, to ensure effective communication and
+cooperation if ASF issues arise.
+When outsourcing pre-screening, post-verification, or similar evaluations related to ASF, JP Compliance
+Team will use the external vendors in line with Article 4.11. of this Program. The JP Compliance Team will
+regularly, or as needed, verify that these vendors' databases are updated accurately and promptly.
+4.3 情報収集とデータベース管理
+規程5.4に基づき、JP Complaince Teamは反社会的勢力との関係構築を防止するため、以下の情報を網羅的に収集・登
+録し、追加・削除・修正を適時行います。
+1. 当社のこれまでのスクリーニング対応で得た情報
+2. 外部パートナーから取得した情報
+3. Blockおよびそのグループ会社から共有された情報
+4. 警察、暴力追放運動推進センター、弁護士、日本クレジット協会など外部専門家から提供された情報
+5. 上記に類するその他の関連情報
+JP CCOおよびJP Complaince Teamは、警察や暴力追放運動推進センター等の外部専門家と強固な協力関係を構築
+し、反社会的勢力問題発生時の迅速かつ適切な連携・対応を確保します。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+また、反社会的勢力に関する事前審査、事後確認または同等の評価業務を外部委託する場合は、本プログラム4.11に基づ
+き委託先を選定します。日本コンプライアンスチームは、当該委託先のデータベースが正確かつ迅速に更新されているかを
+定期的または必要に応じて確認します。
+4.4 Anti-Social Forces Exclusion Clauses
+Pursuant to Article 5.5 of the Policy, the JP Legal Team is responsible for incorporating clauses excluding
+Anti-Social Forces into various contracts and agreements related to the Company's operations to
+proactively prevent transactions with such entities.
+4.4 反社会的勢力排除条項
+JP Legalは規程5.5に基づき、当社の事業活動に関連するすべての契約・合意書等に反社会的勢力排除条項を原則として
+盛り込み、取引開始前に当該勢力との関与を未然に防止する責任があります。
+4.5 Onboarding Screening
+According to Article 5.6 of the Policy, the JP Compliance Team is responsible for conducting
+pre-screening to prevent transactions with ASF when necessary. This involves using information managed
+in the database specified in Article 5.4, to ensure no involvement with ASF before entering into the
+following transactions:
+● Individuals being considered for employment by the Company;
+● Merchant users of the Companyʼs services;
+● External vendors, including individuals; or
+● Any other transactions similar to the above.
+Additionally, if the Japan Compliance Team identifies any individuals suspected of being associated with
+ASF during the onboarding-screening process, they must document and retain evidence of these findings.
+For our new hires, Block's Talent Team will conduct a preliminary screening to ensure that individuals with
+ties to ASF are not employed, and will determine employment eligibility accordingly. For external vendors
+with whom our company enters into agreements, Block's Global TPRM team will verify whether there are
+any connections to ASF through the Due Diligence process outlined in Block's Global Third Party Risk
+Management Policy (ˮTPRM Policyˮ) and Square K.K. Outsourcing Policy, by using the ASF Background
+check provided by Block Trust＆Safety Team. Additionally, when entering into contracts with external
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+vendors, the Legal Team will incorporate ASF excluding clauses into contracts or terms of trade, in
+accordance with Article 4.4 above.
+4.5 事前審査
+規程5.6に従い、JP Compliance TeamはASFとの取引を防止するため、必要に応じて事前審査を実施します。本審査で
+は、政策第5.4条で定めるデータベースに登録された情報を用いて、以下の取引に入る前にASFとの関与がないことを確認
+します。
+● 当社への採用候補者
+● 当社サービスの加盟店ユーザー
+● 外部委託先（個人を含む）
+● その他、上記に類する取引
+また、オンボーディング・スクリーニングの過程でASFとの関係が疑われる者をJP Compliance Teamが特定した場合に
+は、当該事実の根拠および証拠を記録・保管しなければなりません。
+新規採用者については、Blockのタレントチームが予備審査を実施し、ASFと関係が疑われる者を採用しないよう確認したう
+えで、雇用の可否を判断します。外部委託先との契約締結時には、BlockのグローバルTPRMチームがBlockのGlobal
+Third Party Risk Management Policy（TPRMポリシー）およびSquare K.K.アウトソーシングポリシーに基づくデューデ
+リジェンス・プロセスを通じ、BlockのTrust＆Safetyチーム提供のASFバックグラウンドチェックを用いてASFとの関係の有
+無を確認します。また、Legalは外部委託先との契約書または取引条件において、上記4.4に従い反社排除条項を必ず盛り
+込むものとします。
+4.6 Ongoing Monitoring
+In accordance with Article 5.7 of the Policy, the Japan Compliance Team will conduct post-transaction
+reviews to ensure no relationships with ASF. This involves examining whether any parties have become
+associated with ASF after their onboarding. Additionally, if the Japan Compliance Team identifies any
+individuals suspected of being associated with ASF during the monitoring process, they must document
+and retain evidence of these findings. This applies to:
+● Merchant users of the Companyʼs services;
+● External vendors, including individuals; and
+● Any other transactions similar to the above.
+If a counterparty is identified as being associated with ASF after a transaction has commenced, the Japan
+Compliance Team will instruct the relevant department to cease any transactions, regardless of the
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+reason. The department must then work to terminate the relationship as quickly as possible under the
+guidance of the Japan CCO.
+4.6 事後審査
+規程5.7に従い、JP Compliance Teamは取引後のレビューを実施し、ASFとの関係がないことを確認します。具体的に
+は、オンボーディング後にも以下の各者がASFと結びついていないかを調査します。
+● 当社サービスの加盟店ユーザー
+● 外部委託先（個人を含む）
+● 上記に類するその他の取引
+また、モニタリングの過程でASFとの関係が疑われる者を発見した場合、JP Compliance Teamはその所見および証拠を
+記録・保管しなければなりません。
+取引開始後に取引相手がASFと関係があると特定された場合、JP Compliance Teamは関連部署に対し、理由を問わず
+当該取引の即時停止を指示します。関連部署はJP CCOの指導のもと、速やかに当該関係を解消するよう努めるものとしま
+す。
+4.7 Response to Identified Transactions with possible ASF
+In line with Articles 5.8 of the Policy, the following steps will be taken if a transaction with ASF is identified:
+1. Any Employee who becomes aware of a transaction with ASF must record the discovery and
+promptly and appropriately report the following details to the JP CCO and Japan Compliance
+Team:
+a. Department name and responsible person;
+b. Date of discovery;
+c. Details of the transaction and any demands, and evidences of ASF;
+d. Status of the response;
+e. Date and status of review by CCO; and
+f. Any other relevant information.
+2. Upon receiving a report, the JP CCO and the Japan Compliance Team will provide appropriate
+instructions to the relevant department to ensure the safety of those dealing directly with ASF.
+The JP CCO will also promptly and appropriately report this information to the Board without
+leaving it to the discretion of individual departments or personnel.
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+3. Under the direction of the Board, the JP CCO will closely collaborate with external expert
+agencies, such as the Police and Anti-violence centers, and consider utilizing the services of
+the Resolution and Collection Corporation to sever ties with ASF.
+4. The Employee who is responsible for the contract with the involved party will take actions to
+sever relations with ASF under the guidance of the JP CCO.
+The company is committed to not providing any benefits to ASF and will not engage in any
+transactions for any reason.
+The JP Compliance Team will maintain accurate records of the circumstances and evidence of the
+transactions with ASFs, as well as communications with internal and external entities.
+4.7 反社との取引が判明した場合の対応
+規程5.8に基づき、ASFとの取引が判明した場合には、以下に基づき対応します。
+1. 1. ASFとの取引を認識した従業員は、発見内容を記録し、遅滞なくかつ適切に以下の事項をJP CCOおよび
+Japan Compliance Teamに報告する。
+・所属部署名および担当者
+・発見日
+・取引内容および要求事項、ASFに関する証拠
+・対応状況
+・CCOによる確認日および確認状況
+・その他関連情報
+2. 報告を受けたJP CCOおよびJapan Compliance Teamは、ASFと直接対応する者の安全確保のため、関係
+部署に対し具体的かつ適切な指示を行う。また、情報を各部署や個人の裁量に委ねることなく、速やかにかつ
+適切に取締役会へ報告する。
+3. 取締役会の指示の下、JP CCOは警察や暴力団排除センター等の外部専門機関と緊密に連携し、必要に応じ
+て回収代行業者（公益財団法人日本債権回収機構等）のサービスを活用してASFとの関係を断絶する方策を
+検討・実施する。
+4. 当該取引を担当する従業員は、JP CCOの指導のもとASFとの関係断絶に向けた具体的措置を速やかに遂行
+する。
+当社はASFに対して一切の利益供与を行わず、いかなる理由があっても取引を継続しません。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+JP Compliance Teamは、ASFとの取引に関する状況・証拠および内部外部関係者とのやり取りを正確に記録・保管しま
+す。
+4.8 Response to Unjust Demands by ASF
+In line with Article 5.9 of the Policy, if the Company faces unjust demands from ASF, Square K.K.will
+respond as follows to prevent harm:
+1. Any Employee who becomes aware of unjust demands from ASF must ensure the safety of
+Employees, respond appropriately, following the basic principles outlined in Article 5.1 of the
+Policy, and promptly report the situation to the JP Compliance Team as per Article 5.8 of the
+Policy. The Japan Compliance Team will promptly report the information to the JP CCO. The JP
+CCO will inform the Board promptly and appropriately, if needed.
+2. The JP CCO, upon receiving such a report, will instruct the relevant teams on the appropriate
+measures needed to ensure the safety of the Employee dealing directly with ASF. This
+responsibility will not be left solely to the Employee.
+The Company is committed to not providing any benefits to ASF and will not engage in any transactions
+for any reason.
+The JP Compliance Team will maintain accurate records of the circumstances and evidence of the unjust
+demands from ASF, as well as communications with internal and external stakeholders.
+4.8 不当要求への対応
+規程5.9に則り、当社はASFから不当要求を受けた場合、以下の対応を行い、被害の回避および拡大防止を図ります。
+1. ASFからの不当要求を認知した従業員は、まず従業員自身および関係者の安全確保を最優先し、規程5.1に定
+める基本方針に従って適切に対応したうえで、速やかに規程5.8に基づきJP Compliance Teamへ報告しま
+す。JP Compliance Teamは報告を受け次第、直ちにJP CCOへ情報を共有します。JP CCOは必要に応じ
+て速やかかつ適切に取締役会へ報告します。
+2. JP CCOは当該報告を受領後、ASFとの窓口となった従業員の安全確保に必要な措置について関連部署へ指
+示を行います。この対応責任は当該従業員のみに委ねられるものではありません。
+加えて、当社はASFに対していかなる利益も提供せず、いかなる理由においても取引を行いません。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+JP Compliance Teamは、ASFからの不当要求に関する状況および証拠、並びに社内外の関係者とのやり取りを正確に
+記録・保管します。
+4.9 Training
+In accordance with Article 6 of the Policy , the Japan Compliance Team conducts training at least once a
+year to ensure that all Employees have an accurate understanding of the ASF Policy and process.
+After the training, follow-up activities will be conducted as needed to confirm that all Employees have
+understood the content. In addition to the training sessions, the Japan Compliance Team will ensure
+comprehensive communication with Employees about handling ASF through the following methods:
+● Notification of internal regulations via documents and emails;
+● Making internal regulations accessible on company bulletin boards; and
+● Other methods as determined by the Training Team.
+The Japan Compliance Team will appropriately maintain records of training attendance and the
+communication to Employees.
+4.9 研修
+規程6に基づき、JP Complaince Teamは、全従業員が反社会的勢力対応ポリシーおよび関連手続きを正しく理解できる
+よう、年１回以上の研修を実施します。研修終了後は、従業員の理解状況を確認するため、必要に応じてフォローアップ措置
+を講じます。
+また、研修に加え、以下の方法により反社会的勢力対応に関する情報を従業員へ周知徹底します。
+● 文書および電子メールによる規程等の通知
+● 社内サイトへの規程等の掲載
+● 研修チームが定めるその他の方法
+研修の受講記録および周知活動の実施記録は、適切に保存・管理します。
+4.10 Monitoring
+On an ongoing basis, the JP CCO and/or their designees will monitor the Program related activities to
+evaluate the adherence to the Program and determine whether outputs adhere to establish objective,
+preventing the Anti-Social Forces.
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+Also, the Anti-Social Compliance Activities will be periodically assessed for their effectiveness through risk
+assessment, audits, and independent reviews.
+4.10 モニタリング
+JP CCOおよびその代行者は、本プログラムに基づく各種活動が目的どおりに実施され、反社会的勢力との関与が排除され
+ているか定期的に監視・評価します。
+さらに、リスクアセスメント、内部監査、独立レビュー等を通じてモニタリング体制の有効性を定期的に検証します。
+4.11 Outsourcing
+Following the Blockʼs Third Party Risk Management Policy and Square K.K.ʼs Outsourcing Policy, the JP
+CCO and JP Compliance Team may outsource the following tasks described in this Program to external
+vendors:
+● Building a database of information on ASF as outlined in 4.3 (including additions, deletions, and
+modifications)
+● Conducting pre-assessments as specified in 4.5
+● Performing post-verification as specified in 4.6
+When these tasks are outsourced, the JP Compliance Team shall, in accordance with the Outsourcing
+Policy, conduct due-diligence reviews of both the primary vendor and any subcontractors. The Team shall
+monitor the outsourced operations on a regular basis or as needed, and shall record and retain all
+evidence of such monitoring. Monitoring results shall be reported to the JP CCO on a regular basis or as
+required, and those reports shall likewise be recorded and retained.
+4.11 外部委託
+Blockの「サードパーティリスクマネジメントポリシー」およびSquare K.K.の「外部委託管理規程」に従い、JP CCOおよびJP
+Compliance Teamは、本プログラムに定める以下の業務を外部事業者へ委託することができます。
+● 上記4.3に基づく反社情報データベースの構築・更新（追加、削除、修正を含む）
+● 上記4.5に定める事前評価の実施
+● 上記4.6に定める事後確認の実施
+これらの業務を外部委託する場合、JP Compliance Teamは「外部委託管理規程」に則り、委託先および再委託先の審査
+を行うとともに、運用状況を定期的または必要に応じてモニタリングし、その結果を記録・保存します。また、モニタリング結果
+は定期的または必要に応じてJP CCOへ報告し、同様に記録・保存を行います。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+5. Document Management
+5.1 Document Owner
+This Program shall be managed by the JP CCO or their designee.
+5.1 プログラムーオーナー
+本プログラムはJP CCOが管理します。
+5.2 Review and Approval
+This program shall be reviewed and approved at least annually and on an ad hoc basis. Any amendments
+or abolitions of this Program shall require approval from JP CCO.
+5.2 規定の改廃
+本プログラムは、年1回以上および必要に応じて随時に見直しを行い、JP CCOの承認を得るものとする。併せて、本プログ
+ラムの変更または廃止にはあらかじめJP CCOの承認を要する。
+6. Exceptions
+The JP CCO or designee will have authority to approve exceptions and/or exemptions to this Program,
+provided that the proposed exception or exemption does not violate applicable laws and regulations.
+Program exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance
+Team at go/policyhelp. The JP CCO and/or designee will inform Blockʼs Compliance Leadership and
+applicable committees, as needed, of exceptions.
+6. 例外の取扱い
+JP CCOまたはその代行者は、本プログラムに対する例外および免除を承認する権限を有します。ただし、提案された例外
+または免除が適用法令に違反しないことを前提とします。例外申請は書面で行い、申請理由および当該例外に伴うリスクを
+低減するための管理策を明示してください。承認された例外はすべて書面で記録し、当社の記録管理規程に従って保管しま
+す。例外申請および承認記録は、Policy Governance Team（go/policyhelp）へ提出し、ドキュメントオーナーまたはその
+委任者が必要に応じてBlockのコンプライアンスリーダーシップおよび関連委員会に報告します。
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+7. Record Retention
+Records, related to compliance with this Program, including but not limited to due diligence, will be stored
+in a manner in which they can be available to review promptly, and retained in line with Square K.K. record
+retention practice.
+7. 記録の保管
+本プログラムの遵守に関連する一切の記録（デューデリジェンス結果等を含む）は、速やかに確認可能な方法で保管し、
+Square K.K.の記録保管運用方法に基づき所定の期間保持します。
+8. Related Documentation
+Related Policy Policy Anti-Social Forces Management Policy|反社会的勢…
+Related Procedure Procedure] JP Compliance Anti-Social Force Managemen…
+9. Revision and Approval History
+Approver Title Type Description Date
+Sayaka Kobay… Japan Chief Immaterial C… Document May 16, 2025
+Compliance creation
+Officer
+10. Document Details
+Business Square
+Scope Regional Japan
+Compliance Domain Anti-Financial Crimes
+Document Owner Japan Chief Compliance Officer
+Last Approval Date Month date, YYYY
+Effective Date Month date, YYYY
+Approved By Japan Chief Compliance Officer
+Document Review Schedule Annually] June 2026
+Anti-Social Forces ASF Management Program | Square | Square K.K.
+
+Confidential and Not for Distribution
+Anti-Social Forces ASF Management Program | Square | Square K.K.

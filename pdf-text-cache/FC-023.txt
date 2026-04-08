@@ -1,0 +1,274 @@
+U.S. Identity Verification Policy
+Square
+Last Approved: Dec 30, 2025
+Effective Date: Dec 30, 2025
+1. Overview
+Introduction and Purpose: This U.S. Identity Verification ("IDV") Policy ("Policy") is established by
+Square and applies to its U.S. operations. The Policy outlines Square's approach to IDV for each
+customer of Square's Financial Products. The KYC Program Manager or delegate is responsible for
+managing this Policy, with final approval from the Customer Onboarding and Appeals Program
+Lead.
+The purpose of this Policy is to facilitate compliance within all aspects of Block, Inc.'s Bank
+Secrecy Act ("BSA")/Anti-Money Laundering ("AML") Program, across Square's financial products,
+as well as its U.S. Know Your Customer ("KYC") Program Standard.
+Square's U.S. KYC Program Standard outlines the company's approach to ensuring the business
+reasonably knows its customers and assessing the risks involved in conducting business with
+them, including adherence to the Customer Identification Program ("CIP"). The IDV Policy details
+how customer information is collected and verified to establish identity as required by the CIP
+component of the KYC Program.
+Scope: This Policy is established by Square and is applicable to Square's Covered Products in the
+U.S. market.
+This Policy does not apply to products offered by other legal entities, including Square Financial
+Services, or other business units within Block, Inc., including Cash App, and Afterpay. Additionally,
+developer test accounts are outside the scope of this Policy.
+1
+
+Definitions:
+Terminology Definition
+Identity Verification ("IDV") Identity Verification ("IDV") is a risk-based method of collecting
+and confirming identity information to enable Square to form a
+reasonable belief that it knows the true identity of each
+customer.
+Covered Products Square defines its Covered Products and activities as products
+and services offered by Square that are required, whether due to
+regulatory, partner, or other obligations, to comply with Block,
+Inc.'s Bank Secrecy Act ("BSA")/Anti-Money Laundering ("AML")
+Program.
+Customer Identification A Customer Identification Program ("CIP"), a component of the
+Program ("CIP") Know Your Customer Program, is a requirement for United States
+("U.S.") financial institutions to verify the identities of customers
+(both individuals and business entities) when they open new
+accounts.
+Beneficial Owner ("BO") Beneficial Owners ("BO") are individuals who either exercise
+substantial control over a legal entity customer or, directly or
+indirectly, own/control at least 25% of its ownership interests.
+2. Policy Requirements
+Square is both directly and indirectly regulated in various jurisdictions according to the types of
+financial services and products offered and is subject to all applicable BSA/AML obligations. For
+the purposes of Square's U.S. products that do not require money transmission licenses, including
+its managed payments business, Square is not directly regulated.
+However, even where Square is not directly regulated, it is required to meet the same expectations
+of a regulated entity in commitment to its contractual obligations with acquiring partners. In order
+to fulfill these requirements with acquiring partners, Square must collect and verify certain
+information from its customers. Square's electronic IDV is performed automatically via direct
+application programming interface ("API") calls with vendors.
+2
+
+2.1 IDV Overview
+Before customers can use Square's financial products, Square verifies their identity using a
+combination of electronic identity verification ("eIDV") and document identity verification ("dIDV"),
+which are performed automatically via direct API calls with vendors.
+After Square verifies the customer's identity, their account is activated for payments processing.
+Only verified Square accounts can process payments and use Square's Financial Products.
+2.2 Verification of Individuals and Sole Proprietors
+2.2.1 Information Collection
+For identity verification of individuals or sole-proprietors, Square obtains the following information
+directly from customers, vendors, or a combination of both any information obtained from vendors
+will be pre-filled and confirmed by the customer for accuracy prior to submission).
+● Individual's full legal name;
+● Physical residential address;
+● Social Security Number ("SSN") or Individual Taxpayer Identification Number ("ITIN"); and
+● Date of birth ("DOB").
+2.2.2 Electronic Identity Verification (eIDV)
+To conduct comprehensive Electronic Identity Verification ("eIDV"), Square partners with select
+vendors to assess the information that Square collects from customers via attribute matching.
+Attribute matching compares the customer information collected during onboarding (legal name,
+DOB, SSN or ITIN, and address) with data provided by our vendors: LexisNexis, IDology, and Veriff.
+These vendors aggregate customer information records from local and international public and
+proprietary records. A match is determined by leveraging the data provided by the vendor to
+determine if the information provided matches a record.
+Strategy for Risk Mitigation and Controls Square uses the following controls to manage the risk
+associated with fraud, identity theft, and other illicit activity for eIDV
+1. Vendor Verification - Square maintains a set of rules and configurations with its third-party
+vendors, which are designed to ensure Square takes a risk-based approach to verify the
+identity of the customer. The following scenarios result in a customer failing eIDV, based on
+the information collected from the customer:
+a. SSN is reported as deceased;
+b. Identity is reported as deceased;
+c. SSN was issued prior to DOB; and
+d. Individual is 13 or under.
+3
+
+2. Internal IDV Rules and Configurations - Square maintains a set of internal rules and
+configurations that are applied post-vendor approval. This allows Square to override the
+external vendor approval and deny the customer verification if needed. This could happen
+under the following circumstances:
+a. Collected age is less than 13 or greater than 113; or
+b. SSN not valid - SSN is a sequence of 4 or 9 digits, is not invalid 111111111, and does
+not start with three digits commonly used for ITINs 666, or numbers falling
+between 900999
+3. Hardblock - Square has developed a process such that, once customer information (bank
+account, name, SSN, DOB, and address) are added to the hardblock database, any future
+account attempting to onboard with the same information is automatically deactivated.
+Information related to an account is typically added to the hardblock database when the
+account is deactivated by compliance for Terms of Service Violations or AML concerns.
+2.2.3 Document Identity Verification (dIDV)
+If a customer's identity is not verified through eIDV, the customer may be prompted to go through
+Document Identity Verification ("dIDV"). A customer may also be prompted to go through dIDV if
+they did not meet the eIDV attribute matching criteria, if vendor data quality is low, or if risk is
+perceived as high. Document identity verification consists of the collection of government-issued
+photo identification and a live selfie, processed through a third party vendor.
+Strategy for Risk Mitigation and Controls Square uses the following controls to manage the risk
+associated with fraud, identity theft, and other illicit activity for dIDV
+1. Vendor Verification - Square uses a third-party vendor, Veriff, to support the execution of
+the dIDV process. During the process, the customer is required to provide photos of their
+government-issued photo identification, as well as a live selfie. Veriff has risk mitigation
+features, including the ability to identify natural movements in the selfie and biometric
+analysis to account for common changes in an individual's appearance.
+2. Internal dIDV Rules and Configurations - Square has created rules and policies to ensure
+the identity information provided during dIDV is appropriately matched to the name
+provided during eIDV.
+2.2.4 Manual Verification
+Depending on the product, customers may be eligible for manual verification if they do not pass via
+dIDV or eIDV. Manual reviews may be available for other customers, at the discretion of the
+Compliance Operations Lead. If manual verification is not possible or is not successful, the
+customer account is not opened.
+4
+
+2.3 Business Verification
+2.3.1 Information Collection
+Square requests the following information from business entity customers (i.e. those who are not
+individuals, sole proprietors, or single-member LLCs without an EIN
+● Legal Business Name;
+● Business Address (no PO boxes);
+● Business Entity Type;
+○ Corporation
+○ LLC
+○ Partnership
+○ Charities
+● Employer Identification Number ("EIN");
+● Trading name or doing business as ("DBA") name; and
+● Personal information Name, Address, SSN, DOB for relevant Beneficial Owners, Directors
+or Account Holders
+2.3.2 Verification of Business Entities
+Square partners with select vendors, like Persona and Dun & Bradstreet, to verify that the business
+information provided by a customer during onboarding Business Name, Address, and EIN
+matches an existing record.
+Beneficial Owners, Directors and Account Holders associated with a business are validated using
+the eIDV and dIDV methods described in Section 2.2.2 Electronic Identity Verification (eIDV).
+Strategy for Risk Mitigation and Controls Square has developed processes and the following
+controls to manage the risk associated with fraud, identity theft, and other illicit activity for
+Business Verification:
+1. Internal IDV Rules and Configurations - Square maintains a set of internal rules and
+configurations. If the following criteria is met, the data is not sent to vendors:
+1. EIN not valid - EIN must be 9 digits, and cannot be an invalid sequence of numbers
+111111111.
+2. Hardblock - Once a customer's information—such as account holder name, SSN, date of
+birth, and address—is entered into the hardblock database, any future accounts attempting
+to register with the same details are automatically deactivated. Information related to an
+account is typically added to the hardblock database when the account is deactivated by
+compliance for Terms of Service Violations or AML concerns.
+2.3.3 Manual Verification
+Depending on the product, customers may be eligible for manual review if they do not pass via
+dIDV or eIDV. Manual reviews may be available for other customers, at the discretion of the
+5
+
+Compliance Operations Lead. If manual verification is not possible or is not successful, the
+customer account is not opened.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Compliance Operations:
+○ This team conducts manual customer reviews as necessary.
+● Counsel:
+○ Provides legal requirements and guidance to ensure compliance with applicable
+law.
+● Customer Onboarding and Appeals Program Lead:
+○ Responsible for comprehensive oversight and regulatory adherence of the IDV
+Policy, and provides annual attestation of the Policy prior to Compliance Policy
+Committee approval.
+● Know Your Customer ("KYC") Program Manager:
+○ Provides oversight on the IDV Policy, initiates modifications (when appropriate), and
+collaborates with Product Compliance to ensure ongoing alignment between the
+IDV Policy and Square's Financial Products.
+● Product Compliance Team:
+○ Partners with the KYC Program Manager to support the design and development of
+controls to stay in compliance with internal policies, as well as applicable legal and
+regulatory requirements.
+● Risk Product Managers:
+○ Implements machine learning models and vendor integration for document
+verification process ("dIDV").
+● Identities & Banking Teams:
+○ The Product teams responsible for vendor integration and implementing processes
+and controls for Square's Financial Products using IDV.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+6
+
+● Complaints
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Block's BSA/AML Program
+● Square's U.S. Know Your Customer Program Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+7
+
+Approval History:
+Approver Title Type Description Date
+Lucia Marin Product Creation Initial creation. October 24,
+Compliance 2022
+Manager
+Melissa Benjamin Compliance Material Change Updated to Aug 27, 2024
+Program, Quality, Approval expand to
+& Training Lead Covered
+Products and
+include business
+verification
+Adrian Gardner Customer Scheduled Minor updates to Aug 5, 2025
+Onboarding and Review formatting and
+Appeals Program language
+Management
+Lead
+Compliance Compliance Aug 12, 2025
+Policy Committee Policy Committee
+Adrian Gardner Customer Material Ch… Offcycle material December 30,
+Onboarding and update to expand 2025
+Appeals Program how customer
+information is
+Management
+collected to
+Lead
+include
+information
+pre-filled by a
+vendor but still
+confirmed for
+accuracy by the
+customer
+8
+
+Document Details:
+Business Square
+Scope US
+Compliance Domain Anti-Financial Crimes
+Document Owner Customer Onboarding and Appeals Program
+Management Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+9

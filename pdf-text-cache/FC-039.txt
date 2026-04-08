@@ -1,0 +1,330 @@
+Politically Exposed Persons Watchlist Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 26, 2026
+Effective Date: Mar 26, 2026
+1. Overview
+Introduction and Purpose: As per Australiaʼs Anti-Money Laundering and Counter-Terrorism
+Financing Act 2006 AML/CTF Act), Square AU Pty Ltd (“Square AUˮ) is required to determine
+whether its customer or a beneficial owner of the customer is a Politically Exposed Person (“PEPˮ)
+before providing services or as soon as practical after services have been provided.
+Under section 5 and 28 of the AML/CTF Act and the AML/CTF Rules, reporting entities must
+implement appropriate risk-based systems and controls to identify and manage the risks
+associated with customers who are PEPs, including their family members and close associates.
+The PEP Watchlist Program for Square AU (“Programˮ) is overseen by the Square AU CCO, who
+provides necessary approval and ensures regulatory compliance. The Square AU Regulatory
+Program Manager is responsible for managing and updating the Program when required, ensuring
+it adheres to local regulatory requirements.
+In accordance with Square AU Anti-Money Laundering & Counter-Terrorism Financing Policies, the
+PEP Watchlist Program established methods and controls to identify PEPs and assess the risk
+posed by them. The purpose is to ensure that Square AU appropriately mitigates the potential risk
+of money laundering,terrorism financing and proliferation financing associated with PEPs.
+Square AU applies a risk-based approach to the identification and management of PEP
+relationships, including enhanced due diligence and ongoing monitoring where appropriate.
+Scope: This Program is established by Square AU and applicable to the Square AU products
+through which Square AU provides Designated Services as defined under the AML/CTF Act, as
+specified in the Anti-Money Laundering and Counter-Terrorism Financing Policies. This Program is
+implemented, managed and maintained by the Square AU Compliance team and sets out the
+approach to design and execution Square AUʼs PEP Watchlist Program. This program forms part of
+Square AUʼs AML/CTF Program and supports Square AUʼs obligations to identify, assess and
+1
+
+manage money laundering and terrorism financing risks associated with Politically Exposed
+Persons.
+Definitions:
+Terminology Definition
+Anti-Money A set of regulatory rules and investigative techniques aimed at preventing
+Laundering and combating various illegal activities related to the financial system
+(“AMLˮ)
+Counter-Terrorist A set of regulatory rules and investigative techniques designed to detect,
+Financing prevent and disrupt the flow of funds of terrorist organisations and activities.
+(“CTFˮ)
+Proliferation The act of providing funds or financial services used, in whole or in part, for
+Financing (“PFˮ) the manufacture, acquisition, possession, development, export,
+trans-shipment, brokering, transport, transfer, stockpiling or use of nuclear,
+chemical or biological weapons and their means of delivery.
+The Anti-Money As part of its broader regulatory compliance obligations, Square AU Pty Ltd
+Laundering and Square AU is required to comply with the Anti-Money Laundering and
+Counter-Terroris Counter-Terrorism Financing Act 2006, as amended from time to time. The
+m Financing Act AML/CTF Act is designed to deter, detect and disrupt money laundering and
+2006 (“AML/CTF terrorism financing.
+Actˮ)
+The Anti-Money The AML/CTF Rules are subsidiary legislative instruments made under the
+Laundering and AML/CTF Act. The AML/CTF Rules provide the detail for the broader
+Counter-Terroris obligations set out in the AML/CTF Act.
+m Financing
+Rules Instrument
+2007 No. 1
+(“AML/CTF
+Rulesˮ)
+AUSTRAC The Australian Transaction Reports and Analysis Centre (‘AUSTRACʼ)
+performs a dual role as AML and CTF regulator and financial intelligence unit.
+Politically A PEP is an individual who holds a prominent public position or role in a
+Exposed government body or international organisation, either in Australia or
+Persons (“PEPsˮ) overseas. Immediate family members and/or close associates of these
+individuals are also considered PEPs.
+Enhanced Enhanced Customer Due Diligence ECDD involves carrying out extra
+Customer Due checks on a customerʼs identification, collecting additional information and
+Diligence doing additional verification, according to Enhanced Customer Due Diligence
+2
+
+(“ECDDˮ) Program.
+Suspicious A report that a reporting entity must submit under AML/CTF Act if they have
+Matter Report reasonable grounds to suspect that a transaction may be related to money
+(“SMRˮ) laundering, terrorism financing, tax evasion, proceeds of crime or any other
+serious crimes under Australian law. An SMR must also be submitted if the
+reporting entity has reasonable grounds to suspect the customer or an agent
+of the customer is not who they say they are.
+Designated A service that is listed in section 6 of the AML/CTF Act.
+Service
+Service Level Defines the expected review period for cases and other responsibilities of
+Agreements the Analysts working on filing PEP watchlist alerts.
+(“SLAˮ)
+2. Program Requirements
+2.1. Definition of PEP
+A PEP is someone who holds a prominent public position in a government or international
+organisation. Through their position, they may have power and influence, and access to and control
+over money and resources. This definition also extends to their immediate family members and close
+associates.
+There are three categories of PEP, as defined in the AML/CTF Rules 2007
+● Domestic PEP Someone who holds a prominent public position or role in an Australian
+government body;
+● Foreign PEP Someone who holds a prominent public position or role with a government
+body in a country other than Australia, this would include foreign PEPs working or residing
+in Australia;
+● International Organisation PEP Someone who holds a prominent public position or role in
+an international organisation, such as the United Nations UN, the World Trade
+Organisation WTO or the North Atlantic Treaty Organisation NATO.
+Immediate family members and close associates of a PEP are also considered PEPs for the
+purposes of this Program and must be assessed under Square AUʼs risk-based framework.
+2.2. PEP Risk Assessment
+All Foreign PEPs must be treated as high risk automatically. Domestic PEPs and International
+Organisation PEPs may also be considered as high risk depending on the circumstances. Square AU
+3
+
+implements a risk-based approach and conducts risk assessment on domestic and international
+organisation PEPs to determine their risk levels.
+When deciding the risk levels and whether to apply our Enhanced Customer Due Diligence
+measures, we consider the following factors which include but are not limited to:
+● Type of business/business nature;
+● Purpose/Use of account;
+● Transaction size and pattern;
+● Level of PEP positions;
+● Potential risk posed by PEPs; and
+● Adverse media.
+Where Square AU becomes aware that an existing customer or beneficial owner has become a
+Politically Exposed Person during the course of the business relationship, Square AU will reassess
+the customerʼs ML/TF risk rating and determine whether enhanced due diligence measures and
+senior management approval are required.
+If Square AU determines that a person was previously a PEP, the same controls as for current PEP
+will be applied, taking into account:
+● Whether the individual still has influence over public policy or expenditure decisions;
+● The length of time since the individual held PEP status;
+● Whether the individual remains prominent or politically connected; and
+● Any other information suggesting the individual may continue to pose a high ML/TF risk
+due to their former PEP status.
+Senior management approval is required where a former PEP is assessed as presenting a high
+ML/TF risk.
+2.2.1. High Risk PEP
+If a customer or a beneficial owner of a customer is determined to be a high ML/TF risk PEP or is a
+Foreign PEP, Square AU must undertake the following steps:
+● Seek information from the customer and/or perform detailed analysis of the business to
+clarify the nature of the customerʼs ongoing business with us such as the purpose of the
+account.
+● Take reasonable measures to establish the source of the customerʼs wealth and funds and
+follow the review process outlined in Square AUʼs ECDD review procedures for initial
+review. In this context, reasonable measures are measures that are practical, necessary
+and in line with identified ML/TF risk.
+● Determine whether to establish or continue the business relationship with the customer,
+which could potentially result in the following outcomes:
+○ Discontinue relationship
+4
+
+■ Close the customerʼs account(s); and
+■ Consider whether a SMR should be submitted
+○ Establish or continue relationship
+■ Obtain explicit approval from the Square AU CCO, acting as the Senior
+Manager responsible for AML/CTF oversight, before establishing or
+continuing the business relationship.
+■ Monitor the customerʼs future activities and examine the customerʼs
+account(s), subject to the Transaction Monitoring Program; and
+■ Monitor the customerʼs future activities and examine the customerʼs
+account(s) at least yearly, according to the ECDD Program and subject the
+account(s) to ECDD review following ECDD review procedures
+2.2.2. Medium or Low Risk PEP
+If a customer or a beneficial owner of a customer is a domestic PEP or an international organisation
+PEP and determined to be Medium or Low ML/TF risk, Square AU must undertake the following
+steps:
+● Seek information from the customer and/or perform detailed analysis of the business to
+clarify the nature of the customerʼs ongoing business with Square AU,such as the purpose
+of the account(s).
+● Determine whether to continue the business relationship with the customer, which could
+potentially result in the following outcomes:
+○ Discontinue relationship
+■ Close the customerʼs account(s); and
+■ Consider whether a SMR should be submitted
+○ Continue relationship:
+■ Obtain explicit approval from Square AU Compliance Operations Lead ; and
+■ Monitor the customerʼs future activities and examine the customerʼs
+account(s), subject to Square AUʼs Transaction Monitoring Program and
+ECDD Program
+2.3. Screening
+Square AU uses a third-party vendor to screen for possible PEP matches. All the hits identified
+through the screening must be subjected to manual reviews by the Compliance AU Compliance
+Analyst and/or Third-Party Agents to determine the appropriate actions. The AU Watchlist
+Procedures and PEP Watchlist Procedures - Outsourcing provide further guidance on handling
+potential hits.
+Screening will occur at onboarding, and periodically throughout the customer relationship as part of
+Square AU ongoing monitoring controls.
+5
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Square Australia (“AUˮ) Chief Compliance Officer (“CCOˮ):
+○ Acts as the designated Senior Manager for approvals required under the AML and
+CTF Act and Rules, including approving the Politically Exposed Persons Watchlist
+Program and any material updates to it.
+● Square AU Regulatory Program Manager:
+○ Acts as the AML/CTF Compliance Officer to oversee and coordinate the operational
+functions of the Politically Exposed Persons Watchlist Program in compliance with
+local regulatory requirements, ensures that all due diligence processes, including
+onboarding, screening, and ongoing checks, are implemented effectively and
+consistently, and is responsible for reporting.
+● Square AU Compliance Operations Lead:
+○ Manages the operational team responsible for reviewing compliance alerts;
+provides guidance, training and acts as an escalation point in addition to managing
+SLAs.
+● Square Compliance Quality Assurance Team:
+○ Performs Quality Assurance by reviewing decisions made by analysts during PEP
+watchlist review; provides feedback on decision-making, observations, and insights
+into trends, processes, and procedures; highlights opportunities for consistency
+and efficiency; and reports the results of the reviews to individual team members,
+their leads and senior management and supports regulatory and audit
+requirements.
+● Square AU Compliance Analyst (“The Analystˮ):
+○ Reviews the PEP Watchlist alerts and/or manage escalations from the Third-Party
+Agents.
+● Square AUʼs Board (“The Boardˮ):
+○ Responsible for providing governance and oversight by ensuring Square AU
+implements an effective AML/CTF program, manages risks, and complies with
+reporting obligations.
+● Third-Party Agents:
+○ Agents from external vendors which Square may engage to undertake internal
+queue work.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+6
+
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+Square AU will monitor PEP relationships for unusual transactions, behavioural changes, or changes
+in the customerʼs risk profile that may require escalation or the application of enhanced due
+diligence measures.
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+Where required under the AML/CTF Act and AML/CTF Rules, records relating to customer due
+diligence, enhanced due diligence and transaction monitoring must be retained for at least 7 years.
+3.4. Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+● Square AU | Anti-Money Laundering & Counter-Terrorism Financing Policies
+7
+
+● Square AU | Enhanced Customer Due Diligence Program
+● Square AU | Watchlist Procedures
+● Square AU | PEP Watchlist Procedure - Outsourcing
+● Square AU | Enhanced Customer Due Diligence Review Procedures
+● Anti-Money Laundering and Counter-Terrorism Financing Act 2006
+● Anti-Money Laundering and Counter-Terrorism Financing Rules Instrument 2007 No. 1
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ying Li AML/CTF Creation First Issuance of Apr 27, 2020
+Compliance document
+Officer (previous version
+in Wiki)
+Lance Howard AML/CTF Immaterial C… Update for Aug 21, 2020
+Compliance onboarding Third
+Officer Party Vendor
+JING WANG Square AU Immaterial C… Update for Audit Dec 18, 2020
+Compliance Recommendation
+Program Manager s
+JING WANG Square AU Immaterial C… Annual Review of May 7, 2021
+Compliance Document
+Program Manager
+JING WANG Square AU Immaterial C… Annual Review of May 12, 2021
+Compliance Document -
+Program Manager Remove
+requirement to
+escalate to global
+CCO for high-risk
+PEP approval
+JING WANG Square AU Scheduled R… Annual Review of Nov 23, 2023
+Compliance Document -
+Program Manager remove Sanction
+as it will be
+Lance Howard Square AU CCO combine into
+8
+
+global sanction
+program
+JING WANG Square AU Scheduled R… Annual Review of Oct 24, 2024
+Compliance Document
+● Remove
+Program Manager
+requireme
+nt related
+to
+additional
+queue
+applied to
+medium
+risk PEPs
+● Update to
+new
+template
+JING WANG Square AU Scheduled R… Annual Review of Mar 24, 2026
+Regulatory Document and for
+AML/CTF
+Program Manager
+Reforms
+● Update
+Lance Howard Square AU CCO Material Cha… Mar 26, 2026
+program
+to reflect
+AML/CTF
+reforms
+● Update
+treatment
+about
+formal
+PEPs
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Financial Crimes
+Document Owner Square AU Regulatory Program Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+9

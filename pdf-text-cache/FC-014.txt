@@ -1,0 +1,1482 @@
+UK Merchant Due
+Diligence Program
+Clearpay Finance Limited
+July 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc.
+(“Block”) and on a need-to-know basis.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 2
+
+Confidential and Not for Distribution
+Table of Contents
+1. Definitions............................................................................................................................................................................................7
+Roles and Responsibilities...................................................................................................................................7
+2. Introduction.......................................................................................................................................................................................8
+3. Purpose.................................................................................................................................................................................................8
+4. Scope.....................................................................................................................................................................................................8
+5. Program Requirements.............................................................................................................................................................8
+5.1 Merchant Onboarding Requirements..................................................................................................................8
+5.1.1 Zero Day Onboarding (Simplified Onboarding)..................................................................................8
+ZDO Merchants...........................................................................................................................................................9
+Non-ZDO Merchants...............................................................................................................................................9
+ZDO Criteria...................................................................................................................................................................9
+Checks based on Merchant Type.........................................................................................................10
+● Legal Entity Checks...................................................................................................................................10
+● Sole Trader Checks.....................................................................................................................................10
+● Other ZDO Automated Checks (applicable to all merchants).....................................10
+● No links to existing merchants..........................................................................................................10
+● Fulfilment Timeline < 2 Weeks...........................................................................................................10
+● No Potential Politically Exposed Persons, Sanctions or Adverse Media Match.11
+● Merchant Vertical is Approved for ZDO........................................................................................11
+● Accepted Ecommerce Platform.......................................................................................................12
+ZDO Merchant Decline........................................................................................................................................12
+● ZDO Decline with Transactions.........................................................................................................12
+● ZDO Decline without Transactions.................................................................................................13
+5.1.2 Merchant Identification & Verification Requirements..................................................................13
+Determine Merchant Entity Type.................................................................................................................13
+Limited entities will have LTD, PLC, or LLP in their name and will match against a
+Creditsafe report that confirms their entity type.Verify Entity Type for Sole Traders,
+Partnerships, and Trusts.....................................................................................................................................14
+Verify Entity Type, Law and Constitution for LTD, PLC and LLP...............................................14
+Law and Constitution...................................................................................................................................15
+Names of Directors or Partners.............................................................................................................16
+Non-UK Merchants.................................................................................................................................................16
+Identify and Verify Beneficial Owners.......................................................................................................18
+Sole Traders.........................................................................................................................................................18
+Partnership..........................................................................................................................................................18
+Private Company (LTD)................................................................................................................................18
+Public Company (PLC).................................................................................................................................21
+Limited Partnership (LLP)..........................................................................................................................21
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 3
+
+Confidential and Not for Distribution
+Trusts.......................................................................................................................................................................22
+Difficulty establishing or verifying ownership and control........................................................24
+Discrepancies with Companies House....................................................................................................24
+Record Keeping.......................................................................................................................................................26
+Identity Verify Beneficial Owners.........................................................................................................................27
+Automated IDU Verification............................................................................................................................27
+Manual IDU Verification......................................................................................................................................27
+Onfido Verification (where IDU Refer or Fail).......................................................................................27
+Exceptions to the requirement to identity verify beneficial owners...................................28
+Verify Merchant Store Location (In-Store only)...................................................................................29
+5.1.3 Merchant Category Verification..................................................................................................................29
+Website Review........................................................................................................................................................29
+Compliance Restricted Category.................................................................................................................30
+Compliance Prohibited Category................................................................................................................30
+Record Keeping.......................................................................................................................................................30
+5.1.4 Bank Account Verification..............................................................................................................................30
+Bank Account Details..........................................................................................................................................30
+Bank Account Name............................................................................................................................................32
+Additional Bank Account (In-Store only)................................................................................................32
+Foreign Bank Accounts......................................................................................................................................32
+5.1.5 Sanctions, PEP & Adverse Media Screening.......................................................................................32
+Automated screening..........................................................................................................................................32
+Record keeping........................................................................................................................................................33
+Changes during verification............................................................................................................................33
+Record keeping........................................................................................................................................................33
+Complete Onboarding Checks......................................................................................................................34
+5.2 Changes after Onboarding.......................................................................................................................................34
+In-Store...................................................................................................................................................................................35
+Changes after Onboarding.......................................................................................................................................35
+In-Store...................................................................................................................................................................................36
+5.3 Sanctions, PEP and Adverse Media Screening............................................................................................37
+Politically Exposed Persons......................................................................................................................................37
+PEP Enhanced Due Diligence - Source of Wealth/Source of Funds (SoW/SoF)..................37
+Sanctioned Persons.......................................................................................................................................................38
+Adverse Media...................................................................................................................................................................38
+5.4 Transaction Monitoring................................................................................................................................................39
+5.5 Periodic Review.................................................................................................................................................................39
+Eligibility................................................................................................................................................................................39
+Periodic Review Process............................................................................................................................................40
+Merchant Identification & Verification.....................................................................................................40
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 4
+
+Confidential and Not for Distribution
+Merchant Category Verification...................................................................................................................40
+Sanctions, PEP and Adverse Media Screening..................................................................................40
+Activity Review...........................................................................................................................................................41
+Risk Assessment.......................................................................................................................................................41
+Complete Periodic Review...............................................................................................................................42
+Timing............................................................................................................................................................................42
+5.6 Risk Rating and Risk-based Controls.................................................................................................................42
+Low Risk.................................................................................................................................................................................43
+Medium Risk.......................................................................................................................................................................43
+High Risk...............................................................................................................................................................................44
+5.7 Out-of-Network Merchants.......................................................................................................................................45
+OON AML Controls.........................................................................................................................................................45
+6. Document Management......................................................................................................................................................46
+6.1 Document Owner............................................................................................................................................................46
+6.2 Review and Approval....................................................................................................................................................46
+7. Training..............................................................................................................................................................................................46
+8. Monitoring and Reporting....................................................................................................................................................47
+9. Exceptions........................................................................................................................................................................................47
+10. Record Retention......................................................................................................................................................................47
+11. Related Documentation or References......................................................................................................................47
+12. Revision and Approval History..........................................................................................................................................47
+13. Document Details.....................................................................................................................................................................50
+Schedule 1: Airline & Travel Merchants................................................................................................................................51
+Purpose............................................................................................................................................................................................51
+Additional Investigation Steps.........................................................................................................................................51
+Merchant Website Review.........................................................................................................................................51
+Check Professional Associations............................................................................................................................51
+Check Links to listed Sanctioned Countries...................................................................................................51
+Companies House...........................................................................................................................................................53
+Assess Business Operations.....................................................................................................................................53
+Appendix 1 - Trust Information Document....................................................................................................................54
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 5
+
+Confidential and Not for Distribution
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 6
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Program,, and includes
+interns, temporary workers, consultants, vendors, third-party providers
+and contractors.
+Roles and Responsibilities
+Role Responsibility
+MLRO The MLRO will provide assistance and support in implementing this
+Program across the organization and shall be responsible for establishing
+appropriate practices designed to ensure that Company operations reflect
+the Company’s commitment to compliance and that all employees are
+aware of that commitment and their individual responsibility.
+The MLRO is responsible for monitoring and reporting on compliance
+with this Program.. The MLRO may delegate to others the authority to
+adopt, develop, and implement procedures and reporting that support
+this Program..
+Counsel The Company’s legal counsel provides interpretative advice and counsel
+regarding the applicability and application of the requirements of this
+Program to the Company’s business and operational activities.
+Merchant These teams are responsible for executing the merchant due diligence in
+Onboarding and line with the requirements within this document.
+KYC/KYB
+Operations Teams
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 7
+
+Confidential and Not for Distribution
+2. Introduction
+This UK Merchant Due Diligence (“Program”) outlines Clearpay Finance Ltd.’s (“Clearpay’s”)
+approach to procedural requirements for merchant due diligence of customers who are
+merchants and partner with Clearpay in compliance with anti-money laundering regulations
+(including the Money Laundering Regulations 2017 or “MLRs”) and international sanctions
+regimes. The Compliance Lead/MLRO is responsible for management of this Program.
+3. Purpose
+Clearpay conducts business in compliance with all applicable laws and regulations. The
+purpose of this Program is to further Clearpay’s Merchant Due Diligence process by ensuring we
+carry out proper due diligence for merchant customers in compliance with anti-money
+laundering regulations (including the Money Laundering Regulations 2017) and international
+sanctions regimes.
+4. Scope
+This Program is established by Clearpay UK and is applicable to employees of Clearpay Finance
+Ltd and sets out the approach to Merchant Due Diligence.
+5. Program Requirements
+5.1 Merchant Onboarding Requirements
+5.1.1 Zero Day Onboarding (Simplified Onboarding)
+ZDO is a form of simplified due diligence for onboarding checks that changes the sequencing of
+merchant onboarding to permit qualifying low-risk merchants to technically integrate and
+begin transacting with Clearpay before all risk and compliance checks have been completed.
+When applying for Clearpay, a merchant is required to submit an enquiry (lead) via the online
+form. At this point, a number of automated checks (“ZDO Automated Checks”) take place based
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 8
+
+Confidential and Not for Distribution
+on the information provided by the merchant to determine whether they are eligible for ‘Zero
+Day Onboarding’ or ‘ZDO’.
+ZDO Merchants
+Merchants who are assessed as low-risk by passing all ZDO automated checks are permitted to
+transact. Thereafter, the remaining steps in this Merchant Onboarding section (“Merchant
+Onboarding Checks”) must be completed as normal.
+All settlements of funds owed to merchants for transactions processed before the Merchant
+Onboarding Checks completed successfully are paused until such time that the checks are
+completed successfully, after which point settlements can be initiated.
+Where a ZDO merchant does not pass all checks for the Merchant Onboarding Checks and
+more information is required from them to complete the review, their ability to transaction
+should be immediately paused until the information is obtained and the Merchant Onboarding
+Checks are complete.
+Where a ZDO merchant passes the ZDO Automated Checks and goes 14 calendar days without
+completing the Merchant Onboarding Checks (whether or not their transactions are paused),
+that ZDO merchant should be offboarded in accordance with the ZDO Merchant Decline
+section below.
+Where a merchant is rejected because they fail a check during the Merchant Onboarding
+Checks (and the instruction has been given by the relevant person following the escalation path
+for that failed check), they are offboarded in accordance with the ZDO Merchant Decline
+section below.
+Non-ZDO Merchants
+For merchants that do not qualify for ZDO, the Merchant Onboarding Checks are completed
+before that merchant is provided with integration credentials and allowed to transact with
+Clearpay.
+ZDO Criteria
+Criteria for a merchant to be eligible for ZDO (“ZDO Criteria”) are assessed using ZDO automated
+checks.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 9
+
+Confidential and Not for Distribution
+The ZDO criteria are maintained by Merchant Risk. All changes to ZDO Criteria other than to
+Accepted Ecommerce Platform should be approved by the MLRO.
+Checks based on Merchant Type
+● Legal Entity Checks
+The following checks must pass for a merchant which is a legal entity:
+○ The legal entity must be any one of:
+- Private Company (LTD);
+- Public Company (PLC); or
+- Limited Partnership (LLP).
+○ A positive match must be generated between the identity information provided by
+the merchant via the online form and a Creditsafe listing for that entity.
+○ The legal entity must be registered in the UK.
+● Sole Trader Checks
+If the merchant is a sole trader and not a legal entity, they must rely solely on a
+successful Electronic Know Your Customer (“E-KYC”) process to verify their identity.
+● Other ZDO Automated Checks (applicable to all merchants)
+○ Trading Time > 90 days: The website of the merchant must be checked to see if it has
+been active for at least 90 calendar days using WhoIs (https://who.is/).
+● No links to existing merchants
+The Companies House number (if relevant), email, store name, website URL, legal business
+name, Employer Identification Number (“EIN”), owner name and bank information are
+compared against all existing merchants in Salesforce (the platform that houses merchant due
+diligence information and documentation) to detect any link.
+● Fulfilment Timeline < 2 Weeks
+The fulfilment (delivery) timeline for goods/services purchased from the merchant, as provided
+by the merchant via the online form, is less than 2 weeks.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 10
+
+Confidential and Not for Distribution
+● No Potential Politically Exposed Persons, Sanctions or Adverse Media Match
+The merchant and ultimate beneficial owner (“UBO”) details provided by the merchant via the
+online form are screened against Politically Exposed Persons (“PEPs”), sanctioned persons, and
+adverse media entities using Lexis Nexis Bridger (Clearpay’s screening tool). Only if no potential
+matches are generated for the merchant and all UBOs does the merchant qualify for ZDO.
+● Merchant Vertical is Approved for ZDO
+Only merchant verticals (industries) that are assessed as low risk for money laundering and
+terrorism financing are permitted for ZDO.
+A merchant’s vertical as provided by the merchant via the online form must be on the list of
+verticals approved for UK ZDO
+○ Apparel
+○ Art (non-collectible)
+○ Beauty / Cosmetic Products
+○ Books
+○ Coaching / classes
+○ Education (Services and Courses)
+○ Eyewear
+○ Fitness/Gym equipment and accessories
+○ Food & Beverage (no alcohol, non-perishable)
+○ Food - Perishable (Including Grocery Stores, perishables & pre-packaged
+products E.g. YouFoodz.)
+○ Footwear
+○ Furniture
+○ Hobby Stores & Toys
+○ Home & Garden (non-furniture)
+○ Jewellery
+○ Jewelry
+○ Kids
+○ Office
+○ Outdoor
+○ Pets
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 11
+
+Confidential and Not for Distribution
+○ Restaurants, Bars and Cafes (including fast food)
+○ Service
+○ Services (non financial, non invasive)
+○ Sporting & Outdoor Goods (no weapons)
+○ Vitamins/Supplements
+● Accepted Ecommerce Platform
+The ecommerce platform of the merchant as provided by the merchant via the online form
+must be a platform supported by Clearpay.
+ZDO Merchant Decline
+Performed by Merchant Onboarding
+A different flow is followed for offboarding ZDO merchants with transactions compared with
+those without.
+ZDO Merchants are disabled (meaning they cannot transact) the moment that any additional
+information is required to complete the Merchant Onboarding Checks.
+● ZDO Decline with Transactions
+Where a ZDO merchant is declined following the Merchant Onboarding Checks and they have
+transactions with Clearpay currently unsettled the following process should be followed:
+1. The merchant is disabled in the Salesforce Admin Portal so that they can no longer
+process transactions;
+2. The Salesforce opportunity is moved to the stage Compliance Checks sub-stage
+Rejected;
+3. A dated note is recorded in the Salesforce opportunity that the merchant has been
+declined and for what reason;
+4. In the event that any AML concerns are identified during this process, these must be
+escalated to the MLRO.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 12
+
+Confidential and Not for Distribution
+5. In the event that no AML concerns, or with the approval from MLRO, any owed
+amounts under £10,000 may be paid out. For any amounts over £10,000 the MLRO
+must approve.
+● ZDO Decline without Transactions
+Where a ZDO merchant is declined following the Merchant Onboarding Checks and they do not
+have any transactions with Clearpay, the following process should be followed:
+1. The merchant is disabled in the Salesforce Admin Portal so that they can no longer
+process transactions;
+2. The Salesforce opportunity is moved to the stage Compliance Checks sub-stage
+Rejected;
+3. A dated note is recorded in the Salesforce opportunity that the merchant has been
+declined and for what reason.
+5.1.2 Merchant Identification & Verification Requirements
+Performed by Merchant Onboarding
+Determine Merchant Entity Type
+The following checks are performed by the Merchant Onboarding Team during onboarding
+depending on the entity type (i.e. whether and how the merchant is incorporated).
+A merchant can any of the following entities (although those in bold are more common):
+● Sole Trader (self-employed individual);
+● Partnership;
+● Private Company (LTD);
+● Public Company (PLC);
+● Trusts; or
+● Limited Liability Partnership (LLP).
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 13
+
+Confidential and Not for Distribution
+For a Sole Trader (self-employed individual) and Partnership entity types will be natural person,
+or multiple natural persons.
+Limited entities will have LTD, PLC, or LLP in their name and will match against a Creditsafe
+report that confirms their entity type.Verify Entity Type for Sole Traders, Partnerships, and Trusts
+Performed by Merchant Onboarding
+For a Sole Trader (self-employed individual) and Partnership entity types will be natural person,
+or multiple natural persons. Trusts will not match to a Creditsafe report, but will be established
+by a Trust Deed.
+The verification for these entity types will be completed by way of the verification of the identity
+of sole traders, partners in partnerships and by way of the controls for Trusts outlined later in
+Trusts.
+Verify Entity Type, Law and Constitution for LTD, PLC and LLP
+Performed by Merchant Onboarding
+This section only applies to the following entity types:
+● Private Company (LTD);
+● Public Company (PLC);
+● or Limited Partnership (LLP).
+MO should compare the following Salesforce data fields against the Creditsafe Report
+information:
+● Legal Business Name = Company Name
+● Business Street/City/Postcode = Registered office address
+● Company Number = Company Number
+Any Scottish-based LLPs should be referred to the MLRO for guidance due to heightened AML
+risk.
+Merchant Onboarding should verify the entity type and the country (and therefore law) to which
+the body corporate is subject by reviewing the Creditsafe Report’s “Country” and “Company
+Type” fields. This information within the CreditSafe report is obtained from Companies House for
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 14
+
+Confidential and Not for Distribution
+UK entities and for foreign merchants, the information is obtained from equivalent public
+registers within that jurisdiction.
+Law and Constitution
+MLR Reg 28(3)(b)(i) 28 requires Clearpay to take reasonable measures to determine and verify
+the merchant’s constitution.
+By verifying the entity types as a limited company or partnership Clearpay takes reasonable
+measures to determine and verify the constitution of the entity for the purpose of applying due
+diligence measures that rely on this information:
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 15
+
+Confidential and Not for Distribution
+● Limited companies and partnerships are owned and controlled by their members
+(shareholders and partners), and their ownership and control is indicated by the
+number of shares they control or their membership of the partnership;
+● Information about an entity's members and their corresponding ownership and control
+is contained within the Creditsafe report, enabling relevant due diligence controls to be
+applied.
+Names of Directors or Partners
+Merchant Onboarding should review the Creditsafe Report to confirm that the names of
+directors (or partners for LLPs) are present in the report. If not, MO should request from the
+merchant the names of the directors / partners of the company/LLP and record this in a note
+against the opportunity.
+If a Creditsafe Report is unavailable for the merchant for any reason or the information is
+missing from the report, MO should go to the UK Companies House Website and search for the
+company by company number or name and compare the same datapoints as above (name,
+address , and company number)
+If none of the three datapoints in the Creditsafe Report or Companies House match the
+information provided by the merchant, MO should ask the merchant to confirm the correct
+information.
+Where MO are unable to locate the company on Creditsafe or the UK Companies House
+Website, the merchant should be escalated to the UK AML Team Lead.
+Non-UK Merchants
+Performed by Merchant Onboarding
+In situations where a merchant applies to use Clearpay, Merchant Onboarding must verify if the
+Merchant has a UK-based legal entity in order to proceed. There are some exceptions to this
+rule, which are detailed below:
+Merchants who have signed a Global MSA (contract which covers all regions where
+Afterpay/Clearpay operates). In these situations, the merchant may be utilising an Australian,
+European, Chinese/Hong Kong or United States-based legal entity.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 16
+
+Confidential and Not for Distribution
+Outside of this, if the merchant does not have a UK-based entity, this must be escalated to
+KYC/KYB Operations and approved by the MLRO.
+If Clearpay is unable to apply any of the controls outlined in this program due to a merchant
+being established outside the UK or for any other reason, this must be referred to the UK MLRO
+for advice, review and approval before that merchant is onboarded.
+Performed by KYC/KYB Operations
+Upon receipt of an escalation from Merchant Onboarding of a merchant established outside the
+UK, KYC/KYB Operations must identify the country that the merchant is established in based on
+the following: :
+● For incorporated entities, the country of registration or principal place of business per
+the Creditsafe report;
+● For natural persons, their country of residency (passport)
+Once the country of establishment has been identified, the risk of the country should be
+ascertained in accordance with the Block Global Risk Rating Scorecard.
+A recommendation should be compiled by KYC/KYB Operations and sent to the MLRO for
+review and a decision. This recommendation should contain the risk rating of the jurisdiction
+the merchant is established in, any other factors relevant to the risk assessment of the
+merchant, any exemptions from the standard Merchant onboarding process required to
+onboard the merchant, and a proposed decision including whether the merchant should be
+considered high risk if approved.
+Any merchant established in a high risk jurisdiction should be rejected by the KYC/KYB
+Operations Team.
+All countries considered high risk third countries in accordance with Regulation 33(1)(b) of the
+Money Laundering Regulations 2017 are considered by the Block Global Geographic Risk
+Ratings Methodology & Program as high risk and therefore rejected in accordance with this
+program.
+Evidence of this decision and any additional controls or guidance should be recorded in
+Salesforce.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 17
+
+Confidential and Not for Distribution
+Identify and Verify Beneficial Owners
+A Beneficial Owner (also called an Ultimate Beneficial Owner “UBO”) of a merchant is a person
+who ultimately owns or controls (either directly or indirectly) the merchant. This person has to
+own or control a minimum of 25% of the merchant to qualify. Identification and verification
+requirements for UBOs differ by merchant type and are outlined below.
+Sole Traders
+In the case of sole trader merchants, the following requirements apply and must be followed by
+KYC/KYB Operations:
+● Sole Traders need to be over the age of 18 to qualify and their applications must be
+declined in the event that they are under 18 years old..
+● There should always be one Beneficial Owner who is acting as the merchant.
+Otherwise, they must be considered as a partnership, if unincorporated.
+● The Beneficial Owner must be named as the holder of the bank account. If not,
+enquiries should be made to the merchant to verify who is acting as the sole trader, and
+therefore who should be listed as both the Beneficial Owner and as the holder of the
+bank account.
+Partnership
+A business owned by two or more individuals who oversee the business operations and share
+profits and liabilities is referred to as a partnership.
+In these cases, there will be multiple Beneficial Owners, but no company information is available
+due to the absence of incorporation.
+The bank account provided must be verified to be in the name of at least one or more of the
+listed Beneficial Owners.
+Private Company (LTD)
+A Private Company (LTD) is typically owned by a small group of shareholders, often with
+restrictions on share transfers. Understanding this structure helps Clearpay identify the key
+individuals exerting control and ensures that these individuals are subject to appropriate due
+diligence checks.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 18
+
+Confidential and Not for Distribution
+In this case, there could be zero to four Beneficial Owners who own or control 25% or more of
+the company.
+A person directly owns or controls a company if they own shares in a company, or if they are
+operating as a sole trader (and therefore are acting as the merchant themselves).
+A person indirectly owns or controls a merchant if they hold shares in a company, and that
+company then in turn holds shares in the merchant. To work out the indirect control a person
+has through a series of companies, the shareholdings must be multiplied through the chain to
+get the resulting effective ownership and control.
+Example 1
+Mr X owns 40% of Company A that holds 30% of Company B.
+Effective control = 0.4 x 0.3 = 0.12 = 12% control
+Compounding Control
+However, wherever a person has effective control of equalling 50% or more of a company at any
+point in the chain of ownership and control, they should be treated as owning 100% of that
+company. This is because they have enough shares to control 100% of the voting rights of that
+company.
+Example 2
+Mr Y owns 51% of Company A that holds 25% of Company B.
+Effective control = 25% since Mr Y’s control of Company A is effectively 100% so 1 x 0.25 = 25%
+How to Verify for Private Limited Companies
+To verify the Beneficial Owners listed on Salesforce are correct, the names of each Beneficial
+Owner (1-4) will need to be matched against the Shareholders listed on the UK merchants
+Creditsafe Report (usually listed between pages 4-6 on the report).
+The scope of this verification includes Shareholders who have 25% (and above) of the company
+shares.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 19
+
+Confidential and Not for Distribution
+If there is missing information on Salesforce when compared to the Creditsafe Report, then the
+Date of Birth, Residential Address and copy of a government-issued ID for the missing
+individuals should be requested from the merchant in order to identify and verify these
+individuals based on the following steps.
+NB: For Australian merchants, the Beneficial Owners are listed under the ‘Directors’ section of
+the Creditsafe report.
+If sufficient Beneficial Owner information is not available through Creditsafe, then MO should
+refer to UK Companies House, looking at the Persons With Significant Control (via the ‘People’
+tab). Where a company is listed as a PWSC then MO should try to locate the PWSC register for
+that company in order to infer the effective control of any controller of that second company.
+On Companies House, we should only be concerned with those individuals who are listed as
+‘Active’.
+Match the Beneficial Owners submitted on the application to the 25%+ Beneficial Owners as
+identified above.
+Where Beneficial Owners do not match, enquiries should be made to the merchant to
+reconfirm who are the Beneficial Owners. If they reconfirm different Beneficial Owners to those
+identified by MO (either additional or missing), then this should be escalated to the AML Team
+Lead..
+What to do if there are no 25%+ controllers or owners
+In these cases, the merchant should provide us with the details of who ultimately controls the
+company: this will usually be a director or CEO.
+Their details should be listed as BO1 but the 25%+ box should be unchecked.
+If a Trust is identified as having a owning or controlling more than 25% of the company, this
+should be escalated to the MLRO ( Matt Wigens ) for review and approval.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 20
+
+Confidential and Not for Distribution
+Public Company (PLC)
+These company types are owned by shareholders who can freely trade their shares on a stock
+exchange. This type of company is subject to more stringent regulatory requirements, including
+higher standards of transparency.
+There are likely to be zero Beneficial Owners for PLCs and companies 100% ultimately owned
+by PLCs (however 25%+ controllers should be verified if provided by the merchant).
+To verify zero Beneficial Owners as informed by the merchant, after establishing the beneficial
+ownership structure ends in a PLC, verify that the PLC is on Stock Exchange by Googling the
+relevant entity, making sure to verify that the entity name / company number matches exactly
+and check top shareholders listed..
+Record that this check has been completed in the compliance notes of the opportunity.
+Where there are zero Beneficial Owners, the merchant should provide us with the details of who
+ultimately controls the company: this will usually be a director or CEO.
+Their details should be listed as BO1 but the 25%+ box should be unchecked.
+In scenarios where the applying merchant is owned by a PLC operating in a regulated market,
+there is no requirement to collect Beneficial Ownership information (see MLR 2017 s28(5) for
+confirmation). However you should seek MLRO approval in these circumstances to verify before
+relying on this exemption.
+Limited Partnership (LLP)
+A LLP is a business structure that includes at least one general partner (someone who manages
+the business and has full liability) and one or more limited partners (who do not participate in
+the day-to-day management, but have liability limited to their investment).
+There could be zero to four Beneficial Owners who own or control 25% or more of the limited
+liability partnership. This is similar to private limited companies, but rather than holding shares
+in a company those persons hold voting rights in the partnership.
+To verify the Beneficial Owners, this is a similar process to private limited companies. Using
+Companies House, compare the details entered for the Beneficial Owners in Salesforce against
+the Persons With Significant Control (via the ‘People’ tab).
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 21
+
+Confidential and Not for Distribution
+If information is missing in Salesforce when compared to Companies House, then the Date of
+Birth, Residential Address & copy of ID for the missing individuals should be requested in order
+to ID&V these individuals.
+Where there are zero Beneficial Owners, the merchant should provide us with the details of who
+ultimately controls the company: this will usually be a director or CEO.
+Their details should be listed as BO1 but the 25%+ box should be unchecked.
+Trusts
+A Trust is a legal arrangement where one party, known as the trustee, holds and manages assets
+for the benefit of another party, known as the beneficiary.
+Beneficial owners of a Trust are individuals or entities that ultimately benefit from or control the
+trust. This includes:
+Settlor: The individual who created the Trust and contributed to the initial assets
+Trustees: Individuals or entities with control over the administration of the Trust
+Beneficiaries: Individuals or entities entitled to benefit from the Trust assets
+Performed by Merchant Onboarding
+Where 25%+ BO is a trust and their annual GMV is under £1 million, the Merchant should be
+rejected.
+Where 25%+ BO is a trust, Merchant Onboarding collect the following info and documentation:
+1. Full name of trust
+2. Country of establishment
+3. Nature / type of trust
+4. Purpose of the trust
+5. Description of beneficiaries of the trust
+6. Name + DOB + Residential Address + ID Document of:
+a. All Settlor(s)
+b. All Trustee(s)
+c. All beneficiary(s) with 25%+ ownership of the Merchant
+7. Name of any protector or controller of the Trust
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 22
+
+Confidential and Not for Distribution
+8. Name and registration number of the lawyer who implemented the trust (if applicable)
+9. HM Revenue & Customs (HMRC) Trust Registration Service (TRS) registration number.1
+10. Copy of the Trust Deed from the merchant
+11. Certification from a Trustee or Director of the Trustee if an entity: “I Certify that on this
+day dd/mm/yy the beneficial ownership information provided is accurate and that the
+Trust Deed is a true and accurate copy of the trust deed.”
+a. Collect their professional registration (if applicable)
+If the Merchant is unable to provide any information or documentation request, Merchant
+Onboarding should obtain and record a reason for not providing this.
+Once complete, Merchant Onboarding should escalate to the MLRO or delegate.
+Performed by MLRO or delegate
+1. Review the Trust Deed to collect and verify the following information, recording it in a Trust
+Information Document.
+● Name of the Trust
+● Date of establishment
+● Names and details of the settlor(s)
+● Names and details of the trustee(s)
+● Names and details of the beneficiaries
+● Names of any protectors or controllers
+● Purpose and objectives of the Trust
+● Powers and duties of the Trustees
+● Any conditions or restrictions on the Trust
+● Provisions for adding or removing trustees or beneficiaries
+● Termination or dissolution clauses
+● Verify Law firm associated with Trust Deed (if applicable), verify they are registered with
+SRA
+Escalate to Product Counsel for assistance if it is difficult to obtain the information required
+from the Trust Deed
+1 https://www.legislation.gov.uk/uksi/2017/692/regulation/45
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 23
+
+Confidential and Not for Distribution
+2. Perform the Trust AML/CTF risk assessment, paying attention to red flags, and record
+this in the Trust Information Document (Appendix 1).
+3. Verify that BOs are correctly recorded in the Salesforce Opportunity. If there are now
+more than 4 BOs for the Merchant, then the additional BOs recorded in the Trust
+Information Document then these should be flagged to Merchant Onboarding and
+KYC/KYB Operations for them to complete Identity Verification (IDV) and screening.
+4. If the Merchant has more than 4 BOs and/or if they are deemed high risk, then the
+merchant should be added to Enhance Ongoing Monitoring on a frequency of at least
+quarterly with a note to ensure that all BOs are rescreened manually (if more than 4,
+since these will not be automatically screened as part of quarterly merchant screening).
+If a merchant is being added as a result of this requirement but is not assessed as High
+risk, then a note should be added to the Enhanced Ongoing Monitoring reason to
+indicate their non-High risk status.
+5. The Trust Information Document should be uploaded to the Salesforce Opportunity.
+6. Once these steps have all been completed, screening has been completed, and
+beneficial owners IDVed, the merchant can be approved, if within risk appetite.
+Difficulty establishing or verifying ownership and control
+Where the Merchant Onboarding Team have difficulty establishing or verifying ownership and
+control in line with this procedure, they must escalate the merchant to the MLRO for review and
+approval.
+Non-exhaustive examples of issues that may cause difficulty establishing or verifying ownership
+and control in line with this procedure:
+● Merchant ownership and control information is not present in Creditsafe Report;
+● Trust in ownership structure;
+● Complex ownership structure; or
+● Ownership structure incorporates entities in secrecy jurisdictions
+Discrepancies with Companies House
+If there are discrepancies between the beneficial owner information provided by merchants and
+what is shown on Companies House, it may be appropriate to report this information directly to
+Companies House. Regulation 30A(1) of the Money Laundering Regulations 2017, requires
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 24
+
+Confidential and Not for Distribution
+Clearpay to report any identified discrepancies to Companies House. This ensures Companies
+House can update their records and investigate any potential inaccuracies.
+When comparing information provided by the merchant to Companies House records, you may
+find discrepancies which may include difference in:
+● names ;
+● dates of birth;
+● Address; or
+● ownership percentages
+When any discrepancies are discovered, we must first assess the materiality of the discrepancies.
+Minor administrative errors may require simple clarification, while significant discrepancies
+could indicate potential risks of money laundering or inaccurate reporting.
+Examples of minor administrative errors:
+● Spelling mistakes: a name is spelled slightly differently
+● Typographical errors: a digit is incorrectly entered into the date of birth (e.g., 07/03/1983
+instead of 08/03/1983)
+● Address format differences;Common abbreviations
+● Minor ownership percentage rounding: slight rounding differences in ownership
+percentages (e.g., 25% vs. 25.1%)
+Examples of significant discrepancies:
+● Different names: completely different names listed for the same individual
+● Incorrect ownership percentages: Major discrepancies in ownership percentages or
+entirely different beneficial owners listed.
+● Mismatches dates of birth: dates of birth that do not match, indicating potentially
+different individuals
+● Unreported changes: changes in beneficial ownership that are not reported to
+Companies House, suggesting non-compliance or deliberate omission
+● Incorrect entry for nationality
+● Incorrect registration dates: an incorrect entry date the person became a registrable
+individual
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 25
+
+Confidential and Not for Distribution
+● Inconsistent addresses: addresses that do not match at all, indicating potential issues
+with the identity verification or false information
+● High-risk indicators: any discrepancies that involve high-risk jurisdictions, PEPs, or
+known associations with illicit activities
+If it is clear that the discrepancies are due to minor administrative errors, or there is evidence
+that recent changes have not yet been updated to Companies House (e.g. evidence of recently
+appointed company directors), then it would be appropriate to contact the merchant to clarify
+and resolve any discrepancies. This may result in requesting additional documentation or
+updates to compliance questionnaires.
+Any material discrepancies must be escalated to the MLRO for further review and a decision on
+how to proceed.
+If it has been agreed by the MLRO that a material discrepancy exists, then a report must be
+made to Companies House via the gov.uk website::
+https://www.gov.uk/guidance/report-a-discrepancy-about-a-beneficial-owner-on-the-psc-registe
+r-by-an-obliged-entity.
+If there is any suspicious activity, then a Suspicious Activity Report (“SAR”) must be raised using
+the usual process. It is important to note that a discrepancy report should not be used in place
+of a SAR and vice versa. There may be occasions where both will need to be submitted.
+Record Keeping
+All reports and other information relied upon to identify the beneficial owners of the merchant
+should be saved as attachments to the salesforce entity.
+Any additional controls or checks imposed by the MLRO upon review should be recorded by the
+MLRO in an auditable format in the Salesforce risk case or opportunity.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 26
+
+Confidential and Not for Distribution
+Identity Verify Beneficial Owners
+Verify the identity of each of the Beneficial Owners now listed in Salesforce using IDU.
+Automated IDU Verification
+If the Merchant is ZDO eligible, the IDU checks on all submitted Beneficial Owners will be
+conducted automatically and a score recorded against each Beneficial Owner as well as a
+unique Vendor ID which can be used to recall the check result in IDU.
+Manual IDU Verification
+1. Log into IDU
+2. Copy Compliance Verification case URL ID and paste this into the ‘Reference’ field in
+IDU.
+3. Enter the Forename, Surname & Date of Birth of the Beneficial Owner in the relevant
+fields.
+4. Enter the House Number & Postcode of the Beneficial Owner into the ‘Address’ Section
+and search for the Beneficial Owner address.
+5. Select the appropriate address if presented with multiple (in cases where it is a Flat
+Number, or if there are A, B, C etc versions of the same house number).
+6. Once you have this, select ’Submit’ at the bottom right corner of the page.
+a. If the result is a ‘Pass’, then record this result, along with the Salesforce reference
+number, into your notes.
+b. If the result is a ‘Refer’ or ‘Fail’ please defer to the copy of the ID submitted
+under ‘BO1 Gov. ID’ for example. You should download the ID to your desktop
+and upload it to the Merchant Onboarding iteration of Onfido and the follow the
+steps below
+Onfido Verification (where IDU Refer or Fail)
+1. Log into ‘Onfido (Merchant Onboarding’ via OKTA.
+2. Select ‘Checks’.
+3. Select ‘New Check’.
+4. Select ‘Document Report’.
+5. Select ‘Manual Upload’.
+6. Enter the First Name & Surname as it appears on the ID.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 27
+
+Confidential and Not for Distribution
+7. Under Document Report, select the corresponding ID that matches what you wish to
+upload.
+a. If uploading a Passport, you will only be asked to upload one image.
+b. If uploading a Drivers License, you will be asked for two images (front and back).
+However, in most cases, merchants only submit the front. Uploading the front of
+the Drivers Licence twice will not cause any issues.
+8. Once the images(s) have been uploaded, select ‘Process’ in the bottom right corner.
+The ID will now be processed. This can take anywhere between 30 seconds and 15 minutes. You
+will receive an email once the check has been completed to prompt you to check Onfido for the
+result.
+Onfido Results
+Clear: document has been passed.
+Consider: this will give reasons as ‘Suspected’ or ‘Rejected’ inside the report if it has not passed.
+On these occasions, if the only reason for the ‘Consider’ is due to the document being a scanned
+copy (under ‘Original Document Present’), and as long as all of the other data points have green
+ticks, this can be passed.
+NB: the ID copy has to be clear and include the whole ID. If the ID is blurred or if only part of the
+ID can be seen, this may influence the result.
+NB: All ID copies screened within Onfido must be in date. If an out of date ID copy has been
+provided, MO must reach out to the merchant to obtain an in-date valid copy of ID.
+When Beneficial Owner identity verification is complete
+When this is done, the “BOS Verified” checkbox should be ticked in Salesforce.
+Exceptions to the requirement to identity verify beneficial owners
+Any exception to identity verification of a beneficial owner should be approved by the MLRO.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 28
+
+Confidential and Not for Distribution
+Verify Merchant Store Location (In-Store only)
+For in-store merchants, additional steps are taken with the use of open source information to
+verify the physical location of a merchants store. The Merchant Onboarding Team should take
+reasonable steps, using open source information independent of the merchant, to verify the
+physical location of the merchants in-store locations.
+● Reasonable steps for verifying the in-store location can be:
+● Google Maps Street View of the address which verifies a shop front; OR
+● A business listing on Google Maps with public reviews which can be construed as
+genuine, lending legitimacy to the in-store location; OR
+● A Google Search result where the Merchant Trading Name & General Location provides
+a snapshot of the merchant listed with an address, coupled with Google Reviews which
+lend legitimacy to the in-store location.
+● If the merchants in-store location cannot be verified from the above sources, then the
+below document can be requested to verify the merchants association with the in-store
+location:
+● Utility Bill.
+NB: Requesting Lease Agreements from a merchant as a means of verification for an in-store
+location should only be requested as a last resort.
+5.1.3 Merchant Category Verification
+Performed by Merchant Onboarding
+Website Review
+Merchant Onboarding reviews the website URL provided by the Merchant to verify the
+merchant’s vertical or verticals (the type of goods and service that they sell) and the business
+characteristics from the categories defined in the Global Merchant Category Policy v1.8 - FINAL.
+Any change in merchant vertical should be reflected in the merchant’s due diligence file in
+Salesforce.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 29
+
+Confidential and Not for Distribution
+Compliance Restricted Category
+If the website review identifies that a merchant has a vertical or business attribute that is
+restricted by Compliance risk in accordance with the Global Merchant Category Policy then this
+should be escalated to the MLRO. The MLRO will then oversee risk assessment of that merchant
+and the application of any enhanced due diligence measures (if necessary) before approving or
+declining the merchant.
+Where the merchant is an airline or within the travel industry, the AML Team should be notified
+to complete the checks within Schedule 1: Airline & Travel Merchants before the merchant is
+escalated for review and approval.
+Compliance Prohibited Category
+If the website review identifies that a merchant has a vertical or business attribute that is
+prohibited by Compliance risk in accordance with the Global Merchant Category Policy then
+this should be rejected by the business.
+Any exemption to this must be approved by the MLRO.
+Record Keeping
+MLRO risk assessments, additional checks and MLRO approvals should be stored in an auditable
+format in the Salesforce risk case or opportunity.
+5.1.4 Bank Account Verification
+Performed by Merchant Onboarding
+Bank Account Details
+MO should validate that the bank account ‘Sort Code’ under ‘Bank Account Information’
+matches to a UK Bank by using one of the three listed websites:
+● https://www.fasterpayments.org.uk/sort-code-checker
+● https://bank-code.net/uk-sort-code
+● https://www.sortcodes.co.uk/sort-code-checker
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 30
+
+Confidential and Not for Distribution
+It is important to check all 3 if the sort code does not appear on one, as certain smaller
+institutions may not appear on one, but will appear on another.
+Once this has been confirmed as a UK Bank, ensure that dashes are input between digits 2-3 &
+4-5. Please also copy the bank name as it appears on the above websites and paste that into
+‘Bank Name’ under ‘Bank Account Information’. Then Save the changes.
+A screenshot of the bank details on the above websites must also be taken and saved to the
+‘Notes & Attachments’ section on the right hand column of Salesforce. This can be uploaded by
+dragging the image and dropping it onto the section, or by selecting ‘Upload Files’ from the
+drop-down arrow on this section.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 31
+
+Confidential and Not for Distribution
+Bank Account Name
+Next, check that the bank account name matches the legal name of the business (if the entity
+type is a company or limited partnership), the sole Beneficial Owner (for sole trader merchants),
+or one or multiple of the Beneficial Owners (for partnerships).
+If they do not match, enquiries should be made to the merchant to ensure that bank account
+listed is in the name of business, requesting different bank details from the merchant if
+necessary or (if the bank account reveals that the merchant has provided incorrect company
+information, correction of this information e.g. Sole Trader thinking they are a Private Company,
+or Private Company thinking they are a Public Company).
+Additional Bank Account (In-Store only)
+In some instances. the merchant may have a separate bank account associated with their
+in-store transactions. This account must be associated with the merchant's current legal entity
+for online transactions.
+Foreign Bank Accounts
+Any merchant providing non-UK bank account details for settlement must be escalated to the
+MLRO for review and approval.
+The reason for providing non-UK bank account details for settlement should be included in the
+escalation.
+5.1.5 Sanctions, PEP & Adverse Media Screening
+Performed by Merchant Onboarding
+Automated screening
+When a merchant submits an application through the Merchant Onboarding Portal, their Legal
+Name, Trading Name, and any provided Beneficial Owners are screened using a linked API
+service which connects Salesforce and Lexis Nexis Bridger.
+Within the merchant's Salesforce Opportunity, the ‘PEP/Sanction Screening Status’ records the
+result of this search:
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 32
+
+Confidential and Not for Distribution
+● No Matches: the ‘Compliance Screening Status’ will show ‘Accept - No Alerts’
+alongside the ‘Last Compliance Screening Date’.
+● Matches: the ‘Compliance Screening Status’ will show ‘Pending - Alert Generated’
+alongside the ‘Last Compliance Screening Date’.
+If all merchant KYC and beneficial owner information has been verified in line with this
+procedure and all screenings are Accept - No Alerts then this step is complete.
+If any Compliance Screening Status is Pending - Alert Generated then Merchant Onboarding
+must wait until the alert is worked by the KYC/KYB Operations Team and resolved to False
+Positive or True Match Accept before this step is complete.
+Record keeping
+Pending alerts can be viewed, and worked, in Lexis Nexis Bridger under the ‘UK Level 1
+Merchants’ queue. Each alert has a unique ‘Account ID’ which corresponds to the merchant's
+Salesforce account. This can be used to search for the relevant records in Salesforce.
+Changes during verification
+Where Merchant Onboarding update merchant legal name, merchant trading name, of any
+beneficial owner information during the verification steps outlined in this process, they must
+request the KYC/KYB Operations Team to manually screen the new information and confirm
+that the new information has returned False Positive or True Match Accept in line with
+Clearpay’s screening procedures before this step is complete.
+Record keeping
+Where the KYC/KYB Operations Team conducts manual screening, they must record evidence of
+these screenings and results in Salesforce against the relevant case or opportunity.
+Upon completion of the alert in Lexis Nexis Bridger in line with Clearpay’s screening procedures,,
+the ‘PEP/Sanction Screening Status’ should be updated in Salesforce to reflect the outcome, in
+the Opportunity section.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 33
+
+Confidential and Not for Distribution
+Complete Onboarding Checks
+To progress the opportunity to the next stage “Completed”, all of the Merchant Onboarding
+Checks outlined in the Merchant Onboarding section must be complete.
+If Rejected
+If the merchant fails one of the Compliance Checks, then the Sub Stage of the opportunity
+should be updated to “Rejected”.
+If the merchant fails one of the Risk Checks, then the Stage should be updated to “Declined”
+with the sub stage “Decided by Risk Team”.
+Any declined or rejected merchant must not be allowed to onboard, or must be offboarded
+in-line with the ZDO Merchant Decline instructions is permitted to transaction before Merchant
+Onboarding checks are complete in line with the Simplified Onboarding Checks (AKA Zero Day
+Onboarding) section.
+5.2 Changes after Onboarding
+Requests may be received from Merchant Admin from merchants requesting changes to their
+information. When this happens, all checks dependent on that datapoint must be re-performed
+before confirming with Merchant Admin that they are OK to proceed.
+NB: A change to Legal Entity will trigger a waterfall of re-checks on every other point related to
+the entity. For example: Verify Beneficial Owners checks, Bank Account Verification, Rescreening
+Escalation - Square Salesforce etc.
+NB: Rescreening Escalation - Square Salesforce will be required for all changes to any screen
+data point. The Merchant Admin Team will engage with the UK AML Team through a dedicated
+(and private) Slack channel to highlight the changes being requested by the merchant. The
+requested changes (Legal Name, Trading Name, Beneficial Owners) must be re-screened
+through Lexis Nexis Bridger by the UK AML Team and records attached to the Salesforce
+opportunity.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 34
+
+Confidential and Not for Distribution
+NB: If a merchant requests an updated bank account and provides an account not in the name
+of the legal entity, then this frequently triggers a Legal Entity change and all of the associated
+checks that flow from that.
+Changes may include, without limitation:
+● Legal Entity
+● Beneficial Owner
+● Beneficial Owner Address
+● Trading Name
+● Website Address
+In-Store
+If an existing online merchant is enabling in-store transactions, and providing that no
+information has changed between initial onboarding and in-store go live, then the below points
+are all that need to be verified:
+● Correct Vertical is in place;
+● Correct Approvals (if applicable) have been sought; and
+● Store Locations have been verified.
+NB: if a Merchant is adding a new bank account for in-store, this still needs to be verified. If an
+existing merchant is signing up for in-store using a different legal entity, or is a Partner (Adyen /
+Stripe) Merchant coming to us directly for in-store, this would still trigger full onboarding checks
+to be completed.
+Changes after Onboarding
+Requests may be received from Merchant Admin from merchants requesting changes to their
+information. When this happens, all checks dependent on that datapoint must be re-performed
+before confirming with Merchant Admin that they are OK to proceed.
+NB: A change to Legal Entity will trigger a waterfall of re-checks on every other point related to
+the entity. For example: Verify Beneficial Owners checks, Bank Account Verification, Rescreening
+Escalation - Square Salesforce etc.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 35
+
+Confidential and Not for Distribution
+NB: Rescreening Escalation - Square Salesforce will be required for all changes to any screen
+data point. The Merchant Admin Team will engage with the UK AML Team through a dedicated
+(and private) Slack channel to highlight the changes being requested by the merchant. The
+requested changes (Legal Name, Trading Name, Beneficial Owners) must be re-screened
+through Lexis Nexis Bridger by the UK AML Team and records attached to the Salesforce
+opportunity.
+NB: If a merchant requests an updated bank account and provides an account not in the name
+of the legal entity, then this frequently triggers a Legal Entity change and all of the associated
+checks that flow from that.
+Changes may include, without limitation:
+● Legal Entity
+● Beneficial Owner
+● Beneficial Owner Address
+● Trading Name
+● Website Address
+In-Store
+If an existing online merchant is enabling in-store transactions, and providing that no
+information has changed between initial onboarding and in-store go live, then the below points
+are all that need to be verified:
+● Correct Vertical is in place;
+● Correct Approvals (if applicable) have been sought; and
+● Store Locations have been verified.
+NB: if a Merchant is adding a new bank account for n-store, this still needs to be verified. If an
+existing merchant is signing up for in-store using a different legal entity, or is a Partner (Adyen /
+Stripe) Merchant coming to us directly for in-store, this would still trigger full onboarding checks
+to be completed.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 36
+
+Confidential and Not for Distribution
+5.3 Sanctions, PEP and Adverse Media Screening
+Performed by KYC/KYB Operations
+Politically Exposed Persons
+Clearpay implements risk-based procedures to determine whether a merchant or merchant
+UBO is a PEP or relative or close associate of a PEP (referred to as a PEP in the rest of this
+document), or a state owned entity.
+Merchants screened at onboarding and are re-screened once per quarter to identify any new
+PEP.
+Clearpay uses a third-party vendor called Lexis Nexis to screen the full name collected from an
+individual customer against PEP lists to determine whether they are a PEP and potential
+matches are reviewed manually by the KYC/KYB Operations team.
+All confirmed PEPs are reviewed and approved by the MLRO or MLRO delegate. The money
+laundering risk of each PEP customer is assessed on a case-by-case basis (taking into account
+factors such as their status as a domestic vs foreign PEP), and either:
+1. Approved without additional AML controls;
+2. Approved on the basis of additional AML controls; or
+3. Rejected as outside the risk appetite of Clearpay.
+All PEPs are subject to enhanced ongoing monitoring in line with the enhanced ongoing
+monitoring as outlined in the Clearpay UK Enhanced Ongoing Monitoring Procedure (Jun-2024)
+| Clearpay Finance Limited.
+PEP Enhanced Due Diligence - Source of Wealth/Source of Funds
+(SoW/SoF)
+The UK Money Laundering Regulations require that in respect of PEP customers, we must “take
+adequate measures to establish the source of wealth and source of funds which are involved in
+the proposed business relationship or transactions”, the FCA issued PEP guidance indicates that
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 37
+
+Confidential and Not for Distribution
+the SOF and SOW measures taken should be “relevant to the proposed business relationship or
+transaction”.
+Due to the nature of our relationship and products, merchants are the recipients of funds
+transferred by Clearpay, sourced from our operational reserves and owed to the merchant by
+Clearpay for sales processed through the Merchant Services (Direct). As such, we are able to
+document the SOF/SOW for funds involved in the relationship as being sourced from Clearpay
+itself and not the merchant who may have a PEP connection.
+Ongoing monitoring should identify any rare instances where this is not the case (e.g. an
+unusual manual bank transfer of funds back into Clearpay’s settlement account, outside of
+normal operations) in order to assess whether any further SOF/SOW analysis should be
+undertaken and whether this indicates a heightened PEP risk. This may lead to further EDD,
+additional controls and an assessment of whether the merchant relationship remains within
+appetite.
+Sanctioned Persons
+Clearpay uses a third-party vendor called Lexis Nexis to screen the merchant and merchant UBO
+details against applicable sanctions lists to determine whether they are sanctioned. Potential
+matches are reviewed manually by the KYC/KYB Operations team.
+Merchants are screened before onboarding and are re-screened once per quarter to identify any
+new sanctioned person as detailed in the Lexis Nexis - Process & Guide.
+If a person is confirmed to be a sanctioned person, they are not permitted as a customer of
+Clearpay or utilise Clearpay’s services and must be reported to the Office of Financial Sanctions
+Implementation.
+Adverse Media
+Clearpay uses a third-party vendor called Lexis Nexis to screen the merchant and merchant UBO
+details against instances of adverse media that may highlight heightened money laundering or
+terrorism financing risk.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 38
+
+Confidential and Not for Distribution
+All confirmed matches to adverse media are reviewed and approved by the MLRO or MLRO
+delegate. The money laundering risk of each merchant is assessed on a case-by-case basis
+(taking into account factors including the content of the adverse media hit), and either:
+1. Approved without additional AML controls;
+2. Approved on the basis of additional AML controls; or
+3. Rejected as outside the risk appetite of Clearpay.
+5.4 Transaction Monitoring
+All merchants are subject to ongoing monitoring of the transactions they undertake to detect
+and investigate unusual behaviour that could be indicative of ML/TF. Suspicions of ML/TF
+identified through transaction monitoring are reported to the UK FIU.
+Merchants who are identified as posing heightened ML/TF risk that falls short of suspicion are
+subject to enhanced monitoring on an ongoing basis as outlined in the Clearpay UK Enhanced
+Ongoing Monitoring Procedure (Jun-2024) | Clearpay Finance Limited.
+5.5 Periodic Review
+All merchants are subject to periodic review that includes:
+● review and verification of the merchant’s information to ensure it is kept up to date for
+the purpose of applying customer due diligence measures;
+● the reapplication of relevant customer due diligence measures and screening where
+underlying information has changed;
+● review of their historic activity to assess whether it is consistent with the merchant’s
+business and risk profile; and
+● revaluation of the merchant’s risk profile in light of the review and any changes.
+● This periodic review is conducted for all merchants every 5 years from the date their
+contract was signed.
+Eligibility
+Periodic review is conducted for low, medium, and high risk merchants.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 39
+
+Confidential and Not for Distribution
+Where a merchant has not transacted for 12+ months prior to the date they are due for periodic
+review, they are terminated and then disabled. They will not be allowed to transaction again
+without completing a periodic review or reapplying and onboarding.
+Periodic Review Process
+Merchant Identification & Verification
+Performed by Merchant Onboarding
+All steps described in the Onboarding > Merchant Identification & Verification section of this
+program are repeated, subject to the additional guidance below, including:
+● Verifying company information
+○ a new Creditsafe report or other approved evidence of company identity must
+be used to verify company information.
+● Verifying beneficial owners though ownership and control analysis
+○ a new Creditsafe report or other approved evidence of ownership and control
+must be used to verify beneficial owners.
+○ where these steps require MLRO review and approval, these should be sought
+and recorded in-line with the process.
+● Identity verifying beneficial owners (existing and any newly identified ones)
+● Verify Merchant Store Location (In-Store only)
+Merchant Category Verification
+Performed by Merchant Onboarding
+All steps described in the Onboarding > Merchant Category Verification section of this program
+are repeated.
+Any merchant requiring Compliance Risk approval in accordance with the Global Merchant
+Category Policy must be re-approved following the application of any enhanced due diligence
+measures (if necessary), even if they were approved at Onboarding.
+Sanctions, PEP and Adverse Media Screening
+Performed by Merchant Onboarding
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 40
+
+Confidential and Not for Distribution
+If there has been a change to any of the following data fields during Merchant Identification &
+Verification, they must be raised to the AML Team to perform Sanctions, PEP and Adverse Media
+Screening and completed before periodic review is deemed complete:
+● Merchant
+○ Merchant legal name
+○ Merchant trading name
+● Beneficial Owners (UBO 1-4):
+○ Name
+○ Date of birth
+○ Residential address
+Performed by KYC/KYB Operations
+Screening is completed for any new or changed Merchant or UBO information and record
+completion of this screening as False Positive or True Match Accept in Salesforce to complete
+this step. Evidence of these screenings and results is saved in Salesforce against the relevant
+case or opportunity.
+Details of these steps are described in the Clearpay UK Merchant Periodic Review Procedure v1
+(May-2024) | Clearpay Finance Limited
+Activity Review
+Performed by KYC/KYB Operations
+The merchant’s historic activity is reviewed to determine if it is usual or consistent with the
+merchant’s business and risk profile. Evidence of this review is recorded within the AML case.
+Details of these steps are described in the Clearpay UK Merchant Periodic Review Procedure.
+Risk Assessment
+Performed by KYC/KYB Operations
+Following the competition of prior steps, the merchant is risk assessed against the risk criteria
+for Clearpay’s risk rating methodology for merchants, and the appropriate risk-based control
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 41
+
+Confidential and Not for Distribution
+applied. Evidence of this assessment is recorded within the AML case, and the merchant is
+added or removed from the High Risk GB accounts register.
+Details of these steps are described in the Details of these steps are described in the Clearpay
+UK Merchant Periodic Review Procedure v1 (May-2024) | Clearpay Finance Limited
+Complete Periodic Review
+Performed by KYC/KYB Operations
+Completion of the periodic review is recorded in the Salesforce case.
+The target for completion of each periodic review is 45 calendar days.
+Timing
+Eligible merchants are given 14 calendar days to respond to any request for information, after
+which they should be escalated to the MLRO or suspended so they are unable to transact.
+Any eligible merchant who has not successfully completed periodic review after being due for at
+least 60 days must be escalated to the MLRO.
+5.6 Risk Rating and Risk-based Controls
+The money laundering and terrorist financing risk of merchants is categorised as follows:
+Risk Criteria Risk
+Meets ZDO Criteria at Onboarding* Low
+Does not meet ZDO criteria at onboarding and no high risk trigger
+present Medium
+PEP High*
+PEP UBO High
+Adverse Media evaluated as High Risk High
+Merchant Category evaluated as High Risk by MLRO upon escalation High
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 42
+
+Confidential and Not for Distribution
+Merchant evaluated as High Risk by MLRO due to complex ownership
+structure upon escalation High
+Merchant established in a High Risk Country** High
+Unusual Activity*** High
+*Where a merchant meets a high risk criteria, they are considered high risk irrespective of
+previously meeting the ZDO Criteria.
+**High risk third countries include all high-risk third countries for the purpose of the MLR Reg
+33(1)(b)
+**The unusual activity risk criteria incorporates all circumstances where a merchant has been
+flagging and investigated for unusual activity (whether resulting from an unusual activity report,
+transaction monitoring alert, tip-off from law enforcement, or any other source) and then that
+merchant has been retained following investigation but the investigator has identified
+heightened money laundering or terrorism financing risk.
+Low Risk
+Low risk merchants are subject to:
+● Zero Day Onboarding (simplified onboarding checks);
+● Sanctions, PEP and Adverse Media Screening;
+● Transaction Monitoring; and
+● Periodic review on a 5 years cadence
+Medium Risk
+Medium risk merchants are subject to:
+● Standard onboarding checks (all Merchant Onboarding Checks are completed before
+the merchant is permitted to transact);
+● Sanctions, PEP and Adverse Media Screening;
+● Transaction Monitoring; and
+● Periodic review on a 5 years cadence
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 43
+
+Confidential and Not for Distribution
+High Risk
+High risk merchants are subject to:
+● Standard onboarding checks (all Merchant Onboarding Checks are completed before
+the merchant is permitted to transact);
+● Sanctions, PEP and Adverse Media Screening;
+● 4-eye check of any PEP or sanctions true match detected during screening;
+● Transaction Monitoring;
+● Periodic review on a 5 years cadence;
+● Enhanced controls determined by the MLRO to mitigate the risk posed by:
+○ a merchant in a Compliance Restricted Category (if applicable);
+○ a merchant with a complex ownership structure (if applicable);
+● MLRO approval;
+● Initial risk assessment to determine an initial review period of 90, 180 or 365 days for
+Enhanced Ongoing Monitoring; and
+● Enhanced ongoing monitoring, which includes upon the lapse of each review period:
+○ revaluation of the risk of the merchant to determine change in review period or
+risk removal of merchant from enhanced ongoing monitoring if no longer High
+risk;
+○ review and 4-eye check of any merchant identity or beneficial owner information
+changes during the review period; and
+○ holistic review of merchant transactional activity; and
+○ appropriate measures to establish source of funds and source of wealth*
+*Clearpay always possesses knowledge of the source of funds for all funds processed by the
+merchant since all funds originate from purchases by consumers at the merchant site. Source
+of wealth is not relevant in the context since funds processed for the merchant do not originate
+from the merchant’s wealth.
+See the Clearpay UK Enhanced Ongoing Monitoring Procedure v1 (Mar-2024) | Clearpay Fin…
+for details of Clearpay’s enhanced ongoing monitoring.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 44
+
+Confidential and Not for Distribution
+5.7 Out-of-Network Merchants
+In addition to standard merchants that Clearpay onboards as customers, Clearpay also facilitates
+BNPL payments to merchants who are out of Clearpay’s network and with whom Clearpay does
+not have a contractual relationship. This is facilitated via the Single Use Payment (“SUP”)
+product, whereby virtual card details are used to facilitate Clearpay’s payment to the
+out-of-network (“OON”) merchant via their standard online checkout flow.
+These OON merchants are not Clearpay’s customers for the purpose of the Money Laundering
+Regulations. Nevertheless, following a product risk assessment several controls are maintained
+to mitigate the particular AML risk opposed by this service and ensure that Clearpay’s residual
+money laundering risk remains “Low”.
+This section outlines the relevant AML controls. The full onboarding process including non-AML
+controls is outlined in this Notion page.
+OON AML Controls
+Performed by KYC/KYB Operations Team
+Merchant Legal Entity & Trading Name are screened for Sanctions & Adverse Media by the UK
+Compliance Team before approval is given to proceed. Screening configuration for Legal Entity
+& Trading Name of OON Merchants must match that for standard merchants.
+Website Reviews are conducted by Merchant Onboarding to identify that the following items
+are in line with the Afterpay Global Merchant Category Policy, and flag to relevant risk approvers
+including Compliance for compliance-restricted and prohibited verticals, and business
+attributes.
+The KYC/KYB Operations Team will manually upload regular files with SUP Merchant data into
+EverC to conduct Website Screening, with the exception of Marketplace merchants (due to an
+EverC product limitation), who will be AML risk-assessed and approved on the basis of no
+website monitoring.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 45
+
+Confidential and Not for Distribution
+The KYC/KYB Operations Team must then consider the ML/TF risk posed by the merchant given
+the different controls in place for OON merchants compared with standard merchants The
+salient risks to consider are as follows :
+1. Consumer acquires products or services that are then used in connection with terrorist
+activities or events (e.g. transportation, accommodation, etc);
+2. Consumer uses products or services to purchase goods that are either shipped or
+exported overseas to terrorist organisations;
+3. Merchants operating in higher risk industries (e.g. gambling, cash-based industries) use
+Clearpay merchant facilities to move proceeds of crime; and
+4. Merchant uses Clearpay merchant facilities to sell illegal goods, or provide prohibited
+goods to consumers.
+If an OON merchant is considered high risk, MLRO or delegate approval to be recorded in JIRA
+(AMO) and reflected in UK Affiliate Tracker [MASTER]. Otherwise the KYC/KYB Operations Team
+may approve.
+6. Document Management
+6.1 Document Owner
+This document is owned by the MLRO.
+6.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix as outlined in Block’s Compliance
+Policy on Policies.
+7. Training
+All relevant personnel will receive training at least annually covering applicable requirements
+and guidance to implement this Program effectively. All training activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 46
+
+Confidential and Not for Distribution
+8. Monitoring and Reporting
+On an ongoing basis, the Document Owner and/or their designee will monitor Program related
+activities to evaluate adherence to the Program and determine whether outputs adhere to
+established objectives.
+9. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions
+to this Program. Program exception requests must be documented in writing, include a reason
+for a request, and provide a description of the controls that the Company will implement to
+mitigate risks associated with the exception. Any approved exceptions must be documented in
+writing and retained with recordkeeping requirements. Any approved exceptions or exemptions
+should be submitted to the Policy Governance Team at go/policyhelp. The Document Owner
+and/or designee will inform Compliance Leadership and applicable committees, as needed, of
+exceptions.
+10. Record Retention
+Clearpay will maintain records of this Program in accordance with Block’s document retention
+guidelines.
+11. Related Documentation or References
+Related Documents:
+Related Policy Clearpay UK AML/CTF Policy
+12. Revision and Approval History
+Version Approver Title Type Description Date
+1.0 Anu Putrevu Creation V1 Creation of SOP. 15/10/2020
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 47
+
+Confidential and Not for Distribution
+1.1 Anu Putrevu Immaterial… V1.1 Updates to content
+based on changes in
+process.
+2.0 - Immaterial… V2.0 Facilitate transfer to 01/06/2021
+flow to Operations.
+2.1 - V2.1 Addition of ZDO flow. 07/12/2021
+2.2 Material C… V2.2 Addition of in-store 09/03/2022
+AML check
+2.3 Immaterial… V2.3 Content update to 27/04/2022
+reflect ZDO, automated
+checks and format
+updates.
+2.4 Matt Wigens Compliance Immaterial… V2.4 Resequencing of 29/09/2022
+Lead/MLRO bank account verification
+for all merchants.
+2.5 Matt Wigens Compliance Material C… V2.5 Addition of AML CTF 26/04/2023
+Lead/MLRO controls for OON
+merchants.
+2.6 Matt Wigens Compliance Material C… V2.6 Incorporation of 16/05/2023
+Lead/MLRO travel merchant
+additional due diligence.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 48
+
+Confidential and Not for Distribution
+3.0 Matt Wigens Compliance Material C… V3 Issued as an expanded 28/03/2024
+Lead/MLRO Merchant Due Diligence
+Procedure. Expanded to
+describe all AML due
+diligence controls. Added
+explanation of risk
+assessment and risk
+based controls.
+3.1 Matt Wigens Compliance Material C… V3.1 Addition of merchant 13/05/2024
+Lead/MLRO periodic review
+3.2 Matt Wigens Compliance Material C… V3.2 Addition of (i) steps 25/06/2024
+Lead/MLRO for assessing and
+reporting merchant
+discrepancies to
+Companies House.
+Steps to determine
+merchant subject law (ii)
+steps to identify and
+assess merchants
+associated with high-risk
+countries (iii) customer
+risk rating methodology
+(iv) for validating
+SoW/SoF.
+3.3 Matt Wigens Compliance Material C… V3.3 Updates to 30/08/2024
+Lead/MLRO merchant identification
+and verification by entity
+type, controls for trusts,
+and controls for non-UK
+merchants, and
+document control.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 49
+
+Confidential and Not for Distribution
+3.4 Matt Wigens Compliance Material C… V3.4 Updates to 07/15/2025
+Lead/MLRO SOF/SOW for merchants,
+SUP merchant risk
+assessment and approval.
+13. Document Details
+Business Clearpay
+Scope Regional [United Kingdom]
+Compliance Domain Anti-Financial Crimes
+Document Owner MLRO
+Last Approval Date 15 July 2025
+Effective Date 15 July 2025
+Approved By MLRO
+Document Review Schedule Annually [August 2026]
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 50
+
+Confidential and Not for Distribution
+Schedule 1: Airline & Travel Merchants
+Purpose
+The purpose of this schedule is to outline the additional checks to be performed by the AML Team upon airline and
+travel merchants before submission to the MLRO for review and approval.
+Additional Investigation Steps
+Performed by KYC/KYB Operations Team
+Merchant Website Review
+● Review the merchant website and merchant portal to look for eligibility of products and services offered by
+the business. Check the quality of the website and look at customer testimonials and reviews.
+● Screenshots of the merchant website showing their qualities needed to be included.
+● Write a short paragraph outlining the business model / goods and services offered by the merchant, along
+with any notable information that builds credibility or any red flags detected.
+Example:
+“Webjet searches through open sources confirms the legitimacy of the business. The merchant has fallen within the
+category code Travel Agencies and Tour Operators as per Salesforce. Based on a review of the website, the merchant is
+correctly labelled. A review of the website shows the website is good quality and shows to provide legitimate products.”
+Check Professional Associations
+● Check and include which licensing they have with professional associations such as the International Air
+Transport Association (IATA) on the EDD. This information can usually be found on the merchant website.
+● The IATA Members List can be found here.
+● For example 'Webjet' is a member of IATA, having met strict financial guidelines and other travel agency
+related qualifications to permit electronic issuance of airline tickets. (https://www.webjet.com.au/about/)'
+Check Links to listed Sanctioned Countries
+Airline and Travel merchants may be involved with travel to any country or location listed as comprehensively sanctioned
+according to the Block Global Risk Rating Scorecard .
+This includes the following locations (but always check the scorecard):
+● Cuba
+● Iran
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 51
+
+Confidential and Not for Distribution
+● North Korea
+● Syria
+● Crimea
+● Luhansk
+● Donetsk
+Visit the merchants website and use the flight search tool to determine if any of the above sanctioned countries appear
+to be serviced by the merchant (use major hubs to search such as Singapore, Dubai, London, Sydney & Los Angeles).
+Screenshots should be taken.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 52
+
+Confidential and Not for Distribution
+Companies House
+Confirmation should be taken from Companies House that the legal entity associated with the merchant is not only
+legitimate but also active.
+Screenshots should be taken to confirm this.
+Assess Business Operations
+The analyst must use the merchant website and open sources to confirm office locations, ensuring that they are not
+located in a country or location listed as comprehensively sanctioned according to the Block Global Risk Rating
+Scorecard 2023 . Search through the offices and operating countries on the website, this can be commonly found in the
+footer of a website or google ‘(Merchant Name) Offices’.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 53
+
+Confidential and Not for Distribution
+Appendix 1 - Trust Information Document
+Section Details
+Trust Identification
+Trust Name [Full Legal Name]
+Date of Establishment [Date]
+Jurisdiction [Jurisdiction]
+Trust Type [Trust Type]
+Law Firm who prepared Trust [Full Legal Name of Law Firm]
+Deed (where relevant)
+Solicitor Regulation Authority [SRA number]
+Number of Lawyer who
+prepared Trust Deed (where
+relevant)
+Settlor Details
+All Settlor(s) Name + DOB + [Settlor(s) Name + DOB + Residential Address]
+Residential Address
+Trustee Details
+All Trustee(s) Name + DOB + [All Trustee(s) Name + DOB + Residential Address]
+Residential Address
+Powers and Duties [Summary of Powers and Duties]
+Beneficiary Details
+Beneficiary(s) Name + DOB + [Description of beneficiaries]
+Residential Address
+[For all beneficiary(s) with 25%+ ownership of the Merchant: Name
++ Date of Birth + Residential Address]
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 54
+
+Confidential and Not for Distribution
+Beneficiary Rights [Summary of Rights and Entitlements]
+Protector Details (not Beneficial Owners unless indicated)
+Protector Names [Full Name(s)]
+Powers and Duties [Summary of Powers and Duties including if this constitutes
+‘control’ and therefore the Protectors should be considered
+Beneficial Owners]
+Beneficial Owner? [YES/NO]
+If YES, THEN list DOB + [DOB + Residential Address]
+Residential Address
+All Settlors, Trustees, and Beneficiaries and Protectors (if deemed Beneficial owners) must be ID
+verified and Screened as Beneficial Owners in line with Clearpay’s Merchant Due Diligence
+Program.
+Trust Purpose and Objectives
+Purpose [Stated Purpose]
+Activities [Specific Activities]
+Trust Assets
+Initial Assets [Details of Initial Assets]
+Additional Assets [Provisions for Additional Assets]
+Provisions and Conditions
+Conditions [Specific Conditions and Restrictions]
+Termination Clauses [Termination or Dissolution Clauses]
+Amendment Provisions [Provisions for Amending the Trust Deed]
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 55
+
+Confidential and Not for Distribution
+AML Risk Assessment of Trust
+Description of assessment,
+including any red flags
+identified.
+Clearpay UK Merchant Due Diligence Program | Clearpay Finance Ltd. 56

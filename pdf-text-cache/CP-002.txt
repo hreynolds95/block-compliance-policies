@@ -1,0 +1,312 @@
+Canada Complaint Policy
+Afterpay Canada Ltd.
+December 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. (“Block”)
+and on a need-to-know basis.
+Canada Complaint Policy | Afterpay Canada Ltd.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+1. Definitions 4
+2. Introduction 4
+3. Purpose 4
+4. Scope 5
+5. Policy Requirements 5
+5.1 Managing Complaints (Regional Procedures) 5
+5.2 Managing Complaints (Guiding Principles) 5
+5.3 Managing Complaints (Written Responses) 6
+5.4 Timeframes 6
+5.5 Complaint Tier(s) 6
+5.6 Record Retention 7
+5.7 External Dispute 7
+5.8 Legal Instruments 8
+6. Roles and Responsibilities 9
+7. Document Management 10
+7.1 Document Owner 10
+7.2 Review and Approval 10
+8. Training 10
+9. Monitoring and Reporting 10
+10. Exceptions 11
+11. Record Retention 11
+12. Related Documentation or References 11
+13. Revision and Approval History 11
+14. Document Details 12
+Canada Complaint Policy | Afterpay Canada Ltd.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+also referred as operations and/or subsidiaries covered by this Policy, and includes
+Staff or Employees interns, temporary workers, consultants, vendors, third-party providers
+and contractors.
+Complaint An expression of dissatisfaction made to Afterpay CA, related to its
+product, service, staff or the handling of the complaint, where a response
+or resolution is explicitly or implicitly expected or legally required.
+Customer (also An individual who utilises, or seeks to utilise, Afterpay CA’s ‘buy now pay
+referred as later products or services.’.
+Consumer for the
+purpose of this
+Policy)
+Inquiry A communication (oral or written) that includes general questions,
+service requests or technical issues that do not have sentiments of
+dissatisfaction or grievances. Inquiries are not identified and logged as a
+Complaints and are handled through a distinct routing process
+according to relevant policies and procedures.
+Roles and Responsibilities
+Role Responsibility
+Head of The Head of Compliance, Afterpay CA will provide assistance and support
+Compliance, in implementing this Policy across Afterpay CA, shall be responsible for
+Afterpay CA & establishing appropriate practices designed to ensure that Afterpay CA’s
+Canada Complaint Policy | Afterpay Canada Ltd.
+4
+
+Confidential and Not for Distribution
+Role Responsibility
+Money Laundering operations reflect its commitment to compliance and to ensure that all
+Reporting Officer Employees are aware of that commitment and their individual
+(“MLRO”) responsibility.
+The Head of Compliance, Afterpay CA is responsible for monitoring and
+reporting on compliance with this Policy. The Head of Compliance,
+Afterpay CA may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+The MLRO (also referred as the AML Compliance Officer) is the individual
+appointed to be responsible for the implementation, and oversight of,
+Afterpay CA’s compliance program.
+Compliance The Compliance Program Manager, Afterpay CA provides guidance and
+Program Manager, oversight on the applicability and implementation of this Policy to
+Afterpay CA Afterpay CA’s business and operational activities, ensuring that all
+relevant requirements are appropriately addressed and integrated into
+day-to-day operations.
+Customer Service Operations Staff Members / Employees of the business unit responsible
+Team or for the intake, identification, management, and reporting of Consumer
+Representative Protection risk concerns, including functions such as Complaints on
+behalf of Afterpay Canada.
+Canada Complaint Policy | Afterpay Canada Ltd.
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Complaint Policy (the “Policy”) outlines Afterpay Canada Ltd.’s (“Afterpay CA”, “the Company”)
+approach to managing complaints. The purpose of this Policy is to further Block’s Global Complaint
+Policy (“Block’s policy”) and Block’s Global Complaint Program by providing for applicable Canadian
+complaint requirements to ensure Afterpay CA’s compliance.The Head of Compliance, Afterpay CA is
+responsible for management of this Policy.
+2. Purpose
+In addition to aligning with Block’s Policy, this Policy ensures that Afterpay CA’s complaint handling
+processes comply with all local laws and regulations in Canada, where the Afterpay product is
+offered. This Policy should be read together with the requirements set out in Afterpay’s Complaints
+Handling Standard Operating Procedure (“SOP”).
+The objective of the Policy is to ensure that Afterpay CA establishes and adheres to a consistent
+process for handling complaints. This involves effectively investigating, addressing, tracking,
+managing, and responding to Customer complaints, as well as overseeing and monitoring
+complaint trends to identify training needs. Additionally, the Policy sets country-specific
+expectations that exceed those of the Block Policy and require periodic reporting to Afterpay CA’s
+bank partner(s). This Policy applies to all complaints related to products offered under the Afterpay
+brand in Canada but does not cover routine customer inquiries about limits, features, or their
+Afterpay account, nor does it apply to other products offered by Block Inc.
+3. Scope
+This Policy is established by Afterpay CA and is applicable across all Afterpay CA business lines..
+Afterpay CA follows all definitions, timeframes, and expectations as outlined in Block’s Policy and
+Program. If Canada or a banking partner has stricter requirements than the Block Policy and
+Canada Complaint Policy | Afterpay Canada Ltd.
+6
+
+Confidential and Not for Distribution
+Program, Afterpay CA will follow the stricter standard to ensure compliance with Canadian
+regulations and banking partner expectations.
+4. Policy Requirements
+5.1 Managing Complaints (Regional Procedures)
+Afterpay’s Complaints Handling Procedure will ensure:
+● Complaints raised in the first instance will be handled by a representative from a
+customer service team; and
+● A customer service representative may escalate complaints to an escalations team where
+relevant.
+5.2 Managing Complaints (Guiding Principles)
+When dealing with complaints, Afterpay CA must:
+● Identify itself, record complaint details clearly, and determine what the Customer wants;
+● Confirm the details received from the Customer;
+● Empathize with the customer and deal with all Customers in a sensitive and courteous
+manner, taking extra care where Afterpay CA identifies instances of Customer
+vulnerability; and
+● Attempt to resolve the complaint as soon as possible.
+5.3 Managing Complaints (Written Responses)
+Afterpay CA aims to resolve a customer complaint within 15 business days and may be required to
+provide certain written responses to complaints according to local regulations.
+5.4 Timeframes
+Afterpay acknowledges all complaints within 5 business days and provides an initial response within
+the same timeframe. Additionally, Afterpay makes every effort to resolve customer complaints within
+15 business days.
+Canada Complaint Policy | Afterpay Canada Ltd.
+7
+
+Confidential and Not for Distribution
+5.5 Complaint Tier(s)
+Complaint Tier Description
+● Source of the complaint or correspondence is a Government
+Official, Government Attorney, or Attorney representing
+customer;
+● Source of the complaint is a Regulator, Complaint Authority, or
+Consumer Advocacy Agency;
+● Complaint sent to the legal entity for the business unit, board
+Tier 1
+member, CEO/Executive, or Senior Leader;
+(High Risk)
+● Complaint alleges violation of law or regulation, including
+privacy violations;
+● Complaint alleges IP infringement;
+● Complaint alleges Unfair Treatment; and
+● Complaint presents a reputational, systematic risk, high risk, or
+highly complex issue requiring specialized review.1
+● Complaint is a reopened complaint (same or related issue to a
+Tier 2
+prior complaint); and
+(Medium Risk)
+● Complaints escalated to a superior.
+Tier 3 ● Complaints that do not require escalation or specialized
+(Low Risk) support to close.
+5.7 External Dispute
+Afterpay CA customers have the right to lodge a complaint with any relevant consumer agency or
+regulatory body, including but not limited to:
+1 Specialized Review within the context of the Program will be applicable to complaints in which an
+escalated support or specialized knowledge (Legal, Compliance, Risk) is required to properly respond to
+or resolve the complaint.
+Canada Complaint Policy | Afterpay Canada Ltd.
+8
+
+Confidential and Not for Distribution
+● Better Business Bureau (“BBB”):
+○ Customers can submit complaints to the BBB, which is a non-profit organization
+focused on advancing marketplace trust by setting standards for ethical business
+behavior and resolving disputes between businesses and consumers.
+● Consumer Protection BC (“CPBC”):
+○ The CPBC is responsible for enforcing consumer protection laws in British
+Columbia. Customers can file complaints related to consumer transactions, unfair
+business practices, and other consumer issues.
+● Financial Consumer Agency of Canada (“FCAC”):
+○ The FCAC is an independent government agency responsible for overseeing
+financial institutions to ensure compliance with federal consumer protection laws.
+Customers can raise complaints related to financial services and products offered
+by Afterpay CA.
+● Individual Provincial Complaint Requirement(s):
+○ Depending on the province in which the customer resides, there may be specific
+provincial agencies or requirements for consumer complaints. Customers should
+refer to their respective provincial regulations for details on lodging complaints.
+● Provincial Regulators or Office of the Attorney General:
+○ Customers have the option to escalate complaints to provincial regulators or the
+Office of the Attorney General, which oversees legal matters and consumer
+protection at the provincial level.
+● Privacy Complaints
+○ Includes customers requesting data deletion and or access to information/
+information updates. Privacy complaints should be sent to the Afterpay Privacy
+Team and Afterpay Canada Compliance Team.
+If customers encounter issues with Afterpay CA's services and are unable to resolve them directly
+with the Company, they are encouraged to utilize the resources provided by these external dispute
+resolution bodies to seek further assistance and resolution. Afterpay CA is committed to cooperating
+with these agencies to address and resolve customer concerns in compliance with local laws and
+regulations.
+Canada Complaint Policy | Afterpay Canada Ltd.
+9
+
+Confidential and Not for Distribution
+5.8 Legal Instruments
+Afterpay’s complaint handling processes in Canada have been developed to ensure Afterpay CA
+complies with:
+● Federal and Provincial Privacy Laws:
+○ Afterpay CA adheres to applicable federal and provincial privacy laws governing
+the collection, use, and disclosure of personal information, ensuring the protection
+of customer data.
+● Provincial Consumer Protection Laws:
+○ Afterpay CA complies with provincial consumer protection laws that govern
+consumer transactions, ensuring fair practices and protection of consumer rights.
+● Other Guidance as Required:
+○ Afterpay CA follows any additional guidance or regulations pertinent to its
+operations in Canada to uphold ethical standards and legal obligations.
+● Quebec Consumer Protection Act (CPA) and Charter of the French Language
+(Charter):
+○ In Quebec, Afterpay CA abides by the provisions of the Quebec Consumer
+Protection Act (CPA) and adheres to the requirements outlined in the Charter of
+the French Language to support French-language rights.
+● Financial Consumer Agency of Canada (“FCAC”):
+○ Afterpay follows FCAC guidelines regarding complaint handling in banking and
+adheres to best practices for effectiveness of external complaints bodies, ensuring
+transparency and accountability in resolving consumer disputes.
+5. Document Management
+7.1 Document Owner
+This document is owned by the Head of Compliance, Afterpay CA or their designee.
+Canada Complaint Policy | Afterpay Canada Ltd.
+10
+
+Confidential and Not for Distribution
+7.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+6. Training
+All relevant Staff Members will receive training at least annually covering applicable requirements
+and guidance to implement this Policy effectively. All training activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+As outlined in the Compliance Management System (“CMS”) Policy, Compliance will provide regular
+updates to the Block, Inc. Board (“Board”) and executive management. This reporting may include
+specific information related to policies, programs, procedures, audit/exam findings, issues
+management, training, and complaints.
+8. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Policy Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+Canada Complaint Policy | Afterpay Canada Ltd.
+11
+
+Confidential and Not for Distribution
+9. Record Retention
+It is Afterpay CA’s policy to ensure that all complaints and data pertaining to complaints are retained
+for a sufficient period of time to satisfy compliance requirements under all applicable state and
+federal laws and regulations. Afterpay CA will maintain records of this Policy in accordance with
+BlockAfterpay’s document retention guidelines. Additionally, it is Afterpay CA’s policy that, unless
+otherwise directed by Afterpay CA’s legal and compliance teams or Block’s Global Complaint
+Program, all complaint logs and associated data must be retained for a minimum of seven (7) years.
+Complaints are retained in Afterpay CA’s customer service software and are categorized accordingly.
+10. Related Documentation or References
+Related Documents:
+Related Policy Global Complaint Policy | Block
+Related Standards Global Complaint Program | Block
+11. Revision and Approval History
+Versi Approver Title Type Description Date
+on
+1.0 Ben Hollist… Compliance Creation New Policy Nov 30, 20…
+Program Manager, creation
+Afterpay Canada
+1.0 Safiya Ade… Head of Initial A… Initial approval for Dec 11, 20…
+Compliance, & document
+MLRO, Afterpay creation
+Canada
+1.0 Afterpay CA Board Initial A… Jan 13, 2025
+Board of
+Directors
+Canada Complaint Policy | Afterpay Canada Ltd.
+12
+
+Confidential and Not for Distribution
+12. Document Details
+Business Afterpay
+Scope Regional [CA]
+Compliance Domain Consumer Protection
+Document Owner Head of Compliance & MLRO, Afterpay Canada
+Last Approval Date Jan 13, 2025
+Effective Date Jan 13, 2025
+Approved By Head of Compliance & MLRO, Afterpay Canada
+Document Review Schedule Annually [December 2025]
+Canada Complaint Policy | Afterpay Canada Ltd.
+13

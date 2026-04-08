@@ -1,0 +1,327 @@
+RETIRED
+Regulatory Change
+Management Standard
+Afterpay US, Inc.
+September 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Regulatory Change Management Standard | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 4
+1. Introduction 6
+2. Purpose 6
+3. Scope 7
+4. Standard Requirements 7
+4.1.1 Identify and Research Regulatory Changes 7
+4.2 Evaluate the Regulatory Change to Determine the Impacted LOBs 8
+4.3 Create and Manage a Project Plan for the Regulatory Change 8
+4.4 Create a Notion Change Event 8
+4.5 Communicate and Provide Compliance Support 9
+4.6 Update Compliance Policies, Standards, and Procedures 9
+4.7 Designate Training 10
+4.8 Verify the Implementation of the Regulatory Change 10
+4.9 Implement Ongoing Compliance Testing 11
+4.10 Annual Compliance Regulatory Change Program Review 11
+5. Document Management 11
+5.1 Document Owner 11
+5.2 Review and Approval 11
+6. Monitoring and Reporting 11
+7. Exceptions 11
+8. Record Retention 12
+9. Related Documentation or References 12
+10. Revision and Approval History 12
+11. Document Details 12
+Regulatory Change Management Standard | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Line of Business A group of people within Afterpay that is responsible for a specific
+(LOB) function. This term can be used to refer to departments, divisions, or
+other types of teams.
+Directly An individual that owns and is responsible for a specific task, process,
+Responsible policy, etc. within the Project Management Plan.
+Individual (“DRI”)
+Notion Change Item created within Notion that facilitates the execution of all tasks
+Event related to a regulatory change.
+Roles and Responsibilities
+Role Responsibility
+Compliance Compliance is responsible for the execution of the Notion change event
+created by Lend Reg. Compliance will coordinate with affected LOBs to
+build a Project Team. Compliance and the Project Team will ensure that
+all change requirements are implemented, tested and validated.
+Key Stakeholders The Stakeholders include all individuals and LOBs who are impacted by
+the project. For this project we are defining a subset of the stakeholders
+as Key Stakeholders. These are the stakeholders with whom we need to
+communicate and are not included in the other roles defined in this
+section. The Key Stakeholders include executive management with an
+interest in the project and key users identified for participation in the
+project.
+Lend Reg Lend Reg is responsible for the identification of applicable regulatory
+changes and creating a Notion change event to facilitate the
+implementation of the regulatory change. In creating a Notion change
+event, Lend Reg will compile all requirements of the regulatory change
+and package them within the Notion change event.
+Project Manager The Project Manager has overall responsibility for the execution of the
+project. The Project Manager manages day to day resources, provides
+project guidance and monitors and reports on the projects metrics as
+defined in the Project Management Plan. As the person responsible for
+the execution of the project, the Project Manager is the primary
+communicator for the project distributing information according to the
+Regulatory Change Management Standard | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+Communications Management Plan. The project manager role will be
+assumed by a designee agreed upon by the Project Team.
+Project Team The Project Team is comprised of all persons who have a role performing
+work on the project. The project team needs to have a clear
+understanding of the work to be completed and the framework in which
+the project is to be executed. Since the Project Team is responsible for
+completing the work for the project, they play a key role in creating the
+Project Plan including defining its schedule and work packages. The
+Project Team requires a detailed level of communications which is
+achieved through day-to-day interactions with the Project Manager and
+other team members along with weekly team meetings.
+Technical Lead The Technical Lead is a person on the Project Team who is designated to
+be responsible for ensuring that all technical aspects of the project are
+addressed and that the project is implemented in a technically sound
+manner. The Technical Lead is responsible for all technical designs,
+overseeing the implementation of the designs and developing
+standardized documentation. The Technical Lead requires close
+communications with the Project Manager and the Project Team. Each
+Technical Lead will also fulfill the position of Quality Specialist.
+Regulatory Change Management Standard | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Regulatory Change Management Standard (“Standard”) outlines Afterpay US, Inc.’s (“Afterpay”)
+approach to identifying changes to . The Product Compliance Manager is responsible for the
+management of this Standard.
+2. Purpose
+The purpose of the Regulatory Change Management Standard is to direct effective change
+management that will ensure all impacted LOB revise and implement procedures and controls to
+mitigate Afterpay’s legal, compliance, and reputation risks related to any regulatory changes.
+The purpose of this document is to outline the roles and responsibilities and workflow for processing
+regulatory changes. The scope of the Standard is designed to direct the implementation of
+regulatory changes in an efficient and effective manner by providing regulatory guidance to Directly
+Responsible Individuals (“DRIs”) to mitigate legal, compliance and reputation risks. The Lending
+Regulatory Counsel Team (“Lend Reg”) and Product Compliance (“Compliance”) will coordinate with
+multiple groups within Afterpay to drive the change process and package implementation material
+for the impacted LOBs. Generally, the level of detail captured herein is intended to provide
+experienced Managers and associates with an overview and understanding of the subject process
+and underlying activities for implementing regulatory change, and it should serve as a resource to
+such individuals.
+The regulatory change management process will:
+● Identify and research regulatory changes;
+● Evaluate the regulatory change to determine the impacted LOBs;
+● Create and manage a project plan for the regulatory change;
+● Effectively communicate and provide legal and compliance support for the regulatory
+change to the impacted LOBs;
+● Update Afterpay policies impacted by the regulatory change and ensure that the
+impacted LOBs update their policies and procedures as needed;
+● Designate training, as needed, for associates impacted by the regulatory change; and
+Regulatory Change Management Standard | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+● Verify the regulatory change has been implemented by the impacted LOBs prior to the
+final effective date of the change.
+3. Scope
+This Standard is applicable to Afterpay’s employees and sets out the approach to Regulatory Change
+Management. This Standard has also been created to ensure that Afterpay and relevant personnel
+are aware of and comply with expectations regarding Regulatory Change Management, as detailed
+below.
+4. Standard Requirements
+4.1.1 Identify and Research Regulatory Changes
+Lend Reg will identify regulatory changes using reputable industry resources. When changes are
+identified that will impact Afterpay’s processes and practices, Lend Reg will review and research the
+proposed change.
+There are several resources that will be used by Lend Reg to identify and research regulatory
+changes including but not limited to the following:
+● Reg Counsel Monthly Updates meeting;
+● Fiscal Note Report;
+● Bi-weekly Policy Counsel Meeting;
+● Policy Reg Counsel Slack Channel;
+● Communications from the Consumer Financial Protection Bureau (“CFPB”);
+● Communications from outside counsel; and
+● Communications from other Federal banking agencies.
+In addition to these resources, other reputable industry resources (bulletins, regulator news updates,
+etc.) or RegTech solutions may be used.
+When changes are identified where a Notice of Proposed Rulemaking (“NPRM”) has been issued by
+the regulatory agencies, Lend Reg will create a Notion change event with impacts to a LOB and
+update it throughout the implementation process.
+Regulatory Change Management Standard | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+4.2 Evaluate the Regulatory Change to Determine the Impacted LOBs
+Lend Reg and Compliance will evaluate the proposed regulatory change to determine the impacted
+LOBs that will be responsible for implementing the change. At this time, Lend Reg will create a
+Notion change event. LOBleadership will determine DRIs and assign the appropriate associate(s) to
+create a Project Team. During the process of building the Notion change event, the Project Team
+will then evaluate and formulate their respective role in the Change Management Process.
+4.3 Create and Manage a Project Plan for the Regulatory Change
+Once regulatory agencies issue a final rule with an effective date for a proposed regulatory change,
+the Project Team will develop the project plan. The project plan will include the following:
+● Assignment of DRIs for the impacted BU(s);
+● State the project scope;
+● Prepare a plan to monitor the progress of the implementation for the regulatory change;
+● Determine a Cost Management Plan or Budget, if applicable;
+● Determine the schedule for implementing the change;
+● Incorporate the communication plan;
+● Define the BU’s quality control/assurance process required;
+● Final implementation of the regulatory change.
+NOTE: Whenever a regulatory change impacts system processes, the LOB impacted by a change
+and IT will be responsible for implementing the appropriate changes to system processes to meet
+the regulatory requirements. The Project Team, LOBs, and IT will follow existing standard operating
+procedures with making a change to the impacted systems.
+4.4 Create a Notion Change Event
+The Project Team will track duties and progress via Notion. All team members should use this system
+to provide updates, archive various reports, and conduct project communications. This platform
+enables senior management, as well as stakeholders, to access project updates at any point in time.
+All relative data and communications will be housed in Notion. Upon completion of the project, the
+Project Team will be responsible for closing out the Notion change event.
+Regulatory Change Management Standard | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+A Project Team Directory will provide contact information for all persons involved in the change
+management project. The email addresses and phone numbers in this table will be used to
+communicate with these people. See Template A.
+4.5 Communicate and Provide Compliance Support
+Lend Reg will distribute all identified and applicable information regarding a regulatory change to
+Compliance through Notion. Compliance will contact the impacted LOBs and provide support to the
+LOBs related to the regulatory change and provide guidance to effectively implement the regulatory
+change.
+The Project Team will take a proactive role in ensuring effective communications throughout the
+project. For any project, the Project Team will utilize standard Afterpay formats and templates for all
+formal project communications. As with most project plans, updates or changes may be required as
+the project progresses or changes are approved. Changes or updates may be required due to
+changes in personnel, scope, budget, or other reasons. Additionally, updates may be required as the
+project matures and additional requirements are needed. The Project Team is responsible for
+managing all proposed and approved changes and ensuring that all project stakeholders remain
+aware and informed.
+4.6 Update Compliance Policies, Standards, and Procedures
+The applicable Compliance DRI will update any existing impacted compliance policy or draft a new
+compliance policy for a newly implemented regulation or law. The update to an existing compliance
+policy or the drafting of a new compliance policy will be submitted to the Lending Product
+Compliance Lead for review. Following the Lending Product Compliance Lead’s review, a final draft of
+the updated or newly developed policy will be submitted to the Compliance Committee for approval.
+The impacted LOBs will be responsible for updating policies and procedures that are affected by the
+regulatory change and following their process for policy and procedure approval. Compliance will
+provide the LOBs with any support to regulatory changes of their policies and procedures to help
+ensure applicable compliance issues are addressed.
+Regulatory Change Management Standard | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+4.7 Designate Training
+The Project Team will work with Product Compliance to determine the appropriate training
+necessary. This training will be coordinated with the LOB training staff. The method for delivery of
+the training will need to be identified based on the critical significance of the regulatory change.
+Delivery of the training may include any or all of the following:
+● A memo prepared by Compliance and addressed to the associates affected by the
+regulatory change;
+● A LOB staff meeting where a Manager discusses and provides relevant information to
+associates regarding the regulatory change; and/or
+● Webinar training, developed either in-house or with a third-party vendor to affected
+associates and facilitated by Compliance.
+●
+Compliance will assist the LOBs with any of its compliance training needs for the regulatory change.
+The Project Team will also verify with Afterpay’s third party vendor for computer-based training,
+(training application if applicable), that it has updated the training modules for the affected
+regulation or law.
+4.8 Verify the Implementation of the Regulatory Change
+Prior to the final effective implementation date of a regulatory change, Compliance will review, as
+applicable, all policies and procedures, disclosures, systems, and training to determine adequate
+coverage and controls are in place to mitigate the compliance risks associated with the change.
+Lend Reg will review to determine adequate coverage and controls are in place to mitigate the legal
+and reputational risks associated with the change.
+During this step, each impacted LOB will complete their own Quality Control/Quality Assurance
+testing to ensure there are no additional risks to Afterpay created with implementation, processes
+requiring additional adjustments, or corrections necessitated.
+A summary of each regulatory change project will be submitted to the Compliance Committee in
+the quarter following the effective date of the change.
+Regulatory Change Management Standard | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+4.9 Implement Ongoing Compliance Testing
+Following the effective date of a regulatory change, Compliance will incorporate testing for the
+regulatory change as part of its ongoing compliance testing processes.
+4.10 Annual Compliance Regulatory Change Program Review
+A review of the Regulatory Change Program will be performed annually, or as needed, for example
+when enhancements are identified to create a more effective and efficient program. The review will
+be performed by the Project Team, and any revisions or additions to the program will be submitted
+to the Compliance Director for review and approval.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Lending Product Compliance Manager.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+6. Monitoring and Reporting
+On an ongoing basis, the Document Owner and/or their designee will monitor Standard related
+activities to evaluate adherence to the Standard and determine whether outputs adhere to
+established objectives.
+7. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Standard, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+Regulatory Change Management Standard | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Document Owner and/or designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+8. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+9. Related Documentation or References
+Related Documents:
+Policy Block, Inc. Compliance Policy on Policies
+10. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Robert Graham Lend Reg Reviewed/Appro… Aug 30, 2024
+Approval History
+Approver Title Type Description Date
+Corey Chamb… Lending Product Creation Develop Aug 30, 2024
+Compliance Standard to
+Lead outline
+Regulatory
+Change
+Management
+Process specific
+to Afterpay US.
+11. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Regulatory Change Management Standard | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Manager
+Document Approver Lending Product Compliance Lead
+Last Approval Date N/A - New Standard Document
+Effective Date Sep 2, 2024
+Document Review Schedule Annually
+Regulatory Change Management Standard | Afterpay US, Inc.
+13

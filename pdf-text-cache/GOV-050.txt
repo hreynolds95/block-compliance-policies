@@ -1,0 +1,399 @@
+Compliance Management
+System (CMS) Policy
+Afterpay US | U.S.
+September 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc.
+and on a need-to-know basis.
+Compliance Management System Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 4
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Policy Requirements 8
+4.1 Requirements for the CMS 8
+4.2 The Compliance Management System 9
+4.2.1 Board and Management Oversight and Reporting 9
+4.2.2 Regulatory Change Management 9
+4.2.4 Policies, Standards, and Procedures 10
+4.2.5 Training 10
+4.2.6 Monitoring and Testing 11
+4.2.7 Change Management 11
+4.2.8 Issue Management 11
+4.2.9 Complaint Management 12
+4.2.10 Vendor Management 12
+4.2.11 Audit 12
+5. Document Management 12
+5.1 Document Owner 12
+5.2 Review & Approval 12
+6. Exceptions 13
+7. Record Retention 13
+8. Related Documentation or References 13
+9. Revision and Approval History 13
+10. Document Details 14
+Compliance Management System Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Compliance A Compliance Management System is a structured approach that
+Management organizations use to ensure they are following all relevant laws,
+System (“CMS”) regulations, and internal policies. It involves creating processes,
+procedures, and controls to monitor and enforce compliance with these
+rules, aiming to prevent legal issues, financial penalties, and reputational
+damage. Essentially, it's about making sure the organization plays by the
+rules and operates ethically and responsibly.
+Block, Inc. (“Block”) For the purposes of this Policy, Block refers to the parent company of
+Afterpay US, Inc. and its subsidiary, Afterpay US Services, LLC.
+The Company For the purposes of this Policy, the Company refers to Afterpay US, Inc.
+and its subsidiary, Afterpay US Services, LLC.
+Issue An Issue is defined as a deficiency, gap, or weakness in the design,
+performance, or operating effectiveness of a process or control or the
+absence of a control.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired
+by Block who supports the Company’s operations covered by this Policy.
+Roles and Responsibilities
+Afterpay US, Inc. The Afterpay US Board has ultimate responsibility for this Policy and
+Board of Directors compliance efforts. The Board is responsible for:
+(“Afterpay US Board”
+or the “Board”) ● Reviewing and approving this Policy no less than annually;
+● Demonstrating clear and appropriate expectations about
+compliance;
+● Understanding material compliance risks to which the Company is
+exposed;
+● Ensuring that a Compliance Officer and BSA/AML Officer is
+appointed at the Cash App level of Block; and
+● Ensuring that the compliance function has the necessary
+resources to appropriately manage compliance risk and are
+appropriately empowered within the Company.
+Compliance Management System Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+Cash App Head of The Cash App Head of Compliance is responsible for:
+Compliance of
+● Owning this Policy. The Cash App Head of Compliance has the
+Block (“Cash App
+Head of responsibility to develop, maintain, and administer the CMS based
+Compliance”) upon the directives set forth in this Policy, industry best practices,
+and applicable regulatory guidance;
+● Establishing and maintaining a Compliance Training Program;
+● Ensuring appropriate Compliance and Legal Team review of
+Afterpay US’s advertising and marketing campaigns;
+● Providing compliance guidance with respect to any new product
+development or enhancement;
+● Ensuring proper corrective action is taken in response to identified
+Issues;
+● Establishing and maintaining a compliance Monitoring and
+Testing Program at a cadence that adequately addresses Afterpay
+US’s risk profile;
+● Ensuring relevant Afterpay US Compliance policies, procedures,
+and processes are documented, current, comprehensive, timely,
+and adequate systems and processes exist to support applicable
+compliance and legal requirements;
+● Coordinating with Senior Management the handling of any
+complaints; and
+● Acting as a liaison for Senior Management on regulatory
+compliance matters during federal or state compliance
+Examinations and/or third-party compliance audits.
+As appropriate, the Cash App Head of Compliance may delegate the
+above responsibilities to relevant Senior Management or Compliance
+Staff who inform and escalate key risks and Issues to the Cash App Head
+of Compliance.
+Legal Team The Legal Team is responsible for:
+(Regulatory /
+● Advising the Cash App Head of Compliance, Senior
+Licensing /
+Examination teams) Management, and other areas of Afterpay US regarding legal
+and compliance matters;
+● Overseeing and managing regulatory licenses and reporting;
+● Supporting the end-to-end licensing process for both federal
+and state licenses;
+Compliance Management System Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+● Providing legal advice by identifying and validating relevant
+regulatory obligations applicable to Block’s products and
+operations;
+● Working closely with the Cash App Head of Compliance and
+Compliance Staff to achieve compliance objectives, in areas such
+as customer complaint resolution, corrective action, and vendor
+management.
+Senior Senior Management, which includes key members of Afterpay US, Inc.’s
+Management management team, is responsible for supporting the Cash App Head of
+Compliance in delegated day-to-day responsibilities such as:
+● Demonstrating clear and appropriate expectations about
+compliance, not only within Afterpay US and its third-party
+service providers;
+● Maintaining effective internal controls and executing risk and
+control procedures on a day-to-day basis;
+● Being responsible for the handling and coordinating with the
+Cash App Head of Compliance and Legal Team any complaints,
+including those alleging discrimination or disparate treatment,
+unfair or deceptive acts or practices;
+● Addressing compliance Issues and associated risks of consumer
+harm;
+● Implementing effective corrective actions to address process
+and control deficiencies;
+● Identify and support execution of the compliance monitoring
+and testing plan, including the review of results; and
+● Ensuring that recurring reports of compliance risks, Issues, and
+resolution are attained.
+Members of Senior Management may also be compliance Staff,
+reporting either directly or indirectly to the Cash App Head of
+Compliance.
+Staff Members / Staff Members are responsible for:
+Staff
+● Cooperating and working with Document Owner(s) to facilitate
+compliance with this Policy;
+● Knowing the requirements of the rules affecting their job duties
+and carrying out their responsibilities at all times in a manner
+compliant with those requirements and this Policy.
+Compliance Management System Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+1. Introduction
+This Compliance Management System (“CMS”) Policy (“Policy”) outlines the Company’s commitment
+to implementing and maintaining an effective CMS. Afterpay US, Inc.’s CMS is structured to ensure
+adherence to all relevant laws, regulations, and internal policies. It involves processes, procedures,
+and controls to monitor and enforce compliance with these rules, aiming to prevent legal issues,
+financial penalties, and reputational damage. Cash App Head of Compliance and/or designee is
+responsible for management of this Policy.
+2. Purpose
+The purpose of this Policy is to set forth the expectations of the Afterpay US, Inc. Board of Directors
+(the “Afterpay US Board”) for managing and mitigating applicable regulatory compliance risk as it
+pertains to all U.S. business operations within the Company.
+This Policy sets forth the framework within which the Company implements its CMS. The Afterpay
+US Board recognizes that maintaining an effective CMS is critical for mitigating the risks arising from
+violations of laws and regulations and the potential for customer harm and is necessary to maintain
+a high level of public confidence in Block’s safe and sound operating practices.
+A critical aspect of managing and mitigating regulatory compliance risk is the development and
+maintenance of a CMS that is integrated into the overall framework for product design, delivery, and
+administration of all product and service life cycles. In general, the Company achieves this standard
+by ensuring a sound compliance structure is part of daily operations and that the Company
+identifies Issues and initiates appropriate and timely remediations.
+It is Afterpay US, Inc.’s policy to comply with all applicable federal and state laws and regulations.
+Pursuant to this Policy, Afterpay US, Inc. will take prudent and reasonable steps to ensure
+compliance, including careful consideration of applicable laws and regulations related to the
+Company.
+3. Scope
+This Policy is applicable to Afterpay US, Inc., and its operations related to the Company.
+Compliance Management System Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+4. Policy Requirements
+4.1 Requirements for the CMS
+The Afterpay US Board recognizes that sound compliance risk management, like other areas of
+operational management, depends on the Company establishing a comprehensive program of risk
+controls and adequate oversight. The Company requires the CMS to be tailored to the Company’s
+organizational needs, business strategy, operational complexity, product diversity, market
+circumstances, regulatory environment, and risk profile. Because these essential criteria are not
+static, the Afterpay US Board also requires the CMS to have a strong infrastructure while remaining
+dynamic in its ability to respond to changes. This Policy includes all of the following elements that
+are mandated by the Afterpay US Board:
+● Define roles and responsibilities for regulatory compliance activities covered by Afterpay
+US, Inc.’s CMS;
+● Require the creation and maintenance of policies, procedures, and controls that ensure
+the Company conducts business in compliance with applicable laws and regulations and
+in a manner that meets customer service goals;
+● Set forth internal supervision of Company systems in order to deliver consistent and
+on-going execution of CMS standards;
+● Conduct a periodic compliance risk assessment to evaluate inherent risks, controls, and
+the resulting residual risks to the Company in order to guide the execution of the CMS;
+● Create a monitoring and testing program, and separate independent audit requirements
+to identify operational and programmatic deficiencies;
+● Establish change management and corrective action programs;
+● Outline training requirements for all Staff, including the Afterpay US Board;
+● Distribute compliance reporting for internal and external stakeholders (e.g., bank
+partners); and
+● Reinforce key CMS principles related to identifying potential violations of law and
+correcting internal control deficiencies.
+Compliance Management System Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+4.2 The Compliance Management System
+4.2.1 Board and Management Oversight and Reporting
+Compliance will provide quarterly compliance updates to the Afterpay US Board and Afterpay US,
+Inc.’s Senior Management, related to the operation of the CMS, customer complaints, monitoring
+and testing results, corrective action updates, training results, and regulatory findings/exams.
+4.2.2 Regulatory Change Management
+The Legal Team will maintain a regulatory change management process to first identify, monitor,
+and track relevant material regulatory changes that may impact Company products, services, and
+operations. The Legal Team will conduct an applicability analysis for certain regulatory changes and
+then, where necessary, notify key stakeholders. Compliance will develop and communicate to
+impacted business teams an implementation plan, as needed, and the impacted business teams will
+be responsible for executing on that implementation plan.
+4.2.3 Risk Assessment
+Risk assessments are a process for evaluating the compliance risk arising from: (i) the Company’s
+operating environments; (ii) the regulatory landscape; (iii) the Company’s size, complexity, and
+product offerings; and (iv) the effectiveness of internal controls. Risk assessments assist the
+Company in identifying additional control needs, prioritizing compliance resources, and adjusting
+the CMS to meet new and emerging risks.
+On a periodic basis, the Cash App Head of Compliance will conduct a risk assessment with the
+support of a cross-functional group of stakeholders across product, legal, and compliance.
+The risk assessments will be used to:
+● Understand the risk of specific regulatory requirements to the Company;
+● Inform monitoring, testing, and training plans;
+● Identify opportunities to enhance existing controls or to institute additional controls, as
+needed; and
+● Evaluate resource levels needed to manage compliance risks.
+The risk assessment framework will assign inherent risk ratings, identify mitigating controls and
+determine the resulting residual risk rating (which is derived from assessing the likelihood and
+Compliance Management System Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+impact of risk occurrence after considering Block’s control activities). Compliance will present the
+results of the annual risk assessment to the Afterpay US Board and Senior Management.
+The Compliance team will conduct monitoring and testing as needed to verify that regulatory
+changes are incorporated into the Company’s CMS program.
+4.2.4 Policies, Standards, and Procedures
+Afterpay US, Inc. requires compliance policies, standards and procedures be documented in written
+form, in sufficient detail to implement compliance requirements, and are formally approved,
+adopted, or recognized as outlined in the Block Compliance Document Approval Matrix. Policies,
+standards, and procedures are updated periodically by their respective owners, and are reviewed and
+approved as outlined in the Block Compliance Policy on Policies (“PoP”). All policies and standards
+are posted in a shared location, as outlined in the PoP.
+The PoP establishes the document hierarchy and life cycle of compliance policies, standards, and
+procedures, as well as the roles and responsibilities for keeping Afterpay US, Inc.’s compliance
+document inventory reliable and compliant.
+4.2.5 Training
+Block maintains a Compliance Training Program & Compliance Training Calendar to detail the
+compliance training strategy and ensure the Afterpay US Board and Staff are trained on applicable
+aspects of laws and regulations relevant to their job function. The Company additionally maintains a
+Compliance Training Calendar to outline the training modules and frequency of compliance training
+required by the audience. New Staff Members must first go through new hire compliance training.
+Training time frames must be completed within 30 days of hire and annually thereafter, and the
+content must be commensurate with the responsibilities within the job function.
+Based on the role performed, select new Staff are required to receive Consumer Protection (e.g.,
+UDAAP, Fair Lending, Privacy), and BSA/AML training within 30 days of being hired and then
+annually thereafter. The Afterpay US Board will receive annual training on this CMS, Consumer
+Protection (e.g., UDAAP, Fair Lending, Privacy), and BSA/AML. Where Staff fail to complete their
+required compliance training, Block People Leads, with the support of Block Human Resources, are
+responsible for supporting disciplinary action, where required.
+Compliance Management System Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+4.2.6 Monitoring and Testing
+Compliance will develop a monitoring and testing plan annually based on the size, scale, and
+complexity of the Company’s operations and business offerings. The annual plan will reflect the risk
+profile of the Company, including relevant third-party risk, as well as compliance risk impacts from
+new products, regulatory changes, previous testing findings, management action plans and due
+dates, audit coverage areas, and any bank partner requests.
+The testing program will support adherence to regulatory compliance requirements and the
+frequency of testing for applicable regulations and each business unit will depend on the Company's
+risk profile. Corrective action to any noted deficiencies will be implemented efficiently and
+documented accordingly.
+Details on this process can be found in the Global Compliance Monitoring and Testing Program.
+4.2.7 Change Management
+The Company has implemented procedures to review new or materially changed business practices
+(namely marketing materials and customer communications, products or features) using a
+combination of Legal and Compliance personnel, who will determine whether new or updated
+controls are required. Business units are responsible for engaging these functions and escalating any
+such changes for review. The results of reviews will be documented and maintained.
+4.2.8 Issue Management
+The Company adheres to the Block Issue Management Program. It defines a standardized approach
+to the identification, assessment, prioritization, treatment, and reporting of Issues. A standardized
+approach is necessary to allow Afterpay US, Inc. Senior Management the ability to make effective
+decisions concerning risk management.
+The Company will track and monitor deficiencies identified through monitoring and testing,
+complaints, audits, and regulatory exams. The Company will record and track the nature of the
+Issues, a description of the plan to resolve the Issues, target dates for implementation, and the status
+of resolution progress.
+Compliance Management System Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+4.2.9 Complaint Management
+The Company maintains a Complaints Standard that includes minimum standards for the Company
+in relation to the identification, classification, treatment, and reporting of complaints. The Global
+Complaints Program (“GCP”) for Afterpay US, Inc. is overseen by the Cash App Head of Compliance
+and business units maintain programs and procedures that align to the GCP, where applicable.
+4.2.10 Vendor Management
+The Company maintains a formal Third Party Risk Management (“TPRM”) Standard that identifies,
+measures, and monitors the risks associated with the use of Third Party/Vendors. The TPRM Standard
+outlines processes to perform due diligence and sets timeframes for ongoing review based on
+defined risk tiers. Third Party/Vendors will be subject to ongoing monitoring and review in
+accordance with the TPRM Standard.
+4.2.11 Audit
+Afterpay US, Inc. will conduct periodic risk-based independent audits of requirements of this CMS
+Policy, including related processes, systems, and controls. The audit scope may also, as and when
+appropriate, include independent validation of remediation of closed Issues identified through the
+audit process. Results of these periodic audits, including updates on Issues validation, are reported to
+Senior Management and the Block Audit and Risk Committee (“ARC”) on a periodic basis.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App Head of Compliance or their designee.
+5.2 Review & Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordance with the Compliance Document Approval Matrix. This Policy is approved by the Afterpay
+US Board.
+Compliance Management System Policy | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+6. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Block Policy Governance Team at go/policyhelp. The Document Owner and/or
+designee will inform Block Compliance Leadership and applicable committees, as needed, of
+exceptions.
+7. Record Retention
+Block will maintain records of this Policy in accordance with its document retention guidelines.
+8. Related Documentation or References
+Related Documents:
+Related Policy Block Compliance Policy on Policies
+Related Policy Block Global Complaint Policy
+Related Program Block Compliance Training Program
+Related Program Block Issue Management Program
+Related Program Block Global Monitoring & Testing Program
+Related Program Afterpay Complaint Standard
+Related Standard Afterpay Third Party Risk Management Standard
+Other Block 2024 Compliance Training Calendar
+9. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Compliance Management System Policy | Afterpay US, Inc.
+13
+
+Confidential and Not for Distribution
+Robert Graham Lending Regulatory Reviewed/Appro… Aug 30, 2024
+Counsel
+Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial Creation of Aug 30, 2024
+Compliance Policy
+Lead
+Afterpay Afterpay Board Initial Appro… Initial Creation of Sep 11, 2024
+Policy
+10. Document Details
+Business Afterpay US
+Scope Regional
+Compliance Domain Compliance Governance
+Document Owner Cash App Head of Compliance
+Last Approval Date Sep 11, 2024
+Effective Date Sep 11, 2024
+Approved By Afterpay US Board
+Document Review Schedule Annually
+Compliance Management System Policy | Afterpay US, Inc.
+14

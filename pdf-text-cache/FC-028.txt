@@ -1,0 +1,228 @@
+Bitcoin (BTC) Travel Rule
+Program
+Cash App | US
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 3
+Roles & Responsibilities 4
+1. Introduction 5
+2. Purpose 5
+3. Scope 5
+4. Program Requirements 6
+4.1 Travel Rule Applicability: On-Chain Bitcoin Withdrawals to VASPs 6
+4.2 On-Chain Bitcoin Withdrawals to Self-hosted Wallets 7
+5. Document Management 7
+5.1 Document Owner 7
+5.2 Review and Approval 7
+6. Training 8
+7. Monitoring and Reporting 8
+8. Exceptions 8
+9. Recordkeeping & Record Retention 8
+10. Related Documents or References 8
+11. Revision and Approval History 9
+12. Document Details 9
+Bitcoin Travel Rule Program | Cash App 2
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Bank Secrecy Act (“BSA”) Passed in 1970 and amended several times, a U.S. law requiring financial
+institutions to assist U.S. government agencies in detecting and
+preventing money laundering.
+Eligible Customer To be eligible for increased limits, customers must meet defined criteria
+which has been approved in writing by the Head of Product Compliance.
+Financial Action Task The Financial Action Task Force (“FATF”) is the global money laundering
+Force (“FATF”) and terrorist financing watchdog. It sets international standards that aim
+to prevent these illegal activities and the harm they cause to society.
+Financial Institution Each agent, agency, branch, or office within the U.S. of any person doing
+business in one or more capacity as a bank, a broker or dealer in
+securities, a money services business, a casino, a commodities broker or
+dealer, among other things.
+Financial Crimes FinCEN is a bureau of the U.S. Department of the Treasury. FinCEN’s
+Enforcement Network mission is to safeguard the financial system from illicit use and combat
+(“FinCEN”) money laundering and promote national security through the collection,
+analysis, and dissemination of financial intelligence and strategic use of
+financial authorities.1
+Staff Member All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Program, and include
+interns, temporary workers, consultants, vendors, third-party providers,
+and contractors.
+Travel Rule BSA rule [31 C.F.R. 1010.410(f)]—often called the “Travel” rule—requires
+financial institutions to pass on certain information to the next financial
+institution, in certain funds transmittals involving more than one financial
+institution.
+Travel Rule Universal A platform that allows virtual asset service providers to securely send
+Solution Technology customer information as required by the Travel Rule.
+(“TRUST”)
+Virtual Asset A digital representation of value that can be digitally traded, or
+transferred, and can be used for payment or investment purposes. Virtual
+1 https://www.fincen.gov/what-we-do
+Bitcoin Travel Rule Program | Cash App 3
+
+Confidential and Not for Distribution
+assets do not include digital representations of fiat currencies, securities
+and other financial assets.2
+Roles & Responsibilities
+Role Responsibility
+Product Compliance Provide advisory support to product and compliance to devise a strategy
+Management for compliance with the Travel Rule.
+Regulatory Counsel Provide legal requirements as it pertains to the Travel Rule to ensure
+compliance with applicable laws and regulations.
+Compliance Operations Own and execute the procedure to enable compliance with the Travel
+Rule.
+2https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.in
+line.pdf
+Bitcoin Travel Rule Program | Cash App 4
+
+Confidential and Not for Distribution
+1. Introduction
+Cash App is committed to complying with applicable laws, regulations, and guidelines to prevent, monitor for,
+detect and report possible money laundering, financial crimes, and terrorist financing.
+The Bitcoin Travel Rule Program outlines the strategy and method by which Cash App meets the Financial
+Crimes Enforcement Network (“FinCEN”) and other regulators’ expectations set forth by the Funds Transfer
+Rule, often referred to as the “Travel Rule” 31 C.F.R. 1010.410(f).
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The framework for this
+Program applies to the use of virtual currency (e.g. Bitcoin) on Cash App, including where the virtual assets
+are transmitted to a Virtual Asset Service Provider (herein referred to as “VASP”) in the amount of $3,000 or
+more. Cash App has adopted this framework as a matter of risk management with respect to destinations for
+withdrawals at or above the Travel Rule threshold.
+3. Scope
+This Program is established by Cash App, U.S., a line of business under Block, Inc., and is applicable to its
+Bitcoin services.
+The Travel Rule requires that financial institutions, including money transmitters, collect, retain, and transmit
+information on funds transferred to another financial institution. Specifically, the rule requires that the
+information must be sent in the transmittal order. FinCEN guidance clarifies that the Travel Rule applies to
+virtual currency transactions.3.
+FinCEN has stated its expectation that VASPs comply with the Funds Travel Rule 31 CFR 1010.410(f), which
+requires firms like Cash App to collect and retain the specified information from customers for transmissions
+of virtual assets that are equivalent to $3,000 or more.
+Information to be sent with transmittal order:
+● Sender’s name;
+3 FinCEN 2019 Virtual Currency Guidance.
+Bitcoin Travel Rule Program | Cash App 5
+
+Confidential and Not for Distribution
+● Sender’s account number;
+● Sender’s physical address/ID number/wallet address/date and place of birth;
+● Amount of transaction;
+● Execution date;
+● Identity of recipient’s financial institution; and
+● To the extent Cash App receives the following information:
+○ Recipient’s name;
+○ Recipient’s physical address;
+○ Recipient’s account number if available.
+4. Program Requirements
+4.1 Travel Rule Applicability: On-Chain Bitcoin Withdrawals to VASPs
+Cash App allows customers to purchase, sell, send (peer-to-peer), withdraw and deposit Bitcoin via Cash
+App. To enable Bitcoin withdrawals and deposits, customers must first undergo document identification
+verification.
+Cash App maintains a set of withdrawal limits that reduces the applicability of the Travel Rule to its products
+and features; most customers may only withdraw up to $2,000 per day. Eligible Customers are subject to
+higher limits, and Cash App has integrated with the Travel Rule Universal Solution Technology (“TRUST”) to
+facilitate Travel Rule compliance for such higher limit transactions. TRUST is a Travel Rule solution platform
+that facilitates the sharing of customer information with other member (and non-member) VASPs. By
+integrating with TRUST, when transmitting a withdrawal, the receiving VASP, also a TRUST member, confirms
+ownership of the wallet address, which then triggers the secure sending of the requisite customer
+information in a message to the receiving VASP. In turn, when Cash App receives a Bitcoin deposit from a
+TRUST member, that transaction is accompanied by the sender’s personally identifiable information.
+FinCEN expects VASPs like Cash App to maintain Travel Rule documentation with regard to self-hosted
+wallets, but Cash App is not required to transmit the information anywhere, because there is no other
+financial institution involved in the transaction. For withdrawals to another VASP, FinCEN expects the
+sending institution (Cash App) to transmit Travel Rule information to the receiving institution.
+Bitcoin Travel Rule Program | Cash App 6
+
+Confidential and Not for Distribution
+4.2 On-Chain Bitcoin Withdrawals to Self-hosted Wallets
+Travel Rule reporting obligations in the U.S. are typically understood to not apply to transactions involving
+self-hosted wallets. Since self-hosted wallets do not typically meet the definition of financial institution,4
+Cash App has determined that, while the reporting aspect of the Travel Rule may not apply to transfers to
+self-hosted wallets,5 the recordkeeping aspects may still apply, so Cash App must retain information, even
+when not transmitted onwards.6
+Cash App will evaluate, on an ad hoc basis, requests from customers who intend to transmit more than
+$10,000/daily in Bitcoin. Cash App’s Compliance Operations team is responsible for implementing and
+maintaining the process to comply with this Travel Rule program. Compliance Operations maintains a
+dedicated email address for Travel Rule correspondence with the receiving VASP.
+Please refer to the Bitcoin (BTC) Funds Transfer EDD Procedure for more details on the process.
+5. Document Management
+5.1 Document Owner
+This document is owned by the CashApp Bitcoin Product Compliance Manager or its designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Program effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+4 31 CFR 1010.100(t) and 31 CFR 1010.410(f).
+5 Although FinCEN has not specifically addressed the Travel Rule in the context of self-hosted wallets, the global standard setting
+body, the Financial Action Task Force, released a standard generally mirroring the Travel Rule for transactions over $1,000 involving
+VASPs like Cash App. FATF guidance states that VASPs need not transmit such information when sending digital assets from
+VASPs to unhosted wallets. Even if not required to transmit that information, however, the FATF guidance advises that the VASP
+should otherwise “adhere[] to the requirements” of its version of the Travel Rule—that is, the VASP should obtain and retain
+accurate originator and beneficiary information, and make it available on request to authorities. In the absence of formal FinCEN
+guidance, Cash App has determined that an approach consistent with this FATF guidance is prudent.
+6 31 CFR 1010.410(e).
+Bitcoin Travel Rule Program | Cash App 7
+
+Confidential and Not for Distribution
+7. Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee in collaboration with Regulatory Counsel, will
+monitor Program related activities to evaluate adherence to the Program and determine whether outputs
+adhere to established objectives.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Program, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Program exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance Team
+at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and applicable
+committees, as needed, of exceptions.
+9. Recordkeeping & Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documents or References
+Related Documents:
+Related Procedure Bitcoin (BTC) Funds Transfer EDD Procedure
+Related References:
+Regulation Name FinCEN Funds Transfer Rule C.F.R. 1010.410(f)
+Bitcoin Travel Rule Program | Cash App 8
+
+Confidential and Not for Distribution
+11. Revision and Approval History
+Approver Title Type Description Date
+Sondah Ouattara Bitcoin Product Creation Drafted original February 2024
+Compliance travel rule policy
+Manager
+Jason Liberman Head of Product Initial Appro… Review and March 19, 2024
+Compliance, Cash approve initial
+App draft
+Jason Liberman Head of Product Material Cha… Approval of Jul 10, 2024
+Compliance, Cash updated language
+App around
+withdrawal limit
+being aggregated
+by SSN and
+template update
+Sondah Ouattara Bitcoin Product Material Cha… Material change Apr 17, 2025
+Compliance regarding TRUST
+Manager integration and
+record retention
+Kelly Zigaitis Head of Material Cha… for self-hosted Jun 23, 2025
+Compliance, wallet
+Emerging transactions
+Businesses
+12. Document Details
+Business Cash App
+Scope Regional [US]
+Compliance Domain Anti-Financial Crimes
+Document Owner CashApp Bitcoin Product Compliance Manager
+Last Approval Date June 23, 2025
+Effective Date June 23, 2025
+Approved By Head of Compliance, Emerging Businesses
+Document Review Schedule Annually [June 2026]
+Bitcoin Travel Rule Program | Cash App 9

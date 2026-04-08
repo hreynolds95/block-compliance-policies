@@ -1,0 +1,175 @@
+Compliance Real Time Transaction Blocking
+Program
+Cash App | US
+Last Approved: Aug 19, 2025
+Effective Date: Aug 19, 2025
+1. Overview
+Introduction and Purpose: Cash App is committed to complying with applicable laws, regulations,
+and guidelines to monitor, detect, prevent, and report possible money laundering, financial crimes,
+and terrorist financing.
+The Real-time Transaction Blocking ("RTB") Program ("Program") is an additional component to
+the existing Transaction Monitoring ("TM") and Unacceptable Use Policy ("UUP") Programs.
+This Program provides a mechanism to evaluate attempted transactions in real-time, automatically
+preventing or blocking them if specific compliance concerns are detected. This is a 'preventive'
+program that complements the 'detective' TM and UUP programs. Any transactional activity not
+assessed by the RTB process will still be subject to detection by the downstream TM and UUP
+monitoring rules. This Program is established and maintained to help proactively reduce the overall
+risk of the Cash App platform by preventing suspected illicit, suspicious and/or terms of service
+violations activity from occurring on the platform.
+Cash App utilizes rules that consist of proprietary algorithms (machine-learning, heuristics or some
+combination thereof) to evaluate and block transactions in real-time. These rules are established
+and maintained by the Risk Machine Learning team. Any new rules or recommended changes to
+the existing rules are reviewed and approved by the Financial Crimes Detections program and in
+accordance with the Model Change Management Process.
+The Program is applicable to transaction blocking rules targeted at Compliance Concerns.
+Scope: This Program is established by Cash App and is applicable to all Cash App products in the
+United States.
+
+Definitions:
+Terminology Definition
+Real time Transaction Blocking A system that evaluates a transaction in flight and makes a
+("RTB") System decision to block transaction based on the rule output.
+Good Customer Any user of the platform that is not involved in perpetrating
+fraud, scam, illegal/suspicious activity or Terms of Service
+violations in any form or fashion.
+Good Transaction Any transaction on the platform that is not involved in
+perpetrating fraud, scam, illegal/suspicious activity or Terms
+of Service violations in any form or fashion.
+Customer) Insult Any negative action on a good customer account or action
+that ends up negatively impacting that customers' experience
+or ability to transact on the platform.
+Compliance Concern A type of bad activity that Compliance actively monitors/seeks
+to prevent. (e.g., illegal drug sales, money laundering, adult
+services).
+Staff Member All employees and fixed-term and contingent workers who
+support the operations and/or subsidiaries covered by this
+Program, and include interns, temporary workers, consultants,
+vendors, third-party providers, and contractors.
+2. Program Requirements
+2.1 Process Presentation
+Fig. 1 - Real-time transaction evaluation and blocking system
+
+Fig. 2 - Offline rule performance measurement loop
+2.2 Transaction Evaluation, Blocking and Attribution
+RTB is specific to a particular payment type (e.g., a fiat peer to peer payment or a fiat remittance
+payment type). Additionally, different rules may be targeted at one or more Compliance Concerns
+(e.g., Prostitution prevention rule or a Drug trafficking prevention rule) for the same payment type.
+Multiple rules may even target the same Compliance Concern. Therefore, this Program will include
+multiple rules across multiple payment types and Compliance Concerns combined. Each payment
+type may have multiple rule evaluations and each rule can make a decision to block independently
+of other rules. When multiple rules evaluate a payment type, the decision to block will be true if
+any of the rules decide to block the payment (aka OR mechanism). If multiple rules make a
+decision to block, the block will be attributed to the rule corresponding to the highest risk
+Compliance Concern for metrics tracking purposes.
+2.3 Quality Control
+RTB rules aim to maximize the number of 'bad' transactions blocked; however, these rules are
+likely to have false positives that result in 'good' transactions (aka 'insults') getting wrongly
+blocked. Therefore, it is also important to track the false positive rates of these rules on an ongoing
+basis to take any corrective actions as necessary.
+2.4 Key Metrics
+The Program seeks to maximize the RTB rules' Recall performance ( aka the true positive rate).
+Since the rules have to balance against 'insults', Recall is typically optimized over iterative rule
+improvements and tuning. Each rule (or set of rules) is also designed (and continuously monitored)
+to keep insult rates within a predetermined tolerance level.
+The key metrics are -
+Recall = number of True Positives / number of True Positives + False Negatives)
+Insult Rate = 1 - Precision) * Block Rate
+
+Block Rate = number of transaction attempts blocked / total number of transactions
+Precision = number of True Positives / number of True Positives + False Positives)
+The insult tolerance for a specific rule (or set of rules) is determined on a case by case basis in
+consultation with Compliance Detections Program and Business leadership and is set based on the
+risk severity of the Compliance Concern being targeted by the rule.
+2.5 Compliance Specialist Review
+The Program will rely on Compliance Specialists to conduct reviews to track rule performance on
+an ongoing basis. Since the rule actions are automated (in real time), the reviews performed by
+Compliance Specialists will be conducted periodically through offline processes (typically weekly,
+biweekly or a monthly cadence). Depending on the risk severity of the Compliance concern being
+targeted, either a representative sample or one hundred percent of the transaction blocks are
+reviewed by humans. The decisions from these reviews will form the basis for generating true and
+false positive labels required to assess the performance of a specific rule (or set of rules) on an
+ongoing basis. Reviews may also include "below the line" ("BTL") alerts (i.e. transactions that were
+not actually blocked by the rule) required to estimate model Recall.
+As part of the review, the agent will take all the necessary actions including escalation to the SAR
+team, as appropriate.
+2.6 Tuning Criteria
+Tuning criteria is trigger based (as opposed to cadence based). The rule performance is tracked
+on an ongoing basis and failing to meet set performance targets will result in a review and possible
+rule re-tuning (which may include an underlying machine learning model rebuild).
+Additionally, a rule may be pro-actively re-tuned to improve the target metric (i.e. Recall) iteratively
+even if the insult rates are below the predetermined tolerance levels.
+2.7 Rule Audit
+Every transaction that is scored by a Program rule will log input signal values (this includes both
+the heuristics and machine learning model input signals) and the rule output (score and decision).
+This is maintained for replayability of the decision for audit reasons.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Compliance Operations:
+○ Review (sample of) alerts and investigate associated activity; and Decision alerts
+and escalate activity as necessary.
+● Risk Machine Learning:
+○ Maintenance of the Program document; Establish and maintain rules, parameters
+and thresholds; Monitor rule performance on an ongoing basis; Emergency rule
+shut off; Retune the rule as necessary; and Provide reporting to senior leadership
+
+on model performance and enhancement. Help determine the insult tolerance for
+the rules; and Act in a consultative capacity around best practices for RTB rules
+and systems.
+● Detections Program:
+○ Oversight of the program and process for the RTB rules
+3.2 Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+Exception requests must be pre-approved by the Head of Automation ML - Risk, Block or their
+designee. Staff Members may submit exception requests for review at go/policyhelp.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+● Transaction Monitoring Modeling Program
+● Block Change Management Procedure
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+
+Approval History:
+Approver Title Type Description Date
+Vijay Sathish Head of Creation Mar 6, 2024
+Compliance
+Engineering &
+Technology -
+Data, Cash App
+Tyler Hand Head of Initial Approval Mar 15, 2024
+Compliance,
+Cash App
+Tyler Hand Head of Immaterial Provided Jun 3, 2024
+Compliance, Change Approval additional minor
+Cash App edits and
+comments.
+Megan Gonzales Head of Financial Scheduled No material Aug 19, 2025
+Crimes Review updates.
+Compliance Alignment of
+content and
+sections to meet
+document
+template
+requirements
+Document Details:
+Business Cash App
+Scope Regional US
+Compliance Domain Financial Crimes
+Document Owner Head of Automation ML - Risk, Block
+Approved By Head of Financial Crimes Compliance
+Document Tier Tier 3

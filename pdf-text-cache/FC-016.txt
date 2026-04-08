@@ -1,0 +1,416 @@
+Payment Service Provider Due Diligence
+Standard
+Clearpay Finance Limited
+Last Approved: Mar 2, 2026
+Effective Date: Mar 2, 2026
+1. Overview 1
+1.1 Introduction and Purpose 1
+1.2 Scope 1
+1.3 Definitions 2
+2. Regulatory Framework 2
+2.1 CDD Treatment of PSPs 2
+2.2 Policy Integration 3
+2.3 Supporting Framework and Core Principles 3
+3. PSP Risk Assessment Framework 4
+3.1 Risk-Based Approach 4
+3.2 Due Diligence and Risk Indicator Identification 4
+3.3 Ongoing Risk Assessment Requirements 4
+4. PSP Onboarding Standards 5
+4.1 Mandatory Eligibility Criteria 5
+4.2 Due Diligence Standards 5
+4.4 Execution and Approval Standards 6
+5. Ongoing Monitoring Standards 6
+5.1 Review Scheduling 6
+5.2 Event-Driven Review Standards 6
+5.3 Transaction Monitoring Standards 7
+5.4 Watchlist Screening Standards 7
+6. Operational Integration Requirements 7
+7. Compliance & Enforcement 8
+7.1 Roles and Responsibilities 8
+7.2 Monitoring and Reporting Requirements 8
+7.3 Training Requirements 8
+7.4 Record Retention Requirements 9
+
+8. Documentation Standards 9
+8.1 Documentation Quality Requirements 9
+8.2 Documentation Retention and Management 9
+8.3 Audit Trail Requirements 9
+9. Technology and System Standards 10
+9.1 System Requirements Framework 10
+10. Exceptions 10
+11. Document Management 10
+11.1 Questions & Contact Information 10
+11.2 Related Documents 10
+11.3 Review and Approval 11
+1. Overview
+1.1 Introduction and Purpose
+This Clearpay UK Payment Service Providers PSP Due Diligence Standard (the "Standard")
+establishes mandatory requirements for Payment Service Provider due diligence and risk
+management within Clearpay Finance Limited's Merchant Services PSPs product offering.
+Clearpay Finance Limited ("Clearpay UK") operates as a subsidiary of Block, Inc. ("Block"),
+providing Buy Now Pay Later BNPL services in the UK market. Clearpay serves three distinct
+customer categories: consumers receiving BNPL loans, merchants utilising Clearpay payment
+options, and Payment Service Providers partnering with Clearpay to offer services to their
+merchant customers.
+This Standard defines specific, measurable requirements that must be achieved to ensure effective
+PSP oversight. The requirements establish comprehensive control frameworks, compliance
+metrics, technology standards, reporting obligations, exception management protocols, and quality
+assurance measures.
+1.2 Scope
+This Standard applies to Clearpay UK and governs all PSP relationships supporting the Merchant
+Services PSPs product offering, including:
+● Traditional merchant acquirers
+● Payment facilitators
+● Embedded finance providers
+● MLevel partners
+The Standard establishes requirements for due diligence, ongoing monitoring, risk management,
+and compliance oversight activities for all PSPs that partner with Clearpay to offer Clearpayʼs BNPL
+service to their merchant customers.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+1
+
+1.3 Definitions
+Terminology Definition
+A third-party financial services entity that integrates with Clearpay's
+Merchant Services product to enable Clearpay as a payment option for its
+Payment Service
+merchant clients. PSPs maintain direct contractual relationships with
+Provider PSP
+merchants and are responsible for merchant onboarding, due diligence,
+transaction processing, and compliance oversight.
+A PSP relationship where the PSP acts as Merchant of Record, assuming
+MLevel Partner enhanced responsibilities for merchant onboarding and transaction
+processing while enabling Clearpay services through their platform.
+Money A country or territory designated by HM Treasury (or an equivalent The
+designated senior individual within Clearpay Finance Limited who holds
+Laundering
+statutory responsibility for oversight of compliance with UK Money
+Reporting Officer
+Laundering Regulations and maintains ultimate approval authority for PSP
+MLRO
+onboarding decisions and periodic review outcomes.
+Comprehensive additional due diligence measures applied to High-risk
+Enhanced Due
+PSPs, encompassing enhanced documentation requirements, beneficial
+Diligence EDD
+ownership verification, control testing, and increased monitoring frequency.
+Block Merchant
+The specialised Block team responsible for executing PSP due diligence
+and Network
+reviews, ongoing monitoring activities, and compliance oversight on behalf
+Compliance
+of Clearpay while leveraging Block's enterprise compliance infrastructure.
+MNC
+2. Regulatory Framework
+2.1 CDD Treatment of PSPs
+PSPs are not customers under the Money Laundering Regulations because the services they
+receive from Clearpay are not listed activities under the MLRs. Nevertheless, Clearpay applies
+standards equivalent to customer due diligence under the Money Laundering Regulations to PSPs
+to mitigate the risk of regulatory challenge, meet broader financial crime obligations, and ensure
+comprehensive risk management.
+Clearpay does not apply customer due diligence to PSP Sub-merchants because the firm has no
+direct business relationship with these entities. However, Clearpay remains exposed to the
+ML/TF/PF and Sanctions risk that processing their transactions poses. Therefore, Clearpay applies
+enhanced due diligence measures to all PSPs given their role in facilitating relationships with PSP
+Sub-merchants and Clearpayʼs reliance on the controls of PSPS to mitigate the risks posed by their
+sub-merchants.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+2
+
+2.2 Policy Integration
+This Standard complies with Clearpayʼs AML/CTF/CPF and Sanctions Policy and maintains
+alignment with Block's global compliance framework while establishing Clearpay-specific
+requirements. Where conflicts exist between this Standard and Block's global standards, UK policy
+and regulatory requirements take precedence.
+The Standard builds on the Block Standards for Payment Service Provider Oversight and Indirect
+Merchant Relationships, incorporating the global framework while addressing Clearpay's business
+model, Clearpayʼs AML/CTF/CPF and Sanctions policy requirements, and local regulatory
+expectations.
+2.3 Supporting Framework and Core Principles
+This Standard operates within a comprehensive compliance framework supported by established
+Block processes and standards. The Block Standards for Compliance Outreach and Escalations to
+PSPs provides the operational foundation for managing PSP compliance communications,
+establishing structured timelines, escalation pathways, and accountability measures that ensure
+effective oversight execution.
+Core Principles of this Standard:
+Risk-Based Approach: All PSP oversight activities are calibrated to assessed risk levels,
+ensuring proportionate resource allocation and appropriate control measures.
+Regulatory Primacy: UK regulatory requirements take precedence over global standards
+where conflicts exist, ensuring full compliance with applicable laws.
+Comprehensive Due Diligence: PSPs must demonstrate robust compliance capabilities
+through comprehensive verification and ongoing assessment processes.
+Continuous Monitoring: Ongoing oversight through transaction monitoring, due diligence
+refresh and event-driven assessments ensures sustained compliance effectiveness.
+Operational Integration: Seamless coordination between Clearpay compliance functions
+and Block's enterprise infrastructure ensures consistent and effective oversight.
+Technology-Enabled Oversight: Automated systems and real-time capabilities enhance
+monitoring effectiveness and compliance efficiency.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+3
+
+3. PSP Risk Assessment Framework
+3.1 Risk-Based Approach
+All PSP oversight activities operate under a comprehensive risk assessment framework informed
+by relevant risk indicators. This approach ensures that all PSPs meet Clearpayʼs enterprise risk
+appetite, regulatory and network expectations, and operational oversight standards from
+onboarding through the full lifecycle of the relationship.
+The risk assessment framework evaluates multiple risk indicators identified through the due
+diligence process to determine appropriate oversight measures, monitoring frequencies, and
+control requirements while maintaining consistently elevated standards across all PSP relationships
+as part of Clearpay's PSP due diligence program.
+3.2 Due Diligence and Risk Indicator Identification
+PSPs undergo comprehensive due diligence processes that identify and assess risk indicators
+through structured information requests and documentation review. The due diligence process
+encompasses:
+Information Request Process: PSPs complete comprehensive Due Diligence
+Questionnaires DDQs and provide supporting documentation that enables assessment of
+their business model, operational structure, and internal controls. This process identifies
+risk indicators related to business complexity, jurisdictional exposure, ownership
+structures, and compliance capabilities.
+Risk Indicator Evaluation: Through the due diligence process, various risk indicators are
+identified and evaluated, including but not limited to their operations, jurisdictional risk
+exposure, beneficial ownership, regulatory compliance history, proliferation financing risk
+exposure and control effectiveness. These indicators inform the intensity and scope of
+ongoing oversight requirements.
+Enhanced Assessment: All PSPs are subject to enhanced due diligence measures
+appropriate to their identified risk profile, with additional assessment requirements applied
+based on the nature and extent of risk indicators identified during the initial and ongoing
+due diligence processes.
+3.3 Ongoing Risk Assessment Requirements
+The Block MNC must submit active PSPs and their risk assessments for review and approval by the
+MLRO at least annually, and following material changes in PSP circumstances, regulatory
+developments, or identified concerns. Risk assessments must incorporate current information,
+reflect evolving risk profiles, and ensure that oversight measures remain appropriate to identified
+risk indicators.
+The MLRO must review PSP risk assessments annually as submitted to them.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+4
+
+All PSPs remain subject to due diligence standards regardless of risk indicator assessment, with
+risk indicators informing the intensity and frequency of specific oversight activities rather than
+determining baseline compliance requirements. This ensures consistent application of Clearpay's
+elevated compliance standards while enabling risk-proportionate oversight measures.
+4. PSP Onboarding Standards
+4.1 Mandatory Eligibility Criteria
+All PSPs must satisfy the following eligibility requirements before operational commencement:
+UK Entity Establishment: PSPs must be established as UK legal entities or maintain UK
+establishment through authorised representatives, representing a mandatory requirement
+for regulatory compliance.
+FCA Authorisation: PSPs must hold current and appropriate FCA authorisation or
+registration for payment services relevant to their intended business activities. Verification
+must occur through direct consultation of the FCA firm register at
+https://register.fca.org.uk/s/.
+Due Diligence Completion: PSPs must complete Clearpay's PSP due diligence process
+and receive final MLRO approval before operational commencement.
+4.2 Due Diligence Standards
+PSPs must demonstrate compliance with comprehensive AML/CTF/CTF and Sanctions due
+diligence standards that meet regulatory rules and expectations and the requirements of this
+Standard:
+Corporate Information Standards: PSPs must provide complete corporate documentation
+demonstrating legal establishment, organisational structure, and regulatory status sufficient
+to verify entity legitimacy and operational authority.
+Ownership and Control Standards: PSPs must demonstrate transparent ownership
+structures with complete beneficial ownership disclosure for all individuals or entities with
+25% or greater ownership or control, including verification of any identified beneficial
+owners.
+Compliance Program Standards: PSPs must maintain comprehensive AML/CFT/CPF and
+Sanctions compliance programs that demonstrate effective customer due diligence
+capabilities, risk assessment methodologies, sanctions screening programs, transaction
+monitoring systems, and ongoing monitoring frameworks appropriate to their risk profile
+and business model.
+Screening and Verification Standards: PSPs must implement screening programs that
+encompass PEP identification, sanctions screening, and adverse media monitoring for all
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+5
+
+relevant parties, with automated rescreening capabilities and appropriate escalation
+procedures for identified matches.
+Geographic Risk Assessment Standards: PSPs must demonstrate comprehensive
+geographic risk assessment capabilities that include consideration of UK High Risk Third
+Countries guidance published by HM Treasury for all operations and merchant
+relationships. Geographic risk assessment must include evaluation against Block Global
+Risk Rating Scorecard as part of their overall risk exposure assessment to Clearpay.
+Contractual Compliance Standards: PSPs must demonstrate contractual frameworks that
+include appropriate restricted goods and services provisions, termination rights for
+compliance purposes, audit rights for regulatory verification, and cooperation obligations
+for financial crime investigations.
+Ongoing Assessment Standards: PSPs must demonstrate enhanced risk assessment
+documentation demonstrating sophisticated understanding of ML/TF/PF risks.
+Management Approval Standards: PSPs must demonstrate Senior management approval
+requirements for high-risk relationship establishment and continuation.
+4.4 Execution and Approval Standards
+Due diligence execution must operate through structured collaboration between Block Merchant
+and Network Compliance and Clearpay's compliance function, with the MLRO maintaining ultimate
+decision-making authority for all PSP onboarding determinations and periodic review outcomes.
+All PSPs seeking to onboard with Clearpay must receive MLRO approval. Additionally, all periodic
+reviews of existing PSP relationships require MLRO approval to ensure continued compliance with
+Clearpay's standards and regulatory requirements and expectations.
+5. Ongoing Monitoring Standards
+5.1 Review Scheduling
+Ongoing monitoring incorporates continuous transaction monitoring and annual due diligence
+refreshes, which includes reviews of PSP due diligence, updated risk assessment and verification
+that oversight measures remain risk appropriate
+5.2 Event-Driven Review Standards
+Reviews must be triggered outside regular schedules for:
+● Adverse media coverage or regulatory enforcement actions
+● Material business model changes or ownership changes
+● Unusual transaction patterns identified through monitoring
+● Regulatory developments affecting PSP operations
+● Material risk escalations from internal monitoring activities
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+6
+
+5.3 Transaction Monitoring Standards
+Clearpay's Transaction Monitoring System must provide comprehensive oversight of all PSP
+sub-merchant transactional activity, monitoring transaction volumes, velocity patterns, geographic
+distributions, and risk indicators.
+Suspicious activity identified through transaction monitoring must be reviewed by Clearpay's
+Transaction Monitoring and SAR team, with material concerns escalated for review and potential
+suspicious activity reporting.
+5.4 Watchlist Screening Standards
+PSPs must implement comprehensive sanctions screening programs encompassing all
+sub-merchants and their beneficial owners incorporating sanctioned persons designated under:
+● UK HM Treasury Office of Financial Sanctions Implementation OFSI lists
+● European Union Consolidated List
+● United Nations Security Council Consolidated List
+● US Office of Foreign Assets Control OFAC lists
+PSPs must establish procedures for investigating potential matches, resolving false positives, and
+timely reporting of confirmed sanctions hits.
+6. Operational Integration Requirements
+Block MNC Collaboration: Block Merchant and Network Compliance team must execute
+due diligence reviews utilising established procedures adapted for Clearpay-specific
+requirements, ongoing monitoring and periodic review activities, and systematic
+documentation ensuring consistency and regulatory compliance.
+System Integration Requirements: Clearpay will utilise Block's enterprise systems while
+ensuring UK regulatory compliance through:
+● ThinkSmart System for DDQ workflow management
+● Google Drive for the storage of due diligence documentation
+● Blockʼs LexisNexis screening tools
+● Clearpay Transaction Monitoring for PSP oversight
+Request for Information RFI Standards: When additional clarification is required, RFIs
+must be drafted by Block MNC, reviewed by Clearpay Compliance team, and sent via the
+PSPʼs relationship manager with complete response review for adequacy.
+On-site Visit Assessment Standards: Determination of necessity for on-site visits to gain
+comprehensive understanding of a PSP AML/CFT/CPF and Sanctions program must be
+documented and justified based on risk assessment outcomes.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+7
+
+7. Compliance & Enforcement
+7.1 Roles and Responsibilities
+Clearpay Senior Management: Accountable food ensuring that Clearpay UK develops,
+establishes and maintains effective PSP oversight policies, procedures, systems and
+controls in accordance with regulatory requirements and maintains appropriate compliance
+culture.
+Money Laundering Reporting Officer MLRO Accountable for PSP compliance program
+oversight, approval of all PSP onboarding and periodic review decisions, escalation of
+material compliance concerns to senior management, and ensuring alignment between
+PSP compliance activities and broader regulatory obligations.
+Clearpay Compliance Team: Responsible for supporting the MLRO with day-to-day
+oversight of PSP compliance activities, coordination with Block MNC, policy interpretation
+and guidance, exception management and approval processes, and strategic oversight
+ensuring consistent application of compliance standards.
+Block Merchant and Network Compliance Team Block MNC Responsible for execution
+of PSP due diligence reviews, ongoing monitoring, refreshes and periodic review activities,
+risk assessment, and systematic documentation of all due diligence activities in compliance
+with the requirements of the Standard and relevant Block standards.
+Transaction Monitoring and SAR Team: Must conduct continuous monitoring of PSP
+sub-merchant transaction activity, investigation of suspicious activity alerts, and escalation
+for potential suspicious activity reporting.
+7.2 Monitoring and Reporting Requirements
+Block MNC must provide regular reporting to the MLRO encompassing PSP portfolio risk
+assessment updates, due diligence completion statuses and metrics, and material changes in PSP
+risk profiles.
+The MLRO must monitor compliance with this Standard on an ongoing basis.
+7.3 Training Requirements
+All relevant Clearpay personnel and Block staff supporting PSP due diligence execution must
+receive training covering UK AML/CFT/CPF regulatory requirements applicable to PSP
+relationships, due diligence requirements, suspicious activity recognition and reporting obligations,
+and sanctions screening procedures.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+8
+
+7.4 Record Retention Requirements
+All PSP due diligence documentation and monitoring records must be retained for minimum
+periods of five years from relationship termination, with longer retention periods applied where
+required by other regulatory obligations.
+8. Documentation Standards
+8.1 Documentation Quality Requirements
+All PSP due diligence and monitoring activities must meet comprehensive documentation
+standards:
+Written Rationale Requirement: All compliance decisions must include written rationale
+documenting the basis for risk assessments, approval decisions, and ongoing monitoring
+determinations.
+Version Control and Approval: All documentation must follow established version control
+and approval workflows ensuring proper authorisation and audit trails.
+8.2 Documentation Retention and Management
+Documentation management must ensure regulatory compliance and audit readiness:
+Structured Filing Systems: All PSP documentation must be maintained in structured filing
+systems enabling efficient retrieval and regulatory examination.
+Access Controls: Documentation access must be restricted to authorised personnel with
+appropriate business need and security clearances.
+8.3 Audit Trail Requirements
+Comprehensive audit trails must be maintained for all PSP compliance activities:
+Decision Documentation: Complete documentation of all compliance decisions including
+supporting analysis, risk assessments, and approval processes.
+Change Management: Documentation of all changes to monitoring frequencies, or
+compliance status with rationale and authorisation.
+Review History: Maintenance of complete review history including initial due diligence,
+periodic reviews, event-driven assessments, and outcome determinations.
+System Activity Logs: Automated logging of all system activities related to PSP
+management including screening results, alert generation, and investigation outcomes.
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+9
+
+9. Technology and System Standards
+9.1 System Requirements Framework
+The following technology and system standards must be implemented to support effective PSP
+oversight:
+Automated Transaction Monitoring Systems: Implementation of automated transaction
+monitoring systems with configurable rules capable of detecting suspicious patterns and
+generating investigative alerts.
+Sanctions Screening Capabilities: Deployment of sanctions screening capabilities
+enabling identification of prohibited parties during PSP initial and ongoing reviews.
+Automated Monthly Rescreening Functionality: Automated monthly rescreening
+functionality for PSP legal entity and UBO screening ensuring ongoing compliance with
+sanctions requirements and PEP identification.
+10. Exceptions
+The MLRO maintains authority to approve exceptions to this Standard provided that proposed
+exceptions do not violate UK regulatory requirements and alternative controls are implemented to
+mitigate associated risks.
+All exception requests must include comprehensive written justification, detailed risk assessment
+and mitigation strategy, and proposed alternative controls. All approved exceptions require written
+documentation and scheduled review dates for ongoing appropriateness assessment.
+11. Document Management
+11.1 Questions & Contact Information
+For questions or clarifications about this Standard, contact the MLRO or Clearpay Compliance
+team.
+11.2 Related Documents
+● Clearpay UK Anti-Money Laundering, Counter Terrorist Financing and Counter Proliferation
+Financing Policy
+● Block Standards for Payment Service Provider Oversight and Indirect Merchant
+Relationships
+● Clearpay UK PSP Due Diligence Checklist
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+10
+
+11.3 Review and Approval
+This document and changes must be approved in accordance with Clearpay's Compliance
+Document Approval Matrix. The Standard must be reviewed by the MLRO annually and in response
+to material changes to law, regulation, guidance, or Clearpay UK's business.
+Approval History:
+Approver Title Type Description Date
+Matt Wigens MLRO & Deputy Initial Approval Document 2 March 2026
+Head of creation
+Compliance
+Anthony La… Deputy MLRO Initial Approval Document 2 March 2026
+creation
+Document Details:
+Business Clearpay
+Scope Regional United Kingdom]
+Compliance Domain Financial Crimes
+Document Owner Deputy MLRO
+Approved By MLRO
+Document Tier Tier 2
+Clearpay UK Payment Service Provider Due Diligence Standard | Clearpay Finance Ltd.
+11

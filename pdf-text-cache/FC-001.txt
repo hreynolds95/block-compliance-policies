@@ -1,0 +1,391 @@
+ARCHIVED
+Anti-Money Laundering &
+Countering The Financing
+of Terrorism Policy
+Block
+October 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbydisclosedindividualswithinBlock,Inc.
+andonaneed-to-knowbasis.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 4
+1.Introduction 7
+2.Purpose 7
+3.Scope 7
+4.PolicyRequirements 8
+4.1Anti-MoneyLaunderingProgram 8
+4.1.1DesignationofBSA/AMLComplianceOfficer 8
+4.1.2Reporting 9
+4.1.3InternalPolicies,Procedures&Controls 9
+4.1.4AML/CFTRiskAssessments 9
+4.1.5Training&Awareness 10
+4.1.6IndependentTesting&Review 11
+4.1.7KnowYourCustomerProgram 11
+5.DocumentManagement 11
+5.1DocumentOwner 11
+5.2ReviewandApproval 12
+6.MonitoringandReporting 12
+7.Exceptions 12
+8.RecordRetention 12
+9.RelatedDocumentationorReferences 12
+10.RevisionandApprovalHistory 13
+11.DocumentDetails 14
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Anti-Financial Asetofregulatoryrules(includingtheBSA,USAPATRIOTAct,CTA,AMLA,
+Crime etc.)andinvestigativetechniquesaimedatpreventingandcombating
+variousillegalactivitiesrelatedtothefinancialsystem,including(butnot
+limitedto):MoneyLaundering;TerroristFinancing;Fraud;IdentityTheft;
+Corruption;SanctionsViolations;Cybercrime;TaxEvasion.
+Customer CIPrepresentstheminimumstandardofKYCandcomprisestwo
+Identification elements:a)thecollectionofcustomerinformation(IdentityCollection);
+Program(“CIP”) andb)verification(IdentityVerification)usingreliableandindependent
+sourcestoreasonablyestablishtheidentityofthecustomer.
+Covered IncludesallProductsandServicesofferedbyBlockthatrequireafinancial
+Products serviceslicenseorregistrationtoofferandmustcomplywithLocalLaws.
+CertainotherproductsmayalsobeconsideredCoveredProducts,suchas
+whererequiredunderpartnerbankexpectationand/orcontractual
+obligation.
+CustomerDue IncludingtheminimumstandardofCIP,CDDinvolvesthecollectionand
+Diligence riskbasedverificationofadditionalinformationfromcustomersat
+(“CDD”) onboarding,accountsetup,oronanongoingbasis
+EnhancedDue EDDrelatestoCDDplusadditionalcollectionand/orverificationof
+Diligence customerinformationwheretheriskofthecustomerispotentiallyhigh.
+(“EDD”) LocalLawsmayspecifycircumstanceswhereEDDmustbeperformed
+andthemeasuresrequired.
+KnowYour KYCincludestheprocessofestablishingrisk-basedcontrolstoreasonably
+Customer(“KYC”) identifyandverifytheidentityofBlock’scustomers. ThetermKYCmay
+alsobereferredtoasKnowYourBusiness(KYB)whendealingwith
+non-individualentitiesorbusinesscustomers.
+Money MoneyLaunderingistheprocessofmakingcriminalproceeds('dirty'
+Laundering money)appeartohavecomefromalegitimatesource('clean'money).
+Criminalsdothisbymovingthoseproceedsthroughdifferententities,
+accountsandtransactionswherethefundsarelesslikelytoattract
+attentionbutarereadilyaccessiblewhenrequired.
+Terrorist TerroristFinancingisthesolicitation,collectionordeliveryoffundsto
+Financing supportterroristactsororganizations.UnlikeMoneyLaundering,which
+alwaysinvolvestheproceedsofacrime,fundstofinanceterrorismare
+oftendivertedfromlegitimatesources.Terroristsmayalsorelyon
+launderedfundsderivedfromcriminalenterprises.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+4
+
+Confidential and Not for Distribution
+Terminology Definition
+Suspicious AreportofsuspiciousactivitytoarelevantgovernmentFinancial
+ActivityReport IntelligenceUnit. MayalsobereferredtoasSuspiciousTransactionReport
+(“SAR”) (“STR”)orSuspiciousMatterReport(“SMR”)basedonLocalLaws.
+TippingOff TippingOffreferstoapplicableLocalLawsthatprohibitthedeliberateor
+inadvertentdisclosureofinformationtoanythirdparty,includingaccount
+holders,thatmayprejudiceaninvestigationincludingbutnotlimitedto
+disclosingthataSAR(orlocalequivalent)hasbeenfiledoralertingofthe
+suspicionofprohibitedorillegalactivity.
+RolesandResponsibilities
+Role Responsibility
+AuditandRisk Following approval by the BSA/AML Compliance Officer, ARC reviewsthe
+Committee reportedresultsofBlock’sAnnualAML/CFTRiskAssessment.
+(“ARC”)
+Block,Inc.Board TheBoardisprimarilyresponsibleforensuringthatBlockestablishesa
+ofDirectors comprehensiveandeffectiveAML/CFTcomplianceprogramandan
+(“Board”) oversightframeworkthatisreasonablydesignedtoensurecompliance
+withLocalLaws.TheBoardisadditionallyresponsiblefor:
+● EstablishinganappropriatecultureofAML/CFTcompliance,
+includingreiteratingtheimportanceofdocumentationthat
+governsmanagementofrelatedrisks;
+● EnsuringthatSeniorManagementiscapable,qualified,and
+properlymotivatedtomanagethecompliancerisksarisingfrom
+eachrelevantsubsidiaryorjurisdiction’sactivities;and,
+● AppointingaBSA/AMLComplianceOfficerresponsiblefor
+coordinating,monitoring,andmanagingtheoperationalizationof
+thisPolicyandrelevantprograms.
+Block,Inc. TheBSA/AMLComplianceOfficerisresponsibleforcoordinatingand
+BSA/AML monitoringday-to-dayBSA/AMLcompliance. PleaserefertoSection4.1.1
+Compliance formoredetails.
+Officer
+(“BSA/AML
+Compliance
+Officer”)
+Compliance ComplianceLeadershipassistsincoordinating,managing,and
+Leadsor monitoringBlock’sBSA/AMLPolicyandProgramandreviewsthe
+Leadership Programandrelateddocumentsannuallyanduponanymaterialchange.
+InternalAudit InternalAuditindependentlyassessesBlock’sadherencetothisPolicy,as
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+5
+
+Confidential and Not for Distribution
+Role Responsibility
+wellasitsadherencetokeylegalrequirements/expectationsand
+industrypractices.
+Money MLROsaredesignatedindividualswithappropriateauthority,
+Laundering independence,andaccesstoresourcesandwhoareresponsibleforthe
+ReportingOfficer oversightandimplementationofAML/CFTpoliciesorprogramsin
+(“MLROs”) subsidiariesorjurisdictionswheretheyarerequired.MLROsare
+responsibleforensuringAML/CFTpoliciesorprogramsaretailoredto
+addressrisksapplicabletotheirbusinessandcustomers,andapproved
+accordingtotheapplicableregulatory,legal,orbusinesspartner
+requirements.
+Senior SeniorManagement,whichincludeskeymembersofBlock’s
+Management managementteam, isresponsibleforcommunicatingandreinforcing
+theAML/CFTcompliancecultureestablishedbytheBoard.Additionally,
+theyareresponsibleforimplementingandenforcingapprovedAML/CFT
+compliancepoliciesandstandards.
+StaffMembers StaffMembersplayacrucialroleinthedetectionandpreventionof
+MoneyLaunderingandTerroristFinancingviolations.StaffMembersare
+responsibleforpayingparticularattentiontocustomerbehavioror
+transactionsthatmaybeunusualorwarrantadditionalscrutiny,and
+mustnotknowinglyprovideadviceorotherassistancetoindividualswho
+attempttoviolateLocalLaws,orBlock’srelatedpolicies,programs,or
+procedures.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+6
+
+Confidential and Not for Distribution
+1. Introduction
+The Anti-Money Laundering & Countering the Financing ofTerrorismPolicy(“Policy”)outlinesBlock,
+Inc.’s and its subsidiaries (“Block” or the “Company”) commitment to compliance with anti-money
+laundering (“AML”) and countering the financing of terrorism (“CFT”) laws and regulations (“Local
+Laws”) in all jurisdictions in which they operate, and to preventthemisuseofservicesandanyother
+related involvement in criminal or unlawful activity. Money laundering and terrorist financing are
+serious financial crimes with potentially serious social andfinancialeffects.TheU.S.governmenthas
+passed laws that impose affirmative obligations upon covered entities in order to prevent, detect,
+andreporttheseactivities.
+2.Purpose
+This Policy is designed in compliance with applicable Local Laws and establishes Block’s
+commitment to a culture of AML/CFT compliance. Because the business activity of each Block
+subsidiary and jurisdiction varies, the application of individual AML/CFT compliance requirements
+may also vary. This Policy establishes a framework for satisfying relevant AML/CFT compliance
+requirements and is intended to be supplemented byadditionalpolicies,programs,andprocedures
+where necessary, including but not limited to the Global Sanctions Compliance Policy. Compliance
+with Local Laws is to be achieved through the implementation of arisk-basedcomplianceprogram
+thatisapprovedbytherelevantgoverningboardofdirectors,whererequired.
+3. Scope
+This Policy is established by Block and is applicable to Covered Products globally across all Block
+businesslines,subsidiaries,andjurisdictions.
+In the U.S., in-scope Local Laws include the Bank Secrecy Act, as amended by Title III of the USA
+PATRIOTAct(collectively,the“BSA”).AdditionalLocalLawsinclude,butarenotlimitedto:
+● AustraliaAnti-MoneyLaunderingandCounter-TerrorismFinancingAct2006
+● BermudaProceedsofCrimeAct1990
+● CanadaProceedsofCrime(MoneyLaundering)andTerroristFinancingAct
+● EuropeanUnionFifthAnti-MoneyLaunderingDirective
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+7
+
+Confidential and Not for Distribution
+● Ireland Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act
+2018
+● JapanActonPreventionofTransferofCriminalProceeds
+● NewZealandAnti-MoneyLaunderingandCounteringFinancingofTerrorismAct2009
+● Spanish Law 10/2010 combating Money LaunderingandTerroristFinancing;RoyalDecree
+304/2014 combating Money Laundering and Terrorist Financing; Royal Decree 7/2021, 27
+ofApril,transposingEuropeandirectivesincludingAMLdirectives
+● United Kingdom Money Laundering, Terrorist Financing and Transfer of Funds
+Regulations2017andUnitedKingdomProceedsofCrimeAct2002
+No part of this Policy or its supporting documentation should be interpreted as contravening or
+superseding any other legal or regulatoryrequirementsimposeduponBlock.Anyconflictsbetween
+this Policy and Block’s other legal or regulatory obligationsshouldbesubmittedimmediatelytothe
+BSA/AML Compliance Officer for further evaluation and/or subsequent submission to Block’sGlobal
+ChiefComplianceOfficer(the“GlobalCCO”)orBlock’sChiefLegalOfficerwherewarranted.
+4.Policy Requirements
+4.1 Anti-Money Laundering Program
+In accordance with the BSA, U.S. financial institutions are relied upon to assist U.S. government
+agenciesindetectingandpreventingMoneyLaunderingandTerroristFinancing.TheBSAmandates
+the implementation of written risk-based AML programs, recordkeeping, and reporting
+requirements that are reasonably designed to ensure compliance with all applicable BSA
+requirements.
+The BSA defines financial institutions as inclusive of a list of covered businessactivities;additionally,
+the U.S. DepartmentoftheTreasury,throughtheFinancialCrimesEnforcementNetwork(“FinCEN”),
+imposesAMLprogramrequirementsspecifictoparticularfinancialinstitutions.
+4.1.1 Designation of BSA/AML Compliance Officer
+The Board designates the BSA/AML Compliance Officer, who is responsible for oversight of
+day-to-day AML compliance with this Policy and Block’s AML/CFT program. The Board has
+designatedtheGlobalCCOinthisrole.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+8
+
+Confidential and Not for Distribution
+The BSA/AML Compliance Officer maydelegatecertaindutiesundertheProgramtoothersandalso
+mayformallyappointaDeputyBSA/AMLComplianceOfficer(s)tocompletecertainresponsibilities.
+MLROs are accountable to the BSA/AML Compliance Officer to support compliance with the
+AML/CFT program in addition to ensuring compliance with any Local Laws in their respective
+jurisdiction.
+4.1.2 Reporting
+In order to manage program operations and mitigate organizational risk, routine reporting is to be
+conductedontheAML/CFTprogram.SeniorManagementinComplianceisresponsibleforproviding
+periodic AML/CFTprogram reports, updates, and material developments to the BSA/AML
+Compliance Officer who is then responsible for reporting those developments to the Board or
+designated Board subcommittee at least annually. The BSA/AML Compliance Officer may provide
+ad-hocprogramupdatestotheBoard,whendeemedappropriateorrequested.
+MLROs within applicable Block subsidiaries or jurisdictions are responsible for providing material
+AML/CFTprogramdevelopmentstotheirdesignatedboardofdirectorsatleastannually.
+4.1.3 Internal Policies, Procedures & Controls
+Block maintains internal policies, procedures, and controls to support ongoingcompliancewiththe
+AML/CFT program. These include, amongst other things, requirements to conduct AML/CFT risk
+assessments, customer and employee due diligence, and maintaining relevant systems and
+procedures to monitor transactions for unusual behavior and report suspicious activity to law
+enforcement agencies in the countries where Block is required to under Local Laws. The AML/CFT
+program includes additional minimum requirements in respect to key controls such as quality
+assurance, line two independent monitoring and testing, record keeping requirements as well as
+controlstopreventTippingOff.
+4.1.4 AML/CFT Risk Assessments
+Block is responsible for conducting AML/CFT risk assessments in order to identify potential money
+laundering and terrorist financing risks and to inform the design and priorities of the AML/CFT
+complianceprogram.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+9
+
+Confidential and Not for Distribution
+The AML/CFT risk assessment must undergo periodic review to account for changes in product
+offerings and services, customers and entities, and geographic locations. Risk assessments may be
+updatedonaregularbasisincludingbutnotlimitedtothefollowingcircumstances:
+● Newproductsorservicesareoffered;
+● MaterialchangesaremadetoLocalLaws;
+● Materialchangesaremadetoexistingproducts;or,
+● NewmarketsorjurisdictionsareenteredthatwillmateriallyimpactBlock’sriskprofile.
+Riskassessmentsspecifictoproductsmustbecompletedpriorto:
+● New or materially changed products or services being available in any capacity to active
+customers;or
+● Theeffectivedateofapplicablelegalrequirements.
+Block’s Annual AML/CFT Risk Assessment is approved by the BSA/AML Compliance Officer and
+reported to the ARC. Where required, AML/CFT risk assessments conducted under Local Laws are
+also shared, and in some instances may require approval from the relevant governing board of
+directorsforBlocksubsidiaries.
+4.1.5 Training & Awareness
+In accordance with Local Laws, Block is responsible for the implementation of an AML/CFT training
+program. The Compliance Training Program Standard (“Training Standard”) & Annual Calendar is
+risk-based and designed to provide relevant and targeted training. Block uses a number of
+mechanisms to deliver training, including online, virtual,andface-to-facemechanisms. AllAML/CFT
+training is documented with relevant training records maintainedinaccordancewithBlock’srecord
+keepingrequirements.
+Upon hire, Staff Members must complete AML/CFT training within areasonableperiodoftheirstart
+date and each calendar year thereafter. Training is to be provided via an online Learning
+Management System (LMS). The Training Standard also outlines a communication and escalation
+processfornon-completionofAML/CFTtrainingwhichmayvarybyjurisdiction.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+10
+
+Confidential and Not for Distribution
+Block also provides role-specific training and specialist compliance training courses to staff
+responsibleforsupportingAML/CFTcompliance.
+Additionally, on an annual basis, the Block BSA/AML Compliance Officer or their designee
+administers AML/CFT training to the Board, which is evidenced and recorded in Board minutes.
+SimilartrainingisalsodeliveredtotherelevantgoverningBoardofDirectorsforBlocksubsidiaries.
+4.1.6 Independent Testing & Review
+In accordance with Local Laws, Block’s Internal Audit team is responsible for conducting
+independent, periodic risk-based assessments on the overall adequacy and effectiveness of the
+AML/CFT compliance program as well ascompliancewithapplicableLocalLaws.Writtenreportsare
+to summarize audit findings and recommend corrective actions as needed. The Board places
+accountability on Senior Management to address any results from the audit of the AML/CFT
+program in an appropriate manner and to report on the status of any remediation efforts on a
+regularbasis.
+4.1.7 Know Your Customer Program
+The level of KYC performed will be proportionate to the risksidentifiedandminimumrequirements
+under Local Laws. KYC may consist of CIP, CDD, and EDD, such as additional collection and
+verification requirements based on the legal entity structure of the customer, including beneficial
+owners, directors, and other related parties. Complex entities such as multi-layered entities and
+trusts may require special due diligence measures. Where a customer isidentifiedashigherrisk,an
+EDDprocessgenerallywillbeapplied.
+It is Block’s policy to conduct customer risk ratings at the timeofonboardingaswellasperiodically.
+In accordance with Local Laws, using a risk-based approach, Block also maintains systems and
+processestokeepcustomerinformationuptodate(“KYCRefresh”).
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheBSA/AMLComplianceOfficerortheirdesignee.
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+11
+
+Confidential and Not for Distribution
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis by the
+BSA/AML Compliance Officer and the Board in accordance with the Compliance Document
+ApprovalMatrix.
+6.Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitorPolicyrelatedactivitiesto
+evaluateadherencetothePolicyanddeterminewhetheroutputsadheretoestablishedobjectives.
+7. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate Local Laws. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Governance Team at
+go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicablecommittees,asneeded,ofexceptions.
+8.Record Retention
+AllpublishedDocumentsareretainedinaccordancewithBlock’sRecordRetentionguidance.
+9.Related Documentation or References
+RelatedDocuments:
+RelatedPolicy Block'sGlobalSanctionsCompliancePolicy
+RelatedStandard Block'sComplianceTrainingProgram
+Standards
+RelatedStandard Anti-MoneyLaundering,Counter-Terrorist
+Financing&SanctionsRiskAssessment
+Program
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+12
+
+Confidential and Not for Distribution
+RelatedStandard Anti-MoneyLaunderingCounteringthe
+FinancingofTerrorism&SanctionsProduct
+RiskAssessment
+10. Revision and Approval History
+ApprovalHistory
+Name Title Type Description Date
+Sandy Zanaty Global Creation Consolidationof August26,2022
+Compliance former(now
+PolicyManager archived)Block
+BankSecrecy
+Act/Anti-Money
+Laundering
+PolicyandBlock
+Anti-Money
+Launderingand
+Counter-Terrorist
+FinancingPolicy.
+Migratedand
+reformattedinto
+newtemplate.
+Colin Gibson Compliance Initial Appro… August29,2022
+Policy,Training&
+ReportingLead
+Block,Inc.Audit Block,Inc.Audit Initial Appro… October21,2022
+andRisk andRisk
+Committee Committee
+Amelia Childr… BSA/AMLOfficer Scheduled … Approvedaspart October13,2023
+ofannualreview.
+Block,Inc.Audit Block,Inc.Audit Scheduled … Approvedaspart October26,2023
+andRisk andRisk ofannualreview.
+Committee Committee
+Tyler Hand InterimChief Scheduled … Approvedaspart October18,2024
+Compliance ofannualreview
+Officer
+BlockBoardof BlockBoardof Scheduled … Approvedaspart October24,2024
+Directors Directors ofannualreview
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+13
+
+Confidential and Not for Distribution
+11. Document Details
+Business Block
+Scope Global
+ComplianceDomain Anti-Financial Crimes
+DocumentOwner BSA/AMLComplianceOfficer
+LastApprovalDate October24,2024
+EffectiveDate October21,2022
+ApprovedBy Block,Inc.Board
+DocumentReviewSchedule Annually
+Anti-Money Laundering & Countering the Financing of Terrorism Policy| Block
+14

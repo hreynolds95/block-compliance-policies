@@ -1,0 +1,1251 @@
+Compliance Policy on
+Policies
+Block
+February 2026
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Compliance Policy on Policies | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions and Roles & Responsibilities 5
+1. Introduction 9
+2. Purpose 9
+3. Scope 10
+4. Policy Requirements 10
+4.1 Goals for Effective Governance 10
+4.2 Policy Governance Guiding Principles 10
+4.3 Document Hierarchy 11
+4.4 Conflict Checks with Existing Documents 11
+4.5 Compliance Domains 13
+4.6 Document Ownership Principles 13
+5. Document Lifecycle 13
+5.1 Identification (New Policies/Standards) 14
+5.2 Creation (New Policies / Standards) 14
+5.3 Revision/Review 14
+5.4 Approval 15
+5.5 Publishing & Storage 16
+5.6 Policy Publication and Communication 17
+5.7 Implementation 18
+6. Scheduled Review / Maintenance 18
+6.1 Scheduled Review / Off-Cycle Changes 18
+6.2 Policy Review Date Extensions 20
+6.3 Exception Handling 20
+6.4 Record Retention 21
+7. Retirement and Archival 21
+8. Compliance Document Approval Matrix 21
+9. Revision & Approval History 22
+10. Document Details 24
+Appendix - Quality Control Checklists and Tollgates 26
+Appendix A- Policy Team Quality Control Checklist 26
+Appendix B- Owner Guidance and Checklist 29
+Appendix C- Style Guidelines and Checklist 32
+Appendix D- Tollgates 36
+Compliance Policy on Policies | Block
+3
+
+Confidential and Not for Distribution
+Definitions and Roles and Responsibilities
+Definitions
+Terminology Definition
+Compliance Document Owners and Approvers represent Compliance Teams and are
+Team(s) (“CT”) responsible for reviewing, updating and approving the content of
+documents at the minimum cadence specified in the Compliance
+Document Approval Matrix, or as needed, based on business requirements.
+They are responsible for initiating collaboration with the Policy Team at
+Intake phase, owning content revisions and drafts during the Drafting and
+Review phase, confirming alignment on QC feedback.
+Compliance Compliance Domains include:
+Domain(s) ● Compliance Governance;
+● Compliance Engineering & Technology;
+● Consumer Protection;
+● Ethics & Employee Conduct; and
+● Anti-Financial Crimes.
+In-Scope Compliance Policy and Standards.
+Document(s)
+(“Document”) Note: Procedures are not subject to review by the Policy Team and therefore
+are not considered in-scope Documents.
+Exception Any deviations from requirements or processes dictated in a given
+Document.
+Immaterial Non-substantive changes to a Document’s content that does not impact
+Changes requirements or guidance impacting the goals, principles, processes, or
+directives. Immaterial Changes may consist of updating grammar,
+formatting, correcting naming conventions, or updating links, among other
+non-substantive changes.
+Material Changes Substantive changes to a Document’s requirements or guidance impacting
+the goals, principles, processes, or directives. Material changes include but
+are not limited to:
+● New requirements
+● More restrictive requirements
+● Expansion of scope
+● Changes that materially impact business operations
+● Changes that affect risk controls or regulatory compliance
+Policy Policies are high level statements of management intent that formally
+establish requirements to drive compliance and outline the goals, principles,
+or directives of the Chief Compliance Officer (“CCO”). Policies focus on
+communicating binding compliance requirements and do not dictate
+detailed steps. Policies are the overall guidelines for the organization.
+Compliance Policy on Policies | Block
+4
+
+Confidential and Not for Distribution
+Terminology Definition
+Procedure Procedures change frequently and describe steps that implement a Policy or
+process to comply with a regulation or standard. Procedures focus on a
+process and desired outcome between multiple teams. Procedures exist to
+standardize a process and provide guidance on timing and output.
+Procedures are not considered an In-Scope Document for the purposes of
+the Policy Team.
+Standard Standards assist in decision-making and outline further business,
+technology, risk or other processes, and controls outlined in overarching
+policies. Standards may lay out the operational strategy and functions that
+are performed to implement a Policy’s requirements. Standards may also
+establish lifecycle stages, responsibilities, and any additional product,
+business or market-specific requirements that go beyond what’s required in
+an overarching Policy.
+Staff An employee or external worker (e.g., contingent labor, contractors) hired by
+the Company who supports the operations covered by this Policy.
+Roles and Responsibilities
+Role Responsibility
+Compliance Policy The Policy Team is responsible for establishing, managing, and maintaining
+and Mandatory the Policy Governance Standards and Compliance Document inventory.
+Training Team Responsibilities include:
+(“Policy Team”) ● Providing guidance and consultation in Document creation;
+● Facilitating review and approval in conjunction with the Owner;
+● Publishing and storage;
+● Coordinating scheduled reviews in conjunction with the Owner;
+● Intake of approved Exception requests;
+● Reporting the status of the Policy program to Compliance Leadership;
+● Retaining archived Documents and approvals;
+● Completing a quality control review for all Documents; and
+● Supports the Policy communication framework.
+Compliance Policy The Domain Owner is a member of Compliance Leadership that is
+Domain Owner responsible for the Global strategy for their Domain including:
+(“Domain Owner”) ● Assessing documents against Global Policies or Standards and
+providing advice as the SME for the Domain;
+● Approving Documents, as needed;
+● Understanding the Company’s current strategy for the Domain;
+● Engaging on Policy governance escalations.
+Note: Due to organizational structures, some domains may not have
+designated owners, while others may have multiple owners as appropriate.
+Compliance Policy on Policies | Block
+5
+
+Confidential and Not for Distribution
+Role Responsibility
+Policy / Standards The Owner is an individual responsible for ensuring that a Document makes
+Owner (“Owner”) its way through the entire Document lifecycle. Responsibilities include:
+● Identifying the need for potential new Documents and ideating;
+● Creating initial version of Documents;
+● Identifying reviewers and approvers;
+● Planning and conducting awareness campaigns;
+● Conducting scheduled reviews;
+● Understanding the Company’s current state of Compliance with a
+Document;
+● Ensuring forward-looking requirements are accounted for in roadmap
+planning and can be operationalized within a reasonable timeframe;
+● Developing and tracking the execution of the implementation plan;
+and
+● Completing attestations to the Document’s content prior to
+publication.
+Policy / Standard An appropriate individual identified by the Owner to assume responsibility
+Delegate for drafting the document and obtaining stakeholder reviews for the
+(“Delegate”) Document. The Delegate is responsible for keeping the Owner informed of
+key updates and changes and must obtain Owner review prior to submission
+to Compliance Leadership or a Board or Committee for final approval, as
+applicable.
+Policy / Standard Stakeholder Reviewer is an individual or relevant group of individuals
+Reviewer responsible for providing input and sign off on a Document for their
+(“Stakeholder respective area(s). Stakeholder Reviewers are typically selected by the Owner
+Reviewer”) or Delegate based on their subject matter expertise and may include Legal
+Counsel.
+Policy / Standard The Approver is an individual or relevant group of individuals, such as
+Approver Compliance Leadership or a Committee or Board, responsible for providing
+(“Approver”) review, feedback, and approval on a Document. Approvers are selected in
+accordance with the Compliance Document Approval Matrix. The Policy
+Team will not publish Documents until all necessary approvals have been
+provided.
+Legal Counsel Legal Counsel provides guidance and interpretative advice and counsel
+regarding Compliance Document requirements.
+C-Core +1 or C-Core Members of Compliance Core (“C-Core”) or C-Core +1 that oversee and
+(“Compliance provide final approval for Tier 3 Documents.
+Leadership”) ● C-Core includes individuals who report directly to the Chief
+Compliance Officer for Block Inc.
+● C-Core +1 includes individuals who report directly to any member of
+C-Core.
+Compliance Policy on Policies | Block
+6
+
+Confidential and Not for Distribution
+Role Responsibility
+Block, Inc. Board The governing Block, Inc. Board that oversees and provides final approval for
+(“Block Board”) applicable Tier 1 Documents.
+US Subsidiary The governing US Subsidiary Boards that oversee and provide final approval
+Boards (“US for applicable Tier 1 Documents.
+Board(s)”)
+International The governing International Subsidiary Boards that oversee and provide final
+Subsidiary Boards approval for applicable Tier 1 international Documents.
+(“International
+Board”)
+Compliance Policy The governing Compliance Policy Committee that oversees and provides
+Committee approval for applicable Tier 1 and 2 Documents. The Committee is also kept
+(“CPC”) informed of Tier 3 Documents, as needed.
+Corporate Provides guidance and confirmation on the relevant board or committee of
+Governance Block and its subsidiaries with appropriate oversight and approval authority
+for Tier 1 Documents.
+Compliance Policy on Policies | Block
+7
+
+Confidential and Not for Distribution
+1. Introduction
+This Compliance Policy on Policies (“PoP”) outlines Block, Inc.'s (“Block” or “Company”) commitment
+to establishing oversight for documentation standards which includes Policies, Standards, and
+Procedures. This PoP promotes a consistent framework for Compliance when developing
+governance Documentation to mitigate risks related to accountability, regulations, or Company
+guidelines.
+2. Purpose
+Compliance Documents tell customers, regulators, and the public, a story about how Block does
+business. Block relies on Compliance Documents to establish requirements, strategies, and
+instructions around key areas including customer protection, regulatory reporting, ethical practices,
+and other key Compliance Domains. A comprehensive Compliance Document inventory serves not
+only to demonstrate awareness of Block’s regulatory environment, but to inform Block’s everyday
+decisions.
+A Compliance Policy establishes requirements for Block to comply with applicable laws, regulations,
+and rules relating to Block's products or services. The Compliance organization (“Compliance”) is
+responsible for ensuring that Block’s Compliance Documents are tailored to meet governing
+requirements and unique to the ways that Block does business. From Policies stem Standards and
+Procedures that add additional guidance for implementing a Policy’s requirements.
+As a regulated global firm, Block’s Compliance Documents may come under scrutiny from
+numerous governing bodies, and when they do, they’re expected to be accurate, up-to-date, and
+operationalized.
+This PoP establishes the Document hierarchy and lifecycle of Compliance Policies, Standards, and
+Procedures, as well as the roles and responsibilities for keeping Block’s Compliance Document
+inventory reliable and compliant. This PoP also outlines additional practices for Document changes,
+approvals, and retention.
+Compliance Policy on Policies | Block
+8
+
+Confidential and Not for Distribution
+3. Scope
+This PoP is established by Block and is applicable globally across all Block business lines, subsidiaries,
+and jurisdiction. Specifically, this PoP is applicable to Compliance Documents. Compliance Staff are
+responsible for creating documentation in accordance with the guidelines outlined in this PoP.
+4. Policy Requirements
+4.1 Goals for Effective Governance
+In order for Documents to be governed effectively, they must be:
+● Current and reviewed on a regular basis;
+● Readily available to all relevant and interested stakeholders in a timely manner;
+● Drafted in plain language that is understandable by the intended audience;
+● Developed using approved templates available at Go/Policy;
+● Effectively communicated;
+● Effectively monitored and reviewed to promote comprehension and Compliance with
+requirements; and
+● Where appropriate, aligned and incorporated into Block’s training programs.
+4.2 Policy Governance Guiding Principles
+● Hierarchy: Documents should follow a defined Document hierarchy.
+● Inventory Structure: Block Documents should first be utilized, where possible. Subsidiary
+or Compliance Team (“CT”) specific Documents may exist due to regulatory or partner
+requirements.
+● Conflict Management: Documents on similar topics should not conflict and
+inconsistencies must be justified.
+● Ownership and Delegation: Documents may be delegated from an Owner to a Delegate
+who assume full ownership and accountability.
+● Governance: Compliance Documents are managed by the Policy Team and must adhere
+to PoP standards.
+● Repository: Compliance Documents should be documented and organized in a policy
+system of record (“SOR”) or a centrally owned website managed by the Policy Team.
+Compliance Policy on Policies | Block
+9
+
+Confidential and Not for Distribution
+4.3 Document Hierarchy
+Block’s Compliance Documents follow a Document hierarchy that includes Policies, Standards, and
+Procedures, as described below. Each Compliance Document governed by this PoP is closely related
+to other Compliance Documents within its Document hierarchy. As such, each Compliance
+Document should include a reference to the related Documents to be referenced and read in
+conjunction.
+4.4 Conflict Checks with Existing Documents
+Aligning Documents and reviewing for conflicts across Block and its subsidiaries allows for
+consistency and clarity on applicable requirements and enables communication throughout the
+Company. Wherever possible, Owners or Delegates must first attempt to use existing governance
+Documents from any and all levels within Block or its subsidiaries. Block Policies should first be
+utilized, where possible before creating subsidiary Policies. Policies and/or Standards on similar
+topics should not conflict and any inconsistencies should be justified by business necessity or market
+conditions. Subsidiary or CT specific Policies or Standards may exist if required by regulation or
+partners requirements if coverage does not exist at the Block level.
+Before the creation of new Documentation, Owners or Delegates must submit a new document
+request form to the Policy Team and review Go/Policy and/or the SOR to identify any related
+Documents that may already exist in the inventory. If there is a Document that covers substantially
+Compliance Policy on Policies | Block
+10
+
+Confidential and Not for Distribution
+the same scope, the Document Owner should review to determine if a new Document is actually
+needed or if existing Documentation covers the required topics and requirements. If a Document
+exists covering overall requirements, but the Document Owner determines further scope or
+requirements need to be expanded on, the Owner should consider whether a Standards Document
+is appropriate instead of creating an additional Policy which may have significant overlap with an
+existing Policy.
+If there are no existing related Documents or if an existing Document does not cover the correct
+scope and Standards are not sufficient (e.g., due to partner requirements), the Document Owner can
+continue with the creation of a new Policy or Standards, but should consult with the Policy Team to
+confirm the approach. If a potential duplication or redundancy is identified and the Policy Team and
+requestor can not come to a resolution, the Policy Team will obtain Compliance Leadership input to
+resolve the request. When creating new Documents, the Owner or Delegate should ensure they are
+aligning to existing Documents, where possible.
+Application:
+● Policies: A Policy will be at the Block-level level and globally applicable to govern all
+Standards and Procedures within the subject matter Domain, unless the Policy is required
+at the CT level, in cases where specific business or regulatory needs necessitate a
+standalone policy. In such cases, a Policy may be specific to the corresponding CT, with or
+without a Block-level Policy to oversee it, with the necessary review and approval by the
+Policy Team for the Exception from the Block-level Policy. A Policy is a predicate to
+Standards or a Procedure, unless there are specific Exceptions reviewed and approved by
+the Policy Team.
+● Standards: Standards will be at the Block-level and govern all Procedures within the
+subject matter Domain, unless there are regulatory requirements that necessitate a
+CT-specific Standards or the CT’s business model or business needs necessitate Standards
+that would not be applicable to other entities within the Block enterprise. In such cases, a
+Standard may be specific to the corresponding entity, with the necessary review and
+approval by the Policy Team.1
+● Procedure: A Procedure may be at the Block-level if the Procedure corresponds to
+1 Standards were previously Programs. Program naming convention will be transitioned to Standards during review cycles and a period of
+overlap will exist between the two document types.
+Compliance Policy on Policies | Block
+11
+
+Confidential and Not for Distribution
+Compliance processes that are globally applicable, or it may be at the CT-level if the
+corresponding Compliance processes are specifically applicable only to a given CT.
+4.5 Compliance Domains
+All Documents must be linked to one of the following Compliance Domains:
+● Compliance Governance;
+● Compliance Engineering & Technology;
+● Consumer Protection;
+● Ethics & Employee Conduct; and
+● Anti-Financial Crimes.
+4.6 Document Ownership Principles
+● Documents should have a designated Owner clearly identified and confirmed with the
+Policy Team.
+● The designated Policy or Standards Owner should be listed in the Document
+Management and Document Details sections of the Document.
+● The designated Owner may delegate ownership to a Delegate, where appropriate based
+on predominance or Policy focus area2.
+5. Document Lifecycle
+The process to develop a Compliance Document begins when there is a regulatory event or
+management addresses the need of a unique situation that requires written guidelines which are
+communicated to stakeholders. The process for Document development contains a series of
+checkpoints referred to as tollgates (“Tollgates”):. Further details and guidance on the Document
+Tollgate process can be found in Appendix D.
+5.1 Identification (New Policies/Standards)
+At this stage, the idea to create a new Document is formed. This phase may take place proactively as
+teams identify areas in which a Document is needed to support their business goals, or as the result
+2 See the definitions section for the roles and responsibilities of Owners and Delegates.
+Compliance Policy on Policies | Block
+12
+
+Confidential and Not for Distribution
+of gap assessments, audits, or regulatory examinations. Based on the nature of the Document as
+well as its subject matter, the Owner and the appropriate stakeholders and subject matter experts
+will be identified to be responsible for following steps in the Document lifecycle. The Owner must
+consult with the Policy Team prior to the creation of any new Documents and submit a new
+document request form (See “ Tollgate #1: Intake Phase” in Appendix D). The Owner must avoid
+contradicting any existing statements or related Documents already in existence.
+5.2 Creation (New Policies / Standards)
+The Owner and subject matter experts must utilize a template (located on Go/Policy) approved by
+the Policy Team to draft their Document. The Owner is responsible for ensuring that Documents are
+designed in compliance with relevant laws, regulations, rules, and any existing Policies, Standards,
+and Procedures, and for defining the consequences for violation of the requirements set in the given
+Documents. The Owner is responsible for identifying existing Compliance Documents that may
+need to be retired or updated as a result of the new Document. All Compliance Documents must be
+maintained in English or, at a minimum, have a version retained in English. Documents will be
+added to the Policy Team’s inventory tracking and reporting during the creation stage.
+5.3 Revision/Review
+On an annual basis, the Owner is responsible for sharing a draft and soliciting review and feedback
+from relevant cross-functional stakeholders and subject matter experts who should be consulted to
+review and ultimately sign off on the content. The Owner, relevant subject matter experts and
+Stakeholder Reviewers may meet to revise the Document as a result of the feedback received.
+Feedback provides an opportunity for stakeholders to provide input into the Documents that will
+govern their activities. Owners should document, retain, and respond to the feedback by including
+the feedback in the Document, where applicable, and maintaining and archiving feedback and
+notes until at least the next review cycle. All feedback and edits should be maintained by the
+Document Owner or Delegate in Google Docs by retaining a redline version of the Document with
+all substantive comments and their related resolution retained. Owners must follow additional
+guidance outlined in Appendix D (See Tollgate #2: Revision Phase). Following review, the Owner
+must consult with the Policy Team who will complete a Quality Control Review on the Document
+prior to approvals (See Tollgate #3 in Appendix D)..
+Compliance Policy on Policies | Block
+13
+
+Confidential and Not for Distribution
+5.4 Approval
+5.4.1 Owner Attestation
+Document Owners are responsible for attesting to Document content. Document attestation is
+completed annually and aligned with scheduled review dates, where possible.
+5.4.2 Document Approval Levels
+Compliance Documents are categorized as Tier 1, 2, or 3, as outlined below, and require annual
+approval according to the Compliance Document Approval Matrix (See section 8).
+5.4.3 Tier 1, Tier 2, and Tier 3 Documents3
+Tier 1
+● Limited to Policies only (Standards / Procedures are excluded)
+● Policies with a regulatory requirement to be approved by the applicable Block or
+US Board
+● Policies that outline enterprise-wide framework and/or overarching requirements
+that apply across multiple significant brands, entities or businesses
+● Policies that will have material business impact across multiple brands, entities or
+businesses
+● Policies that present new or expanded responsibilities for the applicable Block
+Board or a US Subsidiary Board
+● Policies that are more like high level frameworks that are unlikely to change
+significantly over the year
+Tier 2
+● All other Policies that do not meet Tier 1 criteria
+● Policies and Standards that are core to key Compliance laws, rules, and regulations
+● Policies and Standards that outlines more technical and brand specific guidance
+Tier 3
+● All Standards that do not meet Tier 1 or Tier 2 criteria
+● Standards that support key Compliance laws, rules, and regulations
+● Standards that outline day-to-day management and operational activities to
+execute against existing Policies or Standards (approved at Tier 1 or 2 levels)
+3 Policies and Standards for international subsidiaries will continue to be routed through their local
+approval processes and not be presented to the Committee per the Committee’s Charter scope.
+Compliance Policy on Policies | Block
+14
+
+Confidential and Not for Distribution
+5.4.4 Document Owner Approval Responsibilities
+The Document Owner is ultimately responsible for obtaining approvals based on the approval
+structure confirmed with the Policy Team during annual review or when introducing a new
+Document. However, the Policy Team will assist the Document Owner in facilitating approvals for
+Tier 1 and Tier 2 documents requiring board or committee approval. The Document Owner or
+Delegate must submit redline and clean copies of the Document for approval. If significant changes
+were made to the Document, the Owner must submit a Change Summary form as a part of the
+approval package. Per the Compliance Document Approval Matrix, Approvers may include
+Compliance Leadership and relevant committees or boards. Approvals must be documented and
+supported by a digital audit trail and within the Document’s Revision & Approval History section. The
+Document Owner must attest to allDocument content, even if Ownership was delegated to a
+Delegate.
+5.4.5 Transfer of Ownership
+When ownership transfer is needed during Document review or due to misalignment, the Policy
+Team will coordinate the transition between current and future Owners.
+Upon agreement, the transfer of ownership from the existing Owner to the new Owner is
+documented in the Document and on all internal reporting and communication plans.
+5.5 Publishing and Storage
+After obtaining and recording all necessary approvals, the Owner must notify the Policy Team that
+the Document is ready for publication. The Owner is responsible for providing the Policy Team with
+all required Documentation outlined in Appendix D. Owners must document all changes through
+redlines for audit purposes4. For complete rewrites, Owners must summarize all material changes
+and their rationale and provide the summary to the Policy Team. Approvals must be submitted by
+the Owner to the Policy Team in a timely manner or a delay in publication will occur. The Policy
+Team will then publish the Document to the Policy SOR and Go/Policy, for staff member viewing and
+in accordance with Document retention requirements. In cases where Documents may not be
+4
+The Policy Team archives redlines and change summaries provided by Owners or Delegates, but is not responsible for verifying their accuracy
+or completeness.
+Compliance Policy on Policies | Block
+15
+
+Confidential and Not for Distribution
+shared or accessible to all staff members, the Owner is responsible for notifying the Policy Team to
+restrict access as required.
+5.6 Policy Publication and Communication
+When a Document is approved and published, it is critical to make staff aware of the new or
+amended Document. The newly approved Policy and/or Standard must be communicated to all
+impacted staff within the scope of the Document on a timely basis.
+The Owner is responsible for notifying the Policy Team to begin the publication process.. Upon
+receiving notification of an approved Document, the Policy Team will publish the updated
+Document on Go/Policy and any applicable SOR. Document Owners are also responsible for
+submitting all required supporting publication information including evidence of approvals and a
+redline version to the Policy Team. If a Document was completely re-written, the Document Owner
+may submit a detailed summary of changes in place of a redline.
+After publication, Documents are communicated through three methods:
+1) General Staff Updates: Monthly, the Policy Team publishes a list of all new and updated
+Documents on Go/Policy, and through a Slack notification to the Compliance
+organization.
+2) Compliance Leadership Reporting: The Policy Team maintains monthly reporting on
+Document inventory status. As needed, the Policy Team will escalate Document updates
+to the CPC.
+3) Key Stakeholder Notifications: Document Owners are responsible for driving awareness
+campaigns for newly published or materially changed Documents to key stakeholders.
+Awareness campaigns generally include announcements, email notification, or trainings.
+If the Document Owner deems a policy update as critical, the Owner or Delegate should
+immediately notify identified stakeholders. The notification should generally include what
+changed, how to comply, and any details on an impact analysis.
+5.7 Implementation
+During the creation phase, the Owner is responsible for understanding the Company’s current state
+of Compliance in the subject matter area of the Document. Although an Owner may not be directly
+Compliance Policy on Policies | Block
+16
+
+Confidential and Not for Distribution
+involved in operationalizing the requirements in a forward-looking Document, they are responsible
+for ensuring that forward-looking requirements are accounted for in roadmap planning and can be
+operationalized within a reasonable timeframe.
+Owners should maintain an implementation plan to outline the activities, roles and responsibilities,
+and timelines needed to help ensure Policy or Standard requirements are operationalized. All
+Policies and Standards must have an implementation plan. The method by which a Policy or
+Standard may be implemented depends on the complexity of changes and risks associated with
+failure to effectively implement a Policy or Standard. Communication of implementation methods
+include:
+● Email;
+● Web-based meeting;
+● Formal training;
+● Informal education sessions; and
+● Additional supporting materials or Documents.
+The Policy Team is not responsible for confirming the Owner has developed or maintained an
+implementation plan. Further, the Policy Team is not responsible for confirming an implementation
+plan is communicated or operationalized.
+6. Scheduled Review / Maintenance
+6.1 Scheduled Review / Off-Cycle Changes
+To ensure that Documents remain up-to-date and accurate, scheduled Document reviews must take
+place at least annually for Documents5. The Policy Team does not own scheduled review for
+Procedures. The Policy Team retains a Document review schedule that is available upon request. .
+Similar to the creation of a new Policy or Standard, the need for a Policy or Standard review can be
+triggered by a number of factors including a required review date, new or emerging risks, new or
+updated regulatory requirements, organizational changes, identified gaps, or other factors. Owners
+must track past and future review dates to ensure timely review of all Documents. Owners may
+update Documents outside of normal review cycles (“Off-Cycle Changes”). Off-cycle changes are
+classified as Immaterial or Material Changes. Making Material Changes or Immaterial Changes to
+5 The Policy Team may adjust review dates to coincide with the next available committee or Board meeting.
+Compliance Policy on Policies | Block
+17
+
+Confidential and Not for Distribution
+Documents Off-Cycle does not change scheduled annual review dates and does not absolve Owners
+of responsibilities associated with scheduled annual approvals.
+While Documents are reviewed periodically as part of the Document lifecycle, Owners are also
+responsible for staying abreast of legal, regulatory, and business changes that may result in updates
+to their Documents and for facilitating the content editing and re-approval process with the Policy
+Team, as needs arise, in a timely manner.
+● Immaterial Changes - Immaterial changes (such as minor clarifications of existing
+content, formatting, and hyperlink updates) may typically be completed immediately,
+once the Owner notifies the Policy Team of the nature of such immaterial changes and
+receives acknowledgement from the Policy Team. Immaterial changes must similarly be
+recorded in the Document’s Revision & Approval History section.
+● Material Changes - Material changes require reapproval in accordance with the
+Compliance Document Approval Matrix and must be recorded in the Document’s
+Revision & Approval History section. Compliance Leadership may approve off-cycle
+Material changes to Documents6. For Tier 1 and 2 documents, If approved, the Owner
+must then provide the off-cycle approved changes to the applicable Committee and/or
+Board during the next scheduled meeting as inform only. The presentation to the
+Committee and/or Board should include a summary of the changes and evidence of
+Compliance Leadership approval. If the Owner and/or Compliance Leadership
+recommends full review by the Committee or Board, they may recommend bringing the
+changes to the Committee or Board prior to the next scheduled meeting for full approval
+depending on the significance of the changes or the risk level associated. All material
+changes must be accompanied by documented approval and a detailed redline or
+change summary. The Policy Team will maintain records of material changes and
+associated approvals in accordance with document retention requirements. If an Owner
+of a Document is Compliance Leadership, they must obtain approval from another
+Compliance Leadership contact for off-cycle material changes.
+6 Please note if the Owner is a member of Compliance Leadership, the Owner should obtain approval for occ-cycle material changes from
+another member of Compliance Leadership and cannot solely approve the changes.
+Compliance Policy on Policies | Block
+18
+
+Confidential and Not for Distribution
+6.2 Policy Review Date Extensions
+The Policy Team has authority to approve extension requests for 30 days past the scheduled review
+date. Owners must obtain approval from a Compliance Leadership for any scheduled review date
+changes longer than 30 days. Upon receiving approval from a Compliance Leadership member, the
+Owner should provide the Policy Team with evidence of approval for a deferred policy review or
+change of date. The Policy Team will retain the evidence and update internal team tracking.
+A deferment occurs when a Document scheduled for periodic review, as listed in inventory
+management or the SOR, cannot be reviewed by the Owner by the specified date. Deferments may
+occur due to pending material changes, such as pending regulatory guidance, major
+reorganizations, dependency on key cross-functional projects that may cross multiple
+significant brands, entities or businesses. Document deferments must be approved by a
+Compliance Leadership member and submitted to the Policy Team to update the SOR and internal
+tracking. Owners may only request one deferral for a maximum of six-months.
+6.3 Exception Handling
+A Document may allow for Exceptions. Owners and/or Delegates have authority to approve
+Exceptions and/or exemptions to Documents, provided that the proposed Exception or exemption
+does not violate applicable laws and regulations. Document exception requests must be
+documented in writing, include a reason for a request, and provide a description of the controls that
+the Company will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Team. The Owner and/or
+designee will inform Compliance Leadership and applicable committees, as needed, of Exceptions.
+The Owner and/or designee will inform Compliance Leadership and applicable committees, as
+needed of Exceptions. If an Exception requires renewal, approval of an extension is required.
+6.4 Record Retention
+All published Documents are retained in accordance with Block’s Data Classification and Handling
+Policy or in accordance with applicable laws/regulatory guidance - whichever is longer. Owners are
+Compliance Policy on Policies | Block
+19
+
+Confidential and Not for Distribution
+responsible for providing all supporting approvals, redlines/change summaries7, and archived
+versions to the Policy Team for record retention purposes.
+7. Retirement and Archival
+Document retirement requires approval per the Compliance Document Approval Matrix. Replaced,
+retired, or canceled Policies and Standards must be removed from staff access on a timely basis,
+usually within thirty business days of replacement, retirement, or cancellation. An archive of former
+Documents will be held by the Policy Team in the Policy SOR or website in accordance with
+Document retention requirements8. The data housed in the SOR or website is maintained by the
+Policy Team and is available upon request.
+8. Compliance Document Approval Matrix
+Document Compliance Committee and/or Block or US
+Owner Leadership International Subsidiary Board *
+Attestation (Compliance Board *
+(Compliance Core+1 minimum)
+Manager
+or Designee)
+Required Approvals9 for Scheduled Review or Net New Document /
+Retirement
+Tier 1 ✔ * ✔ ✔
+Document
+Tier 2 ✔ * ✔ *
+Document
+Tier 3 ✔ ✔ * *
+Document
+Procedure ✔
+7 The Policy Team archives redlines and summaries, but is not responsible for verifying their accuracy
+or completeness.
+8 The Policy Team archives information provided by the Owner and/or Delegate and is not responsible for verifying accuracy or
+completeness.
+9 Document Owners attest to document content before seeking formal approvals.
+Compliance Policy on Policies | Block
+20
+
+Confidential and Not for Distribution
+Required Approvals for Off-Cycle Material Change to Existing Document10
+Tier 1 ✔ ✔ * *
+Document
+Tier 2 ✔ ✔ * *
+Document
+Tier 3 ✔ ✔ * *
+Document
+Procedure ✔
+Required Approvals for Immaterial Change to Existing Document
+Policy ✔
+Standard ✔
+Procedure ✔
+Scheduled Review & Approval (Frequency)
+Tier 1 (Annually) (Annually) (Annually) (Annually)
+Document
+Tier 2 (Annually) (Annually) (Annually) *
+Document
+Tier 3 (Annually) (Annually) * *
+Document
+Procedure (Triennially) (Triennially)
++ All Tier 1 US documents must go to the Committee who will assess to recommend Board approval.
+* May or may not be required in accordance with relevant law or local regulation or at the discretion
+of the Lead. For off-cycle Material Changes the Owner and/or Compliance Leadership may
+recommend full review by the Committee or Board prior to the next scheduled meeting for full
+approval depending on the significance of the changes or the risk level associated.
+10
+Please note if the Owner is a member of Compliance Leadership, the Owner should obtain approval for off-cycle material changes from
+another member of Compliance Leadership and cannot solely approve the changes.
+Compliance Policy on Policies | Block
+21
+
+Confidential and Not for Distribution
+9. Revision and Approval History
+Approver Title Type Description Date
+Sandy Zanaty Global Creation N/A Sep 1, 2022
+Compliance
+Policy Manager
+Colin Gibson Compliance Initial Appro… N/A Sep 8, 2022
+Policy, Training &
+Reporting Lead
+Sandy Zanaty Global Material Cha… Consultation with Aug 23, 2023
+Compliance PwC. Material
+Policy Manager changes include
+Document
+application, SLAs,
+domains, and a
+revised Compliance
+Document Approval
+Matrix.
+John Alfano Global Policy & Material Cha… Consultation with Aug 23, 2023
+Governance Lead PwC. Material
+changes include
+Document
+application, SLAs,
+domains, and a
+revised Compliance
+Document Approval
+Matrix.
+Sandy Zanaty Global Material Cha… Added Enterprise Sep 26, 2023
+Compliance Risk Management
+Policy Manager domain.
+Sherry Steve… Head of Material Cha… Material changes Jul 8, 2024
+Compliance, include enhanced
+Governance, and process updates,
+Reporting introduction of
+Document Tiers,
+revised Compliance
+Document Approval
+Matrix,, and in
+transition from
+“Program,” to
+“Standard.”
+Compliance Policy on Policies | Block
+22
+
+Confidential and Not for Distribution
+Approver Title Type Description Date
+Sherry Steve… Head of Material Cha… Material updates Jan 22, 2025
+Governance and included updating
+Program Support the tiering eligibility
+requirements,
+adding Compliance
+Policy Committee
+details, and
+updating the team
+name from
+“Compliance,
+Governance, and
+Reporting” to
+“Governance and
+Program Support.”
+Compliance Compliance Material Cha… Approval. Jan 22, 2025
+Policy Policy
+Committee Committee
+Compliance Compliance Material Cha… Material updates to Jun 6, 2025
+Policy Policy reflect current
+Committee Committee operational
+processes,
+incorporating
+updated approval
+structures and
+organizational
+changes. Content
+from the
+Compliance Policy
+Governance
+Standard was
+integrated into this
+policy, eliminating
+duplicate content.
+Stevi Winer Compliance Immaterial … Corrected typo in Feb 18, 2026
+Policy, the extensions
+Mandatory section and missing
+Training and text on the
+Support Lead definition for
+C-Core+1
+Compliance Policy on Policies | Block
+23
+
+Confidential and Not for Distribution
+10. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Global Compliance Policy Lead
+Document Delegate Global Compliance Policy Manager
+Last Approval Date February 18, 2026
+Effective Date February 18, 2026
+Approved By Compliance Policy Committee
+Approval Cadence Annually
+Compliance Policy on Policies | Block
+24
+
+Confidential and Not for Distribution
+Appendix - Quality Control Checklists and Tollgates
+Appendix A- Policy Team Quality Control Checklist
+Document Quality Control Checklist
+Purpose: This PoP Quality Control Checklist guides the Policy Team in ensuring documents meet
+minimum submission standards.11
+Policy Team PoP QC Review (Tollgate #3)
+# Action Steps Yes No N/A Comments(s) Status
+1 Does the Document meet the Not started
+definition of a Policy or Standard?
+1.a If not, was the Owner/Drafter Not started
+provided additional feedback?
+2 Were existing Documents reviewed Not started
+to determine existing coverage?
+2.a If a Document currently exists Not started
+covering the topic, was the
+Owner/Drafter provided additional
+feedback to confirm the need for
+the Document?
+2.b Was the Document reviewed for Not started
+alignment with existing
+Documents on the same topic (e.g.,
+Block Inc. Policies, Subsidiary
+Policies etc.)?
+3 Was the approved template used? Not started
+4 At a minimum, does the Document Not started
+contain the required sections listed
+in the approved template?
+4.l If there are links or references in the Not started
+Document, are these links accurate
+and correct?
+5 Does the Introduction and Purpose Not started
+sections follow the guidance in the
+Policy template?
+6 Does the scope section of the Not started
+11 The Policy Team Quality Control Checklist provides informal review criteria for documents.
+Compliance Policy on Policies | Block
+25
+
+Confidential and Not for Distribution
+Document include language
+noting who the Document is or is
+not applicable to?
+6.1 Is the scope accurate and does it Not started
+include all relevant entities (to be
+confirmed and listed by the
+Document Owner)?
+7 Are the roles and responsibilities Not started
+drafted consistently and used
+appropriately throughout the
+document?
+8 If regulations are cited, is a Not started
+definition and/or citation included?
+9 Are there record retention Not started
+guidelines in the Document?
+9.a Are regulatory record retention Not started
+standards applicable (e.g., ECOA
+requirements)? If so, are they
+provided in the Document?
+10 Was the Document title checked Not started
+for consistency with similar
+Documentation (e.g., “FCRA Policy”
+vs. “Fair Credit Reporting Act
+(FCRA) Policy”). Please review the
+current inventory to align for
+consistency.
+11 If applicable, are the Procedures, Not started
+guidelines, or Standard listed in the
+Policy?
+12 Did the Owner or Policy Team Not started
+schedule or complete the required
+tollgates?
+13 Did the Owner or Drafter provide a Not started
+track changes and clean version (for
+existing policies)?
+14 Did the Owner confirm the roles Not started
+and responsibilities with the
+stakeholders listed?
+15 Did the Owner provide the correct Not started
+written approvals as defined in the
+PoP?
+16 Did the Owner obtain and submit Not started
+evidence of written approvals, as
+Compliance Policy on Policies | Block
+26
+
+Confidential and Not for Distribution
+required?
+17 Does the Policy Team need to Not started
+update ownership of the Policy,
+Procedure, or any supplemental
+materials?
+18 Does the Document adhere to all Not started
+guidance listed in the style
+guidelines?
+Policy Team (After Tollgate #3 Checklist)
+1 Did the Owner follow the approval Not started
+framework?
+2 Were written approvals and/or Not started
+Board/Committee approvals
+obtained and provided to the Policy
+Team to store on the SOR?
+3 Was the Document updated with Not started
+revision dates, approvals, and other
+governance information?
+4 Was the SOR updated with the Not started
+version history of the Policy,
+approvals, and other relevant
+information?
+5 Was the Document submitted to Not started
+the Policy Team for Publication on
+the SOR and Go/Policy?
+6 Was internal Document tracking Not started
+updated to reflect a completed
+status?
+7 Was the review or approval Not started
+reported in the monthly Policy
+governance management report?
+8 Does Go/Policy match the SOR? Not started
+9 Are follow ups required for Not started
+ownership transfers?
+10 Was an annual review date Not started
+confirmed with the Owner, added
+to the Document Details section
+prior to upload, and Documented
+in the SOR and on internal
+tracking?
+Compliance Policy on Policies | Block
+27
+
+Confidential and Not for Distribution
+Appendix B- Owner Guidance and Checklist
+Document Guidance
+Owner Responsibilities
+Prior to Tollgate #1
+# Action Steps Yes No N/A Comments(s) Status
+1 Were existing Documents reviewed Not started
+to confirm that coverage does not
+already exist (e.g., Block Inc.
+Policies, existing subsidiary policies
+etc.)?
+2 Were the applicable Stakeholder Not started
+Reviewers identified? Please retain
+Documentation of review and
+attestation for tollgate #2
+3 Does the Document have a clear Not started
+Owner that can hold stakeholders
+accountable for the role and
+responsibilities outlined in the
+Document?
+4 Will the Document be transferred Not started
+to a new Owner?
+5 Did the Owner identify the Not started
+template, guidance, style guide,
+and other Policy Team resources to
+utilize during their review?
+6 Were the applicable entities and Not started
+products confirmed? Entities must
+be identified by the Document
+Owner for inclusion in the scope.
+After Tollgate #1
+1 Were the roles and responsibilities Not started
+reviewed with the relevant
+stakeholders?
+2 Does the Document clearly outline Not started
+the roles and responsibilities?
+3 Are there specific record retention Not started
+requirements? If so, are they listed
+in the Document?
+Compliance Policy on Policies | Block
+28
+
+Confidential and Not for Distribution
+4 Did the Owner review regulations Not started
+for changes or conduct an initial
+review of regulations? This may be
+N/A if there are no recent changes.
+5 Did the Owner update any Not started
+regulatory content in the
+Document? If so, confirm this was
+reviewed with applicable
+Stakeholder Reviewers, as required
+(e.g., Legal Counsel)
+6 Are there new or existing Not started
+supplemental materials (e.g.,
+Standard, Procedures etc.)
+associated with this Policy? If so,
+answer below and include the
+Document in the comments
+section.
+6.a Is there a related Document (e.g., Not started
+Standard or Policy)?
+6.b Is there a Procedure or Procedures Not started
+for this Policy?
+6.c In the future will supplemental Not started
+materials be associated with this
+Policy? If so, please provide the
+responsible parties or details during
+tollgate #2
+7 If supplemental information is Not started
+outlined in 6, are there clear
+owners?
+8 Does the Document comply with Not started
+the PoP format, style guide, and
+templates?
+9 Were appropriate Stakeholder Not started
+Reviewers consulted prior to
+tollgate #2?
+10 Did the Owner submit a track Not started
+changes (for existing documents),
+and a clean copy of the Document
+to the Policy Team prior to tollgate
+#2?
+11 Can the Owner clearly explain the Not started
+changes to the Document prior to
+tollgate #2?
+12 Did the Owner and Policy Team Not started
+Compliance Policy on Policies | Block
+29
+
+Confidential and Not for Distribution
+complete tollgate #2 for
+governance purposes?
+After Tollgate #2
+1 Did the Owner receive confirmation Not started
+that Tollgate #3 was completed by
+the Policy Team?
+2 If revisions are required resulting Not started
+from the Policy Team’s review, did
+the Owner review the changes?
+3 Did the Owner obtain a written Not started
+approval from the required
+Approvers per the PoP if
+substantive changes were made?
+After Tollgate #3
+1 Did the Owner notify the Policy Not started
+Team of a distribution list to
+communicate Policy updates, as
+needed?
+After Tollgate #4
+1 Did the Owner submit the Policy to Not started
+the appropriate Approvers
+(including any applicable
+Committees or the Board) and
+obtain Documented approvals?
+2 Did the Owner submit the Not started
+approved Document and related
+redlines and/or a summary of
+changes to the Policy Team for
+upload to the SOR and Go/Policy
+(including written approval or
+acknowledgement via a SOR)?
+3 Did the Owner receive a Not started
+distribution email?
+4 Are follow ups required for Not started
+ownership?
+5 Were training and/or awareness Not started
+plans completed in conjunction
+with the Compliance Training
+Team, as needed?
+Need help? Please send us a ticket at go/Policyhelp
+Compliance Policy on Policies | Block
+30
+
+Confidential and Not for Distribution
+Appendix C- Style Guidelines and Checklist
+1. Required Elements
+Documents are most effective when executed in a consistent and standardized manner. Utilizing a
+consistent format helps to communicate pertinent information to all impacted colleagues and
+stakeholders.
+In keeping with a standardized format, a Document should include, at a minimum, the following
+sections:
+● Document Title
+● Definitions
+● Introduction, Purpose and Scope
+● Requirements
+● Roles and Responsibilities
+● Document Management
+● Document Owner
+● Review and Approval
+● Monitoring and Reporting
+● Exceptions
+● Record Retention
+● Related Documentation or References
+● Revision and Approval History
+● Document Details
+In addition, the Owner and/or drafter has the discretion to include any of the following sections to
+enhance the overall Document, if necessary:
+● Appendices
+● Effective comply by or applicable dates
+● Training
+All new Documents are required to include the required elements listed above. Existing Documents
+must conform to the required elements no later than the completion of their next full review
+Compliance Policy on Policies | Block
+31
+
+Confidential and Not for Distribution
+identified with the Policy Team and listed in the SOR. To create consistency, it is recommended that
+the Owner use the appropriate templates available at Go/Policy.
+Owners should use the built-in numbering system in Google Docs, including fonts and heading
+styles used in the provided templates. The Policy Team is available as a resource throughout the
+drafting process to provide feedback on versions or address questions.
+2. Document Drafting
+A Document author is responsible for effectively translating a requirement into an easy to
+understand, legible Document to which Staff Members must adhere.
+For a Document to be effective, it must be written in a clear, concise, and plain business language
+that the intended audience can understand. Refer to the below Drafting Checklist for guidelines on
+creating consistent documentation.
+When creating a new Document, the author should review and consider the other Documents that
+are applicable to the topic. Existing Documents are helpful resources to determine language that
+appropriately communicates applicable requirements. Additionally, the author may consider, from
+existing Documents, what language could be expanded upon in order to provide consistency and
+clarity.
+During the drafting process, it is recommended that the author start with the applicable template
+for their Document available at Go/Policy (e.g., appropriate entity and level). The templates are
+pre-filled with the required sections outlined in the PoP and this Document. Each section contains a
+brief description of what the author should consider when writing the body of the section.
+On completion of the initial draft of the Document, the Owner must distribute the draft to applicable
+stakeholders for input. Owners should use Google Docs to track feedback from the stakeholders and
+should retain all comments and the disposition. All stakeholder feedback must be reviewed and
+addressed appropriately and the feedback should be maintained and archived in an accessible
+location until the next review cycle.
+Compliance Policy on Policies | Block
+32
+
+Confidential and Not for Distribution
+3. Drafting Checklist Guide
+Drafting Checklist
+# Action Steps Comments Status
+1 Ensure version is listed. Not started
+2 Define terms and abbreviations in the same way you Not started
+would for Document content (do not define an
+acronym).
+3 Ensure “Definitions” section is alphabetized. Not started
+4 Ensure definitions have periods. Not started
+5 Ensure all defined terms used in the body of the Not started
+Document are listed in the glossary and only defined in
+the glossary (e.g., terms should not be defined in the
+body of the Document).
+6 Ensure only the abbreviation is used after the first time Not started
+the abbreviation is used.
+6.a If the first time a term is used is in a header, do not Not started
+abbreviate. The first time the term is used in the body
+of the text it should then be abbreviated.
+7 If a role is not listed in the body of the Document Not started
+remove it from the roles and responsibilities section.
+8 Ensure all related Policies, Standard, Procedures and Not started
+other Documentation mentioned in the Document are
+listed in the related Documents section.
+8.a Ensure the related Documents section is organized by Not started
+Document type (e.g., List all Policies first followed by
+Standard and Procedures)
+9 Use “must,” “shall,” or “will,” vs. “may” or other Not started
+ambiguous terms.
+10 Do not use “ensure,” or “strive to,” or other terms Not started
+promising results on behalf of Block or its subsidiaries.
+11 Use “and,” and not “&.” Not started
+12 Spell out percent / do not use “%.” Not started
+13 Capitalize all defined terms and roles throughout the Not started
+Document (a full review of the Document is required
+Compliance Policy on Policies | Block
+33
+
+Confidential and Not for Distribution
+since CommandF may not catch all instances).
+14 Check all section number references to ensure they Not started
+align with referenced sections at the end of the
+drafting process.
+15 Check for consistent spacing and remove all double Not started
+periods.
+16 Do not leave hanging sections (e.g., do not have a Not started
+header at the end of one page and the beginning of
+the body on the next).
+17 Confirm appropriate Font and Font size is used for Not started
+each applicable template (e.g., Montserrat for Block,
+Inc. Documents)
+18 Confirm all charts or illustrations use Block, Inc. and/or Not started
+subsidiary colors.
+19 Ensure all placeholders in the Document are Not started
+addressed and any highlighting is removed.
+20 Conduct a full editorial review of the Document to Not started
+ensure spelling and grammar is correct (do not solely
+rely on spellcheck or editorial functions in google docs).
+21 Ensure the table of contents is accurate before final Not started
+submission to address any edits made throughout the
+drafting process.
+22 Check the Compliance Definitions Glossary available at Not started
+Go/Policy to ensure all definitions are consistent with
+the provided descriptions, as applicable.
+23 Are entity names correct? Not started
+Need help? Please send us a ticket at go/Policyhelp
+Compliance Policy on Policies | Block
+34
+
+Confidential and Not for Distribution
+Appendix D- Tollgates
+Document Tollgate #1: Intake Phase
+The first Tollgate is a review of Document requirements to determine the appropriateness of scope.
+This Tollgate is between the Owner and the Policy Team. Document Tollgate #1 will be initiated by
+the Owner for new Documents and off-cycle changes.
+During the Intake Phase the Owner will:
+● Complete an initial assessment: Owners must evaluate the regulatory requirements and
+existing documentation to determine appropriate Document strategy. This may include:
+○ Review of the existing Documents and Compliance Domain alignment;
+○ Identification of legal requirements, stakeholders, and supplemental forms;
+○ Verification of details contained in the SOR and/or Go Policy; and
+○ Conducting conflict checks with current documentation.
+● Conduct a Document Strategy Decision: Before creating new Documents:
+○ Check Go/Policy and the SOR, as applicable, for related existing Documents;
+○ Consider expanding existing Documents instead of creating a new Document;
+○ Consult with the Policy Team when new documentation is necessary by
+submitting a new policy request form; and
+○ Ensure alignment with existing documentation.
+The Policy Team will notify owners via meeting, Slack, email, or the SOR to proceed to Tollgate #2.
+For new Documents, the Policy team may require Owners consult with Compliance Leadership or
+stakeholders before drafting the new document.
+Tollgate #1 - Intake Phase
+Purpose Description Key Objectives
+Determine For new Documents, the Owner will - Define scope
+alignment contact the Policy Team to initiate - Requirements for the Policy review
+between the the process via the new policy form. (e.g., regulatory updates, style
+Owner and For existing Documents, the Policy guidelines, review requirements)
+Policy Team team will send an announcement of - Transfer of ownership
+the Document review via Slack, - Confirm an applicable Compliance
+Compliance Policy on Policies | Block
+35
+
+Confidential and Not for Distribution
+email, or the SOR. Domain is selected
+- Select appropriate template
+The Policy team will schedule a
+meeting, as needed, to discuss the
+Document lifecycle next steps and/or
+will provide approval to proceed with
+the Policy process.
+5.2 Document Tollgate #2: Revision Phase
+Owners and/or Delegates draft or revise documents during Tollgate #2. After the Owner and/or
+Delegate drafts or revises a document, Owners or Delegates must:
+● Review with stakeholders identified in Tollgate #1;
+● Document stakeholder feedback and resolution via redlines and/or a summary of
+changes;
+● Submit to the Policy Team for quality control; and
+● Report substantial changes to the Policy Team to aid in the review.
+Tollgate # 2 - Revision Phase
+Purpose Description Key Objectives
+Review the The Owner should complete their - Draft Document updates
+Document draft of the Document during - Assign roles and responsibilities
+with key Tollgate #2. The Owner should also - Confirm record retention requirements
+Stakeholder obtain stakeholder review and is - Remove procedural language, if
+Reviewers responsible for retaining evidence applicable
+of review and disposition of - Engage SMEs, as needed
+feedback via redlines and/or a - Evidence of legal review, when
+summary of changes. In this applicable
+timeframe, the Owner should
+continue to inform the Policy team
+of substantive process updates and
+transfer of ownership. The Policy
+Team will provide feedback during
+Tollgate 3.
+5.3 Document Tollgate #3: Quality Control Phase
+The Policy Team must complete Tollgate #3 quality review per Appendix A before approval
+submission on all Documents.
+Compliance Policy on Policies | Block
+36
+
+Confidential and Not for Distribution
+Tollgate #3 - Quality Control Phase
+Purpose Description Key Objectives
+Policy Team The Policy Team will retain edits - Track changes Document
+conducts an via the redline document copy for - Confirmation of ownership transfers,
+offline quality all material changes. if applicable
+control review The Owner must review and - QC checklist consultation
+approve material changes - Approver sign off for material
+proposed by the Policy Team. changes, as needed
+5.4 Document Tollgate #4: Approvals/Publication Phase
+Approvals are obtained during Tollgate #4 as outlined in the Compliance Document Approval Matrix.
+Approval submissions must include clean and redline copies of all Documents, where applicable.
+Where Documents were completely re-written, a detailed summary of changes may be submitted in
+place of redlines. After required approvals are obtained, the Policy Team will publish Documents on
+Go/Policy and/or the SOR.
+Tollgate #4 - Approvals/Publication Phase
+Purpose Description Key Objectives
+Approvals The Owner will provide the - Compliance Leadership, Board, or
+with Document (clean and redline Committee approval, as applicable
+Compliance version, where available) to - Update SOR (as applicable) and
+Leadership / required approvers and Go/Policy
+Board or and committees or boards, as
+Committees applicable. After final required
+approvals are received the Owner
+will submit the approved Policy
+and all required Documentation
+to the Policy Team. The Owner
+must obtain written approval to
+submit to the Policy Team. The
+Policy Team will then upload
+Documentation to the SOR, as
+applicable, and Go/Policy. The
+Policy Team will conduct a final
+editorial QC of the Document
+prior to upload.
+Compliance Policy on Policies | Block
+37

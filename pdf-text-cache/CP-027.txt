@@ -1,0 +1,283 @@
+Senior Managers and Certification Regime
+SMCR and Conduct Rules Policy
+Clearpay Finance Limited
+Last Approved: Mar 23, 2026
+Effective Date: Mar 23, 2026
+1. Overview
+Introduction and Purpose: Clearpay Finance Limited (“CFLˮ) is committed to upholding the highest
+standards of conduct and governance. This Senior Managers and Certification Regime SMCR and
+Conduct Rules Policy (“Policyˮ) outlines CFLʼs approach to complying with the Financial Conduct
+Authorityʼs (“FCAˮ) Individual Accountability regime. The Chief Compliance Officer (“CCOˮ) is
+responsible for management of this Policy. This Policy relates to CFL only in its operations in the
+United Kingdom.
+The purpose of this Policy is to support CFL to comply with the FCAʼs Senior Managers and
+Certification Regime. This regime aims to reduce harm to consumers and strengthen market
+integrity by making individuals more accountable for their conduct and competence. The Policy
+will:
+● Establish clear accountability for senior individuals within the firm.
+● Ensure that individuals performing key roles meet and maintain standards of fitness,
+propriety, and competence.
+● Embed the FCA's Conduct Rules throughout the organisation, promoting a culture of good
+conduct.
+● Define and signpost the processes for managing SMCR requirements effectively.
+● Ensure compliance with relevant sections of the FCA Handbook, primarily SYSC, COCON,
+and FIT, tailored for a solo-regulated firm.
+Scope: This Policy applies to all aspects of CFL's business activities regulated by the FCA. It
+applies to all employees and directors of CFL, with specific requirements for:
+● Individuals approved by the FCA as Senior Management Functions SMFs ("Senior
+Managers").
+● Individuals identified by the Firm as performing Certification Functions ("Certified
+Persons").
+1
+
+● All other employees subject to the FCA Conduct Rules ("Conduct Rules Staff").
+Definitions:
+Terminology Definition
+Senior Manager A role designated by the FCA requiring regulatory approval due to its
+Function (“SMFˮ) significance.
+Senior Manager An individual approved by the FCA to perform one or more SMFs.
+Statement of
+A document required for each SMF holder detailing their areas of
+Responsibilities
+responsibility
+SoR
+Prescribed
+Responsibilities Specific responsibilities defined by the FCA that must be allocated to SMFs.
+PRs
+Management
+A document outlining the Firm's management and governance
+Responsibilities
+arrangements, including SMF responsibilities and reporting lines.
+Map
+Certification The regime which requires firms to identify staff performing Certification
+Regime Functions and assess their fitness and propriety annually.
+Certification A role specified by the FCA that could cause significant harm to the firm or
+Function its customers, requiring annual certification by the Firm
+An individual performing a Certification Function who has been certified by
+Certified Person
+the Firm as fit and proper
+High-level standards of behaviour expected by the FCA, applicable to almost
+Conduct Rules
+all employees within a regulated firm
+The assessment criteria (including honesty, integrity, reputation,
+Fitness and
+competence, capability, and financial soundness) used to evaluate
+Propriety F&P
+individuals for SMF and Certification roles
+A failure to comply with the requirements of the SMCR, including the
+Breach
+Conduct Rules.
+The reporting of concerns about potential wrongdoing or malpractice within
+Whistleblowing
+the Firm.
+2
+
+2. Policy Requirements
+2.1. Introduction
+CFL is authorised and regulated by the FCA to enter into regulated consumer credit agreements with
+customers (“consumersˮ or “customersˮ). CFL expects all its employees to comply with all applicable
+FCA requirements, specifically for this Policy this refers to the FCAʼs Senior Managers and Certification
+Regime (“SMCRˮ).
+2.2. Governance and Oversight
+The Board holds the ultimate responsibility for ensuring CFL complies with its regulatory obligations,
+including SMCR. The Board approves this policy and oversees its implementation. The CCO will provide
+an overview of the SMCR compliance position annually to the Board, and will provide a quarterly
+overview of the Certified and SMF populations, training completion rates, and Conduct Rule breaches
+recorded and reported to the FCA.
+The CCO holds the relevant SMCR prescribed responsibilities.
+2.3. Fitness and Propriety F&P assessments
+● Purpose: To ensure individuals appointed to SMF and Certification roles are, and remain,
+suitable for their positions.
+● Scope: Applies to candidates for SMF and Certification roles (pre-appointment) and
+existing SMFs and Certified Persons (ongoing, at least annually).
+● Process: Assessments consider honesty, integrity, reputation, competence, capability, and
+financial soundness. Associated checks should include, but are not limited to: identity
+verification, criminal record checks DBS, credit checks, directorship checks, verification
+of qualifications, regulatory references (mandatory for SMF and Certified roles covering the
+past 6 years), and internal performance/conduct records. Please see the Clearpay Fitness
+and Propriety Standard for more detailed information]
+● Assessment: Undertaken by the Human Resources Business Partner HRBP for CFL and
+with oversight from CFLʼs CCO who will hold the SMF16 position under SMCR. A formal
+record of the assessment and decision should be maintained and must be retrievable.
+Assessment of the CCO will be overseen by the CFL Board.
+● Annual Certification Certified Persons): CFL must formally assess and certify the F&P of
+all Certified Persons at least annually, issuing an F&P certificate.
+● Ongoing Duty: SMFs and Certified Persons have a duty to promptly inform the Firm of any
+changes that might impact their F&P status. The Firm will reassess F&P if relevant new
+information emerges between annual checks.
+● Record Keeping: All F&P assessments, supporting evidence, and decisions will be
+documented and retained in accordance with FCA requirements, which is 6 years after the
+end of the individualʼs employment.
+3
+
+2.4. SMF Handover Process
+A robust and documented handover process is mandatory for all incoming and outgoing Senior
+Management Functions (“SMFsˮ) to ensure the seamless transfer of responsibilities, preservation of
+institutional knowledge, and the continued effective discharge of Prescribed and Overall Responsibilities.
+The outgoing SMF is responsible for providing a comprehensive briefing to their successor, which must
+include, at a minimum:
+● a detailed overview of their Statement of Responsibilities and associated activities;
+● key ongoing projects, risks, and regulatory obligations; significant open issues and remediation
+plans;
+● critical internal and external relationships; and relevant management information.
+The incoming SMF is responsible for actively engaging in this process and satisfying themselves that
+they have received sufficient information to assume their responsibilities. All handovers must be formally
+documented, detailing the information shared and any agreed actions.
+A copy of this handover documentation must be retained by the Compliance function SMF16 and be
+available for review. This process is designed to support the firm's commitment to effective governance
+and the individual SMF's Duty of Responsibility.
+2.5. Code of Conduct and FCA Conduct Rules
+CFL adopts the FCA Conduct Rules as a core component of its expectations for employee behaviour
+which is further laid out in Block Code of Business Conduct and Ethics:
+● Tier 1 Individual Conduct Rules): Apply to all employees except those in purely ancillary
+roles with no connection to regulated activities.
+○ Must act with integrity;
+○ Must act with due skill, care and diligence;
+○ Must be open and cooperative with the FCA, the Prudential Regulation Authority
+PRA and other regulators;
+○ Must pay due regard to the interests of customers and treat them fairly;
+○ Must observe proper standards market conduct;
+○ Must act to deliver good outcomes for retail customers;
+● Tier 2 Senior Manager Conduct Rules): Apply in addition to Tier 1 rules for all SMFs:
+○ Must take reasonable steps to ensure that the business of the firm for which Mre
+responsible is controlled effectively;
+○ Must take reasonable steps to ensure that the business of the firm for which they
+are responsible complies with the relevant requirements and standards of the
+regulatory system;
+○ Must take reasonable steps to ensure that any delegation of their responsibilities is
+to an appropriate person and that they oversee the discharge of the delegated
+responsibility effectively;
+4
+
+○ Must disclose appropriately any information of which the FCA or PRA would
+reasonably expect notice.
+CFL will provide mandatory training to all relevant staff on the Conduct Rules applicable to their role
+upon joining and on an ongoing (at least annual) basis. Training completion will be tracked. Failure to
+comply with the Conduct Rules may result in disciplinary action, up to and including dismissal, and may
+require notification to the FCA.
+2.6. Certification Regime
+CFL will maintain a list of roles identified as performing Certification Functions based on FCA definitions.
+This list will be reviewed regularly (quarterly by the Board) and updated as needed.
+As detailed in Section 2.3, all individuals in these roles will undergo an annual F&P assessment, leading
+to the issuance (or refusal) of an annual certificate by the Firm.
+CFL will ensure relevant information about Certified Persons is submitted accurately and promptly to the
+FCA Directory.
+2.7. Whistleblowing and Escalation
+CFL is committed to fostering an environment where employees feel safe to raise concerns about
+potential misconduct, including breaches of SMCR requirements or Conduct Rules.
+The Firm maintains a separate Whistleblowing and Speak-up Policy and Procedure, accessible to all
+staff, outlining confidential reporting channels and protections against detriment for whistleblowers.
+Further detail can be found in the Block Code of Business Conduct and Ethics.
+Concerns relating to SMCR, Conduct Rules, or F&P should be escalated through line management, the
+Compliance function SMF16, HR, or via the confidential whistleblowing channels. All reports will be
+investigated appropriately, and findings will be reported to Senior Management and the Board as
+necessary.
+2.8. Regulatory Notifications
+CFL will comply with all FCA notification requirements related to SMCR, including:
+● Applications for SMF approval
+● Submission of SoRs
+● Changes to SMF responsibilities or personal details
+● Notifications of disciplinary action taken due to Conduct Rule breaches against SMFs or
+Certified Persons
+● Annual submission regarding Conduct Rule breaches resulting in disciplinary action for other
+staff
+● Updates to the FCA Directory for Certified Persons and other relevant individuals
+● Any other notifications required under SUP 15 or other relevant FCA modules.
+5
+
+The Compliance function SMF16 is responsible for overseeing and coordinating these notifications.
+2.9. Record Keeping
+CFL will maintain comprehensive records relating to its SMCR compliance, including:
+● SMF SoRs and the Management Responsibilities Map.
+● Records of F&P assessments (including checks and decisions).
+● Issued F&P certificates for Certified Persons.
+● Details of Certification Functions and role holders.
+● Conduct Rules training logs.
+● Records of Conduct Rule breaches and disciplinary actions taken.
+● Copies of regulatory notifications made.
+● Records will be retained for the minimum periods specified by the FCA.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● The Clearpay Finance Limited Board (“Boardˮ) - Holds ultimate responsibility for ensuring
+CFL complies with its regulatory obligations, including SMCR. The Board approves this
+policy and oversees its implementation.
+● Senior Managers (“SMFsˮ) - Individually accountable to the FCA for their areas of
+responsibility as defined in their SoRs. Must take reasonable steps to ensure the business
+areas for which they are responsible are controlled effectively and comply with regulatory
+requirements. Must adhere to the Duty of Responsibility towards the Firm and regulators.
+Also responsible for cascading the culture of good conduct within their areas.
+● Certified Persons - Must meet and maintain Fitness & Propriety standards, comply with
+Conduct Rules, and undertake required training.
+● All Employees Conduct Rules Staff) - Must understand and comply with the applicable
+FCA Conduct Rules and report any potential breaches.
+● Human Resources (“HRˮ) - Supports SMCR processes, including recruitment checks, F&P
+assessments, training administration, and disciplinary procedures related to Conduct Rule
+breaches.
+● Chief Compliance Officer (“CCOˮ) - Owns this policy, oversees the SMCR framework
+implementation, advises the Board and Senior Managers on SMCR matters, manages F&P
+processes, oversees Conduct Rule training and monitoring, and handles relevant regulatory
+reporting. The CCO is responsible for monitoring and reporting on compliance with this
+Policy. The CCO may delegate to others the authority to adopt, develop, and implement
+procedures and reporting that support this Policy.
+● Counsel - The Companyʼs legal counsel provides interpretative advice and counsel
+regarding the applicability and application of the requirements of this Policy to the
+Companyʼs business and operational activities.
+6
+
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. Compliance will provide regular updates, as applicable, to the Block, Inc. Board
+and executive management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+CFL will ensure that SMFs and Certified Persons have the necessary skills and knowledge to perform
+their roles competently, linking to the F&P requirements. Role-specific training, in addition to Conduct
+Rules training, will be provided as appropriate. Competence will be assessed as part of the ongoing F&P
+process and through the Firm's performance management framework. Further information can be found
+in the Clearpay Training & Competence Standard.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the Policy
+Governance Team at go/policyhelp. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+7
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Blockʼs Data Classification & Handling Policy
+● Block Code of Business Conduct and Ethics
+● Clearpay Whistleblowing and Speak-up Policy
+● Clearpay Fitness & Propriety Standard
+● Clearpay Training & Competence Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Clearpay Clearpay Initial Approval New document March 23, 2026
+Finance Limited Finance Limited
+Board Board
+Document Details:
+Business Clearpay Finance Limited
+Scope UK
+Compliance Domain Governance
+Document Owner Adrienne Lamond Clearpay Chief Compliance Officer
+Approved By Clearpay Finance Limited Board
+Document Tier Tier 2
+8

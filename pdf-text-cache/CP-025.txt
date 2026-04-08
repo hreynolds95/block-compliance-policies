@@ -1,0 +1,472 @@
+Fiat P2P Scam Policy
+Cash App | US
+Last Approved: Mar 27, 2026
+Effective Date: Mar 27, 2026
+1. Overview
+Introduction and Purpose: Cash App is committed to the establishment of a comprehensive
+Anti-Fraud program for its peer-to-peer product. An integral part of that program relates to Cash
+Appʼs efforts to remove a form of fraudulently-induced transactions, also known as Scams, from
+Cash App's platform.
+The purpose of this Fiat P2P Scams Policy ("Policy") is to establish and communicate to all
+employees, Cash App's holistic approach to preventing, deterring, detecting, and reporting Scams,
+and the circumstances under which Cash App will reimburse its customers for money lost as a
+result of a Scam. This document defines what a "Scam" is, details how Cash App categorizes
+Scams, and outlines the responsibilities of employees to protect Cash App customers from being
+victimized by Scams.
+Scope: This Policy is established by Cash App US. References to employees throughout this
+document shall refer to all full-time employees and fixed-term and contingent workers including
+interns, temps, consultants, vendors, third-party providers, and contractors.
+Definitions:
+Terminology Definition
+Brand / Business The customer receives an unprovoked external incoming message
+Impersonation (email, text message, phone call, etc). The message indicates that there
+is an issue with one of the customer's accounts (e.g. Apple, Amazon, or
+their local utility) and the scammer needs the customer to pay to resolve
+the situation (suspicious purchase, past due bill, etc) using their Cash
+App account.
+1
+
+Cash App A customer comes into contact via social media with an account
+Giveaway/Prize purporting to be an official Cash App account, which gives the scammer
+Scam an added level of legitimacy. The customer is told to pay a small fee via
+Cash App in order to win a prize. Ultimately, the prize is never awarded.
+In this scam, the customer may have some familiarity with Cash App but
+the outreach is specific to winning a prize - not resolving an issue.
+Cash App The customer receives an external incoming message (email, text
+Impersonation message, phone call, etc) purporting to be from Cash App. This message
+often states that a payment needs to be made from the customer's Cash
+App account to rectify a glitch, verify/secure their account, receive a
+pending payment, or resolve some other issue.
+Celebrity The fraudster creates a fake online presence impersonating a specific
+Impersonation celebrity and makes social media posts offering fans personal
+connections, VIP access, investment opportunities and the chance to
+support the celebrity's favorite charities, but they must pay to
+participate. Ultimately, the customer sends funds via Cash App to the
+fraudster and receives nothing in return.
+Charity/Charitable The fraudster creates a fake online presence impersonating a specific
+Giving Impersonation charity and posts pleas on social media that pull at the customer's
+heartstrings. The customer ultimately sends funds to a Cash App
+account that they believe is operated by or will benefit the actual charity.
+Cleared Recipient A recipient which has not been confirmed as a Scammer through the
+scam investigative process.
+Customer A natural or juridical person that opens an account and receives Cash
+App products and services, or a person opening a new account for
+someone who lacks legal capacity.
+Debt/Credit These scams target customers with significant credit card debt by falsely
+Resolution Scam promising to negotiate with their creditors to settle or otherwise reduce
+their repayment obligations. These operations often charge
+cash-strapped customers a large up-front fee via Cash App, but then fail
+to help them settle or lower their debts – if they provide any service at all.
+Deception Scams Deception scams occur when the Cash App customer has no familiarity
+and has no relationship prior to being contacted to the entity the
+scammer is posing as and is defrauded. Cash App defines the following
+types of scams as deception scams: Debt/Credit Resolution Scams, Job
+Scam, Fake Check Scam, Money Flip Scam, Giveaway/Prize Scam, Cash
+App Giveaway/Prize Scam, Goods and Services Scam, Technical Support
+Scam, Rental/Housing Scam, and Romance Scam.
+Fake Check Scam A scammer sends the customer a check or money order worth more than
+the amount they are owed and instructs them to return the excess funds
+2
+
+back to them via Cash App. The scammer will portray the situation as
+urgent and ask the customer to front the funds while the bank is
+processing the check. But the check will ultimately bounce, and the bank
+will require the customer to repay the full amount of the fake check. The
+scammers will keep the real money they received.
+Friend/Family The fraudster creates a fake Cash App account using specific
+Impersonation characteristics of another real customer's personal information. The
+fraudster obtains all the information they need to make the fake profile by
+either taking over someone's social media account or by scraping social
+media accounts that are not private. The fraudster then sends multiple
+requests to the impersonated person's contacts, either by knowing
+$cashtags, phone numbers ahead of time or by searching for profiles in
+Cash App's search functionality. The subject lines of the requests
+indicate the impersonated person is in trouble or needs money urgently.
+The customer ultimately sends funds via Cash App, but eventually
+realizes the person who is being impersonated is not who is sending the
+requests.
+Giveaway/Prize The scammer pretends to be running an official giveaway from a
+Scam generally known brand or business. The customer will receive outreach
+in the form of a call, email, or letter saying they won a sweepstakes,
+lottery, or prize, but are told to pay a small fee via Cash App to get the
+prize. Ultimately, the prize is never awarded. In this scam, the customer
+may have some familiarity with the brand or business but the outreach is
+specific to winning a prize - not resolving an issue.
+Goods and Services The scammer pretends to be a legitimate online seller using a very real
+Scam looking website and/or is selling a good or service via social media
+marketplace sites. They offer products or services at prices that are
+often too good to be true and post fake reviews to corroborate their
+scam. The customer (buyer) will often pay some or all of the cost of the
+item upfront via Cash App. The seller has no intention to provide the
+good or service, nor will the scammer meet face-to-face to facilitate the
+exchange of a good or service. The identification of this scam depends
+on the seller's Cash App account characteristics and their behaviors post
+receipt of the funds from the buyer, (ie. the seller has stopped
+communicating with the buyer, the seller's Cash App account shows
+signs of being a scammer).
+Government The customer will receive an external incoming message (email, text
+Impersonation message, phone call, etc) from someone who says they work for a
+government agency FTC, Social Security Administration, FBI, IRS, etc).
+The scammer is often looking for personal information and/or requires a
+payment via Cash App to resolve an urgent issue.
+3
+
+Imposter Scam Imposter Scams occur when the Cash App customer is familiar with the
+Impersonation) entity the scammer is posing as (government entity, family member,
+celebrity, brand, company, etc…). The terms "imposter", "impersonator",
+and "impersonation" can be used interchangeably. Cash App defines the
+following types of scams as Imposter: Brand/Business Impersonation,
+Cash App Impersonation, Celebrity Impersonation, Charity/Charitable
+Giving Impersonation, Family/Friend Impersonation, and Government
+Impersonation.
+Job Scam These scams prey on the unemployed by promising good jobs and
+exploit their need for employment through fake job offers. Scammers will
+ask for money via Cash App to help a customer get the job (placement
+fee), for supplies to start a business at home, for job listings or for a
+certification that is supposed to get a job. However, after a payment(s) is
+sent, the scammer disappears, the job never materializes, and the
+customer is left out of pocket for the amount sent.
+Money Flip Scam Scammers will claim they can "flip" a customer's money and multiply it
+as long as the customer first sends a payment to the scammer via Cash
+App. These scams are too good to be true and the scammer will accept
+the funds but never send anything in return. The scammer may
+sometimes claim to know someone at Cash App who can quickly make
+the flip happen.
+Recipient A Cash App customer that receives a P2P payment from a Sender.
+Rental/Housing A scammer duplicates real rental listings, but changes the contact
+Scam information and reposts them on several rental sites. Customers are told
+to make a deposit or pay fees via Cash App for homes or apartments that
+the customer will never actually buy or rent - the scammer doesn't have
+the authority to sell or rent the places in the listings.
+Romance Scam A scammer adopts a fake online identity and uses the illusion of a
+romantic relationship to gain a victim's affection and trust. The scammer
+uses this relationship to manipulate and steal from the customer by
+having them send money via Cash App. This scam can perpetuate over a
+long period of time and customers may send consistent payments for
+months or even years before realizing it was all an illusion.
+Scam A "Scam" is a dishonest scheme or fraudulent activity designed to
+defraud, exploit, or deceive individuals by persuading them to make an
+authorized transaction sent via the fiat Peer to Peer product under false
+pretenses. Cash App defines Scams in the following categories: Imposter
+Scams and Deception Scams.
+Scammer A recipient which has been confirmed through the scam investigative
+process.
+4
+
+Sender A Cash App customer that initiates a P2P payment to a Recipient.
+Technical Support A Customer receives an external incoming message (email, text
+Scam message, phone call, etc) and is told that something is wrong with their
+computer/electronic device and is given a phone number to call for help.
+The customer may also receive a pop-up on their computer due to
+malware, which instructs them to call a fake technical support number.
+The technical support agent pretends to deal with their issue and
+convinces the customer to send funds to a Cash App account to resolve
+it.
+2. Policy Requirements
+2.1 Awareness and Education
+2.1.1 Employee Training
+Cash App maintains a schedule of Annual BSA/AML and OFAC training, which sets the expectation
+that all employees are responsible for understanding and doing their part to prevent financial
+crimes. It is an annual requirement to complete this training. The specific training courses subject
+to this requirement are documented in the Block Inc. Compliance Training Program & Annual Plan.
+Additional training may be delivered to employees as emerging Scams are identified.
+2.1.2 Customer Education
+Cash App acknowledges the risk of Scams associated with the fiat P2P product. For that reason, it
+uses several channels to proactively educate its customers to prevent them from becoming victims
+of scams. Cash App educates customers on the most common types of Scams on Cash App, how
+to avoid becoming the victim of a scam, and how to keep their funds safe. Cash App uses the
+customer support section of its website, a customer scams education page, and social media to
+educate consumers about scams and how to prevent them. Cash App will regularly update these
+materials to ensure they are current and meaningful.
+2.2 Scam Prevention
+2.2.1 Warnings
+Cash App provides customer warnings in an effort to prevent senders of payments from falling
+victims to Scams. Cash App utilizes machine learning models to trigger clear and concise scam
+warnings when attributes of the payment that the customer is attempting to send reflect a higher
+probability the payment could be related to a scam. The warning reminds the customer to only
+send payments to individuals they know and trust. The warning also reminds customers that
+payments are sent immediately and may not be able to be reversed. This warning informs the
+customer that they have the option to cancel the payment prior to sending if they do feel like they
+5
+
+may be a victim of a scam. The warning inserts an intentional pause in the payment flow in case
+the customer has doubts about the transaction they are able to cancel. Also, these warnings are
+triggered by machine learning models and not displayed on every transaction to prevent
+unconscious click bias by the customer. This allows for the warnings to remain effective at
+preventing scams.
+2.2.2 Real-Time Transaction Blocking
+In addition to the customer warnings described in this Policy, fiat P2P transactions are reviewed by
+machine learning models using data sources such as previous transactions, sender and recipient
+identities, device characteristics, and linked instruments, to identify transactions that appear likely
+to be associated with a scam. In certain instances, these machine learning models will take an
+automated action to block or prevent the completion of the transaction, returning the funds to the
+sender. A message will be provided to the sending customer indicating the payment could not be
+completed. These machine learning models may also suspend the recipientʼs account in certain
+instances where it appears the recipient is likely a scam perpetrator.
+2.3 Reporting Scams to Cash App
+Cash App encourages its customers to inform Cash App when they believe they have fallen victim
+to a scam. When customers report scams ("Scam Reports"), it allows Cash App to help stop
+additional victims from falling victim to the same scammer or the latest scams. Scam Reports are
+used to update the machine learning models designed to warn customers and prevent the
+completion of transactions that are potentially scam related. In addition, this reporting helps Cash
+App educate customers on emerging scam trends and take action on confirmed scam
+perpetrators.
+2.3.1 In-App Reporting
+A customer can report a potential scam by using Cash App's in-app flow. To access the in-app
+scam reporting flow, a customer may go to the Activity feed, select a transaction, select the three
+dots at the upper left hand corner, and tap "Report an Issue." Cash Support can be reached the
+same way or by tapping the profile icon and scrolling down to Support.
+2.3.2 Phone
+Customers can also report a potential scam using Cash App's customer service support which can
+be connected at 1 800 9691940.
+2.4 Investigations
+Cash App will perform a systematic review of all reports of potential scams received by Cash App
+through an automated machine learning model. This machine learning model will be designed to
+triage the potential scam reports and queue those determined to be the highest probability of
+involving actual scams for manual review by one of Cash App's Scam Specialists. In cases where
+the machine learning model produces a determination with high confidence, as demonstrated by
+validated precision and recall metrics, appropriate mitigating actions may be taken based solely on
+the model's output without manual review. The manual review process followed is designed to
+6
+
+identify signals within the transaction history and profile information which confirms the customer
+is a victim of a scam and appropriate mitigating actions will be completed.
+2.4.1 Investigative Process
+The manual review is a comprehensive investigation that analyzes the transaction history of the
+customer who reported the scam, and the accounts that have received payments from the
+customer reporting the potential scam for any unusual activity. The investigation will take into
+consideration the current identity verification ("IDV") status of the sender and recipient, the
+approximate length of time the account has been active, and if there are signals of the account
+being inauthentic. Additional account criteria used to consider if usual or activity in common with
+scams may be but not limited to is an evaluation of the linked payment sources and if any
+mismatches to names, or geographical regions exist, review of recent transaction history for
+mismatches in geographical regions, transactions experiencing friction like blocked payments,
+revoked payments, refund requests, scam warnings, and credit card chargebacks. Other activities
+which could be indicative of scam behavior may also include:
+● Numerous and/or failed IDV attempts
+● Account being used for business transactions with an unusual distribution of send and
+receive payments
+● Indicators of violations of Cash App's Term of Service:
+○ Adult Service
+○ Gambling
+○ Business Loans
+○ Hate or harmful products
+○ Drugs
+○ Escort or Prostitution
+● Payments received are immediately transferred to bitcoin
+● Payment comments indicating potential scam behavior
+Each scam report which is queued for manual review will be investigated thoroughly and in a timely
+manner using the above data elements but not limited to only those to determine if the payment
+recipients are confirmed perpetrators of scams. Scam reports actioned by the machine learning
+model without manual review will be subject to ongoing monitoring and periodic validation to
+ensure the model continues to meet established confidence thresholds. Those recipients which are
+confirmed scam perpetrators will be denylisted.
+2.5 Reimbursement
+In an effort to increase customer trust, Cash App is committed to educating, warning, and taking
+actions to prevent Cash App consumers from losing money from scams. In alignment with this
+commitment, Cash App will reimburse a customer up to a maximum of $250 USD who has fallen
+victim to Imposter or Deception Scams excluding Goods and Services scams for fiat peer-to-peer
+payments when:
+● Cash App's internal investigation determines that the payment was likely associated with
+an Imposter or Deception scam; and
+7
+
+● Cash App is unable to successfully refund the customer's funds directly from the scammer
+account; and
+● The customer reports the scam payment to Cash App within 60 days of the payment
+appearing on their statement; and
+● Cash App failed to warn the customer at or before the time of the payment; and
+● Cash App did not block the payment; and
+● The Cash App investigation did not identify terms of service violations by the customer;
+and
+● The Customer has not already received reimbursement for the transaction in question
+through other means like chargebacks and/or disputes processing; and
+● This is the customer's first confirmed scam payment report
+As part of the reimbursement process to the sender, Cash App may attempt to clawback the funds
+associated with the transaction which was reported as a scam from the recipient. In the
+communication to the customer indicating Cash App's decision to reimburse the customer will also
+receive scam educational materials to prevent future revictimization within the Cash App platform
+as well as other financial services the customer may utilize.
+In the event of an Imposter Scam, Cash App should evaluate the display name used by the
+recipient and based on that evaluation, determine if any word(s) should be added to the existing
+display name controls.
+2.6 Denylisting
+Cash App may Denylist the SSN or close accounts that appear likely to be involved in the
+perpetration of scam related activities. Cash App will provide notice to the customer that their
+account is linked to a Terms of Service violation and has been closed. The customer will generally
+still be able to withdraw funds in their account but will not be able to perform any other
+transactions (e.g., P2P payments or depositing funds).
+Cash App may also Denylist, as appropriate, other unique account assets such as social security
+numbers, payment instruments, bank accounts, phone numbers, and/or email addresses that
+appear likely to be involved in the perpetration of scam related activities, or identified abuse of the
+reimbursement policy by falsely reporting scams to seek unwarranted reimbursements.
+Identity Type Adverse Action Description
+Authentic - The confirmed SSN Denylist An action taken on an SSN
+scammer account was created that marks any customer
+with credentials that belong to trying to IDV with it as a bad
+the person currently using the actor.
+account
+Account Denylist An action taken to close the
+account found to be engaging
+8
+
+Identity Type Adverse Action Description
+in fraudulent activity. Only
+enabled account functions are
+the ability to withdraw assets
+from the platform.
+Alias Denylist An action taken on an alias
+(email or phone number) that
+will prevent that alias from
+being linked to another
+account or used to create an
+account
+Instrument Denylist An action taken on a linked
+instrument (bank account,
+debit card, credit card) that
+prevents it from being linked
+to another account.
+Device Denylist An action taken on a device
+that prevents it from being
+used to sign up for a new
+account.
+Inauthentic - There are signals Account Denylist An action taken to close the
+that suggest the confirmed account found to be engaging
+scammer account was created in fraudulent activity. Only
+with credentials which do not enabled account functions are
+belong to the person currently the ability to withdraw assets
+using the account. from the platform.
+Alias Denylist An action taken on an alias
+(email or phone number) that
+will prevent that alias from
+being linked to another
+account or used to create an
+account
+Instrument Denylist An action taken on a linked
+instrument (bank account,
+debit card, credit card) that
+9
+
+Identity Type Adverse Action Description
+prevents it from being linked
+to another account.
+Device Denylist An action taken on a device
+that prevents it from being
+used to sign up for a new
+account.
+2.7 Suspicious Activity Report ("SAR") Referrals
+All Cash App accounts identified as perpetrating scam activity during the course of a Scam
+Investigation will be referred to Compliance for review to determine whether a suspicious activity
+report should be filed. Scam investigators will refer to Compliance any case of confirmed scam
+activity that involves $2000 USD or more of transactional activity by a single perpetrator (whether
+acting through one or multiple accounts) calculated by Total Received GPV.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Compliance Policy Committee (“CPCˮ)
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Provides guidance on significant policy matters
+○ Ensures consistency across Blockʼs Compliance Policy Framework
+● Head of Consumer Protection
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure that Company operations
+reflect the Company's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities.
+○ Monitors and reports on compliance with this Policy.
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the Head of Consumer
+Protection
+● Consumer Protection,Fraud Oversight Program Manager
+○ Serves as the primary delegate for the Head of Consumer Protection in matters
+relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+10
+
+○ Coordinates policy review and updates
+○ Manages the policy exception process
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+● Legal Counsel:
+○ Provides interpretative advice regarding the applicability and application of policy
+requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+11
+
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block,
+Inc. and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Cash App Scam Taxonomy
+● Scam Payment Report Review Instructions
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad-hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History
+Approver Title Type Description Date
+Brian Kollmeyer Consumer Approval July 12, 2024
+Protection
+Program Lead
+Tyler Hand Cash App Head Approval July 12, 2024
+of Compliance
+Compliance Compliance Scheduled … Annual Review, February 19,
+Policy Committee Policy Committee owner change to 2026
+Fraud Oversight
+Program
+Manager, and
+12
+
+Approver Title Type Description Date
+non-material
+changes
+Brian Kollmeyer Head of Material Ch… Off-cycle review, March 27, 2026
+Consumer Enable ML
+Protection models to action
+high-confidence
+scam
+determinations
+without human
+review
+Document Details
+Business Cash App
+Scope Cash App US
+Compliance Domain Consumer Protection
+Document Owner Consumer Protection, Fraud Oversight Program Manager
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+13

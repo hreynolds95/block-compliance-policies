@@ -1,0 +1,230 @@
+Canada's Anti-Spam Legislation CASL Policy
+Afterpay
+Last Approved: Dec 8, 2025
+Effective Date: Dec 8, 2025
+1. Overview
+Introduction and Purpose: This Canada Anti-Spam Legislation (“CASLˮ) Policy ("Policy") outlines
+Afterpay Canada Limited ("Afterpay Canada") approach to combat spam and regulate electronic
+communications in Canada. The Head of Compliance, Afterpay Canada, is responsible for
+overseeing this Policy. This Policy should be read in connection with Block's CANSPAM Policy and
+if there is any conflict between Block and the applicable local law, this Policy must be followed.
+Afterpay Canada conducts business in compliance with all applicable laws and regulations in
+accordance with CASL. The purpose of this Policy is to further Block's protection of Canadians
+from unsolicited electronic messages while fostering trust and confidence in digital
+communications. It applies to a wide range of electronic messages sent for commercial purposes,
+including emails, text messages, and other electronic messaging.
+CASL not only addresses spam but also governs the installation of computer programs and the
+alteration of transmission data. This legislation is crucial for Afterpay Canada as it operates within
+the digital payment services sector, where electronic communications play a vital role in customer
+engagement and business operations.
+In short, CASL aims to:
+● Protect individuals and businesses from unsolicited electronic messages, spyware, and
+malware.
+● Regulate CEMs to ensure transparency, accountability, and trust in digital communications.
+● Facilitate a secure and competitive digital marketplace in Canada.
+Scope: This Policy is established by Afterpay Canada and is applicable to all Afterpay business
+lines and jurisdictions within Canada. It applies to Staff Members involved in the marketing,
+distribution, and communication activities of Afterpay Canada.
+This Policy does not apply to:
+● Products and services that are distributed by third-party partners outside the jurisdiction of
+Canada.
+
+● Bank partners who are independently responsible for their compliance with CASL.
+● Any business activities or communications managed by external marketing agencies that
+operate under their own CASL compliance policies.
+Definitions:
+Terminology Definition
+CASL Canada Anti-Spam Legislation (“CASLˮ) protects consumers and
+businesses from the misuse of digital technology, including spam and
+other electronic threats.
+CEMs Commercial Electronic Messages (“CEMˮs) are any Email messages the
+Primary Purpose of which is to advertise or promote for a commercial
+purpose, a commercial product or service including content on the
+Internet. An email message would not be considered to be a CEM solely
+because such a message includes a reference to a commercial entity
+that serves to identify the Sender or a reference or link to an Internet
+website operated for a commercial purpose.
+Sender A person who initiates an email message and whose product, service, or
+internet website is advertised or promoted by the message.
+Staff Member(s) References to "Staff Member(s)" throughout this document shall refer to
+all full-time employees and fixed-term and contingent workers including
+interns, temps, consultants, vendors, third-party providers, and
+contractors.
+2. Policy Requirements
+2.1 Who CASL Protects
+CASL provides protection to all individuals, businesses, and organizations in Canada from
+unwanted electronic communications. This includes consumers, businesses, and government
+entities. CASL's reach extends beyond Canadian borders to anyone sending electronic messages
+to or from Canada, emphasizing its global impact on digital communications.
+2.2 Information requirements in Commercial Electronic Messages CEMs
+When sending CEMs, Afterpay Canada must include certain information to comply with CASL. This
+includes:
+● Identifying information about the Sender, including name and contact information.
+
+● A clear and functional unsubscribe mechanism that allows recipients to opt out of receiving
+future messages.
+Any additional information required by CASL to ensure transparency and accountability in
+electronic communications.
+2.3 Commercial Electronic message CEM Content Requirements
+Every CEM sent by Afterpay Canada must include:
+● Name or business name of the Sender.
+● If sent on behalf of another person, the name or business name of that person.
+● Contact information (mailing address, phone number, email, or web address) valid for at
+least 60 days after sending the CEM.
+● An unsubscribe mechanism allowing recipients to opt-out of future messages.
+The unsubscribe mechanism in CEMs must:
+● Enable recipients to indicate their wish to stop receiving CEMs at no cost.
+● Specify an electronic address or webpage valid for at least 60 days after the CEM is sent.
+● Be easily accessible, simple, and quick to use.
+● Process unsubscribe requests within 10 business days of receipt.
+2.4 Consent
+CASL mandates that businesses obtain consent before sending CEMs to individuals. Afterpay
+Canada must ensure that it has the appropriate consent—either express or implied—before
+sending any CEMs. Express consent requires a clear and affirmative indication of consent, while
+implied consent may arise from existing business relationships or specific circumstances outlined
+in CASL.
+2.5 General Requirements for Consent
+When seeking consent for any act regulated under CASL, Afterpay Canada must clearly outline the
+purpose, identify the requesting party and the party on whose behalf consent is sought, and
+provide contact information. Consent can be oral or written and must be obtained separately for
+each type of act specified under CASL.
+2.6 Express Consent
+When seeking express consent to send CEMs, Afterpay Canada must adhere to CASL's prescribed
+manner for requesting consent. The intended recipient — that is, the consumer or individual to
+whom Afterpay Canada wishes to send CEMs — must actively indicate their consent. Consent
+cannot be bundled with general terms and conditions but must be sought separately. The request
+
+for consent must clearly state the purpose, name or business name of the Sender, contact
+information, and the recipient's right to withdraw consent.
+2.7 Additional Consent Requirements
+For acts involving altering transmission data or installing computer programs, Afterpay Canada
+must comply with specific requirements to allow for withdrawal of consent and assist in removing
+or disabling the program if requested by the recipient.
+2.8 Afterpay Responsibilities
+Afterpay Canada is committed to upholding the principles of CASL in all its electronic
+communications activities. Compliance with CASL is essential to maintaining customer trust,
+safeguarding privacy, and avoiding potential legal and financial consequences.
+2.9 Marketing and Compliance Controls
+Afterpay Canada will implement appropriate compliance and marketing controls to ensure
+adherence with CASL, including:
+● Obtain required explicit consent from individuals before sending CEMs for marketing
+purposes.
+● Maintain and update consent records to ensure compliance with consent requirements
+under CASL.
+● Review all marketing communications to ensure they include required identification
+information and disclose the purpose of the message clearly.
+● Include a clear and functioning unsubscribe mechanism in all marketing communications.
+● Process unsubscribe requests promptly and honor opt-out preferences.
+● Conduct regular training sessions for marketing team members on CASL requirements and
+best practices.
+● Maintain detailed records of consent obtained from individuals and communication
+practices.
+● Periodically review marketing practices to ensure ongoing compliance with CASL
+regulations.
+● Ensure that any third-party service providers engaged in marketing activities comply with
+CASL requirements.
+2.10 Compliance Measures
+Afterpay Canada will implement the following compliance measures:
+● Staff Training: Where applicable, provide targeted training and awareness programs for
+relevant Staff Members involved in electronic communications to ensure understanding of
+CASL requirements and compliance obligations.
+
+● Consent Management: Implement robust controls and oversight mechanisms to manage
+and track consent from individuals, ensuring that only those who have provided consent
+receive CEMs.
+● Message Content Review: Regularly review the content of CEMs to ensure compliance with
+CASL's information and unsubscribe requirements.
+● Record-Keeping: Maintain detailed records of consent obtained and communication
+practices to demonstrate compliance with CASL in case of audits or investigations.
+2.11 Penalties
+Non-compliance with CASL can result in severe penalties, including but not limited to substantial
+fines of up to CAD$ 10 million for businesses and CAD$ 1 million for individuals. Additionally,
+non-compliance may result in reputational damage and loss of customer trust. Therefore,
+adherence to CASL requirements is crucial for Afterpay Canada to operate ethically and
+responsibly in the Canadian digital marketplace.
+2.12 Conclusion
+By adopting and adhering to this CASL compliance Policy, Afterpay Canada demonstrates its
+commitment to maintaining high standards of ethical conduct in electronic communications. This
+Policy educates all stakeholders, including Staff Members, about the importance of CASL
+compliance and its impact on privacy, security, and trust in digital communications within the
+Canadian context.
+2.13 Document Management
+Document Owner
+This Policy is owned by the Regulatory Program Manager, Afterpay Canada.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Head of Compliance, Afterpay Canada:
+○ Head of Compliance, Afterpay Canada is Responsible for overall CASL compliance,
+policy oversight, and reporting to Block, Inc. Board and executive management.
+● Compliance Program Manager:
+○ The Compliance Program Manager provides advisory support, guidance and
+oversight on the applicability and implementation of this Policy to the Company's
+
+business and operational activities, ensuring that all relevant requirements are
+appropriately addressed and integrated into day-to-day operations.
+● Legal counsel:
+○ Legal counsel provides interpretative advice and counsel regarding the applicability
+and application of requirements of this Policy.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Block Controlling the Assault of Non-Solicited Pornography & Marketing Act CANSPAM
+Policy
+● Afterpay Canada Marketing Policy
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ben Hollister Compliance Creation New Policy Sep 27, 2024
+Program creation
+Manager
+Safiya Adenekan Head of Initial Approval Initial approval Oct 8, 2024
+Compliance, for document
+Afterpay Canada creation
+Afterpay Canada Afterpay Canada Scheduled … Updated to new December 8,
+Board Board policy template; - 2025
+Clarified CASL
+consent
+language and
+recipient
+definitions
+Streamlined
+policy references
+and formatting
+
+Document Details:
+Business Afterpay Canada Limited
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Regulatory Program Manager
+Approved By Afterpay Canada Board
+Document Tier Tier 2

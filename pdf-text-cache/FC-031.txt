@@ -1,0 +1,404 @@
+Identity Verification Standard
+Cash App US
+Last Approved: Dec 15, 2025
+Effective Date: Dec 15, 2025
+1. Overview
+Introduction and Purpose: This Identity Verification Standard (“Standardˮ) is established by Cash
+App, and is applicable to the Cash App business in the United States.
+This Standard is designed to define Cash Appʼs strategy to obtain and verify a customerʼs identity.
+Identity Verification (“IDVˮ) is a process that allows Cash App to maintain compliance with its Know
+Your Customer (“KYCˮ) Policy, which establishes Cash Appʼs requirements for complying with
+applicable laws, regulation, and guidelines to monitor, detect, and prevent identity theft, money
+laundering, terrorist financing, and other types of illegal or illicit activity.
+In order to protect customers, prevent identity theft, and combat other fraud risk, Cash App should
+not allow the continued use of a Cash App account if there are concerns related to the authenticity
+of the identity submitted during the IDV process. Concerns around authenticity may include but are
+not limited to: synthetic identities, the fraudulent use of another personʼs identity, and use of
+fraudulent, forged, or inauthentic documents. If these red flags are identified after onboarding and
+verification, the account should be handled with the appropriate corresponding adverse action.
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of
+this Standard is to document Cash Appʼs strategy to ensure adherence to laws and regulations as
+outlined in the Cash App KYC Policy.
+Scope: This Standard is established by Cash App and is applicable to all subsidiaries used for the
+Cash App business, or Cash App subsidiary in the United States.
+Definitions:
+Terminology Definition
+Electronic Identity Verification Customer submitted information is checked against data
+(“eIDVˮ) sources in a waterfall method of third party eIDV vendors to
+determine if the identity information collected can be verified
+
+Document Identity Verification dIDV involves the collection of a government-issued picture
+(“dIDVˮ) ID and live selfie that is compared to: 1 the likeness of the
+selfie to the picture ID to ensure it is the same individual; and
+2 the submitted eIDV information to ensure it is the same
+individual.
+Business Identity bIDV involves the collection and verification of customer
+Verification (“bIDVˮ) business information to comply with Know Your Business
+guidelines and onboard the platform
+Merchant Category Code A code assigned to businesses during the Know your
+(“MCCˮ) Business (“KYBˮ) process, serving as a basis for evaluating
+customer risk. A standardized code that classifies the types
+of goods and services a merchant sells and is a key piece of
+info for payment processing.
+Social Security Number A unique 9-digit number that identifies an individual or natural
+person in the United States.
+Taxpayer Identification Number
+A unique 9-digit number used by the Internal Revenue
+Employer Identification Number
+Service in the administration of tax laws.
+(“EINˮ)
+A unique 9-digit federal tax ID number for businesses.
+Staff Members Employees and fixed-term and contingent workers who
+support the operations and/or subsidiaries covered by this
+Standard, and include interns, temporary workers,
+consultants, vendors, third-party providers, and contractors.
+2. Cash App Requirements
+2.1. Cash App Account Onboarding
+To sign up for a Cash App account, a prospective customer is prompted to provide:
+● Legal first and last name;
+● Phone number or email address;
+● Date of birth;
+● ZIP code1 ;
+● Cash Tag;
+● PIN; and
+● Debit card (optional)
+1 If the customer is prompted to complete IDV during account onboarding, Cash App follows its address collection method
+through the IDV process and does not additionally prompt the customer for their ZIP code.
+
+The customer is required to verify the phone number or email address through a one-time passcode
+sent by Cash App.
+2.2. Graduated IDV Process
+Cash App verifies customersʼ identity through a combination of electronic IDV (“eIDVˮ) and
+document IDV (“dIDVˮ) and maintains a risk-based, graduated approach to the IDV process.
+2.3. Restricted Accounts & Unrestricted Accounts
+Prior to going through IDV, a Cash App customer may maintain a “Restricted account.ˮ With a
+Restricted account, a customer may send and receive peer-to-peer (“P2Pˮ) payments at lower limits,
+and use Cash App Pay prior to going through IDV. Restricted accounts may send P2P and Cash App
+Pay up to $1,000 and receive P2P payments up to $1,000 within any 30 day period, and up to $1,500
+in their lifetime. Restricted accounts may not send money from their stored balance; payments must
+be sent from and withdrawn to a linked financial instrument from a U.S. depository institution. The
+$1,000 send and receive limit is aggregated by a customerʼs mobile device and linked financial
+instrument.
+A customer is considered to have an “Unrestricted accountˮ when the customer successfully passes
+IDV. Unrestricted accounts may send money from their stored balance, have access to a broader set
+of products and features, and have higher transaction limits compared to Restricted accounts.
+2.4. Electronic Identity Verification
+2.4.1 Customer Information Obtained
+As part of the eIDV process, Cash App obtains the following identification information:
+● Legal first and last name;
+● Date of Birth (“DOBˮ);
+● Social Security Number (“SSNˮ) or Individual Taxpayer Identification Number (“ITINˮ); and
+● Address
+Cash App may also obtain a photo of an accepted, unexpired government issued ID, as well as a
+selfie in cases where the customerʼs identity is not verifiable through electronic methods, or when
+required to use certain Cash App features (e.g., Bitcoin deposits and withdrawals or wires).
+2.4.2 Waterfall Method with Third Party Vendors
+To support its eIDV process, Cash App deploys a waterfall methodology using four vendors. This
+process compares the customerʼs personal information collected in-app (legal name, DOB, SSN or
+ITIN with data provided by Cash Appʼs vendors: IDology, Transunion (“TLOˮ)2, LexisNexis, and
+Socure (including the use of the Social Security Administrationʼs (“SSAˮ) data source, Electronic
+2 TLO does not support ITINs. For TIN attempts where the last-4 digits are provided, all vendors are called. However, for full-9
+digit attempts, in which validation confirms an ITIN, TLO is skipped in the waterfall.
+
+Consent Based Social Security Number Verification (“eCBSVˮ). These vendors aggregate customer
+information records from public and proprietary records across sources such as credit bureaus,
+telecom customer data, and higher education institutions, with exception of the eCBSV which is
+completed via a call to the SSA by way of Socure. This process consists of determining a canonical
+set of verified data about a customer based on a hierarchy of vendors. Cash App does not mix and
+match responses from multiple vendors to complete verification. A match is determined by
+leveraging the data provided by the vendor to determine if the information provided matches a
+record.
+2.4.3 Strategy for Risk Mitigation and Controls
+Cash App has developed processes and controls to manage the risk associated with fraud, identity
+theft, and other illicit activity through the design of the eIDV process.
+1. Vendor Verification - Cash App maintains a set of rules and configurations with its
+third-party vendors, which are designed to ensure Cash App adequately manages the risk
+of fraud, identity theft and other illicit activity through its eIDV process. The following
+scenarios result in a customer failing eIDV based on the information collected from the
+customer, and are ineligible for dIDV, but may maintain a Restricted account:
+● SSN or ITIN matched to a deceased identity - If the SSN or ITIN matches a
+deceased identity on a last 4 SSN or ITIN attempt, along with the Name and DOB,
+the account and the full 9 SSN or ITIN are denylisted. If the SSN or ITIN matches
+with a deceased identity on a full 9 SSN or ITIN attempt, the account is denylisted
+(along with the SSN even if the name and DOB do not match. This restriction is
+appealable by the customer.
+● SSN or ITIN mismatch - vendor match on legal name and DOB but mismatch on full
+9 SSN or ITIN.
+Any of the following will result in automatic failure of eIDV, and the customer may be eligible for dIDV,
+if they do not attempt or cannot pass dIDV, they may maintain a Restricted account:
+● Vendor match on legal name and SSN or ITIN, but mismatch on DOB3;
+● Vendor match on DOB and SSN or ITIN, but mismatch on name; or
+● Customer inputs a valid SSN or ITIN that is not associated with a vendor
+maintained identity.
+2. Internal IDV Rules and Configurations - Cash App maintains a set of internal rules and
+configurations that operate in addition to the vendor verification process. These rules and
+configurations are applied post-vendor approval, which allows Cash App to override the
+external vendor approval and deny the customer verification if needed. For example:
+a. Collected age is less than 18 or greater than 13
+b. SSN or ITIN not valid - SSN or ITIN, a sequence of 4 or 9 digits, is not invalid
+(e.g.,111111111,
+3 In this case, if the customer does not pass the SSA check, they will not be eligible for dIDV.
+
+c. SSN Denylist
+3. Vendor Validation - Cash Appʼs third-party identity verification vendors return response
+codes and raw data to Cash App. The codes and the raw data are ingested for comparison
+of the customer provided information. Cash App conducts a synchronous validation check
+of vendor response codes during identity verification by completing a check on the code
+returned by the vendor, the raw data returned by the vendor, and the customer provided
+information. If the synchronous check fails, meaning the response code does not match
+the raw data (e.g., response code indicates an SSN or ITIN exact match, but the raw data
+and customer input SSN or ITIN do not match) Cash App fails the verification and an
+investigation is deployed by the Cash App Identity Verifications Engineering team. If the
+validation passes, the customer is able to successfully pass IDV.
+4. Identity Machine Learning Models - Cash App has a dedicated Machine Learning team
+that creates and trains models and heuristics, which are designed to detect inauthentic
+identities and stolen identities going through the IDV process. These internal models and
+evaluations are leveraged on all eIDV attempts passed by a third-party vendor, and may
+override the eIDV vendor approval. The models can either: (i) fail the eIDV attempt; or (ii)
+escalate to dIDV.
+5. SSN Denylist - Cash App has developed a process, such that once an SSN or ITIN is
+added to the SSN Denylist, any future account attempting to go through IDV with the same
+SSN or ITIN is automatically denylisted. An SSN or ITIN is typically added to the SSN
+Denylist when it is associated with an account that is involved in certain illegal or illicit
+activity.
+6. Max Rule of 5 - Cash App only allows a customer to maintain 5 active accounts per SSN or
+ITIN at a time. If a customer attempts to go through IDV with the same SSN or ITIN while
+maintaining 5 active accounts:
+● The 6th attempt with the same SSN or ITIN will result in the 6th account and SSN or
+ITIN getting denylisted.
+7. Personal Information (“PI”) Refresh - Cash App requires customers to confirm and/or
+update their Legal Name and address on a defined cadence based on the customerʼs risk
+rating. This refresh is applicable to customers that are verified via eIDV with an ITIN or SSN,
+or via dIDV.
+● Low Risk: 5 years
+● Medium Risk: 3 years
+● High Risk: 1 year
+8. Event-Driven Refresh - Cash App has implemented event-driven identity refresh
+processes to obtain updated customer information when triggered by product access
+requirements or risk-based adversities requiring resolution.
+9. IDV in Onboarding - Customers that present certain higher risk signals during account
+onboarding are required to complete IDV during the onboarding process. Those signals
+
+may include if the customer has a high activation customer risk rating (“aCRRˮ), is using a
+VPN or has their device set to a foreign timezone. These signals are subject to change,
+based on new or changes in risk exposure during onboarding.
+2.5. Document Identity Verification
+If a customerʼs identity is not verified through eIDV, the customer may be prompted to go through
+dIDV. A customer may also be prompted to go through dIDV if they seek to use certain Cash App
+features that require dIDV as a verification method (e.g., Bitcoin deposits and withdrawals or Wires).
+Cash App accepts the following government-issued photo identification:
+● US Passport;
+● US Driverʼs License;
+● US State ID; and
+● US Permanent Residence Card.
+2.5.1 Strategy for Risk Mitigation and Controls
+1. Vendor Verification - Cash App uses a third-party vendor, Persona, to support the
+execution of the dIDV process. The dIDV process is completed in-app, where the customer
+is required to provide photos of their government-issued photo identification, as well as a
+live selfie. The liveness check is intended to detect and prevent biometric spoofing by
+comparing the selfies to the customerʼs picture on the government ID. As part of this
+process, the vendor conducts validation and authenticity checks, and extracts the
+barcode/MRZ data to ensure the data matches the name and DOB on the ID. Lastly, there is
+a check that is done to ensure the legal name and DOB on the ID matches the information
+submitted by the customer during eIDV.
+2. Internal dIDV Rules & Configurations - Cash App has a dedicated Engineering team that
+has created rules and policies to ensure the identity information provided during dIDV is
+appropriately matched to the identity information provided during eIDV.
+3. Identity Machine Learning Models - Cash App has a dedicated Machine Learning team
+that creates and trains models and heuristics targeted at detecting inauthentic identities
+during the dIDV process. These internal models and evaluations are leveraged on all dIDV
+attempts whether initially passed or failed by the vendor. During dIDV, the models can
+either4: (i) escalate the vendor-passed attempt to the internal manual review team; (ii)
+escalate the customer from dIDV to enhanced verification5; or (iii) denylist the account.
+4. Manual Document Review - In the event the customerʼs information cannot be fully
+4 Note that Cash Appʼs Risk Machine Learning models may also deny dIDV attempts if they detect non-fraudulent image
+quality issues.
+5 Enhanced verification is an account state on Cash App in which the account has limited functionality until the customer
+takes the required steps to remove the adversity.
+
+verified by the vendor, the information may be referred to Cash Appʼs Risk Operations team
+for manual review. The Risk Operations team is responsible for conducting a manual review
+of the document to evaluate authenticity of the document, and ultimately dispose of the
+dIDV attempt.
+5. Document Refresh - Should a Cash App customerʼs document become expired, they are
+prompted to upload a new document. The document is required to match the previous
+information for their Legal Name and Date of Birth.
+2.6. Business Identity Verification
+Prior to opening a Cash Business account, individual verification via eIDV or dIDV must be successfully
+completed. Cash App supports the following business types:
+● Sole Proprietorships
+● Single Member Limited Liability Company (“smLLC”)
+● Non-Profit Organization (“NPO”)
+Should a customer indicate they operate a business type that is not supported, they will receive an
+in-app blocker indicating their entity type is currently unsupported and will be unable to progress
+forward with opening a Cash Business account.
+2.6.1 Business Information Collected
+In order to open a Cash Business account, the following information is collected in-app from the
+customer:
+● Legal Business Name;
+● Business Name Trading or DBA (optional);
+● Business Address;
+● Business Website (optional); and
+● Taxpayer Identification Number (“TINˮ);
+○ smLLC may use their SSN or ITIN or Employer Identification Number (“EINˮ),
+dependent on how they file taxes
+○ NPOs must provide an EIN
+● Merchant Category Code (“MCCˮ);
+○ Customers can select the appropriate category for their business from a predefined
+list of MCCs that Cash App supports
+● IDV of the individual customer;
+○ Cash App collects a full 9-digit SSN or ITIN for customers who file taxes with an
+SSN or ITIN, and a last 4 SSN for customers who file taxes with an EIN.
+● Foreign Activities Attestation;
+○ If customer is an NPO and indicates “yesˮ to this question, they will not be
+permitted to open a Cash Business account
+● Ownership Attestation
+○ For smLLC, the customer must be a natural person and the 100% sole owner
+
+○ For NPOs, the customer must meet the “control prongˮ definition
+● Accuracy Attestation
+● Additional questions
+○ Cash App asks additional questions about how long the business has been in
+operation, estimated annual revenue, and estimated annual income NPOs only).
+2.6.2 Business Information Collected
+To support its bIDV process, Cash App leverages a third party vendor, Middesk, to compare the
+business information collected in-app with data provided by the vendor. A match is determined by
+leveraging the data provided by the vendor to determine if the information provided matches a
+record. Middesk leverages the Internal Revenue Service (“IRSˮ) database and the Secretary of State
+(“SoSˮ) database to verify businesses.
+2.6.3 Risk Mitigation and Strategy
+1. Vendor Verification - Cash App maintains a set of rules and configurations with its
+third-party vendor, which are designed to ensure Cash App adequately manages the risk
+of fraud, identity theft and other illicit activity through its bIDV process. The following
+scenarios result in a customer passing bIDV based on the information collected from the
+customer:
+a. SSN or ITIN businesses: The customer passed eIDV or dIDV and the Business
+Name and Address are verified via the SoS.
+b. EIN businesses: The customer passed eIDV or dIDV, the Business Name and EIN
+are verified via the IRS.
+Please note Cash App receives and ingests the information from the SoS check by Middesk for
+both EIN and SSN or ITIN businesses, which is stored for manual review by the Cash App
+Customer Onboarding Management team.
+2. Internal IDV Rules and Configurations - Cash App maintains a set of internal rules and
+configurations that operate in addition to the vendor verification process.
+a. The following results in an automatic failure of bIDV
+i. The EIN does not exist; or
+ii. Entity type returned by vendor is different than the customer submitted
+These rules and configurations are applied post-vendor review to determine if a manual review by
+the Cash App Customer Onboard and Management team is required:
+b. If the IRS check fails because the EIN is associated with a different business name;
+OR
+c. If the EIN is not found and the business is less than 1 year old
+If during the KYB review, the Customer Onboarding Management specialist is unable to verify the
+existence of the business, the verification will fail.
+
+3. SSN and EIN Denylist - Cash App has developed a process, such that once an SSN, ITIN,
+or EIN is added to the SSN or EIN Denylist, any future account attempting to go through IDV
+with the same SSN, ITIN, or EIN is automatically denylisted. An SSN, ITIN, or EIN is typically
+added to the SSN or EIN Denylist when it is associated with an account that is involved in
+certain illegal or illicit activity.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Customer Onboarding Management:
+○ Conduct Due Diligence on accounts in accordance with documented procedures,
+user guides, and guidance logs.
+● Product Management, Trust Identity:
+○ Own the front-line execution and delivery of the Identity Verification (“IDVˮ)
+process. Responsible for managing the IDV configurations, working across
+product teams on integrations, and aligning with Legal and Compliance on
+requirements. Also responsible for building and maintaining relationships with
+third-party vendors who support the process.
+● Product Management, Cash App:
+○ Engage with the TrustProduct team whenever there are changes or updates to
+product flows that impact IDV.
+● Product Compliance, Trust Identity
+○ Partner with Product Management, Trust to support the design and development of
+controls to stay in compliance with internal policies, as well as applicable legal and
+regulatory requirements.
+● Product Counsel
+○ Provide legal opinion and guidance to ensure compliance with applicable law.
+● Risk Machine Learning (ML)
+○ Dedicated team that owns, designs and builds machine learning models to detect
+and deter suspected inauthentic identities during IDV.
+● Risk Operations
+○ Conduct manual reviews of documents that are submitted by customers during the
+document identity verification process (“dIDVˮ) and are not able to be
+dispositioned automatically by a vendor.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related
+activities to evaluate adherence to the Standard and determine whether outputs adhere to
+established objectives.
+3.3. Record Retention
+All Documents are retained according to the longer of:
+
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Cash App KYC Policy
+● Cash App Identity Verification Procedure
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Jason Liberman Head of Product Initial Appro… New document Apr 24, 2023
+Compliance,
+Cash App
+
+Tyler Hand Cash App Head Initial Appro… New document May 1, 2023
+of Compliance
+Sydney Nam Block Policy Immaterial Update template. Oct 16, 2023
+Changes
+Governance
+Coordinator
+Jason Liberm… Head of Product Material Material changes. Mar 29, 2024
+Compliance, Changes
+Cash App
+Jason Liberm… Head of Product Immaterial Immaterial Oct 24, 2024
+Compliance, Changes changes.
+Cash App
+Jason Liberm… Head of Product Material Material Jan 28, 2025
+Compliance, Changes changes,
+Cash App including the
+addition of the
+bIDV process for
+KYB,
+vendor validation
+process, eCBSV
+as an additional
+source from
+Socure, and IDV
+in Onboarding for
+customers with
+high risk signals.
+Jason Liberm… Head of Material Inclusion of ITINs Oct 23, 2025
+Business Changes
+Product
+Compliance &
+Partnerships
+Jason Liberm… Head of Material Addition of ITIN in Dec 15, 2025
+Business Changes Refreshes and
+Product Event-Driven
+
+Compliance & Refreshes
+Partnerships
+Document Details:
+Business Cash App
+Scope US
+Compliance Domain Financial Crimes
+Document Owner Business Product Compliance Lead Trust & Consumer
+Approved By Head of Business Product Compliance & Partnerships
+Document Tier Tier 3

@@ -1,0 +1,551 @@
+Know Your Customer Standard
+Cash App US
+Last Approved: Dec 23, 2025
+Effective Date: Dec 23, 2025
+1. Overview
+Introduction and Purpose: In accordance with the Block, Inc. (herein referred to as the "Company"
+or "Block") BSA/AML Policy, the US Cash App ("Cash") Know Your Customer ("KYC") Standard has
+been established to ensure that Cash App reasonably understands who its customers are, and the
+risks posed by those customers. The Customer Onboarding and Management team ("COM") has
+been established to oversee implementation and monitoring of KYC processes, controls and
+procedures. Compliance is responsible for implementing procedures to ensure proper information
+or documentation is obtained and stored for each customer file. A risk-based approach is used to
+ensure customers identified as posing a heightened risk are subject to Enhanced Due Diligence
+("EDD"), allowing the business to further understand the risks the customer poses and establish
+processes to mitigate those risks.
+The cornerstone of a strong BSA/AML compliance program is the adoption and implementation of
+risk-based due diligence policies, procedures, and processes for all customers, particularly those
+that present a higher risk for money laundering and terrorist financing. In order to achieve this,
+Cash App has designed and implemented a customer risk rating program that assesses a
+customer's profile, assigns risk ratings, and monitors the customers' risk levels.
+The customer risk rating ("CRR") program enables Cash App to apply the appropriate risk-based
+controls to mitigate exposure to money launderers, terrorist financing, and financial crime.
+Improper assessment of a customer's risk can have a cascading effect, creating deficiencies in
+multiple areas of internal controls and resulting in an overall weakened AML compliance program.
+The KYC program captures Customer Due Diligence ("CDD"), Enhanced Due Diligence ("EDD"),
+Periodic Due Diligence, and Ongoing Due Diligence to ensure Cash App has a clear understanding
+of its customer base and continuously evaluates risks associated with money laundering, terrorist
+financing and other financial crimes. It also establishes consistent risk-based monitoring controls
+on the platform, including KYC, Know Your Business ("KYB"), Politically Exposed Person ("PEP"),
+Source of Wealth/ Source of Funds ("SoW/SoF"), Adverse media screening, KYC Refresh and
+Section 314(a) screening.
+Scope: All Cash App Compliance personnel should be knowledgeable in program content and are
+responsible for compliance with this Program in their related business activities. Cash App
+
+employees should have access to policies that affect their jobs and understand their
+responsibilities to perform their work in an ethical and legally compliant manner.
+Business units engaged in the development of new products and services, whether resulting from
+internal product development or merger and acquisition activities, must consider this Program.
+Definitions:
+Terminology Definition
+Adverse Media Screening for unfavorable news or mentions about customers,
+Negative News) impacting their risk rating and triggering due diligence reviews
+BSA Bank Secrecy Legislation obligating financial institutions to implement anti-money
+Act) laundering AML programs and combat money laundering, terrorist
+financing, and other criminal activities
+Cash App Investing An added feature to Cash App allowing customers to invest in stocks
+CAI and ETFs, with CAI being a broker-dealer with a risk-based AML
+program
+Cash Force 1 CF1 A customer relationship management CRM platform that helps
+streamline customer service processes, including case management
+and issue resolution
+CDD Customer Due The process of identifying and assessing customer information to
+Diligence) understand their expected activities and assess potential risks
+EDD Enhanced Due A process that enables deeper understanding of high-risk customers
+Diligence) and implementation of risk mitigation processes
+FinCEN Financial A bureau of the U.S. Department of the Treasury
+Crimes Enforcement
+Network)
+KYC Refresh A process involving periodic reviews and updates of customer
+information and documentation, including Personally Identifiable
+Information PII
+MCC Merchant A code assigned to businesses during the Know Your Business KYB
+Category Code) process, serving as the basis for evaluating customer risk
+ODD Ongoing and Reviews triggered periodically or based on events to assess
+Periodic Due customer-specific attributes and activities
+Diligence)
+PEPs Politically Individuals entrusted with prominent public roles, including elected or
+Exposed Persons) appointed officials, and their immediate family and close associates
+
+Terminology Definition
+Section 314(a) A section of the USA PATRIOT Act requiring information sharing among
+qualifying financial institutions and law enforcement to prevent money
+laundering and terrorist activities
+SoF/SoW Source of A series of questions aiming to understand the origin of funds used for
+Funds/Source of a transaction and the source of a customer's accumulated wealth
+Wealth)
+TLOxp A data intelligence platform used for due diligence, investigations, and
+risk assessment
+2. Standard Requirements
+2.1 Customer Onboarding Controls
+Cash App maintains a comprehensive inventory of product controls documented within its controls
+library that help mitigate risks across its platform. These controls extend across multiple customer
+touchpoints within Cash Appʼs platform including account creation, financial instrument linking,
+account access, transactions, investments. Additionally, Cash App has implemented onboarding
+controls and ongoing monitoring to reasonably understand who the customer is, the nature and
+purpose of activity on the platform, and to identify and mitigate reputational and financial crimes
+related risk. During onboarding, customers provide an alias1 (phone number or email address),
+legal name (first and last name, which is also used as the customerʼs display name), zip code2, and
+a $cashtag. A customer may also link a debit card to their account. When a debit card is linked to
+the customers account through Plaid, Cash App collects the customers bank account name,
+mailing address, phone number and email address which is surfaced for specialists during reviews.
+At onboarding, customers are prompted for their legal name (referred to as “Unverified Legal
+Nameˮ). This name is used during the customerʼs first attempt at electronic identity verification
+(eIDV). If the customer does not pass eIDV on their first attempt, they are provided the opportunity
+to change their name on the second attempt, and any subsequent eIDV attempts after it resets3.
+However, the customer is only allowed to make minor changes like adding, changing, or deleting
+up to three characters. If the change is greater than three characters, they are prompted for dIDV.
+The name on their document must match the name provided by the customer in any identity
+verification (“IDVˮ) attempt where they provided their full SSN.
+Cash App has introduced additional controls for restricted/unverified accounts. To mitigate risk
+exposure, these controls include aggregating monthly transaction limits for accounts linked to the
+same device. Additionally, unverified customers are restricted to using a maximum of five active
+devices for transactions, and collectively these accounts cannot exceed $1,000 in transactions
+within a 30 day rolling basis. If the account limit is exceeded, customers must undergo IDV to
+1 The alias must be verified using a one-time passcode (OTP)
+2 For sign-ups in Florida customers provide their full address
+3 60 day reset period
+
+complete transactions. Furthermore, restricted/unverified accounts4 have a lifetime limit of $1,500,
+applied individually rather than aggregated across devices. If identity verification is not completed
+once the lifetime limit is met, access to the account will be restricted to only allow the withdrawal
+of funds. These measures prevent perpetual unverified states and promote a higher number of
+verified accounts in the Cash App ecosystem.
+Customers seeking access to certain products are required to successfully pass the IDV flow.
+During this process, Cash App obtains the customerʼs legal name, date of birth, the last four digits
+of their Social Security Number or Individual Tax Identification Number5 and physical address. If
+the customer is required to be verified through document identity verification (dIDV), an unexpired
+government issued ID and selfie is required. A customer can be verified through eIDV or document
+identity verification processes. eIDV involves electronically validating customer-provided
+information against vendor sources6 to verify their identity and dIDV7 requires the collection and
+verification of official documents, such as a government-issued ID, and a selfie to verify the
+information provided during onboarding.
+Additional sign-up controls prohibit the use of VoIP phone numbers, device emulators, and block
+account creation from outside the US (“VPNˮ) as follows:
+● Accounts may not be created using a Voice over Internet Protocol (“VOIPˮ) phone number;
+● An emulated device can not be used to create a new account or log into an existing
+account; and
+● Cash App blocks account creation if device signals indicate that the customer is outside
+the US (e.g., IP address, device time zone, device SIM card).
+Cash App has instituted measures to remove bad actors from the platform and prevent them from
+bypassing existing controls through denylist propagation. This control extends across customer
+assets. Those assets include: social security number or individual tax identification number,
+financial instrument, mobile device, phone number, and email address.
+To mitigate risk exposure, a social security number or individual tax identification number can be
+linked to a maximum of 5 active accounts. A financial instrument can also be linked to a lifetime
+maximum of 5 accounts. A phone number can be transferred and linked to a maximum of 5 active
+accounts within a 9-month period. An email address (including permutations) can be transferred
+and re-linked to a total of 5 active accounts for its lifetime, linking an email will be blocked for the
+6th active account.
+When a customer is denylisted8, based on the severity of the activity (i.e., for certain illegal,
+fraudulent, or other suspicious activity) their assets are also denylisted. When the SSN is
+denylisted it is added to the SSN denylist which prevents any account attempting identity
+verification with that SSN to also be denylisted. Financial instruments that are denylisted are
+4 Cash App Terms of Service
+5 Last 4 digits collected for first IDV attempt on non-financial services or lending products. Full 9 digits are collected for subsequent IDV
+attempts or if customer using financial services or lending products
+6 Vendors - Ideology, TLO, LexisNexis and Socure
+7 Vendor- Persona
+8Customers cannot send, request or receive funds, use a Cash Card, add funds, buy stock or bitcoin, or take loans. Additionally,
+there is a block on linked instruments for all future attempts.
+
+prevented from being linked to other accounts. Denylisted devices are blocked from future
+sign-ups for nine months. Depending on the severity of the bad actorʼs activity, this rule might
+impact any device that logged into the account in the past year, or the most recent device. Phone
+numbers that are denylisted are prevented from being linked to an account for a rolling 270 day
+timeframe. Email addresses (including permutations) associated with a denylisted account are
+prevented from being linked to another account.
+2.1.1 Customer Risk Scoring and Status
+Customer Risk Rating ("CRR") is a primary control to identify high-risk accounts on Cash App's
+platform. All accounts have an overall risk status which consists of risk factors that can be grouped
+into two categories - model risk and intrinsic risk. Accounts and customers have a model risk
+score (which is defined by the empirical risk score) and have a risk status (which is defined by
+intrinsic risk factors). All accounts, whether verified or unverified, are scored through machine
+learning models (i.e. activation customer risk rating ("aCRR") and continuous customer risk rating
+("cCRR"). A customer's risk status is impacted by intrinsic risk factors like matches to PEP,
+Adverse Media related to financial crimes or reputational risk, and operations in high-risk
+industries.
+After successful onboarding, accounts are scored in real-time through the aCRR. The aCRR model
+utilizes 200 features from the set of signals available at the alias-link event. The model features are
+grouped in categories like transaction activity, connected users, onboarding attributes, linked
+instruments etc. Additionally, active verified accounts are scored weekly through the cCRR. The
+cCRR model utilizes 163 features and is grouped based on historical compliance/ risk actions,
+connected through various identifiers such as SSN, device, IP addresses, bank/card linkage etc
+(described in the Design doc).
+The KYC program uses CRR scores to determine high-risk populations, ensuring they undergo EDD
+on an ongoing basis, while also monitoring low and moderate-risk customers for suspicious
+activity. Customers with high empirical risk scores and with a high CRR status receive EDD on an
+ongoing basis.
+2.1.2 Due Diligence Reviews
+The primary goals of due diligence reviews include identifying or obtaining relevant
+customer-specific information to understand the nature and purpose of the customerʼs relationship
+with Cash App. This involves continuously monitoring customer activity, transactions, and behavior
+patterns to detect potential money laundering, terrorist financing, and other financial crimes risks
+posed by customers. Moreover, due diligence entails conducting an enhanced level of scrutiny on
+higher risk accounts and customers. By subjecting higher risk customers to EDD, Cash App can
+better identify and manage potential risks, thereby enhancing the overall effectiveness and
+safeguarding the integrity of its platform.
+2.1.3 Customer Due Diligence9
+CDD involves obtaining and evaluating customer information to determine their activity and
+establish a reasonable assessment of potential risks related to money laundering, terrorist
+financing, and other financial crimes. The information identified during CDD is crucial for
+9 Manual CDD is only conducted on the CAI population
+
+determining overall risk and contributes to the methodology used for customer risk scoring. In
+cases where manual CDD is necessary, it is conducted for customers with moderate and low-risk
+ratings. Throughout the CDD process, KYC specialists analyze specific customer attributes,
+transactional behaviors patterns, and web presence to gain insight into the account's purpose as
+well as the account expected activity.
+2.1.4 Enhanced Due Diligence
+Enhanced Due Diligence enables Cash App to comprehensively assess the risks posed by
+customers and implement measures to mitigate those risks effectively. High-risk customers are
+identified through Cash Appʼs Customer Risk Rating methodology. Customers engaging in high-risk
+activity or involved in high-risk scenarios such as VPN usage, darknet exposure, and mixing
+exposure may receive an EDD review. Additionally, accounts may also be flagged for EDD review
+based on referrals from other departments or entities within the organization.
+During the EDD process, specialists evaluate various customer-specific attributes and account
+data elements. They assess customer specific attributes and data elements like transactional
+behavior patterns, including activities linked to connected accounts within the customer's network
+on the platform. They analyze the customer's web presence, relevant negative news screening,
+linked bank account and financial instrument behavior, and review pertinent business information,
+source of funds, and source of wealth. These reviews provide a deeper understanding of the
+account's nature, purpose, and expected activity. The EDD process is conducted within the
+defined service level agreement (“SLAˮ) for the EDD workflow, ensuring timely and thorough
+assessments of high-risk accounts.
+2.1.5 Periodic Due Diligence and Ongoing EDD
+Periodic due diligence is part of the KYC Refresh process and is triggered yearly for high-risk
+active accounts, every 3 years for medium risk rated accounts, and every 5 years for low-risk
+rated accounts. The scope of the due diligence review is contingent on the accountʼs risk rating,
+wherein specialists analyze customer-specific attributes, transactional behavior patterns, and web
+presence to understand the account's nature and anticipated activity. High-risk accounts undergo
+enhanced due diligence, including manual google searches for negative news and a
+comprehensive review of identity and behavior patterns; while medium and low-risk accounts may
+require updated identity documentation and negative news google searches. During the periodic
+due diligence process, specialists conduct a detailed review to ensure the completeness and
+consistency of the updated information, documentation, and verification.
+Customers that have had an initial due diligence review are subjected to ongoing due diligence
+every 90 days. High-risk accounts and customers must also be subject to enhanced ongoing
+monitoring. Ongoing reviews may also be triggered based on a triggering event. Triggering events
+may include, but are not limited to: hard linkages to multiple denylisted accounts, confirmed
+negative news associated with the account or account holder, confirmed Politically Exposed
+Person is the account holder; transactional activity concerns; or external escalations.
+2.1.6 Politically Exposed Persons
+PEPs are categorized and defined as:
+
+● Domestic PEPs: Individuals who are or have been entrusted domestically US with
+prominent public functions.
+● Foreign PEPs: Individuals who are or have been entrusted with prominent public functions
+by a foreign (non-US) country.
+● International Organization PEPs: individuals who are or have been entrusted with a
+prominent function by an international organization.
+● Family member: Individuals who are related to a PEP either directly or through marriage or
+similar (civil) forms of partnerships.
+● Close associates: Individuals who are closely connected to a PEP, either socially or
+professionally.
+Cash App employs a risk based approach to monitor for PEPs. PEPs are identified through Cash
+App's compliance due diligence and investigation processes. True positive matches require
+approval from compliance leadership in order to retain their relationship. Risk criteria considered
+for PEPʼs on Cash App include activity, geo-location association, nature and magnitude of their
+influence, and the extent of control. Any high-risk PEPs identified are subject to EDD on an
+ongoing basis which may include reaching out to the customer to confirm SoF/SoW information,
+adverse media screening, and a transactional review of the customerʼs activity.
+2.1.7 Source of Wealth/Source of Funds
+Source of Wealth/ Source of Funds information may be obtained through the onboarding flow (for
+investing customers), due diligence reviews, or through the in-app SoW and SoF control).
+The SoW/SoF in-app flow is a series of questions that aim to understand the customerʼs origin of
+funds used for a transaction (‘SoFʼ) and the origin of the customerʼs accumulated wealth (‘SoWʼ).
+Customers are triggered for SoF/SoW collection based on their customer risk rating and
+transactional activity/frequency. Customers that access Cash App Invest products, are always
+required to provide SoF/SoW information at onboarding (employment information).
+Based on their responses to the in-app questionnaire, customers may be prompted to upload
+additional supporting documentation such as a pay stub, W2, or bank account statement. If a
+high-risk customer does not respond with the information requested, the account will be blocked
+from bringing in any new cash inflows onto the platform. An autoblock is placed on all transactions,
+with the exception of liquidating and withdrawing funds, and access is revoked across all products
+except Cash Out, selling Stocks, and selling or withdrawing on-chain Bitcoin.
+All customers that are triggered for SoW/SoF validation will be subject to review regardless of
+whether they complete the questionnaire and/or provide documentation. During the EDD review,
+the account will be evaluated for any concerning or suspicious activity and may be cleared,
+denylisted, and/or escalated to the Financial Crimes team for further review.
+Additionally, Specialists perform SoW/SoF checks during all Enhanced Due Diligence and
+Customer Due Diligence manual reviews as part of the standard procedure. The information is
+obtained through open source research, customer inquiries (“RFIˮ) on an ad hoc basis, or third
+party vendor checks (i.e. TLOxp)
+
+2.1.8 Adverse Media Negative News)
+Screening of adverse media is a crucial component within the KYC program. Verified customers
+undergo screening for adverse media during both the onboarding process and at regular intervals10
+through Cash App's vendor screening process. If they are then identified as a potential match for
+news pertaining to money laundering, terrorist financing, financial crimes, or high reputational risk,
+they receive an EDD review.
+Additionally, within the EDD review process, all customers are subject to manual Google searches
+to identify negative news within the manual review.
+The outcomes of the screening process for individual customers serve as crucial indicators for
+determining their risk rating status within the intrinsic risk model. Customers' risk status may be
+subject to change based on the severity of identified negative news. Confirmed matches to
+negative news may lead to an elevation in the customer's risk status, potentially requiring
+additional escalation for investigation and reporting.
+2.1.9 KYC Refresh
+Verified customers are prompted for KYC refresh on a regular cadence that is based on the
+continuous risk score. The KYC Refresh process encompasses a review of the customer along
+with periodic updates of the customer's name and address and customer documentation. A
+risk-oriented strategy is implemented, ensuring that high-risk customers undergo more frequent
+due diligence refreshes in comparison to those classified as moderate or low-risk.
+Active accounts are required to confirm or update their legal name and address every year for
+high-risk customers, every 3 years for medium risk customers, and every 5 years for low-risk
+customers. Inactive customers will undergo the KYC Refresh process upon reactivation or as per
+policy requirements. Customers receive prompts through in-app notifications, email, and SMS to
+complete the personal information refresh. If the customerʼs legal name has changed, they are
+required to go through Cash Appʼs existing process to update their legal name by providing
+documentation for manual review to evidence the name change (e.g., divorce decree, marriage
+certificate).
+High-risk accounts are given 30 days to confirm their personal information and 90 days to upload
+a new government photo ID. These accounts undergo EDD review every 90 days, in accordance
+with Cash App's review guidelines, supplemented by an annual KYC refresh. High-risk customers
+are blocked from transacting if they do not complete information refresh during the timeframe
+provided to them.
+Medium-risk customers are given 90 days, and low-risk customers are given 180 days to confirm
+their personal information. Customers who do not respond to the confirmation request undergo
+re-verification through the original eIDV vendor. If the re-verification attempt fails, the customer's
+information is processed via the eIDV waterfall (excluding SSA using their most recent Legal
+Name, DOB, and SSN. Customers with successful verification are marked as "responded" with a
+timestamp of the verification stored in the PI refresh database. Customers with unsuccessful
+10 Rescreening every 30 days
+
+verification are enrolled in a 14-day re-verification campaign. Failure to pass re-verification within
+this period results in customers IDV status revocation, and may be subject to a manual review.
+Additionally, moderate and low-risk rated customers have 180 days to upload a new ID from the
+expiration date of their government issued ID, failure to do so may also result in a manual review.
+2.1.10 Section 314(a)
+Pursuant to requirements within the Uniting and Strengthening America by Providing Appropriate
+Tools Required to Intercept and Obstruct Terrorism Act of 2001 ("USA PATRIOT Act"), the Treasury
+Department maintains a process for information sharing in and among qualifying financial
+institutions and law enforcement divisions in order to prevent money laundering and terrorist
+activities.
+Section 314(a) requires certain financial institutions to register with their federal regulator in order
+to receive information requests and notifications about individuals or organizations that are
+suspected of being involved in or connected to criminal activity. FinCEN, the administrator of this
+process, maintains an electronic database to facilitate this information exchange (the Secure
+Information Sharing System - SISS.
+Cash App maintains a registration with FinCEN and actively participates in screening against 314(a)
+information requests.
+2.2 Metrics and Reporting
+Reporting and tracking of the overall health of Blockʼs AML program are managed through a
+number of dashboards, ad hoc reports, and spreadsheet trackers designed to provide a structural
+and tactical view into the program and enable effective and actionable insights. Both programmatic
+and operational reporting are used to allow visibility of Blockʼs AML risk exposure and overall
+performance. Operational reporting provides a look into the daily, weekly, monthly actions related
+to case creation/ alert volume; backlogs; individual specialistsʼ performance, including but not
+limited to comparative tracking of average time per case, action rate, and quality control
+performance that is driven by established KPI and KRI indicators. Programmatic reporting provides
+transparency into the global performance of the AML program and gauges compliance impact to
+the business, through the tracking of negative actions taken on customerʼs accounts, escalation
+activity into the Financial Crimesʼ SAR investigations team (further tracked to suspected SARs and
+actual SARs generated), and compliance initiatives/ OKRs.
+2.3 System Access
+Specialists require access to all systems and tools listed within the Systems and Tools section.
+Additionally, specialists require Compliance specific roles to ensure access to job specific
+functionalities.
+2.4 Queue Parameters
+Cash App utilizes various proprietary algorithms to create cases for the KYC team to review. This
+includes automated case queues and periodic or manual reports for review. Case queues and
+reports are generated using machine-learning, heuristics, and manual methodologies.
+
+Cash Appʼs Customer Onboarding and Due Diligence team queues are established and maintained
+by internal Engineering team(s). Any new queues or recommended changes to the existing queue
+models for the KYC team are reviewed and approved by the Customer Onboarding and Due
+Diligence Lead.
+2.5 Quality Control
+The Quality Control QC team recognizes the importance of ensuring that compliance programs
+are functioning optimally while assessing performance and enabling precise and accurate reviews,
+as well as appropriate risk based controls. The QC program is an independent team that ensures
+actions taken on individual accounts are in line with review procedures, and are based on the
+overall reputational, operational, and regulatory risk posed. Essential functions of the QC process
+include creating a feedback loop for the KYC team to continuously identify opportunities for
+improvement, assessing potential operational gaps to remediate deficiencies, and developing and
+disseminating quality control reporting.
+2.6 Risk Assessment
+Cash Appʼs Global Anti-Money Laundering (“AMLˮ) and KYC Risk Assessments are completed
+annually by the Compliance Governance & Program Support – Risk Assessment Team GPSRA
+with input/feedback from the Business Unit KYC operation teams. The risk assessments are
+reviewed and approved by the GCCO or applicable in-country CCO. Risk assessments may also
+occur off-cycle as a result of international expansion, the introduction of new products or services,
+material changes to existing products or services, or new or material changes to regulatory
+requirements.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+● Chief Compliance and BSA Officer:
+○ Reviewing, recommending changes to and providing approval of compliance policies
+at least annually
+○ Reviewing and approving recommended changes to monitoring parameters and
+models
+● Customer Onboarding and Management COM Lead:
+○ Responsible for reviewing and approving any changes to the Cash KYC Program
+● Customer Onboarding and Management COM Program Manager:
+○ Owner of the program document and responsible for providing an advisory
+function as well as engaging with the KYC operations team on new product
+launches and program controls
+● Customer Onboarding and Due Diligence Team:
+○ Conducting due diligence on accounts in accordance with documented procedures,
+user guides, and guidance logs
+○ Documenting conclusions in a manner that is clear and complete
+
+○ Reviewing escalated customer accounts to determine if the customer has violated
+Blockʼs Terms of Service
+○ Escalating customer accounts to the Transaction Monitoring team that are identified
+as having potential unusual or suspicious activity
+○ Reviewing escalated customer accounts to determine if there is sanctions exposure
+● Transaction Monitoring Team:
+○ Reviewing cases and investigating associated customer activity within established
+queue SLAs
+○ Escalating customer accounts to the Enhanced Due Diligence team that are
+identified as potentially violating Blockʼs Terms of Service
+○ Escalating customer accounts to the Sanctions team that are identified as having
+potential sanctions exposure
+○ Escalating customer accounts to the Suspicious Activity
+○ Reporting Team that meets the established referral requirements for unusual or
+suspicious activity
+● Suspicious Activity Reporting Team:
+○ Reviewing escalated customer accounts to determine if a Suspicious Activity
+Report SAR is required
+○ File SARs within established timelines per Suspicious Activity Reporting procedures
+○ Deactivating customer accounts that are identified as exhibiting patterns of
+transactions indicative of unusual or suspicious activity
+● Quality Control Team:
+○ Reviewing actions taken by the Customer Onboarding and Due Diligence,
+transaction monitoring and SAR teams for consistency with established procedures
+○ Providing reporting for management and senior leadership teams on the results of
+the reviews
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All full-time Cash App employees and contractors receive Bank Secrecy Act ("BSA")/AML and
+OFAC training at least once per calendar year.
+Upon onboarding, newly hired KYC Operations Analysts are provided role specific training relating
+to alert review and proper manager escalations as outlined in the KYC Standard Operating
+
+Procedures SOPs. Ongoing training requirements are set by the Business Unit Lead and may be
+deemed necessary based on performance, changes to processes, or the implementation of new
+processes.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Cash App KYC Policy
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Jonathan Diaz KYC Program Block performs January 18, 2022
+Manager analysis of the
+need for the
+
+Approver Title Type Description Date
+program.
+Program is
+drafted.
+Nafeesa KYC Program Creation Reviewed by January 27, 2022
+Blackwell Manager Customer
+Onboarding and
+Due Diligence
+Lead.
+Nafeesa Customer Initial Appr… Approved by April 11, 2022
+Blackwell Onboarding and Customer
+Due Diligence
+Onboarding and
+Lead
+Management
+Lead.
+Jonathan Diaz Customer Initial Appr… Updated May 3, 2022
+Onboarding and communication
+Due Diligence
+section with One
+Lead
+Trust link.
+Jonathan Diaz KYC Program Material Ch… Included 314a March 17, 2023
+Manager verbiage and
+removed TOSV.
+Adrian Gardner KYC Program Material Ch… Reviewed and March 20, 2023
+Manager approved by
+Customer
+Onboarding and
+Management
+Lead.
+Jonathan Diaz Customer Material Ch… Addition of May 12, 2023
+Onboarding and controls and
+Management
+program updates
+Lead
+Vanessa Rioux KYC Program Immaterial … Updated April 3, 2024
+Manager formatting,
+content to align
+with updated
+processes
+Anjali Khullar Customer Immaterial … Immaterial April 4, 2024
+Management & formatting
+Quality Control
+change to add
+Lead
+Approval History
+
+Approver Title Type Description Date
+Adrian Gardner Customer Material Ch… Reviewed and April 9, 2024
+Onboarding and approved by
+Management
+Customer
+Program
+Onboarding and
+Management
+Management
+Lead
+Lead.
+Adrian Gardner Head of Material Ch… Immaterial April 16, 2024
+Customer update to
+Onboarding and
+customer
+Management
+onboarding
+controls section.
+Adrian Gardner Head of Immaterial … Immaterial December 13,
+Customer update to the 2024
+Onboarding and
+KYC refresh
+Management
+section.
+Adrian Gardner Customer Material Ch… Inclusion of ITIN December 23,
+Onboarding and for IDV process 2025
+Appeals Program
+Lead
+Document Details:
+Business Cash App
+Scope US
+Compliance Domain Financial Crimes
+Document Owner Customer Onboarding and Appeals,
+Compliance
+Approved By Customer Onboarding and Appeals Program
+Lead
+Document Tier Tier 3

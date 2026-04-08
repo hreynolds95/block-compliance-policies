@@ -1,0 +1,699 @@
+Compliance Quality Program Standard
+Block, Inc.
+Last Approved: Mar 27, 2026
+Effective Date: Mar 27, 2026
+1. Overview
+Introduction and Purpose
+This Compliance Quality Standard establishes a consistent framework for assessing and improving
+the quality and effectiveness of compliance processes across Block, Inc. and its subsidiaries
+(collectively, “Blockˮ). Block has designed its Quality Program to consist of two parts: Quality
+Control (“QC”) and Quality Assurance (“QA”). The Program ensures that Compliance Operations,
+with responsibility for implementing processes and procedures to meet Blockʼs BSA/AML and
+Sanctions policy and program as it relates to areas such as Transaction Monitoring (“TM"),
+Suspicious Activity Reporting (“SARˮ), Enhanced Due Diligence (“EDDˮ), and Know Your Customer
+(“KYCˮ) reviews, meet regulatory obligations and internal quality benchmarks. The Quality Program
+may be leveraged for other areas as designated, such as Appeals, Unacceptable Use and Terms of
+Service Violation, within the scope of the Compliance Operations program.
+Block is committed to maintaining a robust Quality Program and compliance with the laws and
+regulations governing the conduct of its business. As part of this commitment, Block developed
+this Standard to govern the Quality Program and define its objectives, principles, methodology, and
+governance, ensuring independent, accurate, and transparent evaluation of compliance reviews to
+strengthen Blockʼs control environment and promote continuous improvement. This Standard will
+be supported by procedures and instruction; separated into specific control and assurance
+components, or by function performing quality, where relevant.
+A primary function of the Quality Program is evaluation of the effectiveness of the Compliance
+operational functions in meeting the objectives and obligations under the BSA/AML and Sanctions
+programs. The Quality Program primarily focuses on output and decisions related to alerts and
+investigations, and provides a feedback loop for continuous improvement after a decision has been
+made. The Quality Control QC function primarily focuses on real-time evaluation of decision
+correctness either prior to a decision being made or shortly thereafter. The Quality Assurance QA
+function) evaluates decisions made with a systematic review of existing workflows, processes,
+procedures, training and where relevant, systems, to detect any weaknesses or inefficiencies that
+1
+
+could compromise quality, introduce errors that expose the compliance operations program to
+gaps, or hinder effectiveness of the operations program meeting its obligations. Once identified,
+these deficiencies are then thoroughly analyzed to understand their root causes, paving the way
+for targeted remediation efforts. The goal of the Quality Program is to provide recommendations
+and reporting that drive correction of issues as well as implementation of lasting solutions that
+prevent recurrence and enhance overall operational procedures and program in fulfilling its
+objectives under the BSA/AML and Sanctions programs.
+Scope
+This Standard applies globally to Block, Inc. entities and products, specifically those defined within
+Covered Products, as applicable to Square, Square Financial Services (“SFSˮ), Cash App, Cash
+App Invest (“CAIˮ) Afterpay and Clearpay, and covers all compliance-related reviews,
+investigations, and quality control and assurance processes. In addition to application to Blockʼs
+BSA/AML and Sanctions programs, the Quality Program may be leveraged for other areas as
+designated, such as Appeals, Unacceptable Use and Terms of Service Violation, within the scope
+of the Compliance Operations program.
+In-scope Coverage
+Unless otherwise explicitly stated, directed, or approved through governance channels, the
+following areas are in scope for this Standard and the Quality Program:
+● Compliance Operations:
+All Compliance Operations functions as performed within queues in Regulator or Notary are
+in scope for review, unless explicitly excluded. Any exceptions or exclusions must be
+formally documented or tracked through CAX queue metadata (e.g., queues designated as
+Not Reported).
+● Specialized Compliance Areas:
+The Quality Program may be applied to select compliance functions performed by
+specialized teams where quality oversight is required for operational functions performed
+within those teams, including but not limited to:
+○ High Risk Customer Escalations (“HRCEˮ)
+○ Special Investigations Unit (“SIUˮ)
+○ Global Sanctions Team (“GSˮ)
+● Appeals:
+Appeals processes associated with compliance decisions are in scope for Quality review to
+ensure consistency, fairness, and adherence to documented standards.
+This Standard focuses on the quality of Compliance Operations output and decisions (alerts,
+auto-decisions, investigations, filings) rather than the underlying systems, tools, or processes that
+generate those outputs. Validation of screening systems, list maintenance, screening settings,
+population selection, off-grid or ad hoc workflows that are not formally tracked within approved
+2
+
+case management or operational systems are outside the scope of this Standard, unless they are
+expressly brought into scope through documented governance approval.
+Definitions
+Terminology Definition
+AML/CFT Laws Global AML/CFT Laws are the anti-money laundering (“AMLˮ) and
+counter-terrorist financing (“CFTˮ) laws, regulations, and
+supervisory expectations applicable in each jurisdiction
+where Block operates. These requirements generally
+establish obligations for customer due diligence (including
+identity verification), ongoing monitoring, recordkeeping,
+sanctions compliance considerations, and reporting of
+suspicious activity to relevant authorities. In the United
+States, these obligations are established under the Bank
+Secrecy Act (“BSAˮ); in other jurisdictions, they are
+established under equivalent local legal and regulatory
+frameworks.
+Average Score The mean quality score across all reviews conducted within
+a given timeframe, may be used to assess overall Quality
+performance and directional trends.
+BSA Bank Secrecy Act) The Bank Secrecy Act BSA is the primary anti-money
+laundering AML law (often called "BSA/AML") in the US. It
+authorizes the Department of the Treasury to impose
+reporting and record-keeping requirements on financial
+institutions and businesses to detect and prevent money
+laundering, tax evasion, and other criminal activities.
+The Bank Secrecy Act of 1970, also known as the Currency
+and Foreign Transactions Reporting Act, is a U.S. law
+requiring financial institutions in the United States to assist
+U.S. government agencies in detecting and preventing
+money laundering.
+Calibration The structured process used to align Quality reviewers and
+managers on scoring standards, interpretations, and
+expectations to ensure consistent application of Quality
+criteria across teams and entities. Calibration sessions may
+involve group reviews of sample cases to compare
+assessments, resolve discrepancies, and reinforce a shared
+understanding of quality standards and decision rationale.
+Continuous Improvement The practice of using Quality insights to drive process
+enhancements, training, and system improvements that
+strengthen overall compliance performance.
+Coverage Quality maintains comprehensive oversight across all active
+compliance operational processes, ensuring review
+3
+
+coverage across BSA/AML and Sanctions operations,
+balanced with risk-based flexibility.
+Covered Products Block defines its Covered Products as the products and
+services that Block offers pursuant to a license or
+registration and that are subject to BSA/AML related laws
+and regulations. Certain other products may also be
+considered Covered Products, such as where required
+under partner bank expectation and/or contractual
+obligation. Each Business Line is responsible for maintaining
+a documented and up-to-date list of products and services
+that meet this definition.
+Deep Dive Review An in-depth Quality analysis that may report on operational
+patterns, trends, and/or cross-program comparisons to
+identify systemic issues, recurring patterns, or opportunities
+for program alignment.
+Entity-Level Program A Quality Program and process tailored to a specific brand,
+product, or regional entity within Block that aligns with
+enterprise Quality principles.
+Exception / Exemption A formally approved deviation from a policy, standard, or
+procedure. Exceptions must be justified, documented, and
+include compensating controls to mitigate associated risks.
+This term encompasses both exemptions and exception
+requests.
+Issue Management The process of tracking, resolving, and verifying remediation
+of findings identified through Quality, audit, or other
+assurance functions.
+KYC Know Your Customer) The regulatory process of identifying and verifying
+customersʼ identities to prevent financial crime.
+Materiality The measure of how significant an error or issue is, typically
+based on its potential regulatory or operational impact.
+Compliance Operations Forum A governance forum that reviews Quality results, risks, and
+remediation progress.
+Operational Deficiency A gap or error in a system, control, or process, which has the
+potential to compromise compliance quality or adherence to
+regulations.
+Operational Queue A workflow or case category managed by compliance
+operations teams, typically organized by case type, product,
+or review process.
+Passing Rate The proportion of reviewed cases that meet or exceed the
+minimum acceptable quality threshold, expressed as a
+percentage of total reviews completed within a defined
+period.
+4
+
+Programmatic Risk A broader risk that could impact the success of the
+compliance program, such as technology limitations or
+resource constraints.
+Quality Assurance QA An independent function that reviews compliance activities
+to ensure accuracy, consistency, and adherence to internal
+and regulatory standards.
+Quality Report A formal document summarizing Quality results, trends, and
+recommendations, typically shared with Compliance
+Leadership and governance bodies.
+Quality Benchmark The expected standard or threshold for performance or
+compliance quality defined in Quality scoring procedures.
+Quality Control QC A first-line process that validates work against documented
+procedures; QA provides independent oversight of QC
+results.
+Quality Review A structured evaluation of cases or decisions to confirm they
+meet required quality standards and procedures.
+Random Sampling Selection of cases at random to provide a representative
+view of overall quality performance.
+Remediation The process of correcting issues identified by Quality and
+verifying that changes have been successfully implemented.
+Risk-Based Approach and A methodology that focuses Quality activities and case
+Sampling selection on areas presenting the highest levels of inherent
+or residual risk. This includes prioritizing reviews of
+products, customers, transactions, or processes with greater
+regulatory or operational exposure. Risk-based sampling
+applies these principles in practice by selecting cases from
+higher-risk categories to ensure Quality resources are used
+efficiently while maintaining sufficient coverage across all
+compliance programs.
+Root Cause Analysis RCA The process of identifying the fundamental reasons why
+errors or inconsistencies occur, allowing for sustainable
+fixes.
+Sanctions Program Controls ensuring Blockʼs products and services are not
+used in violation of sanctions laws (e.g., OFAC lists).
+Sampling Methodology The approach used to select which cases or activities will be
+reviewed during a Quality Review, including random,
+risk-based, targeted, and census sampling.
+Scoring Framework The method used to assess and rate the quality of reviewed
+work based on defined criteria, weightings, and thresholds.
+Second Line of Defense The compliance oversight layer (including QA that ensures
+5
+
+operational teams adhere to policies and regulatory
+standards.
+Service Level Agreement SLA A defined and documented expectation for the timeframes
+within which Quality processes or related operational tasks
+must be completed. SLAs establish measurable standards
+for review completion, feedback delivery, and remediation
+timelines to ensure timely processing, maintain workflow
+efficiency, and support downstream compliance obligations.
+Third Line of Defense The internal audit function that provides independent
+assurance over compliance and Quality activities.
+Trend Analysis The review of Quality data to identify recurring patterns,
+emerging risks, or performance changes across time or
+business areas.
+2. Block, Inc. Requirements
+2.1. Quality Principles
+The Quality Program is built upon a set of foundational principles that ensure integrity, consistency,
+and transparency in the evaluation of compliance processes. These principles define how Quality
+operates across Compliance at Block, Inc. and its subsidiaries, providing a consistent framework
+that promotes objectivity, reliability, and accountability in every review.
+● Independence: QA reviewers operate independently from operational teams to ensure
+objective and unbiased evaluations and QC reviewers are within operational teams
+providing subject matter expertise. Oversight of QC by an independent QA function
+reinforces the credibility and reliability of Quality results.
+● Consistency: Reviews are conducted using standardized scoring criteria, definitions, and
+procedures to ensure uniform application of quality measures across teams, products, and
+regions.
+● Coverage: Quality provides comprehensive oversight of all active Compliance queues,
+utilizing sampling methods that cover BSA/AML and Sanctions operations programs.
+Quality may also apply a risk-based approach allowing sampling adjustments based on
+emerging risk or operational volume. Coverage decisions must be supported by
+documented methodologies to ensure completeness and alignment with program priorities.
+● Accuracy: Quality assessments validate the correctness, completeness, and rationale of
+compliance decisions to ensure that control outcomes align with regulatory and internal
+standards.
+● Transparency: Quality findings are documented with clear rationales, evidence, and
+recommendations to ensure that results are understandable and actionable by
+stakeholders.
+6
+
+● Corrective action: Quality reviewers will issue a follow-up action to ensure any corrective
+actions resulting from a Quality Review are addressed and remediated within a defined
+Service Level Agreement (“SLAˮ), typically 7 days.
+● Disputes: On receipt of a Quality Review, a Team Lead or approved DRI may file a dispute
+on the quality review within a 7 day SLA of receipt, outlining the reasons for disagreement
+with the review and scorecard. The Quality team will review the dispute and if necessary,
+adjust the Quality Review and score. Any remaining corrective actions must be completed
+by the agent within 7 days of the outcome of the dispute.
+● Validation of corrective actions: the Quality team will review a selection of corrective
+actions to ensure completion in full.
+● Continuous Improvement: Quality insights are used to identify trends, inform training, and
+drive process and system enhancements that strengthen compliance quality over time.
+2.2. Methodology
+The Quality methodology applies a structured approach to assessing compliance processes
+through systematic sampling, scoring, and feedback. Reviews are conducted regularly and
+encompass both quantitative and qualitative analysis.
+Sampling approaches are risk-based and proportionate to the alert volume, product complexity,
+and compliance risk profile. Quality reviewers evaluate accuracy, documentation quality, escalation
+timeliness, and overall adherence to policy requirements.
+Sampling methodologies incorporate stratified and statistically sound techniques, with detailed
+requirements defined in Procedures. Sampling methodologies may be supported by automated
+systems and tooling to improve consistency, efficiency, and auditability.
+Sampling methodologies are subject to periodic review and validation to ensure continued
+effectiveness, representativeness, and alignment with program risk. Quality reviews and
+documentation must be captured using standardized templates and data fields defined in
+Procedures to ensure consistency and auditability.
+Forms of Sampling :
+Sampling Type Description Use Case and Reporting Obligations
+Random Sampling Selection of cases using a Used to establish baseline quality
+non-biased, randomized performance and identify broad trends.
+approach designed to provide a Where sampling is not all-inclusive,
+representative view of overall Quality reporting must clearly
+quality performance across a document the population size, sample
+defined population. size, and selection methodology to
+support transparency and
+interpretability of results.
+7
+
+Risk-Based Selection of cases based on Applied to areas of elevated inherent or
+Sampling defined risk indicators such as residual risk to provide deeper
+queue or typology risk, prior assurance over higher-risk processes.
+Quality findings, or regulatory Quality reporting must disclose the risk
+focus areas. rationale, sampling assumptions, and
+any limitations on coverage when
+results are extrapolated to the broader
+population.
+Targeted Sampling Focused selection of cases Used to validate remediation
+associated with known issues, effectiveness, investigate anomalies, or
+emerging risks, thematic assess specific risk themes. Quality
+concerns, audit findings, or reports must clearly state the targeted
+recent process changes. nature of the sample and avoid
+generalizing results beyond the defined
+scope unless supported by additional
+analysis.
+Census Reviews Selection of cases using a Used for narrow review of alignment
+non-biased, randomized between agents across a set category
+approach of a specific queue. of indicators, such as decision
+outcome, escalation and typology or
+product concern. Report is specific to
+the concern and an indicator of
+consensus quality within a specific
+queue.
+Sampling methodologies are developed, documented, and maintained through structured
+collaboration with Compliance Data Analytics and Engineering teams and in alignment with
+Compliance Operations and relevant stakeholders. These partnerships support consistent
+implementation of sampling logic, data integrity, system enablement, and ongoing maintenance
+across case management platforms. The Quality team engages with Data and Engineering teams
+to review sampling approaches, address enhancements or issues, and ensure sampling
+methodologies remain aligned with program risk, operational changes, and documented standards.
+Any updates to sampling methodologies are implemented on the approval of the Quality Team
+Lead or Quality Lead.
+2.3. Scoring Framework
+The Scoring Framework establishes the principles for evaluating the quality, accuracy, and
+effectiveness of compliance activities. It ensures that Quality results are applied consistently
+across all programs and entities while allowing flexibility for program-specific procedures.
+Each Quality Program (e.g., Square and Cash App) maintains its own Procedures that define
+scoring scales, thresholds, and attribute weightings based on the nature of the product, regulatory
+requirements, and associated risks. These detailed frameworks specify how individual attributes
+are scored and how overall quality ratings are calculated.
+At the Standard level, scoring outcomes must:
+8
+
+● Be derived from a consistent and documented methodology.
+● Include clear definitions for rating categories (e.g., Pass/Fail/Needs Improvement).
+● Apply uniform principles for weighting, materiality, and review documentation.
+● Allow comparability across time periods and business lines for trend analysis.
+Quality Programs must ensure their scoring frameworks align with these overarching principles.
+These frameworks should also be periodically calibrated to maintain consistency and objectivity.
+To support consistency in reporting and trend analysis, Quality teams will also monitor key
+quantitative indicators such as the overall Passing Rate, Average Score and Decision Accuracy.
+● Passing Rate refers to the proportion of reviewed cases that meet or exceed the minimum
+acceptable quality threshold, expressed as a percentage of total reviews completed within
+a defined period. The minimum Passing rate is:
+○ 90% minimum pass rate
+● Average Score represents the mean quality score across all reviews conducted within a
+given timeframe, used to assess overall Quality performance and directional trends. The
+minimum Average score is:
+○ 95% minimum average rate
+● Decision Accuracy refers to specific questions within a quality review that specifically
+address whether a decision was made correctly, expressed as a percentage of total
+reviews completed within a defined period. The minimum Decision Accuracy score is:
+○ 95% minimum accuracy rate
+These metrics serve as standardized benchmarks across programs, providing leadership with
+clear insights into quality performance without prescribing specific scoring models. Program-level
+procedures will define the calculation methods, targets, and thresholds for these indicators.
+2.4 Management Reporting
+On an ongoing basis, the Quality Standard Owner and/or their designee monitors Quality outcomes
+and reports monthly to Compliance Leadership. Feedback loops ensure that process owners
+implement corrective actions within agreed timelines and provide updates on remediation
+progress.
+The Quality team will also publish detailed reports containing metrics and insights, with
+recommended actions for any areas that are not meeting performance metric expectations on a
+routine basis. The recommended actions will be provided to Operations Program Managers and
+Compliance Training teams on a monthly basis as part of the Quality Feedback Forum for
+alignment and completion.
+9
+
+Quality validates the implementation and effectiveness of corrective actions through defined
+follow-up activities documented in Procedures. Quality Reviews, findings and remediation actions
+are tracked through standardized systems or tools to ensure timely resolution, closure, complete
+visibility and auditability.
+Quality findings that indicate material risk, systemic issues, or repeated non-compliance must be
+escalated in accordance with documented escalation procedures defined in Procedures.
+Quality leverages analytical frameworks and multi-period trend analysis to assess control
+effectiveness, identify systemic issues, and evaluate overall program health, with insights
+incorporated into governance reporting and continuous improvement initiatives.
+Detailed Quality reporting metrics, definitions, calculation methodologies, and governance
+expectations—including quality performance indicators, service level performance, trend analysis,
+remediation tracking, and training insights—are documented in Appendix 1 Reporting
+Requirements) and supporting Quality Procedures.
+2.5 Sustainability of the Quality Program
+The sustainability of the Quality Program is supported through ongoing monitoring, periodic
+calibration, and independent oversight of Quality activities. In addition to the annual review of this
+Standard, Quality Reviews are subject to secondary review by senior Quality team members,
+known internally as “QA over QCˮ and “QA on QAˮ reviews, to validate consistent application of
+approved standards, procedures, and guidance. Program sustainability is further assessed through
+recurring metric reporting, trend analysis, and governance oversight to ensure changes remain
+effective over time.
+All Quality-related documents, including review notes, scorecards, and feedback forms, must be
+retained in accordance with Blockʼs Data Classification and Record Retention Policy and applicable
+regulatory requirements. The Quality Program leverages Notary as its case management to store
+review notes, scorecards, feedback forums, disputes, and related documentation. Performance
+metrics are presented in Tableau.
+3. Entity-Specific Requirements
+3.1 Application of Standard
+While the Quality framework and principles outlined in this Standard apply across all Block, Inc.
+entities, each brand and business unit (such as Square, SFS, Cash App, Afterpay and Clearpay)
+may tailor specific processes and procedures to reflect their unique operational procedures,
+regulatory obligations, and product risk profiles.
+Each Quality Program must align with the overarching framework described in this Standard,
+including its principles, methodology, reporting expectations, and governance requirements.
+10
+
+However, flexibility is permitted to accommodate jurisdictional requirements, risk-based priorities,
+and resource structures. Quality procedures are updated as necessary to reflect changes to
+operational review processes, with Quality participating in relevant training to ensure continued
+alignment without creating direct dependencies on operational standards.
+Each entityʼs Quality Procedures must therefore:
+● Translate Global Standards into Local Application: Ensure the core Quality
+principles—independence, consistency, accuracy, transparency, and continuous
+improvement—are reflected in the entityʼs operational Quality process documentation.
+● Define Entity-Specific Scoring and Sampling Methodologies: Establish quantitative and
+qualitative scoring models and sampling logic suitable for the entityʼs process volumes,
+product complexity, and regulatory obligations.
+● Document Service Level Agreements SLAs Define and maintain clear SLA requirements
+for Quality processes, including expected case handling timeframes, review turnaround
+times, feedback delivery windows and completion timeframe of follow-up actions by
+operation teams. SLAs must align with the Governance Quality standards while reflecting
+the operational and regulatory expectations of each entity. These documented SLAs
+ensure timely, consistent execution of Quality processes and support effective governance,
+remediation tracking, and workflow management.
+● Document Roles and Responsibilities: Clearly outline the roles of Quality reviewers,
+managers, process owners, and compliance leadership at the program level.
+● Implement Local Reporting Frameworks: Maintain Quality reporting cadences aligned to
+entity governance structures. At a minimum, Quality results should be summarized monthly
+for operational leadership and quarterly for enterprise-level oversight (e.g., the Compliance
+Operations Forum).
+● Address Jurisdictional Requirements: Ensure Quality Reviews capture compliance
+obligations specific to the entityʼs regulatory environment—for example, AUSTRAC
+Australia), FinCEN United States), or the NCA United Kingdom)—while preserving
+alignment with global Quality principles.
+● Maintain Calibration and Training Programs: Facilitate regular calibration sessions,
+cross-program Quality benchmarking, and training to promote consistent application of
+Quality expectations across geographies.
+● Support Continuous Improvement: Use Quality outcomes to identify process
+enhancements, system improvements, or procedural updates at both the local and
+enterprise levels.
+11
+
+4. Responsibilities & Reporting
+4.1. Roles and Responsibilities
+Effective governance of the Quality Program relies on clear accountability and well-defined
+responsibilities across all levels of Compliance. Each role within the structure contributes to
+maintaining the integrity, transparency, and reliability of quality assessments. This section outlines
+the core responsibilities for managing, executing, and supporting Quality activities throughout
+Block. It ensures oversight, operational execution, and continuous improvement responsibilities are
+clearly defined and consistently applied across all entities.
+● Quality Lead/Program Owner:
+○ The Quality Manager is responsible for providing strategic oversight and
+governance for the Quality Program, ensuring alignment across entities. This
+includes approving Quality standards, framework updates, and significant
+initiatives, as well as ensuring sufficient resources and structure for independence
+and effectiveness. The Quality manager also owns the Quality Program Standard
+and associated documentation, reviews performance reports and emerging issues,
+and leads Quality reporting to Compliance Leadership and Governance committees.
+● Quality Team Leads:
+○ The Quality Leadsʼ responsibilities involve adapting enterprise Quality requirements
+to local contexts, leading a team of independent Quality reviewers, escalating
+significant findings to the Quality Lead, and supporting cross-entity consistency in
+methodology and documentation.
+● Quality Reviewers/Analysts:
+○ Quality reviewers are responsible for conducting case-level quality assurance
+reviews using approved methodologies, documenting their findings accurately and
+impartially, and identifying trends and root causes of quality issues. They also
+participate in calibration and feedback sessions to ensure consistency and maintain
+adherence to documentation and confidentiality requirements.
+● Quality Program Manager:
+○ The Quality Program Manager is responsible for designing and documenting Quality
+procedures and systems that support case review, sampling, and data integrity.
+They collaborate with Compliance Data Analytics, and Engineering teams to ensure
+accurate and auditable Quality metrics, and manage project timelines and
+deliverables while maintaining consistent Quality documentation.
+● Quality Training & Process Improvement Manager:
+○ The Quality Training & Process Improvement Manager is responsible for leading
+calibration sessions, managing disputes, and tracking local Quality performance.
+They analyze Quality findings to identify training and process optimization
+opportunities, then collaborate with entity Quality and Operational leads to
+implement and validate improvements. Additionally, they maintain training records
+and evaluate training effectiveness.
+● Internal Audit and Second-Line Oversight (inclusive of GCMT
+○ Internal Audit and Second-Line Oversight plays a crucial role in ensuring the
+effectiveness of Quality Programs. They leverage Quality results in broader
+assurance activities, provide independent validation of program effectiveness, and
+12
+
+coordinate with Quality and Compliance Leadership to ensure comprehensive and
+non-duplicative assurance coverage.
+● Compliance Process Owners/ Operational Program Managers:
+○ Compliance Process Owners/Operational Program Managers are responsible for
+receiving and addressing Quality feedback and findings. They review Quality
+results, coordinate with Quality and Process Owners to understand issues and root
+causes, and ensure timely remediation through process enhancements or
+procedural adjustments. They also provide updates on remediation progress and
+confirm the closure of findings, participating in sessions and meetings to align
+operational practices with Quality expectations.
+● Compliance Operational Leads:
+○ Compliance Operational Leads are responsible for implementing corrective and
+preventive actions from Quality findings, addressing Quality feedback within agreed
+timelines with supporting evidence, and participating in dispute resolution and
+process enhancements. They also monitor performance indicators, support
+continuous improvement efforts through training and coaching and ensure
+Follow-Ups are completed within SLA.
+● Compliance Training and Policy Teams:
+○ Compliance Training and Policy Teams are responsible for integrating Quality
+insights into training programs and policy updates, ensuring that operational
+guidance and development materials reflect Quality-driven recommendations, and
+collaborating with Quality to maintain alignment between procedural documents
+and current standards.
+● Compliance Program Owners/Leads:
+○ Compliance Program Owners are responsible for reviewing and addressing relevant
+Quality insights in policy updates, programmatic improvements and the oversight of
+the implementation of their program either through direct teams or outsourced
+functions.
+● Compliance Data Analytics Team:
+○ The Compliance Data Analytics Team is responsible for providing sound statistical
+sampling methodology and validation. They maintain data accuracy in dashboards,
+develop analytical models, and support reporting and continuous improvement
+initiatives through quantitative validation and visualization. This allows the Quality
+team to identify data-driven insights, analyze error trends, and identify risk
+patterns. The team also collaborates with Compliance Engineering, Quality Leads
+and Program Managers to enhance reporting automation and analytical depth.
+● Compliance Engineering Team:
+○ The Compliance Engineering Team is responsible for designing, developing, and
+maintaining Quality systems for case review, sampling automation, and data
+integrity. They collaborate with Quality and Data Analytics teams to ensure accurate
+and auditable Quality metrics, support the automation of Quality workflows, and
+ensure Quality tools adhere to data governance, security, and privacy
+requirements. Additionally, they partner with Quality to implement system
+enhancements that improve quality oversight and reviewer efficiency.
+13
+
+4.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+4.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+4.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+4.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+14
+
+6. Document Details & Revisions
+Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix. In the absence of material changes
+resulting from an annual review or a trigger event such as a regulatory change, this Standard will
+be reviewed and approved no less frequently than annually by the Quality Program Lead or their
+designee.
+Approval History:
+Approver Title Type Description Date
+Melissa Benjamin Quality Program Initial Approval Document Mar 23, 2026
+Lead Approval
+John Alfano Head of Initial Approval Document Mar 27, 2026
+Governance, Approval
+Compliance
+Block
+Document Details:
+Business Block
+Scope Global
+Compliance Domain Financial Crimes
+Document Owner Quality Program QA Lead
+Approved By Head of Governance, Compliance Block
+Document Tier Tier 3
+15
+
+Appendix 1 Reporting Requirements
+1.1 Purpose and Scope
+This Appendix defines the Quality Reporting Framework used to support oversight, transparency,
+and continuous improvement across Blockʼs compliance operations. The framework establishes
+standardized reporting components, governance expectations, and core quality indicators that
+enable leadership to assess control effectiveness, operational performance, and overall program
+health.
+This Appendix applies to all Quality programs operating under the Block Governance Quality
+Assurance Standard and supports enterprise-level and entity-specific reporting requirements.
+1.2 Objectives of Quality Reporting
+Quality reporting is designed to:
+● Provide consistent visibility into quality performance and control effectiveness
+● Identify systemic issues, emerging risks, and recurring deficiencies
+● Support timely remediation and accountability
+● Inform programmatic improvements, training priorities, and process enhancements
+● Enable data-driven decision-making through structured governance forums
+1.3 Core Quality Reporting Components
+Quality reporting includes, at a minimum, the following standardized components:
+Quality Performance Metrics
+● Passing Rate: Measures the proportion of Quality reviews meeting or exceeding minimum
+quality expectations.
+● Average Score: Provides directional insight into overall quality performance across review
+periods.
+● Attribute-level trends: Highlights recurring strengths and deficiencies across quality
+dimensions.
+● Decision accuracy score: Provides specific feedback on correctness of decisions made.
+Service Level Performance
+● Measurement of Quality case handling time against defined Service Level Agreements
+SLAs.
+● Identification of sustained delays, backlog risks, or capacity constraints impacting Quality
+execution.
+Trend and Root Cause Analysis
+● Multi-period trend analysis across queues, products, and review types.
+
+● Identification of systemic issues, control weaknesses, or process design gaps.
+● Root cause insights to support sustainable remediation.
+Remediation and Issue Tracking
+● Status of open and closed Quality findings.
+● Progress against corrective action timelines.
+● Validation that remediation actions have been implemented and are effective.
+Training and Capability Insights
+● Identification of training gaps or recurring error drivers.
+● Inputs to calibration focus areas and training curriculum updates.
+● Measurement of quality improvement following targeted training initiatives.
+1.4 Reporting Cadence and Governance
+Quality reporting is produced on a defined cadence appropriate to the audience and governance
+forum, including:
+● Governance Quality Assurance reporting twice a month performance metrics and monthly
+for insights Quality Feedback Forum presentation of Quality observations and
+recommended actions to Operations Program Managers, Training and Operations Leads
+● Operational and Compliance Leadership reporting monthly performance metrics and
+insights
+● Enterprise and governance committee reporting quarterly as required, including the
+Compliance Operations Forum.
+Reporting outputs are used to support escalation decisions, prioritization of remediation efforts,
+and strategic program enhancements.
+1.5 Governance and Oversight Expectations
+Quality reporting operates under defined governance controls to ensure consistency, accuracy,
+and appropriate use of insights. These include:
+● Oversight by the Quality Standard Owner and Quality leadership
+● Alignment with enterprise compliance governance forums
+● Escalation of material risks, systemic issues, or sustained performance deficiencies
+● Independent review and challenge through second-line and audit functions, as applicable
+Ownership of Quality reporting metrics and key performance indicators KPIs resides with Quality
+leadership, including the Quality Lead, who is responsible for maintaining, reviewing, and updating
+relevant metrics to ensure continued alignment with program objectives and risk priorities. Quality
+metrics and KPIs are reviewed through established governance forums and in collaboration with
+Compliance Leadership, with refinements made as necessary to enhance relevance, insight, and
+decision-making value.
+
+1.6 Supporting Documentation
+Detailed reporting templates, dashboards, calculation methodologies, thresholds, and data
+definitions are maintained in supporting Quality Procedures and operational reporting
+documentation. These materials define execution-level requirements and may be updated
+periodically to reflect program evolution, regulatory expectations, or tooling enhancements.
+Appendix 2 Document Hierarchy
+The following hierarchy of documents comprise the Quality Program Framework.
+1. Policy: 10.2025 Anti-Money Laundering & Counter-Terrorist Financing Policy _ Block.…
+section 4.1.3. Quality Assurance is a key control of the Block AML/CFT Program.
+2. Standard: 8.12.2025 Bank Secrecy Act Anti-Money Laundering & Countering the Fin…
+section 6.15
+3. Program Standard (this document)
+4. Handbooks: outline further product level and implementation of the Program Standard
+a. Square Compliance Quality Assurance Handbook
+b. Cash Compliance QA Handbook
+5. Procedures
+a. Procedures Cash Compliance, Investigations, Clearpay, Afterpay)
+i. Cash COM Quality Assurance Procedure
+ii. Cash COM Quality Control Procedure
+iii. Governance Quality Assurance Financial Crimes | Procedure
+iv. Clearpay Quality Assurance Procedure
+v. Clearpay Quality Control Procedure
+vi. Quality Assurance Procedure Canada | Afterpay Compliance
+vii. AML Quality Assurance Instruction ANZ, US, CA
+b. Sampling Methodology
+i. QA Sampling Logic Update
+ii. Square QA Sampling logic Notary
+iii. COM Quality Assurance - Sampling Logic Update
+c. Metrics
+i. Compliance Quality Metrics
+d. Passing Rate Standard
+i. Block, Inc. Governance Quality Program Passing Rate Standard
+e. Follow-Up Procedure
+i. Governance QA Follow Up Procedure
+f. Disputes
+i. Governance Quality Assurance Dispute Procedure
+6. User Guides
+a. Decision guides
+
+i. Cash COM QA User Guide
+ii. Cash App Quality Assurance Scoring Job Aid
+iii. Quality Control Assessment Job Aid - TM | Cash App FinCrimes
+iv. Cash Compliance - QC/QA Weighted Questions
+b. Notary guides
+i. Cash Compliance QC/QA Notary Review Guide
+ii. Square Compliance Quality Notary Case Management Decision Guide …
+c. Feedback Standard
+i. Quality Assurance | Feedback Guidance
+d. Follow-Up Guidelines
+i. Governance QA Follow Up User Guide.docx
+7. Supporting documents
+a. Scoring principles
+b. Training materials

@@ -1,0 +1,370 @@
+Fair Credit Reporting Act (“FCRAˮ) Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Fair Credit Reporting Act Policy (the "Policy") outlines Block, Inc.'s
+enterprise-wide approach to consumer credit reporting, information handling practices, and
+identity theft prevention measures. The purpose of this Policy is to establish comprehensive
+guidelines governing Block, Inc. and its U.S. subsidiaries' compliance with the Fair Credit Reporting
+Act (“FCRAˮ) and its amendment, the Fair and Accurate Credit Transactions Act (“FACTAˮ),
+ensuring consistent operations while maintaining brand-specific flexibility, where applicable.
+Block's Business Product Compliance Lead, Lending & Credit, and/or their designee, is responsible
+for the management of this Policy.
+Scope: This Policy applies to all Credit Products offered by Block, Inc., its subsidiaries and
+affiliates (collectively, "Block"), The only exception is Square Financial Services (“SFSˮ), Blockʼs
+Utah state-chartered Industrial Bank federally regulated by the Federal Deposit Insurance
+Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Adverse Action A denial or revocation of credit, a change in existing credit terms, or a
+refusal to grant credit in substantially the amount or terms requested.
+This includes decisions made using information from consumer reports.
+Consumer Any individual who obtains or seeks to obtain financial products or
+services primarily for personal, family, or household purposes.
+Consumer Report Any written, oral, or other communication by a consumer reporting
+agency bearing on a consumer's creditworthiness, credit standing,
+credit capacity, character, general reputation, personal characteristics,
+or mode of living used for credit decisions.
+1
+
+Credit Products Cash App- and Afterpay-branded consumer loan products for personal,
+family, or household purposes (including, but not limited to, Cash App
+Borrow, Cash App Afterpay Pay Over Time, Afterpay on Cash App Card,
+Cash App Afterpay Online Checkout, Afterpay Pay-in-4, and Afterpay
+Pay Monthly) and Squareʼs business-purpose credit products.
+Credit Score A numerical value derived from a statistical tool or modeling system
+used to predict credit behavior.
+Identity Theft A fraud committed using another person's identifying information
+without authority.
+Medical Information Information or data related to a consumer's physical, mental, or
+behavioral health, healthcare provision, or healthcare payment.
+2. Block, Inc. Requirements
+2.1 Consumer Report Usage and Permissible Purpose
+Block obtains and uses consumer reports solely for legally permissible purposes as defined under
+the Fair Credit Reporting Act (“FCRAˮ). Blockʼs permissible purposes for obtaining a consumer
+report are 1 to use the information in connection with a credit transaction involving the consumer
+on whom the information is to be furnished and involving the extension of credit to, or review or
+collection of an account of, the consumer; or 2 to review an account to determine whether the
+consumer continues to meet the terms of the account. These permissible purposes primarily arise
+in credit transactions where Block has received explicit authorization from the consumer, either in
+writing or electronically. This includes situations where the report will support credit-related
+activities such as extending new credit, reviewing existing accounts, or supporting collection
+activities. Additionally, Block may obtain consumer reports when working with potential investors
+or servicers who need to assess credit risks, or in connection with prescreened credit solicitations
+where the consumer has provided authorization or the transaction constitutes a firm offer of credit
+and the consumer has not opted out.
+Block maintains appropriate controls to ensure consumer reports are obtained, used, and
+maintained in accordance with FCRA requirements. This includes verification of permissible
+purpose, documentation of authorization, and secure handling of consumer report information,
+where applicable.
+2.2 Credit Decisions and Consumer Notifications
+Block follows a structured approach to using consumer reports in credit decisions that emphasizes
+fairness, consistency, and regulatory compliance. Our credit decision process includes:
+2
+
+● Systematic Evaluation
+○ Use of established creditworthiness criteria;
+○ Documentation of decision factors;
+○ Regular review of criteria;
+○ Monitoring for potential disparate impact; and
+○ Quality control reviews.
+● Adverse Action Notifications
+○ When taking adverse action based on consumer report information, Block provides
+written notification within 30 days including:
+■ Contact information for the consumer reporting agency;
+■ Statement that the agency did not make the decision;
+■ Consumer rights regarding report access and disputes;
+■ Credit score information when applicable; and
+■ Key factors affecting the decision.
+● Risk-Based Pricing Notice
+○ Block provides appropriate notices explaining:
+■ How credit information affected terms offered
+■ Consumer rights regarding report access
+■ Steps for verifying and correcting information
+2.3 Information Furnishing and Accuracy
+Block maintains comprehensive requirements governing the furnishing of information to Consumer
+Reporting Agencies. While furnishing practices vary by subsidiary, Block ensures that any
+furnishing of information adheres to FCRA requirements and maintains appropriate controls
+regardless of current furnishing status.
+For subsidiaries that furnish information to Consumer Reporting Agencies, Block requires:
+● Accuracy and integrity in furnished information
+● Appropriate notice for negative information reporting
+● Timely investigation and response to disputes
+● Prevention of reporting identity theft-related information
+● Proper documentation and record retention
+For subsidiaries that do not currently furnish information, Block maintains baseline requirements to
+ensure readiness should furnishing begin. All furnishing activities must comply with applicable
+regulatory requirements and Block's information accuracy standards.
+2.4 Credit Prescreening
+Block conducts prescreened credit solicitations in compliance with FCRA requirements. When
+engaging in prescreening activities, Block ensures:
+● Firm offers of credit are honored when selection criteria are met
+● Required consumer notices are provided in appropriate format
+● Opt-out rights are clearly communicated and honored
+3
+
+● Prescreening criteria and selection methods are documented
+● Consumer privacy and information security are maintained
+For subsidiaries that conduct prescreening, Block maintains appropriate controls to ensure
+compliance with FCRA requirements, including documentation, notice, and opt-out procedures.
+Subsidiaries that do not currently conduct prescreening must implement required controls before
+initiating such activities.
+2.5 Identity Theft and Prevention and Response
+Block maintains a comprehensive Identity Theft Prevention Program as required by the Red Flags
+Rule under FACTA. This program forms an integral part of our commitment to protecting
+consumers and preventing fraud across our suite of financial products and services. Through this
+program, Block identifies, detects, and responds to patterns, practices, or specific activities that
+indicate possible identity theft.
+Block's approach to identifying and responding to identity theft indicators is guided by the Identity
+Theft Red Flags Guidelines in Appendix A, which provide a framework for developing specific
+procedures across brands.
+The program's oversight rests with the Board of Directors, an appropriate committee, or a
+designated senior management member which ensures adequate resources, proper
+implementation, and regular assessment of the program's effectiveness. Day-to-day administration
+is delegated to designated compliance personnel who develop procedures, coordinate training,
+and oversee service provider arrangements.
+Block's approach to identity theft prevention begins with regular risk assessments that consider
+the nature of our accounts, methods of access, and evolving identity theft risks. These
+assessments inform our identification of Red Flags across key categories including alerts from
+consumer reporting agencies, suspicious documents or personal information, unusual account
+activity, and notices from customers or law enforcement.
+Blockʼs detection methods are integrated into account opening procedures, existing account
+monitoring, and transaction processing across all platforms. These methods emphasize early
+detection while maintaining a seamless customer experience. When potential identity theft is
+detected, Block responds with measures appropriate to the level of risk, ranging from enhanced
+monitoring to account closure and law enforcement notification.
+The Identity Theft Prevention Program undergoes regular updates to address new threats, changes
+in business operations, and technological advances. These updates incorporate lessons learned
+from actual identity theft incidents, emerging industry threats, and regulatory guidance. Specific
+procedures implementing this program are maintained at the brand level to address unique product
+features and risk profiles.
+Block requires all service providers performing activities in connection with covered accounts to
+have reasonable policies and procedures to detect, prevent, and mitigate identity theft. Their
+4
+
+performance is regularly monitored to ensure alignment with Block's standards and regulatory
+requirements.
+2.6 Medical Information Protection
+Block strictly limits the use of medical information in credit eligibility determinations as required by
+FCRA. We may only use medical information that is:
+● Generic in nature and descriptive of the type of medical provider, nature of services
+provided, or medical status
+● Used in a manner and to an extent no less favorable than similar non-medical information
+● Necessary to determine a legitimate credit purpose
+Block maintains specific procedures to:
+● Limit collection to necessary information
+● Protect confidentiality
+● Restrict access to authorized personnel
+● Ensure proper disposal
+● Prevent inappropriate sharing
+2.7 Information Sharing and Affiliate Marketing
+Block maintains specific controls over sharing and use of consumer information among affiliates.
+Before using eligibility information from an affiliate for marketing purposes, Block ensures:
+● Clear consumer notice of potential sharing
+● Reasonable opportunity to opt out
+● Respect for consumer opt-out choices
+3. Brand-Specific Requirements
+Block will comply with FCRA/FACTA Brand-Specific requirements, which may be detailed further in
+related Standards or Procedures. This section outlines only the distinct implementations and
+unique requirements specific to each subsidiary's lending products.
+Each brand's implementation of identity theft prevention measures follows the guidelines
+established in Appendix A, while maintaining flexibility to address unique product and operational
+characteristics.
+3.1 Cash App:
+Cash App implements FCRA requirements within its digital-first environment. While Cash App does
+not currently furnish information to Consumer Reporting Agencies or conduct prescreening
+5
+
+activities, it maintains appropriate controls for consumer report usage, dispute handling, and
+identity theft prevention within its mobile platform.
+3.2 Afterpay:
+Like Cash App, Afterpay does not currently furnish information or conduct prescreening but
+maintains appropriate controls for consumer report usage and identity theft prevention in its
+e-commerce environment.
+3.3 Square:
+Square does not currently furnish information or conduct prescreening but maintains appropriate
+controls for consumer report usage and identity theft prevention in its e-commerce environment.
+The above brand-specific requirements supplement the general compliance FCRA/FACTA
+requirements outlined in this Policy but are only applicable to their respective brands.
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+6
+
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+7
+
+5. Questions & Contact Information
+● Questions: For questions or clarifications about this Policy please contact the Policy
+Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Amanda C… Regulatory Initial Appro… Attestation to Oct 10, 2025
+Counsel Document
+Contents
+Corey Cha… Block's Business Initial Appro… Attestation to Oct 15, 2025
+Product Document
+Compliance Lead, Contents
+Lending & Credit
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending &
+Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+8
+
+Appendix A
+This appendix provides guidance on identity theft red flags relevant to Block's operations. These
+guidelines inform the development of specific procedures at the brand level while maintaining
+consistency across the organization. Referenced in Sections 2.5 and 3, these guidelines support
+Block's Identity Theft Prevention Program implementation.
+This appendix provides guidance on identity theft red flags relevant to Block's operations. These
+guidelines inform the development of specific procedures at the brand level while maintaining
+consistency across the organization. Referenced in Sections 2.5 and 3, these guidelines support
+Block's Identity Theft Prevention Program implementation.
+A. Categories of Identity Theft Risk Indicators
+The following categories represent areas where patterns, practices, or activities may indicate
+potential identity theft. Each brand develops specific detection and response procedures based on
+these categories while considering their unique operational environment.
+● Alerts and External Notifications Identity theft risk may be indicated through various alerts
+and notifications, including:
+○ Fraud alerts on consumer reports
+○ Notices of credit freezes
+○ Warnings from identity verification services
+○ Alerts from fraud detection networks
+○ Notifications from other financial institutions
+● Documentation and Verification Identity theft risk may be evident in documentation and
+verification processes through:
+○ Inconsistencies in identification information
+○ Discrepancies in authentication results
+○ Suspicious patterns in documentation
+○ Irregularities in verification responses
+○ Unusual application characteristics
+● Account Patterns and Behaviors Account activities that may signal identity theft risk
+include:
+○ Unusual transaction patterns
+○ Unexpected account access methods
+○ Suspicious changes to account information
+○ Irregular payment patterns
+○ Unexpected account relationships
+9
+
+● External Information Sources Identity theft risk may be identified through:
+○ Law enforcement information
+○ Customer reports of identity theft\
+○ Merchant feedback on suspicious activity
+○ Industry fraud alerts
+○ Public records information
+C. Response Guidelines
+Response measures should be appropriate to the level of risk indicated and may include:
+● Monitoring Responses
+○ Enhanced account monitoring
+○ Increased authentication requirements
+○ Transaction pattern analysis
+○ Device monitoring
+○ Location analysis
+● Preventive Responses
+○ Additional identity verification
+○ Transaction limitations
+○ Account access restrictions
+○ Enhanced authentication requirements
+○ Increased documentation requirements
+● Investigative Responses
+○ Account review procedures
+○ Transaction analysis
+○ Customer contact protocols
+○ Documentation verification
+○ Relationship analysis
+● Corrective Responses
+○ Account closure procedures
+○ Credit line adjustments
+○ Access restriction protocols
+○ Notification requirements
+○ Recovery procedures
+D. Documentation Guidelines
+Programs should maintain appropriate documentation of:
+● Detection methods and criteria
+● Investigation procedures
+● Response protocols
+● Resolution outcomes
+● Program updates
+This documentation supports:
+10
+
+● Program evaluation
+● Staff training
+● Regulatory compliance
+● Audit requirements
+● Program improvements
+11

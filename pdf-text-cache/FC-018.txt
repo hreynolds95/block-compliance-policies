@@ -1,0 +1,727 @@
+Financial Crime Program
+Squareup International Limited SIL
+Last Approved: September 25, 2025
+Effective Date: September 25, 2025
+1. Overview
+Introduction and Purpose: This Financial Crime Program (“Programˮ) is established by Squareup
+International Limited (“SILˮ). SIL is an authorised Electronic Money Institution, regulated and
+supervised by the Central Bank of Ireland (“CBIˮ) under Firm Reference Number C184117. The
+ultimate parent company is Block, Inc. (“Blockˮ), a Delaware corporation, which is a merchant
+services aggregator and mobile payments company based in San Francisco, California in the
+United States of America (“USˮ). It is registered as a Money Services Business with the Financial
+Crimes Enforcement Network (“FinCENˮ).
+SIL has permission to provide services in the Economic European Area (“EEA") as set out in the
+European Union Payment Services) Regulations 2018. This arrangement is known as
+“passportingˮ. The key product offered by SIL is Square Managed Payments.
+SILʼs primary product offering includes a combination of card acceptance hardware, made up of
+the Square Reader (a device used with an Apple iOS device or an Android mobile device) and a
+Square Stand (a stand used exclusively with an Apple iPad) and an accompanying software
+application to provide the technical interface between the hardware and the merchant acquiring
+banking infrastructure. Collectively, this payment solution is referred to as "Square Managed
+Payments". Square Managed Payments reads debit, credit, gift, and prepaid card data and enables
+a Merchant (an individual or a company) to accept non-cash payments using their
+iPhone/iPad/Android mobile device and send a digital receipt to their Customer (or a printed
+receipt if compatible hardware is installed).
+SILʼs business is subject to a wide range of laws and regulations throughout the EEA and the US,
+including Irish anti-money laundering (“AMLˮ), countering the financing of terrorism (“CFTˮ), and
+financial sanctions (“FSˮ) legislation as well as the U.S. Treasury Departmentʼs Office of Foreign
+Assets Control (“OFACˮ) and sanctions requirements. In turn, SIL follows the international
+framework proposed by the Financial Action Task Force (“FATFˮ) and acts under guidance
+produced by the European Banking Authority (“EBAˮ) and the CBI.
+
+SIL is committed to developing, implementing, and maintaining an effective, risk-based AML/CFT
+program, which is reasonably designed to prevent SIL from being used to facilitate ML and the
+financing of terrorist activities.
+This Program document has been designed to meet the following objectives:
+● To develop and implement a risk-based AML/CFT/FS program for all SIL activities in the
+European Union (“ EUˮ);
+● To inform the development of risk-based AML/CFT/FS control procedures for all SIL
+activities in the EU;
+● To promote awareness of applicable AML/CFT/FS laws and regulations;
+● To detect, prevent, monitor and and report suspicious activity and any terrorist financing
+transactions; and
+● To fully cooperate with all law enforcement, regulatory agencies, and financial intelligence
+units to the extent required and permitted under applicable law.
+Where relevant, SIL implements AML/CFT/FS measures as described in this Program on a
+pan-European basis. A regional EU country Annex provides an overview of the country regulations
+SIL adheres to in the countries in which it currently operates. This annex will be updated as and
+when SIL begins to provide regulated activities in other EEA countries.
+Scope: This program is established by SIL and is applicable to Seller. It is vital that all Staff
+members that support SIL are aware of, and are committed to complying with, all applicable
+requirements of this Program and relevant AML/CFT/FS laws and regulations. All Staff members
+are expected to maintain the standards specified within this Program.
+Definitions:
+Terminology Definition
+Beneficial Owner Refers to the natural person(s) who ultimately owns or controls a
+Customer and/or the natural person on whose behalf a transaction is
+being conducted. It also includes those persons who exercise ultimate
+effective control over a legal person or arrangement. See here for
+further information.
+Customer(s) An individual or company that uses products and services offered by
+SIL.
+Financial Crime A Financial Crime program is a written document that sets out the
+Program primary components SIL uses to identify, mitigate and manage potential
+risks of its products or services being misused to facilitate ML or TF.
+The components of the program and documentation must be
+developed, implemented and proactively maintained.
+
+Merchant(s) A business that offers products and services related to SILʼs primary
+product - Square Managed Payments.
+Money Laundering Money Laundering is the process by which individuals or organisations
+conceal the origins of illegally obtained funds, making them appear
+legitimate. In the context of SIL, ML typically involves disguising the
+proceeds of crime through legitimate payment channels, including
+merchant transactions and card processing services. Criminals may
+attempt to exploit financial institutions to move, layer or integrate illicit
+funds into the financial system. As a regulated entity, SIL has a legal and
+ethical responsibility to detect and prevent such activities by implementing
+robust Anti-Money Laundering (“AMLˮ) controls, including customer due
+diligence (“CDDˮ), transaction monitoring and the reporting of suspicious
+activity.
+Suspicious STRs are documents that a financial institution must file with the
+Transaction relevant Financial Intelligence Unit (“FIUˮ) and the Revenue
+Reports (“STRˮ) Commissioners following a suspected incident of money laundering,
+terrorist financing or fraud.
+Staff/ Staff All full-time and part-time employees and fixed-term and contingent
+Members workers including interns, temps, consultants, vendors, third-party
+providers, and contractors.
+Terrorist Financing Terrorist Financing involves the collection or provision of funds with the
+intention or knowledge that they will be used to support terrorist acts,
+individuals or organisations. Unlike Money Laundering, the origin of the
+funds used for terrorist financing may be legitimate or illicit, making
+detection more complex. For SIL, there is a heightened risk that payment
+processing services could be misused to raise, move or store funds that
+support terrorism, often through seemingly legitimate merchants or
+transactions. SIL must implement effective controls to identify and report
+suspicious activity, conduct enhanced due diligence (“EDDˮ) where
+necessary and ensure systems are in place to prevent its services from
+being exploited for terrorist financing purposes.
+2. Program Requirements
+2.1. Legal & Regulatory Framework
+SIL has obligations under Part 4 of the Criminal Justice Money Laundering and Terrorist
+Financing) Act 2010 (as amended) Criminal Justice Act “CJAˮ 2010 and under its requirements to
+adhere to international sanctions. SIL will also have regard to the Anti-Money Laundering and
+Countering the Financing of Terrorism Guidelines for the Financial Sector (“The Guidelinesˮ)
+
+introduced by CBI in September of 2019, other guidance and papers issued by CBI, and other EBA
+Guidelines.
+Part 4 of the CJA Act 2010 obliges SIL to put in place an effective, risk-based AML/CFT
+framework, which includes the application of a risk-based approach, Customer due diligence
+(“CDDˮ) measures, reporting of suspicious transactions, governance, policies and procedures,
+recordkeeping, and training. The retention of such records will be tested as part of Blockʼs global
+risk based approach to monitoring and testing.
+The CBI is the competent authority for the monitoring of credit and financial institutionsʼ
+compliance with the CJA 2010 and is responsible for taking reasonable measures to secure such
+compliance.
+2.1.1 Money Laundering
+Money laundering means an offence as set out under Section 7 of the CJA 2010. It involves the
+intentional or reckless conversion of property, generated from “criminal conductˮ, so that the
+criminal origin of the property is difficult to trace. Money Laundering Section 71 of the CJA 2010
+provides that a person commits a money laundering offence in the State if:
+(a) the person engages in any of the following acts in relation to property that is the
+proceeds of criminal conduct: (i) concealing or disguising the true nature, source, location,
+disposition, movement or ownership of the property, or any rights relating to the property;
+(ii) converting, transferring, handling, acquiring, possessing, or using the property; (iii)
+removing the property from, or bringing the property into, the State; and
+(b) the person knows or believes (or is reckless as to whether or not) the property is the
+proceeds of criminal conduct.
+Section 72 of the CJA 2010 provides that a person who attempts to commit an offence under
+subsection 1 commits an offence.
+2.1.2 Criminal Contact
+“Criminal conductˮ is defined in Section 6 of the CJA 2010 as “Conduct that constitutes an offence
+or conduct occurring in a place outside the State that constitutes an offence under the law of the
+place and would constitute an offence if it were to occur in the State. This definition encompasses
+all offences whether minor or serious, summary, or indictable.
+2.1.3 Proceeds of Criminal Conduct
+“Proceeds of criminal conductˮ is defined in Section 6 of the CJA 2010 as “any property that is
+derived from or obtained through criminal conduct, whether directly or indirectly or in whole or in
+part, and whether that criminal conduct occurs before, on or after the commencement of this Partˮ.
+2.1.4 Terrorist Financing
+Terrorist financing means an offence under Section 13 of the Criminal Justice Terrorist Offences)
+Act 2005 CJA 2005. Section 131 of CJA 2005 provides that a person is guilty of a TF offence if
+
+“in or outside the State, the person by any means, directly or indirectly, unlawfully and wilfully
+provides, collects, or receives funds intending that they be used or knowing that they will be used,
+in whole or in part in order to carry out:
+a) an act that constitutes an offence under the law of the State and within the scope of, and
+as defined in, any treaty that is listed in the annex to the Terrorist Financing Convention, or
+b) an act (other than one referred to in paragraph (i) that is intended to cause death or
+serious bodily injury to a civilian or to any other person not taking an active part in the
+hostilities in a situation of armed conflict, and (ii) The purpose of which is, by its nature or
+context, to intimidate a population or to compel a government or an international
+organisation to do, or abstain from doing, any act.ˮ
+Section 132 of CJA 2005 provides that a person who attempts to commit an offence under
+subsection 1 is guilty of an offence.
+2.1.5 Sanctions
+Sanctions are an instrument of a diplomatic or economic nature which seek to bring about a
+change in activities or policies, such as violations of international law or human rights or policies
+that do not respect the rule of law or democratic principles. Financial sanctions emanating from the
+EU and the United Nations (“UNˮ) are contained in sanctions lists.
+3. Risk Assessment & Management
+3.1 Risk Based Approach
+Section 30A and 30B of the CJA 2010 require firms to apply a risk-based approach when applying
+AML/CFT compliance measures. SIL assesses ML/TF risk which it is exposed to resulting from the
+nature and complexity of the business.
+In order to develop appropriate systems and controls, SIL assesses the ML/TF risks, both specific
+and general, that arise in relation to Customers, products, services, channels, and geography
+(business and Customers) and other risks as identified by the National Risk Assessment and those
+risks identified by SIL but not contained in the above categories. In this regard, SIL also recognises
+other significant risks such as sanctions, bribery, corruption, and fraud.
+SIL assesses the ML/TF risk it is exposed to by entering into a business relationship with a
+Customer so that SIL can determine the level of CDD required under Sections 33 and 35 of the
+CJA 2010. In applying a risk-based approach to SILʼs AML/CFT obligations, SIL is aware of the
+importance and benefits of financial inclusion. SIL has not adopted a “zero toleranceˮ approach, or
+wholesale termination of business relationships with entire categories of Customers, without an
+individual assessment of the Customer risk.
+SIL implements a risk-based approach to focus effort where it is needed and where it will be most
+effective in countering the risks posed to SIL and the ecosystem in which SIL operates. Risk
+assessment and management are ongoing processes conducted locally and globally and are
+
+continuously evaluated so that resources are assigned appropriately to those areas that pose the
+greatest risk.
+3.2 Business Risk Assessment
+SIL conducts a business risk assessment according to Section 30A of the CJA 2010 and assesses
+risk in applying CDD according to Section 30B of the CJA 2010 by following the risk assessment
+approach at the Block level.
+SILʼs Business-Wide Risk Assessment is produced annually, taking into account various relevant
+sources and is presented for approval to the Board by the Chief Compliance Officer (“CCOˮ) as
+soon as it is available.
+As new risks are identified or presented, consideration will be given to the modification of the
+program and strategies to execute upon the Program.
+As per relevant legislation, before new products or services are launched, or prior to SIL launching
+in additional jurisdictions, the business must review the product or service for potential ML/TF risks
+and ensure appropriate controls are implemented if such risks exist.
+3.3 Risk Factors
+When assessing the risk of Customer relationships, SIL takes a holistic view of the risk associated
+with any given situation, as per Section 30A1 of the CJA 2010. SIL adopts the Global AML and
+Sanctions Risk Assessment Framework.
+SIL acknowledges that unless required by the CJA 2010 or EU legislation, the presence of isolated
+risk factors does not necessarily move a relationship into a higher or lower risk category.
+4. Customer Risk Rating Model
+SIL utilises Blockʼs machine learning model to determine Customer Risk Rating (“CRRˮ). The activation
+Customer Risk Rating (“aCRRˮ) model evaluates the risks associated with the attributes of the
+Customer at onboarding. The Continuous Customer Risk Rating (“cCRRˮ) model evaluates all new
+and/or active Customers daily to define the risk rating for Customers. High-risk merchants are
+identified through the cCRR program, which assesses Customer profiles, assigns risk ratings, and
+continuously monitors risk levels. High-risk classification is determined based on:
+● Intrinsic Risk: Factors that override empirical evaluation, such as an association with a
+Politically Exposed Person (“PEPˮ).
+● Empirical Risk: Measured through a cCRR model score and minimum levels of Customer
+activity who pass Gross Payment Volume (“GPVˮ) thresholds. The empirical factors may
+include Customer attributes, transaction activity, etc.
+● Customers classified as high risk—either intrinsically or empirically —who have passed the
+GPV thresholds and have not received Enhanced Due Diligence (“EDDˮ) review in the past 12
+months are immediately flagged for EDD review to mitigate financial crime risks.
+
+5. Customer Due Diligence
+5.1 Risk Based Customer Due Diligence
+SIL performs CDD according to Section 30B1 of the CJA 2010. SIL identifies and assess ML/TF
+risk in relation to a Customer or particular transaction in order to determine the level of CDD
+required in accordance with Sections 33 and 35 of the CJA 2010. In terms of CDD obligations for
+ongoing monitoring of Customers, according to Section 353 of the CJA 2010, SIL monitors any
+business relationship that it has with a Customer to the extent reasonably warranted by the risk of
+ML/TF. In terms of periodic review of Customers, SIL has in place a well-documented and
+well-established monitoring program, which is demonstrative of a risk-based approach, where
+high-risk Customers are reviewed on a frequent basis, usually annually.
+Section 331a of the CJA 2010 requires firms to identify and verify the identity of a Customer or
+beneficial owner prior to establishing a business relationship with the Customer. However, Section
+335 of the CJA 2010 allows firms to identify and verify the identity of a Customer or beneficial
+owner during the establishment of a business relationship, where a firm reasonably believes that:
+(a) Verifying the identity of the Customer or beneficial owner (as the case may be) prior to the
+establishment of the relationship would interrupt the normal conduct of business; and
+(b) There is no real risk that the Customer is involved in, or the service sought by the Customer is
+for the purpose of ML orTF.
+In such circumstances, SIL takes reasonable steps to verify the identity of the Customer or
+beneficial owner as soon as practicable. The CBI has not prescribed or defined examples of
+documentation that it considers would satisfy Customer identification and verification
+requirements. For the avoidance of doubt, SIL applies a risk-based approach, and maintains lists of
+documents, which will be accepted in satisfaction of CDD obligations and in accordance with
+relevant national and international laws and standards, taking into account other obligations such
+as financial inclusion and data protection, the list of acceptable documents are detailed in the
+know your Customer (“KYCˮ) procedures.
+Section 336 of the CJA 2010 allows for circumstances where an account may be opened prior to
+CDD being complete. However, transactions may not be carried out by or on behalf of the
+Customer or beneficial owner until CDD is complete.
+Prior to a Customer transacting, SIL performs onboarding screening for sanctions, convicted
+money launderers, and terrorist financiers. Customers detected in this screening are prevented
+from completing the KYC process and are prevented from transacting.
+5.2 Politically Exposed Person
+As per Section 37 of the CJA 2010, a PEP is an individual who is, or has at any time in the
+preceding 12 months, been entrusted with a prominent public function, including either of the
+following individuals (but not including any middle ranking or more junior official):
+
+(a) a specified official; or
+(b) a member of the administrative, management, or supervisory body of a state-owned
+enterprise.
+A "specified official" is any of the following officials (including any such officials in an institution of
+the European Communities or an international body):
+● a head of state, head of government, government minister or deputy, or assistant
+government minister;
+● a member of a parliament or of a similar legislative body; a member of the governing
+body of a political party;
+● a member of a supreme court, constitutional court, or other high level judicial body
+whose decisions, other than in exceptional circumstances, are not subject to further
+appeal; a member of a court of auditors or of the board of a central bank; or
+● an ambassador, chargé d'affairs, or high-ranking officer in the armed forces; a director,
+deputy director, or member of the board of, or person performing the equivalent
+function in relation to, an international organisation.
+The risk associated with PEPs also extends to members of their immediate families and to known
+close associates.
+An immediate family member of a PEP includes any of the following persons:
+● any spouse of the PEP;
+● any person who is considered to be equivalent to a spouse of the PEP under the national or
+other law of the place where the person or PEP resides;
+● any child of the PEP;
+● any spouse of a child of the PEP;
+● any person considered to be equivalent to a spouse of a child of the PEP under the national
+or other law of the place where the person or child resides;
+● any parent of the PEP; and
+● any other family member of the PEP who is of a prescribed class.
+A close associate of a PEP includes any of the following persons:
+● any individual who has joint beneficial ownership of a legal entity or legal arrangement, or
+any other close business relations, with the PEP; or
+● any individual who has sole beneficial ownership of a legal entity or legal arrangement set
+up for the actual benefit of the PEP.
+5.3 Negative News Adverse Media)
+SIL conducts negative news screening on its Customers. If adverse information is found on a
+Customer, the case is escalated to the MLRO to review all the information available and make a
+determination as to whether the information is detrimental to the potential Customer and to
+
+subsequently make a decision to approve or decline the business relationship and document the
+rationale used.
+5.4 Enhanced Due Diligence
+SIL adopts an approach to Enhanced Due Diligence (“EDDˮ) that is in line with Section 37 to 39 of
+the CJA 2010, whereby EDD is applied in all of the following circumstances (where applicable):
+● Where the Customer, or the Customerʼs beneficial owner, is a PEP;
+● Where the Customer is high risk per the aCRR or cCRR models;
+● Where SIL deals with a Customer (whether a natural person or legal entity) established
+in high-risk third countries; and
+● To a business relationship or transaction that SIL has identified as presenting a higher
+degree of risk.
+5.5 Simplified Due Diligence
+SIL does not apply Simplified Due Diligence (“SDDˮ) to any of its Customers at this time.
+6. Role of Chief Compliance Officer
+The CCO1 is principally responsible for:
+● Receiving reports of potentially suspicious activity from any Staff Member of or officer
+in SIL or from external sources such as law enforcement and considering all alerts and
+evaluating whether there is, or seems to be, any evidence of ML/TF or other financial
+crime;
+● Ensuring that a risk assessment of ML/TF is carried out and presented to Senior
+Management and the Board;
+● Confirming and reporting any suspicious activity or transaction to the relevant local
+government or law enforcement agency by completing and submitting a suspicious
+activity report;
+● Ensuring that there are appropriate systems and processes in place to respond fully
+and rapidly to enquiries by law enforcement agencies including An Garda Síochána,
+Interpol, and the Revenue Commissioners;
+● Ensuring AML/CFT/FS procedures and controls are in place and operating efficiently;
+● Implementing a program to monitor any situations of higher risk of ML or TF; and
+adequacy of procedures for recordkeeping in relation to financial crime;
+● Training Staff and the Board in the prevention of ML and TF;
+● Designating appropriate responsibilities and actions to other key individuals and team
+members who possess the requisite skills and knowledge to execute such tasks;
+● The approval of outsourcing compliance activity, including outsourcing intragroup, in
+line with global and local outsourcing policies;
+1 The title CCO and CCO EU have been used interchangeably throughout this document.
+
+● Informing Senior Management and members of the Board on material compliance
+matters, key program updates, and key risk indicators and metrics on a regular basis
+through quarterly updates to the Board and annual MLRO reports.
+6.1 Role of MLRO
+The CCO and MLRO, as appointed by SIL, is responsible for AML/CFT controls and engages with
+the Block, Inc. teams in various ways, including, but not limited to, the following:
+● Periodically receiving, reviewing, and challenging management information where
+appropriate;
+● Conducting monthly calls with various teams;
+● Visiting Block, Inc. headquarters at least annually; and
+● Reviewing changes and process updates to outsource services.
+The topics discussed typically include the following:
+● Management information on alerts received or discounted (transaction monitoring alerts
+and screening);
+● Escalations received;
+● Updates on staffing needs, attrition rates, and trainings; and
+● Backlogs and root/cause analysis of any Compliance-owned issues identified.
+The CCO is also supported by a Deputy Head of Compliance and MLRO who aids the CCO in
+overseeing and supporting the compliance function within the firm.
+7. Policies and procedures
+In line with Section 54 of the CJA 2010, SIL has adopted policies, controls, and procedures
+covering the responsibility of Senior Management to prevent ML/TF, and of all Staff members to
+escalate any suspicious activities or any other matter that requires escalation. Policies and
+procedures are made available to all Staff.
+8. Transaction Monitoring
+SIL monitors the activity of Customers to identify (with regard to ML/TF risk) any transactions,
+patterns, or behaviours which appear to be potentially suspicious. SIL uses a combination of
+analytic models, in-house front-end software applications, vendor-supported analytics, and
+manual analysis to review activity on an ongoing basis from the beginning to the end of the
+business relationship.
+SIL adopts the ongoing monitoring requirements under Section 353 of the CJA 2010, to monitor
+any business relationship that it has with a Customer to the extent reasonably warranted by the
+risk of ML/TF. SIL conducts periodic reviews on its Customers as detailed in KYC/CDD procedures.
+
+The output from the analytic models is reviewed using a set of factors to determine whether the
+activity is potentially suspicious.
+SIL acknowledges that certain types of businesses are more likely to be associated with ML.
+Accordingly, all businesses that are classified in one of the following categories receive increased
+scrutiny from the Compliance team:
+● Individual use;
+● Political organisation;
+● Charitable organisations; and
+● Professional services.
+It is important to ensure that SIL keeps abreast of new typologies, changes to typologies (e.g. new
+corridors of activity, new thresholds, etc.) In this regard, SIL partners with the Compliance
+Infrastructure and Analytics team to ensure that the transaction monitoring program reflects the
+risk in the activities of its Customers.
+In addition, SIL reflects the nature of the regulated area in which it operates; National Risk
+Assessments, updates from regulators, law enforcement, and trade organisations also inform the
+risk-based approach of SIL. The teams carrying out transaction monitoring must therefore be
+trained on a regular basis to ensure that their knowledge is up-to-date and a reflection of the risk
+in the market.
+9. Reporting of Suspicious Activity
+9.1 Reporting
+SIL reports potentially suspicious transactions or activity to the Financial Intelligence Unit (“FIUˮ)
+and the Revenue Commissioners by completing a suspicious activity or transaction report within
+the stated or recommended timeframe required under Irish law and collects and maintains
+supporting documentation required by applicable record retention requirements.
+SIL follows Irish regulatory requirements to determine the time period to file a suspicious activity
+report. SIL files a suspicious activity report and notifies law enforcement of all Customers,
+transactions, and activities that raise an identifiable suspicion of criminal, terrorist, fraudulent, or
+corrupt activity via the STR filing process, including tax evasion. All STR filings are made to the FIU
+and the Revenue Commissioners.
+Any Staff Member (including contractor, director, officer, or agent) of SIL or Block, Inc. who
+becomes aware of any potentially suspicious activity by a Customer at any time or becomes aware
+of a significant risk posed by a Customer to SIL, including reputational risks, must immediately
+internally escalate by referring the activity to the Compliance team. Once this reporting is done, the
+individual has discharged their personal obligation in this respect. SIL maintains STR processes
+and procedures in line with this AML/CFT program.
+
+For the avoidance of doubt, SIL does not use any agents or relevant third parties to comply with its
+CDD obligations.
+The CCO may designate the above duties to the deputy MLRO or other SIL Compliance Staff
+Members as necessary for the adherence to regulatory requirements, these designations are
+identified and approved on an annual basis by the CCO in accordance with the SIL Annual CCO
+Designee Approval for Investigations procedure.
+9.2 Internal Escalations
+Internal escalation can be reported to the CCO via numerous avenues including gmail, a
+cloud-based application for sales and support Staff, and a messenger tool for intercompany
+communication where the Compliance team has a dedicated channel for interaction with Staff
+members. Staff members may also raise and notify any concerns of potential suspicious activity or
+transactions through SILʼs in-house monitoring system (ˮRegulatorˮ) by using a specific hashtag
+which is monitored by the Compliance and Risk Management Teams.
+9.3 Regulatory Reporting
+Licensing and other local regulatory requirements drive obligations for regulatory filing. SIL
+complies with all licensing and local regulatory requirements as applicable on the required
+frequency or on request.
+9.4 Confidentiality and Tipping Off
+All STRs are confidential. Confidential information also includes any documentation stating that a
+STR was or was not filed and the basis on which the decision was made. Local regulations make it
+an offence to say or do anything that may tip off another person that a suspicion has been raised,
+to disclose to a third person that a STR has been filed, or to disclose that an investigation into an
+offence is being contemplated or carried out if that disclosure is likely to prejudice any criminal
+investigation.
+All STRs and STR contemplation, whether resulting in filing or a no-STR decision, must not be
+disclosed or even hinted to the Customer, or other subjects of the STR, or anyone within SIL or its
+parent company or affiliated companies that does not have a need to know of such actions.
+SIL holds suspicious activity reports and any supporting documentation in a confidential folder. SIL
+does not inform anyone outside of a law enforcement or regulatory agency about the details of a
+STR. In addition, the details of suspicious activity report filings and copies of supporting
+documentation are segregated from other SIL records to avoid disclosing suspicious activity report
+details.
+9.5 Sharing Information
+In accordance with local laws and regulations, SIL responds to law enforcement, regulatory body,
+and government agency requests for documentation on Customers by searching SILʼs records to
+determine whether SIL has engaged in any transaction with the individual, entity, or merchant
+
+named in the request. If a match is found, it is reported to the appropriate authority. If a match is
+not found, then SIL will respond if required in accordance with local laws and regulations.
+SIL does not disclose the fact that an information request has been made or that information has
+been obtained from any Customers, except to the extent necessary to comply with the information
+request from a law enforcement or regulatory body.
+SIL does not use information provided for any purpose other than:
+● To report to appropriate law enforcement or government agency;
+● To determine whether to establish or maintain a relationship; or
+● To assist SIL in complying with any information sharing regulatory requirements.
+The CCO reviews the content of such reports to:
+● Determine whether STRs are warranted;
+● Consider whether SILʼs monitoring program needs refinement, in light of the intelligence
+from such requests; and
+● Report to the Board and Senior Management on the nature of such activity occurring
+utilising SILʼs infrastructure.
+9.6 Outsourced AML/CFT/FS Activity
+SIL acknowledges that the majority of AML/CFT and screening operational activity is outsourced to
+Block. SIL maintains oversight of these activities through the use of robust Service Level
+Agreements (“SLAsˮ), regular engagement, and oversight through service standards reviews and
+assurance testing conducted by the Compliance team and the monitoring and testing group
+functions.
+Where AML/CFT/FS activity is outsourced, SIL ensures that all Staff at the outsourced service
+provider performing AML/CFT/FS activities on behalf of SIL have been appropriately trained on the
+risks relevant to SIL and the applicable legislation relevant to the Staffʼs obligations and
+responsibilities.
+10. Data
+SIL gathers all required Customer personal information as applicable to the products and services
+utilised by the Customer. The personal information gathered per KYC requirements is used only for
+that purpose, and Customer consent to use such data is obtained from the Customer formally
+when the Customer signs up for the specific SIL product or service. SIL complies with personal
+identification/information requirements as required by country laws where they are stricter than
+SILʼs own policy.
+
+11. Sanctions
+11.1 Compliance Program
+SIL complies with Blockʼs Global Sanctions Compliance Program in terms of screening during
+onboarding, and on an ongoing basis, and follows the CBI guidelines in terms of steps to identify
+true matches and report these to authorities if required.
+11.2 Obligations on Firms
+The CBI is one of three competent authorities with responsibilities in relation to financial sanctions
+in Ireland. The other Irish competent authorities are the Department of Business, Enterprise and
+Innovation and the Department of Foreign Affairs and Trade.
+11.3 Reporting
+In the event that a match or a 'hit' occurs against a sanctioned individual or entity, SIL immediately
+freezes the account and/or stops the transaction. SIL reports true sanctions hits to the CBI via
+sanctions@centralbank.ie. The CBI is obliged to report financial sanctions true hits to the European
+Commission and to the FIU.
+11..4 Governance
+SIL ensures that the Board is fully aware of its sanctions obligations and conducts a risk
+assessment to ensure that the risks are identified and appropriate controls, such as screening, are
+put in place.
+12. Quality Control
+A quality control process exists for the Blockʼs Seller Monitoring and Watchlist Program and is a
+process to review the quality of investigative research, actions, documentation, and associated
+outcomes. The results identify opportunities for training and development, as well as continuous
+improvement for local Compliance teams and the AML/CFT Program overall. The process includes
+gathering feedback from analysts regarding any concerns noted during the quality assurance
+review, retraining, and providing corrective actions for issues noted, as applicable.
+13 Regular Independent Assessment
+SILʼs AML/CFT Program is assessed for effectiveness through regulatory examinations, internal
+audits, and independent reviews, as required. The CCO assigns the audit responsibility to an
+individual who is both independent and has the experience and skill to conduct a thorough and
+effective independent review. The reviewer may be a member of SIL or Block. Staff with audit or
+internal control experience, an outside auditor, or some other independent professional.
+Currently, the CCO has assigned the responsibility to SILʼs Internal Audit team who in turn have
+contracted with one of the “Big 4ˮ external auditing firms to conduct the annual assessment. The
+CCO, Senior Management, and the Board receive a written summary of the results of the audit,
+recommending corrective action and monitoring compliance with those recommendations. The
+
+Board shall hold the CCO and/or Senior Management accountable for the existence of any
+deficiencies and prompt resolution of such deficiencies identified in the audit report.
+14. Use of RegTech Solutions
+SIL utilises innovative or “RegTechˮ solutions to assist with their AML/CFT obligations. In
+accordance with Section 351 of the CJA 2010, SIL will:
+● fully understand the impact the RegTech solution has on SILʼs regulatory compliance;
+● ensure that the RegTech solution can achieve compliance with the AML/CFT/FS
+regulations;
+● ensure that the RegTech solution is capable of being audited by an independent third party;
+and
+● undertake a compliance risk assessment of the RegTech solution on an annual basis.
+15. Compliance & Enforcement
+15.1 Roles and Responsibilities
+Oversight and management of SILʼs AML/CFT/FS arrangements is provided in a number of ways
+through a clear and defined Governance methodology and the Three Lines of Defence (“3LODˮ)
+model.
+Governance:
+● Senior Management & Board of Directors (“the Boardˮ): Senior Management of SIL,
+including the Board made up of executive and non-executive directors, have responsibility
+for managing identified ML/TF/FS risks by demonstrating active engagement in SILʼs
+approach to effectively mitigating such risks. The Board meets quarterly and follows a
+terms of reference which details information including role, agenda, and decision making. A
+Chief Compliance Officer has been appointed by the Board to coordinate and manage SILʼs
+AML/CFT/FS Compliance Program. For the avoidance of doubt Senior Management refers
+to the Pre-approved Control Function (“PCFˮ) holders of the firm.
+● Regulatory Governance Committee (“RGCˮ): SIL has established a Regulatory
+Governance Committee which is a Senior Management committee with a terms of
+reference that details information including role, agenda, and composition. SILʼs Regulatory
+Governance Committee and Board are responsible for ensuring that the ML/TF risk
+management measures adopted are risk-based and proportionate, informed by SILʼs
+business risk assessment.
+Governance & Oversight:
+● SIL Senior Management is responsible for:
+
+○ The review and approval of the business risk assessment methodology at the RGC
+and at the respective Board meeting;
+○ The review and approval of the business risk assessment annually;
+○ The review and approval of AML/CFT policies and procedures;
+○ Appointing the MLRO for SIL and a Compliance team that is adequate given the
+risks faced and the outsourcing model in place by SIL;
+○ Maintaining minutes from meetings where ML/TF matters are discussed (e.g., RGC
+and Board meetings); and
+○ Maintaining evidence of PEP approvals.
+● Chief Compliance Officer : SIL has appointed an CCO who leads the AML/CFT compliance
+effort and has overall responsibility for the execution of the AML/CFT program in the EU.
+The CCO has the full authorisation and approval from the Board and Senior Management to
+act independently of them to fulfil the role.
+● Money Laundering Reporting Officer: SIL has appointed an MLRO who has sufficient and
+appropriate AML/CFT knowledge and expertise; and has the autonomy and ability to
+escalate matters to the Board, if required. The MLRO provides regular and timely
+management information to Senior Management regarding the AML/CFT activities of SIL
+through the Board and RGC. The MLRO produces an MLRO Report annually, in accordance
+with the requirements of section 6.3.1 of the CBI Guidelines.
+● Three Lines of Defence: SIL has adopted a three lines of defence model that ensures the
+following:
+○ There is adequate coordination between the first line business/operational teams
+including Risk, Compliance, and Internal Audit, to ensure effective oversight and
+effective coordination of resources to manage overlap in areas of review;
+○ Second and third line work plans are risk-based with all risks and controls,
+including AML/CFT/FS, reviewed on a regular basis commensurate with the risk;
+○ The CCO is involved in the planning of the scheduled second line of defence
+reviews and in the closing of the findings arising from second line and third line of
+defence reviews of the AML/CFT/FS program;
+○ All issues are effectively tracked and managed to resolution;
+○ Risk, Compliance, and Internal Audit teams are independent and resourced with
+Staff knowledgeable of AML/CFT/FS.
+15.2 Monitoring and Reporting
+On an ongoing basis, the CCO/MLRO and/or their designee; monitors and oversees the
+implementation and effectiveness of SILʼs Financial Crime Program and informs senior
+management and the Board on material compliance matters, key program updates, key risk
+indicators and metrics on a regular basis through quarterly updates to the Board and monthly
+updates to the RGC.
+
+15.3 Training:
+New Hire Training
+At a SIL-wide level, all new Staff Members receive AML/CFT training through an online-based
+interactive training course. The course is updated annually, at a minimum, and concludes with a
+mandatory comprehension assessment.
+Refresher Training
+All Staff Members are required to take refresher training on an annual basis. The AML/CFT training
+is designed to enable Staff members to understand:
+● What activities amount to ML/TF and how they should be reported;
+● Key elements of AML/CFT laws, including coverage of:
+○ Developing and maintaining an AML/CFT Program and key features;
+○ SILʼs KYC obligations;
+○ SILʼs reporting obligations; and
+○ Recordkeeping and retention obligations.
+● Types of ML/TF risks and how Staff Members are able to spot these risks;
+● Consequences of non-compliance with the AML/CFT laws, on SIL and its Staff; and,
+● The societal effect of the failure to implement effective AML/CFT programs.
+Targeted AML Training
+SIL provides the following targeted trainings:
+● Irish-based AML/CFT/FS training for all SIL Staff;
+● Board training, in person or via video conference on an annual basis; and
+● Compliance personnel training tailored to the compliance role, regulatory issues, and risks
+specific to the EU region.
+Training may include:
+● Webinars provided by established AML organisations, such as the Association of Certified
+Anti-Money Laundering Specialists (“ACAMSˮ), the International Compliance Association
+(“ICAˮ) or government entities;
+● Distribution of written materials;
+● AML conferences;
+● Department meetings; or,
+● Other internally-developed training sessions.
+Additionally, processes are thoroughly documented, enabling new Staff members to quickly and
+effectively learn and perform their core job functions.
+15.4 Record Retention
+SILʼs policy is to maintain, for at least five 5 years from the end of the business relationship, all
+necessary records as they relate to Customers, including but not limited to the following:
+
+● electronic record, copy, or extract of the record as it relates to the KYC program;
+● Supporting documentation as it relates to Customer transaction activity; and
+● monitoring and reporting of potentially suspicious activity.
+SIL considers the end of the business relationship to occur when the final transaction is processed
+or when the Customer terminates its business relationship with SIL.
+As it relates to the SIL business, SIL maintains, for at least five 5 years, the following:
+● Employee training records;
+● AML/CFT Program documentation and supporting material; and,
+● Reports under the supervision of the CCO (e.g., reporting to Senior Management, the
+Board, and the CBI.)
+When applicable, SIL maintains records in compliance with local regulations where retention
+requirements are longer than SIL's own policies. The CCO is responsible for ensuring that the
+appropriate records are maintained.
+15.5 Exceptions
+Exceptions to this program must be pre-approved by the CCO or their designee. Staff members
+may submit exception requests for review at go/policyhelp.
+15.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+16. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program owner.
+Review related documents:
+○ EEA KYC Procedures
+○ SIL EEA Suspicious Transaction Reporting
+17. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Ad hoc updates may be warranted if any of the following occur:
+
+● There are material changes to AML/CFT/FS legislation or guidance;
+● SIL offers new or additional product and services, or makes material changes to existing
+products or services;
+● SIL expands its business in the future and the processes outlined in this program are no
+longer sufficient to guard against ML/TF risks posed by the new business;
+● The CCO believes a change in the ML/TF risk posed by the products and services offered
+justifies a change to program; or
+● Changes are required as a result of internal or external audits, testing, or monitoring.
+Approval History:
+Approver Title Type Description Date
+Charles CCO EU Creation Creation August, 2020
+McCarthy
+Charles CCO EU Initial December,
+McCarthy Approval 2020
+Board of Not Initial December,
+Directors Applicable Approval 2020
+Charles CCO EU Material Split Cash & December,
+McCarthy Change Seller AML/CTF 2021
+Approval Program
+Board of Not n/a December 16,
+Directors Applicable 2021
+Elizabeth CCO EU Material Updated for post September,
+Henry Change - CBI inspection 2022
+Approval feedback.
+Board of Not
+Directors Applicable
+Elizabeth CCO EU Immaterial Timing of Board January, 2023
+Henry Change approving the
+Approval Enterprise Wide
+Risk Assessment
+& testing record
+retention.
+Noted at Q1
+Board - Minor
+Changes)
+Elizabeth CCO EU Material Updated to add September,
+Henry Change in requirements 2023
+Approval on the use of
+
+RegTech
+solutions.
+Adjusted the
+reason for EDD.
+Elizabeth CCO EU Scheduled n/a December,
+Henry Review 2023
+Board of Not December,
+Directors Applicable 2023
+Elizabeth CCO EU Scheduled New template, December 11,
+Henry Review streamlined 2024
+sections + New
+Board of Not text included to: December 11,
+Directors Applicable - define 2024
+Immediate family
+members &
+Close
+Associates of
+PEPʼs.
+- Update text for
+Adverse Media,
+CCO designees
+and SILʼs risk
+based approach
+to KYC.
+Elizabeth CCO EU Scheduled Aligned with the Sep 8, 2025
+Henry Review new policy
+template.
+SIL Board of Board September 25,
+Renamed to
+Directors 2025
+Financial Crime
+Program.
+New section
+included with
+simplified language
+that explains in a
+less technical
+manner how the
+aCRR and cCRR
+operate.
+Document Details:
+Business Square
+Scope Europe
+
+Compliance Domain Financial Crimes
+Document Owner Chief Compliance Officer EU
+Approved By SIL Board of Directors
+Document Tier Tier 2

@@ -1,0 +1,318 @@
+Complaints Standard
+Afterpay Australia Pty Ltd and Afterpay New Zealand
+Limited
+Last Approved: Jan 27, 2026
+Effective Date: Jan 27, 2026
+1. Overview
+Introduction and Purpose: This ANZ Complaints Standard (the "Standard") outlines Afterpay
+Australia Pty Ltd and Afterpay New Zealand Limited's (collectively, "Afterpay ANZ") approach to
+complaints management and resolution. The purpose of this Standard is to establish
+comprehensive guidelines governing Afterpay ANZ's complaints management processes, ensuring
+consistent operations across Australia and New Zealand while maintaining compliance with
+applicable regulatory requirements.
+This Standard aligns with the Block Global Complaints Policy and the Block Global Complaints
+Standard, ensuring that all complaints are identified and resolved in an effective, consistent, and
+compliant manner. This Standard is designed to provide specific regulatory requirements for
+managing complaints for Afterpay ANZ and is to be read together with the requirements set out in
+the complaints handling procedures.
+Scope: This Standard applies to:
+● Afterpay Australia Pty Ltd and Afterpay New Zealand Limited (collectively, "Afterpay ANZ");
+● All directors, officers, and team members of Afterpay ANZ • All full-time employees and
+fixed-term and contingent workers including interns, temps, consultants, vendors,
+third-party providers, and contractors;
+● All employees and affiliates acting for or on behalf of Afterpay ANZ, across all areas
+supporting Afterpay ANZ operations; and
+● All complaints related to products and services offered by Afterpay ANZ in Australia and
+New Zealand
+This Standard is applicable globally across all Afterpay business lines, subsidiaries, and
+jurisdictions for transactions that apply to Australia and New Zealand.
+1
+
+Definitions:
+Terminology Definition
+Afterpay Afterpay Australia Pty Ltd and Afterpay New Zealand Limited that offers,
+among other things, a 'Buy Now Pay Later' facility.
+Australian Credit A license issued by the Australian Securities and Investments Commission
+Licence ACL ASIC for credit activities.
+Afterpay An internal governance committee made up of senior management
+Governance, responsible for the oversight of Afterpay's compliance with applicable laws
+Risk and and its key risks.
+Compliance
+Committee GRC
+Committee)
+Block, Inc. Block, Inc., is a Delaware corporation and the ultimate parent of Afterpay.
+Board The Board of Directors of Afterpay.
+Business Units Organisations within Afterpay responsible for the products and services
+offered by Afterpay.
+Complaint An expression of dissatisfaction made to or about an organisation, related to
+its product, services, staff or the handling of a complaint, where a response
+or resolution is explicitly or implicitly expected or legally required. In
+accordance with RG 271 and AS/NZS 100022014.
+Complaint Tier Classification of complaints based on risk level: Tier 1 High Risk), Tier 2
+Medium Risk), Tier 3 Low Risk).
+Dispute Chargebacks or allegations of an unauthorized transaction. Disputes are
+handled by specialized teams and not via the complaint process, unless the
+customer expresses dissatisfaction about the dispute process itself.
+External Dispute External schemes for resolving disputes: AFCA Australia) and FDRS New
+Resolution EDR Zealand).
+Financial Registration status in New Zealand with the New Zealand Companies Office.
+Services
+Provider FSP
+Hardship A complaint relating to financial hardship, treated as urgent matters requiring
+Complaint resolution within 21 calendar days.
+2
+
+Internal Dispute Afterpay's internal process for managing complaints in compliance with
+Resolution IDR regulatory standards.
+Procedure
+Obligations The actionable requirements within applicable laws, rules and regulations,
+and enforceable regulatory guidance for Afterpay products and services.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired by
+the Company who supports the operations covered by this Standard.
+2. Afterpay-Specific Requirements
+AFTERPAY'S COMPLAINTS MANAGEMENT OBLIGATIONS:
+2.1. Afterpay Australia
+In Australia, Afterpay is:
+● A holder of an Australian Credit Licence ACL with the Australian Securities and
+Investments Commission ASIC. As such, Afterpay must have an internal dispute
+resolution IDR procedure that complies with standards and requirements made or
+approved by ASIC in accordance with the regulations and covers disputes in relation to
+credit activities engaged in by itself or its representatives.
+● Accredited as a Code Compliant Member of the Buy Now Pay Later Code of Practice BNPL
+Code). Under the BNPL Code, Afterpay has obligations to ensure that the Complaints Policy
+is visible and easily accessible on the Afterpay website and to comply with ASIC's
+standards and requirements in relation to complaint resolution.
+● A member of an external dispute resolution EDR scheme in Australia and is a member of
+the Australian Financial Complaints Authority AFCA, membership number 45772.
+2.2. Afterpay New Zealand
+In New Zealand, Afterpay is:
+● Registered as a Financial Services Provider FSP with the New Zealand Companies Office.
+● A member of an external dispute resolution EDR scheme in New Zealand and is a member
+of the FDRS (membership number FM4499.
+3
+
+2.3. Definition of Complaint
+In accordance with RG 271 and AS/ NZS 10002 2014, Afterpay defines a complaint as the following:
+“An expression of dissatisfaction made to or about an organisation, related to its product, services, staff
+or the handling of a complaint, where a response or resolution is explicitly or implicitly expected or legally
+requiredˮ .
+2.4. Afterpay’s IDR procedure
+Afterpay maintains an IDR procedure that complies with the standards and requirements required by
+regulation. This procedure is maintained by the Operations team and is reviewed on a periodic basis.
+This procedure complies with the obligations set out in ASIC Regulatory Guide RG271, Part B of the
+Buy Now Pay Later Code of Practice BNPL, AFCA Rules; ASIC RG96 Debt Collection Guidelines and is
+in place to support Afterpay in meeting the timeframe and response requirements for effectively
+managing complaints. An overview of these requirements are provided in Annexure A - IDR
+Timeframes and Responses.
+2.5. External Dispute Resolution Membership
+Renewal of the annual membership to both AFCA and the FDRS is performed by the EDR team and is
+reported by the Operations team to the GRC Committee on an annual basis.
+2.6. Complaints Resolution
+Complaint resolutions operate in accordance with the delegations set out within the Goodwill Refunds -
+Complaint Resolution document. This document is reviewed on an annual basis by the Afterpay Global
+Complaints Leader.
+2.7. Customer Remediation
+Customer remediation requirements are outlined in the Afterpay Compliance Incident and Breach
+Management Program. Any customer remediation for a complaint must follow these requirements and
+include:
+● 9 key principles to ensure Afterpayʼs remediation process is effective when delivering
+outcomes to our customers; and
+● A tailored customer remediation approach for Reportable Situations that takes into account
+Regulatory Guide 277 Customer Remediation requirements.
+2.8. Ongoing Monitoring and Governance
+Complaints are monitored on an ongoing basis by the Operations Team. Reporting of complaints is
+performed by the Operations Team to ANZ senior management on a monthly basis, quarterly to the GRC
+Committee and annually to the Board.
+4
+
+In addition, the Internal Testing and Monitoring Team performs periodic reviews to confirm that Afterpay is
+managing complaints in line with its regulatory requirements.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Global Complaints Leader:
+○ Responsible for overseeing global complaints management program
+○ Provides monthly complaint reports on volumes, trends, and insights to Afterpay
+ANZ leadership
+○ Serves as point of contact for complaint data and supporting commentary for Board
+reports
+● Global Head of Afterpay Lending Operations:
+○ Responsible for oversight of customer service operations
+○ Escalates complaint trends and volumes as appropriate
+○ Oversight for root cause analysis and remedial action decisions
+Afterpay Roles:
+● Head of Compliance, ANZ
+○ Document Owner for this Standard
+○ Responsible for approving exceptions to this Standard
+○ Approves non-material changes to this Standard
+○ Ensures appropriate practices are in place to support compliance
+○ Monitors and reports on compliance with this Standard
+● Operations Team:
+○ Maintains the IDR procedure
+○ Manages the Complaint Log
+○ Monitors complaints on an ongoing basis
+○ Reports complaints monthly to ANZ senior management
+○ Reports quarterly to the GRC Committee and annually to the Board
+○ Performs EDR membership renewal reporting
+● Internal Testing and Monitoring Team:
+○ Performs periodic reviews to confirm Afterpay is managing complaints in line with
+regulatory requirements
+3.2. Monitoring and Reporting
+5
+
+On an ongoing basis, the Head of Compliance, ANZ and/or their designee monitors activities for
+compliance and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Standard effectively. All training-related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program. New hires must receive
+complaint training before servicing complaints and must complete annual training thereafter.
+3.4. Record Retention
+All complaint logs and associated data must be retained for a minimum of seven 7 years or in
+accordance with the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+Complaints are retained in Afterpay's customer service software and are categorized accordingly.
+3.5. Exceptions
+The Head of Compliance, ANZ or designee will have authority to approve exceptions and/or
+exemptions to this Policy, provided that the proposed exception or exemption does not violate
+applicable laws and regulations. Exception requests must be documented in writing, include a
+reason for a request, and provide a description of the controls that Afterpay will implement to
+mitigate risks associated with the exception. Any approved exceptions must be documented in
+writing and retained with recordkeeping requirements. Any approved exceptions or exemptions
+should be submitted to the Policy Governance Team. The Head of Compliance, ANZ and/or designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+6
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Head of
+Compliance, ANZ.
+Review related documents:
+● Block Global Complaints Policy
+● Block Global Complaints Standard
+● Afterpay ANZ Governance, Risk and Compliance Framework
+● Afterpay Compliance Incident and Breach Management Program
+● Afterpay ANZ Hardship Policy
+● Afterpay ANZ Vulnerable Customer Policy
+● Goodwill Refunds - Complaint Resolution
+● ASIC Regulatory Guide RG271
+● Buy Now Pay Later Code of Practice BNPL
+● ASIC RG277 Customer Remediation
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix. Non-material changes are
+approved by the Head of Compliance, ANZ and material changes (including the annual review) are
+approved by the GRC Committee.
+Approval History:
+Approver Title Type Description Date
+Martina Kann Head of Initial Appro… Updated from January 27, 2026
+Compliance, ANZ Policy template to
+Standard
+Document Details:
+Business Afterpay
+Scope Regional - Australia and New Zealand
+Compliance Domain Consumer Protection
+Document Owner Senior Compliance Manager, Afterpay ANZ
+7
+
+Approved By Head of Compliance, ANZ
+Document Tier Tier 3
+8
+
+Annexure A - IDR Timeframes and Responses
+Timeframes
+● Afterpay acknowledges all complaints within 1 day of receipt;
+● Afterpay provides an initial response to all complaints within 10 business days (unless Afterpay
+has already resolved their complaint);
+● Afterpay will always attempt to resolve a customer complaint within 21 days, with the maximum
+time permissible to resolve a complaint being 30 days;
+● Afterpay will treat complaints relating to financial hardship as ‘urgentʼ matters and attempt to
+resolve them within 21 days.
+Responses - Australia
+Except where the complaint is about hardship or the customer requests a written response, if the
+complaint is resolved within 5 business days to the customerʼs satisfaction, the resolution is to be
+recorded in the system with no further response required to be provided to the customer confirming the
+resolution.
+Written Notifications
+● A final response letter is required where:
+○ A complaint takes more than 5 business days to resolve (this includes situations where
+Afterpay takes more than 5 business days to resolve the complaint to the full
+satisfaction of the customer);
+○ The complaint relates to hardship; or
+○ The customer has requested a written response.
+● The final response letter must contain details of:
+○ The final outcome of the complaint (including whether have been able to provide the
+customer what they were seeking) and advise that our internal complaints process has
+concluded;
+○ The customerʼs right to take their complaint to AFCA; and
+○ The contact details of AFCA.
+● Further, if Afterpay cannot provide a final response to the customer within 30 days, Afterpay
+must inform the customer of:
+○ The status of their complaint;
+○ The reason for any delay;
+○ Their right to complain to AFCA; and
+○ The contact details for AFCA.
+It is important to note that the 30 day timeframe does not recommence if Afterpay obtains new information
+from the customer in relation to their complaint.
+Hardship complaints
+For complaints relating to Hardship, they must be treated as “urgentˮ and responded to within 21 calendar
+days (at the latest) after receiving the complaint.
+9
+
+If Afterpay does not have sufficient information about a hardship notice to make a decision, they must
+request the information no later than 21 calendar days after receiving the complaint. The complainant must
+provide the information within 21 calendar days of receiving the request. Once Afterpay has requested
+information, it has a further 21 calendar days to provide a response to the customer. If Afterpay does not
+receive the requested information within 21 calendar days of requesting the information, it has 7 calendar
+days to provide a response to the customer.
+Where an agreement is reached about a hardship notice or request to postpone enforcement proceedings,
+Afterpay will within 30 calendar days, confirm the terms of the arrangement to the customer, in writing.
+Responses - New Zealand
+Written Notifications
+● A formal acknowledgement is required in 1 day and must include:
+○ The customerʼs right to take their complaint to FDRS; and
+○ The contact details of FDRS.
+● A final response letter is required where:
+○ A complaint takes more than 5 business days to resolve (this includes situations where
+Afterpay takes more than 5 business days to resolve the complaint to the full
+satisfaction of the customer);
+○ The complaint relates to hardship; or
+○ The customer has requested a written response.
+● The final response letter must contain details of:
+○ The final outcome of the complaint (including whether have been able to provide the
+customer what they were seeking) and advise that our internal complaints process has
+concluded;
+○ The customerʼs right to take their complaint to FDRS; and
+○ The contact details of FDRS.
+● Further, if Afterpay cannot provide a final response to the customer within 30 days, Afterpay
+must inform the customer of:
+○ The status of their complaint;
+○ The reason for any delay;
+○ Their right to complain to FDRS; and
+○ The contact details for FDRS.
+It is important to note that the 30 day timeframe does not recommence if Afterpay obtains new information
+from the customer in relation to their complaint.
+Hardship complaints
+For complaints relating to Hardship, they must be treated as “urgentˮ and responded to within 21 calendar
+days (at the latest) after receiving the complaint.
+10
+
+If Afterpay does not have sufficient information about a hardship notice to make a decision, they must
+request the information no later than 21 calendar days after receiving the complaint. The complainant must
+provide the information within 21 calendar days of receiving the request. Once Afterpay has requested
+information, it has a further 21 calendar days to provide a response to the customer. If Afterpay does not
+receive the requested information within 21 calendar days of requesting the information, it has 7 calendar
+days to provide a response to the customer.
+Where an agreement is reached about a hardship notice or request to postpone enforcement proceedings,
+Afterpay will within 30 calendar days, confirm the terms of the arrangement to the customer, in writing.
+11

@@ -1,0 +1,463 @@
+Afterpay US Complaint
+Standard
+Afterpay US, Inc.
+August 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbydisclosedindividualswithinAfterpay
+US,Inc.andonaneed-to-knowbasis.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 4
+1.Introduction 5
+2.Purpose 6
+3.Scope 6
+4.StandardRequirements 7
+4.1USConsumerComplaintManagement 7
+4.1.1GeneralPrinciples 7
+4.1.2ComplaintIdentification,Response,andResolution 7
+4.2ComplaintTrackingandLoggingProcess 9
+4.2.1ComplaintTrendReporting 10
+4.2.2ComplaintEscalation 12
+4.2.3RootCauseAnalysis 13
+5.DocumentManagement 14
+5.1DocumentOwner 14
+5.2ReviewandApproval 14
+6.Training 14
+7.MonitoringandReporting 15
+8.Exceptions 15
+9.RecordRetention 15
+10.RelatedDocumentsorReferences 16
+RelatedDocuments 16
+11.RevisionandApprovalHistory 16
+12.DocumentDetails 17
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+RolesandResponsibilities
+Role Responsibility
+AfterpayUS,Inc. The Afterpay US Board is responsible for approving the content of this
+BoardofDirectors Standard and any substantive revisions thereto. Approval of
+(“AfterpayUS non-substantive revisions is the responsibility of Block, Inc.’s Cash App’s
+Board”)
+LendingProductComplianceLead,ortheirdesignee.
+CashAppHeadof Cash App’s Head of Compliance will provide assistance and support in
+Complianceof implementing this Standard across the organization and shall be
+Block,Inc.(“Cash responsible for establishing appropriate practices designed to ensure
+AppHeadof
+that Afterpay US, Inc.’s operationsreflectAfterpayUS,Inc.’scommitment
+Compliance”)
+to compliance and that all employees are aware of that commitment
+andtheirindividualresponsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Standard. Cash App’s Head of
+Compliance may delegate to others the authority to adopt,develop,and
+implementproceduresandreportingthatsupportthisStandard.
+Product The Product Compliance Manager is the designated owner of this
+Compliance Standard and is responsible for: (i) serving as the subject matter expert
+Manager for content relevant to this Standard, (ii) developing the Standard to
+meet regulatory expectations, (iii) ensuring regulatoryrisksareidentified
+in documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Standard updates, (vi)
+conducting periodic review(s) of the Standard, and (vii) delegating and
+overseeingbusinessdocumentationrequirements,asneeded.
+Employees Afterpay US, Inc.’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Standard , (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+LegalCounsel Legal Counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this
+Standard.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+4
+
+Confidential and Not for Distribution
+1. Introduction
+ThisAfterpayUSConsumerComplaintManagementStandard(“Standard”)isestablishedbyAfterpay
+US,Inc.(“Afterpay”or“AfterpayUS”)andisalignedtotheBlockGlobalComplaintPolicy.
+The Block Global Complaint Policy is the complaint policy which governs allAfterpaybusinesslines,
+subsidiaries, and jurisdictions globally. References to “employee” throughout this document shall
+refer to all full-time employees and fixed-term and contingent workers including interns, temps,
+consultants, vendors, third-party providers, and contractors. References to Afterpay Complaints
+Leadership refers to all levels of leadership within Afterpay with direct or indirect responsibility for
+Employeeswhoresolvecomplaints.
+This Standard has been adopted by the Afterpay US Board to govern the complaint management
+program for Afterpay US, Inc., and any subsidiaries thereof, including Afterpay US Services LLC
+(together referred toas“Afterpay”orthe“Company”),aswellasBankPartnerproductsofferedunder
+theAfterpaybrand(“BankPartnerProducts”).
+Global standards for complaint management are governed by the Block Global Complaint Policy
+and the Block Global Complaint Standard. These outline Afterpay’s commitment regarding
+complaint definition, complaint classifications, complaint data elements, reporting, root cause
+analysisandtraining.
+This Afterpay US Complaint Standard outlinesregion-specificrequirementsandexpectationsforthe
+US.
+It is Afterpay’s policy to respond to consumer complaints and disputes from its customers in an
+efficient and timely manner and to take all such complaints seriously regardless of the channel or
+method through which they are received. Responsibility of monitoring and responding to
+complaints under this Standard has been delegated to the Afterpay Global Complaints Leader and
+the Afterpay Global Head of Customer Service with oversight by Senior Management. For the
+purpose of this Standard, Senior Management consists of senior leaders of Counsel, Compliance,
+Product,Marketing,Sales,RiskandCustomerServiceofBlock,Inc.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+5
+
+Confidential and Not for Distribution
+2. Purpose
+TheobjectiveoftheStandardistoensurethatAfterpayUS:
+● Establishesandadherestoaconsistentprocessofhandlingcomplaints;
+● Effectively investigates, addresses, tracks, manages, and responds to consumer
+complaints;
+● Overseesandmonitorscomplainttrendsandidentifiestrainingneeds;and
+● FollowsBankPartnerobligations,asapplicable.
+3. Scope
+ThisStandardappliesto:
+● Afterpay US, Inc. and all subsidiary and affiliate companies, including but not limited to
+AfterpayUSServices,LLC,overwhichitexercisescontrol;
+● All directors, officers and team members of Afterpay US, Inc. and Afterpay US Services,
+LLC;and
+● Team members of other business units within Block, Inc. performing work on the
+productsofferedundertheAfterpaybrand.
+This Standard applies to all complaints (as defined below) related to products offered under the
+Afterpay brand. This includes complaints related to Bank Partner Products that allege that a
+particularact,omission,orpracticeis:
+● Unfairordeceptive;
+● Inviolationoflaw,regulation,orinternalpolicy;or
+● Contrarytospecificoralorwrittenstatementsmadetoacustomer.
+It is every Employee’s responsibility to adheretothisStandard,aswellastheBlockGlobalComplaint
+PolicyandBlockGlobalComplaintStandard.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+6
+
+Confidential and Not for Distribution
+4. Standard Requirements
+4.1 US Consumer Complaint Management
+4.1.1 General Principles
+Afterpay receivesconsumercomplaintsandfeedbackfromvarioussourcesandinvariousformswith
+respect to its services. AfterpayUSpromptlyandeffectivelyaddressesconsumercomplaintsfromits
+customers to ensure that consumers are treated fairly, respectfully, and consistently. Consumer
+complaints may also assist Afterpay US in detecting violations of applicable law including, but not
+limitedto,Unfair,Deceptive,orAbusiveActsandPractices(“UDAAP”),FairLendingobligationsunder
+theEqualCreditOpportunityAct(“ECOA”),andtheElectronicFundsTransferAct(“EFTA”)intheUS.
+ComplaintsmayassistAfterpayUSindetectingviolationsofapplicablelawincluding,butnotlimited
+to, Federal and State privacy laws (as applicable), consumer protection laws (as applicable).
+Consumer complaints may additionally assist Afterpay US in detecting potential violations of
+statutes, rules, guidance, and principles set forth by relevant agencies,suchastheUSstatefinancial
+regulators, the Federal Trade Commission (“FTC”), and the Consumer Financial Protection Bureau
+(“CFPB”).
+4.1.2 Complaint Identification, Response, and Resolution
+AfterpayUSmayreceiveconsumercomplaintsfromvarioussourcesincluding:
+● Consumers who contact Afterpay US directly via email, social media, written
+correspondenceoranyotherintakechannelmanagedbyAfterpayUS;
+● ConsumerswhocontactAfterpayUSviaaregulatororotherthird-party;and
+● ConsumerswhocontactAfterpayUSthroughanAfterpay-partneredmerchant.
+A complaint is defined as an expression of dissatisfaction, regardless of validity, made by an
+individual,businessentityorsomeoneauthorizedtoactontheirbehalf,withanAfterpayUSproduct,
+process, service, decision, vendor or interaction in which a response or resolution is explicitly or
+implicitly requested. Complaints may also include allegations thatAfterpayUSengagedinwrongful
+orsuspiciousconduct.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+7
+
+Confidential and Not for Distribution
+Acomplaintdoesnotinclude:
+● An expression of dissatisfactionwithrespecttomattersotherthanAfterpayUS’sproducts
+orservices;or
+● A dispute, defined as chargebacksorallegationsofanunauthorizedtransaction.Disputes
+are handled by specialized teams at Afterpay US and not via the complaint process. A
+dispute is a complaint only where the customer expresses dissatisfaction about the
+disputeprocessitselfortheemployeeshandlingthedispute.
+Afterpay US Leadership has protocols and procedures designed to ensure the detection and
+appropriateresolutionofsuchcomplaints.
+All consumer complaints received by Afterpay US will be directed to a trained customer service
+representative for resolution and response. Afterpay US aims to acknowledge receipt of all
+complaints within 5 business days and resolve all complaints within 15 business days(or21calendar
+days). If unable to resolve the complaint withintheServiceLevelAgreement(“SLA”),AfterpayUSwill
+notify the customer of the delay as well as an indication of when to expect a resolution of the
+complaint(s). In the event of an anonymous complaint, Afterpay US shall take reasonable steps to
+identifyandresolvethecomplaintbasedoninformationavailabletoit.
+External consumer agency andregulatorcomplaintswilladheretoSLAexpectationssetforthbythe
+relevantagencyorregulator.
+Afterpay US’s Bank Partner may receive agency complaints directly in relation to the Bank Partner
+Products. Where such complaints are sent by the Bank Partner to Afterpay US, Afterpay US will
+provide a draft response and any necessary supporting documentation to the Bank Partner within
+thespecifieddeadline.
+The appropriate personnel willbechargedwithinvestigatingandaddressingeachcomplaintaswell
+as providing responses to customers and regulators as appropriate pursuant to Afterpay’s
+established procedures. Afterpay US Complaints Leadership will be responsible for management of
+and/or overseeing this process, in line with roles and responsibilities outlined in procedures. This
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+8
+
+Confidential and Not for Distribution
+includes appropriate escalation and trackingasaddressedbelow.Allcomplaintsmustberesponded
+to promptly, considering the severity of the complaint and the extent of investigation required to
+provideasufficientresponse.
+4.2 Complaint Tracking and Logging Process
+It is Afterpay US’s policy toreview,addressandrespondtoeachcomplaintappropriatelyconsidering
+the complexity and urgency of each complaint. In order to ensure compliance with that objective,
+Afterpay US will implement a tracking and monitoring Standard designed to capture each
+complaint,theresolutionofeachcomplaintandthetimerequiredforresolutionofeachcomplaint.
+Afterpay US would be expected to provide, upon request to the Global Complaints Leader, a
+ComplaintLog.TheComplaintLogwillcontain,ataminimum,thefollowing:
+● Highleveldescriptionorcategorizationofeachconsumercomplaintreceived;
+● Thecurrentstatusoftheconsumercomplaint;
+● The severity of the consumer complaint, which shall consist, at a minimum, of a tier
+designation(Tier1,Tier2,Tier3);
+● If resolved, high level description or categorization of the resolution of each consumer
+complaintreceived(minimumrequirementforTier1andTier2complaints);
+● For each resolved complaint, sufficient information to determine the number of days
+requiredforresolution;
+● Thedatethecomplaintwasreceived,acknowledgedandresolved;
+● Rootcausecategory;
+● EscalatedtoLegal/Complianceandevidenceofthatescalation;and
+● IntakeChannel.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+9
+
+Confidential and Not for Distribution
+Complaints will be classified in Tiers, in alignment with the Block Global Complaint Standard
+document,asfollows:
+ComplaintTier Description
+● SourceofthecomplaintorcorrespondenceisaGovernment
+Official,GovernmentAttorney,orAttorneyrepresenting
+customer
+● SourceofthecomplaintisaRegulator,ComplaintAuthority,or
+ConsumerAdvocacyAgency
+● Complaintsenttothelegalentityforthebusinessunit,board
+Tier1 member,CEO/Executive,orSeniorLeader
+(HighRisk) ● Complaintallegesviolationoflaworregulation,including
+privacyviolations
+● ComplaintallegesIPinfringement
+● ComplaintallegesUnfairTreatment(thisincludesallegations
+ofdiscrimination,UDAAPandFairLending)
+● Complaintpresentsareputational,systematicrisk,highrisk,or
+highlycomplexissuerequiringspecializedreview1
+● Complaintisareopenedcomplaint(sameorrelatedissuetoa
+Tier2
+priorcomplaint)
+(MediumRisk)
+● Complaintsescalatedtoasuperior
+● Complaintsthatdonotrequireescalationorspecialized
+Tier3
+(LowRisk) supporttoclose
+4.2.1 Complaint Trend Reporting
+Complaint trend reporting is an important tool to understand the health of Afterpay US’s business,
+the strength of its compliance standards, and to identify opportunities to better serve consumers
+andmaintaincompliancewithapplicablelaw.AfterpayUSComplaintsLeadershipwill:
+● Review complaint trends and volumesonadailybasisandescalatetotheBlock’sHeadof
+CustomerServiceorGlobalComplaintsLeaderasappropriate;
+1 Specialized Review within the context of the Standard will be applicable to complaints in which an
+escalated support or specialized knowledge (Legal,Compliance,Risk)isrequiredtoproperlyrespondto
+orresolvethecomplaint.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+10
+
+Confidential and Not for Distribution
+● TheGlobalComplaintsLeaderwillprovideamonthlycomplaintreportonvolumes,trends
+and insights to Afterpay US leadership, including business partnersinLegal,Compliance,
+and Product. The reportwillprovidetheminimumdataelementsasoutlinedintheBlock
+ComplaintStandard.
+● The Global Complaints Leader will prepare and review trend analysis and report on such
+trends to the North America Complaint Committee. At a minimum, Afterpay US’s Global
+Complaints Leader will prepare a trend analysis quarterly for review by senior
+management.Thereportwill,ataminimum,containthefollowinginformationanddata:
+○ Top complaint trends for the covered period and relative changes in those trends
+ascomparedtopriorperiods;
+○ Any changes in relative complaint volumes over time as a percentage of active
+consumers;and
+○ Any product or technological issues or challenges that need to be addressed in
+ordertomitigatekeycomplainttrends.
+● Prepare, review, and distribute to senior management such other reports as may be
+requestedfromtimetotime;and
+● The Global Complaints Leader will be the point of contact for Afterpay US with regard to
+sourcing complaint volumes and supporting commentary for the following operating
+rhythms:
+○ BlockquarterlyBoardreport,
+○ AfterpayUSquarterlyBoardreport,and
+○ Square Capital quarterly Board of Managers report, as applicable to Afterpay US
+productsutilizingSquareCapitallicensesonly.
+Senior Compliance management will report on an annual basis to the Afterpay US Board with
+respectto:
+● Complainttrendsandvolumes;
+● Keycategoriesofcomplaints;and
+● Recommendations for remedial action based on complaint trends and a summary of
+remedialactiondirectedbyseniormanagement.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+11
+
+Confidential and Not for Distribution
+4.2.2 Complaint Escalation
+Timely and effective complaint escalation is important to ensure appropriate detection and
+resolution ofsignificantissuesincludingallegationsofviolationoflaw,discrimination,orotherunfair,
+deceptive, or abusive consumer treatment. Minimum escalation triggers have been established.
+Where a customer service team member is unable to resolve a consumer complaint, the matter is
+escalated to their Team Leader who may then escalate to Complaint leadership (Operations
+Manager,RegionalLeader,GlobalComplaintsLeader).
+All complaint responses for complaints filed with the CFPB, Attorney General or State Regulatory
+AgenciesmustbereviewedbyCompliancebeforesendingtotheregulatorand/orcustomer.
+DutiesOwedtoBankPartner
+For some types of complaints, Afterpay US owes a duty to the Bank Partner to share certain
+information regarding the complaint in relation to BankPartnerProducts.Specifically,thescenarios
+inwhichrequireBankPartnernotificationregardingacomplaintincludes:
+● Complaintsthatthreatenmateriallitigation;or
+● Regulatory action or material reputational damage received by or referencing senior
+management by name or title of any party related to the Bank Partner Products
+Standard.
+Theinformationthatmustbesharedunderoneofthesescenariosincludes:
+● Acopyofthecomplaint;and
+● Theresolutionandresponsesenttothecustomer.
+Afterpay US must notifyBankPartnerswithin5businessdaysofthereceiptofsuchcomplaints,orin
+the event requested by Bank Partner, within 5 businessdaysoftheBankPartner’srequest.Afterpay
+US will seek approval of these complaint responses by Compliance, who recommends where Legal
+involvement should occur. Afterpay shall cooperate in good faith and provide such assistance, at
+Bank Partner’s request, to permit Bank Partner to promptly resolve or address any complaint
+directedagainsttheBank.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+12
+
+Confidential and Not for Distribution
+The Bank Partner must receive consumer complaints reporting in relation to the Bank Partner
+productsbythe15thofeachmonthwiththefollowinginformation:
+● Complaintlog;
+● Rootcauseanalysisofcomplaints;
+● Trendinganalysisofcomplaints;and
+● Reasonforcomplaints.
+Supplementaldata/reporting(ifany)istobeprovidedtotheBankPartnerby25thofeachmonth.
+IllegalActivityComplaints
+Should a complaint include any allegations of fraudulent, illegal or criminal conduct, the team
+member is to refer the complaint to the relevant team for investigation. That team engages with
+Compliance and/or Legal Team as required, and files a Suspicious Activity Report on the same day
+theaccount/transactionisconfirmedasfraudulent.
+4.2.3 Root Cause Analysis
+Consumer complaints resulting from systemic issues may impact additional consumers who have
+not made complaints to Afterpay US. Similarly, complaints may reoccur if the underlying cause of
+those complaints is not addressed and remedied. Afterpay US is committed to conducting a root
+cause analysis with respect to consumercomplaintsonaquarterlybasisandjustifiedbytheseverity
+and/or volume of any such complaints. The root cause analysis will be used todeterminewhethera
+justifiable change to Afterpay US’s product, technology, policies or procedures could be reasonably
+expected to mitigate the occurrence of the circumstances leading to such complaints. Where an
+underlying issue is identified that causes material harm to additional consumers, Afterpay is
+committed to taking appropriate remedial actionregardlessofwhetherthoseadditionalconsumers
+havemadeacomplainttoAfterpayUS.
+The Global Complaints Leader, Global Head of Customer Service, Legal and Compliance teams, and
+senior management shall be empowered to request or conduct root cause analysis where deemed
+appropriate in the reasonable discretion of the head of each group or any member of senior
+management.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+13
+
+Confidential and Not for Distribution
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheLendingProductComplianceManager.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordancewiththeComplianceDocumentApprovalMatrix.
+6. Training
+Complainttrainingisrequiredto:
+● Be provided to all Employees that may correspond or interact with potential, current, or
+past customers. New hires need to receiveaminimumlevelofcomplainttrainingpriorto
+interactingwithcustomers;
+● Include information on how complaints may be received, the product and service
+offerings, internal policies and procedures, and other relevant information that is specific
+totheorganization’sprocesses;
+● Betailoredtoensureitisspecifictothebusinessprocessesandrisk;and
+● Adviseoftheescalationprocesstotheappropriatedepartment.
+Appropriate team members (including employees of vendorsprovidingkeyservicesforAfterpayUS)
+will receive training on complaint management and escalation procedures within 30 days of
+onboardingandthereafteronanannualbasis.
+Topicsthatshouldbeconsideredincomplainttrainingincludebutarenotlimitedtothefollowing:
+● Definitionofacomplaintvs.inquiry;
+● Processtotrackandrecordcomplaints;
+● Responsibilitiesregardingrespondingtocomplaints;
+● Timingrequirementsforrespondingtocomplaints;
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+14
+
+Confidential and Not for Distribution
+● Flagging and escalating complaints that raise legal issues involving potential customer
+harm,UDAP/UDAAPdiscrimination,orotherregulatoryandcomplianceissues;
+● Categorizationforcomplaints;
+● Channelsofcomplaints;and
+● Escalationprocess.
+7. Monitoring and Reporting
+On an ongoing basis, the Document Owner and/or their designee will monitor Standard related
+activities to evaluate adherence to the Standard and determine whether outputs adhere to
+establishedobjectives.
+8. Exceptions
+Exceptionstothisdocumentmustbepre-approvedbytheDocumentOwner.TheDocumentOwner
+or designee will have authority to approve exceptions and/or exemptions to thisStandard.Standard
+exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls the Company will implement to mitigate risks associated with the
+exception.Anyapprovedexceptionsmustbedocumentedinwritingandretainedwithinestablished
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Document Owner and/or designee will inform
+ComplianceLeadershipandapplicablecommittees,asneeded,ofexceptions.
+9. Record Retention
+It is Afterpay US’spolicytoensureallcomplaintsanddatapertainingtocomplaintsareretainedfora
+sufficient period of time to satisfy compliance requirements under all applicable state and federal
+laws and regulations, including but notlimitedto,ECOAandRegulationB.Accordingly,itisAfterpay
+US’s policy that, unless otherwise directed by Afterpay US’s Legal and Compliance teams, all
+complaint logs and associated data must be retained for a minimum of seven (7)years.Complaints
+areretainedinAfterpayUS’scustomerservicesoftwareandarecategorizedaccordingly.
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+15
+
+Confidential and Not for Distribution
+10. Related Documents or References
+Related Documents
+RelatedPolicy BlockGlobalComplaintPolicy
+RelatedStandard BlockGlobalComplaintStandard
+11. Revision and Approval History
+StakeholderReviewTracking
+Approver TeamRepresented StakeholderStatus Date
+Ramona Andrews CustomerOperations Reviewed/Appro… Aug 6, 2024
+Michelle Washingt… Complaints Reviewed/Appro… Aug 6, 2024
+Governance
+Brian Kollmeyer ConsumerProtection Reviewed/Appro… Aug 22, 2024
+Judy Liao ProductCounsel Reviewed/Appro… Aug 19, 2024
+Robert Graham LendRegCounsel Reviewed/Appro… Aug 22, 2024
+Corey Chamberlain ProductCompliance Reviewed/Appro… Aug 26, 2024
+Lead
+ApprovalHistory
+Approver Title Type Description Date
+Corey Chamb… LendingProduct New Docu… Develop Aug 26, 2024
+Compliance Standardtoalign
+Lead withthe
+updatedBlock
+Global
+ComplaintPolicy
+andStandard,
+alignmentwith
+BankPartner
+requirements,
+anddescope
+AfterpayCanada.
+AfterpayBoard AfterpayBoard Initial Appro… Initialapprovalof Sep 11, 2024
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+16
+
+Confidential and Not for Distribution
+policy
+12. Document Details
+Business AfterpayUS,Inc.
+Scope Regional
+ComplianceDomain Compliance Governance
+DocumentOwner ProductComplianceManager
+LastApprovalDate Aug 11, 2024
+EffectiveDate Sep 11, 2024
+ApprovedBy LendingProductComplianceLead
+DocumentReviewSchedule Annually
+AfterpayUSComplaintStandard|AfterpayUS,Inc.
+17

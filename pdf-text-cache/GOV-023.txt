@@ -1,0 +1,546 @@
+Compliance Management
+System CMS Policy
+コンプライアンスマネジメントシステム
+ポリシー
+CMS Policy
+Square | Square K.K.
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Kabushiki Kaisha and on a need-to-know basis.
+社外秘
+この文書は機密情報であり、Square株式会社の社員及びその他必要な権限を持つ者以外の閲覧は禁じる。
+Compliance Management System CMS Policy | Square | Square K.K.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Roles and Responsibilities 4
+1. Introduction 6
+2. Purpose 7
+3. Scope 8
+4. Policy Requirements 8
+4.1 Responsibility of CCO and JP Compliance Team 8
+4.2 The Compliance Management System 10
+4.2.1 Board Oversight and Reporting 10
+4.2.2 Policies, Standards, and Procedures 11
+4.2.3 Response to Regulatory Changes 11
+4.2.4 Compliance Operations 12
+4.2.5 Support for Risk Assessment 13
+4.2.6 Compliance Training 14
+4.2.7 Monitoring and Testing 14
+4.2.8 Audit Support 15
+4.2.9 Issue Management 16
+4.3 Other Compliance Support 17
+4.3.1 Complaint Management 17
+4.3.2 Third Party Risk Management 17
+5. Document Management 18
+5.1 Document Owner 18
+5.2 Review and Approval 18
+6. Exceptions 19
+7. Record Retention 19
+8. Related Documentation 19
+9. Revision and Approval History 20
+10. Document Details 20
+Compliance Management System CMS Policy | Square | Square K.K.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Compliance The CMS described in this Policy is a comprehensive, organization-wide
+Management framework that integrates policies, procedures, and controls to ensure
+System Square K.K.ʼs business complies with applicable laws, regulations, and
+(“CMSˮ) industry standards. It establishes roles and responsibilities, supports risk
+identification and mitigation, and enables ongoing monitoring and timely
+remediation of compliance issues.
+Issue An Issue is defined as a deficiency gap, or weakness in the design,
+performance, or operating effectiveness.
+Employee All executives, employees and fixed-term and contingent workers who
+support the operations of Square K.K., and include interns, temporary
+workers, and contractors
+Blockʼs Senior Block Inc.ʼs Senior Compliance Managements oversee and govern Square
+Compliance
+K.K.ʼs Compliance Management System by reviewing regular reports from
+Managements
+the JP CCO on policy updates, risk assessments, monitoring and audit
+findings, corrective actions, and training status. By coordinating
+cross-functional responses to regulatory changes and providing strategic
+guidance, they sustain consistent adherence to legal requirements and
+mitigate compliance risks across Blockʼs businesses.
+Roles and Responsibilities
+Role Responsibility
+Board of Directors The Board of Directors of Square K.K. (“Boardˮ) has ultimate responsibility
+(“Boardˮ) for this Policy and Square K.K. 's compliance efforts. The Board is
+responsible for appointing a Chief Compliance Officer, reviewing and
+approving this Policy and adjacent policies/programs, understanding material
+Compliance Management System CMS Policy | Square | Square K.K.
+4
+
+Confidential and Not for Distribution
+compliance risks to which the Company is exposed; and ensuring that the
+compliance function has the necessary resources to appropriately manage
+compliance risks related to Square K.K.
+Employees All employees of Square K.K. are responsible for conducting the company's
+operations in a manner that ensures compliance with relevant laws,
+regulations, and internal policies. Employees must adhere to the internal
+instructions issued by the JP CCO and follow the guidance provided by the
+JP Compliance Team. This includes participating in training sessions, staying
+informed about their compliance obligations, and actively supporting the
+organization's commitment to integrity and ethical standards.
+Japan Chief Japan Chief Compliance Officer (“JP CCOˮ) is responsible for ensuring that
+Compliance Officer Square K.K. complies with all relevant regulatory requirements of its payment
+(“JP CCOˮ) business. As the primary compliance leader, the JP CCO oversees
+comprehensive compliance activities at Square K.K. The JP CCO regularly, or
+as needed, reports to the Board members on the Square K.K's compliance
+status and advises on risk mitigation strategies. Collaborating with various
+departments, the JP CCO fosters a culture of compliance and ethical
+conduct within the organization.
+Japan (“JPˮ) JP Compliance Team is responsible for centrally managing and coordinating
+Compliance Team all compliance-related activities within Square K.K. The team also works
+closely with the JP CCO to identify and mitigate compliance risks, and
+supports the organization in maintaining a culture of integrity and ethical
+conduct.
+JP Legal Team The Square K.K. 's legal team provides interpretative advice, conducts
+regulatory management and counsel regarding the applicability and
+application of the requirements of this Policy to the Companyʼs business and
+operational activities. JP Legal team works together with JP Policy team to
+identify, monitor and track material Japanese regulatory changes to keep
+Square K.K. prepared.
+Compliance Management System CMS Policy | Square | Square K.K.
+5
+
+Confidential and Not for Distribution
+1. Introduction
+Square Kabushiki Kaisha (“Square K.K.ˮ or “Companyˮ) is a Payment Service Provider (“PSPˮ) in Japan
+that is not at this point directly regulated or supervised by any authorities in Japan. However, as a
+company that partners with international credit card brands, card issuers, QR-code money transfers, and
+acquirers, Square K.K. is responsible for satisfying various regulations and guidelines that must be
+adhered to. The parent company of Square K.K. is Block, Inc. (“Blockˮ), a merchant services aggregator
+and mobile payments company based in Oakland, California, USA. Block is registered as a Money Services
+Business with the Financial Crimes Enforcement Network (“FinCENˮ).
+Compliance is critical for Square K.K. as it ensures the company can sustain its vital partnerships and
+function effectively within the payment services industry. By adhering to relevant regulations and
+guidelines, Square K.K. mitigates the risk of liabilities occurring when operating in Japan. Furthermore, a
+robust compliance framework fosters trust and credibility with customers and partners, enhancing the
+company's reputation. Compliance also ensures that Square K.K. aligns with the strategic objectives of its
+parent company, Block, promoting consistent and reliable operations across various markets.
+This Compliance Management System (“CMSˮ) Policy (“Policyˮ) specifically addresses financial
+regulatory compliance, focusing on adhering to the standards and requirements set by local and foreign
+financial authorities and industry bodies. The CMS Policy of Square K.K. demonstrates the commitment of
+the JP CCO and compliance team to implementing and maintaining effective compliance management to
+meet the expected compliance standards. This commitment helps maintain strong relationships with
+partners and customers and supports the Companyʼs goal of providing reliable and innovative payment
+services.
+1. はじめに
+Square株式会社（以下、「Square K.K.」または「当社」という。）は、日本における決済サービスプロバイダー（以下、「PSP」
+という。）であり、現時点では日本の当局による直接の規制や監督を受けていません。しかし、各国際カードブランド、カード発
+行会社、QRコードを利用した資金移動業者、アクワイアラーと提携する企業として、Square K.K.は遵守すべきさまざまな規
+制やガイドラインを満たす責任があります。また、当社の親会社は、カリフォルニア州オークランドに本社を置くマーチャント
+サービスアグリゲーターおよびモバイル決済会社であるBlock, Inc.（以下、「Block」という。）であり、金融犯罪取締ネット
+ワーク（FinCEN）にマネーサービスビジネスとして登録されています。
+Compliance Management System CMS Policy | Square | Square K.K.
+6
+
+Confidential and Not for Distribution
+コンプライアンスの維持は、Square K.K.にとって重要です。なぜなら、それが当社の重要なパートナーシップを維持し、決
+済サービス業界内で効果的に機能することを保証するからです。関連する規制やガイドラインを遵守することで、Square
+K.K.は日本で運営することで生じる様々な責任のリスクを軽減します。さらに、堅牢なコンプライアンスフレームワークは、顧
+客やパートナーとの信頼と信用を築き、当社の評判を高めます。コンプライアンスは、親会社であるBlockの戦略的目標と一
+致し、さまざまな市場での一貫した信頼性のある運営を促進します。
+このコンプライアンス管理システム（以下、「CMS」という。）ポリシー（以下、「当ポリシー」という。）は、特に金融規制コンプラ
+イアンスに焦点を当てており、国内外の金融当局および業界団体が定めた基準と要件を遵守することに重点を置いていま
+す。当ポリシーは、当社に期待されるコンプライアンス基準を満たすために、Square K.K.のチーフコンプライアンスオフィ
+サー（以下、「JP CCO」という。）およびコンプライアンスチーム（以下、「JP Compliance Team」という。）が効果的なコン
+プライアンス管理を実施および維持することへのコミットメントを示しています。このコミットメントは、パートナーや顧客との強
+力な関係を維持し、信頼性が高く革新的な決済サービスを提供するという当社の目標をサポートします。
+2. Purpose
+This Policy establishes the framework within which Square K.K. effectively implements a set of compliance
+activities as part of its CMS. The Board recognizes that maintaining an effective CMS is crucial for
+mitigating risks arising from legal and regulatory violations, as well as preventing potential harm to
+customers and partners. It is also essential for sustaining a high level of public confidence in Square K.K.'s
+safe and sound operating practices. Square K.K. achieves this by integrating a robust compliance
+structure into daily operations, ensuring that the Company promptly identifies issues and initiates
+appropriate and timely remediation actions.
+2. 目的
+当ポリシーは、Square K.K.が、一連のコンプライアンス活動を効果的に実施するための枠組みとして、CMSを定めていま
+す。取締役会は、効果的なCMSを維持することが、法令違反から生じるリスクを軽減し、顧客やパートナーへの潜在的な被
+害を防ぐために重要であり、Square K.K.の安全で健全なオペレーションに対する高い信頼を維持するために必要であると
+認識しています。Square K.K.は、堅牢なコンプライアンスの枠組みを当社の業務に統合することで、問題を迅速に特定し、
+適切かつ迅速な是正措置を講じる態勢の確立を達成します。
+Compliance Management System CMS Policy | Square | Square K.K.
+7
+
+Confidential and Not for Distribution
+3. Scope
+This Policy is applicable to the Square K.K. and its Employees.
+3. 対象
+当ポリシーは、当社及び当社の従業員にのみ適用されます。
+4. Policy Requirements
+4.1 Responsibility of CCO and JP Compliance Team
+Square K.K. requires its CMS to be tailored to the organization's structure, business strategy, operational
+complexity, product and service diversity, market circumstances, regulatory environment, and risk profile.
+Since these essential criteria are dynamic, the Board and the JP CCO must review and revise the CMS but
+also, where appropriate, broader aspects of the compliance framework, as necessary to respond to
+changes.
+Currently, the responsibilities of the JP CCO and the JP Compliance Team, as defined within Square K.K.'s
+CMS, are as follows:
+● Define roles and responsibilities for regulatory compliance activities covered by Square
+K.K.ʼs CMS;
+● Create and maintain the necessary policies, programs, and procedures to ensure
+compliance with applicable laws and regulations;
+● Monitor regulatory trends applicable to Square K.K. and revise policies, programs, and
+procedures as needed to maintain internal compliance systems;
+● Monitor compliance status within Square K.K.'s operations to ensure consistent and
+ongoing compliance;
+● Provide necessary compliance insights for business reviews and other considerations;
+● Support initiatives to evaluate inherent risks, controls, and residual risks, and consider
+necessary responses to identified risks;
+● Develop monitoring programs and audit requirements to identify operational and
+programmatic deficiencies, and support the implementation of these monitoring and audit
+activities;
+Compliance Management System CMS Policy | Square | Square K.K.
+8
+
+Confidential and Not for Distribution
+● Correct identified deficiencies (including those noted in monitoring and audits) and
+establish improvement management mechanisms;
+● Set training requirements and create necessary training content for all Employees and
+Board members, and ensure participation;
+● Report necessary compliance maintenance information to internal and external
+stakeholders;and
+● Document approvals of policies and programs as evidence of compliance.
+4. CMSの要件
+4.1 CCOおよびJP Compliance Teamの責任
+当社のコンプライアンス管理態勢は、組織構造、ビジネス戦略、運営の複雑さ、サービス・製品の多様性、市場状況、規制環
+境、およびリスクプロファイルに合わせて調整する必要があります。これらの重要な基準は全て変化するものであり、取締役
+会及びJP CCOは、当ポリシーに定める事項及びこれに限らず、コンプライアンス態勢を変化に応じ見直さなくてはなりませ
+ん。
+現時点で、当社のCMSに定められ、CCO及びJP Complaince Teamの所掌は以下の通りとします。
+● 当社のCMSが対象とする法令遵守活動の役割と責任を定義すること
+● 必要なポリシー、プログラム、担当者手引書（プロシージャー）を作成するとともに、当社が適用される法律
+や規制の遵守という目標を達成すること
+● Square K.K.に適用される規制の動向を注視し、必要に応じてポリシー、プログラム、手引書の改訂を行
+い、社内の法令遵守態勢を維持すること
+● 当社の事業における法令遵守状況を監視し、一貫した継続的なコンプライアンスの維持を実行すること
+● 当社の事業検討等にあたって、必要なコンプライアンス上の知見を提供すること
+● 当社の固有リスク、コントロール、および残存リスクを評価するための取組みをサポートし、把握されたリス
+クについて必要な対応を検討すること
+● 運用上およびプログラム上の不備を特定するためのモニタリングプログラムおよび監査要件を作成し、そ
+のモニタリングや監査の実施を支援すること
+● 発見された不備（モニタリングや監査で指摘されたものを含む）の是正を行うとともに、改善管理の仕組み
+を確立すること
+● 取締役及び全従業員のための研修要件を設定し、必要な研修コンテンツを作成し、受講させること
+● 内部および外部の利害関係者に対してコンプライアンス維持のために必要な報告を行うこと
+● その他、当社及びBlock incのコンプライアンスの維持に必要と判断されること
+Compliance Management System CMS Policy | Square | Square K.K.
+9
+
+Confidential and Not for Distribution
+4.2 The Compliance Management System
+4.2.1 Board Oversight and Reporting
+The JP CCO , as the ultimate responsible person for the compliance operation of Square K.K. shall report
+the following items to the Board and the Senior Compliance Managements of Block on a quarterly or
+annual basis with support from other relevant global functions:
+● The status of compliance maintenance at Square K.K. for the relevant period/year;
+● Revisions and approvals of compliance policies and key programs;
+● Results of risk assessments;
+● Results of monitoring and audits conducted on business, and the status of corrective actions
+for identified deficiencies;
+● Implementation and attendance status of training; and
+● Other matters deemed necessary for maintaining compliance at Square K.K. and Block.
+Additionally, if any compliance-related incident which may have a material negative impact, such as a
+misconduct and violation of laws and regulations, is discovered, the JP CCO must report it promptly to the
+Board and the Senior Compliance Management of Block without waiting for the next board meeting.
+4.2 コンプライアンス管理システム
+4.2.1 取締役会の監督と報告
+JP CCOは、当社のCMSの運用にかかる最終責任者として、以下に挙げる項目を四半期または一年毎に取締役会および
+Blockのコンプライアンス担当上級管理職に報告するものとします。
+● 該当期/年の当社のコンプライアンスの維持状況
+● コンプライアンスポリシー、及び重要なプログラムの改訂と承認;
+● 当社のリスク評価の結果;
+● 当社のビジネスに対して実施されたモニタリングおよび監査の結果と発見された不備の是正状況
+● 研修の実施と受講状況
+● その他、当社及びBlockのコンプライアンスの維持に必要と判断されること;
+Compliance Management System CMS Policy | Square | Square K.K.
+10
+
+Confidential and Not for Distribution
+またこれとは別に、重大な影響をもたらす法令違反などの不祥事件が発覚した場合などについては、JP CCOは取締役会
+の開催を待たず、早急に取締役会およびBlock incのコンプライアンス担当上級管理職に報告する必要があります。
+4.2.2 Policies, Standards, and Procedures
+Square K.K. requires that compliance-related policies, standards, and procedures be documented in
+written form, in sufficient detail to implement compliance requirements, and are formally approved,
+adopted, or recognized. Policies, standards, and procedures are updated periodically by their respective
+owners, and are reviewed and approved as outlined in the Block Compliance Policy on Policies (“PoPˮ), as
+required. All policies and standards are posted in a shared location, as outlined in the PoP.
+4.2.2 ポリシー、基準、および手続き
+当社は、十分に詳細なでコンプライアンス要件に基づく実務を実施できる水準まで、コンプライアンスに関連したポリシー、プ
+ログラム、および担当者手引書を文書化し正式に承認、採用、および周知するものとします。ポリシー、プログラム、および担
+当者手引書は、それぞれの文書管理責任者によって定期的に更新され、BlockのCompliance Policy on Policies（以
+下、「PoP」という。）が求める審査及び承認を受けた上で、指定された場所に掲示されるものとします。全てのポリシーおよび
+基準は、PoPで定義された共通の場所に掲示されます。
+4.2.3 Response to Regulatory Changes
+The JP Legal and JP Policy identify, monitor, and track relevant material regulatory changes that may
+impact Square K.K. products, services, and operations. The JP Legal and JP Policy will conduct an
+applicability analysis for certain regulatory changes and, where necessary, notify key stakeholders, such
+as JP CCO, JP Compliance Team, Product Direct Responsibility Individuals (“DRIsˮ).
+The JP Compliance Team, with the support of cross-functional groups within Block, will request affected
+business teams to identify the impacts of regulatory amendments and formulate plans to address these
+changes. The affected business teams will be responsible for implementing these plans.
+Block Legal, JP CCO and JP Compliance Teams are responsible for reviewing new or materially changed
+business products (namely marketing materials, customer communications, products, or features) to
+determine whether new or updated controls are required, Square K.K. will be responsible for reporting the
+results of their review and validation to Block. The results of reviews and decisions will be documented
+and maintained.
+Compliance Management System CMS Policy | Square | Square K.K.
+11
+
+Confidential and Not for Distribution
+4.2.3 規制変更や新規ビジネスを受けたコンプライアンス対応
+JP LegalおよびJP Policyは協働して、Square K.K.の製品、サービス、および運営に影響を与える可能性のある関連する
+重要な規制の変更を特定、監視、および追跡します。JP LegalおよびJP Policyは規制の変更があった場合、その変更が
+適用されるかを分析し、必要に応じて、JP CCO、JP Compliance Team、プロダクトの責任者（DRIs)などの主要な利害関
+係者に通知します。
+JP Compliance Teamは、Blockの機能横断的なグループの支援を受けて、影響を受けるビジネスチームに規制改正に伴
+う影響の特定と改正に対応するための計画策定を依頼します。影響を受けるビジネスチームは、その計画を実行する責任を
+負います。
+Block LegalおよびJP CCOとJP Complaince TeamはBlockの新規または変更されたプロダクト等（マーケティング資料
+および顧客コミュニケーション、製品または機能を含む）をレビューし、新しいまたは更新されたコントロールが必要かどうかを
+判断する手続きを実施しなくてはならず、これらの審査に関与し検証した結果をBlockに報告する責任を負います。この審査
+及び決定については、その結果について文書化し、保存します。
+4.2.4 Compliance Operations
+JP CCO and JP Compliance Team are responsible for ensuring adherence to relevant regulations, internal
+policies and Terms of Services of Square K.K. services across customer onboarding and transactions. This
+includes activities onboarding processes including Know Your Customer (“KYCˮ) and Know Your Business
+(“KYBˮ) of merchant customers, ongoing due diligence, transaction monitoring, and other
+compliance-related functions.
+The JP CCO and JP Compliance Team collaborates closely with key stakeholders, including the Senior
+Compliance Managements and Compliance Teams of Block. All compliance operations, decisions, and
+reviews are thoroughly documented and maintained to ensure accountability. These operations are
+monitored and reviewed through monitoring, internal audits, and third-party examinations, and
+improvements are made if deficiencies are found, ensuring compliance for Square K.K.
+4.2.4 コンプライアンスオペレーションの実施
+JP CCOおよびJP Compliance Teamは、Square K.K.のサービスにおける顧客のオンボーディングや取引全般に関連す
+る規制、社内規程、および利用規約の遵守を確保する責任があります。これには、顧客のオンボーディングプロセス（顧客確
+認（KYC）および事業者確認（KYB）を含む）、継続的デューデリジェンス、取引モニタリング、その他のコンプライアンス関連
+の活動が含まれます。
+Compliance Management System CMS Policy | Square | Square K.K.
+12
+
+Confidential and Not for Distribution
+JP CCOおよびJP Compliance Teamは、主要なステークホルダー、特にBlockのコンプライアンス担当上級管理職および
+コンプライアンスチームと密接に連携しています。すべてのコンプライアンス業務、決定、およびレビューは、アカウンタビリ
+ティを確保するために文書化され、維持されます。これらの業務は、モニタリング、内部監査、および第三者検査を通じて監
+視およびレビューがなされ、不備がある場合には改善が行われることで、当社.のコンプライアンスが確保されます。
+4.2.5 Support for Risk Assessment
+Block implements risk assessments that is a process for evaluating the compliance risk arising from: (i)
+Square K.K.ʼs operating environments; (ii) the regulatory landscape; (iii) emerging industry and regulatory
+trends; (iv) the Companyʼs size, complexity, and product offerings; and (v) the effectiveness of internal
+controls. These risk assessments assist Square K.K. in identifying additional control needs, prioritizing
+compliance resources, and adjusting the CMS to meet new and emerging risks.
+On an annual basis, the JP CCO is responsible for supporting Blockʼscross-functional groups and
+stakeholders across product, legal, and compliance in conducting the risk assessments of the Company,
+and for reporting the results to the Board. This review process and its outcomes must be documented and
+preserved. The CCO is required to evaluate necessary actions when risk assessments conclude
+inadequate risk controls or insufficient resources to address new risks.
+4.2.5 リスク評価の実施支援
+親会社であるBlockは、(i) Square K.K.の運営環境、 (ii) 規制の状況、 (iii) 新たな業界および規制の傾向、 (iv) 会社の規
+模、複雑さ、および製品提供、 (v) 内部統制の有効性から生じるコンプライアンスリスクを評価するリスク評価を実施します。
+リスク評価を行うことにより、当社は追加のコントロールが必要であるかを特定し、コンプライアンスリソースの優先的な配分
+先を決定し、新たなリスクに対応するためにCMSを調整するものとします。
+JP CCOは、毎年、製品、法務、およびコンプライアンスに関係するBlockの機能横断的なグループやその他関係者が行う
+当社のリスク評価の実施を支援し、結果を取締役会に報告する責任を負います。これらの評価、検討および決定について
+は、文書化し、保存されます。JP CCOはリスクアセスメントの結果、リスクのコントロールが不足していると判断されたとき、
+または新たなリスクに対応するためのリソースが不足していると判断された時は、必要な対応を検討しなければなりません。
+4.2.6 Compliance Training
+Block maintains a Compliance Training Standard & Compliance Training Calendar to detail the Blockʼs
+compliance training strategy and ensure that Employees of Square K.K. are trained on applicable aspects
+Compliance Management System CMS Policy | Square | Square K.K.
+13
+
+Confidential and Not for Distribution
+of laws and regulations relevant to their job function. The JP CCO and JP Compliance Team are
+responsible for considering and supporting the creation of necessary training to ensure compliance with
+Japanese laws and regulations, as well as reviewing the necessity of updates annually. If training needs to
+be provided in Japanese, they will support Block in doing so.
+For more information on this process, refer to Block'sGlobal Compliance Training Program Standard and
+annual Compliance Training Calendar.
+4.2.6 コンプライアンス研修
+Blockは、コンプライアンストレーニング基準およびコンプライアンストレーニングカレンダーを策定し、Square K.K.の社員が
+自分の職務に関連する法律および規制に関する研修をもれなく受講できるようにしています。JP CCOは、当社の取締役会
+およびスタッフが十分な研修を受けられるよう支援します。また、JP CCOとJP Complaince Teamは、日本の法令などの
+遵守のために必要な研修の検討および作成の支援を行うとともに、毎年必要なアップデートの要否を確認します。また、日本
+語でトレーニングの提供が必要な場合は、Blockを支援します。
+このプロセスの詳細は、Blockのグローバルコンプライアンストレーニングプログラム及び毎年のコンプライアンストレーニン
+グカレンダーを参照のこと。
+4.2.7 Monitoring and Testing
+Blockʼs Compliance Team develops a monitoring and testing plan annually based on the size, scale, and
+complexity of Square K.Kʼs operations and business offerings. The monitoring plan reflects the risk profile
+of the Square K.K., including relevant third-party risk, as well as compliance risk impacts from new
+products, regulatory changes, previous testing findings, management action plans and due dates, audit
+coverage areas, and any business partner requests. Corrective action to any noted deficiencies will be
+implemented efficiently and documented accordingly.
+The JP CCO is responsible for supporting Block in ensuring effective monitoring and testing
+implementation, and for reporting the results to the Board. The CCO is required to implement necessary
+actions and monitor the progress when any deficiency and corrective actions are identified withSquare
+K.K. business and compliance operations.
+For more information on this process, please refer to Block'sGlobal Compliance Monitoring and Testing
+Program.
+Compliance Management System CMS Policy | Square | Square K.K.
+14
+
+Confidential and Not for Distribution
+4.2.7 モニタリング支援及び指摘事項の対応
+BlockのCompliance Teamは、会社の運営および事業提供の規模、範囲、複雑さに基づいて、毎年モニタリングおよびテ
+スト計画を策定します。このモニタリング計画は、Square K.K.のリスクプロファイル、関連する第三者のリスク、新製品や規
+制変更によるコンプライアンスリスクの影響、過去のテスト結果、管理アクションプランとその期限、監査対象領域、ビジネス
+パートナーからの要求を反映しています。このプログラムは、規制コンプライアンス要件の遵守を支援し、適用される規制の
+テスト頻度と各事業部門の頻度は、Square K.K.のリスクプロファイルに依存します。指摘された欠陥に対する是正措置は
+効率的に実施され、適切に文書化されます。
+JP CCOは、効果的なモニタリングおよびテストの実施を確保するためにBlockを支援し、その結果を取締役会に報告する
+責任を負います。Square K.K.のビジネスおよびコンプライアンス運営において欠陥や是正措置が指摘された場合、CCOは
+必要な措置を実行し、その進捗を監視する必要があります。
+このプロセスの詳細は、Blockのグローバルコンプライアンス監視およびテストプログラムを参照のこと。
+4.2.8 Audit Support
+Block conducts periodic risk-based independent audits of requirements of each business entity and
+business, including Square K.K. In addition, Square K.K. engages in internal audit and third-party audit to
+facilitate the independent review. The audit scopes may also, as and when appropriate, include
+independent validation of remediation of Issues identified through the audit process.
+The JP CCO is responsible for supporting the audits on Square K.K. 's compliance activities and reporting
+the results of these periodic audits, including updates on Issues validation, to the Board on a periodic
+basis.
+4.2.8 監査対応
+Blockは、各エンティティおよびビジネス部門の要件に関する定期的なリスクベースの独立した監査を実施しま す。Square
+K.K.は、内部監査および第三者監査を通じて独立したレビュー下にあります。監査では適切と判断される場合、その監査を
+通じて特定された課題の是正措置に関する検証も含まれます。
+JP CCOは、Square K.K.のコンプライアンス活動に対して適切な監査が実施できるよう支援し、これらの定期的な監査の結
+果、及び是正措置に関するアップデートを取締役会に定期的に報告する責任を負います。
+Compliance Management System CMS Policy | Square | Square K.K.
+15
+
+Confidential and Not for Distribution
+4.2.9 Issue Management
+Block has developed an Issue Management Program to create a standardized approach to the
+identification, assessment, prioritization, treatment and reporting of issues. This Program is also applicable
+to Square K.K. The JP CCO and JP Compliance Team, as well as all employees at Block, are expected to
+identify and promptly escalate any compliance Issues at Square K.K. to make effective decisions
+concerning risk management. The JP CCO and JP Compliance Team records and tracks the nature of the
+Issues, a description of the plan to resolve the Issues, target dates for implementation, and the status of
+resolution progress.
+For more information on this process, please refer to Block's Issue Management Program.
+4.2.9 不祥事件対応
+Blockは、問題の特定、評価、優先順位付け、処理および報告に関する統一されたアプローチである、イシューマネジメント
+プログラムを作成しています。このプログラムはSquare K.K.にも適用されます。JP CCOおよびJP Compliance Team
+は、Blockの全スタッフと同様、Square K.K.の特にコンプライアンス上の問題を特定し、迅速にエスカレーションすることで、
+リスク管理に関する効果的な意思決定を行うことが期待されています。問題を特定した場合には、JP CCO及びJP
+Compliance Teamは、課題の性質、課題を解決するための計画の説明、実施の目標日、および解決進捗の状況を記録お
+よび追跡します。
+このプロセスの詳細は、Blockのイシューマネジメントプログラムを参照のこと。
+4.3 Other Compliance Support
+4.3.1 Complaint Management
+Block maintains a Global Complaints Policy and the underlying Global Complaints Program (“GCPˮ), which
+are also applicable to Square K.K., that outlines a standardized approach to the identification,
+classification, treatment, and reporting of complaints. The GCP is implemented by the Blockʼs Compliant
+Management team, and business units maintain programs and procedures that align to the GCP.
+For more information on this process, please refer to Block's Global Complaint Policy and Global Complaint
+Program Standard.
+4.3 その他の支援事項
+Compliance Management System CMS Policy | Square | Square K.K.
+16
+
+Confidential and Not for Distribution
+4.3.1 苦情管理
+Block, Inc.は、Square K.K.にも適用されるグローバル苦情ポリシーおよびグローバル苦情プログラム（以下「GCP」という）
+を有しており、苦情の特定、分類、処理、および報告に関するグループ内で標準化されたアプローチを定めています。GCPは
+苦情管理チームによって運用されており、事業部門はGCPに一致するプログラムと手続きを維持しています。
+このプロセスの詳細は、Blockのグローバル苦情管理ポリシーおよびグローバル苦情管理スタンダードを参照のこと。
+4.3.2 Third Party Risk Management
+Block maintains a formal Third Party Risk Management (“TPRMˮ) Policy, which is applicable to Square K.K.
+when Square K.K. makes a relationship with third party vendors. Square K.K. employees who are
+responsible for the third party vendor, shall identify, monitor and control the risks associated with the use
+of third party vendors, supported by the TPRM team. The TPRM Policy outlines processes to perform initial
+due diligence and sets ongoing review based on defined risk tiers.
+JP CCO and JP Compliance team are responsible for supporting the due diligence as a Risk Subject Matter
+Expert (“Risk SMEˮ) and provide expertise in compliance under Japanese regulations.
+For more information on this process, please refer to Block's Global Third Party Risk Management Policy
+and Square K.K.ʼs Outsourcing Policy.
+4.3.2 外部委託管理
+Blockは、第三者ベンダーとの関係に適用される正式なサードパーティリスクマネジメント（以下「TPRM」という。）ポリシーを
+策定しています。このポリシーは、Square K.K.にも適用されます。Square K.K.で外部委託先ベンダーを管理する責任を持
+つ従業員は、TPRMチームのサポートを受けて、関連するリスクを特定、監視、管理しなければなりません。TPRMポリシー
+には、採用時のデューデリジェンスを行うためのプロセスが記載されており、定義されたリスクに基づいて継続的なレビュー
+が設定されています。
+JP CCOおよびJP Compliance Teamは、一リスク担当者（Risk SME）としてオンボーディング時のデューデリジェンスを
+サポートし、日本の規制に関するコンプライアンスの専門知識を提供する責任を負っています。
+このプロセスの詳細は、Blockのグローバルサードバーティリスクマネジメントポリシーを参照のこと。
+Compliance Management System CMS Policy | Square | Square K.K.
+17
+
+Confidential and Not for Distribution
+5. Document Management
+5.1 Document Owner
+This document is owned by the JP CCO.
+5. 文書管理
+5.1 文書所有者
+当ポリシーは、Square K.K.のCCOが所管します。
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis. Any amendments
+or abolitions of this regulation shall require approval from the Board. However, minor revisions may be
+made with the approval of JP CCO.
+5.2 審査と承認
+当ポリシーは、少なくとも年に1回、および必要に応じて見直しを行わなくてはなりません。本規程の改廃は、取締役会の決裁
+を得るものとする。ただし、軽易な改訂についてはJP CCOの承認を得て行うものとします。
+6. Exceptions
+The Board and/or Blockʼs Senior Compliance Management related to the operation of the Square K.K.
+compliance activities have authority to approve exceptions and/or exemptions to this Policy, provided that
+the proposed exception or exemption does not violate applicable laws and regulations. Policy exception
+requests must be documented in writing, include a reason for a request, and provide a description of the
+controls that Square K.K. will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements.
+6.例外の承認
+取締役会およびBlock incのコンプライアンス担当上級管理職は、適用される法律および規制に違反しない限り、当ポリシー
+に対する例外および/または免除を承認する権限を有します。当ポリシーの例外承認要求については書面で文書化され、要
+求の理由を含め、例外に関連するリスクを軽減するために会社が実施するコントロールの説明を提供する必要があります。
+承認結果はすべて書面で保管し、記録保持要件に沿って保管される必要があります。
+Compliance Management System CMS Policy | Square | Square K.K.
+18
+
+Confidential and Not for Distribution
+7. Record Retention
+Square K.K. maintains Records of this Policy in accordance with Blockʼs document retention guidelines.
+7.記録の保存
+当社は、Blockの文書保存ガイドラインに従って、当ポリシーの記録を適切に保管します。
+8. Related Documentation
+Related Policy Global Complaint Policy
+Related Policy Global Third Party Risk Management Policy
+Related Policy Square K.K. Outsourcing Policy
+Related Program Global Compliance Monitoring and Testing Program
+Related Program Global Complaint Program
+Related Program Issue Management Program
+Related Program Compliance Training Program
+9. Revision and Approval History
+Approver Title Type Description Date
+Japan Chief Initial Appro… Document May 16, 2025
+Sayaka Kobay… Compliance Creation
+Officer
+Square K.K. Square K.K. Initial Appro… June 13,2025
+Board Board
+10. Document Details
+Business Square
+Compliance Management System CMS Policy | Square | Square K.K.
+19
+
+Confidential and Not for Distribution
+Scope Regional Japan
+Compliance Domain Compliance Governance
+Document Owner Japan Chief Compliance Officer
+Last Approval Date June 13, 2025
+Effective Date June 13, 2025
+Approved By Square K.K. Board
+Document Review Schedule Annually June 2026
+Compliance Management System CMS Policy | Square | Square K.K.
+20

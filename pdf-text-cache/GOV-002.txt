@@ -1,0 +1,450 @@
+Unsuitability Assessment
+Policy
+Australia
+Afterpay Australia Pty Ltd
+June 2025
+
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and its
+subsidiaries and on a need-to-know basis.
+
+Table of Contents
+Confidentiality 2
+1. Definitions 4
+2. Purpose 5
+3. Scope 6
+4. Unsuitability assessment framework 6
+4.1. General scope of unsuitability assessment 6
+4.2. Timing of unsuitability assessment 6
+4.3. Reasonable inquiries and reasonable steps 6
+4.4. Unsuitability assessment decisions 7
+5. Basis for unsuitability assessment framework 9
+5.1. The nature of Afterpay’s low cost credit contract 9
+5.2. The nature of Afterpay’s target market 10
+5.3. Whether the Afterpay customer is financially vulnerable 11
+5.4. Afterpay’s procedures to reduce unaffordable lending risk 12
+5.5. Afterpay’s procedures to mitigate unaffordable lending 13
+6. Roles and responsibilities 14
+7. Document management 15
+7.1. Policy reviews 15
+7.2. Updating the policy 15
+8. Record retention 15
+9. Related documentation 16
+10. Revision and approval history 16
+11. Document details 16
+
+1. Definitions
+Terminology Definition
+Afterpay Afterpay Australia Pty Ltd ABN 15 169 342 947, Australian Credit Licence
+527911
+Afterpay BNPL Afterpay’s buy now, pay later, product.
+Afterpay credit Afterpay’s internal credit rating for each existing customer which is
+profile primarily based on Afterpay’s internal data on that customer. Customers
+are only allocated an Afterpay credit profile 43 days after they are
+onboarded by Afterpay to use Afterpay BNPL. Afterpay’s internal data (and
+therefore the Afterpay credit profile) is refreshed on a daily basis.
+Afterpay internal As defined in section 4.4.2 of this policy.
+assessment
+Afterpay internal Includes a number of data points about the customer and their use of
+data Afterpay BNPL, including the following:
+● tenure using Afterpay BNPL (calculated from the date of the
+customer’s first order);
+● number of on-time payments within the previous 180 days;
+● late payments, including number of late payments and number of
+days late;
+● orders declined for insufficient funds on linked card at time of first
+payment; and
+● average utilisation of Afterpay BNPL within the previous 30, 60, 90,
+180 days.
+Afterpay Plus An additional feature of Afterpay BNPL that allows a customer to use
+Afterpay BNPL almost anywhere Apple Pay, Google Pay, or Samsung Pay is
+accepted, online or in-store.
+Afterpay As defined in section 4.4.1 of this policy.
+vulnerability
+indicators
+comply with In respect of the financial obligations of the customer, includes the
+substantial customer complying by requiring an unrealistic or unachievable reduction
+hardship in outgoings to cover the cost of living.
+consumer lease As defined in section 204 of Schedule 1 of the NCCPA (National Credit
+Code).
+credit decision As defined in section 4.2 of this policy.
+
+Terminology Definition
+credit report A credit report provided by a credit reporting body containing credit
+information in relation to an Afterpay customer (or prospective Afterpay
+customer).
+credit reporting As defined in section 5(1) of the NCCPA.
+body
+customer A customer of Afterpay.
+LCCC or low cost As defined in the Afterpay General Terms.
+credit contract
+MACC or medium As defined in section 204 of Schedule 1 of the NCCPA (National Credit
+amount credit Code).
+contract
+NCCPA National Consumer Credit Consumer Act 2009 (Cth), as amended by the
+Treasury Laws Amendment (Responsible Buy Now Pay Later and Other
+Measures) Act 2024 (Cth).
+NCCPR National Consumer Credit Protection Regulations 2010 (Cth), as amended
+by the National Consumer Credit Protection Amendment (Low Cost
+Credit) Regulations 2025 (Cth).
+new to bureau As defined in section 4.3.1 of this policy.
+report or NTB
+report
+policy This Unsuitability Assessment Policy.
+SACC or small As defined in section 5 of the NCCPA.
+amount credit
+contract
+spend limit As defined in the Afterpay General Terms.
+unsuitability The process required by sections 128 and 131 of the NCCPA, to determine
+assessment whether a low cost credit contract or credit limit increase would be
+unsuitable for a customer.
+$ References to dollar ($) amounts in this policy are references to Australian
+Dollars.
+2. Purpose
+This policy outlines Afterpay’s approach to conducting unsuitability assessments in accordance with
+the NCCPA and the NCCPR.
+
+3. Scope
+This policy applies to Afterpay BNPL, as a low cost credit contract under the NCCPA, in relation to all
+unsuitability assessments conducted by or on behalf of Afterpay.
+4. Unsuitability assessment framework
+Afterpay has a structured framework for completing unsuitability assessments.
+4.1. General scope of unsuitability assessment
+The NCCPA provides that a credit contract or credit limit increase is unsuitable if, at the time of the
+assessment:
+● the customer will be unable to comply with their financial obligations under the credit
+contract, or could only comply with substantial hardship; or
+● the contract does not meet the customer’s requirements or objectives.
+4.2. Timing of unsuitability assessment
+In this policy, the following actions are each referred to as a credit decision:
+● entering into a low cost credit contract with a customer (onboarding); or
+● increasing a customer’s spend limit under an existing Afterpay low cost credit contract
+(limit increase).
+No more than 120 days before making a credit decision, Afterpay must:
+● make inquiries and take steps in accordance with section 130 of the NCCPA, as set out in
+this policy; and
+● complete an unsuitability assessment based on those inquiries and steps.
+Where Afterpay completes an unsuitability assessment for a customer, Afterpay may rely on the
+inquiries made, and steps taken, on which the unsuitability assessment was based, to complete
+more than one unsuitability assessment.
+4.3. Reasonable inquiries and reasonable steps
+4.3.1. Reasonable inquiries - financial situation
+Afterpay seeks to obtain the following information about a customer’s financial situation:
+
+● Income and expenses: Afterpay collects information about the customer’s income and
+expenses. This information is obtained directly from the customer through the
+onboarding flow and / or through an in-app flow, depending on the circumstances.
+Afterpay will not proceed with an unsuitability assessment unless this information has
+been obtained.
+● Existing credit obligations: Afterpay collects information about the customer’s low cost
+credit contracts, small amount credit contracts, and consumer leases. This information is
+obtained from the customer’s credit report. Where Afterpay has obtained a credit report
+(including a credit report that shows the customer has no reported credit information (a
+NTB report)) Afterpay will proceed with an unsuitability assessment .
+● Credit check: Afterpay seeks to obtain a ‘negative’ credit report from a credit reporting
+body, illion.1 Where Afterpay is unable to seek to obtain a credit report due to technical
+difficulties (e.g. bureau outage) Afterpay will not proceed with an unsuitability
+assessment.
+4.3.2. Reasonable inquiries - requirements and objectives
+Afterpay seeks to obtain information about the customer’s requirements and objectives by
+presenting the Afterpay BNPL key product information and having the customer confirm that the
+product is right for them. This information is obtained directly from the customer through the
+onboarding flow and / or through an in-app flow, depending on the circumstances.
+Afterpay will not proceed with an unsuitability assessment unless this information has been
+obtained. Afterpay does not rely on the rebuttable presumption available for LCCCs under section
+133BXF of the NCCPA.
+4.3.3. Reasonable steps - verification
+Afterpay takes reasonable steps to verify the information obtained about a customer’s financial
+situation by leveraging the information available in the customer’s credit report.
+4.4. Unsuitability assessment decisions
+4.4.1. Credit decision at onboarding
+Afterpay will assess a credit decision as unsuitable at onboarding in the following situations:
+● The customer’s income is less than their expenses.
+1 Afterpay does not offer Afterpay LCCCs or limit increases on existing Afterpay LCCCs over $1,999.
+
+● The customer has one or more of the Afterpay vulnerability indicators present on their
+credit report. The Afterpay vulnerability indicators are:
+○ a bankruptcy within the previous 12 months;
+○ more than four SACC inquiries within the previous 6 months;
+○ more than four BNPL inquiries within the previous 6 months;
+○ more than four equipment hire (i.e. consumer lease) inquiries within the previous 6
+months; or
+○ a default within the previous 3 months.
+● Afterpay is otherwise aware of information that evidences that:
+○ the customer will be unable to comply with their financial obligations under the
+contract, or could only comply with substantial hardship; or
+○ the contract will not meet the customer's requirements or objectives (even if the
+customer has confirmed that the product is right for them during onboarding).
+4.4.2. Credit decision for a spend limit increase
+Afterpay completes an internal assessment to determine whether a customer is eligible for a spend
+limit increase (Afterpay internal assessment). Afterpay only completes unsuitability assessments
+where a customer has consented to limit increases and passed an Afterpay internal assessment.
+Under an Afterpay internal assessment, a customer will not be eligible for a spend limit increase if
+the customer:
+● has a current spend limit above $1900;
+● has a frozen Afterpay account;
+● has requested a spend limit decrease (and this request has not expired or been revoked);
+● has had a late payment in the previous 30 days;
+● has had a late payment exemption applied due to goodwill within the previous 30 days;
+● has moved a repayment due date in the previous 30 days;
+● has had a spend limit increase in the previous 30 days;
+● does not have a high enough Afterpay credit profile; or
+● is in hardship status or has a hardship flag within the previous 90 days, or is currently in
+collections or payment arrangement.
+Where a customer passes an Afterpay internal assessment, Afterpay will complete an unsuitability
+assessment on the customer. Afterpay will assess a credit decision as unsuitable at the time of limit
+increase in the following situations:
+
+● The customer’s income is less than their expenses.
+● The customer has one or more of the Afterpay vulnerability indicators present on their
+credit report.
+● The customer has more than 6 inquiries of any type (e.g. SACC, BNPL, MACCs, consumer
+leases, personal loans, home loans, credit cards) within the previous 6 months present on
+their credit report.
+● Afterpay is otherwise aware of information that evidences that:
+○ the customer will be unable to comply with their financial obligations under the
+contract, or could only comply with substantial hardship; or
+○ the contract will not meet the customer's requirements or objectives (even if the
+customer has confirmed that the product is right for them during onboarding).
+5. Basis for unsuitability assessment framework
+Afterpay’s unsuitability assessment framework reflects the matters in section 133BXC(3) NCCPA.
+These matters are considered in more detail below.
+5.1. The nature of Afterpay’s low cost credit contract
+Afterpay BNPL offers low-cost, transparent, regulated credit designed to minimise risk to customers.
+Key attributes include:
+● Spend limits: New customers are offered starting spend limits between $200 to $1,999.
+Incremental spend limit increases are based on positive repayment behaviour, up to a
+maximum of $1,999.2
+● Repayment structure: Repayments are divided into four instalments over a short-term
+period of six to eight weeks. This structured schedule supports manageable financial
+planning for all customers. Generally, the initial 25% instalment is required upfront;
+however, this may be adjusted for customers who have established a positive repayment
+history.
+● Payment rescheduling: In certain circumstances customers can reschedule repayment
+dates through the Afterpay app or by contacting Afterpay’s customer service team,
+offering operational flexibility (without incurring any fees) while controlling risk.
+Limitations include:
+○ restrictions for certain merchant categories (e.g. airlines);
+2 Note that some customers that signed up for Afterpay BNPL prior to 10 June 2025 may have a spend limit of
+up to $4,000.
+
+○ a cap on the number of payments that can be rescheduled (e.g. per order, per year
+etc); and
+○ the status of the customer (e.g. if the customer is in a hardship arrangement).
+● No interest or security: Afterpay does not charge interest, or take security in relation to
+Afterpay BNPL. While Afterpay is free for customers who pay on time, capped late fees
+can apply. Afterpay Plus (an opt-in feature of Afterpay BNPL) involves a small, fixed
+monthly fee that is also capped.
+5.2. The nature of Afterpay’s target market
+Afterpay BNPL is designed to meet the needs of financially responsible customers looking for
+flexible, interest-free payment options. The target market for Afterpay BNPL includes individuals:
+● seeking to pay for products and services on an instalment basis without payment of
+interest, account keeping or establishment fees and without the risk of entering into debt
+spirals;
+● that may not have an established credit history to become a customer, and may have
+other liabilities;
+● who would benefit from a product with strong inbuilt controls which protect the
+customer such as real-time risk decisioning, dynamic spend limits that adjust based on
+repayment behaviour, capped late fees, and restrictions on product use when instalment
+payments are missed;
+● who would benefit from a product which:
+○ provides them with the flexibility of paying by instalments via automatic debit
+from their preferred payment debit or credit card, or self-initiated early payments
+which can be scheduled via app or web portal;
+○ has no hidden fees or costs associated with its use if instalments are paid on time;
+○ allows them to select the day of the week that they would like their scheduled
+payments to be made;
+○ is zero cost upfront and, if late fees happen to be paid, is low cost relative to other
+financial products that are available in the market;
+○ enables them to set a spend cap to manage their spending;
+○ does not result in merchants engaging in ‘discretionary’ pricing - i.e. where a
+merchant will effectively inflate the price of their product or service to account for
+the use of a BNPL product;
+● would be comfortable with the ease and efficiency of using a digital-only product; and
+
+● (in respect of Afterpay Plus) who would like to pay a monthly fee to obtain additional
+features and benefits such as the ability to use Afterpay BNPL with almost any merchant
+accepting Apple Pay, Google Pay or Samsung Pay as payment methods.
+Relevant to the unsuitability assessment framework, Afterpay’s target market excludes
+higher-risk consumer groups, for example, customers who use a credit card as their repayment
+method and who incur repeated late fees as a result of repayments being dishonoured by their
+credit card provider due to having an insufficient credit card limit. The target market also excludes
+customers who require different product features, for example, a product with a large upfront
+spending limit, that enables unrestricted on-demand spending, or that enables customers to pay
+down their purchase over a long period of time.
+Historical data from Afterpay’s customer base demonstrates consistently low levels of credit risk
+within its target market. Over the past several years, the number of customers with outstanding
+amounts that are 180+ days overdue has remained below 0.7%, with a clear year-over-year
+improvement trend. In addition, the proportion of consumers entering hardship arrangements
+has consistently stayed below 0.5%.
+5.3. Whether the Afterpay customer is financially vulnerable
+Afterpay is committed to ensuring responsible lending practices by identifying and addressing
+financial vulnerability at key stages of the customer journey. The approach is tailored for both new
+and existing customers and includes a combination of direct inquiries and proactive interventions.
+New customers
+To assess vulnerability at the onboarding stage, Afterpay implements the following steps:
+● Income and expense verification: Customers are required to provide details of their
+income and expenses during the onboarding process. Any indications of financial
+difficulty revealed in this information will result in a conservative credit decision (e.g. if a
+customer's expenses exceed their income, Afterpay will not proceed with the credit
+decision).
+● Hardship indicators: Where hardship flags (e.g. bankruptcy or financial difficulty
+notifications) are present in the customer’s credit report, Afterpay will not proceed with
+the credit decision.
+● Vulnerability indicators: Where existing liabilities (e.g. SACCs or consumer leases) are
+present in the customer’s credit report, Afterpay will factor these liabilities in when
+making a credit decision.
+
+Existing customers
+For existing customers, Afterpay employs a range of mechanisms to support financial resilience
+throughout their relationship with Afterpay:
+● When completing an unsuitability assessment for a limit increase, Afterpay implements
+the same steps as Afterpay employs to identify financial vulnerability in new customers, as
+outlined above.
+● Afterpay maintains a comprehensive hardship program, which is described in more detail
+under section 5.5 of this policy. Customers who have recently provided a hardship notice
+to Afterpay, or whose behaviour suggests potential financial difficulty, will not be eligible
+for a spend limit increase.
+● Afterpay provides a vulnerable customer training program to all frontline customer
+service staff upon their commencement of employment. This training is refreshed
+annually and focuses on prioritising recognition of financial difficulty indicators and
+proactive support through standardised interventions.
+5.4. Afterpay’s procedures to reduce unaffordable lending risk
+Afterpay employs a range of procedures to mitigate unaffordable lending risks among its customers.
+The following measures are structured to identify potential financial risks and implement timely
+interventions, ensuring compliance with responsible lending standards:
+● First payment upfront: Generally, Afterpay requires customers to make their first
+instalment payment at the time of purchase. An exception is the No Payment Upfront
+(NPUF) feature, which is selectively offered to customers that satisfy specific criteria
+relating to positive recent repayment behaviour
+● Account suspension for missed payments: Once a missed payment is recorded, Afterpay
+immediately suspends the customer’s account to prevent further credit use. In addition,
+Afterpay restricts limit increases for customers with repeated missed payments or existing
+overdue balances.
+● Spend limit management: Afterpay enforces stringent rules to manage customer spend
+limits, reducing the risk of overextension:
+○ Spend limits start conservatively (e.g., $200 to $1,999 for new customers), are risk
+based and tailored to the specific customer.
+○ Spend limit increases are tied to demonstrated repayment behaviour. Customers
+with higher-risk profiles are not eligible for limit increases.
+○ Spend limits are reviewed regularly, and adjustments are tied to recent repayment
+
+activity, account history, and behavioural indicators.
+○ In cases of financial difficulty, hardship requests, or prolonged dormancy, Afterpay
+reduces spend limits to align with the customer’s demonstrated financial capacity.
+● Real-time risk decisions: Before approving individual transactions using Afterpay BNPL,
+Afterpay leverages real-time data and analysis to assess the customer’s capacity to pay.
+This includes reviewing internal data such as recent late payments, repayment schedule
+modifications, and insufficient fund rejections, and declining transactions that exceed
+pre-determined customer limits or involve flagged risk factors (e.g. elevated utilisation
+rates).
+● Hardship procedures: Afterpay maintains a comprehensive hardship program, which is
+described in more detail under section 5.5 of this policy.
+5.5. Afterpay’s procedures to mitigate unaffordable lending
+Afterpay places a strong emphasis on minimising harm for customers who may encounter financial
+difficulty. These procedures reflect Afterpay’s commitment to ethical lending practices and
+regulatory compliance, and focus on preventing and addressing unaffordable lending risks:
+● Debt management: Afterpay employs consumer friendly practices to support customers
+with outstanding Afterpay debts:
+○ Afterpay does not pursue legal action to collect outstanding amounts, nor does it
+sell debts to external agencies.
+○ Customers who struggle to meet repayments are directed towards independent
+financial counselling services for specialist advice and assistance.
+● Hardship support: Afterpay provides streamlined hardship support to ensure that
+customers experiencing financial difficulty have access to timely assistance:
+○ Customers can request hardship assistance without the need to provide formal
+documentation of financial difficulty.
+○ Tailored payment arrangements are available, including deferred payment
+schedules and payment holidays, to help customers recover financially.
+● Account suspension: To reduce the risk of further financial harm, Afterpay may suspend
+account access under certain conditions, including:
+○ following a missed payment, to prevent additional credit use;
+○ during an active payment holiday or hardship arrangement; or
+○ when indicators of financial difficulty are identified, such as repeated payment
+rescheduling or frequent declined transactions.
+● Capped fees: Fees for late payments are capped at the lower of 25% of the order value or
+
+$68, and also subject to regulatory caps, to ensure costs remain predictable and
+manageable.
+● Spend limit controls: Customers can voluntarily set their own ‘spend cap’ on their spend
+limits within the Afterpay platform, providing greater control over their financial
+commitments.
+● Afterpay Plus: Customers that have opted-in to Afterpay Plus receive additional support
+during financial hardship to limit unnecessary costs. For Afterpay Plus subscribers with a
+payment arrangement or hardship status, their subscription is suspended, preventing
+further subscription fee accrual and limiting access to out-of-network providers upon
+BNPL account reinstatement. Customers can also choose to pause their subscription and
+Afterpay Plus fees are also subject to regulatory caps.
+6. Roles and responsibilities
+Role Responsibility
+ANZ ANZ Compliance will provide assistance and support to Credit Risk in
+Compliance implementing this policy across the organisation. ANZ Compliance is
+responsible for establishing and overseeing appropriate compliance practices
+designed to ensure that Afterpay’s operations reflect Afterpay’s commitment to
+compliance and that all employees are aware of that commitment and their
+individual responsibility, in partnership with the business.
+In partnership with Credit Risk, ANZ Compliance is responsible for reviewing the
+operation of this policy on a regular basis to ensure this policy continues to
+deliver compliance with Afterpay’s regulatory obligations, reporting on
+compliance with this policy, and approving updates to this policy.
+ANZ Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this policy.
+Counsel Afterpay’s Product and Regulatory Counsel provide interpretative advice and
+counsel regarding the application of the requirements of this policy to Afterpay’s
+business and operational activities.
+Credit Risk Credit Risk will implement this policy across the organisation and shall be
+responsible for ensuring the policy is complied with. Credit Risk is responsible for
+establishing and overseeing appropriate practices designed to ensure that
+Afterpay’s credit operations reflect Afterpay’s commitment to compliance and
+that all employees are aware of that commitment and their individual
+responsibility under this policy.
+In partnership with Compliance, Credit Risk is responsible for reviewing the
+operation of this policy on a regular basis to ensure the policy continues to
+deliver compliance with Afterpay’s regulatory obligations.
+
+Credit Risk as the owners of credit risk for Afterpay are responsible for
+monitoring and reporting on compliance with this policy.
+7. Document management
+7.1. Policy reviews
+This policy shall be reviewed at least annually and on an ad hoc basis (for example, where events or
+circumstances suggest that the policy is no longer effective, or in response to material risk events or
+breaches identified).
+As part of the review, Afterpay will:
+● assess whether the policy has been and will continue to be one that, if followed, makes it
+reasonably likely that Afterpay will comply with sections 128 and 131 of the NCCPA; and
+● identify any changes to the policy that would make it more likely to ensure compliance, if
+followed; and
+● consider evidence that provides an appropriate basis for assessing the policy and
+identifying any changes to the policy that are necessary, including the rates at which
+Afterpay BNPL debts are being partially or fully written off, measures of the rates of
+arrears, relevant complaints data (both under internal and external dispute resolution
+processes), and hardship data.
+7.2. Updating the policy
+If the review of the policy identifies changes to the policy that would better facilitate compliance,
+Afterpay will revise the policy to incorporate those changes as soon as practicable. Any update to the
+policy will be implemented in accordance with the Block, Inc. Compliance Document Approval
+Matrix.
+8. Record retention
+Afterpay will maintain records of this policy in accordance with Afterpay’s document retention
+guidelines.
+
+9. Related documentation
+Legislation National Consumer Credit Consumer Act 2009
+Regulation National Consumer Credit Protection Regulations 2010
+Related procedure AU REG: Credit Strategy
+10. Revision and approval history
+Approver Type Description Date
+Luchen Zhou (Credit Initial Approval Initial Creation of 10 June 2025
+Risk) Document
+Martina Kann (ANZ Initial Approval 11 July 2025
+Compliance)
+11. Document details
+Business Afterpay
+Scope Regional
+Compliance Domain Compliance Governance
+Policy Owner ANZ Compliance ( Martina Kann )
+Last Approval Date 11 Jul 2025
+Effective Date 11 July 2025
+Approved By ANZ Compliance ( Martina Kann )
+Credit Risk ( Luchen Zhou )
+Document Review Schedule Annually

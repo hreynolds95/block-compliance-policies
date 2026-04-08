@@ -1,0 +1,277 @@
+Commercial Telemarketing Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: Square Capital, LLC, ("Square Capital" or "the Company") seeks to
+comply with all requirements that stem from regulations that govern commercial lending activities.
+This Commercial Telemarketing Policy ("Policy") was created and adopted with the sole focus on
+Square Capital's commercial credit card program. The Chief Compliance Officer ("CCO") oversees
+the development and implementation of this Policy and has delegated ownership of this Policy
+document to the Square Head of Compliance.
+This Policy is established by the Square Capital Team and is applicable to all commercial credit
+products offered by Square Capital. All employees, fixed-term and contingent workers who
+support the operations are covered by this Policy, and including interns, temporary workers,
+consultants, vendors, third-party providers and contractors.
+Square Capital conducts business in compliance with all applicable laws and regulations. The
+purpose of this Policy is to further Square Capital's compliance with the Telephone Consumer
+Protection Act ("TCPA"), the Truth In Caller ID Act, the Telemarketing and Consumer Fraud and
+Abuse Prevention Act ("TCFAPA"), and Federal Trade Commission's ("FTC") Telemarketing Sales
+Rule ("TSR") as applicable. Square Capital is fully committed to complying with these laws and
+regulations and to upholding business requirements that do not run counter to their requirements.
+Scope: This Policy applies to all outbound and inbound Telemarketing calls and texts from Square
+Capital related to Square Capital's commercial lending programs. This also includes certain social
+media posts and faxes of a marketing or sales nature.
+Definitions:
+Terminology Definition
+Automatic Equipment which has the capacity to store or produce telephone numbers to
+Telephone be called, using a random or sequential number generator, and to dial such
+Dialing System numbers.
+
+(“ATDSˮ) or Auto
+Dialer The term can include smartphones, tablets, VoIP phones, calling apps,
+texting apps, and phones that are not rotary-dialˮ.
+Clear and A notice that would be apparent to the reasonable consumer, separate and
+Conspicuous distinguishable from the advertising copy or other disclosures.
+For facsimiles (faxes), in order to be considered "Clear and Conspicuous "
+the notice must be placed at either the top or bottom of the facsimile.
+Established A prior or existing relationship between Square Capital and a residential or
+Business business subscriber based on the subscriberʼs purchase or transaction with
+Relationship Square Capital within the 18 months immediately preceding the date of the
+telephone call or on the basis of the subscriberʼs inquiry or application
+regarding products or services offered by Square Capital within the three
+months immediately preceding the date of the call, and neither party has
+previously terminated the relationship.
+An individual may reasonably expect that an affiliate is included in an
+Established Business Relationship based on products offered or the identity
+of the affiliate.
+Material Information that is likely to affect a personʼs choice of, or conduct regarding,
+Information goods or services or a charitable contribution.
+Prior Express A written agreement, bearing the signature of the person that authorizes
+Written Consent Square Capital to call the person regarding advertisements or telemarketing
+(“PEWCˮ) and includes the telephone number to which the authorization is given. The
+written agreement shall include a Clear and Conspicuous disclosure
+informing the person signing that:
+● By signing the agreement, such person authorizes Square Capital to
+make telemarketing calls using an automatic telephone dialing
+system or an artificial or prerecorded voice; and
+● The person is not required to sign the agreement or enter into such
+an agreement as a condition of purchasing any property, goods, or
+services.
+The term “signatureˮ includes an electronic or digital form of signature, to the
+extent that such form of signature is recognized as a valid signature under
+applicable federal law or state contract law.
+Telephone The initiation of a telephone call or message for the purpose of encouraging
+Solicitation the purchase or rental of, or investment in, property, goods, or services,
+which is transmitted to any person, but such term does not include a call or
+message:
+● to any person with that personʼs prior express invitation or
+permission; or
+● to any person with whom the caller has an Established Business
+Relationship.
+There are instances in which the protections and requirements of TCPA do
+not apply to a Telephone Solicitation, given the existence of one of the above
+exceptions. For questions about whether one of these enumerated
+exceptions applies, please consult with the Testing and Monitoring Team
+
+(“TMTˮ).
+Unsolicited Any material advertising the commercial availability or quality of any
+Advertisement property, goods, or services which is transmitted to any person without that
+personʼs prior express invitation or permission, in writing or otherwise.
+2. Square Capital, LLC Requirements
+The TCPA was implemented by the Federal Communication Commission FCC Restrictions on
+Telemarketing, Telephone Solicitation and Facsimile Advertising regulation FCC Rule) and addresses
+the growing number of complaints pertaining to telephone marketing calls. The law protects the
+privacy interests of residential telephone subscribers by placing certain restrictions on the use of
+unsolicited phone calls made with automatic dialing services. Square Capital does not engage in
+these types of phone calls. In addition to regulatory guidance on its applicability, the scope of the
+TCPA includes mobile phones, SMS texts, marketing phone calls initiated by a person, and calls to
+both consumers and commercial entities. Additionally, TCPA granted the FTC and the Federal
+Communications Commission FCC the power to create a national do not call DNC list and related
+DNC lists.
+The TCFAPA, enforced through the FTC's TSR, prohibits certain Telemarketing practices, and
+provides Consumers a right of privacy from unwanted Telemarketing calls. As enacted, the FCC Rule
+and TSR also apply to sales calls to commercial entities. While the scope of the TSR is strictly
+confined to interstate telemarketing activities as defined under the TSR, Square Capital will adhere to
+the applicable provisions across all telemarketing activities.
+All requirements named in this section apply to any person who engages in covered marketing
+practices occurring via telephone, cell phone (call or text), social media post, or fax machine, except
+where noted.
+2.1. Sales Calls, Faxes, and Computer Communications
+It is the policy of Square Capital to comply with all telemarketer requirements, including those
+outlined by the TCPA, the TCFAPA, and the Truth In Caller ID Act. Accordingly, Square Capital, where
+engaged in solicitation by telephone, will:
+● Provide certain Material Information, in a clear and conspicuous manner, with each
+telemarketing call prior to a personʼs consent to pay for goods or services offered over the
+telephone. This includes the following:
+
+○ The total costs to purchase, receive, or use the goods or services that are the
+subject of the sales offer;
+○ Any material restrictions, limitations, conditions to purchase, receive, use the
+goods, or services that are the subject of the sales offer; or
+○ Any material aspect of the performance, efficacy, nature, central characteristics of
+goods or services that are the subject of a sales offer.
+● Give certain prompt oral disclosures in a Clear and Conspicuous manner at the outset of
+telemarketing calls including:
+○ The identity of the seller;
+○ That the purpose of the call is to sell goods or services; and
+○ The nature of the goods or services being offered;
+● Provide, in the event of upselling, the above oral disclosures where:
+○ Any of the information is different from those in the initial disclosures; or
+○ No disclosures were required based upon the initial reason for the call (i.e. a
+non-sales customer service call);
+● Not in any way misrepresent Material Information;
+● Not engage in abusive calling practices including using threats, intimidation, profane or
+obscene language;
+● Not initiate telephone solicitation to any residential telephone number before the hour of 8
+a.m. or after 9 p.m. local time at the called partyʼs location;
+● Transmit caller identification information for every call covered by this Policy. Caller
+identification information must include:
+○ Either, the calling party number or the automatic numbering information; and
+○ When available by the Telemarketerʼs carrier, the name of the Telemarketer.
+○ It is permissible to substitute (for the name and phone number used, or billed for
+making the call) the name of Square Capital and Square Capitalʼs customer service
+telephone number. The telephone number provided must permit any individual to
+make a do-not-call request during regular business hours. Square Capital is
+prohibited from blocking the transmission of caller identification information.
+● Not abandon more than three percent of all Telemarketing calls that are answered live by a
+person, as measured over a 30–day period for a single calling campaign. If a single calling
+campaign exceeds a 30–day period, the abandonment rate shall be calculated separately
+for each successive 30–day period or portion thereof that such calling campaign
+continues.
+● Comply with DNC requirements. An individualʼs information must be screened against the
+following lists before engaging in a marketing or solicitation communication to that
+individual:
+○ Square Capitalʼs DNC List;
+○ The National DNC Registry, where the call recipientʼs Business Address is located in
+California, Arizona, Nevada, or Utah; or
+○ The Public Safety Answering Point (“PSAPˮ) Call Registry.
+● Not deliver prerecorded or artificial voice messages to a residential or wireless line unless
+appropriate prior consent PEC or PEWC, as applicable) is obtained in accordance with the
+TCPA and FCC rules. Use for payment reminders still requires consent under these rules
+unless the call qualifies for a statutory exemption (e.g., manually dialed, informational only,
+not to wireless devices)..
+
+● Comply with all applicable requirements regarding PEWC.
+● Not use any fax machine, computer, or other device to send unsolicited advertising. If
+Square Capital ever makes a business decision to begin conducting such activities under
+the TCPA, appropriate policies and procedures must be implemented prior to launch.
+● Not use an ATDS or Autodialer in contacting individuals. If Square Capital ever makes a
+business decision to begin conducting such activities, appropriate policies and procedures
+must be implemented prior to launch.
+● Not engage in prize promotions, i.e., promotions where something of value is offered by
+sweepstakes or other game of chance, including a promotion where an unspecified prize is
+guaranteed. If Square Capital makes a business decision to begin conducting such
+activities, appropriate policies and procedures must be implemented prior to launch.
+2.2. Text Messaging
+A text message sent to a wireless cell phone number is considered a call to that number. All
+requirements of the law apply just as if a phone call was made. To obtain proper consent, Square
+Capital must obtain from the customer before contact is made, either:
+● Separate consents for text messages and phone calls; or
+● A combined consent that explicitly covers text messages and phone calls
+For purposes of this Policy, the term “signatureˮ in PEWC includes electronic or digital form of
+signature consistent with ESIGN Act. By way of example, this consent may be obtained during the
+customerʼs application process for a Square Capital commercial lending product.
+2.3. Opt-Out
+A customer may opt out of either or both sales calls and text messages at any time. In any instance
+where it is reasonably unclear which communication method is being referenced in an opt out
+request, the opt out will apply to both sales calls and text messages.
+2.4. Exceptions
+There are narrow exceptions permitting Telemarketers to contact an individual where the individual
+has expressed interest in receiving Telemarketing communications from the business, despite being
+on a valid DNC list. Square Capital is permitted to make outbound telephone calls to individuals with
+a Business Address in California or Utah who have registered their number on the National DNC
+Registry in the following scenario:
+Express Written Agreement: Where Square Capital can demonstrate that the Company has Prior
+Express Written Consent from the individual stating Square Capital may make Telemarketing calls to
+that person, the following requirements must be met:
+
+● Unambiguous, written agreement by the individual stating Square Capital may make
+Telemarketing calls to that individual;
+● Phone number must be a specific number, denoted by the individual;
+● Signed by the individual; and
+● Square Capital, in dialing the individual, does not use an ATDS or Autodialer and manually
+enters the telephone number when calling the individual.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Chief Compliance Officer (“CCOˮ)
+○ The CCO will provide assistance and support in implementing this Policy across the
+organization and shall be responsible for establishing appropriate practices
+designed to ensure that Company operations reflect the Companyʼs commitment to
+compliance and that all employees are aware of that commitment and their
+individual responsibility.
+○ The CCO is responsible for monitoring and reporting on compliance with this Policy.
+The CCO delegates the responsibilities in this section to the Square Head of
+Compliance along with the authority to adopt, develop and implement procedures
+and reporting that support this Policy.
+● Counsel
+○ The Companyʼs legal counsel provides interpretative advice and counsel regarding
+the applicability and application of the requirements of this Policy to the Companyʼs
+business and operational activities.
+● Compliance Policy Committee
+○ Reviews and adopts this policy on an annual basis.
+● Head of Business Product Compliance and Partnerships or Lending Product Compliance
+Lead as Designee
+○ Owns this Policy document, reviews and approves requested exceptions.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Square Capital Compliance Management System Policy US
+● Compliance Training Program Standard
+● Compliance Policy on Policies
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+
+Approval History:
+Approver Title Type Description Date
+Square Capital Square Capital Initial Appro… Initial Approval August 9, 2024
+Board of Board of
+Managers Managers
+Square Capital Square Capital Immaterial C… Scheduled January 24, 2025
+Board of Board of review; immaterial
+Managers Managers change
+Compliance Compliance Scheduled R… Scheduled October 3, 2025
+Policy Policy Committee review; minor
+Committee immaterial
+updates to
+template and for
+program clarity
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2

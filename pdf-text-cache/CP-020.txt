@@ -1,0 +1,354 @@
+Customer Conduct & Staff Protection Policy
+Block, Inc.
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: This Customer Conduct & Staff Protection Policy (the "Policy") outlines
+Block, Inc.'s approach to persons whose behavior has been assessed as being abusive. The
+Consumer Protection Compliance Lead is responsible for management of this Policy.
+The purpose of this Policy is to establish comprehensive guidelines governing Block's approach to
+managing unacceptable customer behavior and ensuring consistent operations while maintaining
+brand-specific flexibility.
+Scope: This Policy is established by Block, Inc., its subsidiaries, and affiliates (collectively, "Block")
+and is applicable to all entities within Block.
+Definitions:
+Terminology Definition
+Abusive Behavior Abusive behavior refers to any behavior that is harmful, threatening,
+or offensive to another person or group.
+Aggressive Behavior Confrontational, forceful, or intimidating language that exceeds
+respectful communication boundaries. Examples include berating
+staff, hostile language, or refusing constructive dialogue.
+Discrimination Treating someone unfairly based on their race, gender, age, religion,
+sexual orientation, or other characteristic.
+Disrespectful Behavior Any behavior that lacks respect, such as mocking, belittling, or
+ignoring someone's boundaries.
+Harassment Unwanted or intimidating behavior that creates a confrontational
+environment. Examples include persistent belittling or demeaning of
+staff.
+1
+
+Immediate Threat Behavior posing direct risk to health, safety, or wellbeing of staff that
+requires urgent intervention.
+Persistent Contact Customers who engage in nuisance behavior, by exhibiting persistent
+contact attempts that are vexatious in nature.
+Physical Violence Physical aggression or force used against another person, such as
+hitting, pushing, or using weapons to cause harm.
+Reasonably Forceful An individual who asserts themselves firmly without resorting to
+aggressive behavior. This is considered acceptable behavior.
+Sexual Nature Content, language, or behavior related to sexuality or intimate
+relationships that is inappropriate for professional interaction.
+Staff Member All employees and fixed-term and contingent workers who support
+the operations and/or subsidiaries covered by this Program, and
+include interns, temporary workers, consultants, vendors, third-party
+providers, and contractors.
+Stalking Pattern of repeated unwanted attention, harassment, contact, or
+behavior that causes staff to feel threatened or unsafe.
+Threat Expressions of intent to cause harm or negative consequences, such
+as threatening to harm someone physically or damage their property.
+Unacceptable Behavior Conduct that deviates from established norms of civility, respect, and
+cooperation.
+Unacceptable Public Actions or behaviors that disrupt operations or threaten staff safety in
+Expression public spaces, including unauthorized recording or photographing of
+staff.
+Verbal Harassment Any kind of verbal abuse, such as name-calling, insulting, or making
+threats.
+2. Policy Requirements
+2.1. Policy Principles
+Block upholds the principle that everyone has the right to express their dissatisfaction, provide
+comments and offer suggestions to contribute to the enhancement of its services. Block also
+acknowledges that during challenging or distressing situations, people may display behavior
+inconsistent with their usual conduct when engaging with Block. It is important to note that Block
+does not categorize assertive or determined approaches as unacceptable or abusive behavior.
+2
+
+2.2. Unacceptable and Abusive Behavior
+Block Staff Members are entitled to a workplace free of abusive, offensive or threatening behavior
+even when a customer is under stress. Some examples of unacceptable behavior might include:
+● Abusive or offensive language directed at Staff Members
+● Remarks of a sexual nature directed at Staff Members
+● Racist language directed at Staff Members
+● Homophobic or other discriminatory remarks directed at Staff Members
+● Shouting at Staff Members
+● Offensive gestures
+● Verbal or physical threats against Staff Members, prominent individuals, Block property or
+office buildings
+● Bullying or intimidating behavior
+● Stalking or any other form of harassment
+2.3. Unacceptable Persistent Contact
+Block recognizes that some of its customers cannot or will not accept if Block is unable to assist
+them further or provide a level of service other than that already provided. Customers may persist
+in disagreeing with the action or decision taken in relation to their concerns or they may contact
+Block persistently about the same issue(s) via the same, or a number of contact channels.
+Examples of unacceptable persistent contact might include:
+● Continuing to contact Block Staff Members through illegitimate communication channels,
+such as LinkedIn
+● Persistent contact via email, written mail or other communications to executive leadership
+● Persistent refusal to accept a Final Response that has been made in relation to a complaint
+● Persistent refusal to accept explanations relating to what Block can or cannot do
+● Persistent refusal to follow the proper procedures explained to them in order to pursue their
+issue/concern
+● Making an excessive number of contacts about issues previously addressed
+● Continuing to contact Block on the same issue(s) without presenting any new information
+● Representing themselves as different people or under different names in order to raise the
+same issues
+● Contacting Block Staff Members outside of the ordinary course of business, such as at a
+physical office location, or their home location
+It is not necessarily the manner in which such customers communicate with Block, but their
+persistence in doing so that goes beyond being reasonable. In certain instances, continuous
+contact may be considered to be harassment.
+In scenarios where there is a threat that exceeds any reasonable contact, Staff Members must be
+escalated to Trust & Safety immediately at go/threatescalation.
+3
+
+2.4. Unacceptable Public Expression of Views
+Block recognizes the importance of striking a balance between providing an opportunity for the
+lawful expression of views and opinions and unacceptable behavior and actions that affect its Staff
+Members. Some examples of unacceptable behavior in these instances might include:
+● Congregating in and/or obstructing thoroughfares and access points of Block office
+buildings
+● Entering or attempting to enter restricted and/or non public areas of Block office buildings
+● Recording or photographing Staff Members without their permission
+● Any intentional damage to Block property
+● Failing to follow instructions of employees or security Staff Members when instructed to
+leave the premises
+● Making threats of harm or violence against Block, and/or its Staff Members
+● Stalking or harassing Block Staff Members
+● Making inappropriate contact attempts against Block Staff Members, including the use of
+foul language, or submitting inappropriate material through support channels
+All of these behaviours must be escalated to Trust & Safety immediately. The priority for reporting
+is go/threatescalation if inappropriate contact is made, reporting this to Trust & Safety officers on
+site immediately if the abusive customer is onsite, and/or reach out to #trust-and-safety on Slack.
+2.5. Protocol for Managing Unacceptable and Abusive Behaviors
+Face-to-Face Contact
+Staff Members are empowered to ask the abusive individual to leave the premises if they feel the
+person is being aggressive, abusive or offensive. The Staff Member dealing with the person has
+the right to make this decision after that person has persisted in their disruptive behavior after
+being advised that they are behaving unacceptably.
+In scenarios where Staff Members feel an immediate risk to their personal safety or Block property,
+they should contact the local Trust & Safety Security Operations officer, if they are in a location
+where one is present, and the Global Security Operations Center GSOC on Slack
+(#trust-and-safety) to ask for a private message. If there is no officer on site/duty, or Staff
+Members have been approached outside of Block, immediately contact the local emergency
+services number and then contact the Global Security Operations Center on Slack.
+Local Emergency Services Numbers:
+● USA - 911 for Harm and 988 for Self-Harm
+● Canada - 911 for Harm and 988 for Self-Harm
+● UK - 999 for Harm or 116 123 for Self-Harm Samaritans)
+● Ireland - 999 for Harm and 112 for Self-Harm
+● Australia - 000 for Harm and 13 11 14 for Self-Harm
+4
+
+2.6. Telephone Calls
+The use of abusive, offensive and harmful language towards Block Staff Members will not be
+tolerated. Staff Members will end any telephone call if they feel the caller is being aggressive,
+intimidating, abusive, threatening or offensive. The person taking the call is empowered to make
+this decision.
+The caller will be advised that their behavior and/or language is unacceptable. If the person
+persists and refuses to conclude the conversation, the call will be ended politely. In rare cases, if a
+warning cannot be issued due to immediate concerns, the Staff Member has the authority to end
+the call promptly.
+In some scenarios, individuals may make threats against Block that are severe in nature which
+might include:
+● Death threats
+● Threat of gun violence
+● Bomb threat
+● Threat of self harm
+● Cyberattack threat
+Staff Members are encouraged to keep the caller on the line for as long as possible during which
+they should take detailed notes and ask as many questions as possible to gather as much
+information as possible. Once the call has ended, immediately contact a Trust & Safety Security
+Operations officer, file a ticket at go/threatescalation.
+2.7. Correspondence
+Block Staff Members will not process any abusive correspondence (chat, email, letter or fax). Upon
+receiving such communications, Block will advise the individual that their communication is
+considered inappropriate and offensive. The person will be respectfully asked to stop
+corresponding in this way and informed that if they do not stop, Block will not respond to any
+further communication from that individual, except in cases where regulatory requirements
+mandate a response.
+2.8. Customer Access
+Where there is a concern about the behavior of a customer that may fall within the scope of this
+Policy, Block Staff Members will initially request in writing that the customer modify their behavior.
+If the customer's behavior persists and remains a cause for concern after the initial warning, then
+Block may proceed to denylist the customer's account(s).
+Where a customer's behavior is so extreme that it poses an immediate threat to the health, safety
+or wellbeing of Staff Members, the customer may not receive prior warning that access may be
+denylisted. Block will however provide written confirmation of its decision to the customer, where
+possible. Sometimes a customer's behavior can cause significant alarm, distress or concern that a
+criminal act may have taken, or is about to take place. When such situations arise, Block will report
+the matter to Trust & Safety who will assess the matter and contact the police or other relevant
+5
+
+authorities. Trust & Safety will base the decision on an assessment of risk. The underlying principle
+will be the need to protect Block's Staff Members and others from harm or the threat of harm.
+2.9. Restricting a Customer's Account
+If Block does decide to place restrictions on the customer's account(s), it may decide to adopt one
+or more of the following actions (or any other action deemed appropriate):
+● Request the customer to only send communication to a dedicated email address or
+telephone number
+● Place time limits on telephone calls and/or personal contacts
+● Record all telephone calls and/or personal contacts
+● Arrange for a named Staff Member to deal with all calls or correspondence from the
+customer
+● Limit communication to written only
+● Inform the customer that their correspondence will only be read (to ensure no new issues
+have been raised), acknowledged and filed for record-keeping purposes. However, unless
+a new issue is raised, Block will not issue duplicate responses
+● Apply a "warning flag" on the service user's electronic record to classify them as an
+abusive customer
+● Consider working with Trust & Safety to develop an Alias program, for each team, so that
+anyone on the team can respond to these communications without their actual name being
+used
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities
+Block, Inc. Roles:
+● Business Units:
+○ Implement requirements of this Policy and escalate any exceptions, violations or
+other identified risks to Trust and Safety.
+● Compliance:
+○ Provide oversight and guidance to the Business Units in implementing the
+requirements of this Policy.
+● Trust and Safety:
+○ Provide escalation channels to ensure correct channel intake. Once the threats are
+escalated, Trust and Safety are responsible for assessing the severity and selecting
+the best possible mitigation strategy to put in place. This could include guidance to
+de-platform bad actors/threat makers via specialized teams. Trust and Safety are
+responsible for reviewing any changes to threat escalation policies procedures for
+consistency with the threat intake/assessment industry standards.
+6
+
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Document Owner and/or designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by individuals within Block.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Compliance Document Approval Matrix
+● Compliance Management System Policy
+● Compliance Training Program
+● Block's Data Classification & Handling Policy
+7
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Paige D'Monte Product Creation Creation January 2024
+(paigedmonte@s Compliance
+quareup.com) Manager
+Meg Smith Trust and Safety Review and Review and March 15, 2024
+(megs@block.xy Approval approval
+z) Demetri
+Golfinopoulos
+(demetri@block.
+xyz)
+Brian Kollmeyer Head of Review and Review and March 15, 2024
+(bkollmeyer@blo Consumer Approval approval
+ck.xyz) Protection
+Compliance
+Compliance Compliance Scheduled … Document name March 25, 2026
+Policy Committee Policy Committee changed from
+Cash App US
+Unacceptable
+Customer Use
+Policy for clarity;
+updated to new
+template; fixed
+grammatical
+errors; added
+‘Staff Memberʼ
+definition;
+non-material
+updates to
+provide clarity
+8
+
+Document Details
+Business Block, Inc.
+Scope Global
+Compliance Domain Consumer Protection
+Document Owner Consumer Protection Compliance Program Manager
+Approved By Compliance Policy Committee
+Tier Tier 2
+Appendix
+Appendix A Post-Incident Support for Staff
+Block is committed to supporting Staff Members who experience unacceptable customer behavior.
+The following support measures are available:
+Immediate Actions:
+● Debrief with your Team Lead or Manager
+● Log time spent managing the incident as Non-Core Work
+● Access Employee Assistance Program EAP and Mental Health Services
+Additional Support:
+● Participate in optional feedback sessions for process improvements
+● Receive counseling and support services through Block's EAP (available 24/7
+● Access to mental health resources through Block's benefits portal
+Reporting & Documentation: All incidents should be documented in appropriate systems to
+ensure:
+● Proper tracking of patterns or repeat offenders
+● Staff safety monitoring
+● Compliance with regulatory requirements
+Appendix B Behavior Severity Matrix
+To ensure consistent and appropriate responses to unacceptable behavior, Block staff should
+assess behavior severity using the following matrix:
+9
+
+Severity Level Behavior Type Definition Action
+0 Upset/Frustrated Emotionally elevated De-escalate and/or
+but respectful proceed with
+resolution
+1 Indirect Abuse / Swearing, tone, not Issue 1st warning
+Disrespectful personally directed
+Behavior
+2 Direct Abuse / Slurs, insults, targeted Issue final warning +
+Disrespectful harassment log
+Behavior
+3 Egregious Abuse / Physical and/or direct End interaction +
+Threat threats against Block escalate to Trust &
+employee(s) or Safety
+business, hate
+speech, stalking
+Assessment Criteria
+When evaluating behavior severity, staff should consider:
+● Severity of the behavior or language
+● Frequency and persistence of occurrences
+● Impact on staff safety and wellbeing
+● Previous incidents or warnings
+● Potential risk to other staff or customers
+Appendix C Standardized Warning Ladder
+Before terminating a conversation, staff should apply a tiered warning approach unless an
+immediate threat is present:
+First Warning
+"I want to help resolve this, but I need the conversation to remain respectful."
+Final Warning
+"If the behavior continues, I will need to end this interaction."
+Termination Message
+"Due to continued inappropriate behavior, I am ending this conversation now."
+10
+
+Important Note
+No warnings are needed for egregious behavior (e.g., physical threats, hate speech, doxxing).
+These communications should be ended and the case escalated immediately to Trust & Safety.
+11

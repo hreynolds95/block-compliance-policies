@@ -1,0 +1,359 @@
+Australian Financial Services License AFSL
+Representatives Standard
+Square | Square AU Pty Ltd
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: Square AU Pty Ltd (“Square AUˮ) is an Australian Financial Services
+License (“AFSLˮ) holder License Number: 513929. This AFSL Representatives Standard
+(“Standardˮ) outlines Square AUʼs approach to oversight and training of Representatives. The CCO
+Square AU is responsible for management of this Standard.
+This Standard outlines the requirements and procedures that Square AU has established to ensure
+the effective oversight and training of its representatives under its AFSL in the provision of its
+licensed financial services product). Square AU is committed to upholding regulatory standards
+and maintaining compliance and competency in line with our regulatory obligations. .
+Square AU acknowledges that its representatives play a critical role in delivering compliant and
+responsible financial services. This Standard aims to ensure that all representatives are adequately
+trained, monitored and supervised, enabling them to meet their obligations under the Corporations
+Act 2001, the conditions of the AFSL, and ASICʼs regulatory standards.
+Scope: This Standard is established by Square AU and is applicable to Employees of Square AU
+and sets out the approach to the monitoring, supervision and training of its representatives.
+Definitions:
+Terminology Definition
+Australian A license issued by the Australian Securities and Investments Commission
+Financial (“ASICˮ) that allows an entity to conduct financial services business in
+
+Services Licence Australia. Holders of an AFSL are required to meet specific legal and
+(“AFSLˮ) regulatory obligations under the Corporations Act 2001.
+Representatives All full-time and part-time employees and fixed-term and contingent workers
+of Square AU including interns, temps, consultants, vendors, third-party
+providers, and contractors.This can encompass anyone acting on behalf of
+the licensee (“Square AUˮ) in the provision of financial services.
+Financial Product A recommendation or statement of opinion provided to clients to influence
+Advice their decision regarding a financial product. Financial product advice can be
+general or personal, with differing regulatory requirements.
+Financial Legislation and regulations governing the provision of financial services in
+Services Law Australia, primarily under the Corporations Act 2001. These laws include
+requirements for AFSL holders and their representatives to act in the best
+interests of clients, maintain competency, and ensure compliance.
+General Financial General product advice refers to information and facts about financial
+Product Advice products that is not tailored to an individual's specific circumstances. Under
+Square AUʼs AFSL, representatives are only authorised to provide general
+financial product advice.
+Personal Personal financial advice is advice that takes into account one or more of the
+Financial Product clientʼs objectives, financial situation, or needs — or where it would be
+Advice reasonable to expect that the adviser has considered these matters. This is
+prohibited under terms of Square AUʼs AFSL.
+Responsible A person identified by the AFSL holder as responsible for overseeing specific
+Manager financial services provided by the organisation. Responsible Managers are
+subject to compliance and competency standards as defined by ASIC and
+are accountable for ensuring the organisationʼs adherence to regulatory
+obligations.
+Training Register A formal record that tracks training undertaken by representatives, including
+course details, duration, accreditation, and completion dates.
+2. Standard Requirements
+2.1 Square AUʼs Responsibilities towards Representatives
+Square AU is responsible for ensuring that all Representatives are competent, adequately trained,
+and properly supervised to perform their roles. This includes ensuring Representatives:
+● Act efficiently, honestly and fairly in accordance with s912A1a of the Corporations Act;
+● Comply with all relevant financial services laws, ASIC Regulatory Guides, and internal
+policies and procedures; and
+
+● Maintain the skills, knowledge, and competence necessary to discharge their
+responsibilities effectively.
+Square AU must establish and maintain a structured training and competency program that
+ensures Representatives receive initial and ongoing training appropriate to their role and the
+complexity of the financial services provided. This includes, where relevant, training on topics
+such as advice and disclosure obligations, financial crimes, data and information security,
+anti-bribery and corruption, conflicts of interest, complaints handling, and breach reporting.
+Ongoing oversight and monitoring will be conducted through supervision, quality assurance
+reviews, and periodic performance reviews to ensure that Representatives continue to meet the
+required standards. Any performance issues, breaches, or concerns relating to a Representativeʼs
+conduct or competence will be investigated and addressed promptly in accordance with Block Inc.
+global Code of Conduct and, if a regulatory breach is identified, Square AUʼs Breach Reporting
+Policy.
+2.2 Representativesʼ Roles in Providing a Licensed Financial Product
+Representatives play a critical role in upholding our AFSL obligations when interacting with
+customers, providing information or advice about financial products, and facilitating product
+access. Every representative must understand the scope of their authority, the limits of the advice
+they can provide, and the disclosure requirements that apply to each interaction.
+In particular, representatives must:
+● Act efficiently, honestly and fairly when dealing with clients.
+● Ensure that any financial service provided is within the scope of the AFSL and their
+individual authorisation.
+● Comply with requirements relating to advice delivery (including general and personal
+advice distinctions).
+● Provide customers with timely and accurate disclosure documents, such as Product
+Disclosure Statements PDS, when required.
+● Escalate or refer any matter that exceeds their authorisation or training to an appropriately
+qualified person.
+2.2.1 General vs Personal Product Advice
+Under the Corporations Act 2001 Cth, financial product advice may be either general advice or
+personal advice.
+● General advice is financial product advice that does not take into account a customerʼs
+personal objectives, financial situation, or needs. It may include factual information,
+opinions, or recommendations about a financial product, but it must be accompanied by a
+General Advice Warning whenever it is provided to a retail client. This warning makes it
+clear that the advice is general in nature and that the customer should consider whether it
+is appropriate for them before acting on it.
+
+● Personal advice is tailored advice that does take into account one or more of the
+customerʼs personal circumstances (objectives, financial situation, or needs) or would
+reasonably be expected to do so. Personal advice cannot be provided under Square AUʼs
+AFSL.
+Square AU ensures that all Representatives dealing with the provision of licensed financial services
+understand the distinction between factual information, general advice, and personal advice to
+prevent inadvertent provision of personal advice without proper authorisation. Where general
+advice is given, the required general advice warning must be communicated at the time. When
+giving general advice, the Representative must inform the customer that:
+● The advice has been prepared without taking into account the customerʼs objectives,
+financial situation or needs; and
+● The customer should consider whether the advice is appropriate for them and read the
+relevant disclosure documents (such as a PDS.
+2.2.2 Provision of Product Disclosure Statement PDS
+A Product Disclosure Statement PDS for our licensed financial products is made publicly available
+on the Square AU website, is agreed to by Squareʼs customers, and can be accessed by customers
+at any time. Representatives may, where appropriate, direct customers to the online PDS or provide
+a copy upon request.
+Square AU ensures that the PDS is readily accessible so customers can review key information
+about our financial products before making a decision.
+2.3 Training of Representatives
+Square AU is committed to ensuring that all Representatives are competent and adequately trained
+to perform their roles in compliance with the AFSL and applicable financial services laws. During
+onboarding, all new Representatives must complete mandatory induction and training covering
+Square AUʼs AFSL authorisations and obligations under the Corporations Act 2001. The onboarding
+program also includes training on key compliance policies and procedures such as conduct,
+conflicts of interest, complaints handling, breach reporting, and customer advice.
+Representatives are instructed on how to provide general advice and factual information
+appropriately, with a clear understanding of the distinction between general and personal advice
+when discussing any licensed financial products with customers or prospective customers.
+Completion of onboarding training is mandatory prior to engaging in any regulated activity.
+Representatives also receive training on regulated products or services at onboarding and prior to
+the launch of any new products.
+2.3.1 Continuous Professional Development CPD
+Square AU maintains a formal annual training and professional development program to ensure
+that Representativesʼ knowledge and competence remain current. Ongoing training includes
+
+annual refresher courses on AFSL obligations and conduct, in addition to other annual compliance
+training modules. Targeted training is also delivered following any changes to internal policies or
+procedures, or where risks, incidents, or thematic reviews identify the need for additional
+capability uplift. Completion of required training is monitored by the Block Inc Compliance Policy,
+Mandatory Training and Support Team, with progress and results tracked and non-completion
+escalated to management and Human Resources where necessary.
+2.4 Oversight of Representatives
+Square AU ensures effective and proportionate supervision of all Representatives to maintain
+compliance with AFSL obligations and to ensure fair outcomes for customers when dealing with
+our licensed financial product. Oversight activities include ongoing quality assurance reviews of
+customer interactions and advice, and other activities relating to licensed products, ensuring that
+they meet both internal policy standards and external regulatory requirements.
+The Responsible Managers and Compliance function monitors Representativesʼ interactions and
+performance to confirm they are acting in accordance with their authorisation and obligations
+under the AFSL. Where risk indicators, complaints, or breaches are identified, additional targeted
+monitoring is conducted. The results of all monitoring activities are documented, and remediation
+or retraining is implemented promptly where deficiencies are found.
+2.5 Conduct and Breach Management
+All Representatives are required to uphold the highest standards of integrity, professionalism and
+compliance when acting on behalf of Square AU.
+All Square AU employees are provided training on the Block go/ethics process for reporting
+potential breaches for review. The Square AU Compliance Notion page has a link to the Breach
+Management page, which includes a link to the form to lodge an incident for review. All Square AU
+Employees have direct access to contact the Compliance Officer via email and Slack (a third-party
+secure intercompany communications software), and have been trained to report any breaches or
+incidents.
+Any instance of actual or suspected misconduct, non-compliance, or breach of AFSL obligations
+by a Representative will be promptly reviewed by the Compliance team and escalated to Legal
+Counsel where appropriate. Where a breach is determined to be a reportable situation, it will be
+escalated to the Responsible Managers and senior management and reported to ASIC within the
+prescribed timeframes under section 912D of the Corporations Act 2001.
+Corrective and preventive actions, including additional training, procedural changes or disciplinary
+measures, will be implemented as appropriate to address the root cause and mitigate the risk of
+recurrence.
+
+2.6 Complaints relating to Representatives
+Complaints relating to the conduct, advice or service provided by Representatives are managed in
+accordance with ASIC Regulatory Guide 271 Internal Dispute Resolution and the Square AU
+Complaints Policy. All complaints are acknowledged and assessed within prescribed timeframes,
+with a fair, thorough, and objective investigation undertaken to determine an appropriate
+resolution. Where a complaint is substantiated, Square AU will provide suitable redress or
+remediation to the customer and implement corrective actions to address any underlying process,
+control, or training deficiencies.
+Complaints data and outcomes are regularly analysed by the Complaints Management Team in
+collaboration with Compliance to identify emerging conduct risks, recurring issues, or systemic
+trends. Insights gained through complaints handling are incorporated into continuous improvement
+initiatives, including Representative training programs and quality assurance reviews. Complaints
+metrics and thematic analysis are reported to the Square AU Board on a quarterly basis, with
+additional monthly reporting to senior management to support proactive oversight and
+accountability.
+2.7 Governance
+Square AU maintains a robust governance framework to ensure effective monitoring, supervision,
+and training of its Representatives in accordance with the obligations of our AFSL. The Board and
+senior management are responsible for ensuring that Representatives act efficiently, honestly and
+fairly in the provision of financial services, and that appropriate systems and controls are in place
+to support compliance with legislative and licence conditions.
+Responsibility for day-to-day oversight of Representatives rests with the Compliance and Risk
+functions, in collaboration with business leaders. These teams ensure that Representatives are
+appropriately authorised, competent, and adequately supervised when providing financial services
+on behalf of Square AU. Ongoing monitoring activities, including quality assurance reviews, call
+monitoring, transaction testing, and periodic compliance assessments, are undertaken to evaluate
+adherence to regulatory and internal policy requirements.
+2.8 Regulatory Program Monitoring, Testing and Reporting
+Square AU maintains a structured and risk-based approach to monitoring and reporting on its
+regulatory programs and in accordance with the compliance Policy. Oversight is coordinated by
+the Compliance and Risk functions, with input from stakeholder teams.
+We focus on three key activities:
+1. Monitoring: Monitoring activities are conducted on a risk-based schedule to confirm that
+key compliance controls are operating effectively. These activities may include but are not
+limited to quality assurance reviews, dashboards, data reviews, reporting reviews,
+exception reporting and analysis of complaints or incidents. Higher-risk areas are subject
+
+to more frequent and detailed monitoring to ensure timely detection and remediation of
+issues.
+2. Testing: Independent and Internal testing and thematic reviews are undertaken through
+Compliance, Risk, or Internal Audit to verify that controls are working as intended. Results
+are documented, issues are tracked and remediation actions are followed through until
+closed.
+3. Reporting: Square AU provides risk based reporting on the performance and effectiveness
+of its compliance programs to ensure transparency, accountability, and informed
+decision-making. Reports highlight program health, key risks, control effectiveness and
+remediation progress, giving senior leaders and committees clear visibility of compliance
+outcomes and areas requiring attention. This ensures consistent oversight and supports a
+strong culture of governance across the business.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+● Board of Directors of Square AU Pty Ltd (“Squate AUˮ):
+○ Oversight and Accountability:
+■ The Board is responsible for ensuring the overall compliance of Square
+AU's operations with the financial services laws, including the adequacy of
+monitoring, supervision, and training programs.
+○ Reporting Structure:
+■ Establish and maintain a reporting structure that requires all supervisors and
+the Compliance Officer to report relevant matters directly to the Board when
+significant or regulatory issues arise.
+● Responsible Managers:
+○ Implementation of Compliance Standards:
+■ Oversee the day-to-day compliance with ASIC RG 104 Licensing: Meeting
+the General obligations, ensuring that representatives comply with financial
+services laws.
+○ Training and Supervision:
+■ Ensure that representatives providing financial services are trained
+according to requirements and continually monitored for adherence to
+competency standards.
+○ Incident Management:
+■ Address non-compliance events promptly, including reporting and
+remediation as per the compliance manual.
+● Chief Compliance Officer Square AU (“CCO Square AUˮ):
+○ Monitoring and Review:
+
+■ Design and execute supervision mechanisms, including periodic reviews,
+spot checks, and self-checking processes to ensure representatives meet
+RG 104 standards.
+○ Training Coordination:
+■ Develop training plans in accordance with RG 146 for representatives who
+provide financial services, recording all relevant training details in the
+Training Register.
+○ Non-Compliance and Complaints:
+■ Handle and document non-compliance incidents and complaints, ensuring
+they are resolved in accordance with the compliance manual and escalate
+issues to the Board as needed.
+● Representatives Employees, Directors, and Other Authorised Individuals):
+○ Adherence to Compliance Procedures:
+■ Follow established procedures for providing financial services, ensuring
+compliance with ASIC guidelines, particularly in providing general financial
+product advice.
+○ Training Participation:
+■ Complete all required training sessions and maintain updated knowledge of
+compliance standards. Retain records of all training completed and provide
+access to the Compliance Officer upon request.
+○ Reporting and Documentation:
+■ Document and report any compliance concerns or breaches to the
+Compliance Officer promptly.
+● Supervisors:
+○ Direct Oversight:
+■ Conduct regular checks on the work of representatives under their
+management, ensuring compliance with financial services law and internal
+policies.
+○ Progress Reporting:
+■ Provide periodic reports to the Compliance Officer and escalate issues
+where further training or disciplinary action may be necessary.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Square AU | Responsible Managers Standard
+Review related references:
+● Regulatory Guide 104 AFS Licensing: Meeting the general obligations (RG 104)
+● Regulatory Guide 146 Licensing: Training of financial product advisers (RG 146)
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+
+Approval History:
+Approver Title Type Description Date
+Program for
+Square AU Pty Monitoring Creation Approved the September 11,
+Ltd Board Supervision and creation of the 2019
+Training of Reps document
+Program for
+Square AU Pty Monitoring Scheduled R… Approved minor December 10,
+Ltd Board Supervision and changes to the 2020
+Training of Reps document
+Program for
+Square AU Pty Monitoring Scheduled R… Approved minor December 9, 2021
+Ltd Board Supervision and changes to the
+Training of Reps document
+Program for
+Square AU Pty Monitoring Immaterial C… Approved minor December 8,
+Ltd Board Supervision and changes to the 2022
+Training of Reps document
+Program for
+Square AU Pty Monitoring Scheduled R… Approved minor December 13,
+Ltd Board Supervision and changes to the 2023
+Training of Reps document
+CCO Square AU
+Lance Howard Scheduled R… Approved November 20,
+Changes for new 2024
+template,
+definitions and
+general updates
+Program for
+Square AU Pty Monitoring Scheduled R… Approved minor December 11,
+Ltd Board Supervision and changes to the 2024
+Training of Reps document - New
+Template
+
+Square AU Square AU Board Material Cha… Alignment of December 18,
+Board Standard with 2025
+operations
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Consumer Protection
+Document Owner Chief Compliance Officer Square AU
+Approved By Square AU Board
+Document Tier Tier 2

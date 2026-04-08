@@ -1,0 +1,649 @@
+Third Party Risk
+Management Policy
+Square | Square Canada Inc.
+Last Approval Date: September 8, 2025
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 5
+Roles and Responsibilities 8
+1. Introduction 13
+2. Purpose 14
+3. Scope 14
+4. Policy Requirements 14
+4.1 What is Outsourcing? 14
+4.2 Intra-Group Arrangements 15
+4.3 Sub-Outsourced Services 16
+4.4.1. Outsourcing Assessment 16
+4.5. Notify, Contract and Register 19
+4.6 Conflicts of Interest 20
+4.7 Training 21
+4.8 Monitoring and Reporting 21
+4.8.1 Ongoing Monitoring 21
+4.8.2 Incident Breach Reporting Structure 22
+4.8.3 Reporting MI to management / Board 22
+5. Non-Compliance 22
+6. Document Management 23
+6.1 Document Owner 23
+6.2 Review and Approval 23
+7. Record Retention 23
+8. Revision and Approval History 24
+9. Document Details 25
+Third Party Risk Management Policy | Square | Square Canada Inc. 2
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Critical Activity Functions that are necessary to perform core retail payment
+activities, unless the institution’s assessment establishes that a failure
+to provide the outsourced function or the inappropriate provision of
+the outsourced function would not have an adverse impact on the
+operational continuity of core retail payment activities, or compliance
+with the Retail Payment Activities Act.
+Intra-group Refers to a Third Party Arrangement between Square Canada and
+Outsourcing any entity within Block.
+Third Party A direct and contractual arrangement between Square Canada and
+Arrangement Third Party (whether an intra-group entity or an external vendor)
+under which the Third Party performs a process, service, or activity —
+or a portion thereof — that is critical to the safety, reliability, and
+security of Square Canada’s retail payment activities, or essential to
+ensuring compliance with the Retail Payment Activities Act and
+Retail Payment Activities Regulations. This applies even if Square
+Canada has not historically performed the process, service, or activity
+in-house.
+Third Party Any references to “Third Party Policy” or “Third Party Program” refer to
+Policy/Program this document.
+Third Party Risk The process of identifying, assessing, and controlling risks that are
+Management presented throughout the lifecycle of Block’s relationships with Third
+Parties. This begins before a Third Party is onboarded, when Block is
+considering whether to engage in a relationship with the Third Party,
+continues through Procurement’s onboarding activities, and extends
+Third Party Risk Management Policy | Square | Square Canada Inc. 3
+
+Confidential and Not for Distribution
+Terminology Definition
+through the offboarding, involving many internal stakeholders who
+contribute to the process.
+Third Party Service A Third Party entity that is undertaking an outsourced process,
+Provider (“TPSP”) service or activity, or parts thereof, under a third party arrangement
+on behalf of Square Canada. The term refers to both external third
+party service providers and intra/inter group service providers.
+Third Party Register Contains details of all outsourced processes, services, or activities. This
+register is maintained by the Chief Risk Officer.
+Service Recipient An individual at Square Canada that is responsible for the delivery of
+the process, service, or activity and the performance of the TPSP.
+Fourth Party Fourth Party Arrangement (also known as sub-outsourcing) occurs
+Arrangement when a TPSP engaged by Square Canada has themselves further
+outsourced the relevant process, service or activity, or parts thereof to
+another TPSP. For the avoidance of doubt, this includes where
+Square Canada has an intra-group Third Party Arrangement with
+another Block entity and that Block entity has sub-outsourced to any
+other individual or entity.
+Staff Member(s) or All employees and fixed-term and contingent workers who support
+Staff the operations and/or subsidiaries covered by this Policy, and include
+interns, temporary workers, consultants, vendors, third-party
+providers, and contractors.
+An employee or external worker (e.g., contingent labour, contractors)
+hired by Square Canada who supports the operations covered by this
+Policy.
+Third Party Risk Management Policy | Square | Square Canada Inc. 4
+
+Confidential and Not for Distribution
+Terminology Definition
+Directly Responsible A single person, independent of function, who directly obtains the
+Individual (DRI) products and services from a third party, and manages an active
+engagement and related contract.
+Roles and Responsibilities
+Oversight and management of Square Canada’s Third Party Arrangements is provided in a
+number of ways through a clear and defined Governance methodology and the Three Lines of
+Defence(LOD) model.
+Role Responsibility DRI (where
+applicable)
+Governance - Board of The Board of Directors holds ultimate
+Directors accountability for oversight of risks related
+third-party arrangements. The Board ensures
+alignment with Square Canada’s strategic
+direction, maintains oversight over key
+third-party risks, and confirms that the policy
+supports sound risk management and
+regulatory compliance.
+Governance - First The Operational Risk and Sellers Health
+Line of Defence - Committee is the sub-committee of the
+Operational Risk and Executive Leadership team and escalates into
+the GRC Committee if required. The committee
+Sellers Health
+will focus on First Line of Defence Operational
+Committee
+Third Party Risk Management Policy | Square | Square Canada Inc. 5
+
+Confidential and Not for Distribution
+Role Responsibility DRI (where
+applicable)
+risk and controls updates, sellers metrics and
+commercial outcomes, and other areas such as
+complaints, hardship data, third party/ vendor
+issues and so on.
+First Line of Defence - The Head of IRO is responsible for managing Liz Samson
+Head of Industry the risks associated with Square Canada’s Third
+Relations and Party Arrangements and operating the controls
+Operations (IRO) to manage these risks.
+First Line of Defence - The Third Party Delivery Coordinator supports
+Third Party Delivery the Third Party Risk Manager and is responsible
+Coordinator (“TPDC”) for the day to day oversight and coordination of
+services received from intra-group services and
+holistic oversight of all Third Party Service
+Providers(TPSPs).
+First Line of Defence - The Service Recipient is responsible for the day
+Service Recipient to day management of the service received
+from the TPSP throughout the lifetime of the
+relationship, ensuring the effective delivery and
+performance of these services.
+First Line of Defence - The Risk SMEs who participate in the program
+Risk Subject Matter come from various Block departments and
+Experts (“RSMEs”) provide expertise in areas such as business
+continuity, compliance, information security,
+and privacy, as relevant to a particular
+relationship. Risk SMEs: (i) provide subject
+matter expertise on their respective risk areas;
+(ii) determine the appropriate level of due
+diligence to be performed based on the initial
+Third Party Risk Management Policy | Square | Square Canada Inc. 6
+
+Confidential and Not for Distribution
+Role Responsibility DRI (where
+applicable)
+risk assessment; and (iii) review due diligence
+documentation and identify key subject matter
+related risks.
+Second Line of The Legal Function is responsible for ensuring Saleha Ali
+Defence - any third party service contracts are legally
+Legal Function binding, in compliance with applicable legal
+and regulatory requirements, the standards as
+described in this Policy, and Square Canada’s
+business model.
+Second Line of The CRO, as the designated Senior Officer for Toni Kuyinu
+Defence - both operational risk management and
+Chief Risk Officer incident response, is responsible for providing
+(“CRO”) Second Line of Defence oversight and
+challenge of all Third Party Arrangements using
+a risk-based approach.
+Second Line of The CCO is responsible for providing Jeff White
+Defence - independent oversight and guidance to the
+Chief Compliance First Line of Defence in order to ensure Third
+Officer Party Service Providers are operating in
+(“CCO”) compliance with regulatory requirements.
+Second Line of The Third-Party Outsourcing Risk Manager is Rhoda Lalog
+Defence - responsible for leading the development,
+Third-Party implementation, and maintenance of the Third
+Outsourcing Risk Party Risk Policy in accordance with regulatory
+Manager requirements, working closely with first line
+Third Party Risk Management Policy | Square | Square Canada Inc. 7
+
+Confidential and Not for Distribution
+Role Responsibility DRI (where
+applicable)
+business stakeholders, risk, compliance and
+legal to ensure the requirements are met.
+Third Line of Defence - Internal Audit is responsible for assessing the
+Internal Audit effectiveness of the performance of Third Party
+Arrangements and the controls required to
+mitigate associated risks through a risk-based
+approach
+Third Line of Defence - Square Canada may determine that an
+Third Parties independent third-party review is warranted to
+provide additional assurance over the
+organization’s third-party management
+practices. When engaged, the individuals
+conducting the review must possess the
+requisite expertise and professional
+qualifications to effectively evaluate the
+third-party risk management program and
+deliver a comprehensive assessment of their
+findings.
+Third Party A TPRO serves as Square Canada’s primary
+Relationship Owner contact and is ultimately responsible for the
+(“TPRO”) Third Party and associated risks throughout the
+Third Party Relationship for Tier 1 Third Parties.
+Other Directly Responsible Individuals (“DRI(s)”)
+may also enter into relationships with Third
+Parties, but only one designee will be the
+Square Canada TPRO. The TPRO may delegate
+tasks to the DRI, but cannot delegate ultimate
+responsibility. TPROs will: (i) support all the
+components of the TPRM Program and policy;
+Third Party Risk Management Policy | Square | Square Canada Inc. 8
+
+Confidential and Not for Distribution
+Role Responsibility DRI (where
+applicable)
+(ii) meet with the third party to review
+performance, scope of work, SLAs (if applicable
+and outlined in the respective governing
+document) and compliance with contractual
+obligations; (iii) oversee the overall third party
+relationship; and (iv) serve as an escalation
+point for any Third Party related issues.
+Procurement Procurement team members assist the TPRM
+Team in implementing the Program.
+Procurement is a team responsible for the
+overarching process that assists in acquisition of
+Third Party products or services.
+Governance - Second The Governance Risk & Compliance Committee
+Line of Defence - provides independent oversight of Square
+Governance, Risk, and Canada and escalates directly to the Board. It
+has been established to meet the requirement
+Compliance (GRC)
+for an effective governance framework,
+Committee
+responsible for the oversight of Square’s
+compliance with applicable laws and its key
+risks, and acts as the primary conduit between
+the business (Line 1) and the Board for
+governance, risk and compliance, including
+incident management, product and policy
+approvals, and risk decisions.
+Third Party Risk Management Policy | Square | Square Canada Inc. 9
+
+Confidential and Not for Distribution
+1. Introduction
+Square Canada (“Square Canada” or “the Company”), a subsidiary of Block, Inc., is a financial
+services and technology company that provides an integrated ecosystem of commerce solutions.
+These solutions include point-of-sale systems, payment processing, e-commerce tools, and
+financial services designed to help businesses of all sizes start, run, and grow. Square Canada
+operates as a payment service provider (“PSP”), offering businesses the ability to accept various
+forms of electronic payments, including credit and debit card transactions, both in-person and
+online. By providing point-of-sale systems, payment processing services, and e-commerce
+solutions, Square Canada facilitates financial transactions for merchants across the country and
+operates in a capacity that may be considered a Money Services Business (“MSB”) under
+Canadian regulatory definitions.
+Outsourcing involves the use of a third party service provider in any number of operational
+functions to perform ongoing activities (including agreements for a limited period), that would
+normally be undertaken by Square Canada personnel. This includes both critical and non-critical
+operational functions. While Square Canada does not itself conduct banking activities, we do rely
+on bank partners, our parent company Block Inc. Group (“Block”), and other third parties for
+services that support our operations. Where those services involve the delegation of activities
+that Square Canada could reasonably perform itself (e.g., reconciliation, onboarding support,
+transaction monitoring), they may be considered outsourcing and should be subject to
+appropriate oversight, regardless of whether the service provider is a financial institution or not.
+Third party arrangements generate risks for Square Canada. These risks must be identified and
+relevant controls applied prior to Square Canada entering into the arrangement, and these risks
+must be effectively managed throughout the third party management lifecycle. The purpose of
+this Third Party Risk Management Policy (“the Policy”, “this Policy”) is to document Square
+Canada’s approach to doing this, aligned with applicable legal and regulatory requirements and
+relevant supervisory guidance.
+As a member of the Block, Square Canada is subject to Block’s Third Party Risk Management
+Policy, which ensures that all third party vendors are reviewed and assessed in accordance with
+such policy at the Block level. This Policy should be read in conjunction with the Block Third Party
+Risk Management Policy. Where there is a conflict between the Block Third Party Risk
+Management Policy and this Policy, this Policy will prevail.
+Square Canada recognizes that the delegation of activities under a Third Party Arrangement
+does not result in any delegation of responsibility, and that ultimate responsibility for outsourced
+Third Party Risk Management Policy | Square | Square Canada Inc. 10
+
+Confidential and Not for Distribution
+processes, services, or activities remains with Square Canada Management and the Square
+Canada Board at all times.
+2. Purpose
+The purpose of this Policy is to set out Square Canada’s approach to the planning,
+implementation, monitoring and management of ‘Outsourcing’ of activities by Square Canada to
+third party service providers (“TPSPs”).
+3. Scope
+This Policy is established by Square Canada and is applicable to all Square Canada Third Party
+Arrangements and Square Canada Staff Members. References to “Staff Members'' throughout
+this document shall refer to all employees and fixed-term and contingent workers who support
+the operations and/or subsidiaries covered by this Policy, and includes interns, temporary
+workers, consultants, vendors, third-party providers, and contractors, regardless of the
+geographic location of such individuals.
+4. Policy Requirements
+4.1 What is Outsourcing?
+Square Canada defines a third party relationship as ‘an arrangement between Square Canada
+and any other individual or entity that provides products or services to Square Canada via an
+ongoing relationship’. Vendor arrangements can be either ‘Outsourcing’ or ‘Non-Outsourcing’
+arrangements, and vendors can be either external third parties or other Block Inc. entities.
+Square Canada defines outsourcing as ‘an arrangement between Square Canada and a vendor
+(whether intra-group, or an external third party) by which the vendor performs a process, a
+service or an activity, or parts thereof, that would otherwise be undertaken by Square Canada,
+even if Square Canada has not performed that process, service or activity in the past’. Not all
+activities will be Outsourcing (an analysis will be required on a case-by-case basis). This Policy
+describes Square Canada’s minimum requirements to manage the risks arising from outsourcing
+activities, both from external third parties and within Block.
+Implementation of the standards laid out in this Policy will ensure that Square Canada has a
+robust policy to ensure the following:
+Third Party Risk Management Policy | Square | Square Canada Inc. 11
+
+Confidential and Not for Distribution
+● That Square Canada remains fully responsible for all outsourced activities;
+● That a risk management framework is embedded which allows for sufficient oversight
+of the outsourced activities;
+● That the impact of any Third Party Arrangement is fully considered and understood;
+and that Square Canada retains the competence and ability to assess the TPSPs
+performance;
+● That all Third Party Arrangements are formalised in a contract between Square Canada
+and the TPSP, that sets out all respective roles, responsibilities, rights, and obligations
+and meets the requirements set out in this Policy;
+● That the TPSP has adequate risk management and internal control systems in place,
+and that Square Canada incorporates the oversight of outsourced functions and
+activities into its own risk management framework;
+● That the TPSP has sufficient resources in place in terms of quality, quantity, and
+availability to perform the outsourced functions and activities;
+● That the TPSP is compliant with relevant confidentiality and sensitive data provisions
+and has adequate contingency arrangements in place;
+● That Square Canada notify necessary stakeholders and relevant authorities, such as
+Bank of Canada in a timely manner and in line with regulatory notification
+requirements of any major operational or security incidents;
+● That Square Canada notifies the Bank of Canada in a timely manner and in line with
+regulatory notification requirements of any critical functions or activities to be
+outsourced;
+● That Square Canada has full access to perform audit and/or assurance of the TPSP and
+the TPSP will be fully cooperative with this audit/assurance review;
+● That where full contractual risk controls cannot be implemented, due to the use of
+standardized agreements or limitations in existing contracts, Square Canada will rely
+on compensating controls such as enhanced monitoring, alternative reporting
+mechanisms, or termination and contingency planning; and
+● That the outsourcing of critical functions and activities does not undermine the
+continuous and satisfactory service to Square Canada customers and stakeholders.
+4.2 Intra-Group Arrangements
+Outsourcing services provided by Block entities to Square Canada also fall in scope of this Policy
+(“Intra-Group Outsourcing”). The Block service provider will be regarded as a TPSP for the purpose of
+this Policy. Square Canada applies the same requirements to Intra-group Outsourcing as to Third
+Party Arrangements with external third parties. Square Canada recognises that Intra-group Third
+Party Arrangements can present unique risks. For Intra-group Outsourcing, Square Canada shall
+ensure that the arrangement is organised on an ‘arm’s length’ basis. The selection of the intra-group
+Third Party Risk Management Policy | Square | Square Canada Inc. 12
+
+Confidential and Not for Distribution
+entity must be based on objective reasons, any conflicts of interest inherent in the Third Party
+Arrangement must be identified and managed in line with the Conflicts of Interest Policy, and the
+arrangement must not impair Square Canada’s ability to comply with its regulatory obligations.
+Square Canada shall ensure that it is in a position to exert sufficient influence on the intra-group
+arrangements and that any necessary remediation of outsourced services, processes, or activities
+that impacts on Square Canada are given appropriate prioritisation by Block.
+4.3 Sub-Outsourced Services
+Sub-outsourcing occurs when an TPSP engaged by Square Canada has themselves further
+outsourced the relevant process, service or activity, or parts thereof to another TPSP. Intra-Group
+Outsourcing can often involve sub-Outsourcing.
+The TPSP must undertake appropriate due diligence (at a minimum aligned with the standards as
+set out in this Policy) on its sub-TPSPs, to ensure that Third Party Arrangements are delivered in line
+with the Outsourcing Contract between Square Canada and the TPSP. The TPSP must also maintain
+information (e.g. reporting on compliance with SLAs and KPIs, information on any compliance
+monitoring / audit reviews, breach logs, etc) on the Sub-outsourcing arrangement which is necessary
+for Square Canada to maintain effective oversight of these arrangements. The TPORM, with support
+from TPDC and Service Recipient must ensure that the Outsourcing Register and relevant due
+diligence contains sufficient information relating to the Sub-Outsourcing Arrangement (as described
+in the Outsourcing Register section of this Policy), and that these arrangements are subject to
+adequate monitoring and oversight, consistent with the standards set out in this Policy and the
+expectations of the Bank of Canada under RPAA. In addition, TPSPs must notify Square Canada of
+any material sub-outsourcing arrangements related to the services they perform for Square.
+4.4. Third Party Assessments
+4.4.1. Criticality Assessment
+Not all vendor relationships will be regarded as outsourcing, and require a case-by-case analysis. In
+order for Square Canada to manage outsourcing risk effectively, it is necessary to identify outsourced
+services (from non-outsourced services) and determine the criticality and importance (henceforth
+“criticality” or “critical”) of those arrangements.
+To identify outsourced services and determine the criticality of any arrangement, Square Canada has
+developed an ‘Outsourcing and Criticality Assessment Tool’. This tool is completed for any
+prospective outsourced arrangement at the initial onboarding stage and periodically (for outsourced
+services). When assessing the criticality of a Third Party Arrangement, Square Canada views the
+Third Party Risk Management Policy | Square | Square Canada Inc. 13
+
+Confidential and Not for Distribution
+outsourcing of these services to be of such importance that any failure or weakness with the service
+provision, would have a significant impact on Square Canada’s retail payment activities, continuing
+business operations and/or adherence to its regulatory obligations.
+The service recipient must complete an outsourcing and criticality assessment, as requested by the
+TPORM, and submit this for review and approval when:
+1. Entering into a Third Party Arrangement;
+2. The scheduled annual review of critical outsourced arrangements occurs;
+3. Square Canada plans to make a substantive change to their use of a particular Third Party
+Arrangement e.g. where Square Canada plans to scale up use or dependency on an TPSP;
+4. There is a change in service provision including changes to sub-outsourced providers.
+The outcome of the criticality assessment will determine the measures that are applied to each
+Outsourcing Arrangement.
+4.4.2 Due Diligence
+Before engaging any third party, Square conducts a comprehensive due diligence review to assess
+the provider’s capability, regulatory compliance framework, and risk controls. The due diligence
+evaluates both qualitative and quantitative factors, including business reputation, experience,
+regulatory compliance, cybersecurity frameworks, subcontracting practices, and operational and
+data security risk frameworks.
+Due diligence must be completed before contracting and must be refreshed periodically
+throughout the lifecycle of the arrangement, particularly for TPSPs deemed critical and/or impacts
+the provision, availability and performance of Square Canada retail payment activities. All due
+diligence findings are documented and reviewed by the Compliance, Legal and Risk DRIs, and any
+issues are escalated to the GRC Committee as appropriate. International third parties and TPSPs are
+subject to enhanced due diligence that considers jurisdictional risks.
+4.4.3 Risk Assessment
+Square Canada recognizes that in order to effectively monitor, manage and mitigate Third Party
+risks, it must implement a robust TPRM framework from the point an activity is proposed to be
+performed by a third party vendor or a Square Canada affiliate, and continues throughout the
+lifecycle of the arrangement.
+Particularly for all TPSPs, Square Canada must maintain an accurate view of risks associated with
+each TPSP Arrangement, including appropriate due diligence on TPSPs at onboarding and periodic
+reviews throughout the lifecycle of the relationship.
+Third Party Risk Management Policy | Square | Square Canada Inc. 14
+
+Confidential and Not for Distribution
+Square Canada will maintain a TPSP Register that captures key risk information about each TPSP,
+including its risk profile, control framework, ongoing performance and inherent risks associated with
+the services provided. This Register serves as a central mechanism for maintaining oversight and
+informing Square Canada’s risk-based decisions regarding TPSP arrangements.
+4.4.4 Business Continuity
+Business Continuity Management (“BCM”) is a fundamental component of the appropriate
+management of outsourcing risk. For all Third Party Arrangements, the due diligence completed on
+the TPSP must include an assessment of the BCP arrangements, and this must be reviewed on a
+periodic basis. Square Canada must complete testing of BCP arrangements for critical Third Party
+Arrangements on a periodic basis.
+4.4.5 Operational Resilience
+Entering into an Outsourcing Arrangement creates a dependency on a third party for the resilience
+of Square Canada. Sub-Outsourcing can further complicate the effective management of critical or
+important activities. Square Canada’s critical or important business services should be able to remain
+within impact tolerances, including when they rely on TPSPs. In addition, due diligence of an TPSP’s
+Operational Resilience conditions form part of Outsourcing due diligence. The Outsourcing
+Agreements which are put in place should detail how critical or important services will be
+maintained during a disruption and include an Exit strategy to be applied if/when the service cannot
+be maintained.
+4.5. Notify, Contract and Register
+4.5.1 Outsourcing Agreement
+All Third Party Arrangements must be covered by an Outsourcing Contract. It is the responsibility of
+the Service Recipient and Third Party Delivery Manager (with support and guidance from
+Procurement, Legal and the Third Party Risk Manager) to ensure that an Outsourcing Contract is in
+place prior to any new Outsourcing Arrangement being undertaken. The Outsourcing Contract must
+clearly state the rights and obligations of the parties, and must be reviewed by Legal, and signed by
+an authorised signatory in accordance with the Block, Inc. Global Signature and Delegation of
+Authority Policy.
+The Service Recipient and Third Party Delivery Manager will be primarily responsible for monitoring
+the TPSPs adherence to the terms of these contracts. All Square Canada Outsourcing Contracts
+must include the Outsourcing Annex which is designed to ensure that the provisions set out in
+Third Party Risk Management Policy | Square | Square Canada Inc. 15
+
+Confidential and Not for Distribution
+relevant regulatory guidance including those in relation to termination, access, information and
+audit rights are captured in all Outsourcing Contracts.
+Square Canada will review and, where necessary, update Outsourcing Contracts in the following
+circumstances:
+● Periodic reviews in line with the requirements contained in this Policy and further
+detailed in the Square Canada Outsourcing Procedure;
+● Material changes to the nature or extent of the arrangement with TPSP; and
+● Any regulatory changes that occur that could impact the contract.
+The Service Recipient is responsible for scheduling reviews of all Outsourcing Contracts, and for
+ensuring that these reviews are conducted, including ensuring that renewals of Outsourcing
+Contracts are conducted in a timely manner to ensure smooth transitions or continuity of service.
+4.5.2 Outsourcing Register
+Square Canada has developed a Third Party Register to be used. The Third Party Risk Manager
+maintains this Outsourcing Register, which forms part of Square Canada’s Third Party Register.
+The Outsourcing Register must be available to the Bank of Canada on request.
+4.5.3 Regulatory Notification (if required)
+Square Canada is required to make available to the Bank of Canada all information necessary to
+enable the Bank of Canada to execute the effective supervision of Square Canada, including,
+where required, a copy of any relevant Outsourcing Agreement(s) entered into by Square
+Canada.
+Square Canada is also required to notify the Bank of Canada of changes in its Critical Third Party
+Arrangements through Significant Change Reporting and with information as requested, and
+therefore all documentation referenced in this Policy must be stored in such a manner that it is
+available on demand if requested.
+Square Canada must report to the Bank of Canada should material events occur in relation to
+Square Canada’s Third Party Arrangements. Square Canada will inform the Bank of Canada when
+the following occurs:
+● Matters/events giving rise to a significant change to the outsourcing aspects of Square
+Canada’s business model;
+Third Party Risk Management Policy | Square | Square Canada Inc. 16
+
+Confidential and Not for Distribution
+● When a material event occurs, which affects the provision of critical Third Party
+Arrangements by an TPSP; and
+● When material breaches of contractual arrangements or SLAs arise which affects Square
+Canada in the conduct of its regulated services or adversely affects Square Canada’s
+customers.
+It is the responsibility of the Head of IRO to identify these issues, and for Legal and the CRO to
+determine whether a notification to the Bank of Canada is required.
+4.6 Conflicts of Interest
+Square Canada has a Conflicts of Interest Policy in place. This policy sets out the measures within
+Square Canada to identify, assess, and manage any actual or potential conflicts of interest that may
+arise as a result of its Third Party Arrangements. Conflicts of interest inherent in Third Party
+Arrangements are, in part, managed through having outsourcing contracts in place and
+documented SLAs that are subject to ongoing monitoring and reporting. Where conflicts of interest
+are identified in relation to an Outsourcing Arrangement, they must be managed in line with the
+requirements in the Conflicts of Interest Policy, including by logging the conflict on the conflicts
+register. On an annual basis, the Conflicts of Interest pertaining to Third Party Arrangements will be
+reviewed to look at any measures taken to resolve or manage conflicts of interest (if any). If Square
+Canada determines that it is not able to adequately mitigate the identified conflict, the Outsourcing
+Arrangement must be declined/terminated. Please see the Square Canada Conflicts of Interest
+Policy for more details on management of conflicts.
+4.7 Training
+Square Canada must ensure that all Staff, senior management and the Board have sufficient
+knowledge and understanding of Outsourcing and the associated risks. The TPORM, with oversight
+from the Head of IRO, is responsible for the development and delivery of a risk-based outsourcing
+training program within Square Canada. At a minimum, Square Canada shall provide
+tailored/specific training to the employees and departments based on their involvement in
+outsourcing processes, and will provide refresher training on an annual basis. All members of the
+Board of Directors will also receive outsourcing training on an annual basis.
+4.8 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+Third Party Risk Management Policy | Square | Square Canada Inc. 17
+
+Confidential and Not for Distribution
+4.8.1 Ongoing Monitoring
+Square Canada must have in place appropriate mechanisms to oversee, monitor and assess the
+appropriateness and performance of its Third Party Arrangements. Each Outsourcing Arrangement
+is different and the appropriate measures to be applied will vary based on the details of each
+arrangement.
+Square Canada must conduct due diligence on TPSPs prior to entering into the Outsourcing
+Arrangement, as well as on a periodic basis. The frequency of the due diligence reviews depend on
+the risks and criticality associated with the services. Critical services will be reviewed more frequently
+than low risk services.
+The Head of IRO must ensure that Square Canada maintains adequate and risk-based monitoring of
+Third Party Arrangements. On a day-to-day basis, the Service Recipient and Third Party Delivery
+Manager will be primarily responsible for facilitating this monitoring, with oversight and challenge
+coming from Second Line of Defence and Third Line of Defence.
+Should ongoing monitoring activity identify instances in which an TPSP is not delivering the
+Outsourced Arrangement in line with Square Canada requirements or the Outsourcing Contract, the
+Service Recipient in consultation with the TPDC, TPORM, Head of IRO and Legal is responsible for
+taking any steps necessary. This may include liaising with the TPSP on an action plan to remediate
+identified issues, escalating this to a relevant Square Canada governance committee (up to and
+including the Square Canada Board), or activating the termination clause in the Outsourcing
+Contract.
+Outside of the annual reviews, the Outsourcing Recipient is required to advise the TPORM should
+there be a proposed change in the nature of the outsourced arrangement. The Service Recipient
+must ensure that all relevant detail pertaining to the change in arrangement is provided to the
+TPORM, to give the TPORM enough time to facilitate and oversee a reassessment of the service and
+any additional due diligence and any notifications required to the regulator.
+4.8.2 Incident Breach Reporting Structure
+For all Third Party Arrangements, Square Canada must be informed by the TPSP where outsourcing
+incidents have occurred. Where identified, incidents and breaches must be discussed at the OOC
+and at the RGC where required. Square Canada have defined what constitutes a material
+event/breach in its Incident Severity Definitions and Thresholds (go/sevlevels) procedure. Square
+Canada maintains an incident register that tracks all incidents (including outsourcing incidents),
+which contains information such as dates of when the incident occurred and specific steps to resolve
+these incidents.
+Third Party Risk Management Policy | Square | Square Canada Inc. 18
+
+Confidential and Not for Distribution
+In addition to the above, Square Canada has a Customer Impacting Error Handling Framework
+Overview, a Customer Impacting Error Handling Procedure, and a Consumer Impacting Error
+Reporting Procedure in place, which relate to incidents that have a customer impact. These
+procedures outline details of the incident reporting requirements to senior management and to the
+Regulator.
+4.8.3 Reporting Management Information to management/Board
+Square Canada should ensure that appropriate management information (“MI”) is provided to
+Management Committees and the Board, which includes sufficient detail to enable those bodies to
+challenge the establishment and oversight of Outsourcing, and to enable key decision makers,
+including the [Senior Officer/CRO] to make informed decisions. The Head of IRO is responsible for
+overseeing the production of relevant management information on the nature of and outcomes
+from ongoing monitoring of Third Party Arrangements, and providing this to the respective bodies.
+5. Non-Compliance
+Non-Compliance with this Policy, whether negligent or intentional, will be taken seriously. Failure to
+report any knowledge or suspicion of malpractice, wrongdoing or impropriety at work may
+constitute misconduct. Any Staff Member who has concerns that the requirements under this Policy
+are not being met are encouraged to ‘speak up’ by raising an issue with their line manager or
+following the reporting procedures set out in the Code of Conduct.
+5.1 Exceptions
+Exceptions to this Policy must be pre-approved by the CCO. Staff members may submit exception
+requests for review at go/policyhelp. Exemptions should be narrow in scope and clearly identify the
+specific requirement, geography, and business group or stakeholders covered by the exemption. A
+record of all exemptions applied for, and granted, must be maintained by the TPORM.
+6. Document Management
+6.1 Document Owner
+This Policy is owned by the Chief Risk Officer (CRO). The CRO is responsible for the establishment
+and implementation of the Outsourcing Policy requirements. They ensure at a minimum that this
+policy is reviewed bi-annually, to ensure it continues to align with Square Canada’s outsourcing
+Third Party Risk Management Policy | Square | Square Canada Inc. 19
+
+Confidential and Not for Distribution
+strategy, control framework, and the regulatory environment. Any updates to the Policy will need to
+be approved by the CRO.
+6.2 Review and Approval
+This Policy will be approved and reviewed by the Board, at least annually. The Square Canada
+Board is responsible for ensuring adequate oversight of all Third Party Arrangements. All Third
+Party Arrangements are required to meet the standards set out in this Policy.
+7. Record Retention
+Records related to compliance with this policy -including, but not limited to, due diligence on
+TPSPs, criticality assessments, and risk assessments - must be stored in a manner that ensures
+prompt availability for review and retained in accordance with Square Canada’s record retention
+practices. Measures must also be in place to prevent unauthorized deletion, destruction, or
+amendment of these records, in alignment with RPAA requirements.
+8. Revision and Approval History
+over Title Type Description Dat
+Department Stakeholder Title Approval Approval Comments
+Name Date
+(Approver) (copy and
+✓
+paste )
+Enterprise Toni Kuyi… Chief Risk Officer, ✓ Jun 13, 2025
+Risk Square Canada
+Compliance Jeff White Chief Compliance ✓ Jun 12, 2025
+Officer, Square
+Canada
+Compliance Safiya A… Head of Canada ✓ Jul 10, 2025
+Compliance -
+(Square, Cash &
+Third Party Risk Management Policy | Square | Square Canada Inc. 20
+
+Confidential and Not for Distribution
+Afterpay)
+Legal Saleha Ali Head of Legal, ✓ Jun 4, 2025 Approved
+Square Canada pending
+resolution of final
+comments
+IRO Liz Sams… Head of Industry ✓ Jul 9, 2025
+Relations and
+Operations, Square
+Canada
+TPRM Paulo Va… Global Lead, Third ✓ Jul 30, 2025
+Party Risk
+Management
+SQ CA Person SQ CA Board of ✓ Sep 8, 2025
+Board of Directors
+Directors
+9. Document Details
+Business Square
+Scope Regional - Canada
+Compliance Domain Compliance Governance
+Document Owner Chief Risk Officer, Canada
+Third Party Risk Management Policy | Square | Square Canada Inc. 21
+
+Confidential and Not for Distribution
+Last Approval Date September 8, 2025
+Effective Date September 8, 2025
+Approved By Chief Risk Officer, Canada
+Document Review Schedule Annual
+Third Party Risk Management Policy | Square | Square Canada Inc. 22

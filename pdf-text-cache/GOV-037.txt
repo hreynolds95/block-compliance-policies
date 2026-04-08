@@ -1,0 +1,335 @@
+Regulatory Change Management Standard
+Block, Inc.
+Last Approved: Jan 29, 2026
+Effective Date: Jan 29, 2026
+1. Overview
+Introduction and Purpose: Block, Inc. (“Blockˮ) conducts business in compliance with all
+applicable laws, rules, and regulations (“LRRsˮ). This Regulatory Change Management (“RCMˮ)
+Standard (“Standardˮ) is designed with the objective of ensuring consistent and effective
+compliance with currently applicable LRRs. To meet this objective, this Standard establishes the
+framework for systematically managing and adapting to Regulatory Changes that impact Blockʼs
+customer facing activities, services and operations (“Customer Impacting Activitiesˮ) within the
+jurisdictions that it operates. RCM is an end-to-end process that supports Block identifying,
+managing, and maintaining effective and consistent compliance with the LRRs that are applicable
+to its Customer Impacting Activities.
+This Standard is designed to establish a framework for:
+● Defining the overarching guiding principles for managing Regulatory Changes
+● Establishing roles and responsibilities to drive accountability for the overall Regulatory
+Change management process
+● Tracking and monitoring enacted LRRs within the scope of RCM
+● Communicating changes to LRRs to the impacted stakeholders
+● Ensuring that stakeholders implement risk mitigation measures and document compliance
+with applicable LRRs
+Scope: This standard is established by Block to set out a consistent and effective approach to
+managing compliance with enacted LRRs applicable to its U.S. based operations. Regulatory
+changes include changes to existing LRRs, along with newly enacted LRRs. The following are
+outside the scope of RCM (i) laws applicable to proposed or contemplated products until the
+product is made available to customers, (ii) LRRs applicable to Blockʼs non-Customer Impacting
+Activities, and (iii) LRRs applicable solely to Cash App Taxes.
+1
+
+The scope of LRRs covered by this Standard will constantly change. The Regulatory Change
+Management team will incorporate additional LRRs to the Obligations library as it becomes aware
+of new or changed LRRs and new or changed Customer Impacting Activities.
+This Standard governs the management of go-forward regulatory changes, and does not apply to
+regulatory changes enacted prior to the RCM program launch date Sept 30, 2025.
+Definitions:
+Terminology Definition
+Applicability Refers to determining which LRRs (also referred to collectively as
+Obligations) govern Blockʼs Customer Impacting Activities.
+Ascent An AI driven Regulatory Change Management tool that allows Block to track
+new and changed LRRs. Ascent breaks the LRRs into Obligations, and
+facilitates the systematic review of new or changed Obligations to
+determine Applicability.
+Customer Customer Impacting Activities includes all of Blockʼs products, services, and
+Impacting directly supporting operations. It does not include Blockʼs corporate
+Activities activities, such as corporate governance, tax compliance, and Blockʼs
+employee related activities.
+Directly DRI is a designated/directly responsible individual, accountable for decision
+Responsible making. Go/DRI
+Individual (“DRIˮ)
+LRR A law, rule, or regulation duly enacted by a governing body in a jurisdiction.
+Obligation Any individual requirement or expectation that Block must comply with to
+fulfil legal and compliance responsibilities.
+Protecht Protecht is a Governance Risk and Compliance (“GRCˮ) tool managed by
+Enterprise Risk Management (“ERMˮ) that Block utilizes to enable
+Compliance Risk Management programs, including RCM. Protecht serves as
+a system of record for RCM.
+Regulatory
+Change Any addition, removal, or modification of LRRs.
+Regulatory Regulatory Change Management is a process designed to monitor, track,
+Change review, and ensure measures are taken to comply with Regulatory Changes
+Management that are applicable to Customer Impacting Activities.
+Regulatory Regulatory Change Owners are Staff Members responsible for managing
+Change Owner the assessment and implementation of regulatory changes. Regulatory
+Change owners serve as the conduit to the business. Regulatory Change
+Owners typically consist of Product Compliance Managers, Compliance
+2
+
+Terminology Definition
+Program Leads or Managers, or other individuals responsible for ensuring a
+Regulatory Change has been assessed and relevant risk treatments have
+been fully executed and evidenced appropriately. The Regulatory Change
+Owner will be responsible for representing that the Regulatory Change is
+ready for closure by ensuring that all necessary actions have been taken to
+ensure compliance with the Regulatory Change for the brand or product
+they represent.
+Regulatory Library A centralized collection of LRRs applicable to Blockʼs Customer Impacting
+Activities.
+RCM Program The individuals designated by Counsel and Compliance, respectively, to
+Manager manage the RCM program.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired
+by Block who supports the operations covered by this RCM Program.
+2. Standard Requirements
+This Standard establishes a cohesive framework that guides Blockʼs RCM process, promoting
+uniformity across all activities associated with Regulatory Changes. It is structured into key
+elements, each representing a crucial component of the end-to-end programmatic approach to
+effectively managing Regulatory Changes. The RCM framework utilizes two tools: 1 Ascent, which
+identifies Regulatory Changes and reduces them into Obligations, and 2 Protecht, which is Blockʼs
+GRC tool and RCM system of record. The efficacy of the RCM process is monitored by the RCM
+Program Managers.
+2.1. Obligation Identification
+Through Ascent, Regulatory Counsel monitors LRRs to identify Regulatory Changes that impact
+Customer Impacting Activities. Regulatory Counsel monitors more broadly than existing LRRs to
+ensure it identifies new and changed Applicable LRRs not currently included in the Regulatory
+Library.
+2.2. Block Applicability Assessment
+The relevant Counsel subject matter expert (“SMEˮ) is responsible for determining which Obligations
+shall enter the Regulatory Change Management process because Counsel has determined that they
+are applicable to Blockʼs Customer Impacting Activities. Once determined Applicable to Customer
+Impacting Activities, the SME makes a preliminary determination as to which Block brand(s) the
+Regulatory Change may apply.
+3
+
+Obligations deemed applicable to Block are then assessed for a product-level Applicability
+determination.
+In some cases, a determination may be made that a Regulatory Change is “immaterial,ˮ i.e., it has no
+or de minimis impact on Customer Impacting Activities. Examples include, but are not limited to,
+minor grammatical or non-substantive changes to an obligation. Where it has been determined that
+the change is immaterial, an RCM Program Manager or other stakeholder may determine that it is
+appropriate to bypass completion of the Risk Assessment and close the Regulatory Change with
+sufficient justification.
+2.3. RCM Risk Assessment
+The RCM Risk Assessment measures the impact of Regulatory Changes and assesses the current
+control environment, which enables assessment of the calculated residual risk. The RCM Risk
+Assessment utilizes the Enterprise Risk Management ERM Methodology and scales with the intent
+of assessing Blockʼs readiness for complying with Regulatory Changes. An RCM Risk Assessment
+must be completed by the assigned Regulatory Change Owner for each applicable Block brand,
+unless the Regulatory Change is deemed immaterial as described above. The Regulatory Change
+Owner(s) will typically be a Product Compliance Manager (“PCMˮ), International Compliance Lead,
+Financial Crime Program Managers, or Consumer Protection Compliance Program Managers
+responsible for evaluating the regulatory risks associated with the Regulatory Change and assessing
+the adequacy of existing controls to mitigate these risks. In consultation with Compliance leadership
+and key stakeholders, an RCM Program Manager will assign a Regulatory Change Owner for each
+impacted brand.
+An RCM Risk Assessment must be performed for, or aligned to, each Regulatory Change. In the
+event that one RCM Risk Assessment can be performed for multiple associated new/changed
+obligations, that Risk Assessment must be manually aligned to each applicable obligation in Protecht.
+The RCM Risk Assessment follows the below steps:
+1. Impact Assessment (absent controls)
+2. Probability Assessment (absent controls), which comprises:
+a. Likelihood Assessment (absent controls)
+b. Frequency/Exposure Analysis
+3. Control Assessment (degree of mitigation)
+4. Residual Risk outcomes
+The RCM Risk Assessment process and corresponding results are intended to inform decisions
+made in the Risk Treatment phase of the Regulatory Change Management process. The residual risk
+outcomes should be indicative of the priority and/or urgency of the Regulatory Change, and should
+also correlate to the type and scope of action that must be taken to address the Regulatory Change.
+4
+
+2.3.1. Inherent Risk Assessment
+Inherent risk is the pure risk exposure that exists prior to consideration of controls or other mitigation
+and management activities. The risk of Regulatory Changes are assessed to establish the severity of
+consequences (impact) and their probability of occurrence (likelihood + frequency of exposure).
+Impact Assessment: The impact of a potential risk event to Block without controls in place to
+mitigate the risk. Refers to the potential consequences or severity of a risk occurring. See the
+Impact Rating guidance in Protecht).
+Likelihood: Quantifies the chance or frequency with which a specific risk is expected to occur based
+on historical data, expert judgment, or analysis.
+Frequency of Exposure: Measures the rate of risk inducing activity (exposure rate) - how often
+Block puts itself in a position where the risk inducing activity could happen. It does not indicate how
+often risk inducing activity actually occurs.
+2.3.2. Control Assessment
+A control is a specific measure, process, procedure, mitigating factor or management action
+implemented by Block to mitigate risks and help ensure that objectives are achieved effectively and
+efficiently.
+The Control Assessment evaluates the combined effectiveness of the set of controls (control
+environment) as it relates to the requirements imposed by the new or changed obligations. While
+controls may presently be in place, and effective, this assessment will consider how these controls
+are designed and/or operating as it relates to the risk imposed by the Regulatory Change.
+The Control Assessment shall reflect the current state of the control or controls without considering
+any modifications that may be made in the future.
+2.3.3. Residual Risk Ratings
+Residual risk is the level of risk exposure that exists after controls and mitigation strategies in place
+to address identified risks have been considered. It represents the risk that has not been entirely
+eliminated or mitigated by existing controls. For purposes of RCM, the Residual Risk Rating may
+represent an opportunity to take action such as enhancing existing controls or developing new
+controls. The Resulting Residual Risk rating will inform the decision making process when
+determining the appropriate Risk Treatment.
+2.4. Risk Treatment
+Risk Treatment refers to the strategy or actions necessary to timely address residual risks associated
+with a Regulatory Change. In determining an appropriate Risk Treatment, the Regulatory Change
+Owner shall consider any gaps, weaknesses, or risk mitigation opportunities identified through the
+RCM Risk Assessment process. The RCM Risk Assessment process should directly inform what
+5
+
+actions (in the form of Risk Treatments) are necessary to enable compliance with the Regulatory
+Change.
+The four risk treatment options are:
+1. Issue Creation
+2. Monitoring
+3. Implementation Plan Creation
+4. No Further Action Required
+At least one Risk Treatment will be selected for each brand deemed impacted by a given Regulatory
+Change. Multiple risk treatments can be selected for each brand as circumstances dictate. One risk
+treatment (such as an Issue or Implementation Plan) may be associated with multiple Regulatory
+Changes.
+2.4.1. Issue Creation
+An Issue is any deficiency, gap, or weakness in the design or operating effectiveness of a process or
+control. For purposes of RCM, an issue should be selected as a risk treatment when the effective
+date of a Regulatory Change is in the past or an Implementation Plan goes past due, and the above
+definition of an issue is satisfied.
+Upon opening an issue, the issue will be governed by the Enterprise Risk Management Issues
+Management Program.
+2.4.2. Monitoring
+It may be appropriate to continue to monitor a Regulatory Change due to internal or external factors.
+For example, if there is ongoing litigation or pending legislation that could substantially impact a
+Regulatory Change, monitoring the external environment may be the appropriate risk treatment.
+Justification provided should be clear, comprehensive, defensible, and easily understood by an
+independent reader.
+A monitoring timeframe must be selected to indicate the length of time the Regulatory Change will be
+monitored. The timeframe should not exceed the effective date of the Regulatory Change.
+Upon the earlier of 1 the conclusion of the monitoring period or 2 the effective date of the
+Regulatory Change, another risk treatment must be selected.
+2.4.3. Implementation Plan Creation
+An Implementation Plan outlines the actions that will be taken to ensure full compliance with a
+Regulatory Change. An Implementation Plan should include enough detail to document the changes
+made (if any) to Blockʼs operations, products and/or services to comply with the Regulatory Change.
+The actions outlined in the Implementation Plan should correlate to outcomes and tangible
+deliverables that will be uploaded to evidence completion of the Implementation Plan. An
+Implementation Plan should outline what will be achieved, but does not need to detail exactly how it
+will be achieved.
+6
+
+Implementation Plans should drive accountability by including names/roles of individuals responsible
+for a given action, along with a due date.
+As appropriate, supporting documentation must be uploaded to Protecht to demonstrate completion
+of the Implementation Plan.
+2.4.4. No Further Action Required
+For some Regulatory Changes, it may be determined that no action is necessary. The “No Further
+Action Requiredˮ risk treatment can be utilized in cases where a Regulatory Change does not
+necessitate action as it does not materially impact current operations, products, or services, and/or
+existing compliance efforts are sufficient. The decision to take no action for a given Regulatory
+Change or changes should be well reasoned and justified.
+Justification provided for the “No further Action Requiredˮ risk treatment should be clear,
+comprehensive, defensible and easily understood by an independent reader. As appropriate,
+supporting documentation should be uploaded to Protecht.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Global Compliance Risk Standards and Assessment (“GCRSAˮ) Team :
+○ The GCRSA team, in consultation with Regulatory Counsel, Product Counsel,
+Compliance, and the business teams, develops the overarching guiding principles
+and framework for managing Regulatory Changes. The GCRSA team supports
+operationalization of this Standard through monitoring of Compliance related
+processes, program oversight, reporting, and stakeholder management.
+● Regulatory Counsel:
+○ Regulatory Counsel, which for the purposes of this Standard only includes the
+relevant Subject Matter Experts, review Regulatory Changes and work with the
+Compliance and Product Counsel teams to evaluate whether a new or changed
+Obligation may apply to Customer Impacting Activities. Regulatory Counsel also
+interpret and advise on the Regulatory Change.
+● Product Counsel:
+○ Product Counsel, together with Compliance, help to determine the Applicability of
+an Obligation to a Product. During the Implementation phase, Product Counsel
+advises the business on how to implement Regulatory Changes to comply with
+Obligations.
+● Product Compliance/Compliance Managers/Compliance Leads:
+○ Product Compliance Managers, Compliance Managers, or Compliance Leads,
+Financial Crime Program Managers, or Consumer Protection Program Managers
+(collectively referred to as “Compliance Managersˮ) together with Product Counsel,
+7
+
+help to determine the Applicability of an Obligation to a Product. Compliance
+Managers are responsible for conducting the RCM Risk Assessment and for
+developing, managing and documenting the risk treatment, both as set forth above.
+● RCM Program Manager (“Complianceˮ):
+○ The Compliance RCM Program Manager is responsible for oversight and
+management of the end-to-end RCM process. This role serves as the central point
+of coordination and communication between Compliance and Business
+stakeholders, ensuring effective program execution. The RCM Program Manager
+establishes and maintains governance frameworks, change management
+strategies, and program monitoring and reporting.
+● RCM Program Manager (“Legalˮ):
+○ The Legal RCM Program Manager is responsible for oversight and management of
+the end-to-end RCM process. This role serves as the central point of coordination
+and communication between Legal stakeholders, ensuring effective program
+execution. The Legal RCM Program Manager establishes and maintains governance
+frameworks, change management strategies, and program monitoring and
+reporting.
+● Regulatory Change Owner:
+○ The individual or individuals assigned responsibility for ensuring a Regulatory
+Change has been assessed and relevant risk treatments have been fully executed
+and evidenced appropriately. The Regulatory Change Owner will be responsible for
+representing that the Regulatory Change is ready for closure by ensuring that all
+necessary actions have been taken to ensure compliance with the Regulatory
+Change for the brand or product they represent.
+● Risk Treatment Owner:
+○ Typically, the Regulatory Change Owner should act as the Risk Treatment Owner. In
+some cases, the Regulatory Change Owner may delegate ownership of risk
+treatment. The Risk Treatment Owner is responsible for reviewing the associated
+risk assessment(s), determining the appropriate risk treatment, and ensuring that
+the risk treatment is completed and satisfactorily evidenced.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to Block, Inc. management. Reporting may cover specific
+information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+8
+
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Compliance Management System Policy
+● Issues Management Program
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+9
+
+Approval History:
+Approver Title Type Description Date
+Amit Bhushan Global Initial Appro… New document January 29, 2026
+Compliance Risk
+Standards &
+Assessment Lead
+Document Details:
+Business Block
+Scope United States
+Compliance Domain Compliance Governance
+Document Owner Program Manager, Regulatory Change Management
+Approved By Global Compliance Risk Standards & Assessment Lead
+Document Tier Tier 3
+10

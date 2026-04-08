@@ -1,0 +1,297 @@
+Electronic Signatures in Global and National
+Commerce Act (“ESignˮ) Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Electronic Signatures in Global and National Commerce Act Policy
+("Policy") outlines Block, Inc.'s enterprise-wide approach to compliance with the Electronic
+Signatures in Global and National Commerce Act ("ESign"). The purpose of this Policy is to
+establish comprehensive guidelines governing Block, Inc. and its U.S. subsidiaries' use of
+electronic signatures and records, ensuring consistent operations while maintaining brand-specific
+flexibility.
+Scope: This Electronic Signatures in Global and National Commerce Act Policy (the "Policy")
+outlines Block, Inc.'s enterprise-wide approach to compliance with the Electronic Signatures in
+Global and National Commerce Act ("ESign"). This Policy establishes comprehensive guidelines
+governing Block, Inc. and its U.S. subsidiaries' use of electronic signatures and records, ensuring
+consistent operations while maintaining brand-specific flexibility. The only exception is Square
+Financial Services (“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated by the
+Federal Deposit Insurance Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Consumer An individual who obtains or has obtained a financial product or service that
+is to be used primarily for personal, family, or household purposes.
+Electronic Relating to technology having electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities.
+Electronic A contract or other record created, generated, sent, communicated,
+Record received, or stored by electronic means.
+1
+
+Electronic An electronic sound, symbol, or process attached to or logically associated
+Signature with a contract or other record and executed or adopted by a person with the
+intent to sign the record.
+Record Information that is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable form.
+Transaction An action or set of actions relating to the conduct of business, consumer, or
+commercial affairs between two or more persons.
+Staff Member(s) All employees and fixed-term and contingent workers who support Block's
+operations, including interns, temporary workers, consultants, vendors,
+third-party providers, and contractors.
+2. Block, Inc. Requirements
+2.1 Fundamental ESign Requirements
+Block recognizes that electronic signatures and records form the foundation of modern digital
+commerce. To ensure the validity and enforceability of electronic transactions, Block implements
+four essential requirements across all its operations: 1 clear demonstration of intent to sign, 2
+informed consent and demonstrated ability to access electronic records, 3 reliable association
+between signatures and signers, and 4 secure record retention. These requirements enable Block
+to provide information and notices electronically while maintaining compliance with all applicable
+regulations.
+ESign serves as an overlay to existing laws and regulations, ensuring that signatures, contracts, or
+other records relating to a transaction maintain their validity when executed electronically. This
+framework allows Block to facilitate efficient electronic commerce while preventing deception and
+fraud in electronic transactions. Block achieves this through comprehensive systems and controls
+that verify, record, and maintain electronic transactions in a manner that meets or exceeds
+regulatory standards.
+2.2 Consumer Notification and Transparency
+Before initiating electronic communications, Block ensures transparent communication with
+Consumers about the electronic relationship. Block provides clear and conspicuous information
+about the scope of electronic communications, whether for a specific transaction or ongoing
+relationship. This includes detailed explanations about the types of records that will be provided
+electronically, such as disclosures, policies, account statements, and other important notices.
+2
+
+Block maintains transparency about Consumers' rights regarding paper records, ensuring they
+understand their options to receive paper copies and any associated fees. Additionally, Block
+clearly communicates the right to withdraw consent from electronic communications, including
+straightforward procedures for withdrawal and any resulting consequences. This commitment to
+transparency extends to keeping Consumers informed about technical requirements and
+procedures for updating their electronic contact information.
+2.3 Consumer Consent Process
+Block implements a comprehensive consent process that ensures Consumers actively choose to
+engage in electronic transactions. This process requires affirmative action by the Consumer and
+demonstrates their ability to access electronic information in the formats we use. The consent
+process is integrated into our various service platforms, ensuring Consumers understand and
+agree to electronic communications before proceeding with transactions or account relationships.
+During the onboarding process, consumers must affirmatively consent to receive electronic
+disclosures. This consent is obtained in a manner that reasonably demonstrates their ability to
+access information in the electronic form that will be used. Block achieves this through a process
+where Consumers actively engage with electronic documents and confirm their ability to receive
+and access them. Reading and acknowledging the electronic consent form through our platforms
+serves as sufficient confirmation of this ability.
+2.4 Withdrawal of Consent
+Consumers maintain the right to withdraw their consent to electronic communications at any time.
+Block provides multiple methods for withdrawal, clearly documented in initial disclosures and
+readily accessible through Block service platforms. Upon receiving a withdrawal request, Block
+processes it within a reasonable timeframe and provides confirmation of the withdrawal's effective
+date in writing, either electronically or in paper form.
+Block does not impose fees for processing consent withdrawals. However, Block clearly
+communicates any consequences of withdrawal, such as potential impact on service availability or
+account features. In cases where electronic communication is essential to service delivery,
+withdrawal of consent may affect the Consumer's ability to access certain services. Block ensures
+Consumers understand these implications while maintaining their right to choose their preferred
+communication method.
+2.5 Technical Requirements and Updates
+Block maintains clear communication about the technical requirements for accessing electronic
+records. Block provides detailed information about necessary hardware and software before any
+electronic transaction occurs. This information helps Consumers make informed decisions about
+their ability to engage in electronic transactions and maintain access to their records.
+When technical requirements change, particularly in ways that could materially affect access to
+electronic records, Block implements a comprehensive notification process. This includes:
+3
+
+● Providing clear explanations of new requirements
+● Assessing potential impact on record accessibility
+● Offering guidance on necessary updates
+● Reaffirming consent where appropriate
+● Reinforcing the right to withdraw consent without penalty
+2.6 Invalid or Inoperable Contact Information
+Block maintains procedures for handling cases where electronic contact information becomes
+invalid or inoperable. This includes situations where email addresses or phone numbers
+malfunction or become invalid. In such cases, Block may treat this as a withdrawal of consent for
+electronic communications to that specific contact method. Block implements processes to:
+● Detect delivery failures
+● Attempt alternate contact methods
+● Maintain service continuity where possible
+● Protect consumer access to important information
+2.7 Record Management and Accessibility
+Blockʼs approach to electronic records emphasizes both security and accessibility. Block maintains
+records in formats that preserve their integrity while ensuring authorized parties can access them
+throughout their required retention period. This includes implementing systems for accurate record
+creation, secure storage, and reliable reproduction when needed.
+Block's record retention practices align with both internal policies and regulatory requirements.
+Block maintains comprehensive systems to track retention periods and ensure records remain
+available for the longer of any applicable retention requirements. This approach balances
+accessibility needs with security considerations while maintaining regulatory compliance.
+2.8 State Law Considerations
+While ESign provides the federal framework for electronic signatures and records, Block
+recognizes that state laws may impose additional or more stringent requirements. In jurisdictions
+where state regulations overlap with ESign requirements, Block applies the more conservative
+approach to ensure comprehensive compliance. This includes adherence to state-specific
+versions of the Uniform Electronic Transactions Act UETA and any state-specific consumer
+protection provisions.
+When conflicts arise between applicable laws and these requirements, Block consults with Legal
+Counsel to resolve such conflicts and adjust our practices accordingly. This ensures Block
+maintains compliance while providing consistent service across our operating jurisdictions.
+4
+
+3. Brand-Specific Requirements
+Block will comply with ESign requirements, which may be detailed further in related Standards or
+Procedures. This section outlines only the distinct implementations and unique requirements
+specific to each subsidiary's lending products.
+3.1 Cash App:
+Cash App's implementation of ESign requirements reflects its mobile-first, consumer-focused
+approach to financial services. While adhering to Block's core ESign requirements, Cash App
+maintains several distinct features in its implementation:
+Consumer Onboarding and Consent: Cash App employs a streamlined, mobile-optimized
+onboarding process where ESign consent is integrated directly into the application flow. This
+differs from other Block platforms by requiring electronic consent for all consumer-facing
+disclosures at the initial account creation stage, except in specific circumstances where ESign
+compliance is not required. The platform's unique approach ensures that consumers can
+demonstrate their ability to access electronic records through the mobile interface before
+proceeding with account activation.
+Communication Management: Unlike other Block platforms, Cash App treats the provision of an
+invalid email address or phone number, or the subsequent malfunction of previously valid contact
+information, as an automatic withdrawal of consent for that specific communication channel. This
+consumer protection measure helps ensure reliable delivery of important account information and
+maintains service integrity.
+Service Continuity: When consent is withdrawn, Cash App implements a distinct approach to
+ongoing service access. While the platform transitions affected communications to paper format,
+Consumers retain the ability to electronically download documents and records through the Cash
+App website, providing a hybrid solution that balances consumer preference with service
+accessibility.
+3.2 Square:
+Square's merchant-facing systems incorporate unique technical requirements that extend beyond
+Block's standard ESign framework. This includes:
+● Specialized hardware and software configurations for point-of-sale systems
+● Enhanced record retention procedures for merchant transactions
+● Custom implementation guides for different merchant categories
+● Dedicated technical support for electronic signature integration
+3.3 Afterpay:
+Afterpay's implementation of ESign requirements is tailored to its buy-now-pay-later service
+model, with several key distinctions from Block's standard approach:
+5
+
+Installment Agreement Process: Afterpay maintains specific requirements for electronic signatures
+in installment payment agreements that go beyond Block's standard framework:
+● Enhanced disclosure requirements for payment terms
+● Specialized consent processes for recurring payment authorizations
+● Additional verification steps for installment plan acceptance
+Merchant Integration Requirements: Afterpay's merchant integration model includes unique
+elements not found in other Block platforms:
+● Custom implementation requirements for checkout flow integration
+● Specific technical standards for capturing consumer consent during purchase
+● Enhanced record-keeping requirements for installment payment agreements
+● Specialized procedures for managing electronic communications across the installment
+period
+State Law Compliance: Given the nature of buy-now-pay-later transactions, Afterpay maintains
+additional state-specific requirements beyond Block's standard framework. When state regulations
+impose stricter requirements than federal ESign provisions, Afterpay implements the more
+conservative approach, including:
+● State-specific disclosure requirements
+● Additional consent verification steps in certain jurisdictions
+● Enhanced record retention requirements for installment agreements
+● Modified withdrawal procedures based on state regulations
+3.4 Cross-Platform Considerations
+While each platform maintains its distinct features, certain situations require coordination across
+Block's brands, particularly when Consumers utilize multiple services. In these cases:
+● Consent status is maintained separately for each platform
+● Withdrawal of consent from one service does not automatically affect others
+● Technical requirements are platform-specific
+● Record retention follows the most conservative requirement applicable
+● Consumer communications clearly distinguish between platform-specific and
+enterprise-wide notifications
+The above brand-specific requirements supplement the general compliance ESign requirements
+outlined in this Policy and are only applicable to their respective brands,
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+6
+
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and and approving this Policy annually to ensure
+alignment with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Block Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+7
+
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+5. Questions & Contact Information
+● Questions: For questions or clarifications about this Policy please contact the Policy
+Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Brian Kollm… Head of Block Initial Appro… Attestation to Oct 16, 2025
+Consumer Document
+Protection Contents
+8
+
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Head of Block Consumer Protection
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+9

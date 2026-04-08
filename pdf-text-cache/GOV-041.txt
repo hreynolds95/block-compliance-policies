@@ -1,0 +1,210 @@
+RETIRED
+Transaction Monitoring
+Modeling Program
+Cash App
+Published May 2023
+
+Table of Contents
+Table of Contents 2
+Introduction 3
+Definitions 3
+Roles & Responsibilities 4
+Process Presentation 5
+Automated Alert Generation 6
+Initial Review: Suspicious Activity Thresholds 6
+Second Review: Risk Tolerance 6
+Retuning Triggers and Frequency 7
+Alert Prioritization 7
+Quality Control 8
+Explainability 8
+Document Management 9
+Document Owner 9
+Scheduled Review & Ad-Hoc Maintenance 9
+Exceptions 9
+Related Documents 9
+Revision & Approval History 9
+Document Details 10
+Transaction Monitoring Modeling Program | Cash App 2
+
+Introduction
+Block, Inc. (herein referred to as the “Company” or “Block”) is committed to complying with applicable laws,
+regulations, and guidelines to monitor, detect, prevent, and report possible money laundering, financial
+crimes, and terrorist financing.
+Transaction monitoring is a vital component of ensuring compliance, as it provides a mechanism for
+evaluating suspicious activity and transactions across Block’s platforms.
+Block utilizes various proprietary algorithms to create alerts for the Transaction Monitoring team to review.
+This includes automated alert queues and periodic or manual reports for review. Alert queues and reports are
+generated using machine-learning, heuristics, or manual methodologies.
+Block’s Transaction Monitoring team queues are established and maintained by the Compliance Engineering
+& Technology data team. Any new queues or recommended changes to the existing queue models are
+reviewed and approved in accordance with the Model Change Management Process.
+This Transaction Monitoring Modeling Program (the “Program”) articulates how Transaction Monitoring
+alert queues are created for analyst review, as a result of automated transaction monitoring. Note that
+this Program is only applicable to transaction monitoring models that use a combination of heuristics and
+machine learning for alert generation (also known as alert risk rating models). This Program is not
+applicable to transaction monitoring models that use only heuristics.
+This policy is established by Cash App and is applicable to Cash App. References to “staff” throughout
+this document shall refer to all full-time employees and fixed-term and contingent workers including
+interns, temps, consultants, vendors, third-party providers, and contractors.
+Definitions
+Above the Line (ATL) A phrase used to indicate that an account activity
+exceeds defined thresholds.
+Alert Risk Rating Model (ARR) A methodology/model used in risk determination
+for transactions and accounts.
+Below The Line (BTL) A phrase to indicate that an account activity falls
+below defined thresholds.
+Transaction Monitoring Modeling Program | Cash App 3
+
+Model Retraining The process of updating the model based on new
+or updated datasets.
+Model Retuning The process of resetting the score thresholds,
+based on new or updated datasets.
+Negative Action The result of a completed review when an account
+has been found to be in violation of the Cash App
+Terms of Service or engaging in unwanted,
+high-risk activity. It includes denylist, suspicious
+activity reporting, and other adverse reporting.
+Roles & Responsibilities
+Transaction Monitoring Team ● Review alerts and investigate associated
+activity
+● Decision alerts
+● Escalate accounts for unusual or
+suspicious activity
+Compliance Engineering & Technology Data ● Establish and maintain transaction
+Team monitoring queue parameters and
+thresholds
+● Complete periodic model validation on the
+transaction monitoring queues
+● Provide reporting to senior leadership on
+queue completion, performance, and
+enhancements
+Transaction Monitoring Modeling Program | Cash App 4
+
+Process Presentation
+The diagram below illustrates the transaction monitoring process:
+Transaction Monitoring Modeling Program | Cash App 5
+
+Automated Alert Generation
+Initial Review: Suspicious Activity Thresholds
+The initial review of account activity occurs when any activity exceeds a set threshold. Any activity that
+exceeds this threshold is potentially suspicious and warrants further review.
+Note: In accordance with the FinCEN suspicious activity report (SAR) filing limit, aSAR must be filed by a
+covered money services business (MSB) when the MSB knows, suspects or has reason to suspect that
+the transaction or pattern of transactions is suspicious and involves $2,000 or more.
+The appropriate heuristics are dollar amount or count-based and chosen based on the specific typology
+under consideration. Heuristics not based on the above dimensions are used sparingly and, when used,
+are set based on typology definition and expert business judgment (e.g., recurring relationship and
+velocity).
+The heuristic threshold is typically set at the 84th percentile for the active population (aka P84). This
+corresponds roughly to mean plus one standard deviation for a normal distribution, but the percentile
+approach is followed because these heuristics are not usually normally distributed. For certain low risk
+typologies, the heuristic thresholds may be adjusted higher to the 97.5th percentile of the active
+population (aka P97.5 which corresponds to mean plus two standard deviations of a normal distribution).
+Second Review: Risk Tolerance
+The second-level review is completed by a machine learning model, called the Alert Risk Rating model
+(ARR), that leverages hundreds of signals, based on transactional and user activity, to ascertain whether
+an account is likely to be negatively actioned on human review. The ARR model threshold is tuned to
+adhere to a false negative rate or risk tolerance policy defined below.
+The risk tolerance policy is set based on the Company's appetite for risk. Higher tolerance makes
+operations more scalable by allowing the system to cut out more false positives, but increases the risk of
+bad activity that goes undetected/unreported. The industry standard of 5% risk tolerance is adopted, but
+may be adjusted in the future for specific typologies/segments within a typology based on Company
+policy or risk appetite. In the scenario where the productivity of the heuristics based typology is already
+below the Risk Tolerance Threshold (RTT) of 5%, based on expert business judgment, an 80% recall rate
+Transaction Monitoring Modeling Program | Cash App 6
+
+is targeted for the second level review by the ARR model. (Note: 80% recall rate will be well below the
+5% RTT.)
+Risk tolerance is per AML typology, unless otherwise specified. This makes individual typology
+performance monitoring feasible.
+If an account could have alerts generated by multiple typologies, it is considered covered if an alert is
+generated by at least one of those typologies for performance measurement purposes.
+Retuning Triggers and Frequency
+Historical data suggests that month-to-month concern event rates may be fairly volatile. Therefore, a
+small randomly selected fraction of BTL alerts are reviewed by transaction monitoring analysts on an
+ongoing basis. Analysts do not know that these alerts are BTL, but will appear in the alerting queue as is
+typical. This performance data will be used to measure adherence of the system to the set risk tolerance.
+Alert Prioritization
+A value at risk approach is proposed for alert review prioritization by analysts. This provides a framework
+for minimizing regulatory risk in the event that alerts are temporarily backlogged due to operational
+capacity constraints.
+Value at Risk = Size of Activity * Risk Score (ARR Score)
+The ARR model score can be viewed as a measure of the model’s confidence in the account being
+involved in suspicious activity prior to analyst review. Volume and amount of activity is a measure of the
+size of the activity in the customer account. A value at risk approach prioritizes alerts for analyst review
+by balancing the size of activity and the model’s confidence in the activity being involved in suspicious
+activity.
+The value at risk approach (P0 > P1 > P2) is illustrated below. The actual number of prioritization
+segments, as well as the heuristics chosen for each dimension, are specific to the typology being
+considered.
+Transaction Monitoring Modeling Program | Cash App 7
+
+Analysts prioritize alert review starting with the highest priority. In the event that alerts are backlogged,
+the low value at risk alerts present the least amount of regulatory risk.
+Note that for some typologies that have low alert volume, all alerts are grouped into a single queue with
+a default priority and reviewed manually in queue order.
+Quality Control
+An independent quality control team is responsible for measuring and maintaining agent review quality
+in order to ensure label quality. The issues identified will trigger appropriate actions (including but not
+limited to retraining) in order to correct any problems.
+BTL and ATL productivity evaluation systems will be in place to maintain machine review quality, a
+continuous and automated BTL sampling, and model monitoring.
+Explainability
+Every account that is scored by the ARR model will log an ‘explanation’ that provides insight into the
+signals that contributed to the specific model score. Negative contributions suggest that the particular
+signal contributed to lower the score (i.e. risk of the account), while positive contributions suggest the
+opposite. The sum of contributions from all the model’s constituent signals result in the final risk score
+Transaction Monitoring Modeling Program | Cash App 8
+
+attributed to the alert. Signals are grouped by a handful of specific themes to aid in human
+interpretability.
+Explainability is logged primarily for regulatory and audit purposes.
+Document Management
+Document Owner
+This document is owned by the Head of Compliance Engineering & Technology Data, Cash App, or their
+designee.
+Scheduled Review & Ad-Hoc Maintenance
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance with
+the Compliance Document Approval Matrix.
+Exceptions
+Exceptions to the requirements, strategies, or procedures established by this document must be
+pre-approved by the Head of Compliance Engineering & Technology Data, Cash App, or their designee. Staff
+members may submit exception requests for review at go/policyhelp.
+Related Documents
+Related Policy Anti-Money Laundering & Counter-Terrorist Financin
+Policy | Block, Inc.
+Revision & Approval History
+Name Title Approval Type Description Date
+Vijay Sathish Head of Creation Mar 1, 2021
+Compliance
+Engineering &
+Technology Data,
+Cash App
+Shannon Lee-Eng Chief Compliance Scheduled R… Mar 26, 2021
+Transaction Monitoring Modeling Program | Cash App 9
+
+Officer, Square
+Amelia Childress Chief Compliance Scheduled R… Mar 26, 2021
+Officer, Cash App
+Ben Gray Chief Compliance Initial Appro… Apr 9, 2021
+Officer, Block
+Vijay Sathish Head of Immaterial C… Jun 6, 2021
+Compliance
+Engineering &
+Technology Data,
+Cash App
+Vijay Sathish Head of Immaterial C… May 10, 2023
+Compliance
+Engineering &
+Technology Data,
+Cash App
+Document Details
+Business Cash App
+Scope Global
+Compliance Domain Financial Crimes
+Document Owner Head of Compliance Engineering & Technology
+Data, Cash App
+Original Publication Date Apr 9, 2021
+Last Material Revision Date Apr 9, 2021
+Effective Date Apr 9, 2021
+Transaction Monitoring Modeling Program | Cash App 10

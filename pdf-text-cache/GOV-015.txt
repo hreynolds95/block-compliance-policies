@@ -1,0 +1,530 @@
+Outsourcing Policy
+Squareup Europe Limited
+Approved: September 29, 2025
+Effective Date: September 29, 2025
+1. Overview
+Introduction and Purpose: This Outsourcing Policy is established by Squareup Europe Limited
+(“SELˮ). SEL is an authorised Electronic Money Institution, regulated and supervised by the
+Financial Conduct Authority (“FCAˮ) under Firm Reference Number 900846. The direct parent
+company is Squareup International Limited (“SILˮ), registered in the Republic of Ireland; both SEL
+and SIL are wholly owned subsidiaries of Block, Inc (“Blockˮ). Block Inc. a Delaware corporation,
+and a merchant services aggregator and mobile payments company based in San Francisco,
+California in the United States of America. It is registered as a Money Services Business with the
+Financial Crimes Enforcement Network (“FinCENˮ).
+Outsourcing involves the use of a third party service provider in any number of operational
+functions to perform ongoing activities that would normally be undertaken by SEL personnel.
+Outsourcing Arrangements generate risks for SEL. These risks must be identified and relevant
+controls applied prior to SEL entering into the arrangement, and these risks must be effectively
+managed throughout the outsourcing lifecycle. The purpose of this Policy (“the Policyˮ, “this
+Policyˮ) is to document SELʼs approach to doing this, aligned with applicable legal and regulatory
+requirements and relevant supervisory guidance.
+As a member of the Block Inc. Group, SEL is subject to the Third Party Risk Management Policy,
+which ensures that all third party vendors are reviewed and assessed in accordance with such
+policy at the Block level. This Policy should be read in conjunction with the Block Third Party Risk
+Management Policy. Where there is a conflict between the Block Third Party Risk Management
+Policy and this Policy, this Policy will prevail.
+SELʼs Senior Management and the Board recognise that the delegation of activities under an
+Outsourcing Arrangement does not result in any delegation of responsibility, and that ultimate
+responsibility for outsourced processes, services, or activities remains with SEL management and
+the SEL Board at all times.
+The purpose of this Policy is to set out SELʼs approach to the planning, implementation, monitoring
+and management of ‘Outsourcingʼ of activities by SEL to Outsourcing Service Providers (“OSPsˮ).
+
+Scope: This Policy is established by SEL and is applicable to all SEL Outsourcing Arrangements
+and SEL Staff Members.
+Definitions:
+Terminology Definition
+Critical Activity Functions that are necessary to perform core business lines
+or critical business functions, unless the institutionʼs
+assessment establishes that a failure to provide the
+outsourced function or the inappropriate provision of the
+outsourced function would not have an adverse impact on
+the operational continuity of the core business line or
+critical business function1.
+Intra-group Outsourcing Refers to an Outsourcing Arrangement between SEL and
+any entity within Block.
+Outsourcing Arrangement An arrangement between SEL and a vendor (whether
+intra-group or an external third party) by which the service
+provider performs a process, a service or an activity, or
+parts thereof, that would otherwise be undertaken by SEL,
+even if SEL has not performed that process, service or
+activity in the past.
+Outsourcing Framework/Program Any references to “Outsourcing Frameworkˮ or
+“Outsourcing Programˮ refer to this Policy, the SEL
+Outsourcing Procedures documents and the SEL
+Outsourcing Strategy. The terms “Outsourcing Programˮ
+and “Outsourcing Frameworkˮ are used interchangeably
+across this document.
+Outsourcing Risk Management Refers to the framework in place to identify, assess and
+manage risks associated with Outsourcing Arrangements.
+Outsourced Service Provider Are considered as a third-party entity that is undertaking
+("OSP") an outsourced process, service or activity, or parts thereof,
+under an outsourcing arrangement on behalf of SEL. The
+term refers to both external third party service providers
+and intra/inter group service providers.
+Outsourcing Register The Outsourcing Register forms part of the ‘Outsourcing
+and Third Party Registerʼ and contains details of all
+outsourced processes, services, or activities. This register
+is maintained by the Third Party and Outsourcing Risk
+Manager.
+1 EBA Guidelines on Outsourcing Arrangements, Section 4
+
+Terminology Definition
+Service Recipient An individual at SEL that is responsible for the delivery of
+the process, service, or activity and the performance of the
+OSP.
+Sub-outsourcing Sub-outsourcing occurs when an OSP engaged by SEL has
+themselves further outsourced the relevant process,
+service or activity, or parts thereof to another OSP. For the
+avoidance of doubt, this includes where SEL has an
+intra-group Outsourcing Arrangement with another Block
+entity and that Block entity has sub-outsourced to any
+other individual or entity.
+Staff Member(s) or Staff All employees and fixed-term and contingent workers
+who support the operations and/or subsidiaries covered
+by this Policy, and include interns, temporary workers,
+consultants, vendors, third-party providers, and
+contractors.
+An employee or external worker (e.g., contingent labour,
+contractors) hired by Squareup Europe Limited who
+supports the operations covered by this Policy.
+2. Policy/Program Requirements
+2.1 What is Outsourcing?
+SEL defines a vendor relationship as ‘an arrangement between SEL and any other individual or entity
+that provides products or services to SEL via an ongoing relationshipʼ. Vendor arrangements can be
+either ‘Outsourcingʼ or ‘Non-Outsourcingʼ arrangements, and vendors can be either external third
+parties or other Block Inc. entities.
+SEL defines outsourcing as ‘an arrangement between SEL and a vendor (whether intra-group, or an
+external third party) by which the vendor performs a process, a service or an activity, or parts thereof,
+that would otherwise be undertaken by SEL, even if SEL has not performed that process, service or
+activity in the pastʼ. Not all activities will be Outsourcing (an analysis will be required on a
+case-by-case basis).
+This Policy describes SELʼs minimum requirements to manage the risks arising from outsourcing
+activities, both to external third parties and within Block. Implementation of the standards laid out in
+this Policy will ensure that SEL has a robust framework to ensure the following:
+● That the SEL Board remains fully responsible for all outsourced activities;
+
+● That a risk management and internal control framework is embedded which allows for
+sufficient oversight of the outsourced activities;
+● That the impact of any Outsourcing Arrangement is fully considered and understood; and
+that SEL retains the competence and ability to assess the OSPs performance;
+● That all Outsourcing Arrangements are formalised in an outsourcing contract between SEL
+and the OSP, that sets out all respective roles, responsibilities, rights, and obligations and
+meets the requirements set out in this Policy;
+● That the OSP has adequate risk management and internal control systems in place, and
+that SEL incorporates the oversight of outsourced functions and activities into its own risk
+management framework;
+● That the OSP has sufficient resources in place in terms of quality, quantity, and availability
+to perform the outsourced functions and activities;
+● That the OSP is compliant with relevant confidentiality and sensitive data provisions and
+has adequate contingency arrangements in place;
+● That SEL notify the competent authority, the FCA, in a timely manner and in line with
+regulatory notification requirements of any major operational or security incidents;
+● That SEL notifies the FCA in a timely manner and in line with regulatory notification
+requirements of any critical functions or activities to be outsourced;
+● That SEL has full access to perform audit and/or assurance of the OSP and the OSP will be
+fully cooperative with this audit / assurance review; andUK
+● That the outsourcing of critical functions and activities does not undermine the continuous
+and satisfactory service to SEL stakeholders.
+2.2 Intra-Group Arrangements
+Outsourcing services provided by Block entities to SEL also fall in scope of this Policy
+(“Intra-Group Outsourcingˮ). The Block service provider will be regarded as an OSP for the
+purpose of this Policy. SEL applies the same requirements to Intra-group Outsourcing as to
+Outsourcing Arrangements with external third parties. SEL recognises that Intra-group Outsourcing
+Arrangements can present unique risks.
+For Intra-group Outsourcing, SEL shall ensure that the arrangement is organised on an ‘armʼs
+lengthʼ basis. The selection of the intra-group entity must be based on objective reasons, any
+conflicts of interest inherent in the Outsourcing Arrangement must be identified and managed in
+line with the Conflicts of Interest Policy, and the arrangement must not impair SELʼs ability to
+comply with its regulatory obligations.
+SEL shall ensure that it is in a position to exert sufficient influence on the intra-group arrangements
+and that any necessary remediation of outsourced services, processes, or activities that impacts
+on SEL are given appropriate prioritisation by Block.
+2.3 Outsourcing to Third Countries
+SELʼs approach to outsourcing is governed by a principle of consistency, ensuring that all
+outsourcing arrangements, regardless of the geographic location of the OSP, are subject to the
+same rigorous governance framework. SEL does not differentiate its due diligence, risk
+assessment, and ongoing monitoring standards based on whether an OSP is located within the UK
+or in a third country.
+
+2.4 Sub-Outsourced Services
+Sub-outsourcing occurs when an OSP engaged by SEL has themselves further outsourced the
+relevant process, service or activity, or parts thereof to another OSP. Intra-Group Outsourcing can
+often involve sub-Outsourcing.
+The OSP must undertake appropriate due diligence (at a minimum aligned with the standards as
+set out in this Policy) on its sub-OSPs, to ensure that Outsourcing Arrangements are delivered in
+line with the Outsourcing Contract between SEL and the OSP. The OSP must also maintain
+information (e.g. reporting on compliance with SLAs and KPIs, information on any compliance
+monitoring/audit reviews, breach logs, etc) on the Sub-outsourcing arrangement which is
+necessary for SEL to maintain effective oversight of these arrangements. The TPORM, with
+support from TPDC and Service Recipient must ensure that the Outsourcing Register and relevant
+due diligence contains sufficient information relating to the Sub-Outsourcing Arrangement (as
+described in the Outsourcing Register section of this Policy), and that these arrangements are
+subject to adequate monitoring and oversight.
+2.5 Outsourcing Assessment
+Not all vendor relationships will be regarded as outsourcing, and require a case-by-case analysis.
+In order for SEL to manage outsourcing risk effectively, it is necessary to identify outsourced
+services (from non outsourced services) and determine their criticality and importance (henceforth
+“criticalityˮ or “criticalˮ) of those arrangements.
+Outsourcing has three key components.
+To identify outsourced services and determine the criticality of any arrangement, SEL has
+developed an ‘Outsourcing and Criticality Assessment Toolʼ. This tool is completed for any
+prospective outsourced arrangement at the initial onboarding stage and periodically (for
+outsourced services). When assessing the criticality of an Outsourced Arrangement, SEL views the
+outsourcing of these services to be of such importance that any failure or weakness with the
+service provision, would have a significant impact on SELʼs continuing business operations and/or
+adherence to its regulatory obligations.
+The service recipient must complete an outsourcing and criticality assessment, as requested by
+the TPORM and submit this for review and approval when;
+1. Entering into an Outsourcing Arrangement;
+2. The scheduled annual review of critical outsourced arrangements occurs;
+
+3. SEL plans to make a substantive change to their use of a particular Outsourcing
+Arrangement e.g., where SEL plans to scale up use or dependency on an OSP;
+4. There is a change in service provision including changes to sub outsourced providers.
+The outcome of the criticality assessment will determine the measures that are applied to each
+Outsourcing Arrangement.
+2.6 Due Diligence and Risk Assessment
+2.6.1 Outsourcing Strategy
+Outsourcing certain activities allows SEL to focus on strategic issues and the delivery of
+value-added services to its clients. SEL has prepared an Outsourcing Strategy which sets out its
+appetite to engage in Outsourcing Arrangements.
+2.5.2 Risk Assessment and Management
+SEL recognises that in order to effectively monitor, manage and mitigate outsourcing risks, it must
+implement a robust outsourcing risk management framework and apply this throughout the
+lifecycle of the Outsourcing Arrangement. From the point at which the activity is proposed to be
+outsourced, through to business as usual and potentially exiting the arrangement, SEL must
+maintain an accurate view of risks associated with Outsourcing Arrangements, including via
+appropriate due diligence on OSPs.
+SEL uses Blockʼs Third Party Risk Management platform, Thinksmart, to identify, measure and
+assess inherent risks associated with Outsourced Arrangements with external third parties. SEL
+must initiate a risk assessment and due diligence, prior to entering into any new service
+arrangement or any changes to existing arrangements, and periodically during the lifetime of the
+relationship. Risk assessment methodologies must, at a minimum, take into account the below
+outlined risks:
+● Cyber-risks;
+● Operational risks;
+● Financial risks;
+● Sub-outsourcing risks;
+● Sensitive-data risks;
+● Concentration risks;
+● Offshoring risks;
+● Step-in risk;
+● Business continuity risks;
+● Legal, regulatory and reputational risks; and
+● Any specific risks associated with outsourcing to the cloud.
+The output of any critical risk assessment, once completed, is sent to the OOC, highlighting any
+significant risks or issues from the due diligence process.
+● The Service Recipient must initiate a re-assessment for all Outsourcing Arrangements in
+the following circumstances:
+
+● Periodic scheduled reviews, as described in the Ongoing Monitoring section of this Policy;
+● Material changes in the nature or extent of the Outsourcing Arrangement with the OSP;
+● Where an organisational change occurs at an OSP or sub-OSP, including but not limited to
+a change of ownership or financial position;
+● Identification of deficiencies in the provision of the Outsourcing Arrangement by the OSP,
+or notification of any significant breaches of the outsourcing contract, or other substantive
+issues that may impact SELʼs regulatory or customer obligations on the part of the OSP. If
+such an event occurs, it must be escalated in the first instance to the Third Party Delivery
+Manager, who is responsible for determining additional escalation requirements including
+to the COO or the RGC.
+2.6.3 Due Diligence
+SEL must perform due diligence in respect of all OSPs before entering into any Outsourcing
+Arrangement, and periodically throughout the relationship.
+It is the responsibility of the Service Recipient, RSMEs and TPORM to ensure that adequate due
+diligence is collected, assessed, and maintained in line with SELʼs record keeping requirements for
+all proposed Outsourcing Arrangements prior to formally entering into these Arrangements. The
+depth and formality of the due diligence performed will vary depending on the scope, complexity
+and importance of the planned Outsourcing engagement, SELʼs familiarity with the prospective
+OSP and the reputation and industry standing of the OSP. When carrying out its due diligence SEL
+shall consider the business background, reputation, strategy, financial performance, operations
+and internal controls of the OSP.
+2.6.4 Business Continuity
+Business Continuity Management (“BCMˮ) is a fundamental component of the appropriate
+management of outsourcing risk. For all Outsourcing Arrangements, the due diligence completed
+on the OSP must include an assessment of the Business Continuity Plan (“BCPˮ) arrangements,
+and this must be reviewed on a periodic basis. SEL must complete testing of BCP arrangements for
+critical Outsourcing Arrangements on a periodic basis.
+2.6.5 Operational Resilience
+Entering into an Outsourcing Arrangement creates a dependency on a third party for the resilience
+of SEL. Sub-Outsourcing can further complicate the effective management of critical or important
+activities.
+SELʼs important business services should be able to remain within impact tolerances, including
+when they rely on OSPs. In addition, due diligence of an OSPʼs Operational Resilience conditions
+form part of Outsourcing due diligence. The Outsourcing Agreements which are put in place
+should detail how important business services will be maintained during a disruption and include
+an Exit strategy to be applied if/when the service cannot be maintained.
+2.6.6 Exit Strategies
+Exit plans play an important part of any third party arrangement. The exit plan provides guidance
+and a strategy for the business when it is deemed necessary to move away from an existing
+
+vendor relationship (for example, as a result of a significant disruption or failure to service delivery;
+or material risks arising with the continuation of the service).
+The business also has a regulatory obligation to ensure documented exit plans are in place for
+each of its critical and important functions and/or important business services. Furthermore, exit
+plans provide the following benefits to the business and in turn help to protect the business from
+operational failure:
+● Business and service continuity
+● Protection of data and assets
+● Mitigation of risk
+● Strategic direction
+● Cost savings
+2.7 Notify, Contract and Register
+2.7.1 Outsourcing Agreement
+All Outsourcing Arrangements must be covered by an Outsourcing Contract. It is the responsibility
+of the Service Recipient (with support and guidance from Procurement, Legal and the Third Party
+and Outsourcing Risk Manager) to ensure that an Outsourcing Contract is in place prior to any new
+Outsourcing Arrangement being undertaken. The Outsourcing Contract must clearly state the
+rights and obligations of the parties, and must be reviewed by Legal, and signed by an authorised
+signatory in accordance with the Block, Inc. Global Signature and Delegation of Authority Policy.
+The Service Recipient and Third Party Delivery Manager will be primarily responsible for
+monitoring the OSPs adherence to the terms of these contracts with support from the Third Party
+and Outsourcing Risk Manager and the Third Party Delivery Coordinator. All SEL Outsourcing
+Contracts must include the Outsourcing Annex which is designed to ensure that the provisions set
+out in relevant regulatory guidance including those in relation to termination, access, information
+and audit rights are captured in all Outsourcing Contracts. Additionally, the outsourcing of all
+intragroup services is addressed under the Global Outsourcing Services Agreement (“GOSAˮ).
+SEL will review and, where necessary, update Outsourcing Contracts in the following
+circumstances:
+● Periodic reviews in line with the requirements contained in this Policy and further detailed
+in the SEL Outsourcing Procedure;
+● Material changes to the nature or extent of the arrangement with OSP; and
+● Any regulatory changes that occur that could impact the contract.
+The Service Recipient is responsible for scheduling reviews of all Outsourcing Contracts, and for
+ensuring that these reviews are conducted, including ensuring that renewals of Outsourcing
+Contracts are conducted in a timely manner to ensure smooth transitions or continuity of service.
+
+2.7.2 Outsourcing Register
+The Third Party & Outsourcing Risk Manager maintains the SELʼs Outsourcing and Third Party
+Register. The Register must be available to the FCA on request.
+2.7.3 Regulatory Notification (if required)
+SEL is required to make available to the FCA all information necessary to enable the FCA to
+execute the effective supervision of SEL, including where required, a copy of any relevant
+Outsourcing Agreement(s) entered into by SEL.
+SEL is also required to notify the FCA of changes in its Critical Outsourcing Arrangements and with
+information as requested, and therefore all documentation referenced in this Policy must be stored
+in such a manner that it is available on demand if requested.
+SEL must report to the FCA should material events occur in relation to SELʼs Critical Outsourcing
+Arrangements. SEL will inform the FCA when the following occurs:
+● Matters/events giving rise to a significant change to the outsourcing aspects of SELʼs
+business model;
+● When a material event occurs, which affects the provision of critical Outsourcing
+Arrangements by an OSP; and
+● When material breaches of contractual arrangements or SLAs arise which affects SEL in
+the conduct of its regulated services or adversely affects SELʼs customers.
+It is the responsibility of the COO to identify these issues, and the Head of Compliance to
+determine whether a notification to the FCA is required.
+2.8 Conflicts of Interest
+SEL has a Conflicts of Interest Policy in place. This policy sets out the measures within SEL to
+identify, assess, and manage any actual or potential conflicts of interest that may arise as a result
+of its Outsourcing Arrangements. Conflicts of interest inherent in Outsourcing Arrangements are, in
+part, managed through having outsourcing contracts in place and documented SLAs that are
+subject to ongoing monitoring and reporting. Where conflicts of interest are identified in relation to
+an Outsourcing Arrangement, they must be managed in line with the requirements in the Conflicts
+of Interest Policy, including by logging the conflict on the conflicts register. On an annual basis, the
+Conflicts of Interest pertaining to Outsourcing Arrangements will be reviewed to look at any
+measures taken to resolve or manage conflicts of interest (if any). If SEL determines that it is not
+able to adequately mitigate the identified conflict, the Outsourcing Arrangement must be
+declined/terminated. Please see the SEL Conflicts of Interest Policy for more details on
+management of conflicts.
+
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+SEL Governance Roles:
+● Board of Directors ("the Board"): The Board of Directors of SEL (“the Boardˮ) has ultimate
+responsibility for all aspects of outsourcing. The Board must ensure they have adequate
+oversight and awareness of both current and proposed Outsourcing Arrangements, and the
+appropriate skills and knowledge to provide effective oversight. The Board must ensure
+that any Outsourcing Arrangement is in keeping with the overall business model and
+strategic direction of the company, and that the framework is operating in line with
+regulatory requirements.
+● Regulatory Governance Committee ("RGC"): SEL has established a RGC. This Committee
+ensures that the risk management measures adopted are risk-based and proportionate.
+This Committee meets on a monthly basis and the RGC delegates specific outsourcing
+responsibilities to the Outsourcing Oversight Committee, while still maintaining oversight.
+Any key outsourcing issues will be reported to the RGC. It is the responsibility of the COO
+to ensure that adequate risk-based management information relating to Outsourcing
+Arrangements and the Outsourcing Framework, including the reporting of any outsourcing
+control issues, breaches, or incidents, is provided to this Committee.
+● Outsourcing Oversight Committee ("OOC"): SELʼs OOC reviews all new Outsourcing
+Arrangements, and approves all critical arrangements and oversees the management and
+performance of existing Outsourcing Arrangements. The Committee meets on a monthly
+basis, and reports to the RGC, including to update the RGC on the results of outsourcing
+assurance and monitoring activities, and to escalate any issues or incidents.
+First Line of Defence Roles:
+● Chief Operating Officer ("COO"): The COO is responsible for managing the risks
+associated with SELʼs Outsourcing Arrangements and operating the controls to manage
+these risks, although some of the day-to-day control activities will be delegated to the
+Third Party and Outsourcing Risk Manager.
+● Service Recipient: The Service Recipient is responsible for the day to day management of
+the service received from the OSP throughout the lifetime of the relationship, ensuring the
+effective delivery and performance of these services.
+● Risk Subject Matter Experts ("RSMEs"):The Risk Subject Matter Experts are responsible
+for conducting due diligence on SELʼs third parties at the onboarding stage and throughout
+the lifecycle of the relationship to ensure an effective control environment is in place. They
+provide subject matter expertise on their respective risk areas and support the Third Party
+Risk Management Program and Outsourcing Program in evaluating and mitigating risk.
+● Legal Function: The Legal Function is responsible for ensuring any outsourcing contracts
+are legally binding, in keeping with relevant contract law, the standards as described in this
+Policy, and SELʼs business model.
+
+Second Line of Defence Roles:
+● Chief Risk Officer ("CRO"): The CRO is responsible for providing Second Line of Defence
+oversight and challenge of all Outsourcing Arrangements using a risk-based approach.
+● Head of Compliance: The Head of Compliance is responsible for Second Line of
+Defence review of regulatory obligations in respect of Outsourcing; and challenge of the
+SEL Outsourced arrangements to ensure compliance with regulatory requirements and
+alignment with industry best practice.
+● Third-Party and Outsourcing Risk Manager ("TPORM"): The Third-Party and Outsourcing
+Risk Manager is responsible for leading the development and implementation of the
+Outsourcing Program (policy, procedures and guidelines) in accordance with regulatory
+requirements, working closely with first line business stakeholders, risk, compliance and
+legal to ensure the requirements are met.
+● Third Party Delivery Coordinator ("TPDC"): The Third Party Delivery Coordinator supports
+the TPORM and is responsible for the day to day oversight and coordination of services
+received from intra-group services and holistic oversight of all external Third Party Service
+Providers (“TPSPsˮ) and OSPs.
+Third Line of Defence Roles:
+● Internal Audit: Internal Audit is responsible for applying a risk-based approach to ensuring
+that an assessment of the effectiveness of the performance of Outsourcing Arrangements
+(and the controls required to mitigate associated risks) will be considered as part of
+Internal Audit planning..
+● Third Parties:An independent third-party review representative is responsible for obtaining
+satisfactory assurance regarding SELʼs Outsourcing. The individuals performing a
+third-party review should have the necessary skills and expertise to conduct the review
+effectively and to comprehensively assess and report on the outcomes.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+3.2.1 Ongoing Monitoring
+SEL must have in place appropriate mechanisms to oversee, monitor and assess the
+appropriateness and performance of its Outsourcing Arrangements. Each Outsourcing
+Arrangement is different and the appropriate measures to be applied will vary based on the details
+of each arrangement.
+SEL must conduct due diligence on OSPs prior to entering into the Outsourcing Arrangement, as
+well as on a periodic basis. The frequency of the due diligence reviews depend on the risks and
+criticality associated with the services. Critical services will be reviewed more frequently than low
+risk services
+The COO must ensure that SEL maintains adequate and risk-based monitoring of Outsourcing
+Arrangements. On a day-to-day basis, the Service Recipient is primarily responsible for facilitating
+
+this monitoring, with oversight and challenge coming from Second Line of Defence (e.g. Third
+Party and Outsourcing Risk Manager and Third Party Delivery Coordinator) and Third Line of
+Defence (e.g. Internal Audit).
+Should ongoing monitoring activity identify instances in which an OSP is not delivering the
+Outsourced Arrangement in line with SEL requirements or the Outsourcing Contract, the Service
+Recipient in consultation with the TPDC, TPORM, COO and Legal is responsible for taking any
+steps necessary. This may include liaising with the OSP on an action plan to remediate identified
+issues, escalating this to a relevant SEL governance committee (up to and including the SEL
+Board), or activating the termination clause in the Outsourcing Contract.
+Outside of the annual reviews, the Outsourcing Recipient is required to advise the TPORM should
+there be a proposed change in the nature of the outsourced. The Service Recipient must ensure
+that all relevant detail pertaining to the change in arrangement is provided to the TPORM, to give
+the TPORM enough time to facilitate and oversee a reassessment of the service and any additional
+due diligence and any notifications required to the regulator.
+3.2.2 Incident Breach Reporting Structure
+For all Outsourcing Arrangements, SEL must be informed by the OSP where outsourcing incidents
+have occurred. Where identified, incidents and breaches must be discussed at the OOC and at the
+RGC where required. SEL have defined what constitutes a material event/breach in its Incident
+Severity Definitions and Thresholds (go/sevlevels) procedure. SEL maintains an incident register
+that tracks all incidents (including outsourcing incidents), which contains information such as dates
+of when the incident occurred and specific steps to resolve these incidents.
+3.2.3 Reporting Management Information to Management / Board
+SEL should ensure that appropriate management information is provided to the OOC, RGC and the
+Board, which includes sufficient detail to enable those bodies to challenge the establishment and
+oversight of Outsourcing, and to enable key decision makers to make informed decisions. The
+COO is responsible for producing relevant management information on the nature of and outcomes
+from ongoing monitoring of Outsourcing Arrangements, and providing this to the respective
+bodies.
+3.3 Training
+SEL must ensure that all Staff, senior management and the Board have sufficient knowledge and
+understanding of Outsourcing and the associated risks. The TPORM, with oversight from the COO,
+is responsible for the development and delivery of a risk-based outsourcing training program
+within SEL. At a minimum, SEL shall provide tailored/specific tailored training to the employees and
+departments based on their involvement in outsourcing processes, and will provide refresher
+training on an annual basis. All members of the Board of Directors will also receive outsourcing
+training on an annual basis.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+
+● Applicable regulatory requirements
+Additionally, records related to compliance with this Policy, including but not limited to due
+diligence completed on OSPs, criticality and risk assessments, must be stored in a manner in
+which they can be made available to review promptly, and retained in line with SELʼs record
+retention practices.
+3.5 Non-Compliance
+Non-Compliance with this Policy, whether negligent or intentional, will be taken seriously. Failure to
+report any knowledge or suspicion of malpractice, wrongdoing or impropriety at work may
+constitute misconduct.
+Any Staff Member who has concerns that the requirements under this Policy are not being met are
+encouraged to ‘speak upʼ by raising an issue with their line manager or following the reporting
+procedures set out in the SEL Speak Up Policy.
+3.6 Exceptions
+Exceptions to this document must be pre-approved by the Head of Compliance Staff members
+may submit exception requests for review at go/policyhelp. Exemptions should be narrow in scope
+and clearly identify the specific requirement, geography, and business group or stakeholders
+covered by the exemption. A record of all exemptions applied for, and granted, must be maintained
+by the TPORM.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: This Policy is owned by the Head of Compliance. The Head of Compliance is
+responsible for the establishment and implementation of the Outsourcing Policy requirements.
+They ensure at a minimum that this Policy is reviewed annually, to ensure it continues to align with
+SELʼs outsourcing strategy, control framework, and the regulatory environment. Any updates to the
+Policy will need to be approved by the Head of Compliance. If there is a substantive change that
+necessitates an update to this Policy outside of the annual review, these changes will be reviewed
+and approved by the OOC.
+For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● SEL Outsourcing Procedure
+● Block, Inc Breach/Incident Policy
+● SEL Conflict of Interest Policy
+● SEL Speak Up Policy
+● Block, Inc Enterprise Risk Management Program ERMP
+
+● SEL Outsourcing and Third Party Register
+● SEL Outsourcing Contract template
+● SEL Outsourcing Risk Assessment Methodology
+● SEL Outsourcing and Criticality Assessment Tool
+● SEL Risk Register
+● SEL Risk Appetite Statement RAS
+● SEL Incident Severity Definitions and Thresholds
+● SEL Outsourcing Strategy
+5. Document Details & Revisions
+Review and Approval: This policy will be approved and reviewed by the Board, at least annually.
+The SEL Board is responsible for ensuring adequate oversight of all Outsourcing Arrangements. All
+Outsourcing Arrangements are required to meet the standards set out in this Policy.
+Approval History:
+Approver Title Type Description Date
+Elizabeth Henry EU Chief Creation June 22, 2023
+Compliance
+Officer
+Squareup Europe Squareup Initial Approval July 2023
+Limited Board of International
+Directors Limited Q2'2023
+Board Meeting
+Elizabeth Henry EU Chief Scheduled Summarised Sep 3, 2024
+Compliance Review roles and
+Officer responsibilities
+and moved the
+Squareup Europe Board Approval Scheduled detail to the September 23,
+Limited Board of Review Outsourcing 2024
+Directors Procedure
+Document
+Ryan Goldstone Head of Scheduled Minor updates Sep 5, 2025
+Compliance Review to the policy,
+and transitioned
+Squareup Europe Board Approval to new block September 29,
+template
+Limited Board of 2025
+Directors
+
+Document Details:
+Business Squareup
+Scope UK
+Compliance Domain Compliance Governance
+Document Owner Head of Compliance
+Approved By SEL Board of Directors
+Document Tier Tier 2

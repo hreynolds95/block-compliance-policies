@@ -1,0 +1,478 @@
+Fair & Responsible Lending Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Fair and Responsible Lending Policy (the "Policy") outlines Block,
+Inc.'s enterprise-wide approach to compliance with the Equal Credit Opportunity Act and its
+implementing Regulation B (“ECOAˮ and “Reg Bˮ), and the prohibition against Unfair, Deceptive,
+and Abusive Acts and Practices (“UDAAPˮ). The purpose of this Policy is to establish
+comprehensive guidelines governing Block, Inc., and its U.S. subsidiaries' compliance with fair
+lending laws, ensuring consistent operations while maintaining brand-specific flexibility, where
+applicable. It is important to note that this Policy does not include fair lending components that
+apply exclusively to Model Risk Management (“MRMˮ), which are governed separately. Block's
+Business Product Compliance Lead, Lending & Credit, and/or their designee, is responsible for the
+management of this Policy.
+Scope: This Policy applies to all consumer Credit Products offered by Block, Inc., its subsidiaries,
+and affiliates (collectively, "Block"), in the United States, including, both consumer-purpose and
+commercial-purpose credit. The only exception is Square Financial Services (“SFSˮ), Blockʼs Utah
+state-chartered Industrial Bank federally regulated by the Federal Deposit Insurance Corporation,
+which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Credit Products Cash App and Afterpay branded consumer loan products for personal,
+family, or household purposes (including, but not limited to, Cash App
+Borrow, Cash App Afterpay Pay Over Time, Afterpay on Cash App Card,
+Cash App Afterpay Online Checkout, Afterpay Pay-in-4, and Afterpay Pay
+Monthly) and Squareʼs business-purpose credit products.
+1
+
+Fair and The Manual that sets forth all components of the Fair and Responsible
+Responsible Lending Program.
+Lending Program
+Manual
+Fair and The Block program that governs all aspects of fair lending, inclusive of
+Responsible ECOA/Regulation B, state equivalents, and the prohibitions against UDAAP.
+Lending Program
+Consumer The examination Modules that the Consumer Financial Protection Bureau
+FInancial uses to examine supervised entities on ECOA compliance.
+Protection
+Bureau ECOA
+Baseline Review
+Modules 25
+(“Modulesˮ)
+Equal Credit The Equal Credit Opportunity Act, 15 U.S.C. §§ 16911691f, the law that
+Opportunity Act prohibits discrimination on the basis of race, color, religion, national origin,
+(“ECOA/
+sex, marital status, age, receipt of public assistance, or good faith exercise of
+Regulation Bˮ)
+any rights under the Consumer Credit Protection Act, in addition to imposing
+disclosure requirements. ECOAʼs implementing Regulation B, 12 CFR Part
+1002, elaborates on these and other principles and requirements for fair and
+non-discriminatory access to credit throughout the credit lifecycle.
+UDAAP Unfair, Deceptive and Abusive Acts and Practices. For purposes of this
+Policy, “Unfairˮ means an act or practice that: 1 causes or is likely to cause
+substantial injury to consumers; 2 is not reasonably avoidable by
+consumers; and 3 is not outweighed by countervailing benefits to
+consumers or to competition.
+Model Risk The umbrella term for treatment of all aspects of the model lifecycle in
+Management accordance with SR 117.
+MRM
+SR 117 Guidance on Model Risk Management from the Board of Governors of the
+Federal Reserve System April 2011 that identifies principles of a sound
+MRM program.
+2
+
+Prohibited Basis ● Race or color
+(also referred to ● Religion
+interchangeably
+● National origin
+as “Protected
+● Sex
+Classesˮ)
+● Marital status
+● Age, as long as the applicant is able to contract
+● Receipt of income from a public assistance program
+● Exercising rights under the Consumer Credit Protection Act in good
+faith
+● Gender/gender identity/gender expression
+● Sexual Orientation
+● Veteran/servicemember status
+● Disability
+● Pregnancy
+● HIV Status
+● Ancestry
+Disparate Impact The application of facially neutral policies or practices that have an adverse
+effect or impact on a member of a Protected Class.
+Disparate A creditor treats a consumer differently based on a Prohibited Basis.
+Treatment
+Overt A creditor openly discriminates on a Prohibited Basis.
+Discrimination
+Model Any algorithm or calculus consisting of three components: an information
+input component, which delivers assumptions and data to the model; a
+processing component, which transforms inputs into estimates; and a
+reporting component, which translates the estimates into useful business
+information, including quantitative approaches whose inputs are partially or
+wholly qualitative or based on expert judgment, provided that the output is
+quantitative in nature. Models can be first party (developed internally) or
+third party (obtained from an external source). The same rules, with limited
+exceptions for self-testing as set forth in the Self-Testing of Models
+Standard, apply to first and third party models.
+2. Block, Inc. Requirements
+2.1 Anti-Discrimination
+Block does not discriminate against any applicant, consumer or customer on a Prohibited Basis
+regarding any aspect of a credit transaction.
+3
+
+● Aspects of a credit transaction include, but are not limited to, application procedures,
+criteria used to evaluate creditworthiness, administration of accounts, and treatment of
+delinquent or slow accounts.
+● Discrimination includes Overt Discrimination and Disparate Treatment.
+● Block may accept some level of Disparate Impact risk in accordance with, and in
+adherence to, Section 2.10 of this Policy, the ECOA Self-Test Standard, and the Attributional
+Proxy Review Standard.
+2.2 No Discouragement
+Block does not make any oral or written statements, in advertising or otherwise, to applicants or
+prospective applicants that would discourage on a Prohibited Basis a reasonable person from
+making or pursuing an application.
+2.3 Collection of Information
+As a general matter, Block may request any information in connection with a credit transaction,
+subject to any Federal or state law regarding privacy, privileged information, credit reporting
+limitations, or similar restrictions on obtainable information. Block may not collect information
+related to Prohibited Bases, except under the following circumstances.
+● Block may inquire about the race, color, religion, national origin, or sex of an applicant or
+any other person in connection with a credit transaction for the purpose of conducting a
+self-test that meets the requirements of Reg B. If Block makes such an inquiry, it must
+disclose orally or in writing, at the time the information is requested, that:
+○ The applicant will not be required to provide the information;
+○ Block is requesting the information to monitor its compliance with the Federal Equal
+Credit Opportunity Act;
+○ Federal law prohibits Block from discriminating on the basis of this information, or
+on the basis of an applicant's decision not to furnish the information; and
+○ If applicable, certain information will be collected based on visual observation or
+surname if not provided by the applicant or other person.
+● Block may request that an applicant designate a title on an application form (such as Ms.,
+Miss, Mr., or Mrs.) if the form discloses that the designation of a title is optional. Block may
+only use application forms that are otherwise neutral as to sex.
+● Block may not request any information concerning the spouse or former spouse of an
+applicant, unless:
+○ The spouse will be permitted to use the account;
+○ The spouse will be contractually liable on the account;
+○ The applicant is relying on the spouse's income as a basis for repayment of the credit
+requested;
+○ The applicant resides in a community property state or is relying on property located in
+such a state as a basis for repayment of the credit requested; or
+○ The applicant is relying on alimony, child support, or separate maintenance payments
+from a spouse or former spouse as a basis for repayment of the credit requested.
+4
+
+● Block may request that an applicant list any account on which the applicant is contractually
+liable and to provide the name and address of the person in whose name the account is held.
+Block may also ask an applicant to list the names in which the applicant has previously
+received credit.
+● If an applicant applies for individual unsecured credit, Block may not inquire about the
+applicant's marital status unless the applicant resides in a community property state or is
+relying on property located in such a state as a basis for repayment of the credit requested. If
+an application is for other than individual unsecured credit, Block may inquire about the
+applicant's marital status, but shall use only the terms married, unmarried, and separated.
+Block may explain that the category unmarried includes single, divorced, and widowed
+persons.
+● Block may not inquire whether income stated in an application is derived from alimony, child
+support, or separate maintenance payments unless Block discloses to the applicant that such
+income need not be revealed if the applicant does not want Block to consider it in determining
+the applicant's creditworthiness.
+● Block may not inquire about birth control practices, intentions concerning the bearing or
+rearing of children, or capability to bear children. Block may inquire about the number and ages
+of an applicant's dependents or about dependent-related financial obligations or expenditures,
+provided such information is requested without regard to sex, marital status, or any other
+Prohibited Basis.
+● Block may inquire about the permanent residency and immigration status of an applicant or any
+other person in connection with a credit transaction.
+2.4 Evaluation of Applications
+Generally, Block may consider any information obtained, so long as the information is not used to
+discriminate against an applicant on a Prohibited Basis. Block may not take a Prohibited Basis into
+account in any system of evaluating an applicantʼs creditworthiness.
+● Block may not take into account an applicant's age (provided that the applicant has the
+capacity to enter into a binding contract) or whether an applicant's income derives from
+any public assistance program.
+● In an empirically derived, demonstrably and statistically sound, credit scoring system,
+Block may use an applicant's age as a predictive variable, provided that the age of an
+elderly applicant is not assigned a negative factor or value.
+● In a judgmental system of evaluating creditworthiness, Block may consider an applicant's
+age or whether an applicant's income derives from any public assistance program only for
+the purpose of determining a pertinent element of creditworthiness.
+● In any system of evaluating creditworthiness, Block may consider the age of an elderly
+applicant when such age is used to favor the elderly applicant in extending credit.
+● In evaluating creditworthiness, a creditor shall not make assumptions or use aggregate
+statistics relating to the likelihood that any category of persons will bear or rear children or
+will, for that reason, receive diminished or interrupted income in the future.
+● Block may not take into account whether there is a telephone listing in the name of an
+applicant for consumer credit but may take into account whether there is a telephone in the
+applicant's residence.
+5
+
+● Block may not discount or exclude from consideration the income of an applicant or the
+spouse of an applicant because of a Prohibited Basis or because the income is derived
+from part-time employment or is an annuity, pension, or other retirement benefit; Block
+may consider the amount and probable continuance of any income in evaluating an
+applicant's creditworthiness. When an applicant relies on alimony, child support, or
+separate maintenance payments in applying for credit, Block must consider such payments
+as income to the extent that they are likely to be consistently made.
+● To the extent that Block considers credit history in evaluating the creditworthiness of
+similarly qualified applicants for a similar type and amount of credit, in evaluating an
+applicant's creditworthiness Block must consider:
+○ The credit history, when available, of accounts designated as accounts that the
+applicant and the applicant's spouse are permitted to use or for which both are
+contractually liable;
+○ On the applicant's request, any information the applicant may present that tends to
+indicate the credit history being considered by the creditor does not accurately
+reflect the applicant's creditworthiness; and
+○ On the applicant's request, the credit history, when available, of any account
+reported in the name of the applicant's spouse or former spouse that the applicant
+can demonstrate accurately reflects the applicant's creditworthiness.
+● Block may consider the applicant's immigration status or status as a permanent resident of
+the United States, and any additional information that may be necessary to ascertain its
+rights and remedies regarding repayment.
+● Except as otherwise permitted or required by law, Block must evaluate married and
+unmarried applicants by the same standards; and in evaluating joint applicants, a creditor
+shall not treat applicants differently based on the existence, absence, or likelihood of a
+marital relationship between the parties.
+● Except as otherwise permitted or required by law, Block may not consider race, color,
+religion, national origin, or sex (or an applicant's or other person's decision not to provide
+the information) in any aspect of a credit transaction.
+2.5 Extensions of Credit
+Block must abide by the following rules when extending credit:
+● Block may not refuse to grant an individual account to a creditworthy applicant on the basis
+of sex, marital status, or any other Prohibited Basis.
+● Block may not refuse to allow an applicant to open or maintain an account in a birth-given
+first name and a surname that is the applicant's birth-given surname, the spouse's
+surname, or a combined surname.
+● Block may not require the signature of an applicant's spouse or other person, other than a
+joint applicant, on any credit instrument if the applicant qualifies under Blockʼs standards of
+creditworthiness for the amount and terms of the credit requested. Block may not deem the
+submission of a joint financial statement or other evidence of jointly held assets as an
+application for joint credit. If an applicant requests unsecured credit and relies in part upon
+property that the applicant owns jointly with another person to satisfy the Blockʼs standards
+of creditworthiness, Block may require the signature of the other person only on the
+6
+
+instrument(s) necessary, or that Block reasonably believes to be necessary, under the law
+of the state in which the property is located, to enable Block to reach the property being
+relied upon in the event of the death or default of the applicant.
+● If a married applicant requests unsecured credit and resides in a community property state,
+or if the applicant is relying on property located in such a state, Block may require the
+signature of the spouse on any instrument necessary, or that Block reasonably believes to
+be necessary, under applicable state law to make the community property available to
+satisfy the debt in the event of default if:
+○ Applicable state law denies the applicant power to manage or control sufficient
+community property to qualify for the credit requested under the creditor's
+standards of creditworthiness; and
+○ The applicant does not have sufficient separate property to qualify for the credit
+requested without regard to community property.
+● If, under Blockʼs standards of creditworthiness, the personal liability of an additional party
+is necessary to support the credit requested, Block may request a cosigner, guarantor,
+endorser, or similar party. The applicant's spouse may serve as an additional party, but
+Block may not require that the spouse be the additional party. Block may not impose
+requirements on an additional party that Block is prohibited from imposing upon an
+applicant as described above.
+2.6 Special Purpose Credit Program
+Block does not offer any special purpose credit programs as of the Effective Date of this Policy.
+2.7 Notifications & Adverse Action
+Block must provide certain notifications of actions taken under certain circumstances. These
+notifications must be provided within:
+● 30 days after receiving a completed application concerning Blockʼs approval of,
+counteroffer to, or adverse action on the application;
+● 30 days after taking adverse action on an incomplete application (“Adverse Action Noticeˮ),
+unless Block sends a notice to the applicant specifying the information needed (“Notice of
+Incomplete Applicationˮ), designating a reasonable period of time for the applicant to
+provide the information, and informing the applicant that failure to provide the information
+requested will result in no further consideration being given to the application. Block has no
+further obligation under this section if the applicant fails to respond within the designated
+time period. If the applicant supplies the requested information within the designated time
+period, Block must take action on the application and notify the applicant in accordance
+with these rules;
+● 30 days after taking adverse action on an existing account (“Adverse Action Noticeˮ); or
+● 90 days after notifying the applicant of a counteroffer if the applicant does not expressly
+accept or use the credit offered.
+A notification given to an applicant when adverse action is taken must be in writing and must
+specify the action taken; the name and address of the creditor; a statement of the provisions of
+7
+
+ECOA section 701(a) (below); the name and address of the Federal agency that administers
+compliance with respect to Block; and either:
+● A statement of specific reasons for the action taken; or
+● A disclosure of the applicant's right to a statement of specific reasons within 30 days, if the
+statement is requested within 60 days of Blockʼs notification. The disclosure must include
+the name, address, and telephone number of the person or office from which the statement
+of reasons can be obtained. If Block chooses to provide the reasons orally, Block must also
+disclose the applicant's right to have them confirmed in writing within 30 days of receiving
+the applicant's written request for confirmation.
+○ Section 701(a) Notice: The Federal Equal Credit Opportunity Act prohibits creditors
+from discriminating against credit applicants on the basis of race, color, religion,
+national origin, sex, marital status, age (provided the applicant has the capacity to
+enter into a binding contract); because all or part of the applicant's income derives
+from any public assistance program; or because the applicant has in good faith
+exercised any right under the Consumer Credit Protection Act. The Federal agency
+that administers compliance with this law concerning this creditor is the Consumer
+Financial Protection Bureau, 1700 G Street NW, Washington, D.C. 20552.
+● With regard to a business that had gross revenues of more than $1 million in its preceding
+fiscal year, Block must notify the applicant, within a reasonable time, orally or in writing, of
+the action taken; and provide a written statement of the reasons for adverse action and the
+ECOA notice described above if the applicant makes a written request for the reasons
+within 60 days of Blockʼs notification.
+● With regard to a business that had gross revenues of $1 million or less in its preceding
+fiscal year, Block must comply with requirements of 12 CFR 1002.9(a)(1) and (a)(2), except
+that Block may notify the applicant within 30 days, orally or in writing, of the action taken;
+and disclose the applicant's right to a statement of reasons at the time of application,
+instead of when adverse action is taken.
+● The statement of reasons for adverse action must be specific and indicate the principal
+reason(s) for the adverse action. Statements that the adverse action was based on Blockʼs
+internal standards or policies or that the applicant, joint applicant, or similar party failed to
+achieve a qualifying score on Blockʼs credit scoring system are insufficient. Block may list
+up to 4 reasons, unless the 5th reason is “too many credit inquiries,ˮ in which case it may
+list that reason as the 5th reason.
+● When an applicant submits an application and the parties contemplate that the applicant
+will inquire about its status, if Block approves the application and the applicant has not
+inquired within 30 days after applying, Block may treat the application as withdrawn and
+does not have to send the notice described above.
+● When an application involves more than one applicant, Block only needs to notify one of
+them, but must be given to the primary applicant where one is readily apparent.
+2.8 Furnishing Credit Information
+Block does not furnish credit information as of the effective date of this Policy.
+2.9 State ECOA Type Laws
+8
+
+Block must comply with state anti-discrimination laws in addition to ECOA in all aspects of the
+credit lifecycle. This includes state laws that are more restrictive than the federal ECOA, inclusive
+of designation of and Prohibited Bases.1
+2.10 Incentives for Self-Testing and Self-Corrections
+Block may choose to engage in self-testing2 as defined in ECOA to obtain certain legal privilege. A
+“self-testˮ is any program, practice, or study that:
+● Is designed and used specifically to determine the extent or effectiveness of Blockʼs
+compliance with ECOA; and
+● Creates data or factual information that is not available and cannot be derived from loan or
+application files or other records related to credit transactions.
+All self-tests must be performed under the direction of the Legal Counsel to retain the privilege. Legal
+Counsel need not approve each individual test, but must approve a schedule of tests and
+modifications thereto, including special purpose tests.
+Block acknowledges that to claim privilege, it must take corrective actions when the self-test shows
+that it is more likely than not that a violation occurred, even though no violation has been formally
+adjudicated. Block takes corrective action that is reasonably likely to remedy the cause and effect of a
+likely violation, when appropriate, by:
+● Identifying the policies or practices that are the likely cause of the violation; and
+● Assessing the extent and scope of any violation.
+Appropriate corrective action may include both prospective and remedial relief. Block may provide
+remedial relief to a tester used in a self-test, but is required to provide remedial relief to an
+applicant identified by the self-test as one whose rights were more likely than not violated, unless
+the statute of limitations applicable to the violation expired before Block obtained the results of the
+self-test or the applicant is otherwise ineligible for such relief.
+Please consult Legal Counsel for questions regarding scope of the privilege. Block understands
+that it loses the privilege if it:
+● Voluntarily discloses any part of the report or results, or any other information privileged
+under this section, to an applicant or government agency or to the public;
+● Discloses any part of the report or results, or any other information privileged under this
+section, as a defense to charges that the creditor has violated the Act or regulation; or
+● Fails or is unable to produce written or recorded information about the self-test that is
+required to be retained under the record retention provisions (see Section 3.4 below) when
+the information is needed to determine whether the privilege applies.
+1 This Policy defines “Prohibited Basesˮ broadly to encompass prohibited bases under ECOA and various state laws.
+State-based prohibited bases are subject to the same requirements, restrictions and limitations set forth in this Policy.
+2 Self-testing under ECOA is permissive, but is a required component of 117 for purposes of MRM. MRM is governed by the
+Model Risk Management Policy. Block may use testing conducted pursuant to that Policy to satisfy ECOAʼs self-test
+provisions, provided the 117 test is structured appropriately to capture disparate impact risk.
+9
+
+2.11 Less Discriminatory Alternatives
+When a model that is subject to a self-test, or otherwise, shows evidence of statistically
+significant3 Disparate Impact, Block must engage in an analysis to determine whether a less
+discriminatory alternative exists that achieves the same business purpose, in accordance with the
+ECOA Self-Testing of Models Standard.
+2.12 Unfair, Deceptive, and Abusive Acts and Practices
+Block is committed to fairly offering its products and services in accordance with applicable state
+and federal consumer protection laws and regulations, which includes the principles of UDAAP.
+Block will not treat customers unfairly at any stage in the lifecycles of its products, including but
+not limited to, account opening, servicing, collections, and marketing. For more information, see
+Blockʼs Unfair, Deceptive, and Abusive Acts and Practices Policy.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this Policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+3 Block employs the industry standard Adverse Impact Ratio AIR of 90% for purposes of statistical significance.
+10
+
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+● Business Product Compliance Lead, Lending & Credit
+○ Oversees the day-to-day operations of the Fair and Responsible Lending Program
+○ Together with Legal Counsel, ensures Fair & Responsible Lending Program
+components are functioning as intended
+○ Provides interpretative advice regarding the applicability and application of the
+requirements of this Policy to Blockʼs business and operational activities.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy, or
+○ Applicable regulatory requirements
+3.5 Exceptions
+11
+
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Amanda C… Regulatory Initial Appro… Attestation to Oct 10, 2025
+Counsel Document
+Contents
+Corey Cha… Business Product Initial Appro… Attestation to Oct 15, 2025
+Compliance Lead, Document
+Lending & Credit Contents
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+12
+
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending &
+Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+13

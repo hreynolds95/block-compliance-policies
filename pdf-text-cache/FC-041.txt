@@ -1,0 +1,898 @@
+Anti-Money Laundering,
+Counter Terrorist Financing
+& Economic Sanctions
+Program
+アンチマネーロンダリング＆テロリスト
+資金供与＆制裁対応プログラム
+Square | Square K.K.
+May 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Kabushiki Kaisha and on a need-to-know basis.
+社外秘
+この文書は機密情報であり、Square株式会社の社員及びその他必要な権限を持つ者以外の閲覧は禁じる。
+Square | Square K.K., LLC | Credit Card
+2
+
+Confidential
+Table of Contents
+Definitions 5
+Roles and Responsibilities 6
+1. Introduction 8
+2. Purpose 10
+3. Scope 11
+4. Program Requirements 11
+4.1 Regulatory Framework 11
+4.2 What is Money Laundering 12
+4.3 What is Terrorist Financing 13
+4.4 What is Economic Sanctions 14
+5. Risk Assessment & Management 14
+5.1 Risk Based Approach 14
+5.2 Business Risk Assessment 15
+5.3 Risk Factors 16
+6. Know Your Customer and Customer Due Diligence 16
+6.1 Risk Based Customer Due Diligence 16
+6.2 Politically Exposed Person 17
+6.3 Enhanced Due Diligence 19
+7. Role of JP Chief Compliance Officer/MLRO 19
+8. Transaction Monitoring 21
+9. Reporting 22
+9.1 Suspicious Transaction Reporting 22
+9.2 Confidentiality and Tipping Off 22
+9.3 Sharing Information 23
+10. Outsourced AML/CFT/ES Activity 23
+11. Data 24
+12. Sanctions 25
+12.1 Compliance Program 25
+12.2 Local Regulations 25
+12.3 Reporting 25
+12.4 Governance 26
+13. Quality Control 26
+14. Regular Independent Assessment 26
+15. Training 27
+15.1 New Hire Training 27
+Square | Square K.K., LLC | Credit Card
+3
+
+Confidential
+16.2 Annual Training 28
+16. Exceptions 28
+17. Record Retention 29
+18. Document Management 30
+18.1 Document Owner 30
+18.2 Review and Approval 30
+19. Related Documentation or References 31
+20. Revision and Approval History 31
+21. Document Details 31
+Square | Square K.K., LLC | Credit Card
+4
+
+Confidential
+Definitions
+Terminology Definition
+Customer An individual or company that uses products and services offered by Square
+K.K.
+Customer Due Including the minimum standard of CIP, CDD involves the collection and risk
+Diligence (“CDDˮ) based verification of additional information from customers at onboarding,
+account setup, or on an ongoing basis
+Enhanced Due EDD relates to CDD plus additional collection and/or verification of customer
+Diligence (“EDDˮ) information where the risk of the customer is potentially high.
+Economic Economic Sanctions (“ESˮ) are an instrument of a diplomatic or economic
+Sanctions (“ESˮ) nature which seek to bring about a change in activities or policies, such as
+violations of international law or human rights or policies that do not respect
+the rule of law or democratic principles. Economic sanctions emanating from
+Japan and the United Nations UN are contained in Block Global sanctions
+lists.
+Know Your KYC includes the process of establishing risk-based controls to reasonably
+Customer (“KYCˮ) identify and verify the identity of Square K.K.ʼs customers. The term KYC
+may also be referred to as Know Your Business KYB when dealing with
+non-individual entities or business customers.
+Money Laundering In Japan, Money laundering (ˮML") is defined as concealing or disguising the
+(“MLˮ) acquisition or disposal of the proceeds of specified criminal acts (“criminal
+proceedsˮ) and includes acts of concealing or disguising the cause of their
+occurrence, forming the crime of concealing criminal proceeds. Furthermore,
+anyone who knowingly receives criminal proceeds forms the crime of
+receiving criminal proceeds.
+Suspicious A report of suspicious activity to a relevant government Financial Intelligence
+Transaction Report Unit.
+(“STRˮ)
+Square | Square K.K., LLC | Credit Card
+5
+
+Confidential
+Terrorist Financing In Japan, Terrorist Financing (“TFˮ) refers to acts of providing funds or other
+(“TFˮ) benefits to those who intend to commit criminal acts with the purpose of
+intimidating the public, as stipulated in Article 1 of the 'Act on Punishment of
+Financing for Offenses of Public Intimidation' (hereinafter referred to as the
+'Terrorist Financing Act'). These acts are intended to facilitate the execution
+of the said criminal acts. Attempted acts are also subject to punishment.
+Tipping Off Tipping Off refers to applicable Local Laws that prohibit the deliberate or
+inadvertent disclosure of information to any third party, including account
+holders, that may prejudice an investigation including but not limited to
+disclosing that a STR (or local equivalent) has been filed or alerting of the
+suspicion of prohibited or illegal activity.
+Issue An Issue is defined as a deficiency gap, or weakness in the design,
+performance, or operating effectiveness.
+Staff Member Staff Members refer to all executives, employees and fixed-term and
+(“Staffˮ) contingent workers who support the operations of Square K.K., and include
+interns, temporary workers, and contractors
+Roles and Responsibilities
+Role Description
+Square K.K. Board The SBM has ultimate responsibility for this Program and Squareʼs
+of Managers
+compliance efforts. The Board is responsible for:
+(“SBMˮ or “Boardˮ)
+● Appointing a Compliance Officer with authority and accountability for
+the Compliance Management System & Compliance function;
+● Reviewing and approving Policies covered in the Square K.K.'s
+Compliance Management System Policy;
+● Approvals must be evidenced in the minutes or attestations;
+● Demonstrating clear and appropriate expectations about compliance;
+● Understanding material compliance risks to which the Company is
+exposed; and
+Square | Square K.K., LLC | Credit Card
+6
+
+Confidential
+● Ensuring that the compliance function has the necessary resources
+to appropriately manage compliance risk and are appropriately
+empowered within Square K.K.
+Block, Inc. Chief The CCO will:
+Compliance Officer
+● Provide assistance and support in implementing this Program across
+(“CCOˮ)
+the organization;
+● Be responsible for establishing appropriate practices designed to
+ensure that Company operations reflect the Companyʼs commitment
+to compliance and that all employees are aware of that commitment
+and their individual responsibility;
+● Be responsible for monitoring and reporting on compliance with this
+Program;
+● Delegates the responsibilities in this section to the Square K.K. Chief
+Compliance Officer along with the authority to adopt, develop and
+implement procedures and reporting that support this Program.
+Square K.K. Chief The Square K.K. Chief Compliance Officer:
+Compliance Officer
+● Owns this Program document;
+and Anti-Money
+Laundering Officer ● Reviews and approves exception requests;
+(“JP CCOˮ)
+● Designated person by CCO with the authority to adopt, develop and
+implement procedures and reporting that support this Program;
+● Conducts a risk assessment with the support of a cross-functional
+group of stakeholders across product, legal, and compliance.
+Legal Team The Legal Team is responsible for:
+● Advising the CCO,, Senior Management, and other areas of Square
+K.K. regarding legal and compliance matters;
+● Providing legal advice by identifying and validating relevant
+regulatory obligations applicable to Squareʼs products and
+operations;
+● Working closely with the JP CCO and Compliance to achieve
+compliance objectives, in areas such as customer complaint
+resolution, corrective action, and vendor management.
+Square | Square K.K., LLC | Credit Card
+7
+
+Confidential
+Senior Management Senior Management, which includes key members of Square K.K.ʼs
+management team, is responsible for supporting the JP CCO in delegated
+day-to-day responsibilities such as:
+● Demonstrating clear and appropriate expectations about compliance,
+not only within Square and its related entities but also to third-party
+service providers;
+● Maintaining effective internal controls and executing risk and control
+procedures on a day-to-day basis;
+● Being responsible for the handling and coordinating with the JP CCO
+and Legal Team on any complaints, including those alleging
+discrimination or disparate treatment, unfair or deceptive acts or
+practices;
+● Addressing compliance Issues and associated risks of consumer
+harm;
+● Implementing effective corrective actions to address process and
+control deficiencies;
+● Identify and support execution of the compliance monitoring and
+testing plan, including the review of results; and
+● Ensuring that recurring reports of compliance risks, Issues, and
+resolution are attained.
+Members of Senior Management may also be compliance staff, reporting
+either directly or indirectly to the JP CCO.
+Staff Members All Staff Members of Square K.K. are responsible for conducting Company's
+operations to ensure the proper management of affairs by reducing and
+excluding AML/CFT/ES risks.
+Square | Square K.K., LLC | Credit Card
+8
+
+Confidential
+1. Introduction
+The Anti-Money Laundering, Countering the Financing of Terrorism and Economic Sanctions
+(“AML/CFT/ESˮ) Program ("Program") is established by Square Kabushiki Kaisha ("Square K.K."). The
+ultimate parent company is Block, Inc. ("Block"), a Delaware corporation, which is a merchant services
+aggregator and mobile payments company based in Oakland, California in the United States of America. It
+is registered as a Money Services Business with the Financial Crimes Enforcement Network (“FinCENˮ).
+Square K.K. is a Payment Service Provider (“PSPˮ) in Japan that is not at this point directly regulated or
+supervised by any authorities in Japan. However, as a company that partners with international credit card
+brands, card issuers, QR-code money transfers, and acquirers, Square K.K. is expected to adhere to the
+stringent AML/CFT compliance standards. Also, Block, Square K.K. must strictly comply with the local
+economic sanctions regulations under the Foreign Exchange and Foreign Trade Act FEFTA as well as
+sanctions rules and regulations administered by the Office of Foreign Assets Control OFAC.
+Square K.K.ʼs primary product offering includes a combination of card acceptance hardware, made up of
+the Square Reader/Terminal (a device used with an Apple iOS device or an Android mobile device), a
+Square Stand (a stand used exclusively with an Apple iPad), and an accompanying software application to
+provide the technical interface between the hardware and the merchant acquiring banking infrastructure.
+Collectively, this payment solution is referred to as "Square Managed Payments". Square Managed
+Payments reads credit, gift, prepaid card, e-money, and QR code data and enables a Merchant (an
+individual or a company) to accept non-cash payments using their iPhone/iPad/Android mobile device and
+send a digital receipt to their Customer (or a printed receipt if compatible hardware is installed).
+1. はじめに
+アンチマネーロンダリング（AML）テロ資金供与対策（CFT）および経済制裁プログラム（以下「本プログラム」という。）は、
+Square株式会社（以下「Square K.K.」という。）によって制定されました。Square K.K.は、日本国内で規制および監督を特
+段受けていない決済代行業者です。Square K.K.の親会社はBlock, Inc.（以下「Block」という。）であり、これは米国カリ
+フォルニア州オークランドに本拠を置くマーチャントサービス・アグリゲーター兼モバイル決済会社です。Blockは、FinCEN
+（金融犯罪取締ネットワーク）にマネーサービスビジネスとして登録されています。
+Square K.K. は決済サービスプロバイダー（PSP）であり、日本において直接的に規制・監督を受けていません。しかし、国
+際的なクレジットカードブランドやカード発行会社、QRコード送金事業者、アクワイアラーと連携する企業として、厳格な
+AML/CFT コンプライアンス基準を遵守することが求められます。また、Block および Square K.K. は、外国為替及び外国
+Square | Square K.K., LLC | Credit Card
+9
+
+Confidential
+貿易法（FEFTA）に基づく経済制裁規制および米国財務省外国資産管理局（OFAC）の制裁規則を厳守しなければなりませ
+ん。
+Square K.K. の主な製品は、Square Reader／Terminal（Apple iOS デバイスまたは Android デバイスと接続して使用
+する決済端末）、Square Stand（Apple iPad 専用スタンド）、およびこれらのハードウェアと加盟店のアクワイアリングバン
+キングインフラをつなぐソフトウェアアプリケーションで構成され、総称して「Square Managed Payments」と呼ばれていま
+す。Square Managed Payments はクレジットカード、ギフトカード、プリペイドカード、電子マネー、QRコードのデータを読
+み取り、加盟店（個人または法人）が iPhone／iPad／Android デバイスを用いて非現金決済を受け付け、顧客にデジタル
+レシート（対応ハードウェア導入時は印刷レシート）を送信できるようにしています。
+2. Purpose
+Square K.K. is committed to developing, implementing, and maintaining an effective, risk-based
+AML/CFT program, which is reasonably designed to prevent Square K.K. from being used to facilitate
+money laundering and the financing of terrorist activities.
+This Program has been designed to meet the following objectives:
+● To develop and implement a risk-based AML/CFT/ES program for all Square K.K. activities
+in the Japan;
+● To inform the development of risk-based AML/CFT/ES control procedures for all Square
+K.K. activities in the Japan;
+● To promote awareness of applicable AML/CFT/ES laws and regulations;
+● To detect, prevent, monitor and report suspicious activity and any terrorist financing
+transactions; and
+● To fully cooperate with all law enforcement, regulatory agencies, and financial intelligence
+units to the extent required and permitted under applicable law.
+2. 目的
+Square K.K. は、AML/CFT/ESに関する、合理的かつリスクベースの効果的なプログラムを策定・実施・維持し、同社
+が資金洗浄やテロ活動の資金供与に利用されることを防止することにコミットしています。
+本プログラムは、以下の目的を達成するよう設計されています：
+Square | Square K.K., LLC | Credit Card
+10
+
+Confidential
+● 日本国内におけるSquare K.K. の業務活動に対し、リスクベースの AML/CFT/ES プログラムを策定・実
+施すること
+● 日本国内における Square K.K. の業務活動に対し、リスクベースの AML/CFT/ES 管理手続を整備する
+こと
+● 適用される AML/CFT/ES 関連法令への意識と理解を促進すること
+● 疑わしい取引やテロ資金供与の疑いがある取引を検知・防止・監視し、必要に応じて報告すること
+● 適用法令の範囲内で法執行機関、規制当局、および金融情報機関と協力・連携すること
+3. Scope
+This Program is established by Square K.K. and is applicable to its businesses in Japan. It is vital that
+all Staff Members that support Square K.K. are aware of, and are committed to complying with, all
+applicable requirements of this Program and relevant AML/CFT/ES laws and regulations. All Staff
+Members are expected to maintain the standards specified within this Program.
+3. 対象
+本プログラムはSquare K.K.によって策定され、日本国内におけるSquare K.K.のビジネスに適用されます。Square
+K.K.を支援する全てのスタッフは、本プログラムおよび関連するAML/CFT/ESに関する法令・規制の全要件を理解し、
+遵守することが不可欠です。全スタッフは、本プログラムに定められた基準を維持することが求められます。
+4. Program Requirements
+4.1 Regulatory Framework
+Square K.K. is not directly regulated under Japanese laws such as the AML/CFT/ES regulations.
+However, our partners who are Japanese financial institutions, including Card Issuers, Acquirers and
+Money Transfers are required to comply with the AML/CFT regulations and guidelines. As a partner of
+these financial institutions, Square K.K. must also establish and maintain similar measures to ensure
+compliance.
+In Japan, AML/CFT obligations are set out in the Act on Prevention of Transfer of Criminal Proceeds
+APTCP and supplemented by industry-specific guidelines published by the Ministry of Economy,
+Trade and Industry METI for credit card business and the Financial Services Agency FSA for QR
+payment service providers. Economic sanctions are enforced under the Foreign Exchange and Foreign
+Trade Act FEFTA by the Ministry of Finance MOF.
+Square | Square K.K., LLC | Credit Card
+11
+
+Confidential
+4.1 規制の枠組み
+Square K.K.は、日本のマネロン規制や制裁などの直接の規制に服していませんが、当社が提携している日本のクレ
+ジットカード会社、アクワイアラーや資金移動業社などの金融機関は、マネロンや制裁関係の規制やガイドラインの遵守
+が求められています。これらの金融機関の提携事業者として、Square K.K.もコンプライアンスを維持するための同様の
+態勢を整備する必要があります。
+日本では、AML/CFT義務は「犯罪による収益の移転防止に関する法律」（APTCP）に規定されており、クレジットカード
+業向けのガイドラインは経済産業省（METI）、QRコード決済サービス業向けのガイドラインは金融庁（FSA）がそれぞれ
+公表しています。経済制裁は「外国為替及び外国貿易法」（FEFTA）に基づき財務省（MOF）が執行しています。
+4.2 What is Money Laundering
+In Japan, Money laundering (ˮML") is defined as concealing or disguising the acquisition or disposal of
+the proceeds of specified criminal acts (“criminal proceedsˮ) and includes acts of concealing or
+disguising the cause of their occurrence, forming the crime of concealing criminal proceeds.
+Furthermore, anyone who knowingly receives criminal proceeds forms the crime of receiving criminal
+proceeds.
+To prevent the transfer of criminal proceeds from ML activities, specific business operators are subject
+to the 'Act on Prevention of Transfer of Criminal Proceeds (“APTCPˮ)1', which imposes the obligations,
+including KYC, Transaction Record and Suspicious Transaction Reporting (“STRˮ).
+Additionally, specific businesses are required to establish compliance systems based on the Act on
+Prevention of Transfer of Criminal Proceeds and adhere to guidelines regarding money laundering
+issued by respective authorities. The METI has issued 'Guidelines for Credit Card Business on
+Anti-Money Laundering and Counter-Terrorism Financing Measures.' The APTCP and AML/CFT
+Guidelines apply for only Card Issuers in Japan, whereas Square, as a payment service provider, is not
+directly subject to AML/CFT regulations. However, as a payment service provider in the chain of
+financial transactions, it is important to comply with local and global AML/CFT regulations and the
+partnership with acquirers.
+4.2 マネーロンダリング
+1 https://www.japaneselawtranslation.go.jp/en/laws/view/3587/en
+Square | Square K.K., LLC | Credit Card
+12
+
+Confidential
+日本において、マネーロンダリング（ML）とは、特定犯罪による収益（以下「犯罪収益」という。）の取得または処分を隠
+匿・偽装する行為であり、その発生原因を隠匿・偽装する犯罪収益隠匿罪を含みます。また、犯罪収益を故意に受領す
+る行為は、犯罪収益等収受罪を構成します。
+犯罪収益の移転を防止するため、特定事業者は犯罪収益移転防止法（APTCP）の適用を受け、顧客確認（KYC）、取
+引記録の作成・保存、疑わしい取引の届出などの義務を負います。
+さらに、特定事業者はAPTCPに基づくコンプライアンス体制を構築し、関係当局が公表するマネーロンダリング対策ガイ
+ドラインに従う必要があります。経済産業省（METI）はクレジットカード事業者向けに「マネー・ローンダリング及びテロ資
+金供与対策ガイドライン」を発行しています。APTCPおよび当該ガイドラインは主にカード発行事業者に適用されます
+が、Squareのような決済サービス提供者も、金融取引チェーンの一翼を担う者として、国内外のAML/CFT規制および
+アクワイアラーとの提携に基づく対策を講じることが重要です。
+4.3 What is Terrorist Financing
+In Japan, Terrorist Financing (“TFˮ) refers to acts of providing funds or other benefits to those who
+intend to commit criminal acts with the purpose of intimidating the public, as stipulated in Article 1 of
+the 'Act on Punishment of Financing for Offenses of Public Intimidation' (“Terrorist Financing Actˮ)2.
+These acts are intended to facilitate the execution of the said criminal acts. Attempted acts are also
+subject to punishment.
+4.3 テロ資金供与とは
+日本においてテロ資金供与（TF）とは、「公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法
+律」（以下「テロ資金提供処罰法」）第1条に規定される、公共を威嚇する目的で犯罪行為を行おうとする者に対し、資金
+その他の利益を提供する行為をいいます。これらの行為は当該犯罪の実行を助長することを意図しており、未遂行為も
+処罰の対象となります。
+4.4 What is Economic Sanctions
+Economic Sanctions (“ESˮ) are diplomatic or economic measures aimed at changing the behavior or
+policies of designated individuals, entities, or governments that are responsible for violations of
+international law, human rights abuses, or other actions incompatible with the rule of law or democratic
+principles. Economic sanctions imposed by Japan and the United Nations UN against these
+2 https://laws.e-gov.go.jp/law/414AC0000000067#Mp-At_2
+Square | Square K.K., LLC | Credit Card
+13
+
+Confidential
+designated targets are reflected in Blockʼs global sanctions lists. In Japan, economic sanctions are
+implemented under the Foreign Exchange and Foreign Trade Act FEFTA, with detailed guidelines
+issued by the Ministry of Finance.ˮ
+4.4 経済制裁とは
+経済制裁（ES）とは、国際法や人権侵害、法の支配・民主主義原則を尊重しない政策などを是正するため、外交的また
+は経済的手段として講じられるものです。日本および国際連合（UN）から発出される経済制裁は、Blockのグローバル
+制裁リストに反映されています。
+日本国内においては、経済制裁は「外国為替及び外国貿易法（外為法）」を根拠法とし、財務省が省令やガイドラインに
+よって具体的な措置を定め、執行しています。
+5. Risk Assessment & Management
+5.1 Risk Based Approach
+Square K.K. implements a risk-based approach in the establishment of an effective Program in countering
+the risks posed to Square K.K. and the ecosystem in which Square K.K. operates. Risk assessment and
+controls are ongoing processes conducted locally and globally and are continuously evaluated so that
+resources are assigned appropriately to those areas that pose the greatest risk.
+In order to develop appropriate systems and controls, Square K.K. evaluates ML/TF/ES risks , both specific
+and general, that arise in relation to customers, products, services, channels, and geography (where its
+business and customers are located) as well as other risks identified by Country Risk Assessment and
+Square K.K. but not contained in the above categories. In this regard, Square K.K. also recognises other
+significant risks such as sanctions, Anti-Social Forces, bribery, corruption, and fraud.
+5.1 リスクベースアプローチ
+Square K.K. は、自社および当社が事業を展開するエコシステムにもたらされるリスクに対応するため、効果的なプログラ
+ムを策定する際にリスクベースのアプローチを採用しています。リスク評価と統制は国内外で継続的に実施・見直されてお
+り、最もリスクの高い領域に適切にリソースを配分できるよう運用しています。
+Square | Square K.K., LLC | Credit Card
+14
+
+Confidential
+適切なシステムと統制を構築するために、Square K.K. は 顧客、商品・サービス 、提供チャネル、地理的要素（事業および
+顧客の所在地域）から発生するML/TF/ESリスク（個別リスクおよび一般的リスク）を評価しています。 さらに、国別リスク評
+価やSquare K.K. によって特定されたが上記カテゴリに含まれないその他のリスクも併せて評価しています。これらには、制
+裁、反社会的勢力対策、贈収賄防止、腐敗対策、詐欺防止などの重要リスクが含まれます。
+5.2 Business Risk Assessment
+Square K.K.'s business risk assessment is conducted to apply CDD by following the approach at the Block
+level. Square K.K.'s Business-Wide AML and Sanctions Risk Assessment is produced annually, taking into
+account various relevant sources. As new risks are identified or presented, consideration will be given to
+the modification of the Program and strategies to execute upon the Program.
+As per relevant legislation, before new products or services are launched in Japan, upon request from the
+business responsible for the new product or services, the JP CCO must review the product or service for
+potential ML/TF risks and ensure appropriate controls are implemented if such risks exist.
+5.2 ビジネスリスクアセスメント
+Square K.K.のビジネスリスクアセスメントは、Blockのアプローチに基づき顧客のデューデリジェンス（CDD）のために実施
+されます。事業全体を対象としたAML/CFTおよび制裁リスク評価（Business-Wide AML/CFTand ES Risk
+Assessment）は様々な要素を考慮し、年次で作成されています。新たなリスクが特定・提示された場合には、プログラムお
+よび実行戦略の見直し・修正を検討します。
+また、関連法令に従い、日本国内で新商品・新サービスを導入する前には、当該商品・サービスの担当部門からの要請に応
+じてJP CCOがML/FTリスクを検証し、リスクが認められる場合には適切な管理策を講じることを確認しなければなりませ
+ん。
+5.3 Risk Factors
+When assessing the risk of customer relationships, Square K.K. takes a holistic view of the risks
+associated with any given situation. Square K.K. utilizes the Global AML and Sanctions Risk Assessment
+Framework to assess these risks. Square K.K. acknowledges the necessity of moving risk factors into a
+higher or lower risk category if required by Japan legislation or risk recognition.
+5.3 リスクファクター
+Square | Square K.K., LLC | Credit Card
+15
+
+Confidential
+Square K.K.は、顧客のリスクを評価する際、あらゆる状況に紐づくリスクを包括的に検討します。この評価にはグローバル
+AMLおよび制裁リスク評価フレームワークを活用しています。また、日本の法令や当社のリスク認識に応じて、必要に応じて
+リスク要因を上位または下位のリスクカテゴリーへ移行させることの重要性を認識しています。
+6. Know Your Customer and Customer Due Diligence
+6.1 Risk Based Customer Due Diligence
+Square K.K. performs Customer Due Diligence (“CDDˮ) to identify and assess ML/TF risk associated with a
+Customer or particular transaction, and to determine if enhanced due diligence is required. In terms of
+CDD obligations for ongoing monitoring of Customers, Square K.K. monitors any business relationship that
+it has with a Customer to the extent reasonably warranted by the risk of ML/TF. In terms of periodic review
+of Customers, Square K.K. has in place a well-established monitoring program, which is demonstrative of
+a risk-based approach, where Customer reviews are performed on a more frequent basis based on overall
+Customer risk rating.
+On the process of CDD, Square K.K. performs identification and verification of a Customer prior to
+establishing a business relationship with the Customer. Prior to the customer engaging in any transaction,
+Square K.K. performs onboarding screening for sanctions and AML risks (e.g. convicted money
+launderers, terrorist financiers). Customers detected in this screening are prevented from completing the
+KYC process and are prevented from transacting.
+6.1 顧客の本人確認（KYC及びリスクベースの顧客デューデリジェンス CDD
+Square K.K. は、顧客または特定の取引に関連するML/TFリスクを識別・評価し、強化デューデリジェンスが必要かどうか
+を判断するために、顧客のデューデリジェンス（CDD）を実施します。継続的な顧客モニタリングに関するCDD義務として、
+ML/TFリスクに鑑み合理的に必要とされる範囲で顧客との取引関係を監視します。また、定期的な顧客レビューについて
+は、全体的な顧客リスク評価に応じてレビュー頻度を変動させるモニタリング・プログラムを導入し、リスクベース・アプローチ
+を具体化しています。
+CDDプロセスでは、顧客との取引関係を開始する前に本人確認および実在性確認を行います。また、顧客が取引を行う前
+に制裁リスト照合やAMLリスク（例：有罪判決を受けたマネー・ローンダラー、テロ資金供与者など）に関するオンボーディン
+グ・スクリーニングを実施します。このスクリーニングで問題が検出された顧客は、KYCプロセスの継続も取引の実行もでき
+ません。
+Square | Square K.K., LLC | Credit Card
+16
+
+Confidential
+6.2 Politically Exposed Person
+Note: This section pertaining to Politically Exposed Person PEP procedures are not yet in effect at the
+end of May, 2025. These provisions will be implemented concurrently with the commencement of the
+Block's Global rollout.
+A Politically Exposed Person (“PEPˮ) is an individual who is, or has at any time in the preceding 12 months,
+been entrusted with a prominent public function, including either of the following individuals under the
+APTCP (but not including any middle ranking or junior official):
+1. Individuals who hold important positions, as specified by the relevant ministerial ordinance,
+in foreign governments, central banks, or other similar organizations, including those who
+once held such positions.
+2. Family members of the individuals listed in the previous item (including spouses, even if not
+formally registered as married but in a de facto marriage-like relationship, as well as
+parents, children, and siblings, and the parents and children of spouses other than those
+mentioned here).
+3. Corporations where the individuals listed in the preceding two items have the ability to
+substantially control the management of the business, as specified by the relevant
+ministerial ordinance.
+ˮIndividuals who hold important positions, as specified by the relevant ministerial ordinanceˮ
+mentioned in Article 1 . above refer to the following;
+A. Positions equivalent to the Prime Minister, other Ministers of State, and Vice Ministers in
+Japan;
+B. Positions equivalent to the Speaker or Vice Speaker of the House of Representatives or the
+House of Councillors in Japan;
+C. Positions equivalent to judges of the Supreme Court in Japan;
+D. Positions equivalent to ambassadors extraordinary and plenipotentiary, ministers
+plenipotentiary, special envoys, government representatives, or plenipotentiary delegates
+in Japan;
+Square | Square K.K., LLC | Credit Card
+17
+
+Confidential
+E. Positions equivalent to the Chief of Staff, Vice Chief of Staff, Chief of Staff of the Ground,
+Maritime, or Air Self-Defense Forces, or Vice Chief of Staff of the Ground, Maritime, or Air
+Self-Defense Forces in Japan;
+F. Officers of central banks; and
+G. Officers of corporations whose budgets require resolution or approval by the National Diet.
+Before customers engage in any transactions, an onboarding screening process is conducted to identify
+PEPs in accordance with Block's Bank Secrecy Act / Anti-Money Laundering & Counter-Terrorist Financing
+Program Standard). Customers detected in this screening are prevented from completing the KYC
+process and are prevented from transacting.
+6.2 政治的に重要な人物 PEP
+（注）政治的に重要な人物（PEP）に関する本セクションは、2025年5月末時点ではまだ実施されていません。これらの規定
+は、Blockによる運用開始に合わせて実施される予定です。
+PEPは、現在または過去12ヶ月以内に著名な公的役職に任命された個人を指し、次のいずれかの個人（ただし、中間管理職
+またはそれ以下の職員を除く）が含まれます:
+一 外国の元首及び外国の政府、中央銀行その他これらに類する機関において重要な地位を占める者として主務省令で定
+める者並びにこれらの者であった者
+二 前号に掲げる者の家族（配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。以下この
+号において同じ。）、父母、子及び兄弟姉妹並びにこれらの者以外の配偶者の父母及び子をいう。）
+三 法人であって、前二号に掲げる者がその事業経営を実質的に支配することが可能となる関係にあるものとして主務省令
+で定める者であるもの
+前条一項に示す主務省令で定める者は以下を指す。
+一 我が国における内閣総理大臣その他の国務大臣及び副大臣に相当する職
+二 我が国における衆議院議長、衆議院副議長、参議院議長又は参議院副議長に相当する職
+三 我が国における最高裁判所の裁判官に相当する職
+四 我が国における特命全権大使、特命全権公使、特派大使、政府代表又は全権委員に相当する職
+五 我が国における統合幕僚長、統合幕僚副長、陸上幕僚長、陸上幕僚副長、海上幕僚長、海上幕僚副長、航空幕僚長又
+は航空幕僚副長に相当する職
+六 中央銀行の役員
+七 予算について国会の議決を経、又は承認を受けなければならない法人の役員
+Square | Square K.K., LLC | Credit Card
+18
+
+Confidential
+顧客が取引を行う前に、Square K.K. の顧客は、Global PEPs Policyに従い、オンボーディング スクリーニングを実行しま
+す。このスクリーニングで検出された顧客は、KYC プロセスを完了することができず、取引を行うことができません。
+6.3 Enhanced Due Diligence
+Square K.K. adopts an approach to Enhanced Due Diligence ("EDD") whereby EDD is applied in all of the
+following circumstances (where applicable):
+● Where the Customer, is a PEP;
+● Where the Customer is high risk per the aCRR or cCRR models;
+● Where Square K.K. deals with a Customer (whether a natural person or legal entity) established
+in high-risk third countries; and
+● To a business relationship or transaction that Square K.K. identifies as presenting a higher
+degree of risk.
+6.3 強化されたデューデリジェンス（EDD）
+Square K.K.は、強化されたデューデリジェンス（EDD）を採用しており、以下のすべての状況において（該当する場合）EDD
+が適用されます:
+● 顧客または実質的支配者がPEPである場合;
+● 顧客がaCRRまたはcCRRモデルによって高リスクと識別された場合;
+● Square K.K.が高リスク第三国で設立された顧客（自然人または法人）と取引する場合;
+● Square K.K.が高リスクと識別したビジネス関係または取引
+7. Role of JP Chief Compliance Officer/MLRO
+The JP CCO, also appointed as the MLRO for Square K.K., is responsible for AML/CFT and ES controls
+and engages with Block teams in various ways. The JP CCO is also supported by the Compliance
+Operations Lead who aids the JP CCO in overseeing and supporting the compliance function within the
+firm.
+The JP CCO is principally responsible for:
+● Receiving reports of potentially suspicious activity from any Staff Member or officer of Square K.K.,
+or from external sources such as law enforcement, and considering all alerts and evaluating whether
+there is, or seems to be, any evidence of money laundering, terrorist financing or other financial
+crime;
+Square | Square K.K., LLC | Credit Card
+19
+
+Confidential
+● Ensuring that there are appropriate systems and processes in place to respond fully and rapidly to
+enquiries by law enforcement agencies;
+● Ensuring AML/CFT/ES procedures and controls are in place and operating efficiently;
+● Implementing a program to monitor any situations of higher risk of ML/TF;
+● Ensuring that a risk assessment of ML/TF is carried out and presented to Senior Management and
+the Board;
+● Confirming adequacy of procedures for recordkeeping in relation to financial crimes;
+● Training Staff and the Board in the prevention of ML/TF;
+● Designating appropriate responsibilities and actions to other key individuals and team members who
+possess the requisite skills and knowledge to execute such tasks;
+● The approval of outsourcing compliance activity, including intra-group outsourcing, in line with
+global and local outsourcing policies;
+● Informing Senior Management and members of the Board on material compliance matters, key
+program updates, and key risk indicators and metrics on a regular basis through quarterly updates to
+the Board and annual MLRO reports.
+7. チーフコンプライアンスオフィサー兼マネロン担当役員の役割
+Square K.K.のCCOはMLROを兼務することとし、AML/CFT及びESコントロールを担当し、さまざまな方法で Block, Inc.
+のチームと連携します。CCO は、会社内のコンプライアンス機能の監視および支援を支援するCompliance Operations
+Lead及びJP Compliance Team の支援を受けます。
+CCO の主な責任は次のとおりです：
+● Square K.K. のスタッフメンバーまたは役員から、または法執行機関などの外部ソースからの潜在的に疑わしい活動
+の報告を受け取り、すべての警告を考慮し、マネーロンダリング、テロ資金供与、またはその他の金融犯罪の証拠が
+あるかどうかを評価すること。
+● 警察などの法執行機関からの問い合わせに完全かつ迅速に対応するための適切なシステムとプロセスが整備されて
+いることを確認すること。
+● AML/CFT/FS 手続きと管理策が整備され、効率的に運用されていることを確認すること。
+● マネーロンダリングまたはテロ資金供与のリスクの高い状況を監視するプログラムを実施すること。
+● マネーロンダリングおよびテロ資金供与のリスク評価が実施され、それがシニアマネジメントおよび取締役会に提示さ
+れることを確認すること。
+● 金融犯罪に関する記録保持手順の適切性を確認すること。
+● マネーロンダリングおよびテロ資金供与の防止に関して、スタッフおよび取締役会のトレーニングを行うこと。
+Square | Square K.K., LLC | Credit Card
+20
+
+Confidential
+● そのようなタスクを実行するために必要なスキルと知識を持つ他の主要な個人およびチームメンバーに適切な責任と
+行動を割り当てること。
+● グローバルおよびローカルのアウトソーシングポリシーに沿って、コンプライアンス活動のアウトソーシング (社内での
+アウトソーシングを含む) の承認がなされているかを確認すること。
+● 重要なコンプライアンス事項、主要プログラムの更新、および重要なリスク指標とメトリクスについて、四半期ごとの取
+締役会への更新および年次 MLRO レポートを通じて、シニアマネジメントおよび取締役会のメンバーに通知すること。
+8. Transaction Monitoring
+Square K.K. monitors the activity of customers to identify (with regard to ML/TF risk) any transactions,
+patterns, or behaviours which appear to be potentially suspicious. Square K.K. uses a combination of
+analytic models, in-house front-end software applications, vendor-supported analytics, and manual
+analysis to review activity on an ongoing basis from the beginning to the end of the business relationship.
+The output from the analytic models is reviewed using a set of factors to determine whether the activity is
+potentially suspicious. Square K.K. acknowledges that certain types of businesses are more likely to be
+associated with money laundering. It is important to ensure that Square K.K. keeps abreast of new
+typologies, changes to typologies (e.g. new corridors of activity, new thresholds). In this regard, Square
+K.K. partners with the Block Engineering team to ensure that the transaction monitoring program reflects
+the risk in the activities of its Customers.
+In addition, Square K.K. takes into consideration the nature of the regulated geographies in which it
+operates; Country Risk Assessments, updates from regulators, law enforcement, and international
+organisations also inform the risk-based approach of Square K.K. The teams carrying out transaction
+monitoring must be equipped with up-to-date knowledge that reflects market risk.
+８. トランザクション モニタリング
+Square K.K.は、顧客の活動をML/TFリスクの観点から常時監視し、疑わしい取引、取引パターン、行動などを早期に特定
+します。同社は、分析モデル、自社開発のフロントエンドソフトウェア、ベンダー提供の分析ツール、および手動によるレ
+ビューを組み合わせ、ビジネス関係の開始から終了まで一貫して顧客の取引をモニタリングします。分析モデルの出力結果
+はあらかじめ定めた評価要素をもとに精査され、取引が潜在的に疑わしいかどうかを判断します。Square K.K.は特定の業
+種がマネー・ロンダリングに関与しやすいことを認識しており、新たな手口や手口の変化（例：新たな資金移動経路、新たな金
+額閾値）を的確に把握することが重要と考えています。このため、Blockエンジニアリングチームと連携し、顧客の活動リスク
+を反映した取引監視プログラムを構築・運用しています。
+Square | Square K.K., LLC | Credit Card
+21
+
+Confidential
+さらに、Square K.K.は事業展開地域ごとの規制状況やリスク特性を考慮しています。各国リスク評価（Country Risk
+Assessment）や規制当局、法執行機関、国際機関からの最新情報も、同社のリスクベース・アプローチに組み込まれてい
+ます。取引監視を担当する各チームは、市場リスクを反映した最新の知見を常にアップデートし、適切に対応できる体制を維
+持しています。
+9. Reporting
+9.1 Suspicious Transaction Reporting
+Square K.K. is not currently obligated to report suspicious transactions (“STRˮ) and therefore does not
+report STRs to the authorities. If a suspicious merchant is identified, the Compliance team promptly
+deactivates the merchant following established procedures.
+9.1 疑わしい取引の報告
+現行では、Square K.K. に疑わしい取引（STR）を当局へ報告する義務は課されていません。疑わしい加盟店が特定された
+場合は、コンプライアンスチームが定められた手順に従い速やかに当該加盟店を停止します。
+9.2 Confidentiality and Tipping Off
+In Japan's regulations, it is prohibited to communicate or disclose to a customer that there is a suspicion
+of money laundering or similar activities in a transaction, or that an investigation is being considered or
+conducted. Staff Members must not disclose or suggest this to the customer, parties related to the
+transaction, or anyone within Square K.K., its parent company, or its affiliates who does not need to know
+such information. Square K.K. must not notify anyone outside of law enforcement or regulatory agencies
+about the details of monitoring or verification.
+9.2 機密保持とティッピングオフ
+日本の法令により、取引にマネーロンダリング等の疑いがあること、あるいは捜査を検討・実施していることを顧客に示唆・通
+知することは禁止されています。従業員は、取引当事者や関係者、または当社グループ内で必要性のない者に対しその事
+実を開示・示唆してはなりません。監視・確認の内容を法執行機関や当局以外に漏らしてはなりません。
+Square | Square K.K., LLC | Credit Card
+22
+
+Confidential
+9.3 Sharing Information
+In accordance with local laws and regulations, Square K.K. responds to requests for documentation from
+law enforcement, regulatory bodies, and government agencies about Customers, by searching its
+records to determine whether Square K.K. has engaged in any transaction with the individual, entity, or
+Merchant named in the request, and reporting it to the authorities, if a match is found. Square K.K. does
+not disclose the fact that an information request has been made or that information has been obtained
+from any Customers, except to the extent necessary to comply with the information request from a law
+enforcement or regulatory body.
+9.3 情報の共有
+Square K.K. は、関係法令に従い、法執行機関、規制当局、政府機関から顧客に関する書類提出を求められた場合、自社
+記録を検索のうえ該当取引の有無を調査し、該当があれば当該機関に報告します。ただし、情報提供の事実や取得内容を
+法執行機関・規制当局以外に通知することは、当該要請に対応するために必要最小限の場合を除き禁止されています。
+10. Outsourced AML/CFT/ES Activity
+Some AML/CFT tasks, such as sanctions and AML screening, are performed by Block on Square K.K. 's
+behalf. Square K.K. retains oversight through regular coordination, performance monitoring, and periodic
+assurance reviews carried out by its local Compliance, Compliance Testing, and Audit teams.
+Where AML/CFT/ES activity is outsourced, Square K.K. ensures that all Staff at the outsourced service
+provider performing AML/CFT/ES activities on behalf of Square K.K., have been appropriately trained on
+the risks relevant to Square K.K. and Block and the applicable legislation relevant to the Staffʼs obligations
+and responsibilities. Square K.K. follows the Square K.K.ʼs ʼOutsourcing Policyʼ and Blockʼs ʼThird Party
+Risk Management Policyʼ to ensure proper compliance and risk management as a premise of these
+outsourcing activities.
+10. 外部委託
+一部のAML/CFT業務（制裁チェックやAMLスクリーニングなど）は、BlockがSquare K.K.に代わって実施しています。
+Square K.K.は、現地のコンプライアンスチーム、コンプライアンステスティングチーム、および監査チームによる定期的な調
+整、業務パフォーマンスのモニタリング、定期的な保証レビューを通じて、これらの活動を継続的に監督しています。
+Square | Square K.K., LLC | Credit Card
+23
+
+Confidential
+AML/CFT/ES業務を外部に委託する場合、Square K.K.は、当社に代わってこれらの業務を担う外部サービス提供者の全
+スタッフが、Square K.K.およびBlockに関わるリスクおよび当該スタッフの義務・責任に適用される法令について適切な教
+育・訓練を受けていることを確実にします。さらに、これらの外部委託活動を適切に管理・統制するため、Square K.K.の「外
+部委託規程」およびBlockの「サードパーティリスクマネジメントポリシー」を遵守しています。
+11. Data
+Square K.K. gathers all required Customer personal information as applicable to the products and services
+utilised by the Customer. The personal information gathered per KYC requirements is used only for that
+purpose, and Customer consent to use such data is obtained from the Customer formally when the
+Customer signs up for the specific Square K.K. product or service. Square K.K. complies with personal
+identification/information requirements as required by national laws where they are stricter than Square
+K.K.ʼs own policy.
+11. データ
+Square K.K.は、顧客が利用する商品・サービスに応じて必要なすべての顧客個人情報を収集します。KYC要件に基づき
+収集した個人情報は当該目的のみに使用し、顧客が特定のSquare K.K.商品またはサービスに申し込む際に、当該データ
+の利用について正式に同意を取得します。さらに、国内法がSquare K.K.の方針よりも厳格な本人確認／個人情報要件を
+定めている場合には、当該法規を遵守します。
+12. Sanctions
+12.1 Compliance Program
+Square K.K. complies with Blockʼs ‘Global Sanctions Policyʼ as well as the ‘Global Sanctions Compliance
+Program Standardʼ for purposes of initial and ongoing sanctions screening.
+12.1 制裁コンプライアンスプログラム
+Square K.K. は、Block 社の「グローバル制裁ポリシー」および「グローバル制裁コンプライアンスプログラム」に則り、オン
+ボーディングおよび継続的な制裁スクリーニングを実施します。
+Square | Square K.K., LLC | Credit Card
+24
+
+Confidential
+12.2 Local Regulations
+Under the ‘Foreign Exchange and Foreign Trade Act3,ʼ the Ministry of Finance is the authority with
+responsibilities in relation to economic sanctions in Japan.
+12.2 日本の制裁規制
+「外国為替及び外国貿易法（外為法）」において、経済制裁に関する主管官庁は財務省です。
+12.3 Reporting
+In the event that a possible match or a 'hit' against a sanctioned individual or entity is identified, Square
+K.K. immediately escalates the matter to the Global Sanctions team and considers freezing the account
+and/or stopping the transaction. Confirmed true matches are reported to the relevant sanctions authorities.
+12.3 報告
+制裁対象者・団体との一致（ヒット）が疑われる場合、Square K.K. は直ちにグローバル制裁チームへエスカレーションし、口
+座凍結や取引停止を検討します。真の一致と確認された場合は、所管の制裁当局へ報告します。
+12.4 Governance
+Square K.K. ensures that the Board is fully aware of its sanctions obligations and conducts an AML/CFT
+and Economic Sanctions risk assessment to ensure that the risks are identified and appropriate controls,
+such as screening, are put in place.
+12.4 ガバナンス
+Square K.K. は取締役会が制裁遵守義務を十分に認識できるよう定期的に報告を行い、AML/CFT および経済制裁リスク
+評価を実施してリスクを特定し、スクリーニングなどの適切な統制措置を講じる体制を整えています。
+13. Quality Control
+In addition to the global quality control processes in place, Square K.K. has a Seller Monitoring and
+Watchlist Program includes a quality control process to review the quality of investigative research,
+actions, documentation, and associated outcomes. The results identify opportunities for training and
+development, as well as continuous improvement for JP Compliance teams and the AML/CFT Program
+3 https://www.japaneselawtranslation.go.jp/en/laws/view/4857
+Square | Square K.K., LLC | Credit Card
+25
+
+Confidential
+overall. The process includes gathering feedback from analysts regarding any concerns noted during the
+quality assurance review, retraining, and providing corrective actions for issues noted, as applicable.
+13. 品質管理
+既存のグローバルなクオリティコントロールプロセスに加え、Square K.K. ではセラーモニタリングおよびウォッチリストプロ
+グラムに、調査リサーチ、対応、文書化ならびにそれらに伴う結果の品質をレビューするためのクオリティコントロールプロセ
+スを組み込んでいます。
+このプロセスの結果は、研修・育成の機会や、JP Complaince TeamおよびAML/CFTプログラム全体の継続的改善の機
+会を明らかにします。
+また、クオリティアシュアランスレビュー中に上がった懸念事項についてフィードバックを収集し、必要に応じて再教育や是正
+措置を実施することも含まれています。
+14. Regular Independent Assessment
+AML/CFT/ES Program is assessed for effectiveness through internal audits, and independent reviews, as
+required. The audit responsibility is assigned to an individual who is both independent and has the
+experience and skill to conduct a thorough and effective independent review. The auditors may be a
+member of Square K.K. or Block. Staff with audit or internal control experience, an outside auditor, or some
+other independent professional.
+Currently, the responsibility of the audit has been assigned to the Block Internal Audit team. The Board
+shall hold the JP CCO accountable for the existence of any deficiencies and prompt resolution of such
+deficiencies identified in the audit report. The JP CCO shall submit a written summary of the results of the
+audit to Block CCO and the Board, along with the monitoring recommending corrective action and status
+with those recommendations.
+14. 定期的な独立した評価
+Square K.K.のAML/CFT/ESプログラムは、内部監査および必要に応じた独立したレビューを通じて、その有効性が評価さ
+れます。監査責任者には、独立性を有し、かつ徹底的かつ効果的な監査を実施できる経験とスキルを持つ者が任命されま
+す。監査担当者は、Square K.K.またはBlockのスタッフ、監査・内部統制の経験者、外部監査人、その他の独立した専門
+家などで構成され得ます。
+Square | Square K.K., LLC | Credit Card
+26
+
+Confidential
+現在、監査の実施責任はBlock内部監査チームに委ねられています。取締役会は、JP CCOに対し、監査報告書で指摘さ
+れた不備の存在とその速やかな解消の責任を負わせます。JP CCOは監査結果の要約を文書にまとめ、Block CCOおよ
+び取締役会に提出するとともに、監査で提言された是正措置およびその実施状況を報告します。
+15. Training
+15.1 New Hire Training
+At a company-wide level, all new Staff Members and Management of Square K.K. will receive AML/CFT
+training through an online-based interactive training course. The course is updated annually, at a
+minimum, and concludes with a mandatory comprehension assessment.
+16.1 新規採用者向け研修
+Square K.K.では全社レベルで、新規採用のスタッフおよび管理職を対象に、オンライン形式のインタラクティブ研修コースを
+通じてAML/CFT研修を実施します。本コースは少なくとも年1回更新され、受講後には必須の理解度テストを行います。
+16.2 Annual Training
+All Staff Members are required to take refresher training on an annual basis. The AML/CFT training is
+designed to enable Staff Members to understand:
+● What activities amount to ML/TF and how they should be reported;
+● Key elements of AML/CFT laws, including coverage of:
+○ Developing and maintaining an AML/CFT Program and key features;
+○ Square K.K.'s KYC and reporting, recordkeeping and retention obligations.
+● Types of ML/TF risks and how Staff Members are able to spot these risks;
+● Consequences of non-compliance with the AML/CFT laws, on Square K.K. and its Staff; and,
+● The societal effect of the failure to implement effective AML/CFT Programs.
+16.2 年次研修
+すべてのスタッフは毎年リフレッシュ研修を受講しなければなりません。AML/CFT研修では、以下の事項を理解できるよう
+設計されています：
+● マネーロンダリング（ML）／テロ資金供与（TF）に該当する行為およびその報告方法
+● AML/CFT法の主要要素、特に：
+○ AML/CFTプログラムの策定と維持管理の主要機能
+○ Square K.K.のKYC（顧客確認）および報告、記録・保管義務
+Square | Square K.K., LLC | Credit Card
+27
+
+Confidential
+● 各種ML/TFリスクと、それらをスタッフが察知する方法
+● AML/CFT法に違反した場合の、Square K.K.およびスタッフに対する影響
+● 効果的なAML/CFTプログラムを実施しないことによる社会的影響
+16. Exceptions
+The Board and/or Block Incʼs Senior Compliance Management related to the operation of the Square K.K.
+Compliance activities have authority to approve exceptions and/or exemptions to this Policy, provided that
+the proposed exception or exemption does not violate applicable laws and regulations. Policy exception
+requests must be documented in writing, include a reason for a request, and provide a description of the
+controls that Square K.K. will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements.
+16. 例外の承認
+取締役会および／またはSquare K.K.のコンプライアンス活動の運営に関連するBlockのシニア・コンプライアンス管理責任
+者は、提案された例外または免除が適用法令に違反しない限り、本方針に対する例外措置または免除を承認する権限を有
+します。例外申請は書面で行い、申請理由および当該例外に伴うリスクを軽減するためにSquare K.K.が実施する管理策
+の内容を記載しなければなりません。承認された例外措置はすべて書面で記録し、記録保持要件に従って保管します。
+17. Record Retention
+Square K.K.'s policy is to maintain all necessary records as they relate to Customers for at least seven 7
+years from the end of the business relationship,including but not limited to the following:
+● electronic record, copy, or extract of the record as it relates to the KYC program;
+● Supporting documentation as it relates to Customer transaction activity; and,
+● monitoring and reporting of potentially suspicious activity.
+Square K.K. considers the end of the business relationship to occur when the final transaction is
+processed or when the Customer terminates its business relationship with Square K.K. As it relates to the
+Square K.K. business, Square K.K. maintains, for at least seven 7 years, the following:
+● Employee training records;
+● AML/CFT Program documentation and supporting material; and,
+● Reports under the supervision of the JP CCO (e.g., reporting to Block CCO, the Board, and the
+partnered Acquirers.)
+Square | Square K.K., LLC | Credit Card
+28
+
+Confidential
+When applicable, Square K.K. maintains records in compliance with local regulations where retention
+requirements are longer than Square K.K.'s own policies. The JP CCO is responsible for ensuring that the
+appropriate records are maintained.
+19. 記録保持
+Square K.K.は、顧客に関する必要な記録を、取引関係終了後少なくとも７年間保持します。保持対象には、以下を含みま
+すが、これらに限定されません。
+● KYC プログラムに関連する電子記録、コピーまたは抜粋
+● 顧客の取引活動に関する裏付け資料
+● 潜在的に疑わしい活動の監視および報告
+ここで「取引関係の終了」とは、最終取引が処理された時点、あるいは顧客が Square K.K. との取引関係を解消した時点を
+指します。
+また、Square K.K. の事業運営に係る以下の記録についても、同様に少なくとも７年間保持します。
+● 従業員の研修記録
+● AML/CFT プログラムの文書および関連資料
+● JP CCO（日本カントリー・マネージング・コンプライアンス・オフィサー）の監督下で作成されるレポート（例：
+Block CCOへの報告、取締役会への報告、提携アクワイアラーへの報告）
+なお、法令により本方針以上の保存期間が定められている場合には、法令の要件に従って記録を保持します。記録の適切
+な管理および保存期間の遵守は、JP CCO の責任において行われます。
+18. Document Management
+18.1 Document Owner
+This document is owned by the JP CCO or their designee.
+この文書はJP CCO またはその他指定された者が管理します。
+18.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis by the JP CCO.
+Updates may be warranted if any of the following occur:
+● There are material changes to AML/CFT/ES legislation or guidance;
+Square | Square K.K., LLC | Credit Card
+29
+
+Confidential
+● Square K.K. offers new or additional product and services, or makes material changes to
+existing products or services;
+● Square K.K. expands its business in the future and the processes outlined in this program are
+no longer sufficient to guard against ML/TF risks posed by the new business;
+● The JP CCO believes a change in the ML/TF risk posed by the products and services offered
+justifies a change to program; or,
+● Changes are required as a result of internal or external audits, testing, or monitoring.
+19.2 レビューと承認
+この文書は、少なくとも年次および随時、コンプライアンス文書承認マトリックスに従い、CCOによって審査および承認される
+ものとします。以下のいずれかが発生した場合、アップデートが行われるものとします：
+● AML/CFT/ESの法律またはガイダンスに重大な変更がある場合
+● Square K.K.Squareが新しいまたは追加の製品とサービスを提供する場合、または既存の製品やサービスに
+重大な変更が発生する場合
+● Square K.Kが事業を拡大し、このプログラムで概説されたプロセスが新しいビジネスによって引き起こされる
+ML/TFリスクに対して十分でない場合
+● 提供されている製品およびサービスによって引き起こされるML/TFリスクの変化に対し、プログラムの変更必
+要とCCOが判断する場合
+● 内部または外部の監査、テスト、モニタリングの結果として改善が必要な場合
+19. Related Documentation or References
+Related Policy Block Global AML/CFT Policy
+Related Policy Block Global Sanctions Compliance Policy
+Related Program Block Global AML/CFT Risk Assessment Program
+Related Program Block Global Sanctions Compliance Program Standard
+20. Revision and Approval History
+Approver Title Type Description Date
+Sayaka Kobay… Japan Chief Initial Appro… Document May 16, 2025
+Compliance creation
+Officer
+Square | Square K.K., LLC | Credit Card
+30
+
+Confidential
+21. Document Details
+Business Square
+Scope Regional Japan
+Compliance Domain Anti-Financial Crimes
+Document Owner Square K.K. Chief Compliance Officer
+Last Approval Date May 16, 2025
+Effective Date May 16, 2025
+Approved By Square K.K. Board of Managers
+Document Review Schedule Annually June 2026
+Square | Square K.K., LLC | Credit Card
+31

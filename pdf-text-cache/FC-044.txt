@@ -1,0 +1,314 @@
+Square Financial Crimes Compliance: U.S.
+Transaction Monitoring Program Standard
+Square | U.S.
+Last Approved: Mar 27, 2026
+Effective Date: Mar 27, 2026
+1. Overview
+Introduction and Purpose: This Transaction Monitoring (“TMˮ) Program (“Standardˮ) covers
+Square, as a business line within Block Inc. (“Blockˮ), which is registered as a money service
+business (“MSBˮ) with the Financial Crimes Enforcement Network (“FinCENˮ), a bureau of the
+United States Department of the Treasury. Square is committed to maintaining full compliance with
+the laws and regulations that govern its business.
+This Standard covers Squareʼs approach to Transaction Monitoring, a vital component of ensuring
+BSA/AML compliance as it provides a mechanism for evaluating suspicious activity and
+transactions across Squareʼs products. The Global Transaction Monitoring & Investigations
+Program is responsible for managing this Standard and its implementation in accordance with
+Blockʼs Global Anti-Money Laundering and Counter-Terrorist Financing Policy.
+The purpose of this Standard is to outline Squareʼs approach to monitor, detect, and prevent
+possible money laundering, financial crimes and terrorist financing for Squareʼs products and
+customer transactions.
+Scope: This Standard is established by Block and is applicable to Squareʼs United States (“U.S.ˮ)
+products and services, such as Square Point of Sale (“POS") and other financial products that
+process transactions, such as Square Checking, a business checking account, and Square Card, a
+debit card for Square checking customers, in addition to other products deemed to fall within the
+scope of this Standard. It should also be noted that certain products within Cash App are also
+within scope, such as Cash App Invest. More information about these products/queues can be
+found here with an applicable user guide located here.
+1
+
+Definitions:
+Terminology Definition
+Transaction Squareʼs dedicated analysts who perform reviews on transaction monitoring
+Monitoring alerts in accordance with this Standard, procedures and processes.
+(“TMˮ) Team
+Suspicious Reports submitted to the Financial Crimes Network (“FinCENˮ) when
+Activity Report suspicious activity is detected that may be linked to fraud, money laundering,
+(“SARˮ) terrorist financing, or any other financial crime.
+Money Service Defined as being a regulated entity that provides financial services outside of
+Business traditional banking.
+(“MSBˮ)
+Financial Crimes The bureau of the U.S. Department of the Treasury responsible for
+Enforcement safeguarding the financial system from illicit activities. FinCEN collects,
+Network analyses, and shares financial intelligence to combat these threats and
+(“FinCENˮ) enforce compliance with regulations designed to protect the financial
+system.
+United States One of the many laws in which Square adheres to. This was designed to
+Bank Secrecy prevent money laundering and other financial crimes.
+Act (“BSAˮ)
+Anti-Money Set of laws, regulations and procedures designed to detect and deter money
+Laundering laundering, terrorist financing, and any other financial crimes.
+(“AMLˮ)
+Counter-Terrorist Set of laws, regulations and measures designed to detect, prevent and
+Financing disrupt the flow of funds of terrorist organizations and activities.
+(“CTFˮ)
+Service Level Defines the expected review period for alerts and other responsibilities of the
+Agreements TM team.
+(“SLAˮ)
+Square Point of Squareʼs payment processing system offered to merchants.
+Sale (“POS")
+Quality The process of reviewing decisions made by an analyst post TM decisions
+Assurance by a Quality analyst.
+Staff References to “staffˮ throughout this document shall refer to all full-time
+employees and fixed-term and contingent workers including interns, temps,
+consultants, vendors, third-party providers, and contractors.
+2
+
+2. Standard Requirements
+2.1. Overview
+This Standard outlines the compliance controls that are used for the evaluation and management of
+Squareʼs program as it relates to money laundering, financial crime, and terrorist financing related
+risks.
+These controls include, but are not limited to:
+● Coverage Assessments;
+● Model Governance and Monitoring;
+● Transaction Monitoring Alert Review Procedures and Processes; and
+● Escalations for Potentially Suspicious Activity.
+2.2. Coverage Assessments
+On an annual basis, Square conducts an annual Anti-Money Laundering (“AMLˮ) and Transaction
+Monitoring (“TM") Coverage Assessments, also known as Red Flag Assessments. The framework
+would cover the following steps of coverage assessment:
+● Identify and confirm in-scope products, product features, geographies.
+● Evaluate mapping of regulatory red flags to AML typologies and associated products.
+● Identify the triggering events that would initiate a review of the coverage assessment.
+● Product and control lineage over AML Red flags/Typologies.
+● Identification and evaluation of potential coverage gaps.
+● Document the remediation of identified coverage gaps, as well as the formal acceptance of
+risks that cannot be reasonably remediated or do not warrant monitoring coverage,
+including the supporting rationale and justification.
+The Technology Enablement team will evaluate the results of the Coverage Assessment in
+partnership with Compliance Engineering & Technology and ensure sufficient coverage and
+monitoring is implemented in accordance with Model Governance and Monitoring below for program
+effectiveness.
+2.3. Model Governance and Monitoring
+Square utilizes various proprietary algorithms to create alerts for the Transaction Monitoring team to
+review. The creation, review and governance of these models is covered by the Model Governance
+Program and Model Change Management Process. These models can include generating automated
+alerts in queues and periodic or manual reports for review. Models cover multiple typologies to
+detect anomalous activity as outlined in the Coverage Assessment, including, but not limited to:
+● Structuring;
+● Profiling;
+● Velocity;
+3
+
+● Lack of Economic Purpose;
+● Patterning;
+● High Risk Geography; and
+● Funnelling.
+Squareʼs Transaction Monitoring team queues are established and maintained by the Compliance
+Engineering & Technology team. This team will evaluate effectiveness of the alerts generated by
+queues (i.e. productivity) and make recommendations for tuning the models, adding further models
+or changing existing models. Any new models or recommended changes to the existing models are
+reviewed and approved in accordance with the Model Change Management Process.
+The current set of models maintained by the Compliance Engineering & Technology team are
+contained within the Square - US/CA TM Rulebook. To maintain oversight over the Transaction
+Monitoring team queues, Square has implemented change management and model validation
+policies that are managed by the Model Risk Management team and executed by the Compliance
+Engineering & Technology team. In accordance with requirements issued by U.S. and international
+laws, Square uses a Block - Model Change Management Procedure to establish a standardized
+process for creating, modifying, and deprecating compliance-related models and heuristics (e.g.
+queues). This includes the following requirements, which Square has incorporated into its Model
+Governance Program with respect to transaction monitoring models and technologies:
+● On an annual basis, the BSA/AML & Sanctions team will at a minimum, review the TMCA for
+completeness and accuracy. The Transaction Monitoring Coverage Assessment supports
+Block in assessing the completeness and appropriateness of its automated transaction
+monitoring systems in accordance with regulatory guidance based on relevant typologies
+(or red flags) appropriate for the size, nature, and product set that Square offers;
+● Periodic reviews and testing of the accuracy of Squareʼs filtering systems and transaction
+monitoring systems to policy and program level documentation;
+● Maintenance of documentation relating to the configuration of Squareʼs filtering systems
+and transaction monitoring rules;
+● Approval processes for changes to configurations within the filtering systems and
+transaction monitoring systems, including approval from delegates of the BSA/AML
+Compliance Officer. JIRA tickets are created to document approvals for model changes as
+required under the Compliance Change Management Procedure; and
+● The completion of an independent assessment to support the BSA/AML Compliance
+Officerʼs annual NYDFS Regulation 504 certification concerning Blockʼs monitoring and
+filtering programs.
+2.4. Transaction Monitoring Alert Review Procedures and Processes
+The Financial Crimes Transaction Monitoring team establishes and maintains procedures and
+processes for conducting manual reviews of the alerts generated. Using the procedures and
+processes, the team provides initial assessments of alerted or referred merchant activity, and serves
+as the first level triage function within the Compliance Operations team. The team evaluates the
+alerted or referred merchant activity to determine if further investigation is required by the SAR team.
+The Transaction Monitoring program operates by reviewing alerts within SLAs). Alerts are
+4
+
+investigated in accordance with the Transaction Monitoring teams standard operating processes and
+procedures.
+A Transaction Monitoring analyst reviews alerts based on written procedures that are routinely
+reviewed and updated. Based on these procedures, the Transaction Monitoring team investigates a
+case by taking the following ʼs case investigation review process is as follows:
+● Analyst claims a new alert case in the Case Management System and notes typologies,
+alert type, and product; and
+● Analyst reviews customer information in conjunction with account activity, web presence,
+and potentially adverse media in order to make a determination of an appropriate case
+action.
+Following that, the Transaction Monitoring analyst can take one of the following actions:
+● Clear: Account activity represents typical product use with no adverse or potentially
+unusual activity identified;
+● Clear and Escalate: Account activity represents typical product use with no adverse or
+unusual activity identified, however potential terms of service violations or sanctions
+concerns exist and require an escalation to the Enhanced Due Diligence EDD or Sanctions
+teams, respectively;
+● Request for More Information: In instances where the analyst is not able to confidently
+take a “clearˮ or “deactivationˮ action type, the analyst may request more information from
+the account controller. Once this information is received back from the account controller,
+the analyst will re-evaluate the case with the additional context in order to action a case;
+● Deactivate: Account activity appears unusual and does not represent typical product use.
+The customer account will be deactivated with no further action required if SAR referral
+requirements are not met; or
+● Deactivate and Escalate: Account activity appears unusual and does not represent typical
+product use. The customer account will be deactivated and escalated to the SAR team
+when established referral requirements are met.
+2.5. Escalations for Potentially Unusual Activity
+The Transaction Monitoring team may escalate certain cases to other teams within Compliance for
+further review. This includes the Enhanced Due Diligence (“EDDˮ) team, Sanctions team and the SAR
+team for investigation for potentially unusual activity, as described above. The Transaction
+Monitoring team will ensure timely escalation to the SAR team to ensure internal SLAs are met and
+potentially suspicious activity is investigated and a decision is made by the SAR team on whether a
+SAR filing is required to FinCEN.
+Below is an overview of the Transaction Monitoring Program Escalation Process.
+5
+
+2.6. Rule Book
+The Square Transaction Monitoring rules are contained within the following Rulebook: Square -
+US/CA TM Rulebook.
+2.7. Systems
+The Square Transaction Monitoring rules are contained within the following Rulebook: Square -
+US/CA TM Rulebook.
+2.8. Quality Assurance
+The Quality Assurance team is a separate team from the TM team that exercises quality assurance
+by reviewing decisions made by analysts during Transaction Monitoring reviews. The Quality team
+reports the results of the reviews to individual team members, their leads and senior management.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Transaction Monitoring Lead:
+○ Manages a team of analysts responsible for reviewing TM alerts; provides
+guidance, training and acts as an escalation point; manages SLAs and deadlines.
+● Compliance Operations Transaction Monitoring Team:
+○ Monitors and acts upon compliance-related alerts, including reviewing and
+escalating potentially suspicious activity and activity that violates Square's Terms
+of Service.
+● Compliance Operations Program Management Team:
+6
+
+○ Partners with the Square Compliance Transaction Monitoring and Suspicious
+Activity Reporting teams by partnering cross-functionally to design and implement
+monitoring, provide tools and resources for the teams to operate as efficiently and
+accurately as possible.
+● Head of Global Transaction Monitoring & Investigations:
+○ Oversees the Square Financial Crimes Program comprised of the Compliance
+Transaction Monitoring and Suspicious Activity Reporting Teams.
+● Head of Compliance Operations:
+○ Oversees the Square Compliance Operations, ie: Transaction Monitoring & SAR,
+Onboarding & Due Diligence, KYC/Sanctions, and TOSV.
+● Chief Compliance Officer (“CCOˮ):
+○ Oversees the operational functions and ensures the transaction monitoring model
+complies with the local regulatory requirements. The CCO is responsible for
+monitoring and reporting on compliance with this Standard. The CCO may delegate
+to others the authority to adopt, develop, and implement procedures and reporting
+that support this Standard.
+● Quality Assurance Team:
+○ Provides timely and encouraging feedback on decision-making, constructive
+observations, and valuable insights. Provides insights into trends, processes, and
+procedures. Highlights opportunities for efficiency. Ensures consistent outcomes in
+decisions. Supports regulatory and audit requirements.
+● Compliance Engineering & Technology Team:
+○ Designs and maintains Squareʼs Transaction Monitoring machine-learning,
+heuristics and other manual methodologies and generates alerts for TM team to
+review, in line with the Model Governance Policy and Model Change Management
+Process.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+For reporting and tracking of the overall health of Square's transaction monitoring program, Square
+uses a combination of analytics tools, such as Tableau and Looker reports to:
+● Evaluate queue productivity, including monitoring Above the Line and Below the Line
+actions, to inform queue tuning and model updates;
+● Monitor alert volumes and SLA performance;
+7
+
+● Calculate capacity needs through alert forecasts and models;
+● Track Quality Assurance scores; and
+● These Key Performance Indicators (“KPIˮ) are tracked for individual analysts.
+Additionally, this Standard and the TM program are within the scope of the Compliance
+Governance Testing and Monitoring team and subject to Internal Audit and external regulatory
+reviews by State regulators to ensure compliance with BSA/AML requirements.
+3.3. Training
+Square ensures that the Transaction Monitoring team are fully trained in the procedures and
+appropriate steps to investigate and provide rationale for reviewing alerts through a combination of
+new hire, on the job and ad hoc continuous training.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+Exceptions to the requirements, strategies, or procedures established by this Standard must be
+pre-approved by the Global BSA/AML & Sanctions Program Lead or the Head of Global Transaction
+Monitoring & Investigations provided that the proposed exception or exemption does not violate
+applicable laws and regulations. Exception requests must be documented in writing, include a
+reason for a request, and provide a description of the controls that the Company will implement to
+mitigate risks associated with the exception. Any approved exceptions must be documented in
+writing and retained with recordkeeping requirements. Any approved exceptions or exemptions
+should be submitted to the Policy Governance Team. The Document Owner and/or designee will
+inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Anti-Money Laundering & Counter-Terrorist Financing Policy | Block
+8
+
+● Bank Secrecy Act/Anti-Money Laundering & Counter-Terrorist Financing Program | Block |
+US
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Audra McKay Head of Financial Initial Appro… This document Sep 13, 2024
+Crimes, Square was created to
+replace the prior
+version: Square
+Transaction
+Monitoring
+Program which
+was retired on
+August 28, 2024.
+Ken Triemstra Global BSA/AML Scheduled R… Annual review, March 27, 2026
+& Sanctions updated template,
+Program Lead updates made to
+team
+names/titles,
+updates made to
+coverage
+assessment
+details
+Document Details:
+Business Square
+Scope U.S.
+Compliance Domain Financial Crimes
+Document Owner Head of Global Transaction Monitoring & Investigations
+Approved By Global BSA/AML & Sanctions Program Lead
+Document Tier Tier 3
+9

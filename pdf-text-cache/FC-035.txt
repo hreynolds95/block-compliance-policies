@@ -1,0 +1,349 @@
+Anti-Money Laundering & Counter-Terrorism
+Financing Risk Awareness Training Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 26, 2026
+Effective Date: Mar 26, 2026
+1. Overview
+Introduction and Purpose: The Anti-Money Laundering and Counter Terrorism Financing
+AML/CTF Risk Awareness Training Program (the “Programˮ) is a mandated part of Square AU Pty
+Ltdʼs (“Square AUˮ) AML/CTF Program , as required by AUSTRAC under the AML/CTF Act. It is
+central to Square AUʼs effort to protect its business from being used to facilitate money laundering,
+terrorism financing and proliferation financing (“PFˮ).
+The purpose of this Program is to equip Employees with the necessary knowledge and
+understanding to effectively identify and manage risks associated with money laundering,
+terrorism financing and proliferation financing.
+Scope: This Program is established by Square AU and applicable to the Square AU products
+through which Square AU provides Designated Services defined under the AML/CTF Act, as
+specified in the Anti-Money Laundering and Counter-Terrorism Financing Program. This Program is
+managed and maintained by the Square AU Compliance team and sets out the approach to design
+and execute Square AUʼs AML/CTF Risk Awareness Training Program. The Square AU Compliance
+Team and the Block Compliance Training Team collectively administrate the AML/CTF Risk
+Awareness Training Program, and ensure timely completion and tracking of the training.
+Definitions:
+Terminology Definition
+Anti-Money A set of regulatory rules and investigative techniques aimed at preventing
+Laundering and combating various illegal activities related to the financial system
+(“AMLˮ)
+1
+
+Counter - A set of regulatory rules and investigative techniques designed to detect,
+Terrorism prevent and disrupt the flow of funds of terrorist organisations and activities.
+Financing
+(“CTFˮ)
+Proliferation The act of providing funds or financial services used, in whole or in part, for
+Financing (“PFˮ) the manufacture, acquisition, possession, development, export,
+trans-shipment, brokering, transport, transfer, stockpiling or use of nuclear,
+chemical or biological weapons and their means of delivery.
+The Anti-Money As part of its broader regulatory compliance obligations, Square AU Pty Ltd
+Laundering and (“Square AUˮ) is required to comply with the Anti-Money Laundering and
+Counter-Terroris Counter-Terrorism Financing Act 2006 Cth, as amended from time to time.
+m Financing Act The AML/CTF Act is designed to deter, detect and disrupt Money Laundering
+2006 (“AML/CTF (“MLˮ) and Terrorism Financing (“TFˮ).
+Actˮ)
+AUSTRAC The Australian Transaction Reports and Analysis Centre (“AUSTRACˮ)
+performs a dual role as AML and CTF regulator and financial intelligence unit.
+Employees (also Means an individual who is directly employed by Square AU under a contract
+referred as Staff) of employment (whether full-time, part-time, or casual), and who performs
+duties for or on behalf of Square AU.
+Personnel Means any individual employed or otherwise engaged by Square AU,
+including persons deployed, seconded, contracted or supplied through an
+Outsourced Service Provider, who perform or will perform functions
+relevant to Square AUʼs obligations under the AML/CTF Act.
+Service Level Defines the expected review period for cases and other responsibilities of
+Agreements the Compliance Australia Analysts working on alerts.
+(“SLAˮ)
+2. Program Requirements
+2.1. Overview
+The AML/CTF Risk Awareness Training program provides training at appropriate intervals, tailored to
+the specific ML/TF risks faced by Square AU, and is updated regularly to incorporate current
+obligations and regulatory changes. It is also tailored to Square AUʼs product offerings.
+Training is risk-based, role-specific and proportionate to the level of ML/TF/PF exposure associated
+with the Employeeʼs role.
+The Program is reviewed at least annually and updated to reflect:
+● Legislative amendments
+● AML/CTF Rule changes
+2
+
+● AUSTRAC regulatory guidance
+● Internal risk assessment updates
+● Emerging ML/TF/PF typologies
+● Enforcement outcomes and regulatory expectations
+Specifically, the Program aims to help Employees to understand:
+● What is money laundering, terrorism financing and proliferation financing risks and
+obligations ;
+● Politically Exposed Person PEP requirements and enhanced customer due diligence
+ECDD triggers;
+● Tipping-off prohibitions under the AML/CTF Act;
+● Suspicious Matter Reporting SMR obligations;
+● Regulatory regimes in Australia, including AML/CTF and Sanctions;
+● Designated Services Square provides;
+● Key elements of the AML/CTF Program;
+● Square AUʼs obligations under the AML/CTF Act and Rules;
+● Consequences of non-compliance;
+● Type of ML/TF Risks that Square AU might face and the potential consequences of those
+risks;
+● Square AUʼs AML/CTF policies and procedures; and
+● Processes and procedures that are relevant to an employeeʼs responsibility for AML/CTF
+compliance.
+The Program comprises three key components to create a comprehensive learning approach that
+caters to different employee levels.
+2.2. Enterprise-Wide Mandatory Compliance Training
+This foundational component of the Program ensures that all Employees, regardless of their roles,
+receive comprehensive AML/CTF training.
+The enterprise-wide mandatory compliance training is administered through Blockʼs Learning
+Management System (“LMSˮ), supported by the Block Compliance Training Team.
+The training content is tailored to reflect Square AUʼs designated services, ML/TF/PF risk
+assessment outcomes, and relevant obligations applicable.
+2.2.1. Initial AML/CTF Risk Awareness Training
+An initial AML/CTF risk awareness training is administered by the Block Compliance Training Team.
+Key aspects of this initial training are listed below:
+3
+
+● It is delivered online to all new employees, including full time Employees, interns and
+contractors;
+● It is Intended to provide a general introduction and exploration of Square AUʼs AML/CTF
+obligation and legislative requirements; and
+● It must be completed within 30 calendar days of the employeeʼs start date.
+2.2.2. Periodic AML/CTF Risk Awareness Training Session
+Periodic AML/CTF risk awareness training is delivered annually online to all existing Block full time
+Employees, interns and contractors.
+2.2.3. Training Records of the Enterprise-wide Mandatory Compliance Training
+Training records of the enterprise-wide mandatory compliance training are maintained and stored in
+accordance with Blockʼs record retention standards.
+Training records include:
+● Training content, including versions of training material;
+● Records of training completion from LMS; and
+● Where applicable, records of training assessment and corresponding results.
+● Records are stored within the LMS and secured shared drives managed by the Block
+Compliance Training Team.
+Prior to 2018 and to the implementation of online learning and LMS, the general training was
+delivered by the Square AU CCO in-person with completion acknowledged by trainees and recorded
+in a centralised register electronically. These records are still retained for at least 7 years.
+2.3. Targeted Training for Senior Manager and AMLCO
+In addition to enterprise-wide mandatory AML/CTF training, the appointed Senior Manager and
+AMLCO must undertake enhanced, role-specific AML/CTF training commensurate with their
+statutory accountability and oversight obligations.
+Training may be delivered through a range of methods appropriate to the role, including industry
+seminars, regulatory briefings, professional certifications, workshops, or other targeted learning
+formats.
+Training must be completed upon appointment to the role and refreshed periodically, including
+following material legislative or regulatory change.
+2.4. Board of Directors AML/CTF Training Session
+4
+
+The Board of Directors plays a crucial role in overseeing the companyʼs AML/CTF Program. Specific
+AML/CTF training sessions are provided to the Board to enhance their understanding of their
+obligation under the AML/CTF Act.
+The Board of Directors AML/CTF training session is:
+● Delivered in-person by the Square AU CCO or their delegates to the Board of Directors of
+Square AU;
+● Delivered annually in one board meeting;
+● Intended to help each board member to understand the regulatory requirements and
+ramifications of non-compliance; and
+● Tracked for completion in board meeting minutes.
+Additional training may be provided as needed, considering changes in AML/CTF regulations, at the
+discretion of the Square AU CCO. The completion is tracked electronically in the board meeting
+minutes and retained for at least 7 years.
+2.5. Compliance Operational Training Program
+Beyond Blockʼs Enterprise-wide Mandatory Compliance Training, Square AU administers an
+additional training program tailored specifically for its Compliance team, ensuring team members
+have the knowledge and capability required to effectively perform their AML/CTF responsibilities.
+The program is delivered to new employees and those transferring into the Square AU Compliance
+Team, providing enhanced guidelines and procedures on AML/CTF compliance required for
+day-to-day functions. Further detail can be found in Square AU Compliance Operational Procedure.
+Key elements of Compliance Operational Training includes:
+● New Hire Training: Provides an introduction to compliance responsibilities, systems, tools
+and procedures, to ensure personnel understand their AML/CTF obligations and are
+prepared for their roles
+● Role-Specific and Ongoing Training: Training is tailored to the nature of the role and
+responsibilities and is commensurate with the ML/TF/PF risks associated with the functions
+they perform. This includes shadow sessions and group training and workshops to
+address emerging topics and knowledge gaps.
+● Where personnel perform Square AU-related functions on a temporary or incidental basis
+(for example, to provide short-term coverage), targeted on-the-job training may be
+provided, where appropriate having regard to the nature, duration and ML/TF/PF risk
+associated with those functions and the responsibilities being performed.
+● Performance Feedback: Regular assessments and feedback are provided by the Square
+Quality Assurance Team and/or Square AU Compliance Operations Lead to ensure the
+ongoing capability and effectiveness of Square AU Compliance Analysts.
+5
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Square Australia AU Chief Compliance Officer (“CCOˮ):
+○ Acts as the designated Senior Manager for approvals required under the AML and
+CTF Act and Rules, including approving the AML & CTF Risk Awareness Training
+Program and any material updates to it.
+● Square AU Regulatory Program Manager:
+○ Acts as the AML/CTF Compliance Officer to oversee and coordinate the operational
+functions of the AML & CTF Risk Awareness Training Program in compliance with
+local regulatory requirements, ensures that all due diligence processes, including
+onboarding, screening, and ongoing checks, are implemented effectively and
+consistently, and is responsible for reporting.
+● Square AU Compliance Operations Lead:
+○ Responsible for managing the operational team responsible for reviewing
+compliance alerts; provides guidance, training and acts as an escalation point in
+addition to managing SLAs.
+● Square AUʼs Board (“the Boardˮ):
+○ Responsible for providing governance and oversight by ensuring Square AU
+implements an effective AML/CTF program, manages risks, and complies with
+reporting obligations.
+● Block Compliance Training Team:
+○ Responsible for managing Blockʼs Compliance Training Program and is responsible
+for managing the mandatory enterprise-wide training.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+6
+
+The effectiveness of the AML/CTF Risk Awareness Training Program is subject to periodic review,
+including consideration of:
+● Completion rates
+● Assessment outcomes
+● Audit findings
+● Regulatory feedback
+● Incident trends
+● Control testing outcomes
+The review must also consider alignment with Square AUʼs ML/TF/PF Risk Assessment and
+Personnel Due Diligence framework to ensure training remains risk-based and proportionate to
+identified role exposures.
+Material deficiencies identified must be escalated to the Senior Manager and remediated promptly.
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+No exception may be granted where it would result in non-compliance with the AML/CTF Act or
+AML/CTF Rules.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+7
+
+● Block | Compliance Training Program Standards
+● Square | Employee and Personnel Due Diligence Program
+● Square | Anti-Money Laundering & Counter-Terrorism Financing Program
+● AU Compliance Training Procedure
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ryan Jones Compliance Creation August 4, 2016
+Officer
+Ben Gray Chief Compliance Scheduled R… Updated training November 19,
+Officer program elements 2018
+and designated
+individuals/teams.
+Updated delivery
+channel of
+training. Updated
+tracking.
+Ying Li Square AU Scheduled R… Immaterial April 27, 2020
+Compliance Lead formatting
+changes.
+Lance Howard Square AU Scheduled R… April 2021
+Compliance Lead
+Lance Howard Square AU Scheduled R… April 2022
+Compliance Lead
+Sydney Nam Block Policy Immaterial C… Migrated December 20,
+Governance document to new 2022
+Coordinator template and
+made immaterial
+edits to
+document.
+Lance Howard Square AU Immaterial C… January 5, 2023
+Compliance Lead
+8
+
+Sydney Nam Block Policy Immaterial C… Updated template October 16, 2023
+Governance
+Coordinator
+JING WANG Square AU Scheduled R… Annual review of November 21,
+Compliance document 2023
+Program Manager
+Lance Howard Square AU Immaterial C… Annual Review of January 10, 2024
+Compliance Lead the Document
+JING WANG Square AU Scheduled R… Combining January 5, 2024
+Compliance Compliance
+Program Manager Operational
+Training Program
+into Risk
+Awareness
+Training Program
+JING WANG Square AU Scheduled R… Annual Review of Dec 6, 2024
+Compliance the Document
+Program Manager ● Minor update
+of
+Lance Howard Square AU CCO Scheduled R… Compliance Dec 11, 2024
+Operational
+Training
+program and
+combined
+with On the
+Job Training
+● Minor update
+of Enhanced
+Training for
+High-Risk-Gro
+up according
+to the update
+made to
+Employee Due
+Diligence
+Program
+JING WANG Square AU Scheduled R… Annual Review of March 20, 2026
+Regulatory the Document
+Program Manager and AML/CTF
+Reforms
+Lance Howard Square AU CCO Scheduled R… ● Updates to March 26, 2026
+the Risk
+Awareness
+Training
+Program to
+reflect
+AML/CTF
+9
+
+reforms
+● Refinement of
+role-based
+training
+requirements
+and
+clarification of
+training
+obligations for
+personnel
+● Updates to
+training
+monitoring
+and record -
+keeping
+requirements
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Financial Crimes
+Document Owner Square AU Regulatory Program Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+10

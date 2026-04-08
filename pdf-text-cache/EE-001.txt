@@ -1,0 +1,1601 @@
+Code of Business Conduct and Ethics
+block inc.
+January 2026
+SQUARE CASH APP AFTERPAY TIDAL BITKEY PROTO
+
+Introduction | 2
+code of conduct
+Table of Contents
+Introduction
+1. Introduction ....................................................................3 5. Comply with Applicable Laws,
+Speak Up
+Policies & Regulations ................................................ 27
+Our Responsibilities 1.1 A Message From Jack .........................................................................4
+Avoid Conflicts of Interest
+5.1 Insider Trading ....................................................................................28
+1.2 About This Code ..................................................................................5
+Comply with Applicable Laws, Policies &
+Regulations 5.2 Digital Currency Transactions ......................................................29
+1.3 Making Ethical Choices ......................................................................7
+Information & Technology
+5.3 Antitrust & Fair Dealing .................................................................30
+2. Speak Up ........................................................................8
+Anti-Bribery & Anti-Corruption
+5.4 Global Sanctions ................................................................................31
+Labor & Human Rights
+2.1 Where to Report ...................................................................................9
+6. Information & Technology .....................................32
+2.2 Good Faith Reporting and No Retaliation ................................10
+6.1 Security & Privacy ..............................................................................33
+2.3 Investigations .......................................................................................11
+6.2 Approved Communication Channels ........................................34
+3. Our Responsibilities .................................................12
+6.3 Generative Artificial Intelligence .................................................35
+3.1 Maintain Confidentiality ....................................................................13
+7. Anti-Bribery & Anti-Corruption ............................36
+3.2 Speaking on Behalf of Block ..........................................................15
+7.1 Combating Corruption......................................................................37
+3.3 Create a Respectful Workplace ....................................................16
+7.2 Gifts & Entertainment ......................................................................38
+3.4 Maintain a Safe Workplace .............................................................17
+8. Labor & Human Rights ...........................................40
+3.5 Drug & Alcohol Abuse .....................................................................18
+3.6 Financial Integrity & 8.1 Child and Forced Labor ....................................................................41
+Accurate Records .....................................................................................19
+8.2 Working Hours and Wages ............................................................41
+4. Conflicts of Interest .................................................20
+4.1 Avoid Conflicts of Interest ................................................................21
+4.2 Outside Activities .............................................................................22
+4.3 Personal lnvestment Activities ....................................................23
+4.4 Engaging Friends and Family .......................................................24
+4.5 Self Dealing .........................................................................................25
+4.6 Political Affiliations ...........................................................................26
+
+Introduction | 3
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+1. Introduction
+Together, we’re building a foundation of
+purpose and integrity that guides us in
+• 1.1 A Message From Jack
+everything we do. This framework encourages
+thoughtful decision-making, inspires trust, and
+• 1.2 About This Code
+empowers us to create meaningful economic
+opportunities for everyone. • 1.3 Making Ethical Choices
+
+Introduction | 4
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+a message from jack
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights our purpose is economic empowerment. whether you’re
+building for sellers, consumers, artists, developers, or
+our own teams, it connects everything we do. it keeps us
+grounded and moving forward.
+the code is part of that. it’s our framework for how we work
+together: inclusive, respectful, responsible. it reminds us
+that how we work matters just as much as what we
+build.
+please read it and follow it every day. if something
+doesn’t feel right, speak up. that’s how we learn.
+-jack
+Further Reading:
+GLOBAL SPEAK UP POLICY
+NOMINATING AND CORPORATE
+GOVERNANCE COMMITTEE CHARTER
+AUDIT AND RISK COMMITTEE
+CHARTER
+
+Introduction | 5
+code of conduct
+1.2 About This Code
+Introduction
+Speak Up
+At Block, your work empowers people to participate and thrive in the economy. That’s
+Our Responsibilities
+inspiring, meaningful work—and we expect you to approach it lawfully, honestly, and
+Avoid Conflicts of Interest
+ethically, always keeping Block’s best interests in mind.
+Comply with Applicable Laws, Policies &
+Regulations The Global Code of Business Conduct & Ethics (“Code”) is your guide to doing the
+Information & Technology right thing. It sets the foundation for how we work, ensuring that everyone at Block
+Anti-Bribery & Anti-Corruption understands our shared responsibilities.
+Labor & Human Rights
+This Code applies to all employees, officers, and directors across Block, Inc. and our
+subsidiaries—so when we say “you” or “employees,”
+we mean everyone.
+How the Code Helps You
+This Code helps you navigate the standards we uphold and the rules we follow. While
+it can’t predict every situation, it empowers you to make good decisions and seek
+guidance when needed.
+If you’re unsure about something and can’t find answers in the Code or other policies,
+reach out to ethics@block.xyz. You can also visit ethics.block.xyz to report concerns
+and have the option to do so anonymously. Sections of this Code also include contact
+details for teams that can provide additional support and guidance.
+Your Role in Upholding the Code
+We all play a part in fostering a culture of integrity. That means:
+• Understanding and following the Code.
+• Holding ourselves and each other accountable.
+• Speaking up when something doesn’t seem right—without fear of retaliation. As
+Further Reading:
+always, retaliation for raising concerns in good faith is strictly prohibited and will not
+be tolerated.
+GLOBAL SPEAK UP POLICY
+NOMINATING AND CORPORATE
+GOVERNANCE COMMITTEE CHARTER
+AUDIT AND RISK COMMITTEE
+CHARTER
+
+IInnttrroodduuccttiioonn || 66
+code of conduct
+Most Restrictive Requirement Governs
+Introduction
+If there’s ever a conflict between this Code and applicable local law or policy, follow the
+Speak Up
+most restrictive requirement.
+Our Responsibilities
+• And remember, this Code sets a minimum standard—it doesn’t replace any other
+Avoid Conflicts of Interest
+policies, agreements, or legal obligations that apply to your role or employment at
+Comply with Applicable Laws, Policies &
+Regulations Block. Further, this Code does not form part of any contract of employment or give
+rise to any contractual rights.
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Oversight and Accountability
+Labor & Human Rights
+The Board of Directors oversees this Code, with support from the Audit and Risk
+Committee and the Nominating and Corporate Governance Committee.
+Day-to-day responsibility for interpreting and enforcing the Code has been delegated
+to our Chief Legal Officer. The Nominating and Corporate Governance Committee
+ensures compliance, while the Audit and Risk Committee will oversee the review of any
+complaints and submissions that have been brought to the Audit and Risk Committee
+by our Chief Legal Officer (or the equivalent thereof) or their designee under this Code.
+By working together with integrity, we can continue building a company that earns trust
+and makes a meaningful impact.
+Amendments, Modifications, and Waivers
+Block is committed to continuously reviewing and updating our policies, and therefore
+reserves the right to amend this Code at any time, for any reason, subject to applicable
+law. Any material changes to this Policy must be approved by the Board of Directors
+of the Company and promptly disclosed in accordance with applicable laws and
+regulations. All other changes to this Policy may be approved by the Chief Compliance
+Officer.
+Any waiver of any provision of this Code for an executive officer or director of the
+Company must be approved by our Board of Directors, or a committee authorized
+by our Board of Directors, and promptly disclosed pursuant to applicable laws and
+Further Reading:
+regulations. Any waiver of any provision of this Code for any other employees must be
+GLOBAL SPEAK UP POLICY approved by the Chief Legal Officer.
+NOMINATING AND CORPORATE
+GOVERNANCE COMMITTEE CHARTER
+AUDIT AND RISK COMMITTEE
+CHARTER
+
+Introduction | 7
+code of conduct
+1.3 Making Ethical Choices
+Introduction
+Speak Up
+Sometimes the right decision isn’t immediately clear. When that happens, use this framework to help you decide:
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+1. Is it legal and in 2. Is it aligned with 3. Would I feel
+agreement with Block Block’s values? comfortable explaining
+policy? my decision?
+Does my decision reflect
+integrity, innovation, and our
+Am I complying with Would I be okay sharing
+shared commitment to trust
+applicable laws, regulations, this choice with a colleague,
+and connection?
+manager, or publicly if
+and Block policies?
+needed?
+Still unsure?
+Further Reading:
+If you have any doubts or feel you need more guidance, always reach out.
+GLOBAL SPEAK UP POLICY
+At Block, asking questions and seeking clarity is a key part of acting with integrity.
+NOMINATING AND CORPORATE
+GOVERNANCE COMMITTEE CHARTER
+AUDIT AND RISK COMMITTEE
+CHARTER
+
+Speak Up | 8
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+2. Speak Up
+• 2.1 Where to Report
+When something doesn’t feel right, raising your
+voice makes a difference. We’re committed to
+• 2.2 Good Faith Reporting and
+providing the resources and support you need
+No Retaliation
+to ask questions, report issues, and stand up
+for what’s right without fear of retaliation. • 2.3 Investigations
+
+Speak Up | 9
+code of conduct
+2.1 Where to Report
+Introduction
+Speak Up OOuurr CCoommmmiittmmeenntt:: Confidentiality and Anonymity:
+Our Responsibilities
+At Block, we value transparency and encourage everyone to speak up You are encouraged to provide your identity when making a Report,
+Here is some text
+Avoid Conflicts of Interest
+about potential concerns. If you have a concern regarding conduct as this information can be helpful to the investigation; however, you
+Comply with Applicable Laws, Policies &
+Hthaotw yo Wu bee Dlieove I tto: be a violation of Company policy including this may choose to remain anonymous by reporting concerns through
+Regulations
+Code, a violation of law, or questionable accounting practices, internal the Ethics Line. Regardless of whether you provide your information
+Information & Technology
+Here is some text
+accounting controls, or other financial matters, or the reporting of or remain anonymous, Block will examine the Report based on its
+Anti-Bribery & Anti-Corruption
+fraudulent financial information, you should speak up. No matter how own merits and take appropriate actions, which may include an
+• point one
+Labor & Human Rights
+small the issue is, Block wants to hear from you. Nothing in this Code investigation.
+•p repvoeinntts t ywoou from raising your concerns with the appropriate law
+While Block cannot guarantee complete confidentiality of a reporting
+enforcement or regulatory bodies - even if you choose not to report
+party, we treat all such information with a high degree of discretion,
+• point three
+those concerns with Block.
+consistent with Block’s need to investigate the matter, and our
+Consider This: compliance with applicable laws and regulations.
+How We Do It:
+• Here is some text
+Here are ways you can report concerns effectively:
+• term: here is some text. FAQs
+1. Discuss the situation with your Manager or your HRBP
+FAQs
+• term: here is some text.
+2. Report your concern to our internal Employee Relations team at
+Q: Who manages the Ethics Line?
+EmployeeRelations@block.xyz Q: Who manages the Ethics Line?
+• term: here is some text.
+A: The Ethics Line is provided by a third party provider and not
+3. Reach out to Block’s employment counsel team at A: The Ethics Line is provided by a third party provider. If you choose to
+• term: here is some text. staffed by Block employees. Compliance is responsible for the
+employment-legal@ call, you will be speaking with their representatives, not Block employees.
+management of the Ethics Line in conjunction with stakeholders
+Compliance is responsible for the management of the Ethics Line in
+4. Report your concern via Block’s Ethics Line which provides options fro c m on C ju o n u c n ti s o e n l w a i n th d s E ta m k p eh lo o y ld e e e r R s e fr l o a m tio C n o s u . nsel and Employee Relations who
+for you to make a report online or by local phone numbers with a review all matters submitted and, if needed, investigate these concerns.
+Q: What should I report to the Ethics Line?
+representative. If utilizing the Ethics Line, you have the option to
+Q: What should I report to the Ethics Line?
+report your concern while remaining anonymous. A: You can report concerns regarding violations of law, policies,
+quAe:s Ytoioun caabnl ere apcocrot cuonnticnegrn psr raecgtaicredsin, gin vtieorlantaiol ncso notf rloawls,, poor laicnieys o, ther
+issquueess ttihoanta bimlep aacccto Bunlotcinkg’s p irnatcetgicreitsy,. internal controls, or any other issues
+that impact Block’s integrity.
+Q: Will my report be confidential?
+Q: Will my report be confidential?
+A: While Block cannot guarantee complete confidentiality of a
+A: While Block cannot guarantee complete confidentiality of a reporting
+reporting party, we treat all such information with a high degree of
+party, we treat all such information with a high degree of discretion,
+discretion, consistent with Block’s need to investigate the matter,
+consistent with Block’s need to investigate the matter, and our compliance
+and our compliance with applicable laws and regulations.
+Further Reading:
+with applicable laws and regulations.
+GLOBAL SPEAK UP POLICY
+
+Speak Up | 10
+ccooddee ooff ccoonndduucctt
+2.2 Good Faith Reporting and No Retaliation
+1In. trInotdruocdtuiocntion
+2S.p eSapke aUkp Up OOuurr CCoommmmiittmmeenntt:: Manager Responsibilities:
+3O.u Or Ruer sRpeosnpsoibnsiliitbieilsities
+Block is committed to maintaining and fostering an environment While the Code applies to everyone at Block, managers have
+Here is some text
+4A.v oAivdo Cido Cnfolincftlsic otsf Ionft eInrteesrtest
+where everyone feels safe to raise concerns in good faith, free from a deeper level of responsibility and must lead with integrity and
+5C.o Cmopmlyp wlyit wh iAthp Aplpicpalibclaeb Llea wLas,w Pso, licies &
+Hfeaorw of Wretea lDiatoio Int,: discrimination, or harassment. Good faith means reinforce Block’s ethical culture. Managers are often the first resource
+RegPuollaictiieosn s& Regulations
+making a report honestly, with sincere intent to flag a concern, even for employees who have questions on ethical issues or potential
+6In. foArnmtia-Btiorinb e&r yT e&c Ahnnotil-oCgoyrruption
+Here is some text
+if the issue turns out to be unfounded. Honest reporting is essential violations of Block policy. If their direct report is unsure of the best
+7A. nLtia-Bbroirb aenryd & H Aumntai-nC Rorigruhptstion
+to maintaining our standards of integrity and driving accountability course of action, managers are responsible for directing their
+• point one
+8La. bAomr m& eHnudmmaenn Rtsig, Mhtosdifications,
+employees to the correct resource. Also, managers are required to
+and Waivers across the organization.
+• point two promptly report any violation or suspected violation of Company
+How We Do It: policy or law. Managers may be held responsible if they don’t report
+• point three misconduct. Block expects all managers to create an environment
+• Here’s how we ensure a retaliation-free workplace:
+where others feel comfortable sharing concerns and uphold the
+Consider This:
+principle that an employee reporting their concerns is protected from
+• Prohibit Retaliation: Block strictly prohibits retaliation against
+• Haneyroen ise swohmoe r etepxotrts a concern or participates in an investigation in retaliation.
+good faith. Report your concern to our internal Employee Relations
+• term: here is some text. FAQs
+team at EmployeeRelations@block.xyz
+• term: here is some text.
+• Respect Protected Reporting: Raising concerns internally does not
+• tperremve: nhte yreo uis f sroomm es itmexutlt.aneously or later reporting the issue to law
+enforcement or other relevant government agencies as permitted
+• term: here is some text.
+by law. Report your concern via Block’s Ethics Line which provides
+options for you to make a report online or by local phone numbers
+with a representative. If utilizing the Ethics Line, you have the
+option to report your concern while remaining anonymous.
+• Respect the Process: Employees must report suspected
+misconduct; however, employees must not attempt to conduct
+their own investigations. The Employee Relations, Employment
+Counsel, and Compliance teams are responsible for conducting
+investigations regarding misconduct. Doing so could jeopardize
+Further Reading:
+the integrity of our internal investigations.
+XYZ Policy
+XYZ Procedure
+XYZ Policy
+Further Reading:
+XYZ Procedure
+GLOBAL SPEAK UP POLICY
+
+Speak Up | 11
+ccooddee ooff ccoonndduucctt
+2.3 Investigations
+1In. trInotdruocdtuiocntion
+2S.p eSapke aUkp Up OOuurr CCoommmmiittmmeenntt:: Consider This:
+3O.u Or Ruer sRpeosnpsoibnsiliitbieilsities
+Block is committed to following the law and our policies. When Investigations are a key part of resolving potential issues fairly and
+Here is some text
+4A.v oAivdo Cido Cnfolincftlsic otsf Ionft eInrteesrtest
+something may not align, we look into it and take appropriate action. transparently. Keep these points in mind:
+5C.o Cmopmlyp wlyit wh iAthp Aplpicpalibclaeb Llea wLas,w Pso, licies &
+HThoisw o fWtene i nDcolu dIte:s conducting an investigation. Investigations are
+RegPuollaictiieosn s& Regulations
+• All Sides of the Story: Investigations aim to gather input from
+conducted with objectivity and confidentiality to ensure accountability
+6In. foArnmtia-Btiorinb e&r yT e&c Ahnnotil-oCgoyrruption Here is some text all parties involved to develop a complete understanding of the
+while respecting all parties involved.
+7A. nLtia-Bbroirb aenryd & H Aumntai-nC Rorigruhptstion situation.
+• point one
+8La. bAomr m& eHnudmmaenn Rtsig, Mhtosdifications, How We Do It:
+• Consequences of Violations: If a violation of policy or law is
+and Waivers
+• point two
+confirmed, appropriate disciplinary action will be taken, up to and
+Here’s how we approach investigations:
+including termination or referral to law enforcement if necessary.
+• point three
+• Conduct Fair Investigations: Investigations are carried out This includes intentionally false or misleading statements made
+promptly, impartially, and thoroughly to ensure all relevant details during the course of an investigation.
+Consider This:
+are considered.
+• Here is some text
+• Require Cooperation: Employees must cooperate fully with
+investigations, providing complete, accurate, and truthful
+• term: here is some text. FAQs
+FAQs
+information when requested.
+• term: here is some text.
+• Take Appropriate Action: If a violation or dishonesty is found, we
+Q: I reported misconduct and the company wants to investigate. Will
+• tmearmy i:s hseuree disis scoipmlien ete uxpt. to termination and, if warranted, refer the
+participating in an investigation affect my job at Block?
+matter to law enforcement.
+• term: here is some text.
+A: No. We recognize it takes courage to speak up or cooperate, and
+• Prohibition on Unsanctioned Investigations: If you become
+retaliation is not tolerated. If you believe you’re observed or experienced
+aware of potential misconduct, do not investigate independently.
+retaliation, report immediately to a member of the People team,
+Report it through “Where to Report” so trained teams can evaluate
+Employee Relations, Employment Counsel, or to the Ethics Line.
+the concern impartially. Attempting to investigate yourself can
+Q: Why might I be contacted if I didn’t file a complaint?
+compromise the process and may result in discipline.
+A: You might have context that helps us understand what happened,
+even if you weren’t directly involved. To get the full picture, investigators
+talk with people who may have relevant information.
+Further Reading:
+Q: Do I have to participate in an investigation?
+XYZ Policy
+A: Yes. Employees are expected to cooperate and provide complete,
+XYZ Procedure
+accurate, and truthful information when asked.
+XYZ Policy
+Further Reading:
+XYZ Procedure
+GLOBAL SPEAK UP POLICY
+
+Our Responsibilities | 12
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+3. Our Responsibilities • 3.1 Maintain Confidentiality
+• 3.2 Speaking on Behalf of Block
+A thriving workplace depends on respect,
+• 3.3 Create a Respectful Workplace
+safety, and inclusion. When we treat each other
+with kindness and dignity, collaborate openly, • 3.4 Maintain a Safe Workplace
+and act in the best interests of the company, we
+• 3.4Drug and Alcohol Abuse
+strengthen the foundation for shared success.
+• 3.6 Financial Integrity & Accurate Records
+
+Our Responsibilities | 13
+code of conduct
+3.1 Maintain Confidentiality
+Introduction
+Speak Up
+Our Commitment:
+Our Responsibilities
+Avoid Conflicts of Interest At Block, protecting confidential information is a key responsibility for
+Comply with Applicable Laws, Policies & everyone who performs work on behalf of the Company. Confidential
+Regulations information includes both internal data and material entrusted to us by
+Information & Technology third parties. Violations of confidentiality can have serious implications
+Anti-Bribery & Anti-Corruption for Block’s business and reputation, which is why every team member
+must take this responsibility seriously.
+Labor & Human Rights
+Confidential information is defined broadly and includes, but is not
+limited to, technical data, trade secrets, research, product plans,
+marketing directions, software codes, designs, employee and consultant
+information, and material nonpublic information (“MNPI”). In general,
+it consists of information and physical material not generally known or
+available outside the Company and information and physical material
+entrusted to the Company in confidence by third parties.
+As a reminder, you signed a Confidential Information and Invention
+Assignment Agreement in connection with your work at Block which
+provides further details on Confidential Information and extends beyond
+the end of your employment relationship with Block.
+How We Do It:
+Protect our business and customer’s information at all times and refer
+to Block’s Data Classification and Handling Policy. If you are uncertain
+about whether information is MNPI, please review Block’s Insider
+Trading Policy for an overview of what constitutes MNPI. If you still have
+questions, you can contact insider@.
+Further Reading:
+DATA CLASSIFICATION AND
+HANDLING POLICY
+INSIDER TRADING POLICY
+EXTERNAL COMMUNICATION POLICY
+
+Our Responsibilities | 14
+ccooddee ooff ccoonndduucctt
+3.1 Maintain Confidentiality
+(cont.)
+Introduction
+Speak Up Consider This:
+Our Responsibilities
+FAQs
+We understand that confidentiality can sometimes
+Avoid Conflicts of Interest
+pose challenges or nuanced situations. Be mindful
+Comply with Applicable Laws, Policies &
+Regulations of the following: Q: I overheard colleagues discussing confidential business plans in a public space. Should
+I say something?
+Information & Technology • Casual Conversations: Avoid discussing
+Anti-Bribery & Anti-Corruption confidential topics in open or unsecured spaces, A: Yes. Remind them that discussing confidential information in public places, even
+Labor & Human Rights even within Block. among other Block employees, risks exposure. If you are uncomfortable addressing it
+directly, report the concern to your manager, HRBP, or Block’s Ethics Line.
+• Remote Work: When working remotely, be
+mindful of your surroundings and take care Q: I need to share confidential information with an external partner. How should I
+to keep all confidential information private proceed?
+and protected from anyone outside of Block,
+A: Only share confidential information if you’ve received approval to do so, the recipient
+including roommates, family members, or others
+has a legitimate business need and is covered by a confidentiality agreement. If you are
+who may be nearby.
+unsure, check with Procurement before proceeding and be sure to follow Block’s Data
+• Third-Party Information: Treat any information Classification and Handling Policy when sharing sensitive data.
+Block receives confidentially from partners as
+Q: What should I do if confidential information is mistakenly sent to me or if I accidentally
+carefully as you would our own.
+send it to someone else?
+• Legal Protections: Nothing in this guidance limits
+A: Report the incident immediately to DART so corrective action can be taken. Prompt
+your rights to engage in protected activity, as set
+reporting helps minimize potential risks.
+forth in the Protected Communications section
+of Block’s External Communications Policy or
+that are otherwise protected by law, such as
+discussing wages, reporting to government
+agencies, or participating in investigations—
+without prior notice to Block.
+Further Reading:
+DATA CLASSIFICATION AND
+HANDLING POLICY
+INSIDER TRADING POLICY
+EXTERNAL COMMUNICATION POLICY
+
+Our Responsibilities | 15
+code of conduct
+3.2 Speaking on Behalf of Block
+Introduction
+Speak Up Our Commitment: Consider This:
+Our Responsibilities
+To ensure accurate and consistent communication, only designated Accidental or unauthorized public statements can create confusion or
+Avoid Conflicts of Interest
+individuals, as outlined in Block’s External Communications Policy, are harm Block’s reputation. Carefully consider the following before speaking:
+Comply with Applicable Laws, Policies &
+authorized to speak on behalf of Block. This is critical to safeguarding
+Regulations
+• Social Media Caution: Posts and comments on personal accounts
+Block’s reputation.
+Information & Technology (e.g., X LinkedIn) should not imply you are speaking on behalf of Block
+Anti-Bribery & Anti-Corruption How We Do It: without authorization.
+Labor & Human Rights
+• Content Awareness: Ensure that public comments—written or
+Here’s how we maintain clear, consistent messaging on behalf of Block:
+spoken—are not misconstrued as representing Block’s views unless
+• Recognize Authorized Spokespersons: Only specific roles, including you are explicitly authorized.
+the Block Head (our version of a CEO), members of Innercore,
+Communications Leads, or explicitly delegated individuals, may speak
+publicly on behalf of Block.
+• Avoid Unofficial Statements: Unless authorized, do not engage with FAQs
+media, investors, analysts, or other third parties on behalf of Block.
+This includes online interactions, public events, and personal posts
+Q: A reporter contacted me on social media asking for comment on
+on channels such as social media, podcasts, bulletin boards and
+a recent product launch. Can I respond?
+blogs. This also applies to public comments about specific matters
+that relate to our businesses, as well as letters to the editor and A: No. Media inquiries should always be referred to a
+endorsements of products or services. Communications Lead or another authorized Spokesperson. Direct
+the inquiry to press@ and do not engage.
+Q: What should I do if I accidentally speak on behalf of Block without
+authorization?
+A: Immediately notify your manager and the Communications team
+to address any potential misunderstandings or issues promptly.
+Q: I’ve been invited to speak on an industry group panel discussion.
+Can I go?
+A: You must get approval to do so by submitting your request at
+go/externalspeaking. Any appearance will be on your personal behalf
+and not as a representative of Block unless explicitly authorized to
+do so.
+Further Reading:
+EXTERNAL COMMUNICATION POLICY
+
+Our Responsibilities | 16
+code of conduct
+3.3 Create a Respectful Workplace
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+At Block, we encourage a creative, culturally diverse, and supportive work environment where everyone
+Avoid Conflicts of Interest
+can thrive. A respectful workplace is central to our culture, and we are committed to ensuring it remains
+Comply with Applicable Laws, Policies &
+free of harassment, fear, intimidation, bullying, unlawful bias, and discrimination.
+Regulations
+Information & Technology Block is an equal opportunity employer and makes decisions based solely on individual merit and
+Anti-Bribery & Anti-Corruption qualifications directly related to professional competence and objective business needs. Further, we
+Labor & Human Rights strictly prohibit discrimination or harassment of any kind based on characteristics protected by law,
+including but not limited to race, color, religion, veteran status, national origin, ancestry, pregnancy status,
+sex, gender identity or expression, age, marital status, mental or physical disability, medical condition,
+sexual orientation or any other characteristics protected by law.
+How We Do It:
+Here’s how we build and protect a respectful workplace:
+• Demonstrate Respect: Treat everyone with professionalism and dignity, both in person and online.
+• Promote Inclusivity: Support cultural diversity and equal opportunity by fostering environments where
+diverse perspectives are valued.
+• Report Misconduct: If you witness or experience harassment, intimidation, bullying, or discrimination,
+report it promptly. Managers have a responsibility to escalate such concerns immediately to the
+Employee Relations team or through the Ethics Line.
+FAQs
+Q: What should I do if I experience inappropriate behavior or harassment at work?
+A: Report the concern to your manager, HRBP, or Block’s Employee Relations team through the
+Ethics Line. Retaliation for raising concerns in good faith is strictly prohibited.
+Further Reading:
+BLOCK EQUAL EMPLOYMENT Q: Do respectful workplace expectations apply to online communications, like Slack?
+OPPORTUNITY POLICY
+A: Absolutely. All workplace interactions, whether in person or online, must meet the same
+POLICY PROHIBITING HARASSMENT
+professional and respectful standards.
+BLOCK RULES OF RESPECTFUL
+ENGAGEMENT
+
+Our Responsibilities | 17
+code of conduct
+3.4 Maintain a Safe Workplace
+Introduction
+Speak Up
+Our Commitment:
+Our Responsibilities
+Avoid Conflicts of Interest At Block, we are committed to providing a safe and healthy work environment, free from
+Comply with Applicable Laws, Policies & violent, threatening, or intimidating behavior. A safe workplace is essential for fostering
+Regulations
+trust and productivity and applies to all Block locations, remote work setups, off-site
+Information & Technology
+events, Block-sponsored activities, or anywhere you are acting on behalf of Block.
+Anti-Bribery & Anti-Corruption
+How We Do It:
+Labor & Human Rights
+Here’s how we ensure workplace safety across Block:
+• Prevent Violence: Block does not tolerate violent, threatening, or intimidating
+behavior under any circumstances.
+• Speak Up About Safety Concerns: If you notice any safety concerns, report them
+promptly to the Global Safety and Security team at safety@squareup.com.
+• Follow Local Safety Policies: Be familiar with the workplace safety policies applicable
+to your location.
+• Quick Escalation: For immediate threats, such as those involving weapons, suicidal
+ideation, physical harm, or any scenario that requires immediate medical or law
+enforcement response, prioritize calling emergency services before reporting to
+Block’s internal teams.
+FAQs
+Q: What should I do if I witness a colleague exhibiting aggressive or threatening
+behavior?
+A: Report it immediately to the Global Safety and Security team. If the situation poses an
+immediate danger, contact local emergency services first.
+Q: Are safety policies the same for remote work or at off-site events?
+A: Yes. Block’s commitment to workplace safety applies regardless of location, including
+remote work and off-site events.
+
+Our Responsibilities | 18
+ccooddee ooff ccoonndduucctt
+3.5 Drug & Alcohol Abuse
+1In. trInotdruocdtuiocntion
+2S.p eSapke aUkp Up Our Commitment:
+3O.u Or Rure sRpeosnpsoinbsiliibtiielisties
+At Block, we are committed to maintaining a workplace that is safe, professional,
+4A.v oAivdo Cido Cnfolincftlsic otsf Ionft eInrteesrtest
+and conducive to productivity. While responsible alcohol consumption is
+5C.o Cmopmlyp wlyit wh iAthp Aplpicpalibclaeb Llea wLas,w Pso, licies &
+permitted in some office settings or events, we strictly prohibit illegal drug use FAQs
+RegPuollaictiieosn s& Regulations
+and any behavior that endangers others, impairs performance, or violates the
+6In. foArnmtia-Btiorinb e&r yT e&c Ahnnotil-oCgoyrruption
+law.
+7A. nLtia-Bbroirb aenryd & H Aumntai-nC Rorigruhptstion Q: Is consuming alcohol allowed at company offices and offsite
+events?
+8La. bAomr m& eHnudmmaenn Rtsig, Mhtosdifications, How We Do It:
+and Waivers
+A: Yes. Moderate alcohol consumption is permitted in specific
+Here’s how we ensure a safe and productive working environment both in our
+settings, but you must always use good judgment to avoid
+offices and at sponsored events:
+inappropriate behavior or impaired performance. Alcohol
+• Use Good Judgment: If consuming alcohol in workplace settings or events, consumption by minors is never acceptable.
+do so responsibly, without compromising safety, performance, reputation, or
+Q: What should I do if I see someone engaging in inappropriate
+professional behavior. Always secure approval for events where alcohol will be
+behavior linked to drug or alcohol use?
+served. Find more information on our Event Services Page.
+FAQs
+A: Report the incident to your manager or HRBP immediately.
+• Prohibit Illegal Drugs: The possession, use, or distribution of illegal drugs in
+Reporting ensures the safety and well-being of your colleagues.
+Block’s offices or at any Block-sponsored events is strictly prohibited.
+If you believe there is a medical emergency immediately call
+• When in Doubt: If you’re unsure about whether a specific action aligns with emergency services and then notify the Global Safety and Security
+Block’s standards, consult the Employee Handbook or your manager for team.
+clarification.
+Further Reading:
+XYZ Policy
+XYZ Procedure
+XYZ Policy
+XYZ Procedure
+
+Our Responsibilities | 19
+code of conduct
+3.6 Financial Integrity &
+Introduction
+Accurate Records
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Our Commitment:
+Comply with Applicable Laws, Policies &
+Regulations
+The integrity of Block’s financial practices is fundamental to how we operate. Accurate, clear,
+Information & Technology
+and complete records ensure sound business decisions, uphold our reputation, and meet our
+Anti-Bribery & Anti-Corruption obligations as a public company. Trust from our shareholders and financial markets depends on the
+Labor & Human Rights transparency and accuracy of our disclosures and financial information.
+How We Do It:
+• Here’s how we ensure financial integrity and accurate record keeping at Block:
+• Maintain Accurate Records: Always record all financial transactions clearly and accurately. Do not
+falsify or misrepresent business records or financial data under any circumstances. Even minor
+errors can compromise trust and lead to significant compliance issues.
+• Provide Transparent Disclosures: Ensure that all financial disclosures are complete, fair, truthful,
+timely, and understandable.
+• Follow Accounting Standards: Abide by Block’s application of local generally accepted
+accounting principals and applicable laws or regulations for recording and reporting financial
+information in the jurisdictions where we operate.
+• Preserve Records: Follow established retention policies to store key financial documents securely
+FAQs
+Q: What should I do if I discover an error in financial records?
+A: Report the issue immediately to your manager, the Finance team, or directly through
+Block’s Ethics site. Prompt reporting ensures the issue is addressed and corrected
+transparently.
+Q: Can I exaggerate or alter financial information for a better report?
+A: No. Falsifying or misrepresenting financial information is strictly prohibited, undermines
+the trust placed in Block by shareholders and the public, and could result in legal action
+against Block.
+
+Conflicts of Interest | 20
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+4. Conflicts of Interest • 4.1 Avoid Conflicts of Interest
+• 4.2 Outside Activities
+Transparency and accountability help us
+• 4.3 Personal Investment Activities
+avoid conflicts and protect the trust we’ve
+• 4.4 Engaging Friends or Family
+built together. By identifying and addressing
+potential risks, we keep our decisions aligned
+• 4.5 Self Dealing
+with Block’s mission and the interests of those
+we serve. • 4.6 Political Affiliations
+
+Conflicts of Interest | 21
+code of conduct
+4.1 Avoid Conflicts of Interest
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+Block is committed to ensuring that employees act in the best interests of the Company, free from
+Avoid Conflicts of Interest
+personal interests that could interfere with their decisions or responsibilities. Potential conflicts of
+Comply with Applicable Laws, Policies &
+interest should be disclosed and appropriately managed to uphold integrity and trust.
+Regulations
+Information & Technology
+How We Do It:
+Anti-Bribery & Anti-Corruption
+Here’s how we manage and avoid conflicts of interest:
+Labor & Human Rights
+• Understand Conflicts: A conflict of interest occurs when personal interests could interfere with your
+role at Block. This includes situations with even the appearance of a conflict.
+• Disclose Promptly: Report potential or actual conflicts of interest through go/disclose or by
+contacting ethics@block.xyz. For outside activities, submit requests at go/outsideactivities. Failure to
+disclose or resolve a conflict can result in disciplinary action, up to and including termination.
+• Follow the Review Process: Take no action related to the situation until Block has reviewed the
+disclosure and provided necessary approvals.
+• Comply with Resolutions: If Block determines a conflict exists, comply promptly with actions
+required to resolve or manage the conflict. If the circumstances of your conflict change after
+approval, immediately notify ethics@block.xyz and discontinue any approved activity until instructed
+further.
+Consider This:
+Conflicts of interest vary widely, but all require prompt disclosure and careful management. Keep these
+in mind:
+• Transparency is Key: All employees are expected to disclose any potential conflict of interest for
+review as they encounter them. Employees are not expected, or encouraged, to determine whether a
+conflict exists. Various stakeholders will engage with employees on mitigating conflicts as they arise.
+• Organizational Adjustments: Block may implement changes in reporting or decision-making
+arrangements to resolve conflicts at our sole discretion.
+• Ongoing Oversight: Block’s business is constantly changing. We reserve the right to revoke any
+Further Reading:
+approval of a conflict of interest, impose additional guardrails to mitigate risk, or amend existing
+GLOBAL CONFLICT OF INTEREST guardrails to protect Block’s interests.
+POLICY
+
+Conflicts of Interest | 22
+code of conduct
+4.2 Outside Activities
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+At Block, we support opportunities for personal growth and
+Avoid Conflicts of Interest
+development outside of work, so long as these activities do not interfere
+Comply with Applicable Laws, Policies &
+with your job responsibilities or create actual or perceived conflicts of
+Regulations Q: What kind of activities require approval?
+interest.
+Information & Technology
+A: Activities like employment with another organization, consulting,
+Anti-Bribery & Anti-Corruption How We Do It: serving as a board member or advisor for a for-profit, publicly
+Labor & Human Rights traded, or privately-held corporation (including start-ups). Certain
+Here’s how we manage outside activities responsibly:
+volunteer roles also require pre-approval.
+• Obtain Pre-Approval: Seek approval through go/outsideactivities
+Q: How do I disclose an outside activity for review?
+before engaging in any outside activity.
+A: Submit your request via go/outsideactivities.
+• Understand Covered Activities: Outside activities requiring approval
+include (but are not limited to) other employment, consulting, board Q: What happens if my outside activity creates a conflict with my job
+memberships, advisory roles, and certain volunteer work. at Block?
+• Maintain Focus: Ensure that outside activities do not disrupt your A: Block will work with you to resolve the conflict, which may include
+ability to fulfill work responsibilities at Block. adjustments or discontinuation of the outside activity.
+• Protect Confidential Information: Outside Activities must not pose
+the risk of confidential information leaving our workplace.
+• Protect Company Assets: Block-issued technology is the property of
+Block. The use of our technology for outside activities is prohibited.
+• Transparency Matters: Disclose any outside activities that could
+present a potential conflict of interest, even if they seem minor.
+Further Reading:
+GLOBAL CONFLICT OF INTEREST
+POLICY
+
+Conflicts of Interest | 23
+code of conduct
+4.3 Personal lnvestment Activities
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+We recognize that personal investments are a part of financial planning.
+Avoid Conflicts of Interest
+However, employees must ensure their investment choices do not create
+Comply with Applicable Laws, Policies &
+Regulations even the appearance of a conflict of interest or affect decision-making Q: What happens if a company I have invested in starts working
+related to Block’s business activities. with Block?
+Information & Technology
+Anti-Bribery & Anti-Corruption How We Do It: A: Immediately disclose the situation through go/disclose so it can
+Labor & Human Rights be evaluated.
+Here’s how we manage personal investment activities:
+Q: How do I ensure my investments align with Block’s policies?
+• Avoid Conflicts: Do not make personal investments that create real or
+perceived conflicts of interest or compromise your decision-making A: Review the Insider Trading Policy and Global Conflict of Interest
+on behalf of Block. Policy and proactively disclose relevant investments. When in
+doubt, contact ethics@block.xyz.
+• Obtain Pre-Approval for Private Investments: Disclose and seek
+approval via go/disclose before investing in privately-held companies Q: I have a large investment with a privately-held company that
+(e.g., shares not traded on the open market) that, if to your knowledge: I think would be a great vendor for Block. Can I pursue them for
+business with Block?
+· Have or could have a business relationship with Block.
+· Are potential acquisition interests or competitors of Block. A: Prior to engaging with the potential vendor, disclose your
+conflict of interest at go/disclose for evaluation.
+• Stay Compliant: Ensure all investment activities align with Block’s
+Global Conflict of Interest Policy and Insider Trading Policy. Q: I own shares in a publicly traded company, do I need to
+disclose?
+• Open Communication: If you learn that a company with whom you
+have a personal investment later develops a relationship with Block, or A: Maybe. If you own more than 5% of a publicly traded company’s
+is under consideration for the same, you must immediately disclose it voting class shares you need to disclose the investment(s).
+for evaluation.
+Further Reading:
+GLOBAL CONFLICT OF INTEREST
+POLICY
+INSIDER TRADING POLICY
+
+Conflicts of Interest | 24
+code of conduct
+4.4 Engaging Friends and Family
+Introduction
+Speak Up Our Commitment: How We Do It:
+Our Responsibilities
+We ensure, to the extent permitted under local law, that our Here’s how we manage situations involving personal relationships
+Avoid Conflicts of Interest
+personal, familial, or romantic relationships do not create conflicts responsibly:
+Comply with Applicable Laws, Policies &
+of interest or adversely influence our decision-making processes.
+Regulations
+• Disclose Close Personal Relationships: Disclose any personal,
+These relationships are collectively referred to as close personal
+Information & Technology familial, or romantic relationships, at go/disclose, with individuals who:
+relationships.
+Anti-Bribery & Anti-Corruption
+· Work for competitors, suppliers, or potential suppliers;
+Labor & Human Rights Block defines close relationships to include family members (e.g.,
+· Are employees at Block; or
+spouse, domestic partner, parent, son/daughter, sibling, grandparent,
+· Are candidates for employment or contracted to provide services
+aunt/uncle, niece/nephew, cousin, step/half/or in-law relation, etc.),
+for Block.
+Individuals living in the same household, individuals with whom an
+individual has a personal relationship of an intimate or romantic • Avoid Improper Influence: Do not allow personal connections to
+nature, or any other person with whom the individual has such a close receive benefits based on your position, or to influence—or appear
+bond that could impair, or appear to impair, the individual’s objectivity. to influence—business decisions. This includes offering discounts,
+services, or goods not available to the general customer population.
+FAQs
+Q: My brother-in-law wants to apply for a position on my team, can I manage him?
+A: No. It is never appropriate to supervise or manage the work of an employee with whom you have a close personal relationship. Your
+relationship presents a conflict of interest. Encourage them to apply for another open position at Block.
+Q: Can I refer a family member for an open position at Block?
+A: Yes, but you must disclose the relationship, and ensure they go through the standard hiring process without preferential treatment.
+Q: A colleague on another team told me about their search for a new vendor. Can I suggest my family member’s business as a potential vendor?
+A: Yes. However, you must not influence, negotiate, on sign on behalf of Block with respect to the vendor’s work with Block.
+Further Reading:
+GLOBAL CONFLICT OF INTEREST
+POLICY
+
+Conflicts of Interest | 25
+code of conduct
+4.5 Self Dealing
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+We are dedicated to ensuring that employees prioritize the Company’s
+Avoid Conflicts of Interest
+interests above personal gain and never engage in self dealing.
+Comply with Applicable Laws, Policies &
+Q: I run a small side business. Can I use my Block laptop and design
+Regulations
+Self dealing includes any behavior or action where an employee uses
+software to work on it after hours?
+Information & Technology information or opportunities discovered through their work at Block
+Anti-Bribery & Anti-Corruption and diverts them to themselves or others outside the Company for A: No. Even outside of work hours, using Block-issued equipment or
+Labor & Human Rights financial or other gain. Such gain could take the shape of bribes or licensed software for commercial projects is considered self dealing.
+kickbacks from a vendor or third-party provider, personally accepting Our tools and resources are meant for Company business only. Using
+money or gifts in exchange for favorable treatment by Block, or Company resources, such as a company-issued laptops, for personal
+manipulating company data and/or financial reporting to benefit one’s gain is prohibited under Block’s Acceptable Technology Use Policy
+own financial position. This behavior is unethical and undermines
+Q: A potential client approached me about services Block offers, but
+trust and our shared success.
+my friend’s company can also do it and I’ll receive a commission. Can
+How We Do It: I refer them to my friend’s business?
+Here’s how we avoid even the appearance of self dealing in our work: A: No. Referring a client to another business—especially one that
+competes with Block—while receiving a personal benefit is a clear
+• Avoid Improper Gains: Never use your role, Block’s property
+example of self dealing. Personal commissions, side deals, or
+(including physical or digital technology), or Company information
+directing business away from Block compromises our integrity and
+for personal benefit. This includes diverting opportunities (either to
+must be avoided.
+yourself or others) that are discovered through your work at Block.
+• Disclose Conflicts Promptly: Report potential conflicts that may be
+perceived as:
+· Diverting business opportunities intended for Block to yourself
+or others.
+· Competing with Block’s products or business interests.
+• Stay Aligned with Block’s Goals: Ensure your actions support
+Block’s business and never exploit Company resources or
+information.
+Further Reading:
+GLOBAL CONFLICT OF INTEREST
+POLICY
+ACCEPTABLE TECHNOLOGY USE
+POLICY
+
+Conflicts of Interest | 26
+code of conduct
+4.6 Political Affiliations
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+At Block, we are committed to upholding transparency, compliance,
+Avoid Conflicts of Interest
+and ethical practices in all political contributions and charitable
+Comply with Applicable Laws, Policies &
+Regulations activities. While we encourage employees to engage in causes they Q: Can I use my Block email to organize, communicate with, or
+are passionate about, it is essential that such engagement is done in a campaign for a political group?
+Information & Technology
+personal capacity and does not give the appearance of affiliation with
+Anti-Bribery & Anti-Corruption A: No. Block resources, including email, job title, or tech resources,
+Block.
+Labor & Human Rights may not be used to organize or engage in political activities.
+How We Do It:
+Q: What should I do to clarify my personal capacity when working
+Here’s how we ensure compliance and maintain clarity between with a political group?
+personal contributions and Block’s values:
+A: If you perceive there is a misconception as to whether you
+• Compliance with Laws and Policies: All contributions of time are engaged in the activity as a representative of Block, make it
+or money to political or charitable activities must align with explicitly clear in all communications and activities that you are
+applicable laws and regulations for the jurisdiction, and they participating as an individual and not as a representative of Block.
+must comply with Block policies. Special care must be given when
+Q: A charitable organization I contribute to has asked me to join
+complying with Block policies governing gifts and entertainment
+their Board, can I join?
+for governmental officials, charitable organizations, and political
+entities. A: Maybe. Before accepting or engaging further, submit your
+Outside Activity Request at go/oar and ensure a full review is
+• No Use of Block Resources: Block’s stationery, name, logo,
+completed and approved before making any commitments.
+employee job titles, facilities, or other Block resources may not be
+used to express personal political opinions, promote candidates, Q: I want to make a charitable contribution in a personal capacity–
+charitable organizations, solicit political contributions, or to can Block support it in any way?
+contribute time or money to a political or charitable organization.
+A: Block does not have a matching donations program at this time.
+• Advance Approval for Donations: Any donations made to
+charitable organizations or political groups on Block’s behalf must
+be reviewed and approved by the Policy team.
+• Personal Capacity Disclaimer: If you run for political office or serve
+in public office (e.g. city council, school board, or other elected
+office), you must clearly communicate that your participation is in a
+personal capacity (and not on behalf of or affiliated with Block).
+Further Reading:
+GLOBAL CONFLICT OF INTEREST
+POLICY
+
+Comply with Applicable Laws, Policies & Regulations | 27
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+5. Comply with Applicable
+Laws, Policies & Regulations
+Every interaction reflects who we are and what
+• 5.1 Insider Trading
+we value, which is why honesty and fairness
+• 5.2 Digital Currency Transactions
+are core to how we work. By prioritizing
+transparency and ethical practices, we build
+• 5.3 Antitrust & Fair Dealing
+trust with customers, regulators, partners, and
+communities we serve across the globe. • 5.4 Global Sanctions
+
+Comply with Applicable Laws, Policies & Regulations | 28
+code of conduct
+5.1 Insider Trading
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+At Block, we uphold the integrity of the financial markets by prohibiting insider trading
+Avoid Conflicts of Interest
+and ensuring compliance with applicable securities laws. This responsibility applies to
+Comply with Applicable Laws, Policies & all employees, agents (such as consultants and independent contractors) officers, and
+Regulations
+directors.
+Information & Technology
+How We Do It:
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights Here’s how we strive to maintain compliance with insider trading laws:
+• Do Not Trade on MNPI: You may not trade, or enable others to trade, Block stock
+while in possession of material nonpublic information (“MNPI”). You are also
+prohibited from trading, or enabling others to trade, the stock of other companies
+(such as customers, suppliers, or competitors) when you have MNPI about those
+companies that you obtained during your service with Block. Violations of insider
+trading laws can result in fines, loss of employment, or imprisonment.
+• Seek Guidance: If you are unsure whether information is material or has been
+adequately disclosed, seek guidance by reviewing Block’s Insider Trading Policy or
+emailing insider@block.xyz.
+• Follow Trading Guidelines: Adhere to Block’s established trading windows and other
+rules as outlined in the Insider Trading Policy.
+FAQs
+Q: What is MNPI?
+A: MNPI stands for material nonpublic information. It is any information not yet publicly
+available that could influence an investor’s decision to buy or sell securities or that
+significantly alters the total mix of information in the marketplace about the issuer of the
+securities.
+Q: Can I share MNPI with someone outside Block?
+A: No. Sharing MNPI with any third party, even family members or friends, is strictly
+Further Reading: prohibited and a violation of both company policy and the law.
+BLOCK INSIDER TRADING POLICY
+
+Comply with Applicable Laws, Policies & Regulations | 29
+code of conduct
+5.2 Digital Currency Transactions
+Introduction
+Speak Up
+Our Commitment:
+Our Responsibilities
+Avoid Conflicts of Interest At Block, employees must adhere to Block’s policies surrounding digital currency
+Comply with Applicable Laws, Policies & transactions, especially when in possession of material nonpublic information (“MNPI”).
+Regulations
+Information & Technology How We Do It:
+Anti-Bribery & Anti-Corruption
+Block’s policy covers transactions in digital currencies that are used in Block’s products
+Labor & Human Rights
+(“Covered Digital Currencies”):
+• Prohibit Transactions on MNPI: Do not engage in digital currency transactions if you
+possess MNPI about the covered digital currency. Violating digital currency policies
+can result in disciplinary action and legal consequences.
+• Honor Blackout Periods: Refrain from digital currency transactions during special
+blackout periods communicated by Block.
+• Seek Guidance: If you have questions, contact digitalcurrencypolicy@block.xyz for
+clarification.
+FAQs
+Q: What is a blackout period for a covered digital currency?
+A: A blackout period is a designated timeframe during which employees are prohibited
+from engaging in digital currency transactions due to specific business activities or MNPI.
+Q: How do I know if MNPI applies to a specific covered digital currency?
+A: If you’re uncertain, consult the Digital Currency Transaction Policy or email
+digitalcurrencypolicy@block.xyz.
+Q: Can I trade covered digital currencies for personal investments outside work?
+Further Reading:
+A: Yes, provided you are not in possession of MNPI for the covered digital currency or
+DIGITAL CURRENCY TRANSACTION
+subject to any blackout period for such currency.
+POLICY
+
+Comply with Applicable Laws, Policies & Regulations | 30
+code of conduct
+5.3 Antitrust & Fair Dealing
+Introduction
+Speak Up
+Our Commitment:
+Our Responsibilities
+Avoid Conflicts of Interest At Block, we are committed to competing vigorously but lawfully, while
+Comply with Applicable Laws, Policies & maintaining ethical business relationships with customers, suppliers,
+Regulations
+competitors, employees, and contractors. Compliance with antitrust and
+Information & Technology
+competition laws is nonnegotiable and critical to our long-term success
+Anti-Bribery & Anti-Corruption and reputation in the marketplace.
+Labor & Human Rights
+How We Do It:
+Here’s how we comply with antitrust laws and foster fair dealing:
+• Compete Lawfully: Always comply with antitrust and competition
+laws in all markets where Block operates.
+• Act with Integrity: You may not take unfair advantage of another
+person in business dealings on our behalf through the abuse
+of privileged or confidential information or through improper
+manipulation, concealment or misrepresentation of material facts, or
+any other unfair dealing practices.
+• Seek Legal Guidance: Antitrust laws can be complex. If you have
+questions, contact Legal at ma-legal@block.xyz.
+FAQs
+Q: What are antitrust laws designed to prevent?
+A: Antitrust laws prevent unfair competition, such as monopolies, price
+fixing, and other practices that restrict fair business practices.
+Q: Can I discuss pricing strategies with competitors?
+A: No. Discussing pricing or other competitive practices with
+competitors is strictly prohibited under antitrust laws.
+
+Comply with Applicable Laws, Policies & Regulations | 31
+ccooddee ooff ccoonndduucctt
+5.4 Global Sanctions
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+While performing work on behalf of Block, we must comply with global sanctions
+Avoid Conflicts of Interest
+laws to ensure ethical international business practices. Adhering to these laws
+Comply with Applicable Laws, Policies &
+Regulations is a shared responsibility for all employees and essential for maintaining Block’s Q: Can I travel to a sanctioned jurisdiction to conduct Block
+compliance and reputation. business?
+Information & Technology
+Anti-Bribery & Anti-Corruption How We Do It: A: Only with prior approval from globalsanctions@block.xyz.
+Labor & Human Rights Ensure compliance before making any travel arrangements.
+Here’s how we adhere to global sanctions compliance laws:
+Q: Can I tell a customer to use VPN to circumvent Block’s IP
+• Avoid Restricted Activities: Do not engage in services or transactions that
+blocking controls?
+violate U.S. or local sanctions laws and/or Block’s Global Sanctions Policy.
+Violations of sanctions laws can lead to serious penalties for both Block and A: No, this is a violation of Block’s Global Sanctions
+individual employees. Additionally, do not advise internal or external parties on Compliance policy that could lead Block to commit a
+how to circumvent sanctions or Block’s internal controls. sanctions violation.
+• Seek Approval for Travel: If business travel to a Prohibited Jurisdiction Q: Where can I find more details on sanctions compliance?
+is required, provide advance notice and obtain approval by contacting
+A: Refer to the Global Sanctions Compliance Policy
+globalsanctions@block.xyz.
+and Global Sanctions Compliance Program for detailed
+• Escalate: In the event you believe an internal or external party is engaging information.
+in potentially violative activity, including advising on how to evade internal
+controls, please immediately escalate to the Global Sanctions team.
+Further Reading:
+GLOBAL SANCTION COMPLIANCE
+POLICY
+GLOBAL SANCTION COMPLIANCE
+PROGRAM
+
+Information & Technology | 32
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+6. Information &
+Technology
+• 6.1 Security & Privacy
+Integrity means rejecting shortcuts like bribery
+or improper conduct in favor of honest, ethical
+• 6.2 Approved Communication
+practices. With fairness and transparency at the
+Channels
+forefront, we create relationships that are built
+to last and reflect our values. • 6.3 Generative Artificial Intelligence
+
+Information & Technology | 33
+code of conduct
+6.1 Security & Privacy
+Introduction
+Speak Up Our Commitment: • Awareness Matters: Be attentive to suspicious emails, links, or
+Our Responsibilities interactions that may risk Block’s security. Always report suspicious
+At Block, security and privacy are a shared responsibility. We all
+activity.
+Avoid Conflicts of Interest
+play a role in protecting Block’s intellectual property, technology,
+Comply with Applicable Laws, Policies &
+and data (including business, personal, payment, and regulated • Protect Personal Privacy: Be mindful that colleagues, customers, and
+Regulations
+partners trust us with their information. Do not access or use data
+data). Safeguarding these assets while respecting the privacy of our
+Information & Technology
+unless it is necessary for your role.
+employees, customers, and partners is critical to maintaining trust with
+Anti-Bribery & Anti-Corruption
+customers, protecting our collective investment in Block, and driving
+• Activity Monitoring: Block reserves the right to monitor your
+Labor & Human Rights
+growth.
+company-provided technology for business purposes, such as
+securing systems and data, or ensuring compliance with applicable
+How We Do It:
+law and company policies. More details about monitoring practices
+Here’s how we protect Block’s data and technology: are available in our Employee Privacy Notice and Acceptable
+Technology Use Policy.
+• Safeguard Block Data: Adhere to requirements outlined in the Data
+Policy and protect personal, payment, and business information from
+misuse or unauthorized access.
+FAQs
+• Respect Block Technology: Use business equipment, systems,
+data, and networks responsibly, and comply with the Acceptable
+Technology Use Policy. Q: What should I do if I suspect malicious activity or possible
+compromise of Block technology or data?
+• Protect Devices: Shield Block-issued devices from theft, damage, or
+potential security risks. A: Report it immediately at go/alarm or by messaging #DART on Slack
+and tagging @oncall to alert the Detection and Response Team.
+• Report Suspicious Activity: Report security concerns or incidents
+using go/alarm and notify theft@squareup.com to report lost or stolen Q: Are Block’s technology assets for personal use?
+devices.
+A: No. Block’s technology, including networks, devices, and
+Consider This: communication tools, is intended for business use only. Misuse
+is prohibited. Limited personal use is permitted if it’s occasional,
+Security and privacy require vigilance in both daily activities and
+incidental, and doesn’t interfere with your work or violate company
+Further Reading:
+unexpected scenarios. Keep these points in mind:
+policies. For example, quickly checking a personal email or calendar is
+BLOCK EMPLOYEE PRIVACY NOTICE fine but streaming, gaming, or using unauthorized apps is not.
+• Respect Boundaries: Our obligation to protect sensitive information
+BLOCK ACCEPTABLE TECHNOLOGY
+extends to our previous employers. The use of confidential
+USE POLICY Q: How can I get help with security-related questions?
+information from previous employers in your work at Block is strictly
+BLOCK INFORMATION SECURITY
+prohibited. A: Reach out to go/infosec-help or submit your inquiries via go/ask-
+POLICY
+infosec.
+BLOCK DATA CLASSIFICATION &
+HANDLING POLICY
+
+Information & Technology | 34
+code of conduct
+6.2 Approved Communication Channels
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+At Block, we are committed to secure and efficient communication.
+Avoid Conflicts of Interest
+To protect the retention and integrity of Company data and ensure
+Comply with Applicable Laws, Policies &
+Regulations compliance, employees must use only approved communication Q: Why are ephemeral messaging platforms prohibited?
+channels for conducting Block’s business activities. Each employee has
+Information & Technology
+A: These platforms may compromise record-keeping and compliance with
+an obligation to ensure that our business communication is retained.
+Anti-Bribery & Anti-Corruption Company policies and legal obligations.
+Labor & Human Rights How We Do It:
+Q: Can I use personal messaging apps (e.g., iMessage) for work activities if
+Here’s how we maintain secure communication standards: my personal device is enrolled in Block’s MDM solution?
+• Use Approved Channels: Conduct all business activities using A: No. Personal messaging apps aren’t approved for business use on both
+designated tools, such as Slack, Gmail, and Google Meet. personal devices and Block-Issued mobile phones because they can’t be
+monitored or easily retained for security, legal, or compliance purposes.
+• Avoid Unapproved Channels: Do not use personal messaging platforms,
+like WhatsApp, Telegram, or personal text messages or email, for Q: Where can I find a list of approved communication tools?
+conducting Block business. Incidental or social messages, like confirming
+A: Visit go/chat for more information, or check Block’s Acceptable
+where to meet a coworker or discussing non-business matters, are
+Technology Use Policy.
+acceptable but messages must not include Block business, sensitive
+information, or decision-making.
+To the extent business communications are conducted on personal
+messaging apps, employees should understand that their devices may
+be taken in for imaging if relevant to an ongoing litigation or investigation.
+• No Ephemeral Messaging: Self-destructing or ephemeral messaging
+platforms are not allowed for Company communications.
+• Use Block Devices: Block-issued mobile phones should be used for work
+communications when available. If you choose to use a personal device, it
+must be enrolled in Block’s Mobile Device Management (MDM) solution.
+Further Reading:
+BLOCK ACCEPTABLE TECHNOLOGY
+USE POLICY
+
+Information & Technology | 35
+code of conduct
+6.3 Generative Artificial Intelligence
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+At Block, we are committed to leveraging Al to reduce the toil of mechanical tasks and build better
+Avoid Conflicts of Interest
+products for our customers. To support this mission, all Block employees have access to a variety of
+Comply with Applicable Laws, Policies &
+approved internal generative Al tools. We encourage employees to build with these tools everyday
+Regulations
+and to approach issues with an AI-first mindset.
+Information & Technology
+Anti-Bribery & Anti-Corruption We are also committed to using Al responsibly, complying with law, protecting Block’s legal rights, and
+Labor & Human Rights protecting the sensitive data with which our customers entrust us. Upholding these principles ensures
+that we use these tools with integrity.
+How We Do It:
+Here’s how we ensure responsible use of Generative AI:
+Compliance: Ensure your use of generative AI tools strictly adheres to all applicable Block policies,
+as well as relevant laws, regulations, and contractual obligations. This includes understanding and
+following guidelines related to data privacy, intellectual property, and acceptable use.
+Approved Vendors: Utilize only those generative AI vendors and tools that have been officially
+approved by Block. Refer to the go/GenAIVendorList for the current list of authorized vendors. Using
+unapproved tools can expose Block to security and compliance risks.
+Risk Minimization and Ethics: Actively work to minimize potential risks associated with information
+misuse, compromise, or loss when using AI tools. Uphold high ethical standards in all AI interactions,
+considering potential biases and ensuring responsible and fair outcomes.
+Policy Familiarization: Before using any generative AI tools, you are required to thoroughly read
+and understand Block’s Generative AI Policy. This policy provides essential guidance on appropriate
+usage, responsibilities, and potential consequences of non-compliance. In particular, ensure your use
+of any Block confidential or sensitive data aligns with the Block Generative AI Policy and approved
+vendor list.
+Consider This:
+Gen Al tools can be useful for a variety of tasks, but they should not be relied on for making important
+decisions, like employment or lending decisions, without human involvement, as these tools may
+inadvertently reflect biases in their training data or design and lead to discriminatory outcomes.
+Further Reading:
+Further, these tools should not replace the expertise of legal, product, and IP professionals.
+GENERATIVE AI POLICY
+
+Anti-Bribery & Anti-Corruption | 36
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+7. Anti-Bribery &
+Anti-Corruption
+Integrity means rejecting shortcuts like bribery
+• 7.1 About Anti-Bribery & Corruption
+or improper conduct in favor of honest, ethical
+practices. With fairness and transparency at the
+• 7.2 Gifts and Entertainment
+forefront, we create relationships that are built
+to last and reflect our values.
+
+Anti-Bribery & Anti-Corruption | 37
+code of conduct
+7.1 Combating Corruption
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+FAQs
+At Block, we strictly prohibit all forms of bribery and corruption. Our
+Avoid Conflicts of Interest
+policy is simple: Don’t offer or accept any bribe to or from anyone,
+Comply with Applicable Laws, Policies &
+Regulations anytime, for any reason. Bribes are wrong, undermine trust, and Q: What is considered a bribe under Block’s policy?
+violate laws everywhere we do business.
+Information & Technology
+A: A bribe includes offering or accepting anything of value to
+Anti-Bribery & Anti-Corruption How We Do It: influence business decisions, retain business, expedite actions, or
+Labor & Human Rights gain any other improper advantage. A bribe does not need to be
+Here’s how we prevent and address bribery and corruption:
+effective to violate company policy and international law.
+• Prohibit Bribes and Kickbacks: Never offer, accept, or request
+Q: Can I give a small gift to a government official to expedite
+anything of value to influence the outcome of a business decision
+paperwork?
+or gain an improper business advantage.
+A: No. Providing anything of value with the intent to influence an
+• Report Suspected Violations: If you observe any offers or
+official action is prohibited, even small gifts to expedite routine
+solicitations for bribes,, including unsuccessful bribes, threats of
+government actions.
+extortion, or any other suspected violation of our anti-bribery and
+anti-corruption policies or law, report them immediately via Block’s Q: Does our policy prohibit bribes made by vendors and agents
+Ethics Line or ethics@block.xyz. working on our behalf?
+A: Yes. Approving or facilitating a bribe through a third party
+Consider This:
+violates both Block policy and the law. We can be responsible for
+Preventing bribery and corruption requires diligence and honest bribes made by our agents. Ensure all third parties acting for Block
+decision-making. Keep these factors in mind: operate transparently and ethically in line with our standards.
+• Not Just Bags of Cash: Bribes can come in many forms and are Q: Where can I learn more about navigating situations involving
+designed to influence. Bribes can include personal or professional bribery risks?
+favors, offers of future employment, beneficial legislation, or any other
+A: Review the Anti-Bribery and Anti-Corruption Policy for
+thing of value.
+guidance and reach out to Legal if you have questions.
+• Global Compliance: Remember that while anti-corruption laws vary
+by country, Block’s standards apply universally.
+Further Reading:
+ANTI-BRIBERY & ANTI-CORRUPTION
+POLICY
+
+Anti-Bribery & Anti-Corruption | 38
+code of conduct
+7.2 Gifts & Entertainment
+Introduction
+Speak Up Our Commitment:
+Our Responsibilities
+The exchange of gifts and entertainment can help build and maintain business relationships,
+Avoid Conflicts of Interest
+but it must always be appropriate and transparent. Employees must comply with disclosure
+Comply with Applicable Laws, Policies &
+and approval requirements to ensure gifts and entertainment do not compromise decision-
+Regulations
+making or create conflicts of interest.
+Information & Technology
+Anti-Bribery & Anti-Corruption How We Do It:
+Labor & Human Rights
+Here’s how we ensure offers of gifts and entertainment do not call our motives into question:
+• Follow Disclosure Rules: Disclose and obtain approval for any gift or entertainment offer,
+given or received, when valued at over $250 (individually or in aggregate within 12 months)
+via go/disclose.
+• Avoid Impropriety: Never offer or receive gifts or entertainment that could create the
+appearance of a conflict of interest or an improper business advantage.
+• Non-Solicitation: Never request gifts or entertainment offers from third parties.
+• Prohibit Cash Exchanges: Do not accept or exchange cash or cash equivalents, such as
+general-use gift cards, with third parties.
+• Comply with the Policy: Adhere to the Global Gift and Entertainment Policy and escalate
+any uncertainties to gifts@block.xyz.
+Consider This:
+Gifts and entertainment must meet ethical and compliance standards. Keep these points in
+mind:
+• Appearance Matters: Even if there’s no actual conflict of interest and the value of the
+exchange is below our reporting threshold, the appearance of impropriety can harm Block’s
+image. If you are unsure about how to proceed, the best course of action is to disclose and
+seek guidance. If time does not allow for disclosure, you should politely decline the offer.
+Further Reading:
+• Seek Clarity: If you’re unsure whether an item qualifies as a gift or entertainment offer,
+proactively seek advice from Ethics.
+GLOBAL GIFT AND ENTERTAINMENT
+POLICY
+ANTI-BRIBERY & ANTI-CORRUPTION
+POLICY
+
+Anti-Bribery & Anti-Corruption | 39
+code of conduct
+7.2 Gifts & Entertainment
+Introduction (cont.)
+Speak Up
+Offers Involving Government Officials:
+Our Responsibilities
+Avoid Conflicts of Interest Block must ensure that our interactions with government officials
+Comply with Applicable Laws, Policies & (also referred to as “public officials” or “foreign officials”) are handled
+Regulations
+with care and compliant with all applicable anti-bribery and anti-
+Information & Technology
+corruption laws. Block prohibits the exchange of anything of value
+Anti-Bribery & Anti-Corruption with a government official, whether directly or through a third party,
+Labor & Human Rights without first disclosing and obtaining approval via go/disclose. For more
+information about interacting with government officials, review Block’s
+Anti-Bribery and Anti-Corruption Policy.
+• “Government official” is a broad term and includes, but is not limited
+to, any person who is paid with government funds or serves in a
+public function, such as employees of government agencies (local,
+state, federal, provincial, or national), elected officials, candidates for
+public office or employees of state-owned enterprises.
+FAQs
+Q: What qualifies as a gift?
+A: A gift is anything of value exchanged between Block employees
+and third parties. This includes physical items, tickets, internships or
+services.
+Q: What qualifies as entertainment?
+A: Entertainment is any event an employee attends with a representative
+of a third party, such as meals, sporting events, or shows.
+Further Reading:
+Q: Where do I disclose a gift or entertainment offer?
+GLOBAL GIFT AND ENTERTAINMENT
+POLICY
+A: Disclose and seek approval via go/disclose.
+ANTI-BRIBERY & ANTI-CORRUPTION
+POLICY
+
+Labor & Human Rights | 40
+code of conduct
+Introduction
+Speak Up
+Our Responsibilities
+Avoid Conflicts of Interest
+Comply with Applicable Laws, Policies &
+Regulations
+Information & Technology
+Anti-Bribery & Anti-Corruption
+Labor & Human Rights
+8. Labor & Human Rights
+Protecting the dignity and rights of everyone we
+impact is central to how we work. Through ethical
+labor practices and a commitment to fairness, we
+• 8.1 Child and Forced Labor
+foster a positive and inclusive environment both
+within Block and across our communities. • 8.2 Working Hours and Wages
+
+Labor & Human Rights | 41
+code of conduct
+8.1 Child and Forced Labor 8.2 Working Hours and Wages
+Introduction
+Speak Up Our Commitment: Our Commitment:
+Our Responsibilities
+At Block, we are firmly committed to ensuring our workplace and At Block, we are committed to fair compensation and responsible
+Avoid Conflicts of Interest
+those in our supply chain are free from child and forced labor, human timekeeping practices for all employees. We ensure compliance
+Comply with Applicable Laws, Policies &
+trafficking, and any form of involuntary work (broadly referred to as with applicable wage, labor, and working hour laws while fostering
+Regulations
+“modern slavery” in certain countries). We uphold equitable working a supportive and equitable working environment. This approach
+Information & Technology
+conditions for our workplaces as well as the workplaces of vendors underlines our dedication to employee well-being, productivity, and
+Anti-Bribery & Anti-Corruption
+within our supply chains by strictly adhering to global regulations satisfaction.
+Labor & Human Rights
+for age-appropriate employment and ensuring that all personnel
+How We Do It:
+performing services for Block do so voluntarily, with the freedom to
+terminate their employment, as permitted by law.
+Here’s how we ensure compliance with wage and timekeeping
+standards:
+How We Do It:
+• Pay All Mandated Benefits: Provide wages and legally required
+Here’s how we ensure compliance with child and forced labor
+benefits in accordance with local and national regulations.
+standards:
+• Comply with Wage Laws: Ensure all wage withholdings and
+• Prohibit Forced Labor: Slavery, indentured work, and human
+reductions comply with applicable legal frameworks and are
+trafficking of any type are strictly prohibited in all operations.
+communicated transparently.
+• Respect Legal Minimum Ages: Block will not employ anyone below
+• Adhere to Legal Limits: Follow all applicable laws regarding work
+the minimum legal employment age in their respective location,
+hours, including overtime and mandatory rest periods.
+and never anyone under the age of 15.
+• Uphold Voluntary Employment: Ensure that all employment
+relationships are voluntary and that employees maintain the
+freedom to terminate employment in accordance with applicable
+laws. This extends to businesses in our supply chains that supply
+us with goods or services.
+
+Speak Up
+Manager: go/myprofile
+Compliance Team: ethics@
+Human Resources: go/myhrbp
+Employee Relations: erbp@
+Legal: employment-legal@
+Ethics Line: Online: ethics.block.xyz
+Phone: 1-888-829-8316
+Block’s Ethics Line is NOT an Emergency Service. Please do not use this site to report events presenting an
+immediate threat to life or property. Reports submitted through this service may not receive an immediate
+response. In an Emergency, call 911 or the country equivalent and Contact Block’s Global Security Operations
+Center (GSOC) 24/7 at (415) 375-7866 only after alerting emergency services.

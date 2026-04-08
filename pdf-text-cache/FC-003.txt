@@ -1,0 +1,1167 @@
+Anti Money Laundering
+and Counter Terrorism
+Financing Program
+(Australia)
+Afterpay | Afterpay Australia Pty Ltd
+16 December 2025
+Date of Approval
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 2
+
+Confidential
+Table of Contents
+1. Definitions 5
+2. Introduction 8
+2.1 Afterpay overview 8
+2.2 Afterpay’s AML/CTF Program 9
+2.2.1 Part A 9
+2.2.2 Part B 10
+2.2.3 Document Hierarchy 10
+3. Key Concepts 10
+3.1 What is money laundering? 10
+3.2 What is terrorism financing? 10
+3.3 AML/CTF obligations 11
+4. Key Personnel 11
+Part A 12
+5. General Obligations 12
+5.1 Purpose 12
+5.2 Risk-based approach 12
+5.3 Designated Services 12
+5.4 Board and Senior Management oversight 13
+5.5. Changes to the AML/CTF Program 15
+5.6. Exception Process for Part B AML/CTF Program 15
+5.6.1 Consumer on-boarding 15
+5.7 Appointment of AML/CTF Compliance Officer 16
+5.8 Independent review 17
+5.9 AUSTRAC feedback & guidance 17
+5.9.1 AUSTRAC feedback 17
+5.9.2 Board and Senior Management action 18
+5.9.3 AUSTRAC guidance 18
+5.10 Breach escalation procedures 19
+5.10.1 Breach reporting process 19
+5.10.2 Notification of AML/CTF breaches 19
+5.11 Record keeping 19
+6. Reporting Obligations 20
+6.1 Compliance reports 20
+6.2 Suspicious matter reporting 20
+6.2.1 Unusual activity reports 21
+6.2.2 Law enforcement and government agencies 22
+6.2.3 Forming a suspicion 22
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 3
+
+Confidential
+6.2.4 Tipping off 24
+6.3 Threshold transactions 24
+6.4 International funds transfer instructions 25
+6.5 Changes to enrolment details 25
+7. Ongoing Customer Due Diligence 25
+7.1 KYC refresh 26
+7.2 Transaction monitoring program 26
+7.2.1 Automated transaction monitoring system 26
+7.2.2 Manual transaction monitoring 27
+7.3 Enhanced customer due diligence 28
+7.3.2 Risk-based KYC and further KYC Protocols 29
+7.3.2 Suspension or termination of customer relationship 30
+8. Employee Training and Due Diligence Program 31
+8.1 AML/CTF risk awareness training 31
+8.1.1 Training 31
+8.1.2 Regular refresher training 32
+8.1.3 Board training 32
+8.2 Employee due diligence 32
+8.3 Employee management 32
+9. Risk Assessment 33
+9.1 Introduction 33
+9.2 Summary of risk assessment result 33
+9.3 Ongoing risk assessment 34
+10. Third Parties 35
+10.1 External Service Providers or Vendors 35
+10.2 Intra-group outsourcing to Block 36
+11. Document Details 37
+11.1 Document Owner 37
+11.2 Review and Approval 37
+11.3 Exceptions 37
+11.4 Related Documents 37
+11.5 Revision & Approval History 37
+11.6 Document Details 39
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 4
+
+Confidential
+1. Definitions
+Term Meaning
+Afterpay Afterpay Australia Pty Limited ACN 169 342 947.
+Afterpay the board of Directors for Afterpay.
+Board
+AML/CTF anti-money laundering and terrorism financing.
+AML/CTF Act the Anti Money Laundering and Counter Terrorism Financing Act 2006 (Cth).
+AML/CTF the Anti Money Laundering and Counter Terrorism Financing Rules
+Rules
+Instrument 2007 (No. 1).
+AML/CTF Laws the AML/CTF Act and the AML/CTF Rules.
+AML/CTF Afterpay’s Anti-Money Laundering and Counter-Terrorism Financing Program.
+Program
+AUSTRAC the Australian Transaction Reports and Analysis Centre (“AUSTRAC”), which is
+Australia’s anti-money laundering and counter-terrorism financing regulator
+and financial intelligence unit.
+AUSTRAC refers to feedback provided to Afterpay by AUSTRAC as described in Section
+Feedback
+5.10.1 of Part A of the AML/CTF Program.
+Authorised means those persons defined as ‘Level 2 Reviewer’ in the Customer Due
+Person
+Diligence and Reporting SOP.
+Automated the automated transaction monitoring system employed by Afterpay and
+Transaction
+described in Section 7.1.1 of Part A of the AML/CTF Program.
+Monitoring
+System
+Block Block, Inc., an enterprise incorporated under the laws of the United States and
+is Afterpay’s ultimate parent company.
+Business Day a day other than a Saturday, a Sunday or a public or bank holiday in
+Melbourne, Australia.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 5
+
+Confidential
+Term Meaning
+Consumer an individual end-consumer who utilises, or seeks to utilise, Afterpay’s “buy
+now pay later” services. For the purpose of this AML/CTF Program, Consumers
+are Afterpay’s Customers.
+Customer a person to whom Afterpay provides (or is asked to provide) a Designated
+Service. For the purpose of this AML/CTF Program, Afterpay’s Customers are
+synonymous with its Consumers.
+Designated the Designated Services in Table 1, Section 6 of the AML/CTF Act that are
+Services
+provided by Afterpay, as identified in Section 5.3 of Part A of the AML/CTF
+Program.
+Enhanced Enhanced customer due diligence (“ECDD”) process is outlined in Section 7 of
+Customer Due
+this Program.
+Diligence.
+Employees includes full-time, part-time and casual employees, contractors and agents
+engaged by Afterpay, or acting on Afterpay’s behalf, for the purpose of
+performing certain services for the benefit of Afterpay.
+Manual the manual transaction monitoring processes employed by Afterpay and
+Monitoring
+described in Section 7 of Part A of the AML/CTF Program.
+Merchant those individuals, partnerships, companies, trusts and legal entities with
+whom Afterpay has an arrangement to pay the value of purchases made by a
+Consumer using Afterpay’s “buy-now-pay-later” loan product and who offer
+goods or services for sale to Consumers. For the avoidance of doubt, Afterpay
+does not provide a designated service to these Merchants, rather, they are
+part of the process for the provision of the loan products to the Consumer.
+ML/TF Risk the risk that Afterpay may reasonably face that its provision of Designated
+Services may involve or facilitate money laundering or terrorism financing.
+Politically Politically Exposed Person (“PEP”).
+Exposed
+Person
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 6
+
+Confidential
+Term Meaning
+Reporting providers of Designated Services as that term is defined under the AML/CTF
+Entities
+Act.
+Risk Afterpay Australia’s Money Laundering / Terrorism Financing and Sanctions
+Assessment
+Risk Assessment, which is the assessment of the ML/TF Risk that underpins
+the AML/CTF Program.
+Senior includes a member of Afterpay’s Leadership Team or a member of the Block
+Management
+Compliance Core organisation.
+Suspicious Suspicious Matter Report (“SMRs”) are reported to AUSTRAC when a suspicion
+Matter Report
+is formed on reasonable grounds.
+Unusual Unusual Activity Report. (“ UAR”) may be generated as a result of either the
+Activity Automated Transaction Monitoring System or Manual Monitoring.
+Report
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 7
+
+Confidential
+2. Introduction
+2.1 Afterpay overview
+Afterpay Australia Pty Ltd (“Afterpay”) is a subsidiary of Afterpay Pty Ltd, an indirect wholly owned
+subsidiary of Block, Inc.1
+Afterpay is registered as a Reporting Entity with AUSTRAC and is a ‘non-bank lending and financier,
+non-deposit taking lender (NBNDTL)’, i.e., a non-bank institution that offers loans, but does not hold
+a banking licence.
+Afterpay offers a ‘buy now, pay later’ (“BNPL”) service allowing Consumers to make interest free
+purchases at participating Merchants and pay for them over four instalments. Consumers fund the
+repayment of the instalments to Afterpay from debit or credit cards. Afterpay pays the Merchant the
+purchase price of the goods (less a fee), and assumes all Consumer non-payment risk. Afterpay
+settles these funds to the Merchant’s nominated bank account by providing instructions to its local
+bank partner to make those payments. There is no charge to the Consumer for the use of Afterpay
+BNPL as long as payments are made in accordance with their payment schedule.
+Afterpay’s BNPL service can also be accessed at Merchant stores who are Customers of Afterpay
+(known as in-network), via the Afterpay and Afterpay Plus Cards, or at Merchant stores who are not
+Customers of Afterpay (known as out-of-network), via the Afterpay Plus Card.
+Afterpay also allows Australian Consumers to purchase goods and services from eligible Merchants
+who are customers of Afterpay in other markets where Afterpay is located. For Australian Consumers,
+this is limited to Canada, New Zealand, the United Kingdom and the United States. Reciprocally, an
+eligible Australian Merchant can sell goods and services to Consumers in those same markets. This
+payment mechanism is called Cross Border Trade (“CBT”). Payments to fund purchases and settle
+funds to eligible Merchants in these markets are conducted through payment services provided by
+Afterpay’s local bank. For payments relating to CBT transactions, Afterpay’s Consumers continue to
+repay their instalments to Afterpay, which are made via the Customers Debit or Credit card via our
+payment acquiring partners.
+1 As at 1 February 2022.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 8
+
+Confidential
+Afterpay does not conduct IFTIs (International Funds Transfer Instruction), cash transactions nor
+other transactions that would be subject to specific Designated Services or other prescribed
+reporting obligations.
+2.2 Afterpay’s AML/CTF Program
+This Anti Money Laundering and Counter Terrorism Financing Program (“AML/CTF Program”) is a
+standard AML/CTF program as defined by section 84(1) of the AML/CTF Act. It applies to Afterpay
+Australia Pty Limited ACN 169 342 947 and its directors, officers, employees, contractors and third
+parties.
+This AML/CTF Program applies to all areas of Afterpay's business that are involved in the provision of
+a Designated Service. This includes any function that is carried out on Afterpay's behalf by a third
+party.
+Afterpay adopts this AML/CTF Program from the date of approval by the Board of Directors.
+The AML/CTF Program is divided into two parts, Part A and Part B. This document is Part A.
+2.2.1 Part A
+Part A of this AML/CTF Program is designed in accordance with section 84(2) of the AML/CTF Act. It
+sets out the framework of the processes, systems and controls that Afterpay uses to assess its ML/TF
+Risk and to identify, mitigate and manage that ML/TF Risk. Part A is to apply to all areas of its
+business that are involved in the provision of a designated service, including in relation to any
+function carried out by a third party.
+Part A contains risk-based systems and controls that have been designed having regard to:
+● the nature, size and complexity of the business conducted by Afterpay; and
+● the type of ML/TF Risk that may reasonably be faced by Afterpay.
+2.2.2 Part B
+Part B of this AML/CTF Program is designed in accordance with section 84(3) of the AML/CTF Act. It
+sets out the applicable customer identification procedures for Afterpay’s Customers (who for the
+purpose of this AML/CTF Program are Consumers) and other relevant persons.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 9
+
+Confidential
+3. Key Concepts
+3.1 What is money laundering?
+Money Laundering is a serious crime. Money laundering involves hiding, disguising or legitimising
+the true origin and ownership of money used in or derived from committing crimes. It is an
+extremely diverse activity that is carried out at various levels of sophistication and plays an important
+role in organised crime.
+The AML/CTF Act defines “money laundering” as conduct that amounts to an offence against
+Division 400 of the Criminal Code Act 1995 (Cth) or a corresponding law of a State, Territory or foreign
+country.
+3.2 What is terrorism financing?
+The World Bank defines ‘terrorism financing’ as the financial support, in any form, of terrorism or of
+those who encourage, plan or engage in terrorism and this can be divided into two broad areas:
+● Funding of terrorist attacks – funding the cost of an actual attack, including cost of
+firearms, explosives and travel; and
+● Logistical funding – funding required to support groups or individuals who may plan a
+terrorist attack or recruit for and provide training to the groups.
+3.3 AML/CTF obligations
+The AML/CTF Act imposes a number of obligations on Reporting Entities with a view to detecting,
+deterring and disrupting money laundering, terrorism financing and other serious financial crimes
+and meeting various related objectives.
+Reporting Entities must have an AML/CTF program in place that meets the requirements of the
+AML/CTF Laws.
+The Designated Services provided by Afterpay are outlined in Section 5.3 of Part A of this AML/CTF
+Program.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 10
+
+Confidential
+4. Key Personnel
+Role Person Date Commenced Role
+AML/CTF Compliance Officer Martina Kann 30 March 2023
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 11
+
+Confidential
+Part A
+5. General Obligations
+5.1 Purpose
+The purpose of this Part A is to identify, mitigate and manage Afterpay’s ML/TF Risk. Part A also
+sets out the things Afterpay does to ensure we comply with our obligations under the AML/CTF
+Laws.
+5.2 Risk-based approach
+This AML/CTF Program is a risk-based program. It sets out the ways that Afterpay mitigates and
+manages the specific ML/TF Risk, and risks relating to serious financial crime, that it has identified
+through its Risk Assessment.
+It is also a requirement of this AML/CTF Program that, in determining the applicable customer
+identification procedures for Part B, Afterpay has regard to the ML/TF Risk relevant to its provision of
+Designated Services and its Customers, including the provisions outlined in Part B of this Program.
+All Afterpay Customers are initially and periodically ML/TF risk assessed throughout their lifecycle
+according to the Global Consumer Risk Rating Program. The Global Consumer Risk Rating Program
+operates in conjunction with Afterpay’s Ongoing Customer Due Diligence Program.
+This program is informed by the outcome of the ML/TF and Sanctions Risk Assessment that Afterpay
+has undertaken. A high level summary of the Risk Assessment is included in Section 9 of this
+AML/CTF Program.
+5.3 Designated Services
+Afterpay provides Designated Services to Customers as follows:
+Item of table 1 in section Type of Designated Service Customer
+6 of AML/CTF Act
+Item 6 Making a loan, where the loan is Individual end-customers who
+made in the course of carrying seek to utilise Afterpay’s “buy
+on a loans business. now pay later” services (referred
+to in this AML/CTF Program as
+Consumers).
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 12
+
+Confidential
+Item 7 In the capacity of: (a) lender for Individual end-customers who
+a loan; or (b) assignee (whether seek to utilise Afterpay’s “buy
+immediate or otherwise) of the now pay later” services (again
+lender for a loan; allowing the referred to in this AML/CTF
+borrower to conduct a Program as Consumers).
+transaction in relation to the
+loan, where the loan was made
+in the course of carrying on a
+loans business.
+Item 1 Opening an account, as a The holder of the account,
+participant in a designated being the Individual
+payment scheme. This item is end-customers who seek to
+deemed coincidental to item 7. utilise Afterpay’s “buy now pay
+later” services via Afterpay Card
+/ Afterpay Plus Card.
+Item 3 Allowing transactions on an The holder of the account,
+account, as a participant in a being the Individual
+designated payment scheme. end-customers who seek to
+utilise Afterpay’s “buy now pay
+later” services via Afterpay Card
+/ Afterpay Plus Card.
+Items 6 and 7 relate to Afterpay's “buy now, pay later” loan products. A brief summary of how the ‘buy
+now pay later’ product works is below:
+● Afterpay has an arrangement with Merchants to pay the value of purchases made by a
+Consumer using Afterpay’s “buy-now-pay-later” loan product;
+● Afterpay then provides a loan product (Designated Service) to the Consumer;
+● Under the loan product the Consumer repays the loan to Afterpay by making four
+repayments to Afterpay.
+Items 1 and 3 are co-incidental to the provision of Designated Service items 6 and 7 in that they
+relate to the specific way Customers can transact via the Afterpay Card / Afterpay Plus Card
+mechanisms to purchase goods and services.
+5.4 Board and Senior Management oversight
+Part A of the AML/CTF Program must be approved and adopted by both the Afterpay Board and by
+Senior Management.
+Part A of the AML/CTF Program must also be subject to the ongoing oversight of the Afterpay Board
+and Senior Management.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 13
+
+Confidential
+The AML/CTF Compliance Officer provides updates to the Afterpay Board and Senior Management
+regarding AML/CTF compliance. These are provided in accordance with the following minimum
+mandatory update points:
+● the AML/CTF Compliance Officer is to present Part A of the AML/CTF Program for formal
+re-approval by the Afterpay Board approximately every 12 months regardless of whether
+any changes have been made to it;
+● AML/CTF compliance will be reported annually to the Afterpay Board and Senior
+Management; and
+● to ensure that the Afterpay Board and Senior Management have the necessary
+knowledge and skill to carry out their oversight functions, they will receive AML/CTF
+training as referred to in Section 8 of this AML/CTF Program.
+The AML/CTF Compliance Officer will also provide updates to the Afterpay Board and Senior
+Management concerning each of the following:
+● subject to the process described in Section 5.5, changes to this AML/CTF Program or Risk
+Assessment;
+● reports of, or the results from, independent reviews, compliance assessments, or other
+assessments as to Afterpay’s current state of compliance with the AML/CTF Laws;
+● program reviews including identification of, and progress in relation to, AML/CTF
+processes, systems and controls or other aspects of AML/CTF compliance requiring uplift;
+● AUSTRAC feedback, the management of AUSTRAC feedback and information provided to
+AUSTRAC (such as AML/CTF compliance reports or responses to notices);
+● business trends which may include operational metrics (for example, volumes of
+transactions and SMRs);
+● regulatory changes, market developments or identification of new risk typologies;
+● identification of breaches of AML/CTF Laws; and
+● any other subject matter that the AML/CTF Compliance Officer considers appropriate to
+bring to Afterpay’s Board and/or Senior Management's attention.
+5.5. Changes to the AML/CTF Program
+This AML/CTF Program is not a static document. It will be amended over time if the AML/CTF
+Compliance Officer believes that such a change is necessary. This will occur if:
+● there are changes to the AML/CTF Laws that alter Afterpay’s AML/CTF obligations;
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 14
+
+Confidential
+● Afterpay expands or alters its business (including the introduction of new products or
+services) and the AML/CTF Compliance Officer believes that the processes outlined in this
+AML/CTF Program are no longer sufficient to guard against the ML/TF Risk posed by the
+new business; or
+● the AML/CTF Compliance Officer believes that a change in the ML/TF Risk posed by the
+provision of the Designated Services justifies a change to the AML/CTF Program.
+Subject to Section 5.6 below:
+● any material changes to the Risk Assessment and Part A of the AML/CTF Program must
+be approved by the AML/CTF Compliance Officer, Afterpay’s Board and Senior
+Management;
+● any non-material changes however, can be approved by the AML/CTF Compliance Officer
+only and provided for noting to Afterpay’s Board and Senior Management at the next
+convenient opportunity; and
+● any changes to Part B of the AML/CTF Program must be approved by the AML/CTF
+Compliance Officer and provided for noting to Afterpay’s Board and Senior Management
+at the next convenient opportunity.
+5.6. Exception Process for Part B AML/CTF Program
+5.6.1 Consumer on-boarding
+There may be rare circumstances in which Afterpay wishes to on-board a particular Consumer in a
+manner that does not conform with its usual on-boarding processes, systems and controls as set out
+in the AML/CTF Program.
+In this scenario, and before progressing with on-boarding activities, Afterpay must:
+● undertake an assessment of the ML/TF Risk of the proposed on-boarding scenario for the
+relevant Consumer;
+● determine whether there is an appropriate new (or varied) on-boarding process for the
+relevant Consumer, having regard to the assessment of ML/TF Risk and the requirements
+of the AML/CTF Laws; and
+● if it wishes to proceed in accordance with that new (or varied) process, the process must
+be approved by the AML/CTF Compliance Officer and that process will be taken to form
+part of Part B of the AML/CTF Program for the particular Consumer. The Know Your
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 15
+
+Confidential
+Customer (KYC) processes relevant to such an exception will be undertaken in accordance
+with the relevant sections of the AML/CTF Laws and any assessment of ML/TF Risk
+undertaken in accordance with (1) above.
+Exceptions will be recorded by the AML/CTF Compliance Officer in a register that is maintained in
+accordance with the record keeping obligations in Section 5.11.
+5.7 Appointment of AML/CTF Compliance Officer
+Afterpay has designated an AML/CTF Compliance Officer who is at management level. This
+appointment has been approved by the Board. Refer to Section 4 of this Part A Program for details of
+personnel.
+The AML/CTF Compliance Officer has the full authorisation from the Board and Senior Management
+of Afterpay to act independently of them to fulfil its role, including the autonomy and ability to
+escalate matters to the Board/Senior Management, if required.
+The AML/CTF Compliance Officer is responsible for the maintenance and day-to-day oversight of the
+AML/CTF Program and ensuring that Afterpay meets its requirements under the AML/CTF Act and
+the AML/CTF Rules. The AML/CTF Compliance Officer provides updates to the Afterpay Board and
+Senior Management regarding AML/CTF compliance as set out in Section 5.4 above.
+The AML/CTF Compliance Officer may temporarily delegate their duties to an individual at
+management level who has undertaken the requisite AML/CTF training and screening, and is at a
+level of seniority appropriate to carry out the duties of an AML/CTF Compliance Officer.
+If the position of the AML/CTF Officer becomes vacant, the Afterpay Board will appoint a new
+AML/CTF Officer who is at the management level as soon as is reasonably practicable.
+5.8 Independent review
+The AML/CTF Rules require that this Part A is subject to regular independent review, by an internal or
+external party, at frequencies that take into account the nature, size and complexity of Afterpay’s
+business and the type and level of ML/TF Risk that it may face. Having regard to those factors, Block’s
+Internal Audit team, in consultation with the AML/CTF Compliance Officer, will determine the
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 16
+
+Confidential
+appropriate party/parties to undertake an independent and professional review of Part A of its
+AML/CTF Program, and its associated procedures and practices, at least once every two years. More
+frequent independent reviews may be obtained if the AML/CTF Compliance Officer determines that
+it is appropriate.
+The purpose of the independent review is to assess:
+● the effectiveness of Part A of the AML/CTF Program having regard to Afterpay’s ML/TF
+Risk;
+● whether Part A of the AML/CTF Program complies with the AML/CTF Rules;
+● whether Part A of the AML/CTF Program has been effectively implemented; and
+● whether Afterpay has complied with Part A of the AML/CTF Program.
+In addition to considering these matters, the independent review may consider any other matters
+that the AML/CTF Compliance Officer determines are appropriate including, but not limited to, Part
+B of the AML/CTF Program.
+The results of the independent review (including any reports prepared) will be provided to the
+Afterpay Board and Senior Management. The Afterpay Board holds Afterpay’s Senior Management
+accountable to fully remediate any deficiencies they are accountable for in a timely manner. Further
+details can be found in Block’s Compliance Audit, Exam & Independent Assessment Management
+Program.
+5.9 AUSTRAC feedback & guidance
+5.9.1 AUSTRAC feedback
+Afterpay may receive direct feedback (either written or oral) from AUSTRAC from time to time, in
+respect of AML/CTF compliance or other matters relevant to the identification, mitigation or
+management of ML/TF Risk arising from the provision of a Designated Service. This may be specific
+to Afterpay, or industry-wide feedback.
+Following receipt of AUSTRAC Feedback, the AML/CTF Compliance Officer will:
+● consider the AUSTRAC Feedback and any necessary action that Afterpay will need to take
+to ensure ongoing compliance with AML/CTF Laws;
+● consult with AUSTRAC as is appropriate in the circumstances; and
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 17
+
+Confidential
+● provide a report containing the relevant details of the AUSTRAC Feedback and the
+AML/CTF Compliance Officer's recommendations in relation to the action to be taken (if
+any) in respect of the AUSTRAC Feedback, to the Afterpay Board and Senior Management
+as soon as practicable following the receipt of the AUSTRAC Feedback.
+5.9.2 Board and Senior Management action
+The Afterpay Board or Senior Management receiving this information will review the report provided
+by the AML/CTF Compliance Officer and will take the action that they believe is necessary after
+considering:
+● any recommendations from the AML/CTF Compliance Officer; and
+● any other material it / they consider(s) relevant.
+If appropriate, the AML/CTF Compliance Officer will inform AUSTRAC of the action (if any) that
+Afterpay has decided to take in relation to the AUSTRAC Feedback.
+5.9.3 AUSTRAC guidance
+From time to time, AUSTRAC may publish or disseminate guidance material that is relevant to the
+identification, mitigation, and management of ML/TF risks arising from the provision of a Designated
+Service.
+In these circumstances the AML/CTF Compliance Officer may:
+● consider the guidance and any necessary action that Afterpay will need to take in respect
+of the guidance;
+● consult with AUSTRAC as is appropriate; and
+● provide an update containing material action to be taken (if any), to Afterpay’s Board and
+Senior Management.
+5.10 Breach escalation procedures
+5.10.1 Breach reporting process
+Breaches (or apparent breaches) of the AML/CTF Laws or this AML/CTF Program must be reported to
+the AML/CTF Compliance Officer. All breaches or apparent breaches are to be recorded in the
+Incident Register, pursuant to the Incident Management Policy.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 18
+
+Confidential
+5.10.2 Notification of AML/CTF breaches
+The AML/CTF Compliance Officer will notify Afterpay’s Board and Senior Management where it is
+identified that there has been a failure to comply with any system, control or procedure established
+in accordance with Part A or Part B that has not been, or is incapable of being, fully remedied by
+Afterpay within five business days.
+The AML/CTF Compliance Officer considers the breach and prepares a plan of action. This may
+include one or more of the following:
+● preparation of a targeted project plan to remedy the breach;
+● creation of a timeline for further review of any relevant parts of this AML/CTF Program;
+● commission of alterations to the AML/CTF Program or underlying policies and procedures;
+● alterations to particular products or services, or the Afterpay business model; or
+● such other action as Senior Management considers is appropriate.
+If appropriate, Senior Management alongside the ANZ Governance, Risk and Compliance Committee
+(ANZ GRC) will approve a plan of action. The details of the breach and the plan of action will then be
+presented to the Afterpay Board by the AML/CTF Compliance Officer. The Afterpay Board will review
+the information provided and will take the action that they believe is necessary after considering:
+a. a report from the AML/CTF Compliance Officer; and
+b. any other material it considers relevant.
+5.11 Record keeping
+In accordance with Part 10 of the AML/CTF Act, we will keep a record, or a copy or extract of the
+record, of:
+● the Designated Services we provided to a Customer, for 7 years after the making of the
+record; and
+● the customer identification procedures we used to identify a Customer (including
+verification information), for the duration of the Customer relationship and an additional 7
+years after we have ceased to provide the Designated Services to the Customer; and
+● the adoption of an AML/CTF Program or an amendment to the AML/CTF Program for a
+period of 7 years from the date that the adoption ceases to be in force; and
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 19
+
+Confidential
+● each AML/CTF Program adopted, and any amendments to the AML/CTF Program that are
+adopted, for a period of 7 years from the date that the adoption ceases to be in force; and
+● the exceptions register referred to in 5.6 above for a period of 7 years since the last entry.
+Afterpay will also retain records that assist in demonstrating its compliance with the AML/CTF
+Program for the required period as stated in the AML/CTF Laws. This includes, but is not limited to,
+records relating to Employee Due Diligence and AML/CTF risk awareness training programs.
+Further details about Afterpay’s record keeping requirements under this AML/CTF Program are set
+out in Block’s Data Retention Standard.
+6. Reporting Obligations
+6.1 Compliance reports
+Section 47 of the AML/CTF Act requires Afterpay to lodge an annual compliance report with
+AUSTRAC, in an approved form and containing such information as is required, in accordance with
+Chapter 11 of the AML/CTF Rules.
+The AML/CTF Compliance Officer will consult with relevant Employees to prepare and submit the
+annual AUSTRAC compliance report in the first quarter of each calendar year, in respect of activities
+undertaken in the previous calendar year. The report is submitted electronically to AUSTRAC via
+AUSTRAC Online.
+6.2 Suspicious matter reporting
+Section 41 of the AML/CTF Act requires Afterpay to report various matters to AUSTRAC when it forms
+a suspicion about them on reasonable grounds. These matters are described further in Section 6.2.3
+below. Reportable suspicions must be the subject of an SMR that is lodged with AUSTRAC within 24
+hours if the suspicion relates to the financing of terrorism and within 3 business days from forming
+the suspicion in all other cases.
+Afterpay reviews unusual activity, forms suspicions and reports SMRs in accordance with the
+processes set out in our Customer Due Diligence and Reporting SOP. This is not limited to
+circumstances in which a Designated Service is in fact provided but will include consideration of
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 20
+
+Confidential
+unusual requests and inquiries about a particular Designated Service. A summary of this process is
+below. It follows the following basic structure:
+● a UAR is submitted through either the Automated Transaction Monitoring System
+described in Section 7.2.1 below, or the Manual Transaction Monitoring process described
+in Section 7.2.2 below;
+● this UAR is reviewed within the timeframes mandated, and according to a priority order
+based on ML/TF Risk; and
+● an SMR will be filed by an Authorised Person who is authorised to form suspicions and file
+SMRs on behalf of Afterpay, as set out in the Customer Due Diligence and Reporting SOP.
+All SMRs are submitted to AUSTRAC via AUSTRAC Online using the form and content structure
+provided by AUSTRAC.
+6.2.1 Unusual activity reports
+UARs are used by Afterpay to summarise information that requires further investigation. A UAR may
+be prepared through either the Automated Transaction Monitoring System or Manual Transaction
+Monitoring. Afterpay uses this approach to ensure that all reports of unusual activity are reviewed by
+an appropriately trained team, regardless of how they are generated.
+Because UARs comprise the sum of all transaction monitoring data, Afterpay categorises and
+prioritises the UARs to ensure that the cases with potentially higher levels of ML/TF Risk are
+considered first. The prioritisation of UARs is described in the UAR Instruction. Afterpay will review
+UARs in the following order:
+● any UAR that is tagged with the term 'terrorism financing'; and
+● all other UARs.
+This review may include, but is not limited to, any one or more of the following:
+● analysis of the transactions against the profile of the Merchant or the Consumer to
+determine whether transactions are complex, unusually large for that Merchant or
+Consumer, or display unusual patterns of transactions, and in either case are transactions
+which have no apparent economic or visible lawful purpose;
+● allocation of a higher risk level to a Consumer;
+● application of the ECDD procedures set out in Section 7.3; and
+● form a suspicion and file a SMR as outlined in Section 6.2.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 21
+
+Confidential
+The reviewer will carry out the process detailed in the Customer Due Diligence and Reporting SOP.
+6.2.2 Law enforcement and government agencies
+Following assessment, a UAR may be submitted that is associated with an enquiry from law
+enforcement or other government agencies or authorities about a particular Consumer, Merchant or
+transaction.
+6.2.3 Forming a suspicion
+An SMR must be provided to AUSTRAC if Afterpay suspects on reasonable grounds that:
+● a Customer, an agent or beneficial owner of a Customer, or prospective Customer,
+beneficial owner or agent, is not who they claim to be; or
+● information concerning the provision or prospective provision (whether from a proposal
+or request for the Designated Service or an inquiry about whether Afterpay would be
+willing or prepared to provide it) of a Designated Service, or a payment in connection with
+a Designated Service may be:
+○ relevant to the investigation or prosecution of a person for, or evasion or
+attempted evasion of, any State, Territory or Federal taxation law, or an offence
+against a law of the Commonwealth or of a State or Territory, or may be of
+assistance to enforcement of the Proceeds of Crime Act 2002 (Cth) or regulations
+under that Act, or any State or Territory law that corresponds to the Proceeds of
+Crime Act 2002 (Cth) or regulations under that Act; or
+○ preparatory to a financing of terrorism offence, relevant to the investigation of an
+offence of financing of terrorism, preparatory to the commission of a money
+laundering offence, or relevant to the investigation or prosecution of a money
+laundering offence.
+SMRs must be related to a Designated Service of a kind that Afterpay ordinarily provides and must
+be lodged even if the Designated Service does not proceed.
+By approving this AML/CTF Program, the Afterpay Board confirm and approve the agreed protocol
+regarding authorisation to form a suspicion on behalf of Afterpay:
+● only Authorised Persons may form a suspicion and/or file a SMR on behalf of Afterpay;
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 22
+
+Confidential
+● these individuals have the expertise and have received relevant training required to
+perform this role.
+The Customer Due Diligence and Reporting SOP contains the process by which Afterpay reviews
+information, forms suspicions and reports to AUSTRAC. This process is summarised below.
+● if an Authorised Person forms a suspicion on reasonable grounds that relates to the
+financing of terrorism as referred to in section 41 of the AML/CTF Act, Afterpay will submit
+a SMR to the AUSTRAC CEO within 24 hours of forming the suspicion.
+● if an Authorised Person forms a suspicion on reasonable grounds that relates to any
+matter referred to in section 41 of the AML/CTF Act other than the financing of terrorism,
+Afterpay will submit a SMR to the AUSTRAC CEO within 3 business days of forming the
+suspicion.
+● appropriate systems, controls and procedures have been designed to ensure Afterpay
+complies with its obligations in relation to SMRs. These include:
+○ Training - all Afterpay Employees will receive appropriate training in accordance
+with Section 8.1, which includes training designed to ensure Afterpay does not
+warn or ‘tip off’ Customers or others in relation to whom a suspicion has arisen or a
+SMR has been lodged, and training to enable them to identify unusual activity that
+may warrant a UAR; and
+○ Authorisation - only Authorised Persons are authorised to form a suspicion on
+reasonable grounds and submit SMRs to AUSTRAC. These persons receive
+appropriate training to identify whether activity in a UAR may give rise to a
+suspicion on reasonable grounds and to complete SMRs in accordance with the
+AML/CTF Laws.
+6.2.4 Tipping off
+Under section 123(1) of the AML/CTF Act it is an offence for Afterpay and its employees to disclose
+information covered by section 123(2) to any other person except an AUSTRAC entrusted person,
+where the disclosure could reasonably be expected to prejudice an investigation of an offence
+against a a law of the Commonwealth or of a State and Territory, or an investigation for the purposes
+of the Proceeds of Crime Act or corresponding law of a state or territory.
+Afterpay has the following protocols in place that reduce the risk of tipping off:
+● only an Authorised Person may form a suspicion or file a SMR;
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 23
+
+Confidential
+● information regarding SMRs is not readily accessible on the Customer’s file and is only to
+be provided to persons within Afterpay, other than the AML/CTF Compliance Officer or
+delegate, Authorised Persons and the Regulatory Counsel, where it is determined that
+they need to know that information to fulfil the requirements of their role;
+● no information in respect of a notice issued under section 49 or section 49B of the
+AML/CTF Act is to be provided to any third party unless Afterpay’s Regulatory Counsel has
+first confirmed that it is allowed under section 123 the AML/CTF Act; and
+● all Employees receive training regarding tipping off.
+6.3 Threshold transactions
+Section 43 of the AML/CTF Act requires Reporting Entities that provide threshold transactions to
+lodge a TTR (Transaction Threshold Report) with AUSTRAC within 10 business days of the transaction
+taking place. Threshold transactions are transactions involving the movement of physical currency or
+e-currency to the value of AUD$ 10,000 or more (or the foreign currency equivalent). (Note: this may
+constitute one or more related transactions). They do not include transactions conducted by way of
+electronic bank transfer.
+Afterpay does not provide cash loans or deposit loan values directly to Consumers. Instead, it makes
+a payment to the relevant Merchant by way of electronic transfer in exchange for the Consumer
+receiving the goods.
+Afterpay does not deal in physical currency so it does not currently need to file TTRs.
+6.4 International funds transfer instructions
+Section 45 of the AML/CTF Act requires Reporting Entities that send or receive IFTIs to lodge an IFTI
+report with AUSTRAC within 10 business days of the instruction being sent or received (as
+appropriate).
+Any instruction Afterpay sends or receives as the last point of transmission out of Australia, or the
+first point into Australia, which involves the transfer of money or property must be reported to
+AUSTRAC by an IFTI report.
+Afterpay does not deal with IFTIs so it does not currently need to file an IFTI report.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 24
+
+Confidential
+6.5 Changes to enrolment details
+Afterpay will advise the AUSTRAC CEO of any changes to Afterpay's enrolment details which were
+provided to AUSTRAC when it enrolled as a reporting entity. This includes updating Afterpay’s annual
+earnings where earnings of A$ 100 million or more occur.
+The AML/CTF Compliance Officer will notify the AUSTRAC CEO of any changes within 14 days of the
+change arising.
+7. Ongoing Customer Due Diligence
+Afterpay has the obligation to monitor its customers on an ongoing basis, which is known as
+Ongoing Customer Due Diligence (OCDD). The aim of OCDD is to identify, mitigate and manage the
+risk that Afterpay’s products and services may be used to facilitate money laundering or terrorism
+financing.
+The OCDD program encompasses the following:
+● the establishment of a process to review and update KYC information (known as the KYC
+refresh program);
+● the establishment of a transaction monitoring program;
+● the establishment of an enhanced customer due diligence program (ECDD).
+7.1 KYC refresh
+Afterpay undertakes KYC Refresh to ensure it keeps, updates and reviews the documents, data and
+information collected under the applicable Customer identification procedures contained in its Part
+B.
+Afterpay has implemented an automated process that prompts Consumers to confirm that their KYC
+information is up to date. The frequency of KYC Refresh is determined by the Customer’s Risk Rating.
+Low risk customers require a KYC refresh every three years, while medium risk customers have a
+refresh frequency of every two years. High risk customers undergo a KYC refresh annually.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 25
+
+Confidential
+Afterpay also has a process whereby KYC information will be updated when Afterpay becomes aware
+of a change to the Consumer’s profile or information based on triggers throughout the relationships
+with the Consumer. Where KYC information is determined to require updating, further steps may be
+undertaken to re-verify the Customer identification information against reliable and independent
+electronic databases(s) and/or manual ID processes.
+7.2 Transaction monitoring program
+The AML/CTF Rules require that this Part A include a Transaction Monitoring Program which
+includes appropriate risk-based systems and controls to monitor the transactions of Customers with
+regard to complex, unusual large transactions and unusual patterns of transactions, which have no
+apparent economic or visible lawful purpose. Afterpay carries out risk-based manual and automated
+transaction monitoring processes as set out in the Customer Due Diligence and Reporting SOP. A
+high-level summary of this process is set out below.
+The Transaction Monitoring Program has been formulated by reference to Afterpay’s identification of
+ML/TF Risks and has the purpose of identifying, having regard to those ML/TF Risks, any transaction
+that appears to be suspicious as described in Section 6.2.3 above.
+7.2.1 Automated transaction monitoring system
+Afterpay applies an Automated Transaction Monitoring system, which runs a set of rules over all
+Consumer and Merchant transactions on the Afterpay platform, and generates an alert if rule criteria
+are met. This system is designed to detect behaviours that may indicate increased money
+laundering and/or terrorism financing activities. The targeted rules run against customer transaction
+data and populate a set of queues with alerts to review. The Automated Transaction Monitoring
+system is governed by Block’s Model Governance Policy, and changes to the Automated Transaction
+Monitoring system follow Block’s Model Change Management Procedure.
+The Automated Transaction Monitoring rules are documented in Afterpay’s ANZ Transaction
+Monitoring Rulebook’ and are as follows:
+● in store sale made outside of regular business hours;
+● high percentage of a Merchant’s customers are new customers;
+● high percentage of a Consumers’ purchases are made with same Merchant;
+● high percentage of a Merchant’s customers’ orders have been repaid early;
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 26
+
+Confidential
+● delivery address is in a high risk country;
+● large value of refunds;
+● account takeover;
+● unusual Merchant activity, including outlier transactions, relative to the merchant’s
+category average;
+● multiple purchases of the same item from the same Merchant;
+● collusion between Merchant and Consumer customers, and
+● high proportion of a consumer’s orders are repaid early.
+Afterpay also assesses Consumer thresholds limits at every individual transaction a Consumer makes
+as a preventative control to minimise fraud risk and associated ML/TF risk as set out in Afterpay’s
+Global Customer Risk Policy.
+Further detail about the Automated Transaction Monitoring System, the rules currently
+implemented and the steps taken by Afterpay once an alert is generated, is contained in the
+Customer Due Diligence and Reporting SOP.
+7.2.2 Manual transaction monitoring
+Afterpay’s manual transaction monitoring process is comprised of Employees who are trained to
+detect unusual activity, being:
+● complex or unusually large transactions;
+● transactions that exceed Afterpay’s internal thresholds and triggers;
+● changes in account balances or levels of financial activity that are inconsistent with the
+size of past account balances or expected activity;
+● irregular or unusual patterns of account activity that are characteristic of money
+laundering or terrorism financing or otherwise have no apparent economic or visible
+purpose;
+● significant number or unusual pattern of Consumer complaints for a particular Merchant;
+● where there is a concern that a Consumer is not who they claim to be; or
+● where Afterpay has received contact through law enforcement or other government
+agencies about a particular Consumer, transaction or service.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 27
+
+Confidential
+This unusual activity is raised as UARs, which are reviewed by analysts, using a set of factors to
+determine whether activity in an account is potentially suspicious and warrants the lodgement of a
+SMR. The factors are a set of common red flag indicators based on typologies and best practices.
+More information on how Afterpay undertakes automated and manual transaction monitoring, and
+the outcomes when unusual behaviour is detected, is included in the Consumer Due Diligence &
+Reporting SOP.
+7.3 Enhanced customer due diligence
+Afterpay will carry out ECDD where:
+● it determines that the Consumer represents a high ML/TF risk to Afterpay by providing
+the Designated Service;
+● a high risk or foreign PEP is identified, including an existing Consumer who is, or who has
+become a foreign PEP;
+● a suspicion has arisen for the purposes of section 41 of the AML/CTF Act;
+● it is entering into (or proposing to enter into) a transaction and a party to that transaction
+is physically present in, or a corporation incorporated in, a prescribed foreign country; or
+● it is deemed appropriate in any other situation by our AML/CTF Compliance Officer or
+delegate.
+When conducting ECDD Afterpay must undertake measures appropriate to the particular behaviour
+or Customer type that is being investigated, including a range of the following measures:
+a. clarifying or updating KYC information information already held;
+b. collecting additional KYC information information, and taking steps to verify this
+information where considered appropriate;
+c. verifying or re-verifying KYC information;
+d. undertaking more detailed analysis of the Consumer’s KYC information information, such
+as through collecting employment details, details of how declared assets were
+accumulated, the Consumer’s source of wealth and/or source of funds;
+e. clarifying the nature of the Consumer’s ongoing business with us;
+f. undertaking a detailed analysis of the Consumer’s transactions, with reference to the
+purpose, reason for, or nature of specific transactions, and the expected nature and level
+of transaction behaviour including into the future;
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 28
+
+Confidential
+g. seeking Senior Management approval to continue a business relationship, or to decide
+whether a specific transaction should be processed, or whether the Designated Service
+should continue to be provided to the Consumer;
+h. determining to freeze, or determining not to lift a freeze of, the Consumer’s account, or
+determining to terminate the Customer relationship.
+In the case of high risk or foreign PEPs, it is mandatory for Afterpay’s ECDD processes to include
+steps (d) and (g) above.
+In undertaking the ECDD steps listed above, a reviewer may determine that a further suspicion may
+have arisen in which case the information will be escalated in accordance with the SMR process
+outlined in 6.2.3.
+7.3.2 Risk-based KYC and further KYC Protocols
+It is a requirement of the AML/CTF Rules that this Part A includes the risk-based systems and
+controls that Afterpay uses to enable it to determine in what circumstances further KYC information
+should be collected or verified in respect of Customers, to enable the review and update of KYC
+information information for ongoing customer due diligence purposes.
+Afterpay employs the risk-based systems and controls set out below to enable it to determine in
+what circumstances further KYC information should be collected or verified in respect of Consumers.
+This may apply at the time of on-boarding, or at a later date as a result of Afterpay's ongoing
+customer due diligence. These situations include but are not limited to:
+● Where ECDD has been triggered as set out in Section 7.3 above. In this case, Afterpay
+follows the ECDD protocols and determines, as part of that process, whether there is a
+need to collect/verify additional KYC information, or verify/update existing KYC
+information; or
+● In situations deemed appropriate by the AML/CTF Compliance Officer or delegate.
+If Afterpay is not reasonably confident that a Consumer is who they claim to be, or a material
+discrepancy arises in the course of verifying information collected in accordance with Part B of this
+AML/CTF Program from a Consumer, Afterpay may take any of the following actions as required to be
+reasonably satisfied that the Consumer is who they claim to be:
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 29
+
+Confidential
+● seek additional KYC information or clarification from or about the Consumer;
+● undertake further verification of the additional KYC information or clarification received
+from the Consumer; or
+● elect to not engage in a Customer relationship, or to discontinue the provision of services
+to a Consumer based on the noted discrepancy.
+A discrepancy in Customer data may also trigger a suspicious matter reporting obligation which will
+be managed in accordance with Section 6.2.
+7.3.2 Suspension or termination of customer relationship
+Afterpay may determine that it is appropriate to temporarily suspend access to a Consumer’s
+account to mitigate ML/TF risks or that it is no longer acceptable to continue a relationship with a
+particular Consumer due to the unacceptable levels of ML/TF risks, and therefore will terminate the
+relationship.
+Likewise, Afterpay may determine that providing its product to Consumers in respect of a particular
+Merchant is no longer acceptable and that it is appropriate to temporarily or permanently suspend
+its relationship with, or the provision of the Afterpay product in respect of, that Merchant.
+If this is the case, the AML/CTF Compliance Officer / or their delegate will follow the processes
+outlined in Afterpay's Customer Due Diligence and Reporting SOP and Consumer and Merchant Exit
+Instruction, while also ensuring that the tipping off offence is not committed under the AML/CTF Act
+8. Employee Training and Due Diligence Program
+8.1 AML/CTF risk awareness training
+Every Employee must receive training on AML/CTF obligations and risks.
+Afterpay will ensure all Employees are aware of those processes and procedures that are relevant to
+the work they carry out. Training will be in the form of modules delivered in an online environment
+or face-to-face.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 30
+
+Confidential
+This training content will be reviewed and updated periodically by the AML/CTF Compliance Officer
+to ensure it remains current while reflecting any changes in the ML/TF Risks faced by Afterpay. It will
+also be updated if there are any relevant updates to the business or legislative obligations.
+A record of training is maintained for all Employees. Further information relating to the training
+processes and control is documented in Block’s Compliance Training Program Standard.2
+8.1.1 Training
+Training relating to AML/CTF obligations and risks is mandatory for all Employees at the onboarding
+stage.
+This training covers an introduction to ML/TF definitions, and explains certain AML/CTF obligations
+(e.g. customer due diligence, record keeping, etc). The employee is also made aware of their role and
+responsibilities in the company’s commitment to identifying, mitigating, managing and reporting of
+money laundering and terrorism financing.
+This mandatory training is allocated to all new employees, however where appropriate, more specific
+training relevant to ML/TF Risk will be provided to Employees who:
+● are in a position which has been assessed as having a greater exposure to ML/TF Risk. (e.g.
+higher risk roles) and the overall Business Unit Risk Assessment is deemed high;
+●
+● review UARs and/or are authorised to lodge SMRs to AUSTRAC; or
+● oversee or implement this AML/CTF Program.
+Employees who are promoted or moved into positions which may have a greater exposure to ML/TF
+Risk may also receive additional training where appropriate.
+8.1.2 Regular refresher training
+Afterpay will roll out annual refresher AML/CTF training for all Employees.
+2 This can be found at go/training.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 31
+
+Confidential
+8.1.3 Board training
+In addition to the AML/CTF training programs described above, all members of the Afterpay Board
+will receive separate dedicated Board AML/CTF awareness training on an annual basis and otherwise
+upon the request of any Board member.
+8.2 Employee due diligence
+As part of Block’s global approach to hiring, all employment offers are contingent upon satisfactory
+employee due diligence checks, using a risk based approach.
+The Employee Due Diligence SOP outlines the risk based approach, systems and controls that
+determine how Afterpay screens prospective and existing Employees depending on the role they
+perform.
+8.3 Employee management
+Any Employee who fails, with reasonable excuse, to comply with any system, control or procedure
+established under this AML/CTF Program, will be required to undertake AML/CTF compliance
+training (or an AML/CTF compliance training refresher).
+Any Employee who fails, without reasonable excuse, to comply with any system, control or procedure
+established under this AML/CTF Program, will be subject to disciplinary action in accordance with
+Block’s Employee Handbook. Afterpay’s People Team will be involved in this process.
+Afterpay will maintain a register of all Employee breaches and will consult this when
+determining/recommending the disciplinary action that should be applied to an Employee who fails,
+without reasonable excuse, to comply with any system, control or procedure established under this
+AML/CTF Program.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 32
+
+Confidential
+9. Risk Assessment
+9.1 Overview
+As a Reporting Entity, Afterpay has identified a number of key factors that it must consider when
+assessing its ML/TF Risk. The factors include, but are not limited to:
+● Customer risk
+● Product and service risk
+● Distribution Channel risk
+● Geographic risk
+● Organisational risk
+● Emerging risk
+● Sanctions risk
+It provides results of the Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) and
+Sanctions risk assessment conducted by Block, Inc., in conjunction with Afterpay, covering the
+timeframe from January 2024 to December 2024. It has assessed its activities based on the ML/TF
+Risk factors identified as relevant to the Designated Services, including the factors listed above. The
+results will be used to identify control gaps, areas of weakness and opportunities for improvement of
+Afterpay’s ML/TF and Sanctions risk control framework. The Risk Assessment is required to be
+approved by the Afterpay Board.
+9.2 Summary of risk assessment result
+Afterpay has assessed that its overall inherent risk across its Australian business is Medium. After
+identifying the relevant controls needed to effectively mitigate its ML/TF risk, Afterpay concluded
+that its residual ML/TF risk is also Medium .
+This is summarised in the table below. Further detailed information on the methodology and results,
+which are accompanied by a written report, can be found in the Risk Assessment report.
+ML/TF Assessment Results
+Inherent Risk Degree of Mitigation Residual Risk
+Medium Partially Mitigated Moderate
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 33
+
+Confidential
+Sanctions Assessment Results
+Inherent Risk Degree of Mitigation Residual Risk
+Medium Partially Mitigated Moderate
+9.2 Ongoing risk assessment
+Afterpay acknowledges that as its business develops and grows, the ML/TF risks it is exposed to may
+change. Therefore, the Risk Assessment undergoes periodic but not less than an annual review to
+account for changes in Afterpay’s customers, designated services and how they’re provided, and
+geographies. The AML/CTF Compliance Officer will:
+● review the risk assessment on at least an annual basis as per Block’s Global AML &
+Sanctions Risk Assessment Framework;
+● undertake regular risk identification and assessments of our activities to identify any new
+material ML/TF Risk;
+● review any material changes in the money laundering or terrorism financing risk profile of
+the business following a Trigger Event (as defined below); and
+● review the AML/CTF Program and develop new processes and procedures that are
+deemed necessary as a result of any change in our ML/TF Risk profile.
+Trigger Events may include but are not limited to:
+● an internal or external independent review of the AML/CTF Program;
+● the purchase or commencement of a new business;
+● a change in our Merchant or Consumer base leading to a change in Afterpay’s ML/TF Risk;
+● a material change in outsourcing arrangements;
+● any changes in legislation that have a material effect on the AML/CTF Program;
+● any AUSTRAC Feedback;
+● notification of a material breach of the AML/CTF Act or Rules;
+● internal trend analysis;
+● Where the ongoing customer due diligence process or SMRs lodged with AUSTRAC
+indicate patterns of suspected criminal activity relevant to the Designated Services which
+differ from that previously identified; and
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 34
+
+Confidential
+● the proposed introduction of new Designated Service, delivery channels, new or
+developing technologies for the provision of a Designated Services or any proposed
+changes to existing products or Designated Services, business systems and processes, or
+any proposed changes arising in the nature of the business relationship Afterpay has with
+its Customers.
+●
+Afterpay will:
+●
+● complete the Block Product ML/TF Risk Assessment;
+● ensure any amendments to the AML/CTF Program Part A are made in a timely manner;
+● ensure the AML/CTF Compliance Officer has approved the proposed changes from a
+ML/TF compliance perspective; and
+● ensure that any material updates to the risk assessment have been approved by the
+relevant Board and/or Senior Management.
+10. Third Parties
+10.1 External Service Providers or Vendors
+Where Afterpay appoints an external service provider or vendor to undertake an AML/CTF obligation
+on behalf of Afterpay or assist it with meeting its AML/CTF obligations, Afterpay will remain
+responsible for meeting its obligations.
+Afterpay will conduct initial due diligence before it engages an external service provider. Further risk
+management practices and controls related to all stages of the external service provider relationship
+life-cycle are documented in Block’s Third Party Risk Management Policy.
+10.2 Intra-group outsourcing to Block
+Afterpay may experience seasonal fluctuations in business volume, particularly associated with key
+sales events such as Afterpay Day, Black Friday/Cyber Monday or Christmas Holiday season, which
+can drive higher alert volumes. To manage this type of volume increase, Afterpay may outsource all
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 35
+
+Confidential
+of its AML/CTF and screening operational activity3 to authorised employees of Block, who will be
+granted access to Afterpay’s systems for this purpose. The operational AML/CTF and screening
+activities are documented in the Outsourcing Charter.
+Afterpay oversees these activities through the use of:
+● Service Level Agreements,
+● Daily monitoring of SLA metrics,
+● Quality Assurance,
+● Regular engagement and feedback,
+● Assurance testing conducted by Block’s monitoring and testing function, and
+● The Outsourcing Charter.
+In line with section 8 of this Program, Block’s authorised Employees performing the operational
+activities are:
+● Appropriately trained on
+○ the ML/TF risks relevant to Afterpay;
+○ Afterpay’s workflows and procedures as set out in the Outsourcing Charter;
+● Subject to satisfactory employee due diligence checks.
+11. Sanctions
+Economic sanctions are restrictions that the Australian Government and/or the United Nations
+Security Council imposes on activities relating to countries, goods and services, people or entities.
+The Department of Foreign Affairs and Trade administers the United Nations Act, the Autonomous
+Act and their regulations. The Australian Sanctions Office that sits within the Department of Foreign
+Affairs and Trade is the Australian Government’s sanctions regulator.
+As part of Block, Afterpay adheres to Block’s Global Sanctions Compliance Policy to ensure
+compliance with sanctions administered by the Department of Foreign Affairs , the United Nations
+Security Council, and other regulatory agencies such as the U.S. Department of the Treasury’s Office
+of Foreign Assets Control.
+3 For the avoidance of any doubt, this does not include Suspicious Matter Reporting to AUSTRAC.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 36
+
+Confidential
+12. Document Details
+12.1 Document Owner
+This document is owned by the AML/CTF Compliance Officer or their designee. For any questions
+arising from this AML/CTF Program, please contact the AML/CTF Compliance Officer.
+12.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with this Section 5 of this Program.
+12.3 Exceptions
+Exceptions to Part A of this Program are not permitted.
+12.4 Related Documents
+Related Programs Afterpay Australia Pty Ltd | Anti Money Laundering and
+Counter Terrorism Financing Program Part B
+12.5 Revision & Approval History
+Version Approver Approval Type Reason for Issue Date
+3.0 Afterpay Board Scheduled… Program enhancement and 31 July 2019
+annual review
+4.0 Afterpay Board Material C… Program enhancement 13 September 2019
+5.0 Afterpay Board Material C… Removal of designated service 22 November 2019
+– Item 8 and further updates
+6.0 Afterpay Board Material C… Update amended Afterpay 26 February 2020
+business names; allowing
+Foreign & HR PEPs, naming
+conventions;
+7.0 Afterpay Board Material C… Change of AML/CTF 12 August 2020
+Compliance Officer, Updates to
+reflect amended consumer
+limits; other minor
+administrative updates.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 37
+
+Confidential
+7.0 N/A Immateria… new template only 9 September 2020
+8.0 Afterpay Board Material C… Introduction of new designated 22 March 2021
+service # 1 and # 3 for virtual
+cards tied to instore payments;
+# 54 (Afterpay Money);
+Inclusion of summary of
+ApplePay and XBT ; other minor
+changes to bring Part A up to
+date.
+9.0 Afterpay Board Material C… Changes to employee due 17 December 2021
+diligence, new references to
+Global ML/TF and Sanctions
+Risk Assessment and minor
+changes to bring document up
+to date.
+10.0 Afterpay Board Material C… Changes arising from 28 June 2022
+acquisition of Afterpay by Block
+Inc.
+Removal of local summary Risk
+Assessment, to highlight
+adoption of Global ML/TF and
+Sanctions Risk Assessment,
+removal of requirements for
+internal review, updates to
+approval process, and changes
+to employee training and due
+diligence process to align with
+Block.
+11.0 Afterpay Board Material C… Changes arising from the 09 December 2022
+decommissioning of the
+Afterpay Money product
+(designated service 54).
+11.1 Afterpay Board Material C… Change of AML/CTF 30 March 2023
+Compliance Officer. Inclusion of
+the Afterpay Plus Card product.
+11.1 N/A Immateria… New template only 31 August 2023
+11.2 AML/CTF Material C… Adoption of the Afterpay 5 September 2023
+Compliance Australia 2023 ML/TF and
+Officer Sanctions Risk Assessment.
+Inclusion of the Afterpay Single
+Afterpay Board Use Payments (SUP) product. 28 September
+Minor administrative changes 2023
+to bring the program up to
+date.
+11.3 AML/CTF Material C… Adoption of the Afterpay 27 August 2024
+Compliance Australia 2024 ML/TF and
+Officer Sanctions Risk Assessment.
+Minor administrative changes to
+bring the program up to date.
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 38
+
+Confidential
+Afterpay Board 18 September 2024
+11.4 AML/CTF Material C… Program enhancement and 11 February 2025
+Compliance update to systems-based KYC
+Officer Refresh.
+Martina Kann Expansion of third parties
+section to allow for intra-group
+Afterpay Board outsourcing to Block Inc. 31 March 2025
+Minor administrative changes to
+bring the program up to date,
+including regulatory reform of
+the tipping off offence
+framework.
+11.5 AML/CTF Immateria… Expansion of intra-group 17 May 2025
+Compliance outsourcing to Block Inc., to
+Officer allow for employees based
+Martina Kann outside of the US.
+Removal of references to Single
+Use Payments (SUP) due to
+decommissioning of SUP.
+11.6 AML/CTF Immateria… Minor administrative changes to 26 Aug 2025
+Compliance clarify language.
+Officer
+Martina Kann
+11.7 AML/CTF Material C… Adoption of the Afterpay Date
+Compliance Australia 2025 ML/TF and
+Officer Sanctions Risk Assessment.
+Martina Kann Minor administrative changes to
+bring the program up to date.
+Afterpay Board Addition of a Sanctions section 16 December 2025
+to clarify adherence to Block’s
+Sanctions Framework.
+11.6 Document Details
+Business Afterpay
+Scope Regional (Australia)
+Compliance Domain Financial Crimes
+Document Owner AML/CTF Compliance Officer
+Last Approval Date 16 December 2025
+Effective Date 16 December 2025
+Approved By AML/CTF Compliance Officer
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 39
+
+Confidential
+Document Review Schedule Annually
+AML/CTF Compliance Program Australia | Afterpay Australia Pty Ltd 40

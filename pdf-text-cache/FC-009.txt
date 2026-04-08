@@ -1,0 +1,718 @@
+Global Sanctions
+Compliance Program
+Standard
+Block
+February 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Global Sanctions Compliance Program Standard | Block
+2
+
+Confidential
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 5
+1. Introduction 8
+2. Purpose 8
+3. Scope 8
+4. Standard Requirements 8
+4.1 Management Commitment 8
+4.2 Internal Controls 9
+4.2.1 Employee Screening 9
+4.2.2 External Workforce Screening 9
+4.2.3 Vendor Screening 10
+4.2.4 Customer Screening 10
+4.2.5 Transaction Screening 11
+4.2.6 Geoblocking Controls 11
+4.2.7 Partner Due Diligence & Oversight 12
+4.2.8 Watchlist Management 13
+4.2.9 Procedures and Guidance 13
+4.3 Issue Management 13
+4.4 Risk Assessment 14
+4.5 Independent Testing & Review 15
+4.6 Systems 15
+4.7 Regulatory Engagement 16
+4.7.1 Regulatory Reporting 16
+4.7.2 Administrative Subpoenas 16
+5. Document Management 16
+5.1 Document Owner 16
+5.2 Review and Approval 17
+6. Training 17
+6.2 Mandatory Enterprise-Wide Training 17
+6.3 Role-Specific Training 17
+6.4 Board Training 18
+7. Monitoring and Reporting 18
+8. Exceptions 18
+9. Conflicts of Law 19
+Global Sanctions Compliance Program Standard | Block
+3
+
+Confidential
+10. Record Retention 19
+11. Related Documentation or References 19
+12. Revision and Approval History 20
+13. Document Details 21
+Appendices 23
+Appendix A: Consolidated Global Sanctions Minimum Standards 23
+Screening 23
+Geoblocking Controls 24
+Oversight 25
+Bridger System Settings 25
+Appendix B: Prohibited TLDs 26
+Prohibited TLDs 26
+Global Sanctions Compliance Program Standard | Block
+4
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+Bank The first four (4) to six (6) numbers on a payment card. BINs identify the
+Identification financial institution that issues the card.
+Number (“BIN”)
+Also referred to as an Interbank Card Association (“ICA”) number.
+Computer Block, Inc.’s (“Block” or the “Company”) secondary third party vendor
+Services, Inc. used to facilitate sanctions watchlist screening.
+(“CSI”)
+Customers Parties with direct relationships with Block who use financial
+products/services offered by Block.
+Economic Restrictive measures imposed by governments or international bodies to
+Sanctions restrict or prohibit trade or economic activities with a specific country,
+(“Sanctions”) entity, or individual in order to accomplish foreign policy and national
+security goals.
+External Worker A temporary worker, vendor worker, or independent contractor who is
+engaged to assist with specific projects or services with Block.
+LexisNexis Bridger Block’s primary third party vendor used to facilitate sanctions watchlist
+(“Bridger”) screening.
+Related Parties Individuals or entities who are related to or associated with a Block
+Customer or a Block Customer's account and/or who have access to or
+some level of control over the Customer's products, services, relationship
+with Block and/or access to direct or move funds. Examples include, but
+are not limited to, activators (aka sign up persons), beneficial owners,
+control persons, and directors.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired
+by the Company who supports the operations covered by this document.
+Roles & Responsibilities
+Role Responsibility
+Block Chief The CCO will provide assistance and support in implementing this
+Compliance Standard across the organization and shall be responsible for
+Global Sanctions Compliance Program Standard | Block
+5
+
+Confidential
+Officer (“CCO”) establishing appropriate practices designed to ensure that Company
+operations reflect the Company’s commitment to compliance and that
+all employees are aware of that commitment and their individual
+responsibility.
+The CCO is responsible for monitoring and reporting on compliance with
+this Standard. The CCO may delegate to others the authority to adopt,
+develop, and implement procedures and reporting that support this
+Standard.
+Board of Directors The Board of Directors of Block is responsible for fostering a culture of
+compliance within the organization.
+Business Business Sanctions teams support the operations of their respective
+Sanctions Teams businesses, including:
+● Reviewing and dispositioning sanctions alerts;
+● Maintaining operational metrics;
+● Implementing and maintaining business specific controls; and
+● Providing role-specific training to new hires and on an as-needed
+basis.
+Compliance CETis responsible for the implementation and maintenance of certain
+Engineering and sanctions controls, including the annual tuning of Block’s watchlist
+Technology Team screening system.
+(“CET”)
+Compliance Leads Compliance Leads are responsible for oversight of their respective
+compliance programs, including:
+● Supporting the annual sanctions list review;
+● Staying abreast of local regulatory changes; and
+● Ensuring local record retention requirements are satisfied.
+Global Head of The Global Head of Sanctions is responsible for oversight of the
+Sanctions day-to-day operation of the global sanctions compliance program,
+including:
+● Providing updates on the health and status of the global
+sanctions compliance program to senior management;
+● Setting Policy requirements;
+● Approving sanctions screening configurations; and
+● Approving policy exceptions.
+Global Policy and GPG is responsible for establishing and managing the compliance policy
+Governance Team framework and governance, the retention of training records, the
+(“GPG”) development of the Anti-Money Laundering & Countering the Financing
+of Terrorism (“AML/CFT”) training curriculum, conducting an annual
+global sanctions risk assessment, performing risk-based testing of
+Global Sanctions Compliance Program Standard | Block
+6
+
+Confidential
+compliance controls and processes, and managing internal and external
+reviews of the global sanctions compliance program.
+Global Sanctions GSC is responsible for:
+Compliance Team ● Updating and maintaining sanctions policy related
+(“GSC”) documentation;
+● Performing biweekly list validation reviews;
+● Performing annual watchlist sufficiency reviews;
+● Reviewing and advising on escalations from the Businesses;;
+● Reviewing new products and recommending controls;
+● Providing quarterly training to the Business Sanctions teams;
+● Providing operational support where not otherwise available;
+● Sanctions regulatory reporting; and
+● Facilitating the Sanctions Governance Forum.
+Legal Block’s legal counsel provides interpretive advice and counsel regarding
+the applicability and applications of the requirements of the Global
+Sanctions Compliance Policy and this Standard to the Company’s
+business and operational activities.
+People Ops Provides GSC with a monthly report of Block’s employees.
+Product Product Compliance is responsible for engaging Business Sanctions
+Compliance teams/GSC on new product compliance reviews.
+Global Sanctions Compliance Program Standard | Block
+7
+
+Confidential
+1. Introduction
+This Global Sanctions Compliance Program Standard (“Standard”) outlines Block’s approach to
+complying with applicable sanctions laws and regulations in the jurisdictions in which it operates.
+This Standard is intended to supplement Block’s Global Sanctions Compliance Policy (“Policy”). The
+Global Head of Sanctions is responsible for management of this Standard.
+2. Purpose
+Block conducts business in compliance with all applicable laws and regulations. The purpose of this
+Standard is to further Block’s global sanctions compliance program by establishing a framework and
+standards for ensuring compliance with applicable sanctions laws and regulations. This Standard
+consists of the following elements: (1) management commitment; (2) internal controls; (3) risk
+assessment; (4) testing and auditing; and (5) training, in addition to other key components of Block’s
+sanctions compliance program.
+This Standard is also designed to satisfy and operationalize the Policy, which establishes Block’s
+requirements for complying with all applicable sanctions laws and regulations. This Standard is
+intended to be holistic and sustainable, providing a reasonable level of assurance that Block is
+effectively managing economic sanctions risks and related exposure.
+3. Scope
+This Standard is established by Block and is applicable globally across all Block business lines,
+subsidiaries, and jurisdictions.
+4. Standard Requirements
+4.1 Management Commitment
+Senior management is committed to robust oversight of Block’s global sanctions compliance
+program and Block’s compliance with all applicable sanctions laws and regulations of the
+Global Sanctions Compliance Program Standard | Block
+8
+
+Confidential
+jurisdictions in which Block operates. The Global Head of Sanctions oversees the day-to-day
+operation of the global sanctions compliance program and provides periodic updates on its health
+and status to relevant senior management, including the GPG Lead and the CCO. Any material and
+urgent matters related to the global sanctions compliance program are reported on an ad hoc basis
+to senior management as appropriate and in a timely manner.
+4.2 Internal Controls
+Block implements risk-based internal controls to comply with the Policy and prevent the use of
+Block’s products and services in violation of applicable sanctions laws and regulations. Block deploys
+a set of key internal controls for sanctions compliance, including employee screening, vendor
+screening, customer screening, transaction screening, and geoblocking controls. Please refer to
+Appendix A for a consolidated list of Block’s Global Sanctions Minimum Standards.
+4.2.1 Employee Screening
+In order to minimize Block’s exposure to potential sanctions risks from Block’s employees, Block
+mandates all employees must undergo sanctions screening prior to the commencement of their
+employment with Block. Additionally, all Block employees are subject to a monthly sanctions
+compliance review throughout the course of their employment with Block. Appropriate actions,
+including termination, are taken if any true sanctions matches are identified.
+4.2.2 External Workforce Screening
+External workers must clear background checks in their country of hire before they begin working or
+receive access to Block systems, buildings or information.1
+In addition, external workers are subject to a monthly sanctions compliance review throughout the
+course of their employment with Block. Appropriate actions, including termination, are taken if any
+true sanctions matches are identified.
+1 Background checks are not required for Independent contractors when Independent contractors
+do not receive Block systems access, or IT equipment.
+Global Sanctions Compliance Program Standard | Block
+9
+
+Confidential
+4.2.3 Vendor Screening
+Block mandates all active vendors must undergo sanctions screening prior to the outset of the
+vendor’s engagement with Block. In addition, vendors must be subject to ongoing sanctions
+screening on a monthly basis throughout the engagement with Block until the time they are
+offboarded or terminated. Appropriate actions, including termination of the contract with the
+vendors, are taken if the screening reveals any true sanctions hits.
+4.2.4 Customer Screening
+Block mandates Customers must undergo sanctions screening upon onboarding and on an
+ongoing daily basis2 throughout the course of their relationship with Block. Customers should not be
+allowed to transact until initial sanctions screening is completed and any alerts are cleared.3
+● For Customers onboarded as Individuals, screening is conducted on:
+○ The legal name of the customer; and
+○ The customer’s physical address, where collected.
+● For Customers onboarded as Entities, screening is conducted on:
+○ The legal name of the Business
+○ The Business trading name or “Doing Business As” (“DBA”) name, if applicable;
+○ The Business address, where collected.
+○ The legal name of the activator (sign-up) individual;
+○ The physical address of the activator individual, where collected;
+○ The legal name of any additional Related Parties obtained during onboarding and
+at any point during the Customer relationship; and
+○ The physical address of any additional Related Parties obtained during onboarding
+and at any point during the Customer relationship.
+When potential sanctions hits are identified, the sanctions hits are fully investigated and
+dispositioned by the Business Sanctions teams and escalated to GSC where applicable. If a
+customer’s sanctions hit is confirmed to be a true match, Block will immediately take appropriate
+2 Afterpay and Clearpay rescreen consumers and merchants on a quarterly basis.
+3 Square fulfills this requirement through preactivation sanctions screening.
+Global Sanctions Compliance Program Standard | Block
+10
+
+Confidential
+actions including account freezing, blocking or rejecting transactions, account deactivation, and
+reporting to relevant regulatory authorities.
+4.2.5 Transaction Screening
+Block conducts screening on transactions determined to pose a heightened sanctions risk to the
+organization. This determination is made by the Global Head of Sanctions as part of an ad hoc review
+or in connection with the annual risk assessment or a product risk assessment. When transaction
+screening is deemed necessary, the controls are tailored to the risk of the product or service.
+Transaction screening may be performed on a real-time or post-transaction basis and may be
+conducted against a list of predefined sanctions-related keywords or sanctions watchlists.
+If a true sanctions match is identified, Block will take appropriate actions in line with the nature of
+the match. In instances where the match relates to activity prohibited under relevant laws and
+regulations, these actions may include account freezing, blocking or rejecting of transactions,
+reporting to relevant regulatory authorities, and account deactivation. In instances where the match
+relates to permitted activity under relevant laws and regulations, these actions may include warning
+the customer and/or obtaining an exception to allow the processing of the transaction.
+Block considers U.S. domestic Automated Clearing House (“ACH”) transactions to be low risk and
+does not ordinarily mandate sanctions screening of the counterparties of these transactions;
+however, keyword screening of memo lines (or equivalent fields) is industry standard and should be
+conducted. Block considers cryptocurrency and cross-border, non-payment card transactions to
+pose a heightened sanctions risk and therefore mandates real-time sanctions screening of these
+transactions.
+4.2.6 Geoblocking Controls
+Block employs a variety of geoblocking controls to prevent the use of its products and services
+within the Prohibited Jurisdictions, as defined in the Policy, and other jurisdictions determined to
+present a heightened sanctions risk:
+Global Sanctions Compliance Program Standard | Block
+11
+
+Confidential
+● IP Address: Block requires the implementation of IP blocking controls that prevent
+account creation and login from Cuba, Iran, North Korea, Syria, Russia, Ukraine,
+Afghanistan, Belarus, and/or Venezuela.
+● Top Level Domain (“TLD”)/Email Suffix: Block businesses must implement controls that
+prevent a Customer from creating an account using an email address containing a TLD
+(aka email suffix) associated with Cuba, Iran, North Korea, Syria, Russia, Ukraine,
+Afghanistan, Belarus, and/or Venezuela. Please refer to Appendix B for a list of prohibited
+TLDs.4
+● BIN/ICA: Block businesses must implement BIC/ICA controls that: 1) prevent payments
+from financial institutions subject to sanctions or located in Cuba, Iran, North Korea, Syria,
+Russia, Afghanistan, and/orBelarus; and 2) prevent Customers from linking bank accounts
+associated with financial institutions subject to sanctions or located in Cuba, Iran, North
+Korea, Syria, Russia, Afghanistan, and Belarus.
+● Device Data: Block businesses should evaluate whether and to what extent Subscriber
+Identity Module (“SIM”) card data (including country and network carrier information) is
+available for compliance purposes and assess the utility of implementing device data
+controls. To the extent the Business determines there is sufficient risk mitigation
+associated with the use of device data controls, these controls should be implemented for
+Cuba, Iran, North Korea, Syria, Russia, Ukraine, Afghanistan, Belarus, and Venezuela.5
+4.2.7 Partner Due Diligence & Oversight
+In some instances, Block may need to rely, or may make a business decision to rely, upon controls
+implemented and maintained by a third party partner. Businesses must develop, maintain, and
+document partner due diligence and maintain independent oversight to ensure the partner’s
+compliance practices satisfy the requirements outlined in the Policy and this Standard.
+4 Please note the list in this Appendix is not exhaustive. All TLDs associated with Cuba, Iran, North
+Korea, Syria, Russia, Ukraine, BelarusBelaurs, Afghanistan, and Venezuela are prohibited even if they
+do not appear on this list. If a Staff Member becomes aware of an additional TLD associated with one
+of these countries, they should escalate to GSC for inclusion in the Appendix.
+5 Cash App maintains controls that prevent account creation and logins when SIM card data is
+available.
+Global Sanctions Compliance Program Standard | Block
+12
+
+Confidential
+4.2.8 Watchlist Management
+Block maintains a watchlist management framework to ensure that the watchlists used by Block are
+maintained properly and updated in a timely manner. GSC in collaboration with Compliance Leads,
+performs an annual review of the selected external watchlists sourced from Bridger to assess
+sufficiency for managing Block’s sanctions compliance risks. GSC also performs a biweekly list
+validation exercises to ensure that key sanctions watchlists sourced from Bridger are updated in a
+timely manner to reflect the latest regulatory updates.
+Please refer to the Global Sanctions List Maintenance Procedure for more information.
+4.2.9 Procedures and Guidance
+Teams supporting Block’s global sanctions compliance program must maintain clear, easily
+accessible procedures outlining the various processes that support the day-to-day operation of the
+global sanctions compliance program as related to sanctions monitoring and investigations,
+including escalation paths, alert disposition guidelines, and quality control activities.
+GSC develops and maintains foundational guidance to support businesses in the operation of the
+global sanctions compliance program.
+4.3 Issue Management
+Sanctions issues are managed in accordance with Block’s Issue Management Standard. The Global
+Head of Sanctions serves as the Issue Approver for all self-identified sanctions issues. In the event an
+issue has a sanctions touchpoint but the Global Head of Sanctions has not been identified as the
+Issue Approver, the Global Head of Sanctions must be added as an additional stakeholder to be
+informed.
+Please refer to Block’s Issue Management Standard for more information.
+Global Sanctions Compliance Program Standard | Block
+13
+
+Confidential
+4.4 Risk Assessment
+Block is responsible for conducting AML/CFT and sanctions risk assessments in order to identify
+potential sanctions risks and to inform the design and priorities of the global sanctions compliance
+program. Block conducts Annual Risk Assessments (“ARAs”) that assess Block’s AML/CFT and
+sanctions inherent risks and control environment for all jurisdictions in which Block has extended
+formal operations and/or actively solicits customers inclusive of all the businesses applicable to that
+jurisdiction for the prior year. The results of the ARAs are presented to the Audit & Risk Committee
+(“ARC”) of the Block Board of Directors. Block also conducts Product Risk Assessments (“PRAs”) to
+assess product-specific AML/CFT and sanctions inherent risks to inform and align control activities
+related to respective products. Certain trigger events can occur that may require the ARA or existing
+PRAs to be updated or a new PRA or an ad-hoc risk assessment to be completed. These triggering
+events may include, but are not limited to, the following circumstances:
+● New products or services are offered;
+● Material changes being offered to existing products;
+● Material changes are made to legal or regulatory requirements;
+● Expansion through a merger or acquisition; and/or
+● New markets or jurisdictions are entered through Block’s U.S. operations that will
+materially impact Block’s risk profile.
+For the avoidance of doubt, risk assessments specific to products must be completed prior to:
+● New or materially changed products or services being available to Customers; and
+● Legal or regulatory requirements effective date.
+In addition to risk assessments, Block’s businesses have established other processes to assess
+compliance risks—including sanctions risk—and identify requirements for new products, services, or
+features or significant changes to products, services, or features. GSC provides foundational
+guidance for Brands to follow in sanctions-related assessments completed through their established
+processes.
+Global Sanctions Compliance Program Standard | Block
+14
+
+Confidential
+4.5 Independent Testing & Review
+As the third line of defense, Block’s Internal Audit team is required to conduct independent, periodic
+risk-based assessments on the overall adequacy and effectiveness of the global sanctions
+compliance program. This independent evaluation includes testing of compliance with all applicable
+reporting, recordkeeping, and program requirements of the relevant sanctions regulations, related
+policy, and all supporting procedures. Written reports are to summarize audit findings and
+recommend corrective actions, as needed, and are provided to ARC for review. The Board places
+accountability on senior management to address any results from the audit of the global sanctions
+compliance program in an appropriate manner and to report on the status of any remediation
+efforts on a regular basis.
+To ensure independence, Internal Audit retains a third-party audit firm to conduct an audit of Block’s
+global sanctions compliance program. The third party conducting the independent review is
+required to develop an internal control questionnaire and audit work program that describes in
+detail the testing to be performed to meet each audit objective. The questionnaire and work
+program are updated annually to reflect changes in the relevant regulations, global sanctions
+compliance program, and related procedures.
+4.6 Systems
+Block utilizes Bridger as its primary vendor for sanctions watchlist screening. Bridger is subject to
+tuning and model validation periodically and on an ad hoc basis.
+Block implements the following configurations for sanctions-related screening conducted via
+Bridger:
+● List Settings
+○ WorldCompliance Data Plus is the preferred list6
+6 Block is in the process of transitioning its existing predefined searches over to this list. This list is the
+standard for all new predefined searches and should also be used when any additional sources are
+added to an existing predefined search.
+Global Sanctions Compliance Program Standard | Block
+15
+
+Confidential
+○ Minimum Score: 927
+○ Exclude Weak AKAs
+○ Deceased State: Alive and N/A
+● General Options
+○ Scan run-together words for country names
+○ Scan address fields for country names'
+● Tolerance for Date of Birth Auto False Positive Rule: 6 months
+Please refer to go/lexis-nexisconfiguration for full details regarding Block’s current configurations In
+Bridger.
+4.7 Regulatory Engagement
+4.7.1 Regulatory Reporting
+Block complies with sanctions reporting obligations mandated by relevant regulatory authorities in
+the jurisdictions in which Block operates. Block maintains procedures outlining these regulatory
+reporting requirements. Please refer to the Global Sanctions Regulatory Reporting Procedure for
+more information.
+4.7.2 Administrative Subpoenas
+In the event that Block or any of its subsidiaries receives a subpoena from a government agency
+regarding the global sanctions compliance program, the Global Head of Sanctions, in consultation
+with the CCO and Legal, is responsible for responding to the request.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Global Sanctions Regulatory Program Manager or their designee.
+7 Block will be implementing this change across existing sanctions-related predefined searches
+throughout 2025.
+Global Sanctions Compliance Program Standard | Block
+16
+
+Confidential
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+6. Training
+Block is responsible for the implementation of an AML/CFT training program, which includes a
+segment on sanctions. Upon hire, Staff Members must complete AML/CFT training within a
+reasonable timeframe after their start date and then each calendar year thereafter. Training is to be
+provided and documented via online compliance training systems. Additionally, on an annual basis,
+the Board of Directors must receive AML/CFT training, which is to be evidenced and recorded in
+board minutes.
+6.2 Mandatory Enterprise-Wide Training
+Block-wide sanctions training is mandated and provided to all Staff Members via the AML/CFTTF
+training curriculum administered through Block’s online compliance training systems. At a
+minimum, each iteration of the training shall provide details regarding the global sanctions
+compliance program and related Policy, as well as penalties for noncompliance with
+sanctions-related policies and regulatory requirements.
+Training records are maintained for a period of five (5) years from the date of completion of the
+training and shall include a copy of the content of the training, the date training was conducted, and
+a participation record of all persons who received the training.
+6.3 Role-Specific Training
+Business Sanctions Leads provide role-specific training to their Staff Members in accordance with
+their own requirements and procedures. Additionally, GSC facilitates a quarterly training where the
+Business Sanctions teams may provide a walkthrough of case studies and/or GSC will provide an
+overview of a notable regulatory program or recent regulatory changes, including but not limited to
+changes to sanctions regulations and/or takeaways from recent enforcement actions.
+Global Sanctions Compliance Program Standard | Block
+17
+
+Confidential
+6.4 Board Training
+The Board and senior management receive sanctions training annually and must be informed of
+material changes and new developments in the sanctions landscape. Members of the Board for
+Block entities outside of the U.S. also receive sanctions training appropriate to the jurisdiction in
+which that entity operates. While members of the Board may not require the same degree of
+training as other personnel, they need to understand the importance of these regulatory
+requirements, the ramifications of noncompliance, and the risks posed to the financial institution.
+Changes to internal policies, procedures, processes, and monitoring systems should also be covered
+during Board training.
+The Board receives a targeted training of sanctions that incorporates different elements of both the
+general and enhanced training and executive-level coverage for risk analysis.
+7. Monitoring and Reporting
+As a second line responsibility, Block requires monitoring and testing of its controls by the
+Compliance Teams. Identified issues are to be tracked and periodically reported to Senior
+Management.
+On a quarterly basis, GSC presents metrics and programmatic updates related to the global
+sanctions compliance program to the CCO and other senior Compliance stakeholders. Examples of
+metrics and program updates include the number of blocked and rejected reports filed with OFAC
+across all businesses as well as the status of strategic sanctions initiatives to uplift internal controls.
+8. Exceptions
+At his discretion, and in consultation with Compliance Leads and Legal where applicable, the Global
+Head of Sanctions will have authority to approve exceptions and/or exemptions to the Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations.
+Policy exception requests must be documented in writing, include a reason for a request, and
+Global Sanctions Compliance Program Standard | Block
+18
+
+Confidential
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Conflicts of Law
+No part of this Standard or supporting documentation should be interpreted as contravening or or
+superseding any other legal or regulatory requirements imposed upon Block. Any conflicts between
+this Standard and Block’s other legal or regulatory obligations, or between the laws of applicable
+jurisdictions, should be submitted immediately to the Global Head of Sanctions and/or the relevant
+Compliance Lead(s) for further evaluation and/or subsequent submission to Block’s CCO or Legal.
+10. Record Retention
+All published documents are retained in accordance with Block’s Record Retention guidance or
+regulatory guidance, whichever is longer. As of the date of this Standard, Block implements a
+standard record retention requirement of five (5) years for all sanctions-related records. This requires
+that complete, full, and accurate records are maintained for at least five (5) years following the
+completion of a transaction, the termination of a customer relationship, or the submission of a
+regulatory report. Effective March 13, 2025, the records mentioned below will be subject to a 10-year
+retention requirement. Record retention requirements apply to records of screening hits,
+corresponding customer and transaction data, documentation related to watchlist filtering and
+sanctions screening system maintenance and change management, training, risk assessments,
+audit results, and issue management.
+11. Related Documentation or References
+Related Documents:
+Related Policy Global Sanctions Compliance Policy
+Global Sanctions Compliance Program Standard | Block
+19
+
+Confidential
+Related Policy Anti-Money Laundering & Countering the
+Financing of Terrorism Policy
+Related Procedure Global Sanctions Foundational Screening &
+Alert Review Procedure
+Related Procedure Global Sanctions List Maintenance Procedure
+Related Procedure Global Sanctions Regulatory Reporting
+Procedure
+12. Revision and Approval History
+Approval History
+Name Title Approval Type Description Date
+Erin Colocillo Global Sanctions Creation Initial creation Jun 13, 2022
+Regulatory of document
+Program
+Manager
+Eric Medoff Global Head of Initial Appro… Approval Jul 26, 2022
+Sanctions
+Erin Colocillo Global Sanctions Scheduled R… Document May 25, 2023
+Regulatory revamp
+Program
+Manager
+Faisal Sohail Global Head of Material Cha… Approval Dec 27, 2023
+Sanctions
+Erin Colocillo Global Sanctions Material Cha… Amendment of Mar 13, 2024
+Regulatory employee
+Program screening
+Manager section; other
+minor changes.
+Faisal Sohail Global Head of Material Cha… Approval Mar 13, 2024
+Sanctions
+Faisal Sohail Global Head of Material Cha… Transition to the Jan 17, 2025
+Sanctions new template.
+Expansion of
+Global Sanctions Compliance Program Standard | Block
+20
+
+Confidential
+Name Title Approval Type Description Date
+geoblocking
+controls beyond
+IP. Addition of
+clarity on
+transaction
+screening risk
+appetite and
+system configs.
+New section on
+Administrative
+Subpoenas.
+Addition of
+oversight
+control. Addition
+of 2 new
+appendices.
+Compliance Compliance Material Cha… Approval. Jan 22, 2025
+Policy Policy
+Committee Committee
+Faisal Sohail Global Head of Immaterial C… Updated record Feb 14, 2025
+Sanctions retention
+section to
+expand
+requirements.
+13. Document Details
+Business Block
+Scope Global
+Compliance Domain Anti-Financial Crimes
+Document Owner Global Sanctions Regulatory Program
+Manager
+Last Approval Date Feb 14, 2025
+Effective Date Feb 14, 2025
+Global Sanctions Compliance Program Standard | Block
+21
+
+Confidential
+Approved By Global Head of Sanctions
+Document Review Schedule Annually
+Global Sanctions Compliance Program Standard | Block
+22
+
+Confidential
+Appendices
+Appendix A: Consolidated Global Sanctions Minimum Standards
+While Block operates in multiple jurisdictions that may have varying sanctions requirements, all
+Block businesses and subsidiaries must adhere to the standards documented in this section (1) prior
+to launching new products or features in testing or general availability; (2) prior to materially
+changing existing products or features in testing or general availability; and (3) when assessing risks
+and controls as part of annual, product, or ad hoc risk assessments. These standards are reviewed on
+an ongoing basis by GSC and updated, as needed, to meet regulatory expectations and industry best
+practices. Exceptions to these minimum standards must be documented and approved by Block’s
+Global Head of Sanctions.
+Screening
+● Block employees, external workers, vendors, Customers , and Customers ’ Related Parties
+(e.g. activators.) must be screened against sanctions watchlists maintained by the United
+States, the United Kingdom, the European Union, and the United Nations in addition to
+any local jurisdictions’ sanctions watchlists (hereinafter referred to as “applicable
+sanctions watchlists”).
+● Customers should not be allowed to transact until initial watchlist sanctions screening is
+completed and any alerts are cleared.
+● Block employees must be sanctions screened against applicable sanctions watchlists
+prior to the commencement of their employment and subjected to a monthly sanctions
+compliance review thereafter.
+● Block external workers must be sanctions screened against applicable sanctions
+watchlists prior to the commencement of their employment and subjected to a monthly
+sanctions compliance review thereafter.
+● Vendors must be sanctions screened against applicable sanctions watchlists prior to the
+outset of their engagement and on a monthly basis thereafter.
+● Customers, and their Related Parties (e.g., activators.) must be sanctions screened on a
+daily basis against applicable sanctions watchlists.
+Global Sanctions Compliance Program Standard | Block
+23
+
+Confidential
+● Where products, services, or features give access to a third party who is related to the
+customer or the account (e.g., full access admin, additional cardholders, etc.) to authorize
+money movement, that party must be subjected to daily sanctions screening against
+applicable sanctions watchlists.
+● For products that allow transfer of property (fiat, bitcoin, bitkey, etc.) or account ownership
+to a beneficiary who is not an existing Block customer, the beneficiary must be sanctions
+screened against applicable sanctions watchlists prior to completion of the transfer.
+● Where a product is offered to business structures that have multiple entities under a
+single entity (e.g., Franchises, multinational organizations, multi-legal entity sellers),
+sanctions screening is required for each entity (parent and child, franchisor and
+franchisees, etc.) and their relevant individuals (i.e., owners, activators, etc.)’
+Geoblocking Controls
+● TLD blocking controls must be implemented to ensure all Customers and their Related
+Parties (e.g., owners, activators, principles, etc.) are blocked from providing email
+addresses associated with the following jurisdictions at onboarding and throughout their
+relationship with Block: Cuba, Iran, North Korea, Syria, Russia, Ukraine, Afghanistan,
+Belarus, and Venezuela.
+● TLD blocking controls must be implemented to ensure rewards or gift card products
+cannot be offered by Block Customers to third party recipients who have email addresses
+associated with the following jurisdictions: Cuba, Iran, North Korea, Syria, Russia, Ukraine,
+Afghanistan, Belarus, and Venezuela.
+● IP blocking controls must be implemented at all ingress and egress points to block IP
+addresses associated with Cuba, Iran, North Korea, Syria, Russia, Ukraine, Afghanistan,
+Belarus, and Venezuela.
+● Businesses must have BIN/ICA controls in place to prevent: 1) payments from financial
+institutions subject to sanctions or located in Cuba, Iran, North Korea, Syria, Russia,
+Afghanistan, and Belarus; and 2) Customers from linking bank accounts associated with
+financial institutions subject to sanctions or located in Cuba, Iran, North Korea, Syria,
+Russia, Afghanistan, and Belarus;
+Global Sanctions Compliance Program Standard | Block
+24
+
+Confidential
+● Businesses should evaluate whether and to what extent SIM card data (including country
+and network carrier information) is available for compliance purposes and assess the
+utility of implementing device data controls. To the extent the Business determines there
+is sufficient risk mitigation associated with the use of device data controls, these controls
+should be implemented for Cuba, Iran, North Korea, Syria, Russia, Ukraine, Afghanistan,
+Belarus, and Venezuela.
+Oversight
+● Where Block is relying on a third party partner’s sanctions controls, Block must perform
+partner due diligence and maintain independent oversight to ensure the partner’s
+compliance practices satisfy the requirements outlined in the Policy and this Standard.
+Bridger System Settings
+● WorldCompliance Data Plus is the preferred watchlist that must be used, unless the
+specific source is unavailable through WorldCompliance Data Plus.
+● The Minimum Score for all sanctions-related watchlists must be set no higher than 94.
+● Weak AKAs are excluded from sanctions watchlist screening.
+● The “Decease State” option with WorldCompliance lists must be enabled for “Allive” and
+“N/A”.
+● The “Scan run-together words for country names” option must be enabled.
+● The “Scan address fields for country names” option must be enabled.
+● The Tolerance for the Date of Birth Auto False Positive Rule must be set to no lower than 6
+months.
+Global Sanctions Compliance Program Standard | Block
+25
+
+Confidential
+Appendix B: Prohibited TLDs
+Prohibited TLDs8
+Domain Association
+.cu Cuba
+.ir Iran
+.نارﯾا. Iran
+.kp North Korea
+.sy Syria
+.ru Russia
+.su Russia
+.pф Russia
+.ua Ukraine
+.укр Ukraine
+.bg Ukraine
+.by Belarus
+.бел Belarus
+.af Afghanistan
+.ve Venezuela
+8 Please note this list is not exhaustive. All TLDs associated with Cuba, Iran, North Korea, Syria, Russia,
+Ukraine, Belarus, Afghanistan, and Venezuela are prohibited even if they do not appear on this list. If
+a Staff Member becomes aware of an additional TLD associated with one of these countries, they
+should escalate to GSC for inclusion in this Appendix.
+Global Sanctions Compliance Program Standard | Block
+26

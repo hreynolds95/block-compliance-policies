@@ -1,0 +1,283 @@
+Servicemember Civil Relief Act (“SCRAˮ) Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Servicemembers Civil Relief Act Policy (the "Policy") outlines
+Block's enterprise-wide approach to compliance with the Servicemember Civil Relief Act (“SCRAˮ).
+The purpose of this Policy is to establish comprehensive guidelines governing Block, Inc., and its
+U.S. subsidiaries' compliance with the SCRA, ensuring consistent operations while maintaining
+brand-specific flexibility, where applicable. SCRA governs how financial institutions treat loans
+when a borrower is called to Active Duty Military Service, and the benefits extended to the
+Dependents of the impacted Servicemember. Block's Business Product Compliance Lead, Lending
+& Credit, and/or their designee, is responsible for the management of this Policy.
+Scope: This Policy applies to all consumer Credit Products offered by Block, Inc., its subsidiaries,
+and affiliates (collectively, "Block"), in the United States, including, but not limited to installment
+loans, buy-now, pay-later products, and other forms of consumer lending. The only exception is
+Square Financial Services (“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated
+by the Federal Deposit Insurance Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Active Duty Full-time duty in the active Military Service of the United States, including
+sustained duty in the Space Force. Such term includes full-time training duty,
+annual training duty, and attendance, while in the active Military Service, at a
+school designated as a service school by law or by the secretary of the
+military department concerned. Active Duty does not include full-time
+National Guard duty
+Coverage Period One or more periods of time, no less than 30 consecutive days in length,
+during which SCRA benefits and protections apply. For regular service
+members, this period begins on the date of entering military service and
+ends on the date of discharge or death (plus applicable grace periods). For
+reservists, the period begins on the date of receipt of orders to report for
+1
+
+military service and ends on the date of release from military service or
+death. Coverage Period may be extended at any time in accordance with
+SCRA requirements.
+Credit Products Cash App- and Afterpay-branded consumer loan products for personal,
+family, or household purposes (including, but not limited to, Cash App
+Borrow, Cash App Afterpay Pay Over Time, Afterpay on Cash App Card,
+Cash App Afterpay Online Checkout, Afterpay Pay-in-4, and Afterpay Pay
+Monthly) and Squareʼs business-purpose credit products.
+Department of Public database used to verify Servicemember Active Duty status.
+Defense
+Manpower Data
+Center Website
+("DMDC"
+Website)
+Dependent An individual who may request SCRA relief, including:
+● Servicemember's spouse;
+● Servicemember's child; and
+● An individual receiving more than half their support from a
+Servicemember for 180 days before SCRA application.
+Military Service Includes:
+● Active Duty members of Army, Navy, Air Force, Marine Corps, Space
+Force, or Coast Guard;
+● Federal Active Duty Reservists;
+● National Guard on active service for 30 consecutive days for
+national emergency;
+● Commissioned Officers of the Public Health Service or National
+Oceanic and Atmospheric Administration on active service;
+● Absences due to sickness, wounds, leave, or other lawful cause; and
+● U.S. citizens serving with allied forces.
+Period of Military The period beginning the date on which a servicemember enters military
+Service service, and ending the date on which the servicemember is released from
+military service or dies while in military service.
+Servicemember Full-time members of uniformed services, including:
+● Army, Navy, Air Force, Marines, Coast Guard, Space Force;
+● Public Health Services Officers;
+● NOAA commissioned corps;
+● Active Duty Reserves; and
+● National Guard on > 30-day active service.
+2
+
+2. Block, Inc. Requirements
+2.1 SCRA Policy Requirements
+Block is committed to providing comprehensive SCRA benefits and protections to eligible
+Servicemembers and their Dependants. The SCRA's benefits and protections typically begin on the
+date that a Servicemember is called to Active Duty Military Service. For reservists and members of
+the National Guard who are ordered to report to Active Duty, these protections begin on the date
+they receive their orders calling them to Active Duty Military Service.
+The fundamental purpose of these protections is to enable Servicemembers to focus on their
+military duties without the burden of financial concerns. Block recognizes this purpose and
+implements comprehensive protections that often exceed the minimum requirements of the Act.
+2.2 Interest Rate and Fee Benefits
+When a Servicemember enters Active Duty, Block implements significant interest rate and fee
+protections. For obligations incurred prior to entering Military Service, Block reduces the interest
+rate to 6% per annum, inclusive of all fees and charges. Any interest in excess of 6% is
+permanently forgiven. The interest rate reduction applies from the date the Servicemember enters
+Active Duty.
+To qualify for the interest rate reduction, a Servicemember must demonstrate either current Active
+Duty status or submit their request within 180 days of termination of Active Duty. While
+Servicemembers may provide military orders or a Department of Defense short form to verify their
+status, Block takes a proactive approach to verification. Upon receiving notice of potential military
+service, Block independently verifies eligibility through the Department of Defense Manpower Data
+Center (“DMDCˮ) Website. If eligibility is confirmed through DMDC, Block automatically applies the
+benefits without requiring additional documentation from the Servicemember.
+During the benefit period, Block suspends all fees of any kind on the account. Furthermore, Block
+will not sell the debt to any third party or initiate legal action against the Servicemember during
+Active Duty or for 90 days thereafter. These protections ensure comprehensive financial relief
+during the Servicemember's Period of Military Service.
+2.3 Identification and Verification Process
+Block maintains a thorough yet flexible process for identifying and verifying eligible
+Servicemembers. While the initial responsibility lies with the Servicemember or their family to
+notify Block of their military status, Block's verification process is designed to minimize the burden
+on serving military personnel.
+Upon receiving notification of military service, Block initiates a verification process that includes
+checking the DMDC database and reviewing any provided documentation. This documentation
+may include military orders, a certified letter from a commanding officer, or other official military
+documentation. Block maintains copies of all supporting documentation in the customer's file for
+3
+
+the duration of the period of Military Service and in accordance with record retention
+requirements.
+The verification process must be completed within 30 calendar days of the initial notification.
+During this period, Block takes reasonable follow-up steps if needed documentation is not
+received, including additional DMDC searches and customer outreach via phone, email, or letter. If
+verification cannot be completed within the 30-day timeframe, Block accepts the Servicemember's
+claim as valid pending further documentation.
+For Military Reservists and those ordered to report for induction, Block recognizes that Military
+Service begins on the date of receipt of orders, rather than the reporting date. This early
+recognition ensures that protections are in place before active service begins.
+2.4 Default Judgment Protections
+Block maintains stringent procedures regarding Default Judgments involving potential
+Servicemembers. Before pursuing any Default Judgment, Block conducts a mandatory search of
+the DMDC Website to determine the defendant's military status. This search must be documented
+and included with any court filing.
+When filing for a Default Judgment, Block must submit an affidavit that either:
+● States whether the defendant is in Military Service and provides supporting facts, or
+● Indicates that Block is unable to determine the defendant's military status
+If a defendant is found to be in Military Service, Block complies with all court-ordered protections
+and stays. During any stay period, Block suspends all penalties and enforcement actions. These
+protections apply to debts incurred both before and during Active Duty, providing comprehensive
+protection for Servicemembers involved in legal proceedings.
+2.5 Ongoing Account Management
+Block implements comprehensive account management procedures for SCRA-protected accounts.
+Each protected account receives special handling status to ensure all benefits and protections are
+properly applied and maintained. This includes regular reviews of Active Duty status, careful
+monitoring of interest rates and fees, and special notation to prevent prohibited collection
+activities.
+For accounts with SCRA protections, Block maintains detailed records of:
+● The date protection began
+● The basis for SCRA eligibility
+● All rate and fee adjustments
+● Communications regarding SCRA benefits
+● Scheduled protection end dates
+● Post-service protection periods
+4
+
+Block conducts periodic reviews of protected accounts to verify continued eligibility and ensure
+accurate benefit application. When Active Duty status can no longer be verified, Block provides
+advance notice before removing protections, ensuring a smooth transition from protected status.
+2.6 Protection of Rights and Prohibitions
+Block strictly prohibits practices that could infringe upon or discourage the exercise of SCRA
+rights. Servicemembers' exercise of SCRA rights will never adversely affect their ability to obtain
+future financial services from Block. Specifically, Block prohibits:
+● The acceleration of principal amounts due in response to SCRA benefit requests. Block
+maintains the original payment schedule, adjusted only to reflect the reduced interest rate
+and fee waivers.
+● Wage garnishment or asset seizure actions against protected Servicemembers. During the
+protection period, Block suspends all extraordinary collection activities.
+● Mandatory arbitration requirements or complex legal notice procedures for
+SCRA-protected accounts. Block ensures that Servicemembers retain full legal protections
+under the Act.
+● Any requirement for Servicemembers to waive their SCRA rights. While Servicemembers
+may voluntarily waive their rights through a signed written instrument executed during or
+after their period of MIlitary Service, Block never requests or requires such waivers.
+Credit-related adverse actions, including:
+● Determining that a Servicemember cannot meet their obligations
+● Denying or revoking credit based on SCRA status
+● Changing existing credit terms due to military service
+● Issuing adverse credit reports related to SCRA protections
+● Noting military status in credit evaluation processes
+2.7 Extended Protections
+Block extends SCRA protections beyond the Servicemember to qualified family members and other
+eligible parties. Dependents, including spouses and children as defined in this Policy, may request
+and receive SCRA benefits on behalf of the Servicemember. Additionally, persons secondarily
+liable on a Servicemember's obligation may receive similar protections through court application.
+These comprehensive protections and prohibitions ensure that Block not only meets but exceeds
+the requirements of the SCRA, providing robust financial protection for Servicemembers and their
+families during periods of military service.
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+5
+
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+● Business Product Compliance Lead, Lending & Credit
+○ Implement policy requirements within their respective business units
+○ Monitor day-to-day compliance activities
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+6
+
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy, or
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+5. Questions & Contact Information
+● Questions: For questions or clarifications about this Policy please contact the Policy
+Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+7
+
+Approval History:
+Approver Title Type Description Date
+Amanda C… Regulatory Initial Appro… Attestation to Oct 10, 2025
+Counsel Document
+Contents
+Corey Cha… Business Product Initial Appro… Attestation to Oct 15, 2025
+Compliance Lead, Document
+Lending & Credit Contents
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending &
+Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+8

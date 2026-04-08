@@ -1,0 +1,359 @@
+Record Retention Policy
+Afterpay Canada | Square Canada
+Last Approved: Sep 8, 2025
+Effective Date: Sep 8, 2025
+1. Overview
+Introduction and Purpose: This Record Retention Policy (the “Policyˮ) outlines Afterpay Canada
+and Square Canadaʼs approach to recordkeeping requirements in accordance with the Retail
+Payment Activities Act (“RPAAˮ) and applies to all documents, records, data and communications,
+whether paper or electronic, held and managed by Afterpay Canada Limited (“Afterpayˮ) and
+Square Canada Incorporated (“Squareˮ), and its affiliates for the purposes of complying with the
+RPAA requirements.
+The purpose of this Policy is to establish record retention guidelines governing Afterpay and
+Square, and its affiliates, ensuring consistent operations while maintaining brand-specific flexibility
+and in compliance with the RPAA.
+Scope: This Policy applies to Afterpay and Square, including all business areas supporting both
+entities. References to “staffˮ throughout this document shall refer to all full-time employees and
+fixed-term and contingent workers including interns, temps, consultants, vendors, third-party
+providers, and contractors engaged to work on Afterpay and/or Square matters.
+This Policy does not provide exhaustive, detailed guidance on the technical implementation of data
+retention; instead it provides retention periods and general guidance aimed at supporting
+individuals and teams who own and manage RPAA relevant records and/or the systems that house
+them. It is the responsibility of all staff to ensure these obligations, including with partners and
+vendors are adhered to in accordance with relevant policies and standards.
+Definitions:
+Terminology Definition
+An employee or external worker (e.g., contingent labor, contractors) hired by
+Staff Member(s) the Afterpay and/or Square, who supports the operations covered by this
+Policy.
+
+Terminology Definition
+Retention Relates to the continued possession, use, or control of data, and where it is
+archived or beyond use. Data is no longer retained when it is disposed of
+(destroyed or erased).
+Raw facts and statistics collected for reference or analysis and can be
+Data processed to generate meaningful information. For example, a name, a
+payment amount, or an account of a meeting that occurred. Data can be in
+structured (like tables in a relational database) and unstructured systems
+(like text files) and housed in databases, media devices (e.g. a USB, and in
+hard copy. It can take on different forms, such as an email, a document, a
+visual photo, or metadata.
+Data that is classified as a record that serves as evidence of Afterpay and
+Record(s) Squareʼs business activities, decisions, and operations, with a defined
+lifecycle and retention schedule required by the RPAA, ensuring they are
+preserved or disposed of systematically and in accordance with applicable
+regulatory requirements.
+Data that is reasonably identifiable or about an individual as defined under
+Personal Data our applicable privacy laws. For example, a name, contact and billing details,
+transaction history, or behaviour profiling.
+Refer to Section 5 of this Policy for relevant policies and standards related to
+personal data retention requirements.
+2. Record Retention Requirements Under the RPAA
+Under Section 40 of the RPAA, Payment services providers are required to retain all records
+related to their compliance with the RPAA requirements especially as it relates to the following
+obligations.
+● Operational risk management and incident response (per RPAA subsection 171
+● Incident notification procedures (per RPAA sections 18 & 19
+● Requirements for holding end-user funds (per RPAA paragraph 201a–c
+● All reporting obligations, including:
+● Annual reports
+● Notices of significant change or new activity
+● Registration applications and any updates
+● Special audits and related information requests
+● Information and assessment fee-related responses
+
+To ensure compliance with Section 40 of the RPAA and its supporting regulations, Afterpay and
+Square will implement and maintain robust recordkeeping practices that align with regulatory
+expectations and internal standards. The following commitments apply:
+2.1. Retention of Records
+Afterpay and Square will retain all records required under the RPAA for at least five 5 years
+following the date on which they cease to demonstrate compliance with a current RPAA obligation,
+unless a longer retention period is required by applicable law or policy.
+2.2 Clear and intelligible records
+Afterpay and Square shall take reasonable measures to ensure that all relevant records are in a
+format that is clear and intelligible, and maintained in a sufficient manner such that it is readily
+available and easily retrievable from secured systems of record within a short period of time, and
+capable of being reviewed by the Bank of Canada or other regulatory authorities upon request;
+This includes all relevant records that are managed by Afterpay, Square, external vendors,
+third-party service providers and/or intra-group entities.
+2.3. Record Protection and Integrity
+Afterpay and Square take reasonable measures to retain the records required under the RPAA to
+prevent loss and destruction, prevent their falsification, detect and correct any inaccuracies
+contained in them, and prevent unauthorized persons from accessing or using the information
+contained in them.
+2.4. Third Party Service Provider Record
+Where RPAA-related records are created or stored by an agent, mandatary, Third-Party Service
+Provider as defined under the RPAA TPSP, or intra-group entity:
+● Afterpay and Square will take reasonable measures to ensure that such records remain
+accessible to Afterpay and Square at all times, and can be made available to the Bank of
+Canada upon request.
+● Afterpay and Square will take reasonable measures to ensure that these records are
+retained in accordance with the RPAA requirements, including format, retention period, and
+protective measures.
+● Contracts with TPSPs will include recordkeeping clauses, in line with Afterpay and Squareʼs
+Third Party Risk Management Policy, to ensure compliance with these obligations.
+2.5. Governance and Oversight
+To ensure appropriate governance, accountability, and compliance with the RPAA, Internal Audit
+and Compliance will periodically review recordkeeping practices as part of the broader RPAA
+compliance monitoring program. These reviews are intended to ensure:
+
+● Documented procedures are in place to classify, store, and retrieve RPAA-related records
+effectively;
+● Controls for record accessibility, accuracy, and protection are tested periodically to confirm
+operational effectiveness;
+● Third-party oversight is maintained, ensuring external vendors, TPSPs, and intra-group
+entities meet their contractual recordkeeping obligations in accordance with Section 40 of
+the RPAA;
+● Records are readily available to internal stakeholders, auditors, and regulatory authorities
+upon request.
+These reviews support Afterpay and Squareʼs commitment to data integrity, regulatory readiness,
+continuous improvement of its compliance framework and ongoing compliance with RPAA
+obligations.
+2.6. Retention Schedule
+All relevant RPAA records must be retained for a period of 5 years following the date such records
+cease to demonstrate a PSPʼs current compliance with the Act and Regulations. The five-year
+retention period begins when a record is superseded or no longer used for current compliance, not
+when it is created. For example, if a policy is updated in 2026, the previous version must be kept
+until 2031.
+Record Classification Retention Period Record Type
+Operational Risk 5 years Required Frameworks, policies and
+Management Framework procedures under the RPAA
+● Operational Risk Management
+Framework, Policies and Standards
+● Incident Response Management
+Framework, policies and plans
+● Third Party Risk Management
+Framework, policies, procedures and
+supplementary documents
+● Record retention policy and
+procedures
+Evidence of document review and approval
+by relevant approvers including senior
+officers and the relevant entityʼs Board of
+Directors where applicable.
+
+Applicable only to Square.
+Safeguarding of End-user 5 years
+funds ● Daily ledger records per user
+(including contact information and
+balances)
+● Tracking of funds not yet placed in
+safeguarding accounts
+● Retention of trust agreements,
+declarations, account agreements,
+or insurance documentation
+● Safeguarding evidence
+● Daily reconciliation evidence
+Evidence of document review and approval
+by relevant approvers including senior
+officers and the relevant entityʼs Board of
+Directors where applicable.
+Incident Response and 5 years Incident response files
+Notifications
+● records detailing the incident,
+affected systems, materiality
+assessment, impact, cause, actions,
+incident logs and remediation.
+Internal Escalation
+● Evidence of internal reporting paths
+and decision-making processes for
+incident classification.
+Regulator Notifications
+● Copies of all incident notifications
+sent to the Bank of Canada, including
+timelines and rationale.
+User & Partner Communications
+● Records of notifications sent to
+impacted users or PSPs, including
+what was communicated and when.
+
+Post-Incident Reviews
+● Record lessons learned, process
+changes, and any updates made to
+controls or classification criteria.
+Annual Report
+Ongoing Reporting 5 years
+Annual Report) and ● Copies of the annual attestation or
+Significant Change update submitted under RPAR
+Notices Section 23
+● Documentation of how data for the
+update was compiled (e.g.,
+transaction volume, risk profile)
+● Internal sign-offs from Compliance,
+Risk, or the Board, depending on
+governance structure
+Significant Change
+● All notices of significant change or
+new activity filed with the Bank of
+Canada under RPAA Section 15
+● Internal impact assessments or
+change rationale for submitted
+updates
+● Copies of follow-up
+communications with the Bank of
+Canada regarding changes or
+requests for clarification
+● Records of internal review or
+governance approvals of the
+changes submitted
+● Copy of the submitted registration
+Registration and 5 years form and all supporting documents
+Application Information ● Any evidence or acknowledgments
+from the Bank of Canada
+confirming receipt or processing
+● Internal drafts, approvals leading
+up to the PSP registration
+application
+● Internal attestations or sign-off
+records from responsible
+
+individuals Designated Senior
+Officer or legal counsel)
+● Correspondence with the Bank of
+Canada, including responses to
+information requests or regulatory
+inquiries
+● Notices related to registration
+amendments
+● RPAA training completion reports
+RPAA Compliance 5 years for annual and new hires training
+trainings ● Where applicable, attendance
+records for role-based and
+refresher training
+● Independent reviews and audit
+Compliance testing / 5 years reports
+reviews and Independent ● the date on which the test is carried
+Audit reviews out;
+● its methodology, including a
+summary of how the test satisfies
+the requirements of the
+Regulations;
+● its results/findings; and
+● any measures taken or to be taken
+to address those results/findings.
+● Governance framework documents
+Governance documents, 5 years (e.g., committee charters, org
+roles, and approvals charts, role definitions)
+● Board and committee minutes
+reflecting RPAA oversight,
+decisions, and approvals
+● Designation of Senior Officer
+● Approval records for RPAA-related
+policies and frameworks (e.g.,
+ORMF, safeguarding, incident
+response)
+● RACI charts or accountability
+matrices for RPAA implementation
+● Annual attestation and report
+sign-offs
+● Change control and material update
+
+approvals (including Board or
+senior management reviews)
+● Escalation logs and decision
+records related to RPAA
+compliance, incidents, or
+third-party risks
+● Contracts
+TPSP Records 5 years ● Due diligence
+● Risk Assessments
+● TPSP Determination assessment
+● TPSP Register
+● Any record types listed above owned
+and managed by external vendors,
+third party service providers and
+intra-group entities
+3. Record Disposal
+Records retained under this policy will be disposed of securely and in accordance with Blockʼs
+Data Retention Standard, the RPAA, and all other applicable regulatory requirements, including but
+not limited to the Personal Information Protection and Electronic Documents Act PIPEDA.
+Disposal methods will ensure that records are destroyed in a manner that protects confidentiality
+and prevents unauthorized access or recovery.
+4. Compliance & Enforcement
+4.1. Roles and Responsibilities:
+The following list is in alignment with the RPAAs approach to the 3 lines of defence (“3LoDˮ) model
+that delineates roles and responsibilities across 3 separate lines, providing clarity on ownership,
+oversight and escalation paths.
+● Record / System Owners 1st and 2nd line roles):
+○ Responsible for ensuring RPAA records are created, maintained, and retained in
+accordance with this Policy.
+● Legal 2nd line):
+
+○ Responsible for providing legal advice, guidance and interpretation to the various
+lines of defence to ensure compliance with RPAA requirements in accordance with
+this Policy.
+● Compliance 2nd line):
+○ Responsible for ensuring the ongoing oversight of the RPAA compliance program
+including the requirements set out in this Policy.
+● Enterprise Risk 2nd line):
+○ Responsible for ensuring that this Policy is aligned with risk appetite and overall
+risk management strategy.
+● Board of Directors Square and Afterpay CA Boards):
+○ Holds ultimate compliance accountability and provides oversight to ensure that
+RPAA requirements are met including requirements in this Policy.
+● Internal Audit 3rd line):
+○ Responsible for conducting periodic audits to assess the effectiveness of risk
+controls defined under the RPAA related to record retention requirements set out in
+this Policy.
+4.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Afterpay and Square Canada Board and
+executive management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+4.3. Training
+All relevant staff will receive the RPAA training at least annually covering applicable requirements
+and guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4. Record Retention
+All Documents are retained according to the longer of Block's Data Classification & Handling Policy;
+Applicable Regulatory Requirements; or this policy.
+
+4.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate the RPAA or other
+applicable laws and regulations. Exception requests must be documented in writing, include a
+reason for a request, and provide a description of the controls that the Company will implement to
+mitigate risks associated with the exception. Any approved exceptions must be documented in
+writing and retained with recordkeeping requirements. Any approved exceptions or exemptions
+should be submitted to the Policy Governance Team. The Document Owner and/or designee will
+inform Compliance Leadership and applicable committees, as needed, of exceptions.
+4.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Blockʼs Data Classification & Handling Policy
+● Block Data Retention Standard
+● Afterpay Canada Operational Risk Management Framework
+● Afterpay Canada Operational Risk Management Standard
+● Afterpay Canada Incident Response Management Plan
+● Afterpay Canada TPRM Policy
+● Square CA Incident Response Plan
+● Square CA Operational Risk Framework
+● Square CA Third Party Risk Management Policy
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Board of Director Initial Ap… New document September 5, 2025
+Afterpay Canada,
+
+Board of Director
+Members
+Square Canada,
+Board of Director Board of Director September 8, 2025
+Members
+Document Details:
+Business Afterpay and Square Canada
+Scope Canada
+Compliance Domain Governance
+Document Owner Compliance Governance and Oversight Lead - Canada
+Approved By Head of Canada Compliance
+Document Tier Tier 2

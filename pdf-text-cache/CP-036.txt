@@ -1,0 +1,390 @@
+Consumer Protection Policy
+Square AU
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: Square AU Pty Ltd (“Square AUˮ) is committed to the fair treatment of
+customers and the delivery of positive customer outcomes. This Consumer Protection Policy
+(“Policyˮ) outlines the principles, responsibilities, and procedures that govern how Square AU
+manages consumer protection risk in the context of its payment services business in Australia.
+The Policy forms part of Square AUʼs broader risk and compliance framework and is designed to
+ensure compliance with Australian Consumer Law, the Corporations Act 2001, the ASIC Act 2001,
+and ASIC Regulatory Guides. Square AU recognises that the regulatory landscape imposes both
+legal obligations and best practice standards to ensure that financial products and services are
+safe, fair, and accessible.
+This Policy establishes a clear framework for identifying, managing, and mitigating consumer
+protection risks across all regulated and non-regulated activities under Square AUʼs Australian
+products and services, outlining the responsibilities of the business, staff, and compliance teams to
+ensure all customers are treated fairly and in accordance with legislation.
+Scope: This Policy applies to all Square AU staff members, including employees, contractors,
+temporary workers, and third-party service providers engaged in delivering services to Australian
+customers. It covers all regulated activities and interactions where there is potential for consumer
+detriment, including marketing, sales, customer service, complaints handling, and product
+development.
+The Policy does not apply to Square products that are distributed exclusively through third-party
+arrangements where Square does not control the productʼs features, pricing, or delivery.
+1
+
+Definitions:
+Terminology Definition
+Australian ASIC is Australia's corporate, markets, financial services and consumer
+Securities and credit regulator. It is responsible for administering and enforcing the
+Investments Australian Consumer Law as it applies to financial products and services.
+Commission ASIC
+Australian Financial AFCA is the external dispute resolution scheme for financial services in
+Complaints Australia. It provides fair, independent and effective solutions for financial
+Authority AFCA disputes between consumers and financial firms.
+Australian The Australian Consumer Law Schedule 2 to the Competition and
+Consumer Law Consumer Act 2010) sets out consumersʼ statutory rights and guarantees,
+ACL prohibits misleading or unfair conduct, and provides remedies for detriment.
+It underpins Square AUʼs obligations to treat customers fairly.
+Consumer Consumer Protection risk is the risk of unfair treatment or detriment to
+protection risk customers arising from a firm's actions, business models, or practices.
+Customer For the purposes of this policy, a Customer is defined as all Square AU
+users receiving regulated services (i.e. payment processing) in Australia,
+including potential customers, where appropriate. Also referred to internally
+as sellers.
+Vulnerable A vulnerable customer is someone who, due to their personal
+customer circumstances, is especially susceptible to detriment, particularly when a
+firm is not acting with appropriate levels of care. This aligns with ASIC's
+regulatory guidance on vulnerability.
+First Line of The first line of defence comprises operational management responsible for
+Defence identifying, managing, and reporting Consumer Protection risk concerns,
+including functions such as Marketing, Sales, Customer Success, and
+Complaints.
+Second Line of The second line of defence consists of activities covered by Compliance
+Defence: and Enterprise Risk. This line of defence monitors and facilitates the
+implementation of effective risk management practices by operational
+management and assists the first line in reporting adequate risk related
+information up and down Square AU.
+Complaint An expression of dissatisfaction made to or about an organization, related
+to its products, services, staff or the handling of a complaint, where a
+response or resolution is explicitly or implicitly expected or legally required.
+2
+
+Terminology Definition
+Regulated Activity Regulated activity refers to an activity or service that is subject to
+regulatory oversight and control by ASIC. For Square AU, this includes
+financial services provided under its Australian Financial Services License
+AFSL.
+Conflict of Interest A Conflict of Interest arises when competing interests could lead to
+detriment to one party. This includes actual, potential, and perceived
+conflicts.
+Consumer Automatic legal rights provided by the ACL. They apply to all eligible
+Guarantees consumer purchases regardless of what the business says.
+Warranties Promises made by a business or manufacturer about a productʼs quality or
+performance, usually for a set period of time. Warranties do not override
+consumer guarantees.
+2. Policy Requirements
+2.1 General Principles
+Under Australiaʼs consumer protection laws and regulatory guidance, financial services providers
+must act fairly, honestly and efficiently when dealing with customers. These principles underpin all
+aspects of product design, disclosure, sales, and ongoing customer support to ensure customers
+are protected from harm and treated with integrity.
+2.1.1 A Customer Centric Culture
+Square AUʼs culture is rooted in its mission to create economic empowerment and a financial
+system that is accessible, ethical, and customer-focused. Fair treatment of customers is a
+fundamental aspect of how Square AU conducts business. This culture is embedded in day-to-day
+decision making, staff training, and the continuous review of products and services to ensure they
+meet the needs and expectations of customers, fostering trust and long-term relationships.
+2.1.2 Delivering Fair Outcomes
+Square AU prioritises delivering fair, accessible, and inclusive services to all customers. We strive
+to understand customer needs and design products that meet those needs effectively, while
+communicating clearly, accurately, and honestly. Our approach emphasises respectful and
+efficient handling of customer queries and issues, ensuring that services are reliable, high quality,
+3
+
+and aligned with customer expectations. We are also committed to resolving complaints promptly
+and fairly, supporting trust and confidence in Square AUʼs products and services.
+These commitments extend to all Square AU users, including small businesses, sole traders, and
+marginalised communities.
+2.1.3 Regulatory Framework and Governance
+Square AU operates within a comprehensive Australian regulatory framework, including the
+Australian Securities and Investments Commission Act 2001, Corporations Act 2001 (and
+associated Design and Distribution Obligations), Australian Consumer Law, Payment Systems
+Regulation) Act 1998, Privacy Act 1988, and Anti-Money Laundering and Counter-Terrorism
+Financing Act 2006. To ensure robust governance, the Square AU Board maintains ultimate
+responsibility for approving the consumer protection strategy and risk appetite, allocating
+adequate resources, and overseeing policy implementation. The Board is regularly informed of
+consumer protection activities, significant complaints, and systemic issues. Governance
+committees, including a dedicated Risk and Compliance Committee, Product Governance
+Committee, and Consumer Outcomes Committee, meet on a regular basis and are accountable for
+reviewing regulatory compliance, consumer outcomes, and internal policy adherence.
+Square AU applies a “three lines of defenceˮ model to consumer protection risk management. The
+first line consists of business units and front-line staff tasked with executing controls and
+delivering products and services in line with policy requirements. The second line comprises Risk
+and Compliance functions, which independently monitor, provide oversight, and assist in policy
+development and risk assessment. The third line is Internal Audit, providing independent assurance
+of system effectiveness and adherence.
+2.2 Consumer Guarantees
+Under the Australian Consumer Law ACL, consumers are automatically entitled to certain
+guarantees when they buy goods and services. They are designed to ensure fair treatment for
+consumers and provide remedies when goods or services fail to meet expectations.
+For goods (such as Square terminals and 3rd Party hardware sold by Square), consumer
+guarantees include that:
+● Products are of acceptable quality (safe, durable, free from defects, acceptable in
+appearance);
+● Products are fit for their intended purpose;
+● Products match their description or any demonstration model;
+● The business has the right to sell the product (clear title);
+● Spare parts and repair facilities are reasonably available.
+4
+
+For services (such as the provision of payment processing), guarantees include that:
+● Services are provided with due care and skill;
+● Services are fit for the purpose the customer made known;
+● Services are provided within a reasonable time, if no time was agreed.
+2.2.1 Consumer Guarantees and Warranties
+All warranty and consumer guarantee related claims are assessed on a case-by-case basis, and
+Square AU is committed to acting in accordance with legislation regarding the handling of these
+matters. Square AU ensures that customers are provided with clear, accurate and timely
+information about their rights and available remedies. Where uncertainty arises about the
+application of consumer guarantees, employees are encouraged to seek internal guidance to
+ensure consistent, fair and legally compliant outcomes.
+2.3 Vulnerable and Hardship-Affected Customers
+Square AU is committed to identifying and supporting customers who may be vulnerable due to
+health issues, disability, age, financial stress, family violence, literacy or language barriers, cultural
+background, or life events like bereavement or unemployment.
+The Square AU Vulnerable Customer Standard aims to provide guidance to the relevant staff to
+recognise indicators of vulnerability and hardship, using standardised criteria. Customers may
+self-disclose vulnerability at any time and are encouraged to do so by accessible and supportive
+communication channels. Measures to assist identified vulnerable or hardship affected customers
+may include dedicated support teams, flexible communication formats, appropriate product
+modifications, fee waivers where justifiable, and swift internal or specialist referrals. Square AU
+maintains specific provisions, protocols, and training relating to family violence, ensuring affected
+customers have immediate access to confidential support, specialist case management, and
+financial safety interventions.
+In accordance with ASICʼs expectations, we aim to provide training training to the relevant staff in
+order to:
+● Recognise signs of vulnerability or hardship;
+● Respond with empathy and flexibility;
+● Offer tailored support or product adjustments;
+● Refer customers to specialist internal teams or external support services.
+Where a customer is experiencing financial hardship, Square AU will consider reasonable support
+options such as payment deferrals or fee waivers. Complaints involving hardship are prioritised
+and handled within the reduced timeframes set out in RG 271.
+5
+
+2.4 Accessibility and Inclusivity
+Square AU strives to ensure its products, services, and customer support are accessible and
+inclusive, consistent with applicable Australian laws and reasonable business practices. We
+recognise that some customers may experience barriers to access due to factors such as culture,
+language, disability, age, digital literacy, or financial circumstances.
+Where appropriate and permitted by law, Square AU may take reasonable steps to promote
+equitable access to its services and to address barriers identified through customer interactions,
+feedback, or regulatory developments.
+This commitment reflects Square AUʼs aspiration to foster accessibility and inclusion within the
+bounds of applicable laws and regulatory requirements.
+2.5 Product Development
+All Square AU product development and amendment is subject to a product governance process
+as outlined in the Product Launch Governance Procedure. Distribution channels and marketing
+approaches are assessed to ensure that products are marketed and made available in a manner
+that is fair, accurate, and compliant with consumer protection requirements under the Australian
+Consumer Law. Product design and review processes also ensure that products deliver fair value,
+align with customer expectations, and comply with all applicable legal and regulatory obligations.
+2.6 Small Business Protections
+In accordance with the ACL and broader regulatory expectations, Square AU provides protections
+for small business customers. Square AU is committed to transparent dealings with small business
+customers and supports fair, prompt, and accessible services that contribute to their sustainability
+and financial wellbeing.
+Square AU ensures that its standard form contracts with small businesses comply with legislation
+prohibiting unfair contract terms. Contract terms are reviewed to ensure they are transparent,
+balanced, and do not impose a significant imbalance in the rights and obligations of the parties.
+We also clearly disclose all applicable fees, including payment processing costs, to support
+informed decision making.
+2.7 Misleading or Deceptive Conduct
+Square AU must not engage in conduct that is misleading or deceptive, or that is likely to mislead
+or deceive, in accordance with Australian legislation. This obligation applies to all representations
+made to customers, including advertising, marketing materials, product information, website
+content, social media, and direct communications.
+Conduct may be misleading or deceptive if it creates a false impression about a product, service,
+price, feature, or customer rights, even if that was not the intention of the person making the
+6
+
+statement. Silence or omission of key information may also amount to misleading or deceptive
+conduct where it leads a consumer to form an incorrect understanding.
+Square AU must ensure that all representations, statements, comparisons and claims about its
+products and services are accurate, substantiated, and presented in a clear and balanced manner.
+Marketing and promotional activities should be reviewed for compliance before release to ensure
+that customers are not misled, confused, or disadvantaged. Employees must take particular care
+when discussing product features, pricing, terms and conditions, and customer rights, and must
+promptly correct any misleading impression if one is identified. Any instance or allegation of
+misleading or deceptive conduct must be escalated to the Compliance team immediately for
+assessment and remediation.
+2.8 Unfair Contract Terms
+Square AU must ensure that all customer contracts comply with the Australian Consumer Law
+Schedule 2 of the Competition and Consumer Act 2010 Cth, which prohibits unfair terms in
+standard form consumer and small business contracts. A term is considered unfair if it creates a
+significant imbalance in the partiesʼ rights and obligations, is not reasonably necessary to protect
+Square AUʼs legitimate business interests, and would cause detriment to the customer if relied
+upon.
+All contracts must be drafted in clear, plain language and presented transparently to ensure
+customers understand their rights and obligations. Square AU must not include terms that mislead,
+limit statutory rights, or impose unreasonable burdens on customers. Legal, Product, and
+Compliance teams are responsible for reviewing contracts to identify and remediate any potentially
+unfair terms before use or renewal.
+2.9 Unconscionable Conduct
+Square AU must not engage in conduct that is harsh, oppressive, or exploits a customerʼs
+vulnerability, disadvantage, or lack of understanding, in accordance with Australian Consumer
+Law. Unconscionable conduct includes taking unfair advantage of a customerʼs financial hardship,
+limited literacy, language barriers, or personal circumstances to secure agreement or payment.
+All employees are expected to act honestly, fairly, and in good faith in every customer interaction.
+Business practices, sales activities, and customer support processes must promote fair outcomes
+and avoid any action that could be perceived as manipulative or exploitative. Any potential
+instances of unconscionable conduct must be escalated immediately to the Compliance team for
+investigation and appropriate remediation.
+2.10 Complaint Handling and Dispute Resolution
+Square AU is committed to fair, timely and transparent resolution of customer complaints, in line
+with Regulatory Guides and Square AU Complaints Policy and Block Inc Global Complaints Policy.
+7
+
+Square AU supports the role of AFCA in resolving disputes fairly and independently. Where
+complaints are referred to AFCA, Square AU fully cooperates with AFCAʼs processes and
+implements any determinations.
+Complaint data is tracked and reviewed regularly to identify trends, systemic issues and
+opportunities for service improvement. Complaints data is also compiled in regular reports to the
+Square AU Board and a regular report is issued to the business from the global complaints team
+which encompasses Australian complaints. This commitment to strong complaints governance
+ensures Square AU delivers fair outcomes and maintains customer trust.
+2.11 Breach Reporting
+All breaches that could result in detriment to customers, including breaches of the Australian
+Consumer Law, regulatory obligations, or internal consumer protection policies, must be reported
+and managed in accordance with the Square AU Breach Reporting Policy. A breach may include:
+● Misleading communication to a customer;
+● Denial of a consumer guarantee under ACL;
+● Failure to address a complaint within the required timeframe;
+● Unfair treatment of a vulnerable customer.
+Square AU fosters a culture in which employees are encouraged to speak up, ensuring that breach
+reports are handled confidentially and without retaliation. Block Inc also fosters a culture of
+openness with its global Speak Up Policy, which allows employees to raise concerns about
+potential misconduct, violations of company policies, or unlawful behavior, without fear of
+retaliation.
+2.12 Third-Party Service Providers
+All third-party service providers with potential customer impact are subject to rigorous due
+diligence, with contractual requirements including performance standards and consumer
+protection obligations. This is managed in accordance with the Square AU Third Party Risk
+Management TPRM Policy and the Block Inc global Third Party Risk Management TPRM Policy.
+Subject to risk, periodic reviews are conducted to ensure that providers continue to meet agreed
+standards, and any material issues or breaches must be promptly reported and remediated.
+Controls are designed to ensure that third-party relationships do not compromise Square AUʼs
+compliance with legal, regulatory or consumer protection obligations.
+2.13 Conflicts of interest
+Square AU is committed to identifying, managing and mitigating conflicts of interest to ensure that
+all business decisions and customer interactions are conducted with integrity and fairness. A
+conflict of interest arises when a personʼs personal interests, relationships, or external obligations
+8
+
+could improperly influence, or be perceived to influence, the performance of their professional
+duties or Square AUʼs obligations to its customers or regulators.
+Employees must immediately disclose any situation that could give rise to a conflict of interest,
+whether financial or non-financial, direct or indirect. This includes, but is not limited to, personal
+investments, external business interests, relationships with suppliers or customers, or situations
+where personal gain could conflict with Square AUʼs obligations to its customers. All conflicts must
+be documented and managed in accordance with the Square AU Conflicts of Interest Policy and
+Block Inc global Conflicts of Interest Policy.
+Square AU will not tolerate any conduct that prioritises personal or commercial benefit over the fair
+treatment of customers or the integrity of the market. Regular training, monitoring and compliance
+reviews are undertaken to ensure ongoing awareness and effective management of conflicts
+throughout the business.
+2.14 Monitoring, Testing and Reporting
+Square AU maintains a structured and risk-based approach to monitoring, testing and reporting on
+its regulatory programs. Oversight is coordinated by the Compliance and Risk functions, with input
+from stakeholder teams.
+We focus on three key activities:
+Monitoring: Monitoring activities are conducted on a risk-based schedule to confirm that key
+compliance controls are operating effectively. These activities may include but are not limited to
+dashboards, data reviews, reporting reviews, exception reporting and analysis of complaints or
+incidents. Higher-risk areas are subject to more frequent and detailed monitoring to ensure timely
+detection and remediation of issues.
+Testing: Independent and Internal testing and thematic reviews are undertaken through
+Compliance, Risk, or Internal Audit to verify that controls are working as intended. Results are
+documented, issues are tracked and remediation actions are followed through until closed.
+Reporting: Square AU provides risk based reporting on the performance and effectiveness of its
+compliance programs to ensure transparency, accountability, and informed decision-making.
+Reports highlight program health, key risks, control effectiveness and remediation progress, giving
+senior leaders and committees clear visibility of compliance outcomes and areas requiring
+attention. This ensures consistent oversight and supports a strong culture of governance across
+the business.
+2.15 Training and Competency
+All relevant staff participate in ongoing, mandatory consumer protection training. Training is
+delivered initially at onboarding, and refreshed annually, with focus on vulnerable customer
+support, complaint handling, and policy or regulatory updates. Our customer-facing teams are
+trained to deliver service that is ethical, transparent, and helpful. Customer facing operations are
+9
+
+monitored for quality and timeliness, with regular analysis of feedback and complaints used to
+drive improvements.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+Square AU Roles:
+● Chief Compliance Officer:
+● Responsible for managing Consumer Protection FrameworkTheir duties include
+understanding customer needs and expectations, integrating them into product design
+where feasible, continuously reviewing customer communications to ensure clarity,
+tracking and comprehending customer feedback, and taking appropriate action
+● Chief Risk Officer:
+● Responsible for the assessment, monitoring and reporting on regulatory risk, including
+Consumer Protection Risk.
+● Regulatory Program Manager:
+● Responsible for monitoring compliance with this policy. Compliance Program Manager
+will challenge, support and guide the business in the identification of Consumer
+Protection Risk issues.
+● Front line staff (including CS, Complaints Management, Sales):
+● Responsible for complying with this Consumer Protection Policy in their relevant
+business activities, ensuring that customers are adequately protected and that any
+concerns in relation to consumer protection are identified, managed, and reported.
+● Product Team:
+● Responsible for designing and managing products to treat consumers fairly, assess
+suitability, and ensure compliance with legal obligations.
+● Marketing Team:
+● Responsible for ensuring all communications are accurate, clear, and not misleading,
+and escalate any potential consumer risks.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+10
+
+● Training
+● Complaints
+3.3 Record Retention
+All Documents are retained in accordance with the Privacy Act 1988 and according to the longer
+of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+Review related documents:
+● Square AU - Vulnerable Customer Standard
+● Square AU - Hardship Support Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+11
+
+Approval History:
+Approver Title Type Description Date
+Square AU Square AU Board New document December 18 2025
+Board Initial Appro…
+Document Details:
+Business Square
+Scope Regional - AU
+Compliance Domain Consumer Protection
+Document Owner Chief Compliance Officer
+Approved By Square AU Board
+Document Tier Tier 2
+12

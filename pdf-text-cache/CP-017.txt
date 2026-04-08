@@ -1,0 +1,243 @@
+Truth-in-Lending (“TILAˮ) Policy
+Block, Inc.
+Last Approved: Nov 25, 2025
+Effective Date: Nov 25, 2025
+1. Overview
+Introduction and Purpose: This Truth in Lending Act Policy (the "Policy") outlines Block, Inc.'s
+approach to ensuring compliance with the Truth in Lending Act ("TILA") and its implementing
+Regulation Z. The purpose of this Policy is to establish comprehensive guidelines governing Block,
+Inc., and its U.S. subsidiaries' compliance with the TILA. Block's Business Product Compliance
+Lead, Lending & Credit, and/or their designee, is responsible for the management of this Policy.
+Scope: This Policy applies to Block, Inc. and its subsidiaries (collectively, "Block") that engage in
+closed-end lending activities subject to TILA. The only exception is Square Financial Services
+(“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated by the Federal Deposit
+Insurance Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Annual A measure of the cost of credit expressed as a yearly rate that relates the
+Percentage Rate amount and timing of value received by the consumer to the amount and
+(“APRˮ)
+timing of payments made.
+Billing Cycle The interval between the days or dates of regular periodic statements. These
+intervals must be equal and no longer than a quarter of a year. An interval is
+considered equal if the number of days in the cycle does not vary more than
+four days from the regular day or date of the periodic statement.
+Billing Error Written notice received from a borrower that indicates a belief that a billing
+Notice error exists that is received within 60 calendar days of the first periodic
+statement that reflects the alleged billing error and includes information
+sufficient to identify the borrower's name and/or account number.
+1
+
+Business Day A day on which creditor's offices are open to the public for carrying on
+substantially all business functions.
+Closed-end Consumer credit other than open-end credit.
+Credit
+Consummation The time that a Consumer becomes contractually obligated on a credit
+transaction.
+Consumer A cardholder or natural person to whom Consumer credit is offered or
+extended.
+Open-end Credit Consumer credit extended under a plan in which:
+● The creditor reasonably contemplates repeated transactions;
+● The creditor may impose a finance charge from time to time on an
+outstanding unpaid balance; and
+● The amount of credit that may be extended during the term of the
+plan is generally made available to the extent that any outstanding
+balance is repaid.
+Periodic Rate A rate of finance charge that is or may be imposed by a creditor on a balance
+for a day, week, month, or other subdivision of a year.
+Finance Charge The cost of Consumer credit is represented as a dollar amount, including any
+charge payable directly or indirectly by the Consumer and imposed directly
+or indirectly by Block as a condition of the credit.
+2. Block, Inc. Requirements
+2.1 Policy Statement
+Block offers closed-end credit products subject to TILA's requirements for credit cards and
+traditional closed-end installment loans. The requirements set forth below govern both current
+offerings and potential future products. Block complies with the Consumer Financial Protection
+Bureau's Interpretive Rule Docket No. CFPB20240017, "Use of Digital User Accounts to Access
+Buy Now, Pay Later Loans."
+General Disclosure Requirements
+Block will make all disclosures required pursuant to Regulation Z in writing, in a form that the
+Consumer may keep. The disclosures will be provided to the Consumer in a reasonably
+understandable form and may be provided electronically, subject to compliance with the
+Consumerʼs consent and other applicable provisions of the Electronic Signatures in Global and
+National Commerce Act (“ESign Actˮ).
+2
+
+Content of Disclosures
+The disclosures will reflect the credit terms to which the parties will be legally bound as of the
+outset of the credit transaction. Block will disclose the following information as applicable:
+● Block's identity
+● The amount financed, using that term, and a brief description such as "the amount of credit
+provided to you or on your behalf"
+● A separate written itemization of the amount financed (either proactively or upon request)
+● The Finance Charge, using that term, and a brief description such as "the dollar amount the
+credit will cost you"
+Block will disclose all required credit terms accurately and clearly, including the amount financed,
+FInance Charge, APR, payment schedule, and other material terms required by Regulation Z.
+Block will provide all required TILA disclosures for credit transactions, including but not limited to
+the Annual Percentage Rate, payment terms, fees, and other material credit terms as required by
+Regulation Z. All disclosures will use prescribed terminology and follow applicable regulatory
+guidance and model forms.
+Treatment of Credit Balances
+When a credit balance in excess of $1 is created in connection with a transaction, Block will:
+● Credit the amount of the credit balance to the Consumer's account
+● Refund any part of the remaining credit balance upon written request of the Consumer
+● Make a good faith effort to refund to the Consumer by cash, check, money order, or credit
+to a deposit account any part of the credit balance remaining in the account for more than
+6 months
+Determination of APR
+Block will calculate the APR in accordance with either the actuarial method or the United States
+Rule method, following the explanations, equations, and instructions set forth in Appendix J of
+Regulation Z. The disclosed APR will be considered accurate if it is not more than 1/8 of one
+percent above or below the APR calculated under Regulation Z.
+Advertising Requirements
+Block requires all promotional and advertising materials to meet applicable regulatory
+requirements. In an oral response to a Consumer's inquiry about the cost of credit, Block will only
+state the APR. However, Block may also state a simple annual rate or Periodic Rate if it is applied to
+an unpaid balance. If the APR cannot be determined in advance, Block will state the APR for a
+sample transaction and may give other cost information for the Consumer's specific transaction.
+3
+
+All promotional and advertising materials that state specific terms will state only those terms that
+actually are or will be arranged or offered by Block. All required disclosures will be made clearly
+and conspicuously.
+Any advertisements that state a rate of Finance Charge will state that rate as an APR, using that
+term. If the APR may be increased after Consummation, the advertisement will state that fact. The
+advertisement will not state any other rate, except that a simple annual rate or Periodic Rate that is
+applied to an unpaid balance may be stated in conjunction with the APR.
+Block requires proper disclosures in marketing and advertising materials when the following trigger
+terms are used:
+● The amount or percentage of any down payment
+● The number of payments or period of repayment
+● The amount of any payment
+● The amount of any Finance Charge
+If any of these triggering terms are included in promotional materials, Block requires the insertion
+of the following additional disclosures:
+● The amount or percentage of the down payment
+● The terms of repayment, which reflect the repayment obligations over the full term of the
+loan, including any balloon payment
+● The APR, using that term, and if the rate may be increased after Consummation, that fact
+For multiple-page or electronic advertisements that provide information in a table or schedule, the
+table or schedule of terms must include all appropriate disclosures for a representative scale of
+amounts up to the level of the more commonly sold higher-priced products or services offered.
+Television or radio advertisements stating any trigger terms must clearly state either each
+additional disclosure or the information required regarding APR and list a telephone number and
+reference for Consumers to obtain additional cost information.
+3. Partner Bank-Specific Requirements
+Block will comply with partner bank-specific requirements, which may be detailed further in related
+Standards or Procedures. This section outlines only the distinct implementations and unique
+requirements set forth by Blockʼs bank partner(s) for a subset of its products.
+3.1 Card Issuance Requirements
+For certain products, Block may limit card issuance to requested or renewed cards, cap liability for
+unauthorized use, and allow consumers to assert claims/defenses against the card issuer when
+disputes with merchants are unresolved, as well as other obligations that may be applicable.
+4
+
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+● Business Product Compliance Lead, Lending & Credit
+○ Implement policy requirements within their respective business units
+○ Monitor day-to-day compliance activities
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+4.2 Monitoring and Reporting
+5
+
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy, or
+○ Applicable regulatory requirements
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+5. Questions & Contact Information
+● Questions: For questions or clarifications about this Policy please contact the Policy
+Owner.
+6
+
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Amanda C… Regulatory Initial Appro… Attestation to Oct 10, 2025
+Counsel Document
+Contents
+Corey Cha… Business Product Initial Appro… Attestation to Oct 15, 2025
+Compliance Lead, Document
+Contents
+Lending & Credit
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Corey Cha… Business Product Immaterial C… Approval of Nov 25, 2025
+Compliance Lead, immaterial
+change to Card
+Lending & Credit
+Issuance
+Requirements
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending &
+Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+7

@@ -1,0 +1,1060 @@
+Australian Anti-Money
+Laundering & Counter-Terrorism
+Financing Policies – Foreign
+Entity
+Afterpay | Afterpay Canada Limited
+26 March 2026
+Last Approval Date
+2069174226
+
+Revision & Approval History
+Ver. Approver Type Description Date
+1.0 Board Creation New Australian AML/CTF Program 29 July 2020
+2.0 Board Scheduled Annual review with minor administrative 10 August 2021
+Review updates, new template
+3.0 Board Material Change Appointment of new AML/CTF Offi cer; 7 December 2022
+Approval annual review with minor administrative
+updates
+3.0 Immaterial New Template Only 31 August 2023
+Change
+Approval
+4.0 AML/CTF Scheduled Annual review and minor administrative 15 November
+Complianc Review changes to bring the program up to 2023
+e Officer date.
+Appointment of new AML/CTF
+Board 18 December
+Compliance Officer.
+2023
+Removal of requirement to present
+program to Afterpay Pty Ltd Board for
+noting.
+Addition of reference to Blockʼs Internal
+Audit team and removal of requirement
+to have independent review occur at
+the same time as the Canada local
+program review.
+Removal of references to Merchants in
+Part B, as designated service is only
+provided to Consumers.
+5.0 AML/CTF Scheduled Annual review and minor administrative 18 November
+Complianc Review changes to bring the program up to 2024
+e Officer date.
+Board 13 January 2025
+6 Board] Material Change Redrafted the Program to AML/CTF 26 March 2026
+Approval Policies to comply with updated
+AML/CTF Laws
+30 March 2026
+Senior
+Manager,
+Afterpay
+CA AML
+Program
+
+Questions
+Any questions arising from these AML/CTF Policies, please contact the AML/CTF Compliance Officer
+or [a/the] Senior Manager.
+
+Contents
+Section A Overview of the Afterpay CA AML/CTF Program 1
+Section B Governance 6
+Section C ML/TF Risk Assessment 11
+Section D Travel Rule 15
+Section E Reporting 19
+Section F Outsourcing and record keeping 22
+Section G Matters not dealt with in these AML/CTF Policies 23
+Section H Definitions 24
+Schedule 1 – ML/TF Risk Assessment – summary 27
+Schedule 2 – Designated Services 30
+Schedule 3 – Afterpay CA Senior Managers and AML/CTF Compliance Officer 31
+1
+
+Overview of the Afterpay CA AML/CTF
+Section A
+Program
+1. Overview of the AML/CTF Program
+1.1 About Afterpay CA
+Afterpay Canada Limited BN - BC1246445 (Afterpay CA, we, or us) is a reporting entity enrolled on
+the Reporting Entity Roll managed by AUSTRAC for the purposes of AML/CTF Laws.
+Afterpay CA is a subsidiary of Afterpay Pty Ltd, an indirect wholly owned subsidiary of Block, Inc. It is
+a non-bank institution that offers short-term loans (also referred to as ‘Low Cost Credit Contractsʼ or
+‘Buy Now Pay Later Contractsʼ under the National Credit Code), but does not hold a banking licence.
+Afterpay CA offers a ‘Buy Now, Pay Laterʼ (BNPL) product service that allows a Customer to make an
+interest free purchases using a short-term, low value loans at a participating merchant and to repay
+the loan to Afterpay CA for them over four fortnightly instalments.
+Although Afterpay CA is registered, and operates in Canada (CA) and is subject to CA laws, the
+AML/CTF Law extend to the activities of a subsidiary of an Australian resident company insofar as
+that subsidiary provides a Designated Service at or through a permanent establishment of that
+subsidiary in a country other than Australia. Afterpay CA is a subsidiary of Afterpay Pty Ltd ACN 618
+280 649, an Australian resident company, and it provides certain Designated Services at or through
+its permanent establishment in CA.
+Customers ordinarily fund the repayment of the instalments to Afterpay CA from debit or credit cards.
+Afterpay CA directly pays the merchant for the purchase price of the goods (less a fee), and assumes
+the credit risk. Afterpay CA settles these funds to the merchantʼs nominated bank account by
+providing instructions to its local bank partner to make those payments.
+Afterpay CAʼs BNPL product is available exclusively online (not in-store) at participating merchants
+and can only be accessed through an Afterpay account.
+1.2 Afterpay CA AML/CTF Program
+The Afterpay CA AML/CTF Program comprises:
+● the ML/TF Risk Assessment of Afterpay CA,1 as summarised in Schedule 1; and
+● these AML/CTF Policies. These AML/CTF Policies have been designed to:
+o appropriately manage and mitigate the risks of ML/TF/PF that Afterpay CA may
+reasonably face in providing its Designated Services. Each Designated Service
+that Afterpay CA provides (or may provide) to Customers are set out in
+Schedule 2;2
+o ensure that Afterpay CA complies with the obligations imposed by the AML/CTF
+Laws;3 and
+1 AML/CTF Act, ss 26C – 26E.
+2 AML/CTF Act, s 26F(1)(a).
+3 AML/CTF Act, s 26F(1)(b).
+1
+
+o be appropriate to the nature, size and complexity of the Afterpay CA business.4
+Afterpay CA must comply with these AML/CTF Policies.5
+1.3 Application of these AML/CTF Policies
+The Afterpay CA AML/CTF Program, including these AML/CTF Policies, was formally approved and
+adopted by the Governing Body on 26 March 2026 and Senior Manager of Afterpay CA on 30 March
+2026.
+The full amendment and approval history of these AML/CTF Policies can be found at the beginning of
+this document. Afterpay CA keeps a record of these approvals. The Designated Services provided by
+Afterpay CA are listed in Schedule 2.
+1.4 Enrolment with AUSTRAC
+Afterpay CA is enrolled with AUSTRAC as a Reporting Entity.6
+The AML/CTF Compliance Officer will ensure that the AUSTRAC CEO is notified of any changes to
+enrolment details within 14 days of the change occurring.7
+As a Reporting Entity enrolled with AUSTRAC, we will advise the AUSTRAC CEO of any changes to the
+enrolment details which were provided to AUSTRAC when we are enrolled as a Reporting Entity.8 This
+includes information about our Designated Services,9 and information relating to us.10 It also includes
+updating our annual earnings where earnings of $100 million or more occur.
+The AML/CTF Compliance Officer will ensure that the AUSTRAC CEO is notified of any changes to the
+above enrolment details within 14 days of the change occurring.11
+2. Updates to the AML/CTF Program
+2.1 Updates to the ML/TF Risk Assessment
+The ML/TF Risk Assessment will be kept under review and updated from time to time as described in
+Section C of these AML/CTF Policies.
+Updates to the ML/TF Risk Assessment:
+● may be made with the approval of a Senior Manager with authority to do so. Senior
+Managers with such authority are specified in Schedule 3;12
+● must be notified, in writing, to the Governing Body of Afterpay CA as soon as practicable
+after the update is made; and13
+● will result in a review and update of these AML/CTF Policies in accordance with 2.2.14
+2.2 Updates to AML/CTF Policies
+These AML/CTF Policies will be kept under review and updated from time to time including:
+● as a result of any need identified as part of the AML/CTF Compliance Officerʼs review as
+described in section 2.3;
+4 AML/CTF Act, s 26F(1)(c). AML/CTF Act, s 26F(1)(d) also requires the Reporting Entity to develop and maintain AML/CTF Policies that deal
+with certain matters in respect of transfer of value. The Designated Services we provide do not trigger this obligation.
+5 AML/CTF Act, s 26G(1).
+6 AML/CTF Act, s 51B.
+7 AML/CTF Act, s 51F(2)(a).
+8 AML/CTF Act, s 51F.
+9 AML/CTF Rules, r 3-9(1) which specifies information in r 3-2.
+10 AML/CTF Rules, r 3-9(1) which specifies information in r 3-3.
+11 AML/CTF Act, ss 51F(2)(a) and 75M(4)(a).
+12 AML/CTF Act, s 26P(1)
+13 AML/CTF Act, s 26P(2)
+14 AML/CTF Act, s 26F(3)(c)(i).
+2
+
+● in response to AUSTRAC feedback and guidance as described in section 3;
+● following an independent evaluation as described in section 4; and
+● in response to a review of the ML/TF Risk Assessment as described in section 8.
+Changes to the AML/CTF Policies must be approved by a Senior Manager with authority to do so.
+Senior Managers with such authority are specified in Schedule 3.15
+2.3 AML/CTF Compliance Officer review
+The AML/CTF Compliance Officer will ensure that a review of the AML/CTF Policies is conducted at
+least annually.16 This review will cover:
+● our compliance with these AML/CTF Policies;
+● the extent to which our AML/CTF Policies are appropriately managing and mitigating the
+ML/TF/PF risk that we may reasonably face in providing our designated services; and
+● our compliance with the AML/CTF Laws.17
+Following this review, the AML/CTF Compliance Officer must report to the Governing Body on the
+findings of this review in accordance with section 5.3.
+2.4 Documenting updates to the AML/CTF Program
+If we update the AML/CTF Program (including these AML/CTF Policies or the ML/TF Risk
+Assessment), we will document the AML/CTF Program (as updated) within 14 days after the update
+occurs.18
+2.5 Role of supporting systems and processes
+These AML/CTF Policies will be supported by internal procedures, systems and controls to ensure
+that Afterpay CA implements its obligations consistently with these AML/CTF Policies. These
+supporting arrangements include, but are not limited to:
+● Afterpay CA – Consumer Customer Risk Rating framework;
+● Afterpay CA - Global Consumer Risk Rating Due Diligence Program ECDD/OCDD
+● Afterpay CA - Ongoing Customer Due Diligence SOP
+● Afterpay CA - Enhanced Customer Due Diligence SOP
+● Afterpay CA - Global Transaction Monitoring Rulebook
+● Afterpay CA - Consumer Watchlist Screening Instructions
+● Afterpay CA - Unusual Activity Report Instructions
+Any changes to the supporting internal procedures, systems and controls will be documented in those
+materials.
+The governance of changes to those supporting internal procedures, systems and controls will be
+documented in those materials. Provided that the supporting internal procedures, systems and
+controls operate consistently with these AML/CTF Policies, changes to those processes, systems and
+controls may not require the approval of a Senior Manager. For the avoidance of doubt, we will ensure
+that any material changes to our policies, procedures, systems and controls to manage the ML/TF
+Risk will be approved by a Senior manager and/or the AML/CTF Compliance Officer.
+15 AML/CTF Act, s 26P(1)
+16 AML/CTF Act, s 26F(3)(d).
+17 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5-7.
+18 AML/CTF Act, s 26N(1); AML/CTF Rules, r 5-15(2).
+3
+
+3. AUSTRAC feedback and guidance
+3.1 Incorporation of AUSTRAC feedback and guidance
+Our AML/CTF Policies have been developed and are updated taking into account:
+● any applicable guidance material publicly disseminated or published by AUSTRAC; and
+● any feedback we receive from AUSTRAC in respect of our own business or the industry
+we operation in;
+that is relevant to the identification, mitigation and management of ML/TF/PF risk arising from our
+provision of Designated Services. We do this by following the process set out below in section 3.2.
+3.2 Actioning AUSTRAC feedback and guidance
+Following receipt of direct AUSTRAC feedback (either written or oral) or becoming aware of
+applicable AUSTRAC guidance, a Senior Manager and/or the AML/CTF Compliance Officer (as
+appropriate) will:
+● have regard to the AUSTRAC feedback or guidance in determining whether an update to
+the AML/CTF Program is necessary;
+● consider the AUSTRAC feedback or guidance and any necessary action that we will need
+to take to ensure ongoing compliance with AML/CTF Laws including incorporating the
+feedback or guidance into any applicable assessments of PF/ML/TF risk, or underlying
+processes, systems or controls;
+● consult with AUSTRAC as is appropriate in the circumstances;
+● provide a report containing the relevant details of the AUSTRAC feedback and the
+AML/CTF Compliance Officerʼs recommendations in relation to the action to be taken (if
+any) in respect of the AUSTRAC feedback or guidance, to the Governing Body within 30
+business days of receiving the feedback; and
+● maintain a register to document the information that has been communicated by
+AUSTRAC.
+Where it is appropriate to do so, the AML/CTF Compliance Officer may inform AUSTRAC of any action
+we have taken (or have decided to take), including but not limited to updating the AML/CTF Program,
+in relation to the AUSTRAC feedback or guidance.
+4. Independent evaluations
+4.1 Frequency of independent evaluations
+We will conduct independent evaluations of the AML/CTF Program including both the ML/TF Risk
+Assessment and the AML/CTF Policies every 2 years.19
+19 AML/CTF Act, s 26F(4)(f).
+4
+
+Section B
+Governance
+5. Governing body
+5.1 Responsibilities of Governing Bodies
+The Governing Body will exercise appropriate ongoing oversight of:
+● our identification and assessment of the risk for the purposes of our ML/TF Risk
+Assessment; and
+● our compliance with our AML/CTF Policies and the AML/CTF Laws.20
+The Governing Body will take reasonable steps to ensure that we are:
+● appropriately identifying, assessing, managing and mitigating the risks of ML/TF/ PF that
+that we may reasonably face in providing designated services; and
+● otherwise complying with these AML/CTF Policies and the AML/CTF Laws.21
+5.2 Governing Body remaining informed
+The Governing Body will keep informed through:
+● the ongoing reporting by the AML/CTF Compliance Officer, as described in section 5.3;
+● updates provided from Senior Managers, including as part of updating the Governing
+Body as part of updates to the ML/TF Risk Assessment described in section 9.3; and
+● ongoing training provided to the Governing Body, as described in section 19. Training for
+the Governing Body will be appropriately tailored for the roles and responsibilities of the
+Governing Body and will occur at least annually or otherwise upon request of any of the
+Afterpay CA board members.
+5.3 AML/CTF Compliance Officer reporting to Governing Body
+The Governing Body will receive reports from the AML/CTF Compliance Officer in accordance with
+the following:22
+No. Frequency Content
+1. At least every 12 months The AML/CTF Compliance Officer will report to the
+Governing Body on the outcome of the annual review
+undertaken as described in section 2.3. The report to the
+Governing Body will cover:
+● our compliance with these AML/CTF Policies;
+● the extent to which our AML/CTF Policies are
+appropriately managing and mitigating the risks
+of ML/TF/PF that we may reasonably face in
+providing our designated services; and
+● our compliance with the AML/CTF Laws.23
+20 AML/CTF Act, s 26H(1)(a).
+21 AML/CTF Act, s 26H(1)(b),
+22 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5-7.
+23 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5-7.
+5
+
+No. Frequency Content
+2. Quarterly The AML/CTF Compliance Officer will provide periodic
+updates covering the following, to the extent relevant to the
+reporting period:
+● reports of, or the results from, independent
+reviews, internal reviews or compliance
+assessments, or other assessments as to our
+current state of compliance with the AML/CTF
+Laws;
+● reviews of the AML/CTF framework including
+identification of, and progress in relation to,
+AML/CTF processes, systems and controls or
+other aspects of AML/CTF compliance requiring
+uplift;
+● AUSTRAC feedback, the management of
+AUSTRAC feedback and information provided to
+AUSTRAC (such as AML/CTF compliance
+reports or responses to notices) in accordance
+with section 3;
+● relevant business trends which may include
+operational metrics (for example, SMRs);
+● relevant regulatory changes, market
+developments or identification of new risk
+typologies;
+● identification and/or reporting of breaches of
+AML/CTF Laws in accordance with section 9
+and how relevant incidents are being
+remediated and monitored; and
+● any other subject matter that the AML/CTF
+Compliance Officer considers appropriate to
+bring to the Governing Bodyʼs attention.
+3. Following an independent The AML/CTF Compliance Officer will report to the
+evaluation Governing Body on the outcome of an independent
+evaluation undertaken in accordance with section 4 as soon
+as practicable of the independent evaluation report being
+received.
+4. Ad hoc at the request of the Any updates otherwise contemplated under rows 1, 2 or 3
+AML/CTF Compliance above in this table outside the scheduled reporting periods
+Officer, a Senior Manager as identified by the AML/CTF Compliance Officer, a Senior
+or the Governing Body. Manager or the Governing Body as being necessary or
+appropriate in the circumstances.
+All reports from the AML/CTF Compliance Officer will be provided with sufficient detail to enable the
+Governing Body to engage with the information and enable the Governing Body to understand
+ML/TF/PF risks and existing or developing compliance considerations.
+6
+
+6. Senior Managers
+6.1 Overview of Senior Managers
+We have identified Senior Managers with responsibility for making approvals of certain matters. The
+Senior Managers have been identified as individuals who make, or participate in making, decisions
+that affect the whole, or a substantial part, of the business of Afterpay CA.
+Afterpay CA will have at least one Senior Manager designated to it. The roles and responsibilities of
+each Senior Manager may differ. The names of the Senior Managers, and their approval authorities,
+are set out in Schedule 3.
+6.2 Designation of Senior Managers for approving AML/CTF Program
+Our ML/TF Risk Assessment and AML/CTF Policies, including any updates to either, must be
+approved by a Senior Manager.
+Senior Managers responsible for approving:
+● the AML/CTF Policies (including any updates to these); and
+● the ML/TF Risk Assessment (including any updates to these),24
+are specified in Schedule 3.
+6.3 Ongoing matters requiring approval of Senior Manager
+The approval of a Senior Manager will be obtained before we enter into an agreement or arrangement
+of the kind referred to in paragraph 37A1a of the AML/CTF Act as the first entity.25
+Senior Managers with authority to give this approval are specified in Schedule 3.
+7. AML/CTF Compliance Officer
+7.1 Designation of AML/CTF Compliance Officer
+We must designate an AML/CTF Compliance Officer26 no later than 28 days after the day on which we
+commence to provide a designated service.27
+The AML/CTF Compliance Officer we appoint will be:
+● a person employed or otherwise engaged by Afterpay CA at a management level;28
+● a person with sufficient authority, independence and access to resources and
+information to ensure the individual can perform the functions of an AML/CTF
+Compliance Officer effectively;29 and
+● a fit and proper person.30
+The AML/CTF Compliance Officer will be appointed by the Governing Body.
+7.2 Fit and proper requirement
+To determine if an individual is a fit and proper person to be an AML/CTF Compliance Officer we will
+have regard to:
+24 AML/CTF Act, ss 26F(4)(c) and 26P(1).
+25 AML/CTF Act, s 37A(1)(a): This is where there is a reliance arrangement between 2 reporting entities and the first reporting entity is seeking
+to rely on the CDD undertaken by the other entity.
+26 AML/CTF Act, ss 26J(1) and 26F(4)(b).
+27 AML/CTF Act, s 26K(2).
+28 AML/CTF Act, s 26J(2)(a).
+29 AML/CTF Act, s 26J(2)(b).
+30 AML/CTF Act, s 26J(3)(b).
+7
+
+● whether the individual possesses the necessary competence, skills, knowledge,
+diligence, expertise and soundness of judgement to properly perform the duties of the
+AML/CTF Compliance Officer for Afterpay CA (having regard to the nature, size and
+complexity of Afterpay CA;
+● whether the individual has the attributes of good character, honesty and integrity;
+● whether the individual has been convicted of a serious offence;31
+● whether the individual has been the subject of civil or criminal proceedings, or a
+regulatory or disciplinary process in Australia or a foreign country that:
+o related to the management of an entity, or commercial or professional activity;
+and
+o involved an adverse finding as to the individualʼs competence, diligence,
+judgement, honesty or integrity;
+● whether the individual is an undischarged bankrupt under the law of Australia or a
+foreign country;
+● whether the individual has executed a personal insolvency agreement under Part X of
+the Bankruptcy Act 1966 Cth or a similar law of a foreign country; and
+● whether the individual has a conflict of interest that will create a material risk that the
+individual will fail to properly perform the duties of the AML/CTF Compliance Officer for
+Afterpay CA.32
+7.3 Functions of the AML/CTF Compliance Officer
+The AML/CTF Compliance Officer will:
+● oversee and coordinate Afterpay CAʼs day-to-day compliance with the AML/CTF Laws;
+● oversee and coordinate the effective operation of and compliance with Afterpay CAʼs
+AML/CTF Policies;
+● communicate, on behalf of Afterpay CA with AUSTRAC; and
+● do anything incidental to or conducive to the performance of any of the above
+functions.33
+7.4 AML/CTF Compliance Officer reporting to Governing Body
+The Governing Body will receive reports from the AML/CTF Compliance Officer as described in
+section 4.3.34
+7.5 Delegation of duties
+The AML/CTF Compliance Officer may delegate any of their duties to appropriately trained and skilled
+Afterpay CA Personnel as they see fit and if appropriate, in the context of Afterpay CAʼs business
+operations and AML/CTF compliance.
+In addition to delegating to Afterpay CA Personnel, the AML/CTF Compliance Officer may also
+delegate in accordance with Outsourced Services Provider delegations.
+The responsibility for oversight of all AML/CTF matters resides with the AML/CTF Compliance Officer.
+The AML/CTF Compliance Officer will also retain overall responsibility for their role even where some
+compliance functions are delegated.
+7.6 AML/CTF Training for the AML/CTF Compliance Officer
+To ensure that our AML/CTF Compliance Officer has the necessary knowledge and skills to carry out
+their functions, they will receive AML/CTF training.
+31 This does not affect the operation of Part VIIC of the Crimes Act 1914 (which includes provisions that, in certain circumstances relieve
+persons from the requirement to disclose spent convictions and require persons aware of such convictions to disregard them).
+32 AML/CTF Act, s 26J(3)(c). AML/CTF Rules, r 5-14(1).
+33 AML/CTF Act, s 26L.
+34 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5-7.
+8
+
+7.7 Notifying AUSTRAC of the AML/CTF Compliance Officer
+We will notify AUSTRAC of the individual who is designated as our AML/CTF Compliance Officer
+within 14 days after the individual is designated as the AML/CTF Compliance Officer.35
+We will ensure this notice is in the approved form and contains the information and is accompanied by
+such documents, as is required by the approved form.36
+35 AML/CTF Act, s 26M(1).
+36 AML/CTF Act, s 26M(2).
+9
+
+Section C
+ML/TF Risk Assessment
+8. ML/TF Risk Assessment
+8.1 Overview of Afterpay CA ML/TF Risk Assessment
+Afterpay CA has undertaken an ML/TF Risk Assessment - 2025 AML/CTF and Sanctions Risk
+Assessment, Afterpay Canada Ltd Oct 2025. In undertaking this ML/TF Risk Assessment, we have
+had regard to the nature, size and complexity of Afterpay CAʼs business.37 Afterpay CA is not required
+to have regard to specific matters when undertaking ML/TF Risk Assessment.38
+8.2 Afterpay CA ML/TF Risk Assessment
+Afterpay CA will not provide any Designated Services without an ML/TF Risk Assessment being in
+place and kept up to date in accordance with these AML/CTF Policies.
+A summary of our ML/TF Risk Assessment is set out in Schedule 1.
+9. Reviewing the ML/TF Risk Assessment
+9.1 Ongoing review of ML/TF Risk Assessment
+The AML/CTF Compliance Officer is responsible for ensuring that the ML/TF Risk Assessment is
+subject to ongoing review for the purpose of identifying and assessing any new risks or changes to
+previously assessed ML/TF/PF risk.39 This ongoing review will be undertaken in a manner that is
+appropriate to Afterpay CAʼs nature, size and complexity.
+9.2 Triggers and timing
+A review of the ML/TF Risk Assessment (Review) must be undertaken if any of the following events
+(Review Trigger Events) occur:
+Review Trigger Event Timing for Review and updates
+● The Review must be undertaken as soon as
+AUSTRAC communicates information
+practicable after the information is
+that identifies or assesses risks
+communicated.41
+associated with Afterpay CAʼs provision
+of designated services.40 ● Any updates required to the ML/TF Risk
+Assessment to address any issues identified
+in the Review must made as soon as
+practicable after the Review is completed.
+● The Review must be undertaken as soon as
+An independent evaluation report
+practicable after the Governing Body
+contains adverse findings in relation to
+receives the independent evaluation report,
+the ML/TF Risk Assessment.42
+in accordance with section 4.3.43
+37 AML/CTF Act, s 26C(2).
+38 AML/CTF Act, s 26C(c).
+39 AML/CTF Act, s 26D(1).
+40 AML/CTF Act, s 26D(1)(a)(ii).
+41 AML/CTF Act, s 26D(2)(c).
+42 AML/CTF Act, s 26D(1)(a)(iii); AML/CTF Rules, r 5-1(1).
+43 AML/CTF Act, s 26D(2)(d). AML/CTF Rules, r 5-1(2).
+10
+
+Review Trigger Event Timing for Review and updates
+● Any updates required to the ML/TF Risk
+Assessment to address any issues identified
+in the Review must made as soon as
+practicable after the Review is completed. 44
+In addition, the ML/TF Risk Assessment must be reviewed by the AML/CTF Compliance Officer at
+least annually (whether or not any of the above events occur)45 and as per Blockʼs Global AML &
+Sanctions risk Assessment Framework.
+Any updates required to the ML/TF Risk Assessment to address any issues identified in the Review
+must made as soon as practicable after the Review is completed. 46
+9.3 Oversight of updates to the ML/TF Risk Assessment following Review
+The updated ML/TF Risk Assessment must be approved by a Senior Manager in accordance with
+section 2.1. The change must be notified to the Governing Body as practicable after the update in
+accordance with section 2.1.
+9.4 Exception – PF Risk Assessment
+As set out in the summary of the ML/TF Risk Assessment in Schedule 1 we have assessed the PF risk
+we may reasonably face as low.
+As a result of this assessment, we have determined that our PF risk can be appropriately managed
+and mitigated by our policies, procedures, systems and controls that we have in place to manage and
+mitigate ML or TF risks as detailed in these AML/CTF Policies.47
+The PF risk we reasonably face when providing Designated Services is kept under ongoing review in
+accordance with this section 9.
+44 AML/CTF Act, s 26D(4)(b).
+45 AML/CTF Act, s 26D(1)(b).
+46 AML/CTF Act, s 26D(4).
+47 AML/CTF Act, s 26F(11).
+11
+
+10. Breach escalation procedures
+10.1 Breach reporting process
+Breaches (or apparent breaches) of the AML/CTF Laws or these AML/CTF Policies must be reported
+to the AML/CTF Compliance Officer.
+10.2 Escalation of AML/CTF breaches
+Where there has been a failure to comply with any system, control or procedure established in
+accordance with these AML/CTF Policies that:
+● has not been, or is incapable of being, fully remedied within five 5 business days; or
+● the AML/CTF Compliance Officer otherwise considers to be significant,
+the AML/CTF Compliance Officer must notify a Senior Manager, as soon as possible.
+10.3 Addressing AML/CTF breaches
+The Senior Manager(s) will work with the AML/CTF Compliance Officer to consider the breach and
+prepare a plan of action to address the breach (including, where relevant, the causes of the breach).
+This may include one or more of the following:
+● preparation of a targeted project plan to remedy the breach;
+● creation of a timeline for further review of any relevant parts of these AML/CTF Policies;
+● updates or amendments to these AML/CTF Policies or any applicable underlying policies
+and procedures;
+● alterations to particular products or services, or our business model; or
+● any other actions that a Senior Manager or the Governing Body considers is appropriate.
+If appropriate, a Senior Manager alongside the relevant Governance, Risk and Compliance Committee
+will approve a plan of action.
+Where a Senior Manager and the AML/CTF Compliance Officer consider it is appropriate to do so, the
+details of the breach and the plan of action may then be presented to the Governing Body by the
+AML/CTF Compliance Officer. Where this occurs, the Governing Body will review the information
+provided by the AML/CTF Compliance Officer and will take the action that the Governing Body
+determines is necessary after considering the breach and any other matters that it considers to be
+relevant.
+10.4 Breaches register
+The Afterpay CA AML/CTF Compliance Officer must keep a breach register which contains details of
+any breaches (or potential breaches) or failure to comply with the procedures set out in these
+AML/CTF Policies. On an annual basis, the AML/CTF Compliance Officer must review the breach
+register and consider whether the breaches or non-compliance which occurred during the relevant
+period indicate any material gaps or systemic deficiencies in the Afterpay CAʼs AML/CTF Program that
+are yet to be addressed; and make relevant recommendations to the Governing Body on how these
+deficiencies will be rectified.
+12
+
+Section D
+Travel Rule
+11. Application of the Travel Rule
+As the provider of an Ordering Institution Value Transfer Service, Afterpay CA is subject to the Travel
+Rule as an Ordering Institution.48
+12. Travel Rule for Ordering Instructions
+12.1 Value Transfers undertaken by Afterpay CA
+Afterpay CA must comply with the Travel Rule as applicable to an Ordering Institution. This requires
+Afterpay CA to collect, verify and pass on prescribed information.
+Afterpay CA may provide Ordering Institution Value Transfer Services relating to:
+● Merchant Payments; or
+● other Value Transfer services that are not connected to Merchant Payments.
+Afterpay CAʼs policies for meeting its Travel Rule obligations in providing Ordering Institution Value
+Transfer Services are described in this section 12.
+12.2 Accepting instruction from a payer
+When Afterpay CA provides an Ordering Institution Value Transfer Service, the service will commence
+with Afterpay CA accepting a transfer instruction from a Customer (payer). This instruction may be:
+● verbal;
+● written; or
+● implicit under a standing arrangement.
+The instruction may be provided directly or indirectly.
+The instruction will describe who the value is being transferred to (payee).
+12.3 Value Transfer is a Merchant Payment
+If the Value Transfer is a Merchant Payment:
+● we are not required to collect or verify any information.49 However, we may have
+collected information on the payer as part of our Customer due diligence; and
+● we are required to pass on the card number of the card (including a tokenised
+reference)50 that the payer used in relation to the Merchant Payment.51
+12.4 Value Transfer through BECS
+If:
+● the Transfer of Value is a domestic Transfer of Value; and
+● the Ordering Institution passes on the Transfer Message for the Transfer of Value
+through BECS, BPAY or DEFT,
+48 AML/CTF Act, s 64.
+49 AML/CTF Act, ss 64(2)(a) and 64(2)(b); AML/CTF Rules, r 8-8(5).
+50 AML/CTF Rules, r 1-4.
+51 AML/CTF Rules, r 8-3.
+13
+
+we will be required by the Travel Rule to:
+Prescribed information
+Information to collect 1. the payer information, including the payerʼs full name,
+and one or more of the following:
+a unique Customer identification number given to the
+payer by the ordering institution;
+a unique identifier for the payer;
+if the payer is an individual—the payerʼs date and place
+of birth;
+the payerʼs full business or residential address (not
+being a post box) 52
+Note: We are not required to re-collect information on
+the payer if we have:
+previously collected the information as part of our
+Customer due diligence, or from a previous Transfer
+of Value; and
+no reason to doubt the adequacy or truth of this
+information.
+2. the payeeʼs full name53
+Information to verify The payer information. 54
+Note: no separate step needs to be undertaken if we
+have otherwise done this as part of our ICDD or OCDD
+processes.
+For Customers who are subject to section 642 or 643
+of the AML/CTF Rules, and where we have no
+reasonable grounds to doubt the adequacy or veracity
+of the payer information, no further verification is
+required for Ordering Institution Value Transfer Services
+commenced to be provided before 1 July 2030. 55
+Information to pass on 3. tracing information for the payer, which is information
+that allows us to identify the account of the payer,
+such as:
+an account number, or
+a unique transaction reference number; and
+tracing information for the payee, which is information that
+allows the Beneficiary institution to identify the
+payeeʼs account, such as:
+the account number for the payeeʼs account, or
+a unique transaction reference number.56
+52 AML/CTF Rules, r 8-3(a).
+53 AML/CTF Rules, r 8-3(a).
+54 AML/CTF Rules, r 8-3(b).
+55 AML/CTF Rule, r 8-8(7).
+56 AML/CTF Rules, r 1-4.
+14
+
+12.5 Value Transfer is not a Merchant Payment
+After receiving the instruction, if the Value Transfer is not a Merchant Payment, we will be required by
+the Travel Rule to:
+Prescribed information
+Information to 1. the payer information, including the payerʼs full name, and one or more
+collect of the following:
+o a unique Customer identification number given to the
+payer by the ordering institution;
+o a unique identifier for the payer;
+o if the payer is an individual—the payerʼs date and
+place of birth;
+o the payerʼs full business or residential address (not
+being a post box) 57
+Note: We are not required to re-collect information on the payer if we
+have:
+o previously collected the information as part of our
+Customer due diligence, or from a previous Transfer
+of Value; and
+o no reason to doubt the adequacy or truth of this
+information.
+2. the payeeʼs full name
+Information to verify The payer information.58
+Note: no separate step may need to be undertaken if we have
+otherwise done this as part of our ICDD or OCDD processes.
+Information to pass 1. the payer information, as collected and verified in accordance with this
+on section;
+2. the payeeʼs full name, as collected in accordance with this section;
+3. tracing information for the payer, which is information that allows us to
+identify the account of the payer, such as:
+o an account number, or
+o a unique transaction reference number; and
+4. tracing information for the payee, which is information that allows the
+Beneficiary Institution to identify the payeeʼs account, such as:
+o the account number for the payeeʼs account, or
+o a unique transaction reference number.59
+57 AML/CTF Rules, r 8-3(a).
+58 AML/CTF Rules, r 8-3(b).
+59 AML/CTF Rules, r 1-4.
+15
+
+12.6 Timing to pass on information
+If the Transfer Message for the Value Transfer does not give effect to the Value Transfer then, the
+Transfer Message must be passed on before, or at the same time as, the Ordering Institution gives
+effect to the Value Transfer.
+12.7 Request to provide information
+As an Ordering Institution, Afterpay CA must pass on the information set out in sections 12.3 and 12.5
+to the next institution in the Value Transfer Chain:
+● as soon as practicable after receiving a request from the institution; and60
+● in any case, within 3 business days after receiving sufficient information from the other
+institution to process the request.61
+12.8 Exemption from the Travel Rule
+Travel Rule obligations under the AML/CTF Laws do not apply to transfers of money or property
+within a single overseas country or within the European Economic Area if the:
+● foreign country where the Value Transfer Designated Service is being provided has
+implemented laws relating to the Travel Rule; and
+● Value Transfer service complies with these foreign Travel Rule laws.62
+However, while the Travel Rule under the AML/CTF Laws does not apply, these services are still
+Designated Services. We must still comply with other AML/CTF obligations that apply to Designated
+Services through foreign branches and subsidiaries, such as Customer due diligence.
+60 AML/CTF Act, s 64(5).
+61 AML/CTF Rules, r 5-17(2) and (3).
+62 AML/CTF Rules, r 8-7.
+16
+
+Section E
+Reporting
+13. AML compliance reports
+AML Compliance Reports
+Section 47 of the AML/CTF Act requires us to lodge annual compliance reports with
+AUSTRAC, in an approved form and containing such information as is required, in
+accordance with the AML/CTF Rules.
+We are required to lodge annual compliance reports with Annually.
+AUSTRAC each calendar year.
+The lodgement period
+The AML/CTF Compliance Officer will consult with the Senior is between 1 January
+Managers, other management and other relevant Personnel to and 31 March or as
+prepare and submit the annual AUSTRAC compliance reports in otherwise advised by
+the first quarter of each calendar year in respect of activities AUSTRAC.
+undertaken in the previous calendar year and will lodge these
+with AUSTRAC as required. These will be lodged via AUSTRACʼs
+electronic portal.
+Prior to lodging the AML/CTF compliance report with AUSTRAC,
+the AML/CTF Compliance Officer must notify the Governing
+Body of any circumstances brought to the attention of the
+AML/CTF Compliance Officer which would lead him or her to
+believe that we have not complied with the Act or these Policies.
+The AML/CTF Compliance Officer must then provide
+confirmation to the Governing Body that the AML/CTF
+compliance report has been submitted to AUSTRAC, including a
+summary of its contents and any matters relevant for noting as
+soon as possible after the report has been lodged with
+AUSTRAC.
+Afterpay CAʼs AML/CTF compliance report must be lodged online
+at https://online.austrac.gov.au.
+14. Preventing tipping off
+14.1 Tipping off offence
+Subject to certain limited exceptions, it is an offence under section 123 of the AML/CTF Act to
+disclose Restricted Information to anyone outside of AUSTRAC, if the disclosure of the Restricted
+Information would, or could reasonably be expected to, prejudice an investigation (whether or not
+such an investigation has commenced):
+● of an offence against a law of the Commonwealth or of a State or Territory;
+● for the purposes of the Proceeds of Crime Act 2002 Cth or regulations under that Act;
+or
+● for the purposes of a law of a State or Territory law that corresponds to the Proceeds of
+Crime Act 2002 Cth or regulations under that Act.
+17
+
+This is known as the “tipping offˮ offence. The tipping off offence may be committed by the following
+persons (current or former):
+● a Reporting Entity;
+● an officer, employee or agent of a Reporting Entity;
+● a person that has been required to give information or produce documents under
+section 491 or section 49B1 of the AML/CTF Act.
+14.2 Exceptions
+The tipping off offence does not apply if the disclosure is made to another Reporting Entity and the
+disclosure is made for the purpose of detecting, deterring or disrupting ML/TF/PF or other serious
+crimes, subject to conditions which may be prescribed in the AML/CTF Rules being satisfied.63
+14.3 Controls to manage tipping off risk
+We have established safeguards to prevent the contravention of the tipping off offence by us or our
+officers, employees or agents.
+We implement the following protocols that reduce the risk of tipping off:
+● information regarding SMRs is not accessible on the Customerʼs file and is only to be
+provided to persons within our organisation, other than the AML/CTF Compliance Officer
+or the appointed Senior Manager, where it is determined that they need to know that
+information to fulfil the requirements of their role;
+● no information described above is to be provided to any third party unless AML/CTF
+Compliance Officer has first confirmed that it is permissible under one of the exemptions
+under subsections 1234 to 6 of the AML/CTF Act;
+● our Personnel must not do anything that would lead a Customer or anyone else (other
+than AUSTRAC to believe that a suspicion has been formed or that information has been
+communicated to AUSTRAC;
+● de-identify any Information that is distributed more widely across our business;
+● when discussing trends and insights, disclose generally identified patterns of behaviour
+rather than mentioning specific Customers or transactions;
+● implement and review audit trails of who accesses Information and when;
+● use a legally enforceable undertaking to ensure that Information is kept confidential by
+employees and any third parties we engage;
+● maintain good security practices such as secure electronic document storage, password
+protection of documents, secure document destruction of physical copies;
+● when sharing information with third parties, we will also consider adopting the following
+measures:
+o only disclose information to people that have a genuine need to know;
+o consider what legal obligations apply to third parties in foreign countries that we
+are sharing Information with to ensure they are consistent with our obligations
+under the AML/CTF Act;
+o consider whether third parties we may share Information with have adopted
+suitable controls to prevent tipping off, such as those outlined above; and
+o attach conditions to the further use of Information we provide to third parties to
+prevent the Information getting back to the subject.
+63 AML/CTF Act, s 123(5).
+18
+
+Section F
+Outsourcing and record keeping
+15. Record keeping
+15.1 Retention of records
+In accordance with Part 10 of the AML/CTF Act, we will keep a record, or a copy or extract of the
+record of certain kinds of information. This includes (but is not limited to) information related to the
+AML/CTF Program and records reasonably necessary to demonstrate our compliance obligations in
+connection with the establishment and maintenance of the AML/CTF Program under Part 1A of the
+AML/CTF Act.
+16. Outsourcing and third-party technology providers
+16.1 Engaging with Outsourced Services Providers
+With the written approval of a Senior Manager, we may appoint a third-party service provider to
+either:
+● perform selected obligations under these AML/CTF Policies; or
+● provide services for us to comply with parts of our AML/CTF obligations (e.g.,
+technology service providers).
+19
+
+Section G
+Matters not dealt with in these AML/CTF Policies
+17. Customer due diligence
+Given that Afterpay CA is a Reporting Entity only providing Designated Services at or through a
+permanent establishment outside Australia, these AML/CTF Policies developed under section 26F of
+the AML/CTF Act do not cover matters relating to customer due diligence, including Initial Customer
+due diligence and ongoing Customer due diligence.64
+18. Financial sanctions
+Given that Afterpay CA is a Reporting Entity only providing Designated Services at or through a
+permanent establishment outside Australia, these AML/CTF Policies developed under section 26F of
+the AML/CTF Act do not cover matters relating to financial sanctions.65
+19. Personnel due diligence and training
+Given that Afterpay CA is a Reporting Entity only providing Designated Services at or through a
+permanent establishment outside Australia, these AML/CTF Policies developed under section 26F of
+the AML/CTF Act do not cover matters relating to Personnel due diligence.66
+20. Suspicious matter, threshold transaction and value transfer
+service reporting
+Given that Afterpay CA is a Reporting Entity only providing Designated Services at or through a
+permanent establishment outside Australia, the obligations to report suspicious matters67, threshold
+transactions68 and international value transfer services do not apply to Afterpay CA.69 These AML/CTF
+Policies do not cover those matters.
+64 AML/CTF Act, ss 26F(2), 26F(3)(b).
+65 AML/CTF Act, ss 26F(2), 26F(3)(e), AML/CTF Rules, r 5-3.
+66 AML/CTF Act, ss 26F(2), 26F(4)(d) and 26F(4)(e).
+67 AML/CTF Act, Part 3, Division 2, s 42(5).
+68 AML/CTF Act, Part 3, Division 3, s 44(5).
+69 AML/CTF Act, Part 3, Division 4.
+20
+
+Section H
+Definitions
+21. Definitions
+The meanings of capitalised terms used in this document are set out below.
+Term Meaning
+Personnel means any persons employed or engaged by us, and who perform,
+or will perform, functions relevant to our obligations under the
+AML/CTF Act.
+AML/CTF means anti-money laundering and counter-terrorism financing.
+AML/CTF Act Means the Anti-Money Laundering and Counter-Terrorism Financing
+Act 2006 Cth
+AML/CTF Compliance means the individual designated as the AML/CTF compliance officer.
+Officer The name of each AML/CTF Compliance Officer is set out in
+Schedule 3.
+AML/CTF Laws means the following:
+● the AML/CTF Act
+● the AML/CTF Rules;
+● the Class Exemptions Rules;
+● and any other rules and regulations made under the
+AML/CTF Act from time to time.
+AML/CTF Program means the ML/TF Risk Assessment and these AML/CTF Policies.
+AML/CTF Rules means the Anti-Money Laundering and Counter-Terrorism Financing
+Rules 2025 Cth AML/CTF Rules).
+AUSTRAC the Australian Transaction Reports and Analysis Centre, which is
+Australiaʼs anti-money laundering and counter-terrorism financing
+regulator and financial intelligence unit.
+Beneficiary Institution means a beneficiary institution as defined in section 63A of the
+AML/CTF Act and rule 82 of the AML/CTF Rules.
+Class Exemption Rules means the Anti-Money Laundering and Counter-Terrorism Financing
+Rules Class Exemptions and Other Matters) Rules 2007.
+Customer means a person who has or intends to receive Designated Services
+from Afterpay CA.
+CDD means initial Customer due diligence and ongoing Customer due
+diligence.
+Designated Services the designated services in Schedule 2 to the AML/CTF Policies.
+ECDD means enhanced Customer due diligence.
+21
+
+Term Meaning
+Governing Body the governing body of Afterpay CA is the relevant group of
+individuals with primary responsibility for the governance and
+executive decisions of Afterpay CA, i.e. its board of directors.
+ICDD means initial Customer due diligence.
+KYC means “Know your Customerˮ.
+KYC Information means know-your-client information about a Customer.
+Merchant Payment has the meaning given to the term in rule 14 of the AML/CTF Rules.
+ML/TF/PF money laundering ML and terrorism financing TF and proliferation
+financing PF.
+ML/TF Risk Assessment the assessment of the ML/TF/PF Risk that Afterpay CA reasonably
+faces in providing Designated Services.
+OCDD means ongoing Customer due diligence.
+Ordering Institution means an ordering institution as defined in section 63A of the
+AML/CTF Act and rule 81 of the AML/CTF Rules.
+Ordering Institution Value means an item 29 Designated Service in table 1 of section 62 of the
+Transfer Service AML/CTF Act.
+Outsourced Service means any third party engaged by Afterpay CA to provide services
+Provider that may be used in connection with these AML/CTF Policies as
+described in section 16.
+Reporting Entity has the meaning given to it by section 5 of the AML/CTF Act as
+either:
+● a person who provides a designated service; or
+● the lead entity of a reporting group.
+Restricted Information means:
+● subject to certain limited exceptions, Afterpay CA has
+given AUSTRAC, or is required to give to AUSTRAC, an
+SMR;
+● that an SMR has been given or prepared for AUSTRAC,
+or a copy of such report;
+● a document purporting to set out information (including
+the formation or existence of a submission) contained in
+an SMR;
+● that a person is or has been required to give
+information, or produce a document, to a person in
+response to a notice issued under section 49 of the
+AML/CTF Act, or that it has given the required
+information or document;
+● that a person is or has been required to give
+information, or produce a document, to a person in
+response to a notice issued under section 49B of the
+22
+
+Term Meaning
+AML/CTF Act, or that it has given the required
+information or document; or
+● information referred to in paragraph 165Aa, (b), or (c)
+or 5AAa or (b) of the Financial Transaction Reports
+Act 1988, as in force immediately before its repeal.
+Senior Manager of a Reporting Entity, means an individual who makes, or participates
+in making, decisions that affect the whole, or a substantial part, of
+the business of the Reporting Entity.
+SMR or Suspicious Matter a report of a Suspicion made in accordance with section 41 of the
+Report AML/CTF Act.
+Transfer Message has the meaning given to it by section 5 of the AML/CTF Act as, for a
+Transfer of Value, a message that contains information relating to the
+content of the payerʼs instruction for the Transfer of Value, but does
+not include a message of a kind specified in the AML/CTF Rules.
+Transfer of Value or Value has the meaning given to it by section 5 of the AML/CTF Act as a
+Transfer transfer of money, virtual assets or property, but does not include:
+● a transfer of physical currency or other tangible
+property; or
+● a transfer of a kind specified in the AML/CTF Rules.
+Travel Rule means the travel rules that apply to an Ordering Institution,
+Beneficiary Institution or intermediary institution that are set out in
+rules 83 to 85 of the AML/CTF Rules.
+Value Transfer Chain has the meaning given to the term in section 63A11 of the AML/CTF
+Act.
+23
+
+– ML/TF Risk Assessment – summary
+Schedule 1
+Afterpay CAʼs ML/TF Risk Assessment was finalised at the end of 2025. The Risk Assessment outlines
+the results of the Money Laundering and Terrorism Financing (ML/TF) and Sanctions Risk
+Assessment (Risk Assessment) conducted by Block, Inc. (Block), in conjunction with Afterpay
+Australia Pty Ltd (Afterpay) covering the timeframe from January 2024 to December 2024.
+The Risk Assessment was performed to evaluate the risk that Afterpay products and services will be
+used to launder money, engage in Terrorist Financing, Proliferation Financing or support activity in
+contravention of sanctions rules, including the risks inherent in Afterpayʼs business, and the
+effectiveness of Afterpayʼs control environment in mitigating those risks. Afterpay implements a range
+of risk management strategies and controls to mitigate ML/TF and Sanctions-related risks. This
+assessment provides insights into the organisationʼs risk exposure and control effectiveness to
+highlight areas of strength and identify areas where potential enhancements are needed to its
+compliance program.
+Risk Assessment Results
+The 2025 Annual Risk Assessment yielded an overall risk rating of Moderate for both ML/TF and
+Sanctions. This assessment considered both inherent risk and control effectiveness across Afterpayʼs
+operations.
+The overall ML/TF results for Afterpay are as follows:
+Table 1 ML/TF Result Summary
+Inherent Risk Degree of Mitigation Residual Risk
+Moderate Partially Mitigated Moderate
+The overall Sanctions results for Afterpay are as follows:
+Table 2 Sanctions Result Summary
+Inherent Risk Degree of Mitigation Residual Risk
+Moderate Partially Mitigated Moderate
+Summary of ML/TF and Sanctions Inherent Risk:
+Table 3 Inherent Risk Rating by Risk Category
+Inherent Risk Category ML/TF Risk Sanctions Risk
+Customer Moderate Moderate
+Distribution Channels Moderate Moderate
+Emerging Low Moderate
+24
+
+Inherent Risk Category ML/TF Risk Sanctions Risk
+Geographic Low Moderate
+Organisational High High
+Products and Services Moderate Moderate
+Important points to note:
+● The increase in overall risk ratings from Low 2023 to Moderate 2024 reflects several
+key factors: 1 methodology enhancements that incorporated more granular quantitative
+data and a four-point rating scale, 2 substantial business growth 34.60% GPV
+increase) that elevated risk ratings under the enhanced methodology, 3 the launch of
+eGift Card products during the assessment period, and 4 control environment issues
+identified through Block's enterprise issue management system. It is important to note
+that major control improvements implemented in 2025, including the implementation of
+Consumer IDV, Merchant and Customer Risk Rating processes and Bank of Canada RPAA
+compliance preparation, occurred post-assessment period and will be reflected in the
+2026 assessment.
+● Risk rating overrides were applied to reduce certain inherent risk categories based on
+Afterpay Canada's lower-risk business model characteristics:
+● Industry Risk High to Moderate), Structure Risk Very High to Moderate), and
+Anonymity/Unverified Customers Risk Very High to Moderate) were reduced due to:
+limited merchant industry visibility, BNPL's inherently lower AML exposure (no stored
+value or cash handling), limited transaction caps, low geographic risk, and avoidance of
+deposit-taking or cross-border payments that typically elevate AML risk. As Afterpay
+Canada is not currently FINTRAC-regulated, it maintains a risk-based AML program as
+best practice, with controls proportional to its business model where fraud related
+activities, represents the primary financial crime risk.
+● Afterpay Canada is only available for Customers in a non-face-to-face environment via
+its mobile application platform or website. All of the delivery channels are conducted
+online. This delivery model increases the potential for impersonation, anonymity, and
+misuse of identity credentials, which are commonly exploited in financial crimes
+schemes. It also limits the opportunity to apply in-person verification controls, which
+heightens the Distribution Channels risk.
+● Vendors or suppliers providing AML/CFT and Sanctions screening services for Afterpay
+Canada are not located in jurisdictions deemed as high risk and Afterpay Canada does
+not have staff or offices located in high risk jurisdictions.
+● Afterpay Canada's business consists primarily of the BNPL product (representing
+approximately all GPV, which was assessed as 'Moderate' risk through the PRA, with the
+34.60% growth in GPV contributing to elevated Organizational risk ratings.
+Summary of the Control Environment:
+Table 4 Distribution of Controls by Control Effectiveness Rating
+25
+
+Assessment Effective Needs Weak Control Gap
+Improvement
+AML/CTF 56% 31% 6% 6%
+Sanctions 47% 33% 11% 9%
+Control gaps impacting Afterpay Canada were identified for the following controls and processes:
+Governance and Oversight:
+Regulatory obligations (both existing and new) are currently being tracked by local MLROs and
+Compliance Officers. However, a formal Block enterprise-wide process is needed to ensure
+completeness and consistency across all entities.
+Record Keeping Controls
+As a result of a Block-wide system configuration issue, customer screening records (including those
+for Afterpay) were not retained unless an alert case was generated in Bridger. The issue is recorded
+in Blockʼs issue management program, with remediation in progress and resolution expected by the
+end of 2025.
+Sanctions Program Controls
+While Afterpay Canada's AML Standard establishes formal requirements for asset freezing, Block
+does not currently have specific operational procedures for moving frozen funds to segregated
+accounts for Afterpay Canada documented in policy.
+26
+
+– Designated Services
+Schedule 2
+No. Designated Services under section 6 of the AML/CTF Act
+Providing the Designated Service at or through a permanent establishment of Afterpay CA in
+Australia
+1. Item 6, table 1 (making a loan, where the loan is made in the course of carrying on a
+loans business)
+2. Item 7, table 1 (in the capacity of lender for a loan or assignee of the lender for a loan,
+allowing the borrower to conduct a transaction in relation to a loan, where the loan was
+made in the course of carrying on loans business)
+3. Item 29, table 1 (in the capacity of ordering institution, accepting an instruction for the
+transfer of value on behalf of a payer).
+27
+
+– Afterpay CA Senior Managers and AML/CTF
+Schedule 3
+Compliance Officer
+AML/CTF Compliance Officer
+1.
+Afterpay CA has appointed the following person as the AML/CTF Compliance Officer:
+Pascalle Castagne
+Senior Managers
+2.
+Afterpay CA has appointed the following individuals to the role of Senior Manager with approval
+authorities set out below. The Senior Manager may exercise their approval authority alone and does
+not need to obtain the authority of any other individual provided the relevant approval is within the
+scope of their authority.
+Senior Manager Authority
+1. Safiya Adenekan May approve:
+● the AML/CTF Policies;
+● the ML/TF Risk Assessment
+and changes to these.
+May approve any of the ongoing matters requiring
+approval as set out in section 5.3 of the AML/CTF
+Policies.
+28

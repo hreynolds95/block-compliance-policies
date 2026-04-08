@@ -1,0 +1,420 @@
+Fraud Risk Management Standard
+Cash App | U.S.
+Last Approved: Jan 12, 2026
+Effective Date: Jan 12, 2026
+1. Overview
+Introduction and Purpose: This Fraud Risk Management Standard ("Standard"), established by
+Cash App, U.S., a Line of Business under Block, Inc., outlines Cash App's strategy to detect,
+prevent, deter, and report on individuals who attempt to defraud Cash App Customers, gain access
+to Customer accounts, or move money using Cash App with fraudulent intent. The Consumer
+Protection Compliance Program Lead and/or their designee is responsible for management of this
+Standard.
+This Fraud Risk Management Standard is established by Compliance. References to "staff
+members" throughout this document shall refer to all employees or external workers (e.g.,
+contingent labor, contractors) hired by Block, Inc. who supports the operations covered by this
+Standard.
+Cash App conducts business in compliance with applicable laws and regulations, maintaining and
+managing a combination of risk and compliance programs. The purpose of this Standard is to
+define the Fraud Risk Management Program and outline Cash App's strategy to ensure it upholds
+adequate risk and fraud mitigation strategies in line with industry expectations and relevant
+regulatory obligations. The activities in support of this Standard are administered
+cross-functionally and are designed to prevent and mitigate fraudulent activity on Cash App.
+Scope: This Standard is established by Cash App and is applicable to the Cash App business in the
+U.S. It defines the categories of fraudulent events, outlines the responsibilities of Staff to mitigate
+fraudulent activities and remove perpetrators of fraud from Cash App.
+
+Definitions:
+Terminology Definition
+Account Takeover ("ATO") When a third party maliciously gains access to a Consumer's
+account with the intention of using it for fraudulent purposes.
+Chargebacks When a cardholder files a dispute with their card issuing bank
+for a transaction funded by a linked debit or credit card.
+Consumer Consumer refers to an individual who is a natural person who
+obtains or has obtained a financial product or service that is to
+be used primarily for personal, family or household purposes.
+Customer Any individual, entity, or organization that has engaged in a
+transaction, purchased goods or services, or interacted with
+Block in a manner that establishes a direct relationship or
+affiliation.
+Denylisting The process by which Cash App accounts are closed after a
+determination or suspicion of involvement in harmful, fraudulent
+or illegal activity on Cash App.
+Fraud Any intentional act to obtain access to a Consumer's funds by
+deception, deceit, misrepresentation, or without authority.
+Fraudster An individual who commits an intentional act to gain access to or
+take Consumer funds without authority.
+Inauthentic Identities A label applied when Cash App has a reasonable level of
+knowledge that the underlying account holder is not the same as
+the identity that was used to successfully pass the identity
+verification process.
+Know Your Customer ("KYC") A legal requirement designed to prevent and monitor for identity
+theft, money laundering, terrorist financing, and other types of
+illegal activity by identifying a Consumer and understanding the
+purpose of the Consumer's account.
+
+Terminology Definition
+Machine Learning Model A machine learning model is a data transformation that has been
+("MLM") trained to recognize certain types of behaviors. A model is
+trained on a set of data, providing it an algorithm that it can use
+to reason over and learn from. Fueled by data, machine learning
+models are the mathematical engines of artificial intelligence.
+Scam A dishonest scheme or activity designed to deceive individuals
+by persuading them to make an authorized transaction sent
+under false pretenses.
+Scammer A type of Fraudster that specializes in perpetrating Scams.
+Staff Members An employee or external worker (e.g., contingent labor,
+contractors) hired by the Company who supports operations
+covered by this Standard.
+Synthetic Identity A fake identity that is used to create a new, untraceable identity
+made up of various data points that do not correlate to a real
+identity.
+2. Standard Requirements
+2.1 Consumer Education
+Cash App believes that providing proactive education to Consumers about the risk of Fraud and
+Scams, among other measures, is effective in helping to prevent fraud on Cash App. Cash App
+provides education using a variety of communication methods and platforms on the most common
+types of Fraud and Scams and informs Consumers about ways they can protect themselves and
+keep their money safe. Consumer education is updated when necessary to ensure that the
+information is current and relevant and includes emerging types of fraudulent activity.
+2.2 Consumer Onboarding
+Consumer Onboarding is a critical component of Cash App's Fraud Risk Management strategy as it
+serves as the primary process for ensuring that Cash App knows who it is allowing to use its
+platform and protects Consumers from having an account created as a result of identity theft.
+Know Your Customer ("KYC") allows for the reasonable understanding of the types of transactions
+a Consumer may engage in and the determination of when transactions may be suspicious and
+
+need further investigation. Cash App's KYC Policy documents the core components that influence
+Cash App's fraud risk management strategy which include:
+● Customer Risk Rating ("CRR"): During account onboarding, as well as on an ongoing
+basis, accounts receive a Customer Risk Rating, which allows for assessing the risks
+associated with the Consumer, such as identifying those who may be at a higher risk for
+perpetrating illegal and/or prohibited activity on Cash App.
+● Customer Due Diligence ("CDD") and Enhanced Due Diligence ("EDD"): Cash App
+performs ongoing CDD to understand the nature and purpose of the Customer relationship.
+As part of this program, EDD is performed on certain higher risk accounts and Customers.
+During CDD and EDD reviews, Compliance specialists conduct holistic reviews of accounts,
+which includes reviewing the Customer's identity information (e.g. IDV information,
+documents, source of funds / source of wealth, display names and $cashtag). As part of
+these reviews, if there are indicators of fraudulent activity, specialists may denylist the
+account, or escalate the account to the Financial Crimes team for further review.
+● KYC Refresh: Cash App maintains a KYC refresh program which helps to ensure, using a
+risk-based approach, that up-to-date Customer information is maintained on transacting,
+active Cash App users.
+Cash App also maintains an Identity Verification Standard, which outlines Cash App's strategy for
+verifying Customer's identity through the Identity Verification ("IDV") process on Cash App. The
+IDV process allows Cash App to maintain compliance with the KYC requirements under the Bank
+Secrecy Act ("BSA") and its implementing regulations. It also serves as a process reasonably
+designed to prevent Inauthentic Identities from engaging on Cash App. Core components
+supporting Cash App's management of fraud on the platform include:
+● Social Security Number ("SSN") Denylisting: Cash App maintains an SSN denylist, which
+is an internal list of SSNs that are associated with accounts that have had certain illicit or
+prohibited activity on Cash App. Once an SSN is added to the SSN denylist and is used
+again during IDV, that account is automatically denylisted.
+● Inauthentic/Stolen Identities: In addition to collecting and verifying identity information
+electronically, and in some cases via documentation, Cash App maintains machine learning
+models designed to detect inauthentic or stolen identities. These models may block IDV
+attempts, suspend accounts, or escalate to manual review based on suspicion of fraud.
+● Deceased Identities: To further prevent identity theft, as part of its IDV process, Cash App
+automatically denylists accounts (along with their SSN in the event the vendor returns a
+signal that the SSN is associated with a deceased individual.
+● Transaction Limits: Cash App has a risk-based, graduated identity verification process.
+When a Customer signs up for a Cash App account, they can send (or Cash App Pay) and
+receive P2P at lower amounts prior to going through identity verification. Payments may
+only be sent or withdrawn using a linked financial instrument from a U.S. depository
+institution (i.e., can not send P2P from stored balance). If a Customer chooses to engage
+more with Cash App, which includes access to other products and features, being able to
+send money from stored balance and higher transaction limits, Customers are required to
+successfully pass full IDV.
+● Elder Abuse Reviews: To manage the risks associated with Elder Financial Exploitation,
+Cash App maintains dedicated processes that focus on the proactively identifying
+instances of fraud/exploitation of elders, and takes action accordingly. Cash App manually
+
+reviews accounts where criteria entered in the IDV process meets defined thresholds. This
+enhanced review process helps to ensure that Cash App is identifying, deterring and
+escalating instances of elder abuse on the platform, inclusive of fraud and identity theft.
+2.3 Transaction Mitigation Measures
+Cash App maintains processes and controls designed to reduce the likelihood that Consumers are
+involved in fraudulent activity. These processes and controls are based on signals associated with
+an account, as well as the underlying activity within the account, such as prior Scam reports, links
+to denylisted accounts, suspicious payment notes or abnormal Customer transaction activity. Cash
+App employs mitigating actions to help disrupt fraudulent transactions as outlined below.
+● Consumer Fraud Warning: If a transaction has potential signals related to a Scam, a
+Consumer Fraud Warning for the sender will alert about the possibility of transferring funds
+to a Scammer. The warning acts as a deterrent and helps to alert and prevent Consumers
+from sending money for fraudulent purposes. The warning alerts the Consumer that if they
+elect to proceed with the transaction that Cash App will not be able to provide a refund.
+Transaction warnings are triggered by MLMs and not displayed on every transaction to
+prevent unconscious click bias by the Consumer, which helps ensure that the warnings
+remain effective in preventing Scams. Even if a Consumer chooses to proceed with a
+transaction after receiving a fraud warning, MLMs may still risk-block the transaction (see
+Real Time Transaction Blocking below). Additionally, for International Remittances, the
+sender of the funds is alerted by a Consumer Fraud Warning the first time they use the
+product and every time they send funds to a new recipient.
+● Cash App Customer Profiles: If sending a payment to a recipient for the first time and the
+recipient is not in the sender's contact book, Cash App prompts the sender to confirm they
+want to add the account as a recipient and suggests the Consumer check the recipient's
+profile before proceeding with the payment. This prompt encourages the sender to
+consider if they are sending money to the correct recipient by showing the recipient profile,
+which may include receiver's profile photo, when they joined Cash App and whether or not
+they've been paid by people they know. The prompt also attempts to prevent misdirected
+payments.
+● Real Time Transaction Blocking: If Cash App has moderate to high confidence that a
+transaction may be related to fraud, the payment may be risk-blocked by Cash App. Cash
+App uses MLMs to flag potential Scam payments. The MLMs trigger warnings for
+Consumers that encourage them to reconsider the payment in question before proceeding
+and also auto-blocks payments that are highly suspected of being a Scam. If Cash App has
+high confidence that the receiver of the transaction in question is a Scammer, Cash App
+will suspend the receiver account until they are able to pass enhanced verification or will
+denylist the receiver.
+● Account Takeover ("ATO") Locks: An ATO event occurs when a Fraudster gains
+unauthorized access to a Consumer's account, which may result in financial loss to the
+Consumer (and to Cash App if the Consumer files for a dispute or Chargeback). ATO
+events also may result in reputational risk if Consumers lose trust in Cash App's ability to
+protect their account. An ATO Lock is an automated action executed by Cash App's Risk
+ML systems, which prevents transactions from being sent from an account that is
+suspected to be involved in an ATO event. The ATO Lock initiates a manual review of the
+
+account, which can result in a variety of resolution measures such as removal of
+suspicious devices and resetting of account attributes.
+● Additional Security Features: Cash App has a security lock feature that requires Face ID,
+Touch ID, or a Cash App PIN code (separate from the Consumer's device passcode) to
+transfer funds and open the app. If a new device logs into an existing Cash App account for
+the first time, Cash App notifies the Consumer via in-app messaging, text, and/or email.
+The Consumer is prompted to review the log-in, and may revoke access to the device that
+logged in.
+● Product Controls: Cash App maintains bespoke controls for its individual products and
+features, which are designed to detect and prevent fraud based on the risk vectors specific
+to those use cases. These controls are identified by a cross-functional team across
+product, risk and compliance. These controls include, but are not limited to:
+○ Paper Money Deposits: Limitations on eligibility across accounts, limits on deposit
+amounts, geolocation controls based on infeasible distance, device level controls to
+prevent multiple deposits from the same device.
+○ Check Deposits: MLMs designed and trained to identify fraudulent checks, manual
+reviews based on fraud signals.
+○ Cash App Card: MLMs designed to detect potentially fraudulent transactions,
+which may trigger a notification to the Customer to confirm suspicious transactions.
+○ Bitcoin Withdrawals: Integration with third party vendors to detect potential fraud,
+real-time blocking of certain withdrawals suspected of fraud.
+The above list of products and underlying controls is illustrative, and a full inventory of risk events
+and controls are maintained by Cash App's Product Compliance team.
+2.4 Consumer Scam Reports
+Cash App seeks to make it as simple and easy as possible for CustomersConsumers to report
+potential fraudulently-induced transactions. It provides multiple channels for a Consumer to reach
+Cash App; reports can be made within the app or by contacting Cash App Support via phone or
+in-app messaging. Receiving reports from Consumers helps Cash App update its processes and
+controls to better detect and prevent future fraudulent activity.
+2.5 Investigations
+Cash App performs a systematic review of all Consumer reported instances of potential Scams
+received by Cash App's automated MLM. This MLM triages the potential Scam reports and queues
+those determined to be the highest probability of involving actual Scams for manual review. The
+manual review that follows is a comprehensive investigation that uses defined criteria to confirm if
+the Consumer is a victim of fraud and initiates the appropriate mitigating actions as a result of the
+investigation.
+In addition to the MLM used for Consumer reported Scams, there is a separate MLM used to
+proactively identify recipients of P2P payments which exhibit signals of potential Scammers. Those
+cases identified by the proactive Scam model are also determined to be the highest probability of
+
+involving actual Scams and queued for review. There are three distinct teams involved in the
+manual review and support of Scam investigations.
+● Risk Operations: The Scam investigations process was established to promptly identify,
+assess and mitigate fraudulent activities all while maintaining a high level of Consumer trust
+and satisfaction. The Scams division of the Risk Operations team is responsible for the
+manual review of all Scam reports and refers cases to Compliance Investigations aligned
+with the Escalation criteria for evaluation of Suspicious Activity Report ("SAR") filing.
+● Behavioral Insights Team ("BIT"): The BIT is a fraud analysis team supporting Cash App.
+The team employs several strategies to support its mission which is to "increase trust by
+reducing unhealthy behavior". BIT performs sampling reviews of the production models
+that support the fraud mitigation process; BIT accomplishes its analysis through two types
+of reviews:
+○ Foundational reviews are those that are consistent and repeatable. These reviews
+are consistent in their content, purpose and cadence. These reviews help to inform
+decision-making and help to identify emerging fraud trends.
+○ Ad Hoc reviews are those that are more time-bound and often are specifically
+requested by a stakeholder. These reviews usually analyze emerging or unknown
+behavior that may be identified by a stakeholder or in a foundational review where
+new or unexplained trends are identified.
+● Compliance Investigations: Transaction monitoring, a component of the Block, Inc.
+Anti-Money Laundering and Counter-Terrorist Financing Program, is a vital component to
+ensuring compliance with the Bank Secrecy Act and the management of financial crime
+related risk (including fraud). Potential suspicious activity and transactions are identified
+using several methods and are queued for review by a transaction monitoring team.
+Depending on the outcome of the review, accounts may receive a Suspicious Activity
+Report ("SAR") Referral, and "fraud" is a cause type used to categorize the underlying
+activity. The outcome of these investigations typically result in the denylisting of
+Customers, along with unique account assets associated with the Customer and account
+SSN, device, financial instrument, email address, phone number).
+2.6 Denylisting
+Denylisting is a process by which Cash App accounts are closed due to engaging in harmful,
+fraudulent or illegal activity on the platform. The process of denylisting is performed by both the
+Risk and the Compliance teams. A denylisted account is prevented from using Cash App's
+products and features, with the exception of liquidating assets and withdrawing funds. Cash App
+will provide notice to the Consumer that their account is linked to a Terms of Service violation and
+has been closed. The Consumer will receive notification to withdraw funds in their account.
+Cash App may also Denylist, as appropriate, other unique account assets such as social security
+numbers, payment instruments, devices, phone numbers, and/or email alias that appear likely to be
+involved in the perpetration of Scam related activities, or identified abuse of the reimbursement
+policy by falsely reporting Scams to seek unwarranted reimbursements. Consumers found to be
+engaging in Cash App dispute abuse are also subject to denylisting. Additional information on this
+process can be found in the Cash App Compliance Customer Adverse Actions Policy.
+
+2.7 Suspicious Activity Report ("SAR") Referrals
+Cash App accounts identified as perpetrating fraudulent activity during the course of a Risk
+Operations or BIT review will be referred to Compliance for review to determine whether a
+suspicious activity report should be filed. Staff will refer to Compliance any case of suspected
+fraudulent activity that involves $2,000 USD or more of transactional activity by a single
+perpetrator (whether acting through one or multiple accounts) calculated by "Total Received GPV".
+In addition to referrals, Compliance executes a distinct Transaction Monitoring program that may
+result in an account review based on suspicion of fraudulent account activity.
+2.8 Third Party Reporting
+Cash App partners with various third parties to process transactions, including partner banks.
+Contracts with these third parties may require reporting or notification under certain
+circumstances. Cash App has established a process where a Material Fraud Event triggers third
+party reporting obligations, as applicable, including documented root cause analysis with control
+remediation plan inclusive of defined timelines and ownership. Cash Appʼs top priority is to contain
+and mitigate material fraud events in a timely manner. For certain high-impact events, control
+actions may be implemented proactively, ahead of third-party notification to minimize potential
+impact.
+A Material Fraud Event is any fraudulent activity that, regardless of financial impact, exposes a
+deficiency in our existing control architecture requiring remediation through control enhancement,
+replacement, or retirement. An event qualifies as material when it results in any of the following
+control architecture changes:
+● Control Addition: Implementing new preventive, detective, or corrective controls to address
+identified gaps
+● Control Replacement: Substituting ineffective controls with more robust alternatives
+● Control Retirement: Removing controls proven ineffective or counterproductive based on
+the fraud event analysis
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Consumer Protection Compliance Lead:
+○ Consumer Protection Compliance Lead is responsible for:
+■ Serving as the subject matter expert for content relevant to this Standard,
+■ Ensuring this Standard and its accompanying policies and procedures reflect
+industry best practices and applicable regulatory guidance,
+■ Ensuring regulatory risks are documented,
+
+■ Providing and communicating roles and responsibilities to relevant stakeholders
+including business partners,
+■ Escalating matters related to the Fraud Risk Management Standard, as applicable,
+Conducting periodic review(s) of the Standard, and
+■ Delegating and overseeing documentation requirements, as needed.
+● Compliance:
+○ Provides oversight and guidance to Business Lines in implementing the requirements of
+this Standard.
+● Block, Inc., Chief Compliance Officer (“CCOˮ):
+○ Chief Compliance Officer is responsible for:
+■ Ensuring appropriate resources and support are available to implement this
+Standard;
+■ Serve as an escalation point for matters related to the Fraud Risk Management
+Standard;
+■ Ensuring that appropriate Staff Members are trained on Fraud and Scams, at least
+annually commensurate with their roles and responsibilities;
+■ As appropriate, the Head of Compliance may delegate the above responsibilities to
+relevant Senior Management, the Cash App Consumer Protection Compliance Lead
+or Compliance Staff who inform and escalate key risks and Issues to the Head of
+Compliance.
+● Legal Counsel:
+○ Provides interpretative advice and counsel regarding the applicability of the
+requirements of this Standard and relevant legal obligations to the Company's business
+and operational activities.
+● Machine Learning & Data Science Team:
+○ The Machine Learning & Data Science Team (“MLDSˮ) supports Cash App through two
+functions: Machine Learning (“MLˮ) and Data Science. The Machine Learning group is
+responsible for applying ML across most of the major work-streams at Cash App. This
+group is composed of both Machine Learning Modelers (“MLMsˮ) and Machine
+Learning Engineers (“MLEsˮ). Data Science helps product and business teams use data
+to guide their roadmaps and inform strategic decisions, understand Customer behavior,
+create curated datasets, and build standardized metrics and reporting for the areas of
+the business they support.
+● Senior Management:
+○ Senior Management, which includes key members of Block's management team, is
+responsible for supporting the Block, Inc. Chief Compliance Officer in delegated
+day-to-day responsibilities such as:
+■ Demonstrating clear and appropriate expectations about compliance, not only
+within Block and its related entities but also to third-party service providers;
+■ Maintaining effective internal controls and executing risk and control procedures on
+a day-to-day basis;
+■ Addressing compliance issues and associated risks of customer harm;
+■ Implementing corrective actions to address process and control deficiencies;
+■ Identifying and supporting execution of monitoring and testing plans, including the
+review of results; and
+■ Ensuring that recurring reports of compliance risks, issues, and resolution are
+retained.
+
+Members of Senior Management may also be compliance staff, reporting either directly or
+indirectly to the Block Chief Compliance Officer.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Standard effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash
+App and on a need-to-know basis.
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Block, Anti-Money Laundering & Countering The Financing of Terrorism Policy
+● Cash App, Consumer Protection Program Standard
+● Cash App, Know Your Customer Program Standard
+● Cash App, Identity Verification Standard
+● Compliance Training Program
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Brian Kollmeyer Consumer Initial Appr… Initial approval of September 22,
+Protection the Fraud Risk 2024
+Compliance Management
+Program Lead Standard.
+Jason Liberm… Interim Head of Initial Appr… Initial approval of September 22,
+Compliance, the Fraud Risk 2024
+Cash App Management
+Standard.
+Brian Kollmeyer Head of Scheduled … Annual review, January 12, 2026
+Consumer change of owner
+Protection to Fraud
+Oversight
+Program
+Manager, added
+sections 2.4 and
+2.8, and removed
+sections
+
+Approver Title Type Description Date
+addressed in the
+Electronic Fund
+Transfer Act
+Reg E Policy
+Document Details
+Business Cash App
+Scope U.S.
+Compliance Domain Consumer Protection
+Document Owner Fraud Oversight Program Manager
+Approved By Head of Consumer Protection
+Document Tier Tier 3

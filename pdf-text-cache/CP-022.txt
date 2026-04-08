@@ -1,0 +1,617 @@
+Disputes Standard
+Cash App
+Last Approved: Feb 5, 2026
+Effective Date: Feb 5, 2026
+1. Overview
+Introduction and Purpose: This Disputes Standard (“Standardˮ) outlines the strategy and approach
+to the intake, investigation, and resolution of Errors for Cash App, a line of business under Block,
+Inc. Cash App records NOEs and provides resolution by investigating and resolving NOEs in
+compliance with Electronic Funds Transfer Act (“EFTAˮ) 15 U.S.C. §§ 1693 et seq.) and Regulation
+E 12 C.F.R. Part 1005 requirements and industry best practices. The Disputes Consumer
+Protection Compliance Lead is responsible for the management of this Standard.
+Cash App conducts business in compliance with applicable laws and regulations, maintaining and
+managing a combination of risk and compliance programs. The purpose of this Standard is to
+define Cash Appʼs Disputes Program and outline Cash Appʼs strategy to ensure it upholds
+adequate Dispute resolution in line with industry expectations and compliance with regulatory
+obligations. The activities in support of this Standard are administered cross-functionally.
+Scope: This Standard is established for Cash App, a line of business under Block, Inc., and is
+applicable to the Cash App business and related products and services. The Dispute
+classifications in scope for this Standard are Cash App Peer to Peer (“P2Pˮ), Account Takeover
+(“ATOˮ), Cash App Card, Remittances, Automatic Clearing House (“ACHˮ), Deposits, Paper Money
+Deposits, and Cash App Pay.
+Definitions:
+Terminology Definition
+Account When a third party maliciously gains access to a Consumerʼs account with
+Takeover (“ATOˮ) the intention of using it for fraudulent purposes. Transactions resulting from
+an ATO are considered a type of Unauthorized Electronic Fund Transfer.
+1
+
+Automated The parameters for leveraging an automated investigation process for Dispute
+Criteria (“ACˮ) handling.
+Automatic ACH is a US payment network used by financial institutions to facilitate the
+Clearing House transfer of money between bank accounts. ACH transactions include outgoing
+(“ACHˮ)
+debits and incoming deposits to or from a Consumerʼs Cash App account.
+Business Day All days of the week except Saturdays, Sundays, and federal holidays.
+Cardholder CDRN is a chargeback prevention tool that sends real-time notifications to
+Dispute merchants when a cardholder disputes a transaction. This gives merchants
+Resolution
+time to contact the Consumer and resolve the issue before a chargeback is
+Network
+filed.
+(“CDRNˮ)
+Cashforce 1 A customized version of Salesforce used as Cash Appʼs Consumer
+(“CF1ˮ) relationship management software.
+Salesforce)
+Consumer An individual who is a natural person who obtains or has obtained a financial
+product or service that is to be used primarily for personal, family or
+household purposes.
+Curing Period This initial step in the investigation process is completed prior to running any
+ACs and is not implemented as an AC itself. The Curing Period does not
+affect Cash Appʼs adherence to the 10-day timeline requirements under
+Regulation E.
+Dispute A dispute is the act of alleging an Error regarding a transaction. In many
+scenarios, the process for reviewing disputes is governed by regulatory
+requirements.
+Dispute Abuse Dispute abuse refers to the behavior where customers file false or
+exaggerated claims regarding transactions, declaring legitimate transactions
+as unauthorized in order to seek refunds illegitimately. This type of abuse
+significantly undermines the integrity of Dispute resolution processes.
+Dispute Abuse Refers to a specialized review procedure used to manually verify the activity
+Detection of Consumers flagged for Dispute Abuse. This involves an ehanced review
+Program
+by a specialized team.
+Disputes The Disputes Decision Making Application for Cash App Dispute
+Decision Making investigations receives a command from the Disputes Platform containing
+Application
+basic information about the Dispute. The Disputes Decision Making
+Application then gathers all the information needed to evaluate ACs and
+make suggested actions for the Dispute; these actions include suggested
+2
+
+queue routing and final Dispute handling. It then sends the investigation
+result back to the Disputes Platform.
+Disputes Serves as a central repository for Disputes, enhancing Cash Appʼs oversight
+Platform of error resolution management. This platform helps track the dispute
+process from intake to resolution, including monitoring for SLAs.
+Document dIDV occurs when a Consumer submits an image of their government-issued
+Identity photo identification document (“IDˮ) as well as a “livenessˮ test (moving
+Verification
+selfie) and these submissions are verified with the vendor.
+(“dIDVˮ)
+Duress Duress is considered a threat of harm or use of physical harm by a third party
+that negates the customerʼs free will to voluntarily authorize a transaction.
+Actions that constitute duress include use of physical harm or violence, false
+imprisonment, physical constraint, kidnapping, coercion, psychological
+pressure, or an actual (or perceived) threat.
+Electronic Fund Any transfer of funds that is initiated through an Electronic Terminal,
+Transfer (“EFTˮ) telephone, computer, or magnetic tape for the purpose of ordering,
+instructing, or authorizing a financial institution to debit or credit a
+Consumer's account. The term includes, but is not limited to:
+● Point-of-sale transfers;
+● Automated teller machine transfers;
+● Direct deposits or withdrawals of funds;
+● Transfers initiated by telephone; and
+● Transfers resulting from debit card transactions, whether or not
+initiated through an Electronic Terminal.
+Electronic The eIDV process matches the identity information collected from the
+Identity Consumer to identity information returned by external vendors.
+Verification
+(“eIDVˮ)
+Electronic An electronic device, other than a telephone operated by a Consumer,
+Terminal through which a Consumer may initiate an electronic fund transfer. The term
+includes, but is not limited to, point-of-sale terminals, automated teller
+machines (“ATMsˮ), and cash dispensing machines.
+Error The term Error means:
+● Unauthorized EFTs;
+● Incorrect or missing transfers to or from a Consumerʼs account;
+● Omission of a transaction from a periodic statement;
+● Computational or bookkeeping Errors;
+● Receipt of an incorrect amount from an Electronic Terminal; and
+● Requests for documentation (unless requesting a duplicate copy), or
+3
+
+requests for information concerning transaction or clarification to
+determine whether an “Errorˮ specified above exists.
+For Remittance Transfers, “Errorˮ also means:
+● An incorrect amount paid by a sending Consumer, unless the
+remittance disclosures stated an estimate of the amount paid by the
+Sender and the difference results from application of the actual
+exchange rate, fees, and taxes, rather than any estimated amount;
+● Failure to make available to a designated recipient the amount of
+currency disclosed (unless certain conditions are met); and
+● Failure to make funds available to a designated recipient by the date
+of availability stated in the disclosure provided to the Sender (unless
+certain conditions are met).
+Notice of Error The written or oral communication from a Cash App Consumer indicating
+(“NOEˮ) that the Consumer believes there is an Error on related to their Cash App
+account, and that:
+● Provides sufficient information for Cash App to identify the
+Consumerʼs name and account number; and
+● Indicates why the Consumer believes an Error exists and includes to
+the extent possible the type, date, and amount of the alleged Error.
+A NOE is a regulated claim.
+For Remittance Transfers, a NOE is a written or oral communication from a
+Sender indicating the Sender believes there is an Error related to a
+Remittance Transfer sent from their Cash App account, and that:
+● Provides sufficient information for Cash App to identify the Senderʼs
+name, phone number, and address, the Remittance Transfer
+recipientʼs name, and if known phone number or address; and
+● Indicates why the Sender believes an error exists and includes to the
+extent possible the type, date, and amount of the error of the
+Remittance Transfer to which the notice of error applies
+Provisional A temporary credit that may be applied to a Consumerʼs account during a
+Credit NOE investigation if a decision is unable to be made within ten 10 business
+days.
+Regulator A proprietary tool used to view information and take certain actions on a
+Consumerʼs account.
+Remittance The electronic transfer of funds from a Consumer in the United States to a
+Transfer recipient in a foreign country. The transfer must be initiated by a remittance
+transfer provider and be greater than $15.00 U.S. dollars.
+4
+
+Sender (for A Consumer in a State who primarily for personal, family, or household
+Remittance purposes requests a remittance transfer provider to send a remittance
+Transfers)
+transfer to a designated recipient.
+Service Level The maximum allotted time for intake to resolution of a Dispute review.
+Agreement
+(“SLAˮ)
+Unauthorized An EFT from a Consumerʼs Cash App account initiated by a person other
+EFT than the Consumer without actual authority to initiate the transfer, and from
+which the Consumer receives no benefit Account Takeovers are considered
+to be Unauthorized EFTs). The term does not include an EFT initiated:
+● By a person who was furnished the access device to the Consumerʼs
+account by the Consumer, unless the Consumer has notified Cash
+App that transfers by that person are no longer authorized;
+● With fraudulent intent by the Consumer or any person acting in
+concert with the Consumer; or
+● By Cash App or its Staff Members.
+2. Standard Requirements
+2.1. Policy Statement
+Under Regulation E, a NOE refers to a Consumer's notification to a financial institution regarding a
+suspected Error in an EFT, which the financial institution is required to promptly investigate and
+determine whether an error occurred within ten 10 business days of receiving the NOE and
+communicate the results out to the Consumer within three 3 business of completing an
+investigation. If the financial institution determines an error did occur, it must correct the error within
+1 business day of completing its investigation. If the financial institution is unable to complete its
+investigation within 10 business days, the institution may take up to 45 calendar days from receipt of
+the NOE to investigate and must provisionally credit the Consumer's account in the amount of the
+alleged error while the investigation continues.
+Regulation E defines:
+● the types of EFTs to which the regulation applies;
+● acceptable methods by which a Consumer may provide an NOE;
+● timeframe to investigate the NOE;
+● Provisional Credit requirements;
+● notification of finding/resolution timeframes; and
+● the timeframe to correct the Error.
+5
+
+2.2. NOE Intake Methods
+Cash App provides an Error Resolution Disclosure as required by Regulation E with its initial
+disclosures when a Cash App Consumer creates an account with Cash App, and thereafter annually
+or with each periodic statement. The Error Resolution Disclosure describes how a Consumer can
+contact Cash App to file an NOE. For purposes of adhering to Regulation E timing requirements, an
+NOE is received when a Consumer provides the required information to Cash App through one of the
+channels outlined below.
+Cash App provides its Consumers with several intake methods to provide an NOE. The intake
+methods for a Consumer to provide a written or oral NOE to Cash App are using the form within the
+mobile application (available for Cash App Card and P2P transactions only), messaging Cash App
+through the mobile application, calling Cash Appʼs customer support, or mailing a physical letter to
+Cash App.
+● In app: The in-app form prompts the Consumer to answer questions and provide details,
+consistent with Regulation E, for the NOE.
+● Messaging Cash App: The Consumer is directed by an advocate to fill out the in-app form
+to file the NOE, or the Consumer is instructed to contact Cash App customer support.
+● Calling Cash App: Customer support gathers the required information from the Consumer
+and submits the NOE on behalf of the Consumer.
+● Mail: Customer Support uses the information from the mailed letter to locate the
+Consumerʼs account and creates a case in CF1. Once the Consumer passes a Personally
+Identifiable Information (“PIIˮ) verification process, the case is routed to Dispute
+Operations.
+2.3. Complaint NOE Requirements
+A Consumerʼs NOE is received by Cash App when the Consumer has provided the information
+required by Regulation E
+● Information that enables Cash App to identify the Consumerʼs Cash App account
+○ Consumers who contact Cash App via its messaging option to file an NOE are
+directed to the in-app form for filing Cash App Card and P2P transactions only).
+When an NOE is provided using the in-app form, the Consumer is prompted to
+complete eIDV prior to the NOE being recorded.
+○ Consumers will also be asked to verify either their email address or phone number
+they have on file with Cash App when they are submitting an NOE in-app.
+● The transaction date(s) and amount(s) involved in the NOE
+● Information that Cash App can use to determine the reason the Consumer believes there is
+an Error.
+Notice of written confirmation of receipt is provided from Cash App to the Consumer when that
+Consumer provides a compliant NOE to Cash App.
+6
+
+For Remittance Transfers, a compliant NOE has been received by Cash App when the Consumer has
+provided the information required by Regulation E, as outlined in § 1005.33. See Section 2.4 for
+specific timeline requirements for Remittance Transfer NOEʼs.
+2.4. Consumer NOE Submission Timeline
+For NOEs other than the exceptions outlined below, the Consumer has 60 days after the transaction
+first appears on their Cash App periodic statement to submit a timely NOE to Cash App—or 60 days
+after Cash App provides the Consumer's periodic statement. Statements are provided by Cash App
+on the 5th of the month, and the statements contain all of the transactions for the previous month.
+Therefore, according to Regulation E requirements, a timely NOE is provided within 60 calendar days
+after the 5th day of the month immediately following the month in which the transaction occurred.
+Cash App records the date that the NOE is provided by the Consumer, as this becomes the date from
+which resolution and communication timelines are based.
+● Extenuating Circumstances. Cash App will accept a late NOE in instances where the
+Consumer experienced extenuating circumstances (e.g. imprisonment, extended travel,
+hospital stay). If the investigation determines that an Error occurred on the account, Cash
+App will refund all Disputed transactions within the timeframe of those circumstances.
+Consumers are not required to provide documentation to Cash App. If it is concluded that
+an Error occurred on the account, Cash App will refund all Disputed transactions within the
+timeframe of the extenuating circumstances.
+● EFTs under Duress. An EFT is considered to be made under Duress if the EFT was made
+under circumstances involving physical harm or violence, false imprisonment, physical
+constraint, kidnapping, coercion, psychological pressure, or an actual (or perceived) threat.
+These NOEs are accepted on an indefinite basis.
+● Remittance Transfers. Cash App will investigate a Consumerʼs NOE related to a Remittance
+Transfer when the NOE is received within one hundred and eighty 180 calendar days of
+the disclosed fundsʼ availability date.
+2.5. Dispute Classification
+Disputes are classified and the investigation is conducted according to the associated Cash App
+product/transaction type using procedures and Knowledge Articles owned and maintained by Cash
+Customer Operations. At the time of publication of this Standard, the Disputes Classifications are:
+● Cash App P2P
+● Account Takeover
+● Cash App Pay
+● Cash App Card
+● ACH
+● Deposits
+● Paper Money Deposits
+● Remittances
+7
+
+Cash App Card and Cash App P2P Disputes may be supported by the use of the Automated Criteria
+(“ACˮ) Investigation process. Cash App Pay, ACH, Paper Money Deposits and Remittances require
+manual Dispute investigations.
+2.6. Dispute Abuse Detection Program
+Dispute Abuse generally refers to the behavior where a Consumer, or a group of Consumers acting
+in concert, repeatedly files fraudulent Disputes. This can include actions such as disputing multiple
+transactions without valid reasons, switching Claim reason codes to see which will provide better
+results, or having connections to other accounts participating in similar abusive behaviors. Cash App
+has established specific criteria and devoted a specialized Dispute review team that supports the
+Dispute Abuse Detection (“DADˮ) Program to determine if the Consumer is engaging in activity
+deemed to be Dispute Abuse.
+● If a Dispute is suspected to be related to Dispute Abuse, Cash App sends the transaction to
+the DAD queue.
+● If it is determined that the account is not engaging in Dispute Abuse, it is recorded as a
+false positive and CCO Dispute Operations investigates the Dispute. Other outstanding
+Disputes for the account are sent to the normal investigation queues to be manually
+reviewed. A false positive does not preclude a future Dispute from being routed to the DAD
+queue.
+● If it is determined that the Consumer is engaging in Dispute Abuse, the following actions
+occur:
+○ The account(s) and the SSN are denylisted;
+○ The submitted NOE and other outstanding or future NOEs are denied;
+○ The Consumer is notified that the review has confirmed the Dispute was fraudulent
+and that the account has been deactivated and the Dispute was declined.
+2.7. Dispute Investigations Overview
+When Cash App receives a compliant NOE, it is a representation of what the Consumer is claiming
+the Error to be and the NOE moves to the investigation process. Cash App utilizes both manual and
+automated reviews to investigate Consumer NOEs in accordance with the timeframes outlined in
+Regulation E. Cash App Card and Cash App P2P are the two products that include the use of AC as
+an aid for efficiently and consistently investigating and resolving complaints in compliance with
+Regulation E requirements. Substantively, Disputes reviewed using automation are decided the same
+as those determined through manual review.
+All other Dispute Classifications require the use of a manual investigation and Error resolution
+process in accordance with Cash Appʼs Dispute resolution procedures by a specialized CCO Dispute
+Operations Team.
+2.8. Unauthorized NOE Investigations
+For NOEs involving unauthorized EFTs Cash App accepts these NOEs indefinitely, regardless of
+whether they meet the 60 day notice timeline in Regulation E, and investigates all reports of
+8
+
+unauthorized activity regardless of when the NOE is provided by the Consumer. Even if the
+Consumer does not submit timely notice, Cash App will investigate in line with our regulatory
+obligations. A Consumerʼs NOE involving unauthorized EFTs is received by Cash App when the
+Consumer has provided a compliant NOE to Cash App. NOEs are categorized based on the type of
+activity reported or discovered. An NOE involving unauthorized activity will be reviewed and resolved
+in accordance with Regulation E timelines.
+2.9. Automated Criteria Dispute Investigation
+The AC Dispute investigation replicates manual review policies and decisioning to optimize
+workflows, create efficiencies and better enforce consistent decision making. When an NOE for a
+Cash App Card transaction is provided, the NOE is recorded, and Cash App imposes a Curing Period
+prior to routing the NOE. After the Curing Period has passed, the NOE progresses to the initial step
+in the AC investigation process where it is determined whether the NOE can continue through the AC
+investigation process, needs to be routed for manual review, or to another queue DAD queue or
+filed to the Visa, Pulse or NACHA network).
+Disputes are provided with a manual investigation by the Disputes Operations Team and BPO
+Partners when the NOE is related to Cash App Pay, ACH, Paper Money Deposits, and Remittances.
+ACs may determine if a Cash App Card or Cash App P2P NOE requires a manual investigation and if
+so, the NOE is routed for manual investigation. The manual Dispute investigation process is outlined
+in procedures and knowledge articles executed by the CCO Disputes Operations team and BPO
+Partners.
+2.10. Dispute Resolution and Communication Timelines
+The timelines outlined in this Standard adhere to the requirements of Regulation E, regardless of
+whether an NOE is investigated by the Manual Dispute Investigation Process or the Automated
+Dispute Investigation Process.
+Disputes excluding Cash App Card and Remittance:
+Ten Business Days: Cash App conducts Dispute investigation and resolves Dispute
+Correct Within one If an Error is found, Cash App corrects the Error and refunds the
+Error and Business Day of Consumer (including any applicable interest and related fees
+refund determining an incurred)
+Consumer Error occurred
+Notificatio Within three Upon conclusion of the investigation, Cash App provides
+n of Business Days notification of the Dispute resolution to the Consumer. If the
+resolution after Dispute was denied or Cash App determined that a different Error
+completing the occurred, Cash App provides the Consumer with a written
+investigation explanation of its findings and informs the Consumer that they can
+request information used in the decisioning from Cash App.
+9
+
+Cash App Card Disputes:
+Ten Business Days: Timeline to investigate NOE unless Provisional Credit is provided
+Correct Within one If an Error is found, Cash App corrects the Error and refunds the
+Error and Business Day of Consumer (including any applicable interest and related fees
+refund determining an incurred)
+Consumer Error occurred
+Notificatio Within three Upon conclusion of the investigation whether within the 10
+n of Business Days business day investigation timeline or in the extended timeline with
+resolution after Provisional Credit, Cash App provides notification of the Dispute
+completing the resolution to the Consumer. If the Dispute was denied or Cash App
+investigation determined that a different error occurred, Cash App provides
+Consumer with a written explanation of its findings and informs the
+Consumer that they can request information used in the
+decisioning from Cash App.
+Approaching 10 Business Days (without completing investigation): Provisional Credit is
+provided to the Consumer. If Provisional Credit is provided the investigation can extend
+to 45 calendar days and the below timelines also apply.
+Advise Within two Cash App advises the Consumer of the Provisional Credit within
+Consumer Business Days two business days of its application and gives the Consumer full
+of use of the funds during the extended investigation time.
+Provisiona
+l Credit
+Inform Five Business If no Error occurred or a different Error occurred, Cash App will
+Consumer Days from inform Consumer that Provisional Credit will be debited five
+that notification to business days from the transmittal of the notification and will
+Provisiona the Consumer specify calendar date and amount for the debit to occur.
+l Credit will that the
+be debited Provisional
+Credit will be
+debited
+Provisiona After 45 Cash App has made a final determination on the Error, and makes
+l Credit is calendar days the Provisional Credit permanent and informs the Consumer.
+made of the NOE
+permanent
+Remittance Transfer Disputes:
+90 calendar days: Cash App conducts Dispute investigation and resolves Dispute
+For Error Within one If an Error is found, Cash App corrects the Error by refunding to the
+type Business Day, Sender the amount of funds provided by the Sender in connection
+outlined in or as soon as with a remittance transfer which was not properly transmitted, or the
+§ reasonably amount appropriate to resolve the Error; or
+1005.33(a)( practicable making available to the designated recipient without additional cost
+10
+
+1) (i - iii) - to the sender or to the designated recipient, the amount appropriate
+Correct to resolve the Error.
+Error and
+refund
+Consumer
+For Error Within one If an Error is found, Cash App corrects the Error by refunding to the
+Type Business Day, Sender the amount of funds provided by the Sender in connection
+outlined in or as soon as with a remittance transfer which was not properly transmitted, or the
+§ reasonably amount appropriate to resolve the Error; or
+1005.33(a)( practicable making available to the designated recipient the amount to resolve
+1)(iv) - the error. Such amount must be made available to the designated
+Correct recipient without additional cost to the sender or to the designated
+Error and recipient; and
+refund Refunding to the Sender any fees imposed and, to the extent not
+Consumer prohibited by law, taxes collected on the remittance transfer.
+Notification Within three Upon conclusion of the investigation, Cash App provides notification
+of Business Days of the Dispute resolution to the Consumer. If the Dispute was denied
+resolution after or Cash App determined that a different Error occurred, Cash App
+completing the provides the Consumer with a written explanation of its findings and
+investigation informs the Consumer that they can request information used in the
+decisioning from Cash App.
+2.11. Disputes Governance
+2.11.1 Reporting, Testing and Monitoring
+● Operational Queue Reporting: Dispute Operations within Risk Operations reports on the
+health/status of operational queues through multiple methods and at various frequencies.
+○ Dispute Operations Leadership Queue Reporting:
+■ Daily leadership reports;
+■ Daily volumes and corresponding Business Day SLA 7 days a week);
+■ Reports provided to the bank partner for Cash App Card Monday through
+Friday); and
+■ Dispute queue volumes.
+○ Intraday Workforce Operations (“WFOˮ) monitoring:
+■ Noon and end of day queue progress reports;
+■ Daily tracking of queue input/output daily for overall queue “healthˮ; and
+■ Enables capacity forecasting and rapid decision making and resource
+allocation.
+● Control Testing and Reporting: The Disputes Operations Team is supported by Operational
+Excellenceʼs (“OEˮ) Control Testing Team to support control testing, reporting, monitoring,
+and validation. The Disputes Channel and Group Leads own and are accountable for the
+risks embedded within the various operational processes. OE Control Testing results are
+issued to the Channel Leads and involved stakeholders after each testing period has
+concluded. Control testing frequency is determined by control frequency and process
+criticality. Testing covers both design and operating effectiveness to determine whether
+the controls appropriately mitigate the stated and associated risks of the processes.
+11
+
+2.11.2 Automated Criteria Change Management Process
+Cash App has defined a change management process to maintain a standardized and objective
+approach to AC creation, testing and approvals. The effort is logged and tracked in the change
+management database. The Checklist includes steps that need to be completed as well as required
+approvals that need to be obtained prior to progressing to the next stage in the process. Any ACs
+that pass required check points and are deployed into production are then monitored at the one day
+and one week timeframe post-deployment.
+2.11.3 Manual Investigation Procedure Reviews
+Any updates to or the creation of new Manual Investigation procedures require review and approval
+by the corresponding CCO Risk Operations Disputes Operations Channel Lead, Consumer Protection
+Compliance Manager or Lead, and final review and approval by the ORO Policy Governance
+Manager. The Manual Investigation procedures shall be reviewed at least annually or on an ad hoc
+basis when procedures change, systems/tools are updated or launched, organizational changes
+occur or regulatory requirements change or are updated.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Behavioral Insights Team (“BITˮ):
+○ BIT is a fraud analysis team that identifies, describes, and organizes Cash App
+Consumer behaviors. BIT investigates and analyzes emerging threats to provide
+intel to Risk Machine Learning ML.
+● Business Process Outsourcing (“BPOˮ) Partners:
+○ BPO Partners are responsible for conducting manual reviews and taking actions on
+Dispute Claims in line with applicable SLAs. BPO teams operate under the oversight
+of Dispute Operations, and are subject to regular quality audits and performance
+monitoring to ensure alignment with requirements.
+● Cash App Consumer Protection Compliance Program Lead:
+○ Cash App Consumer Protection Compliance Program Lead as owner of this
+Standard is responsible for:
+■ Serving as the subject matter expert for content relevant to this Standard,
+■ Ensuring this Standard reflects industry best practices and applicable
+regulatory guidance,
+■ Ensuring regulatory risks are identified in documentation,
+■ Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners,
+■ Provide oversight and guidance to business units in implementing
+Regulation E and other Dispute related requirements,
+■ Conducting periodic review(s) of the Standard, and
+12
+
+■ Delegating and overseeing documentation requirements, as needed.
+● Cash App Consumer Protection Compliance Program Manager(s):
+○ Cash App Consumer Protection Compliance Program Manager(s), as delegated by
+the Lead, is responsible for:
+■ Overseeing the documentation of requirements in this Standard,
+■ Serving as a subject matter expert for content relevant to this Standard,
+■ Providing oversight and guidance to business units in implementing
+Regulation E and other Dispute related requirements,
+■ Conducting periodic reviews of the Standard.
+● Head of Consumer Protection Compliance:
+○ The Head of Consumer Protection Compliance is responsible for:
+■ Ensuring appropriate resources and support are available to implement this
+Standard.
+■ Serve as an escalation point for matters related to this Disputes Standard.
+■ Ensuring that appropriate Staff Members are trained on relevant topics from
+this Standard at least annually, commensurate with their roles and
+responsibilities.
+○ As appropriate, the Head of Consumer Protection Compliance may delegate the
+above responsibilities to relevant Senior Management who inform and escalate key
+risks and Issues to the Head of Compliance.
+● Cash Customer Operations (“CCOˮ) Dispute Operations Team:
+○ CCO Dispute Operations Team is responsible for conducting manual reviews and
+taking actions on Dispute Claims in line with applicable SLAs. The Dispute
+Operations team consists of internal Block Staff Members as well as the use of
+third-party vendors who are engaged as Business Process Outsourcing BPO
+partners.
+● Disputes Product Team:
+○ Part of the Trust Product Team consisting of product managers, designers, server
+engineers, mobile engineers, and product data science responsible for NOEs
+submitted to Cash App by Consumers (i.e., excludes chargebacks filed with
+external card issuers).
+○ The Disputes Product Team owns the Consumer Dispute experience and related
+Consumer communications, the Dispute-related system platform development
+(including testing, monitoring, and reliability), agent tooling, Dispute data, reporting,
+analytics, and the automated decisioning capabilities.
+● Financial Platform Engineering (“FinPlatˮ):
+○ FinPlat owns the integrations with third parties/networks CDRN, Marqeta,etc),
+including acquirers and issuers. Therefore owns all internal handling of transaction
+states, actions, and ledgering for EFTs on Cash App.
+● Legal:
+○ Identify applicable legal requirements and provide feedback on related questions
+from Business Units and Risk and Compliance.
+● Marqeta:
+○ Program manager for the Cash App Card, which includes management of the setup,
+configuration, and maintenance. Cash App Card Disputes are handled via Marqetaʼs
+13
+
+“Program Submissionˮ model where Cash App submits Cash App Card Disputes to
+Marqeta for submission to the Visa, Pulse or NACHA network.
+○ Marqeta conducts reviews of Cash App's handling of Cash App Card Disputes in
+adherence to Regulation E requirements.
+● Risk Machine Learning (“MLˮ):
+○ Maintains and supports models that apply actions based on transactional behavior.
+● Trust Product Team:
+○ Supports Cash Appʼs top strategic business priority to build and maintain trust with
+our customers. The team aims to foster the safety, security, and support of our
+customers and their assets by maintaining a healthy ecosystem that enables us to
+deepen our financial relationship with customers and responsibly grow our
+business.
+○ The Trust Product Team helps build confidence with our customers by combating
+fraud, supporting authentic behavior, limiting bad actors, understanding customer
+identity, improving controls and monitoring, and focusing on product quality.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Standard effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+Additionally, Cash App will retain evidence of compliance with the requirements of Regulation E,
+and otherwise with respect to activities related to adherence to this Policy, for a minimum of two
+2 years from the date disclosures are required to be made or action is required to be taken. In
+instances where Cash App receives notice of an investigation, enforcement proceeding by an
+14
+
+enforcement agency, or is served notice of an action filed under sections 910, 916, or 917(a) of the
+EFTA, Cash App will retain the records that pertain to the investigation, action, or proceeding until
+final disposition of the matter unless an earlier time is allowed by court or agency order.
+3.5. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Electronic Fund Transfer Act Regulation E Policy
+● Electronic Fund Transfer Act (“EFTAˮ) 15 U.S.C. §§ 1693 et seq.
+● Regulation E 12 C.F.R. Part 1005
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Jason Liberman Interim Head of Initial Appro… Initial Approval Dec 18, 2024
+Compliance, Cash
+App
+15
+
+Brian Kollmeyer Consumer Initial Appro… Initial Approval Jun 13, 2025
+Protection
+Program
+Compliance Lead
+Brian Kollme… Consumer Immaterial C… Minor changes February 5, 2026
+Protection removing
+Program references to
+Compliance Lead 'step-up' program
+and processes
+involved with that
+program. Updates
+made to include
+'Dispute Abuse
+Detection
+Program' and
+accompanying
+procedures.
+Document Details:
+Business Cash App
+Scope Regional U.S.
+Compliance Domain Consumer Protection
+Document Owner Disputes Consumer Protection Compliance Lead
+Approved By Consumer Protection Program Compliance Lead
+Document Tier Tier 3
+16

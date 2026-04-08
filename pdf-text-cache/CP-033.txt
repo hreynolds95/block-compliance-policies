@@ -1,0 +1,363 @@
+Vulnerable Customer
+Policy
+Cash App | UK | Squareup Europe Limited
+July 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App UK and
+on a need-to-know basis.
+Vulnerable Customer Policy | Cash App UK
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Definitions 4
+1. Introduction 5
+2. Purpose 5
+3. Scope 5
+4. Policy Requirements 5
+4.1 Identifying Vulnerable Customers 6
+4.2 Understanding Cash App's Target Market 8
+4.3 Supporting Vulnerable Customers 9
+4.4 Product Design 9
+4.5 Customer Service & Communication 10
+4.6 Data Review & Ongoing Compliance Monitoring 10
+4.7 Building a Culture of Treating Vulnerable Customers Fairly 11
+5. Document Management 11
+5.1 Document Owner 11
+5.2 Review and Approval 12
+6. Training 12
+7. Monitoring and Reporting 12
+8. Exceptions 12
+9. Recordkeeping 12
+10. Related Documentation or References 13
+11. Revision and Approval History 13
+12. Document Details 14
+Vulnerable Customer Policy | Cash App UK
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Financial Conduct The FCA is a financial regulatory body in the United Kingdom, responsible for
+Authority (“FCA”) issuing SEL licence as an e-Money Institution (“EMI”).
+Customer For the purposes of this policy, a customer is defined as all Cash App UK users
+including potential customers, where appropriate.
+Consumer An individual who is acting for purposes that are outside their trade, business,
+or profession.
+Vulnerable Customer As per FG21/1 guidance published by the FCA, a Vulnerable Customer is
+someone who, due to their personal circumstances, is especially susceptible to
+harm, particularly when a firm is not acting with appropriate levels of care.
+Staff An employee or external worker (e.g., contingent labor, contractors) hired by
+the Company who supports the operations covered by this Policy.
+Roles and Responsibilities
+Role Responsibility
+SEL Board Responsible for the oversight and approval of the Policy, ensuring it aligns with
+the Cash App’s strategic objectives.
+Consumer Duty Responsible for ensuring the organisation adheres to consumer protection
+Champion regulations and prioritises customer interests. They advocate for fair
+treatment, oversee compliance with consumer protection standards, and
+support staff in upholding best practices.
+Head of Compliance Responsible for ensuring effective policy implementation and reporting on
+compliance issues and policy effectiveness to the RGC and the Board.
+Staff Responsible for understanding and adhering to the policy, identifying
+Vulnerable Customers and providing the necessary support, following the
+guidelines set forth in the policy.
+Compliance Responsible for monitoring compliance with this policy and conducting regular
+audits to ensure ongoing compliance. They provide guidance and support to
+Staff on policy-related issues.
+Vulnerable Customer Policy | Cash App UK
+4
+
+Confidential and Not for Distribution
+1. Introduction
+The Cash App UK (“Cash App”) service involves the provision of a digital-only peer-to-peer e-money wallet to
+customers. Cash App is required to ensure that every customer who has a characteristic or characteristics of
+vulnerability is treated fairly, and where possible, in accordance with their needs. This requirement is
+designed to ensure that Vulnerable Customers experience outcomes equal to those of other customers, and
+receive consistently fair treatment.
+2. Purpose
+The purpose of the Vulnerable Customer Policy (the “Policy”) is to define Cash App UK’s obligations in
+engaging with Vulnerable Customers. It aims to ensure that Cash App delivers fair treatment, offers
+appropriate assistance, and maintains clear communication to protect and support customers who may be in
+vulnerable situations.
+3. Scope
+This Policy is established by Cash App UK and is applicable to Cash App UK. No part of this Policy or its
+supporting documentation should be interpreted as contravening or superseding any other legal or
+regulatory requirements imposed upon Cash App UK. Any conflicts between this Policy and Cash App's other
+legal or regulatory obligations should be submitted immediately to the Head of Compliance for further
+evaluation.
+4. Policy Requirements
+SEL is authorised by the FCA as an EMI pursuant to the Electronic Money Regulations 2011.
+The FCA’s Finalised Guidance on the Fair Treatment of Vulnerable Customers provides guidance on how
+authorised firms, including EMIs, should treat their Vulnerable Customers. EMIs are required to pay attention
+to the fair treatment of Vulnerable Customers across all products and services. In this Policy, Cash App
+demonstrates how its business model, the actions it takes, and its culture ensures the fair treatment of all
+customers.
+Vulnerable Customer Policy | Cash App UK
+5
+
+Confidential and Not for Distribution
+The FCA's approach to regulation is outcomes-focused and based on the Principles for Business (the
+Principles), with the key Principle underpinning the need for Cash App to take particular care in the
+treatment of Vulnerable Customers being Principle 6 – Customers' interests: a firm must pay due regard to
+the interests of customers and treat them fairly.
+In addition, Cash App is also required to take into account the FCA’s Consumer Duty guidance in its approach
+to Vulnerable Customers.
+Cash App should also comply at all times with its obligations under the Equality Act 2010, particularly in its
+approach to Vulnerable Customers.
+4.1 Identifying Vulnerable Customers
+In order for the needs of Vulnerable Customers to be correctly addressed, it is important to be able to
+identify them and so Cash App is required to implement processes for Staff to identify vulnerable
+characteristics / behaviour and encourage disclosure. Cash App is also required to ensure that all relevant
+Staff receive training to understand the factors that can help to identify a Vulnerable Customer, encourage
+such disclosure and support the customer appropriately.
+Characteristics that can help identify a Vulnerable Customer can be divided into four key drivers of
+vulnerability. The characteristics associated with each driver are summarised below:
+Health Life Events Resilience Capability
+● Physical disability ● Retirement ● Inadequate ● Low knowledge or
+● Severe or long-term ● Bereavement (outgoings exceed confidence in
+illness ● Income Shock income) or erratic managing finances
+● Hearing or visual ● Relationship income ● Poor literacy or
+impairment Breakdown ● Over- indebtedness numeracy skills
+● Mental health ● Domestic abuse ● Low savings ● Poor English
+condition or (including economic ● Low emotional language skills
+disability control) resilience ● Poor or
+● Addiction ● Caring non-existent digital
+responsibilities skills
+Vulnerable Customer Policy | Cash App UK
+6
+
+Confidential and Not for Distribution
+● Low mental ● Other ● Learning difficulties
+capacity or circumstances that ● No or low access to
+cognitive disability affect people’s help or support
+experience of
+financial services
+e.g., leaving care,
+migration or
+seeking asylum,
+human trafficking
+or modern slavery,
+convictions
+Living with a disability, illness, or diagnosis does not in and of itself make someone vulnerable. It is a person's
+situation and barriers to accessing services that may make them vulnerable. Equally, a person may be
+vulnerable without any disability, illness or diagnosis, for example, if they are recently bereaved or are frail.
+Vulnerability can take many different forms, be temporary or permanent and the characteristics can be
+overlapping.
+Outside of circumstances where a customer directly informs Cash App that they have a condition, diagnosis,
+or circumstance that places them in a vulnerable position, there are some common customer behaviours
+which may indicate vulnerability, such as:
+● Repeat requests for the same or similar information; (a sign that the customer is not retaining
+information)
+● Difficulty understanding and/or engaging with information presented to them;
+● More than average instances where the customer has to reset their Cash App password or other
+security details.
+When a customer is identified as vulnerable, Cash App has an obligation to:
+● Provide the best possible service to Vulnerable Customer
+● Provide reasonable assistance and care when required
+● Be able to recognise and respond to the needs of Vulnerable Customers.
+Vulnerable Customer Policy | Cash App UK
+7
+
+Confidential and Not for Distribution
+4.2 Understanding Cash App's Target Market
+Cash App should be aware of the situations and circumstances that may lead to a customer in their target
+market or customer base becoming vulnerable. Cash App is also generally available to the entire UK
+consumer base over the age of 18.
+Here are some generic vulnerability characteristics that may be seen across generally Cash App's target
+market:
+● Financial Hardship: Individuals experiencing financial difficulties, such as those with low income,
+high debt levels, or who are unemployed or underemployed.
+● Digital Literacy: Individuals who are not familiar with using digital financial services, including
+older adults or those with limited access to technology and the internet.
+● Language Barriers: Non-native English speakers or those with limited proficiency in English,
+which can impact their ability to understand and use the app effectively.
+● Cognitive Impairments: Individuals with mental health conditions, cognitive disabilities, or
+learning difficulties that may affect their ability to manage finances and use digital tools.
+● Age: Older adults who might struggle with new technology can both face challenges.
+● Health Issues: Individuals with serious or chronic health conditions that result in financial strain
+and added stress.
+● Victims of Fraud or Scams: Those who have been previously targeted by financial fraud or
+scams, or are particularly vulnerable to such activities.
+● Economic Changes: Customers affected by broader economic factors in the UK, such as
+inflation, changes in interest rates, or economic downturns, which can exacerbate financial
+vulnerabilities.
+Identification of any particular key vulnerability drivers does not mean that Cash App's customers are not at
+risk of other drivers. Cash App and its Staff must be open-minded and flexible enough to meet each different
+circumstance.
+Vulnerable Customer Policy | Cash App UK
+8
+
+Confidential and Not for Distribution
+4.3 Supporting Vulnerable Customers
+Cash App is required to consider the needs of Vulnerable Customers throughout the entire lifecycle of a
+product, from product creation through to the relationship with a customer.
+4.4 Product Design
+Cash App is by nature a product that has been designed to foster simplicity and ease of use for customers.
+Cash App currently provides a limited payments functionality (i.e. peer-to-peer transacting, stored balance
+and withdrawal), significantly reducing the risk of harm to customers associated with vulnerabilities at the
+onboarding and initial use stage of the customer relationship.
+The FCA expects regulated firms to take time to understand what Vulnerable Customers might need from a
+product or a service or how they might be affected by changes to an existing product or service. The FCA will
+also expect Cash App to consider and potentially test the impact Cash App has on Vulnerable Customers.
+Cash App typically conducts research with existing and prospective customers at different stages of the
+product development process. Research participants are typically engaged:
+1. Prior to the product design and build stage, in order to understand customer needs and how a
+proposed product can serve them;
+2. During the design stage, in order to ensure that a product is being built for ease of use and
+understanding; and,
+3. After a new product launch in order to evaluate the product’s impact on customers’ lives and
+financial objectives.
+These learnings, together with customer insights from other sources such as Data Science, Customer
+Support, and complaints data inform the decisions made in the design and development of Cash App’s
+products to ensure they address customers’ needs,
+Any new proposed product or service (or significant enhancement of an existing product or service) must
+adhere to the new product approval policy and be brought to the attention of Cash App’s Consumer Duty
+Champion, by the Product Team, at the earliest stage of development, who will ensure that the needs of all
+Vulnerable Customer Policy | Cash App UK
+9
+
+Confidential and Not for Distribution
+customers, particularly Vulnerable Customers, are being considered. The Consumer Duty Champion may
+designate authority for overseeing this process to a delegate with relevant consumer protection expertise.
+Products and their features must be tested internally and in staging environments before product rollout to
+the general audience, to ensure the product is fit for customers' needs. Any queries or feedback raised by
+customers to the Staff should be communicated back to the relevant teams and integrated into future
+product development, to maximise customer experience and treatment.
+4.5 Customer Service & Communication
+A customer’s vulnerability is to be taken into account by customer support advocates and handled in
+accordance with established procedures designed to ensure that the customer receives similar outcomes to
+those without such vulnerabilities.
+The primary channel whereby Cash App is capable of determining that a customer is vulnerable or where
+customers are able to tell Cash App about a potential area of vulnerability is through Cash App’s in-app
+support channel. Where customers divulge information of vulnerability, these records are to be retained for
+future access in accordance with recordkeeping requirements, in order to ensure that the customer receives
+appropriate support and does not need to repeat their circumstances at a later date.
+4.6 Data Review & Ongoing Compliance Monitoring
+The FCA requires Cash App to implement appropriate processes to evaluate whether it has met the needs of
+Vulnerable Customers and to make improvements if required. In order to do this, Cash App requires
+up-to-date management information (“MI”) on the outcomes it is delivering for Vulnerable Customers.
+Cash App is required to review MI on at least a quarterly basis in order to ensure that it is delivering good
+outcomes for Vulnerable Customers. Such MI may include:
+● Complaints data, such as:
+○ Service level success rates;
+○ Trend analysis on consumer complaints including a focus on any particular process
+failings (e.g., whether some screens in the app are harder to find than others, password
+resets, etc.);
+Vulnerable Customer Policy | Cash App UK
+10
+
+Confidential and Not for Distribution
+○ Resolution success rates;
+○ Financial Ombudsman Service complaints data;
+○ Social media complaints; and,
+● Online reviews;
+● Compliance reports;
+● Results of any testing of the experiences of Vulnerable Customers through processes such as
+auditing, focus groups, and deep dives;
+● Insights from organisations with an understanding of the lived experience of Vulnerable
+Customers such as consumer bodies, charities, and other third-sector organisations;
+● Staff feedback on where they think processes for Vulnerable Customers could be improved; and,
+● Reviews of the processes and policies for effectiveness in the fair treatment of Vulnerable
+Customers;
+● Any other data deemed relevant and helpful in determining if good outcomes are being achieved.
+4.7 Building a Culture of Treating Vulnerable Customers Fairly
+Cash App is dedicated to fostering a culture of treating all customers fairly, and is committed to the
+following in the service of Vulnerable Customers:
+● Appointing a Consumer Duty Champion and a Consumer Protection Manager to provide
+dedicated support and expertise to colleagues;
+● Ensuring that appropriate, regular, and mandatory training is provided for relevant Staff to
+ensure that they are aware of this Policy and able to recognise vulnerability indicators and
+respond appropriately to individual customer's needs;
+● Establishing and implementing processes to ensure relevant Staff are able to record and access
+information about customers’ needs; and
+● Ensuring Staff have access to additional support and the ability to escalate cases that require
+additional review.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App UK Head of Compliance or their designee.
+Vulnerable Customer Policy | Cash App UK
+11
+
+Confidential and Not for Distribution
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training upon joining Cash App and a refresher at least annually, covering
+applicable requirements and guidance to implement this Policy effectively. All training activities are
+monitored by the Compliance Team.
+7. Monitoring and Reporting
+On an ongoing basis, Compliance will monitor Policy related activities to evaluate adherence to the Policy
+and determine whether outputs adhere to established objectives.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a description
+of the controls that the Company will implement to mitigate risks associated with the exception. Any
+approved exceptions must be documented in writing and retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp.
+The Document Owner and/or designee will inform Management and applicable committees, as needed, of
+exceptions.
+9. Recordkeeping
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with Cash App regulatory guidance - whichever is longer.
+In accordance with standard recordkeeping requirements, Cash App is required to retain all documents and
+records associated with individual customers for at least six years from the date that Cash App’s relationship
+ends with the customer. In the event that any record is to be retained for a timescale greater than the
+Vulnerable Customer Policy | Cash App UK
+12
+
+Confidential and Not for Distribution
+minimum requirement (i.e., in the event of a regulatory request), such request must be documented in
+accordance with relevant recordkeeping requirements.
+10. Related Documentation or References
+Related Documents:
+Related Policy SEL Consumer Protection Policy
+Related References:
+Regulation Name FCA Fair Treatment of Vulnerable Customer
+Regulation Name FCA Consumer Duty
+11. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Elizabeth Henry Head of Initial Approval Created the Policy July, 2023
+Compliance
+of Cash App
+UK
+SEL Board of Board Initial Approval Approval of the July 12, 2023
+Directors policy
+Elizabeth Henry Head of Material Chan… Added general July 24, 2024
+Compliance vulnerability
+of Cash APP characteristics of
+UK our target market
+to ensure a more
+comprehensive
+understanding of
+our customer base.
+SEL Board of Board Scheduled Re… Same as row above September 23,
+Directors 2024
+Ryan Goldstone UK Head of Scheduled Re… No changes May 28, 2025
+Compliance
+and MLRO
+Vulnerable Customer Policy | Cash App UK
+13
+
+Confidential and Not for Distribution
+SEL Board of Board Scheduled Re… No changes July 2, 2025
+Directors
+12. Document Details
+Business Cash App
+Scope Regional [UK]
+Compliance Domain Consumer Protection
+Document Owner Cash App UK Head of Compliance
+Last Approval Date July 2, 2025
+Effective Date July 2, 2025
+Approved By SEL Board of Directors
+Document Review Schedule Annually (July 2026)
+Vulnerable Customer Policy | Cash App UK
+14

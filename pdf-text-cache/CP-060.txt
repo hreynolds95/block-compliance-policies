@@ -1,0 +1,287 @@
+Vulnerable Customers Standard
+Square | Square AU Pty Ltd
+Last Approved: Feb 4, 2026
+Effective Date: Feb 4, 2026
+1. Overview
+Introduction and Purpose: Square AU is committed to treating all customers fairly, with empathy,
+and in line with its legal and ethical obligations. We recognise that vulnerability or hardship can affect
+a personʼs ability to access services, understand information or manage their affairs.
+Our approach is guided by key regulatory frameworks, including:
+● Australian Consumer Law, which prohibits unconscionable conduct and promotes fair
+treatment, especially for vulnerable consumers.
+● ASIC RG 271, which sets expectations for handling complaints from vulnerable and
+disadvantaged individuals.
+● ASIC Report 782, which highlights the importance of proactive support for small
+businesses in hardship.
+We also uphold federal anti-discrimination laws, including the Age, Disability, Sex, and Racial
+Discrimination Acts, and the Australian Human Rights Commission Act, to ensure inclusive,
+respectful service.
+Vulnerability can arise beyond traditional lending contexts. Many Square sellers are small businesses
+facing external pressures, and while Square AU may not cause that vulnerability, we recognise our
+role in supporting these customers with flexible and compassionate solutions.
+This Standard sets out how we identify and assist vulnerable customers to meet regulatory
+expectations and reflect our values of fairness, accessibility, and economic empowerment.
+Scope: This Standard applies to all Square AU employees, contractors, and representatives who
+interact with customers, including but not limited to:
+● Square sellers (merchants using Square products and services)
+● Individuals receiving customer service, onboarding assistance, or technical support
+
+● Individuals lodging complaints, disputes, or requests for help
+● Business owners or operators disclosing business or personal hardship
+The Standard applies across all products and services offered by Square AU, including payments,
+point-of-sale, online commerce, business software, and associated support functions.
+Definitions:
+Terminology Definition
+Vulnerability A state which, due to personal circumstances or characteristics, an individual
+is especially susceptible to detriment or harm, particularly when a firm is not
+acting with appropriate levels of care. Vulnerability can be temporary,
+recurring, or permanent.
+Vulnerable An individual who, due to their personal circumstances, is especially
+Customer susceptible to harm or disadvantage, particularly if Square AU fails to act
+with appropriate levels of care. This includes customers who may have
+difficulty accessing services, understanding information, making decisions,
+or managing their financial affairs effectively.
+Hardship A situation where a customer is willing but unable to meet their financial
+obligations due to illness, unemployment, or other reasonable cause. This
+includes both personal and business-related financial difficulties.
+2. Square AU Specific Requirements
+Square AU recognises that customer vulnerability can affect a person's ability to effectively engage
+with our products, services, or support channels. In line with our obligations under Australian
+Consumer Law, we are committed to avoiding conduct that is misleading, deceptive, or
+unconscionable, particularly where a customer is at a disadvantage.
+Additionally, under ASIC Regulatory Guide 271 RG 271, we are expected to identify and
+appropriately support vulnerable customers—especially throughout the complaints process. This
+Standard outlines the minimum expectations for recognising and responding to customer
+vulnerability across all interactions, including in hardship, complaint handling, and everyday service
+delivery, to ensure fair and inclusive outcomes.
+2.1. Definition of a Vulnerable Customer
+A vulnerable customer is an individual who, due to personal circumstances or characteristics, is at
+increased risk of detriment, harm, or disadvantage, particularly when accessing or using financial
+products or services.
+
+Vulnerability may be temporary, recurring, or permanent, and may not always be disclosed by the
+customer. Square AU recognises that vulnerability is dynamic and may arise at any point in a
+personʼs life.
+In Australia, while no legal definition of a vulnerable customer exists, the Australian Securities and
+Investments Commission ASIC and Australian Consumer Law require financial service providers
+to exercise due care in their treatment of individuals deemed vulnerable.
+Vulnerability can be broken down into four key drivers: health, life events, capability and resilience.
+The four drivers are intended to:
+● Help firms identify common root causes of vulnerability
+● Encourage dynamic, judgment-based responses rather than rigid checklists
+● Guide training, policies, and frontline service deliver
+
+To simplify the approach to identifying these vulnerabilities, they can be grouped into four key
+drivers:
+Vulnerability Definition Examples
+Health Health-related vulnerability arises when a customer is - Serious illness or injury
+- Disabilities (intellectual, mental,
+impacted by a physical or mental health condition that
+physical, sensory, neurological, or
+affects their ability to engage with financial services. learning) – e.g. autism, cognitive
+impairment
+- Substance abuse or addiction
+issues, such as gambling
+- Caring responsibilities for a person
+experiencing any of the above
+Life events Life events refer to significant personal or external
+- Family or domestic violence
+experiences that may cause emotional, psychological, or
+- Recent bereavement or trauma
+financial disruption, reducing a customerʼs ability to - Changes in family or relationship
+circumstances
+manage their financial affairs or make informed
+- Natural disasters
+decisions. These events may be sudden or ongoing. - Victims of human trafficking
+- Victims of financial crime or fraud
+Resilience Resilience-based vulnerability relates to a customerʼs
+- Financial hardship, including low
+ability to withstand or recover from financial shocks or
+income, job loss, or homelessness
+pressures. Low financial or emotional resilience may leave - Financial abuse situations
+- Individuals facing homelessness or
+the customer particularly exposed to harm when facing
+housing insecurity
+adversity. - Macroeconomic conditions
+Capability Capability vulnerability refers to limitations in a customerʼs
+- English as a second language
+ability to understand, access, or act on financial
+- Low literacy or numeracy
+information and services. This includes challenges related - Limited digital or financial literacy
+- Age – particularly very young or
+to literacy, language, digital skills, or social and cultural
+older adults
+context that impede effective engagement. - Cultural or linguistic diversity,
+including varied expectations,
+behaviours, or communication
+norms
+- Living in remote or regional areas
+These factors may affect a customerʼs ability to understand, access, or act on financial information,
+make informed decisions, or seek help when needed.
+
+2.2. Identifying Vulnerability
+Square AU staff are not expected to diagnose or confirm a customerʼs vulnerability. Instead, they must
+exercise sound judgment, empathy and caution when potential indicators of vulnerability are present. Staff
+should remain alert to verbal, behavioural, or circumstantial cues that suggest a customer may be
+experiencing hardship, distress, confusion or difficulty engaging with our services.
+All frontline employees are provided with practical guidance on how to identify vulnerability and manage
+sensitive situations respectfully. This includes recognising when a customer may require additional support,
+alternative communication methods or referral to specialised assistance.
+Where a customerʼs experience of vulnerability results in dissatisfaction, hardship, or service issues, staff
+should escalate the matter internally and, where appropriate, initiate a complaint in accordance with Square
+AUʼs Internal Dispute Resolution IDR process. All complaints involving vulnerable customers must be
+handled with heightened care and resolved within the prescribed timeframes under ASIC RG 271 of 21
+calendar days where Hardship exists.
+2.3. Responding to Vulnerable Customers
+When a customer is identified or reasonably suspected to be experiencing vulnerability, Square AU staff must
+take proactive, respectful steps to ensure their experience is safe, supportive and fair. A resolution- and
+customer-focused approach is paramount in these situations and staff should prioritise practical support. The
+focus should be on understanding the customerʼs needs and removing barriers to access or service
+wherever possible.
+Key principles when responding to vulnerable customers:
+● Clear, Compassionate Communication: Staff must communicate using plain, respectful language,
+listen empathetically without assumptions and offer follow-up or clarification to ensure the
+customer fully understands.
+● Reasonable Accommodations: Staff must offer practical adjustments—such as interpreters,
+extended time, alternative formats or support persons—tailored to the individual needs of each
+customer.
+● Respect for Privacy and Confidentiality: All personal information relating to a customer's
+vulnerability must be handled with informed consent, strict confidentiality and in line with the
+Privacy Act and APPs.
+● Cultural Awareness and Sensitivity: Staff must engage customers with cultural respect, avoid
+assumptions and provide flexible, culturally safe support where needed.
+● Commitment to Positive Outcomes: All interactions must reflect Square AUʼs commitment to
+treating customers with respect, dignity, and fairness, supporting informed decision-making,
+removing access barriers, resolving issues with care and meeting all legal and regulatory
+obligations.
+
+2.4. Escalation and Internal Support
+All escalations must be documented, handled sensitively, and managed in line with relevant procedures for
+each team. Escalations may be necessary in situations where:
+● The customer requires accommodations outside of standard processes or product settings
+● The customer is at risk of harm, financial loss or emotional distress
+● The matter involves family or domestic violence, financial abuse or other high-sensitivity issues
+● A complaint or hardship request is raised that requires specialised handling
+Staff must not delay action where there is an immediate risk of harm or distress to the customer. In such
+cases, support teams should prioritise a timely and compassionate response, keeping the customer
+informed throughout the process where appropriate.
+Escalated cases involving vulnerable customers may also be subject to quality assurance QA reviews,
+trend monitoring or root cause analysis to ensure continuous improvement in service delivery and regulatory
+compliance.
+2.5. Support Measures available to Vulnerable Customers
+Communication Adaptations
+We will adjust our communication methods to support customers with diverse needs, including:
+● Using plain language and avoiding technical jargon
+● Providing information in alternative formats (e.g. large print, translated materials)
+● Allowing additional time to explain options or answer questions
+● Engaging interpreters, support workers or culturally appropriate representatives where required
+Product Adjustments
+We will consider reasonable adjustments to improve accessibility and suitability for vulnerable customers.
+This may include:
+● Simplifying product features or disclosures
+● Adjusting verification or identity processes (while maintaining security)
+● Offering enhanced protections for customers at risk of vulnerability
+Financial Hardship Provisions
+Where vulnerability is linked to financial difficulty, we will apply our financial hardship policies in a
+compassionate and flexible manner. Support is assessed on a case by case basis and may include:
+● Deferring payments or restructuring obligations
+● Reassessment of fee structure
+
+2.6. Supporting Aboriginal and Torres Strait Islander Customers
+Square AU demonstrates its commitment to Aboriginal and Torres Strait Islander peoples through inclusive,
+respectful, and equitable service delivery, underpinned by comprehensive legal and regulatory compliance.
+Operating within the framework of key legislation including the Racial Discrimination Act 1975, Australian
+Consumer Law, Privacy Act 1988, ASIC Act 2001 and AML/CTF Act 2006, Square AU implements specific
+measures to ensure fair treatment and accessibility.
+These include flexible identification procedures aligned with AUSTRAC guidance, culturally appropriate
+communication methods, and enhanced privacy protections. Square AU is committed to supporting
+Indigenous customers in receiving culturally safe, flexible and empathetic service across all interactions,
+including respecting cultural differences, use of inclusive language and provision of appropriate support
+including interpreter services and community referrals where needed.
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Block, Inc. Roles:
+○ International Customer Support Teams: Ensure global practices involving
+Australian customers align with local regulatory standards for the treatment of
+vulnerable individuals.
+○ Digital Engagement Teams: Designs and delivers accessible, inclusive digital
+experiences that consider the needs of vulnerable customers across all online
+channels.
+○ Product and Marketing Teams: Design and communicate products and offers with
+accessibility and inclusion in mind, minimising complexity and potential harm to
+vulnerable individuals.
+● Square AU Roles:
+○ Chief Compliance Officer: Oversees standard implementation and ensures
+compliance with legal and regulatory obligations relating to the fair treatment of
+vulnerable customers.
+○ Risk and Compliance Teams: Monitor adherence to the standard, support training
+and guidance, and escalate risks relating to systemic issues affecting vulnerable
+customers.
+○ Customer Support Teams: Identify signs of vulnerability during interactions and
+provide empathetic, tailored assistance in line with this standard.
+○ Complaints Management Teams: Manage complaints involving vulnerable
+customers with heightened sensitivity and ensure appropriate escalation and
+resolution pathways are followed.
+○ Sales and Account Management Teams: Avoid high-pressure tactics, recognise
+potential vulnerability, and make appropriate disclosures and referrals to support
+services as required.
+○ Square Advanced Support Team: Provision of Tier 2 support and handling of
+internal escalations where appropriate.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will provide
+regular updates, as applicable, to the Block, Inc. Board and executive management. Reporting may cover
+specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+
+3.3. Training
+All relevant staff will receive training to ensure they can effectively identify, support and escalate cases
+involving vulnerable customers. This training will equip staff with the knowledge and practical tools to:
+● Recognise indicators of vulnerability
+● Understand the underlying causes of vulnerability
+● Apply this Standard in practice, including adjusting service delivery, offering appropriate
+accommodations and recording interactions sensitively and accurately
+● Escalate concerns appropriately
+● Engage with empathy and respect
+Training is provided for all relevant employees and contractors and targeted refreshers will be issued as
+regulatory guidance evolves, in response to emerging risks, systemic issues or updates to internal policy.
+3.4. Record Retention:
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions:
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations.
+Exception requests must be documented in writing, include a reason for a request, and provide a description
+of the controls that the Company will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements. Any approved
+exceptions or exemptions should be submitted to the Policy Governance Team. The Document Owner and/or
+designee will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality:
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+● Questions: For questions or clarifications about this Standard please contact the
+Compliance Policy Team at #compliance-policy-help.
+● Review related documents:
+○ Square AU - Hardship Support Standard
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Lance How… Chief Compliance Creation Creation of February 4, 2026
+Officer Standard
+Document Details:
+Business Block
+Scope Square AU
+Compliance Domain Consumer Protection
+Document Owner Square AU Regulatory Program Manager
+Approved By Square AU Chief Compliance Officer
+Document Tier Tier 3

@@ -1,0 +1,446 @@
+Controlling the Assault of Non-Solicited
+Pornography and Marketing Act Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Controlling the Assault of Non-Solicited Pornography and
+Marketing Act ("CANSPAM") Policy ("Policy") outlines Square Capital, LLC's ("Square Capital" or
+the "Company") approach to compliance with the CANSPAM (or the "Act") and upholding Square
+Capital business requirements that do not run counter to the Act. This Policy was created and
+adopted with the sole focus on Square Capital's commercial credit card program and the Chief
+Compliance Officer oversees the development and implementation of this Policy document.
+This Policy establishes the framework by which Square Capital, the Initiator of email advertising
+communications, ensures that email advertising ("Commercial Email") complies with the
+requirements of CANSPAM. The purpose of this Policy is to ensure that Square Capital establishes
+and adheres to a consistent process for crafting email content and subject lines, sending of email
+advertising, and proper handling of opt-out requests.
+Background
+CANSPAM was enacted to prevent abuse in the use of Commercial Emails, and among other
+things, requires that Commercial Emails provide consumers with a means of opting-out of future
+solicitations.
+The Children's Online Privacy Protection Act ("COPPA") prohibits unfair or deceptive acts or
+practices in connection with the collection, use, and/or disclosure of personal information from and
+about children, under the age of 13, on the Internet. COPPA provides privacy protections for
+children and specifically requires operators of websites and email directed to children to provide
+notice to and obtain consent from parents before collecting data from their children.
+
+The Federal Trade Commission ("FTC"), the nation's consumer protection agency, enforces
+COPPA, which spells out what operators of websites and online services must do to protect
+children's privacy and safety online.
+Both of these Acts are implemented by regulations issued by the FTC. While the FTC does not
+regulate financial institutions, the laws give enforcement authority to banking regulatory agencies.
+Scope: This Policy is established by Square Capital and is applicable to Square Capital's credit
+card product. All Square Capital business units, staff, and contractors, including those from
+vendors and third parties (i.e., Square Inc.), must comply with the aspects of this Policy. Square
+Capital recognizes a further duty to support the compliance programs of its Bank Partner, where
+applicable.
+Definitions:
+Terminology Definition
+Affirmative Consent With respect to a commercial electronic mail message ("email"), it
+means that:
+● The recipient expressly consented to receive the message,
+either in response to a clear and conspicuous request for such
+consent or at the recipient's own initiative; and
+● If the message is from a party other than the party to which the
+recipient communicated such consent, the recipient was given
+clear and conspicuous notice at the time the consent was
+communicated that the recipient's electronic mail address could
+be transferred to such other party for the purpose of initiating
+commercial electronic mail messages.
+Commercial Email Any email that has a primary purpose of commercial advertisement or
+promotion of a commercial product or service.
+Initiator Any person, including business entities and nonprofit associations, that
+initiates commercial e-mail messages must comply with the CANSPAM
+Act requirements if it either:
+● Originates or transmits the e-mail; or
+● Procures the transmission of the e-mail, meaning that the
+business either intentionally pays or provides other
+consideration to, or induces, another person to transmit the
+e-mail on its behalf.
+A person is not an Initiator when their role in initiating the Commercial
+Email is solely involved in routine conveyance. This is when the
+
+Terminology Definition
+person's actions only relate to the transmission, routing or storage of
+the message through an automatic technical process and the person is
+not involved in identifying or providing the recipient's addresses for the
+message.
+Sender A Sender is an Initiator whose own product or service, or internet
+website, is advertised or promoted in the commercial message. A
+commercial e-mail can have more than one Initiator or Sender.
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Policy, and includes
+interns, temporary workers, consultants, vendors, third-party providers
+and contractors.
+Transactional or See the section entitled "Exclusion: Transactional or Relationship
+Relationship Email Emails"
+2. Policy Requirements
+2.1 Email Content Qualifications
+The FTC has issued qualifying measures to determine if an email meets the threshold of a
+marketing communication. Square Capital is committed to upholding these requirements by
+ensuring the following email types are properly handled.
+Messages Containing Only Advertising Content
+These messages have a commercial primary purpose.
+Messages Containing Both Advertising and Transactional or Relationship Content
+These messages have a commercial primary purpose if either:
+● The recipient would interpret the subject line to mean that the message contains
+commercial advertising; or
+● A substantial part of the transactional or relationship content does not appear at the
+beginning of the message.
+
+Messages Containing Both Advertising Content and Other Non-transactional or
+Non-relationship Content
+These messages have a commercial primary purpose if either:
+● The recipient would interpret the subject line to mean that the message contains
+commercial advertising; or
+● The recipient would determine from the body of the message that the message's primary
+purpose is commercial advertising. In making this determination, factors for the recipient to
+consider include:
+○ The placement of the commercial advertising at the beginning of the message;
+○ The proportion of the message dedicated to commercial advertising; and
+○ How prominent the commercial advertising is (for example, highlighted through use
+of graphics type size and style).
+Messages Containing Only Transactional or Relationship Content
+These messages do not have a commercial primary purpose.
+2.2 Email Content Requirements
+CANSPAM sets down seven requirements that every Commercial Email must meet. Square Capital
+is committed to ensuring all marketing emails comply with these requirements. Under CANSPAM,
+the Senders of Commercial Email will be deemed to be engaging in legal activity as long as:
+● The header of the Commercial Email (indicating the sending source, destination and routing
+information) does not contain materially false or materially misleading information;
+● The subject line doesn't contain deceptive information;
+● The email provides "clear and conspicuous" identification that it is an advertisement or
+solicitation;
+● The email includes some type of return email address, which can be used to indicate that
+the recipient no longer wishes to receive spam email from the Sender (i.e. to "opt-out");
+● The email contains "clear and conspicuous" notice of the opportunity to opt-out of
+receiving future emails from the Sender;
+● The email has not been sent after the Sender received notice that the recipient no longer
+wishes to receive email from the Sender (i.e., has "opted-out"); and
+● The email contains a valid physical postal address for the Sender.
+Opt-Out Prohibitions
+There cannot be a fee, nor a requirement that the recipient provide any personally identifying
+information beyond an email address, nor can there be any steps that the recipient must take other
+than sending a reply email or visiting a single page on an Internet website as a condition for
+honoring an opt-out request.
+
+Once people advise that they do not want to receive more messages, affected email addresses
+cannot be sold or transferred, even in the form of a mailing list. The only exception is the
+addresses may be transferred to a company hired to assist with CAN‑SPAM Act compliance.
+Allowable Practices
+There are some practices that are permitted to support these protections:
+● #3 The disclosure need not necessarily be in the email heading as long as the notice is
+"clear and conspicuous" within the email itself.
+● #4 This can be a current street address, a post office box registered with the U.S. Postal
+Service, or a private mailbox registered with a commercial mail receiving agency
+established under Postal Service regulations. However, it must be of the Sender of the
+email not the Initiator.
+● #5 Craft the notice in a way that's easy for an ordinary person to recognize, read, and
+understand. Creative use of type size, color, and location can improve clarity. Give a return
+email address or another easy Internet-based way to allow people to communicate their
+choice to you. A menu of options to allow a recipient to opt-out of certain types of
+messages is permitted, but it must include the option to stop all commercial messages. Any
+spam filter used by Square Capital must not block these opt-out requests.
+2.3 Email Delivery Requirements
+Square Capital is committed to meeting the delivery and content requirements set down by
+CANSPAM. Square Credit Product Marketing ("Marketing") Team is responsible for the content of
+the Subject Line and for selecting the audience to whom the email is to be sent. Marketing is
+charged with the responsibilities to ensure all emails contain properly displayed and functioning
+unsubscribe links and that they are sent only as permitted under this Policy. To implement these
+guidelines, the content, structure, and delivery of emails must comply with the following
+requirements:
+● Unsubscribe Compliance:
+○ A visible and operable unsubscribe mechanism is present in all emails;
+○ Customer opt-out requests are honored within 10 business days; and
+○ Opt-out lists are only used for compliance purposes.
+● Content Compliance:
+○ Accurate "From" lines (including "friendly froms");
+○ Relevant subject lines (relative to offer in body content and not deceptive); and
+○ A legitimate physical address of the publisher and/or advertiser is present. PO Box
+addresses are acceptable in compliance with 16 C.F.R.316.2(p) and if the email is
+sent by a third party, the legitimate physical address of the entity, whose products
+or services are promoted through the email should be visible.
+● Sending Behavior Compliance
+○ A message cannot be sent through an open relay;
+○ A message cannot be sent without an unsubscribe option;
+○ A message cannot be sent to a harvested email address;
+
+○ A message cannot contain a false header;
+○ A message should contain at least one sentence;
+○ A message cannot be null; and
+○ Unsubscribe option should be directly above or below the full email message.
+In addition, the subject lines and contents of all Commercial Emails are not to treat customers
+unfairly nor can they be deceptive or abusive, as required by the Equal Credit Opportunity Act
+("ECOA") Policy.
+Adult Content
+Square Capital prohibits the sending of Commercial Emails regarding adult content or
+sexually-oriented material by any employee or contracted third-party.
+2.4 Email Sent to a Wireless Device
+In contrast to the general opt-out requirements set out in the CANSPAM Act and FTC rules, the
+Federal Communications Commission ("FCC") prohibits the sending of commercial messages to
+certain email addresses provided by wireless carriers specifically for mobile messaging services,
+referred to as mobile service commercial messages (e.g.,"customer@wirelesscompany.com"),
+unless the subscriber gives express prior written or oral authorization (opts in).
+Opt-Out Provisions
+Marketing emails must clearly explain how the recipient can opt-out of receiving future commercial
+messages from the Sender via one of the following opt-out mechanisms:
+● A functional return email address; and
+● An Internet-based mechanism (such as an opt-out link).
+If there is an opt-out menu offered, one menu option must allow a complete opt-out of all
+commercial messages from the Sender. The opt-out mechanism must be functional for at least 30
+days after the email is sent.
+To comply with this aspect of CANSPAM, opt-out notices must be clear and conspicuous, and all
+opt-out mechanisms must be functional. Businesses should therefore consider ways to make the
+opt-out notice stand out from other parts of the message, such as through font size, color use, or
+other formatting approaches. They should also test their opt-out mechanisms on a regular basis
+and promptly correct any issues.
+Once a recipient submits an opt-out request, the following applies:
+● The Sender must process the opt-out request within 10 business days from the date the
+recipient sent the opt-out request. The request does not expire unless the recipient later
+expressly consents to receive commercial e-mails from the Sender;
+● After this time, the Sender (or any person acting on its behalf) may not transmit further
+commercial e-mails falling within the scope of the request to the recipient without the
+recipient's Affirmative Consent; and
+
+● The Sender (or any person who knows of the opt-out request) may not sell, exchange, or
+otherwise transfer the recipient's email address without the recipient's Affirmative
+Consent, except as required by law.
+Opt-Out Outage
+An unexpected or temporary inability to receive messages or process to opt-out requests due to a
+technical problem beyond the Sender's control does not violate CANSPAM if the problem is
+corrected within a reasonable time period.
+2.5 Third-Party Initiators and Senders
+Square Capital may use third-parties to do any of the following types of Marketing emails:
+● Solely about Square Capital products or services;
+● Composites of Square Capital products or services and the third party's products or
+services;
+● Composites of Square Capital products or services and the third party's products or
+services plus another company's products or services; and
+● Composites of Square Capital products or services and another company's products or
+services.
+In all instances, Square Capital must ensure that each email campaign complies with CANSPAM
+by reviewing and approving all content, recipient lists, and email configurations prior to the email.
+The Bank Partner reserves the right of approval for any of these elements as well.
+When using a third party to facilitate Square Capital Marketing emails, Square Capital will ensure
+the following:
+● Any applicable agreement contains provisions requiring the third party to comply with
+CANSPAM; and
+● That the third party receives all required content in a manner that permits compliance with
+CANSPAM, including information on Square Capital's postal address.
+Alternate Email Information
+If marketing emails are to contain any contact information not owned or overseen by Square
+Capital, including email addresses and physical addresses, any applicable agreement must require
+that the third-party implement an opt-out process that permits Square Capital to comply with the
+10 business-day requirement for opt-out requests.
+2.6 Messaging
+Square Capital only sends marketing emails to existing Square Capital customers, customers
+properly referred to us by marketing or co-branded partners, potential customers that have elected
+to receive Square Capital marketing messages, or potential customers that Square Capital has
+
+evaluated who may qualify for the product or service for which the marketing email is crafted and
+sent.
+2.6.1 Marketing Practices and Guidelines
+Forward-To-A Friend Emails
+Square Capital does not currently engage in Commercial Emails that qualify as referral or
+forward-to-a-friend communications. At such a time as this marketing tool is employed, guidelines
+and procedures will be established in compliance with the CANSPAM Act.
+Multiple Senders
+When multiple businesses' products or services, or internet websites are advertised or promoted
+in a single message, each business is a Sender for purposes of CANSPAM Act compliance, unless
+the businesses have designated a single Sender of the commercial message by complying with all
+of the following requirements:
+● The single business meets the CANSPAM Act's definition of "Sender." This is the person
+that both initiates the message and whose products or services, or internet websites are
+advertised or promoted in the message;
+● The single business is identified in the "From" line as the sole Sender of the message;
+● The single business is in compliance with the:
+○ Prohibition on false or misleading transmission information;
+○ Prohibition on deceptive subject headings;
+○ Requirement to include a functioning opt-out;
+○ Requirement to include clear and conspicuous identification that the message is an
+advertisement or solicitation, a clear and conspicuous notice of the opportunity to
+opt-out, and a valid physical postal address of the Sender; and
+○ Requirement to include warning labels on commercial e-mail that contains sexually
+oriented material.
+● Affiliate Marketing: If Square Capital employs an affiliate to promote Square Capital then the
+company is deemed the Sender of the commercial e-mail. The affiliate, who typically
+originates or transmits the e-mail message, is an Initiator. If the affiliate also advertises its
+own services or products, it is also a Sender under the CANSPAM Act and the rules
+concerning multiple Senders apply. Square Capital is held liable for all actions of an affiliate
+when they are acting our behalf;
+● Email Sent To A Wireless Device: When requesting express prior authorization for sending
+email messages to a mobile messaging service, Square Capital must, among other things:
+○ Clearly state the identity of the Square Capital entity that will be sending the
+messages;
+○ Notify the subscriber that he/she may be charged by the wireless carrier for receipt
+of these messages;
+○ Disclose that the subscriber can revoke his authorization at any time; and
+○ Provide opt-out measures in the same electronic method as that used to opt in.
+● "From" and "Reply-To" Email addresses:
+
+○ The "From" email address contained in all marketing materials is set as
+"no-reply@squareup.com"; and
+○ Emails for advertising are not to utilize a "Reply-To" feature.
+Disclosing Addresses
+Only the designated Sender's valid physical postal address must appear in the message. If the
+above requirements are not complied with, each business must comply with the CANSPAM Act's
+requirements for Senders, including the obligation to scrub against all the Sender's opt-out lists.
+2.6.2 Email Addresses and Subject Line
+Marketing ensures that all marketing emails contain:
+● "From" and "To" email address accurately identify Square or the Square Capital program;
+● A subject line that accurately reflects the content of the message; and
+● Messaging that clearly and conspicuously identifies that the email is an advertisement.
+2.6.3 Physical Address and Opt-Out
+Marketing ensures that each marketing email contains the name and physical address of Square
+Capital and that the unsubscribe (opt-out) option must:
+● Appear as a conspicuous hyperlink at the bottom or in the footer of all qualifying email
+messages;
+● Must permit the recipient of the email to unsubscribe from Capital marketing emails;
+● Appear in the same area near the name and address of Square Capital; and
+● Be font size no smaller than other accompanying disclosures.
+Marketing is charged with ensuring that all qualifying email messages contain the proper
+unsubscribe option and that unsubscribe notifications are properly processed. These notifications
+are to be automatically processed no later than the next business day, but in no event later than 10
+days after the receipt of the unsubscribe notification. Once processed, Square Capital maintains an
+internal Do Not Contact list of email addresses that customers have opted out of email contact. All
+lists of email addresses created as a result of accepting unsubscribe notifications are only to be
+used for compliance purposes.
+2.6.4 Social Media
+Square Capital only engages in the following written communication mediums with customers:
+● Originating posts in a social media platform on pages owned or directly managed by
+Square Capital;
+● Responding to a customer's social media message either due to a customer request or due
+to the nature of the customer's message;
+● Originating of direct social media marketing messages (e.g., Google Ads, Facebook Ads,
+etc.);
+
+● Originating email messages; and
+● Responding to a customer's email either due to a customer request or due to the nature of
+the customer's email message.
+2.6.5 Live Chat
+When Square Capital uses a live chat function, discussions of Square Capital are restricted to
+Square Capital-approved macros and scripts. No other content or communication is permitted via
+live chat. All other customer inquiries or comments should be referred to the appropriate customer
+support email or phone contact information.
+Social Media Posts
+Marketing messages that occur outside of social media pages that are owned or managed by
+Square Capital must meet the marketing requirements of the social media platform where the
+message will be conducted in addition to all requirements of this Policy. Square Capital is
+responsible for ensuring that these additional requirements are implemented fully prior to any
+message reaching the customer or the public.
+Email Communications
+Email is not considered a social media communication but it is a form of written customer
+communication.
+2.7 Exclusion: Transactional or Relationship Emails
+Email communications that are primarily of a transactional or relationship nature are excluded from
+the requirements of CANSPAM. To qualify as a transactional or relationship message, the email's
+primary purpose must do one or more of the following:
+● Facilitate, complete or confirm a commercial transaction previously agreed to by the email
+recipient;
+● Provide warranty, product recall, safety or security information for a product purchased by
+the email recipient;
+● Provide certain information permitted under the CANSPAM Act regarding a subscription,
+membership, credit account, loan or similar ongoing relationship concerning the email
+recipient's ongoing purchase or use of the Sender's products or services (for example,
+notification of a change in terms or features of a membership or subscription or periodic
+account information);
+● Provide information regarding an employment relationship or related benefit plan in which
+the email recipient is currently involved, participating or enrolled; and
+● Deliver goods or services (for example, updates or upgrades) that the email recipient is
+entitled to receive as a result of a previously agreed upon transaction.
+
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Chief Compliance Officer ("CCO"):
+○ The CCO will provide assistance and support in implementing this Policy across the
+organization and shall be responsible for establishing appropriate practices designed to
+ensure that Company operations reflect the Company's commitment to compliance and
+that all employees are aware of that commitment and their individual responsibility.
+The CCO is responsible for monitoring and reporting on compliance with this Policy.
+The CCO delegates the responsibilities in this section to the Square Head of
+Compliance along with the authority to adopt, develop and implement procedures and
+reporting that support this Policy.
+● Counsel:
+○ The Company's legal counsel provides interpretative advice and counsel regarding the
+applicability and application of the requirements of this Policy to the Company's
+business and operational activities.
+● Compliance Policy Committee:
+○ Reviews and adopts this Policy on an annual basis.
+● Square Credit Product Marketing ("Marketing"):
+○ Marketing is responsible for the content of marketing email subject lines and selecting
+the audience to whom marketing emails are sent. Marketing ensures marketing emails
+contain accurate 'from', 'to' and subject lines; properly displayed and functioning
+unsubscribe links; and are sent only as permitted under the Policy.
+● Head of Business Product Compliance and Partnerships or Lending Compliance Lead as
+designee:
+○ Owns this Policy document, reviews and approves requested exceptions.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+Square will maintain records of this Policy in accordance with Square's document retention
+guidelines.
+
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy. Policy exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Policy Owner and/or designee will
+inform Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Capital, LLC and on a need-to-know basis.
+4. Questions & Contact Information
+For questions regarding this policy, please contact the Policy Owner or designated compliance
+team.
+Review related documents:
+● Square Capital Board of Managers' Charter
+● Controlling the Assault of Non-Solicited Pornography and Marketing Act CANSPAM
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually by the
+Compliance Policy Committee and on an ad hoc basis as required. The review includes
+consideration of feedback on the effectiveness of the Policy, and any Bank Partner or audit input.
+Specific to the Compliance Policy Committeeʼs review and approval, the Banking Lending
+Operations Program manager or their designee is responsible for facilitating such communication.
+Approval History
+Approver Title Type Description Date
+N/A Credit Card ✓ New policy March 3, 2022
+Compliance created from
+Committee former Square
+Capital Policy for
+
+Approver Title Type Description Date
+credit card
+products.
+Square Capital Square Capital ✓ Annual Review November 30,
+Board of Board of 2023
+Managers Managers
+Square Capital Square Capital ✓ Annual Review July 2, 2024
+Board of Board of
+Managers Managers
+Square Capital Square Capital ✓ Scheduled January 24,
+Board of Board of Review; 2025
+Managers Managers immaterial
+changes
+Compliance Compliance Scheduled … Scheduled October 3, 2025
+Policy Committee Policy Committee review; no
+material
+changes.
+Updates to
+template and
+minor updates
+for clarity
+Document Details
+Business Square Capital, LLC
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2

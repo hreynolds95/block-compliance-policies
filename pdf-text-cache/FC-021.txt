@@ -1,0 +1,647 @@
+Credit Card Bank Secrecy
+Act/Anti-Money Laundering
+& Countering the Financing
+of Terrorism Program
+Standard
+Square | Square Capital, LLC
+February 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square Capital,
+LLC and on a need-to-know basis.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 2
+
+Confidential
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 4
+1. Introduction 7
+2. Purpose 7
+3. Scope 8
+4. AML Program Pillars 8
+5. Designation of a BSA/AML Compliance Officer 9
+5.1 Square Capital, LLC Board of Managers 9
+6. Internal Policies, Procedures, and Controls 10
+6.1 Risk Assessment 11
+7. AML Training and Awareness 13
+7.1 Mandatory Enterprise-Wide Training 14
+7.2 Role-Specific Training 14
+7.3 Specialist Compliance Training 14
+7.4 Board Training 14
+7.5 Training Procedures and Records 14
+8. Independent Testing and Review 15
+9. Customer Due Diligence Program KYC Program) 15
+9.1 Know Your Customer Minimum Requirements 15
+9.2 Customer Identity Verification Procedures 15
+9.3 Notice to Customers of Customer Identity Verification Obligations 16
+9.4 Enhanced Due Diligence 16
+9.5 Customer Screening Against Government Lists 17
+9.6 Beneficial Ownership 17
+10. Regulatory Reporting and Document Retention Requirements 18
+10.1 Questionable Activity Reports 18
+10.2 OFAC Reports 18
+10.3 Currency Transaction Reports 19
+10.4 314(a) and (b) 20
+11. Document Management 20
+11.1 Document Owner 20
+11.2 Review and Approval 20
+12. Exceptions 21
+13. Record Retention 21
+14. Related Documentation or References 21
+15. Revision & Approval History 21
+16. Document Details 22
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 3
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+Anti-Financial Crime A set of regulatory rules (including the BSA, USA PATRIOT Act, CTA, AMLA,
+etc.) and investigative techniques aimed at preventing and combating
+various illegal activities related to the financial system, including (but not
+limited to): Money Laundering; Terrorist Financing; Fraud; Identity Theft;
+Corruption; Sanctions Violations; Cybercrime; Tax Evasion.
+Bank Secrecy Act The Bank Secrecy Act of 1970, also known as the Currency and Foreign
+(“BSAˮ) Transactions Reporting Act, is a U.S. law requiring financial institutions in the
+United States to assist U.S. government agencies in detecting and preventing
+money laundering.
+Customer CIP represents the minimum standard of KYC and comprises two elements:
+Identification a) the collection of customer information Identity Collection); and b)
+Program (“CIPˮ) verification Identity Verification) using reliable and independent sources to
+reasonably establish the identity of the customer.
+Customer Due Including the minimum standard of CIP, CDD involves the collection and risk-
+Diligence (“CDDˮ) based verification of additional information from customers at onboarding,
+account setup, or on an ongoing basis.
+Enhanced Due EDD includes CDD plus additional collection and/or verification of customer
+Diligence (“EDDˮ) information where the risk of the customer is potentially high. Local Laws
+may specify circumstances where EDD must be performed and the
+measures required.
+Know Your KYC includes the process of establishing risk-based controls to reasonably
+Customer (“KYCˮ) identify and verify the identity of Blockʼs customers. The term KYC may also
+be referred to as Know Your Business KYB when dealing with
+non-individual entities or business customers.
+Financial Crimes A bureau of the U.S. Department of Treasury that collects and analyzes
+Enforcement information about financial transactions in order to combat domestic and
+Network (“FinCENˮ) international money laundering, terrorist financing, and other financial
+crimes.
+Integration As the final stage of money laundering, integration occurs when the criminal
+receives the proceeds of what now appear to be legitimate payments. The
+criminal can then use the funds as they wish.
+Layering As the second stage of money laundering, layering is generally the use of
+many complex transactions to obscure the source of the criminal proceeds
+and make them appear legitimate.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 4
+
+Confidential
+Money Laundering Money laundering is the process of making criminal proceeds ('dirty' money)
+appear to have come from a legitimate source ('clean' money). Criminals do
+this by moving those proceeds through different entities, accounts and
+transactions where the funds are less likely to attract attention but are readily
+accessible when required.
+Office of Foreign The Office of Foreign Assets Control is a financial intelligence and
+Assets Control enforcement agency of the U.S. Department of Treasury. It administers and
+(“OFACˮ) enforces economic and trade sanctions in support of U.S. national security
+and foreign policy objectives.
+Placement As the first stage of money laundering, placement is the introduction of
+criminal proceeds into the financial system.
+Staff Members Staff Members play a crucial role in the prevention, detection and reporting
+of money laundering and terrorist financing violations. Staff Members are
+responsible for paying particular attention to customer behavior or
+transactions that may be unusual or warrant additional scrutiny, and must not
+knowingly provide advice or other assistance to individuals who attempt to
+violate laws, regulations, or Blockʼs related policies, standards, or procedures
+Terrorist Financing Terrorist financing is the solicitation, collection or delivery of funds to
+support terrorist acts or organizations. Unlike money laundering, which
+always involves the proceeds of a crime, funds to finance terrorism are often
+diverted from legitimate sources. Terrorists may also rely on laundered funds
+derived from criminal enterprises.
+Roles and Responsibilities
+Role Responsibility
+BSA/AML The BSA/AML Compliance Officer is responsible for coordinating, managing
+Compliance Officer and overseeing this Program. The BSA/AML Compliance Officer may
+delegate responsibilities under this Program to the Head of Square
+Compliance. See the “Designation of a BSA/AML Compliance Officerˮ
+section for further details.
+Head of Square The Head of Square Compliance acts as a delegate to the BSA/AML
+Compliance Compliance Officer in the day-to-day oversight of this Standard and is the
+owner of this Program.
+Credit Card Product The Credit Card Product Compliance Manager implements and maintains this
+Compliance Standard, including reviewing it annually and making recommendations for
+Manager revisions where appropriate; communicates this Standard to appropriate
+businesses; and identifies businesses that handle or have access to
+Customer information.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 5
+
+Confidential
+Square Capital The Product Team develops, maintains, and carries out appropriate
+Credit Card Product procedures and controls to implement this Program.
+Team (“Product
+Teamˮ)
+Counsel Product The Companyʼs legal counsel provides interpretative advice and counsel
+and Regulatory) regarding the applicability and application of the requirements of this
+Program to the Companyʼs business and operational activities.
+Square Capital The SCBM reviews and adopts this program on an annual basis.
+Board of Managers
+(“SCBMˮ)
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 6
+
+Confidential
+1. Introduction
+This Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism
+Program Standard (the “Standardˮ) is designed to support compliance with relevant U.S. money
+laundering, terrorist financing, and sanctions regulations applicable to Square Capital, LLC (“Square
+Capitalˮ or the “Companyˮ) under its Credit Card Program (as described in more detail below), offered in
+partnership with Celtic Bank (the “Bank Partnerˮ).
+The Bank Secrecy Act, as amended by Title III of the USA PATRIOT Act, and its implementing regulations
+(collectively, the "BSA"), obligates financial institutions to implement anti-money laundering (“AMLˮ)
+programs and requires the U.S. Department of Treasury to issue regulations specifying the requirements
+for such programs. The U.S. Department of Treasury issues such regulations through the Financial Crimes
+Enforcement Network FinCEN.
+Under the Credit Card Program, Square Capital is not subject to BSA requirements because it serves as a
+credit card servicer and not a financial institution.1 However, it is subject to certain Bank Partner
+requirements. Square Capital adheres to the Block, Inc. ("Block") Global AML Policy. At a minimum, the
+Bank Partner requires the Credit Card Product to have a Standard. This Standard also aligns with the Block
+Global AML Policy and also forms part of Blockʼs Anti-Financial Crime domain under the Block Compliance
+Policy Governance Framework.
+2. Purpose
+This Standard is designed to ensure compliance by Square Capitalʼs Credit Card product with applicable
+BSA and AML requirements and applies to all relevant activities conducted by Square Capital, including
+lending activities undertaken as part of servicing a credit card program. This document does not apply to
+Square Capital's other products or programs outside of the Credit Card Program. It should be noted that
+certain controls are administered by Block, which are specified throughout this Standard.
+In addition to BSA/AML requirements, the U.S. Department of Treasuryʼs Office of Foreign Assets Control
+(“OFACˮ), as well as other federal agencies, administers numerous embargoes and trade sanctions against
+1 Square Capital is a wholly owned subsidiary of Block, Inc. Credit Cards are originated by Celtic Bank, and
+Square Capital, as a service provider to Celtic Bank, purchases interest in future receivables and services
+the Credit Cards on Celtic Bankʼs behalf.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 7
+
+Confidential
+specific countries, agencies, instrumentalities, and nationals of those countries, as well as other
+designated individuals, such as terrorists or drug kingpins. Although each OFAC-related regulatory
+program's requirements are unique, all programs generally prohibit a U.S. person, broadly defined, from
+transacting business with any embargoed or sanctioned country, individual, or entity. Because of these
+independent obligations under U.S. economic sanctions laws, this Standard incorporates customer identity
+verification procedures to facilitate compliance with sanctions administered by OFAC. These OFAC and
+customer identification procedures will apply to all Square Capital Credit Card Customers under its Credit
+Card Program. A Square Capital Credit Card Customer (“Customerˮ) is a Square Seller that submits a
+complete application for a Square Credit Card and is approved.
+3. Scope
+Square Capital only offers lending products to businesses.
+References to “Staffˮ throughout this document shall refer to all full-time employees and fixed-term and
+contingent workers, including interns, temps, consultants, vendors, third-party providers, and contractors.
+Block Staff that administer this Standard on behalf of Square Capital have access to documentation that
+affects their jobs and should understand their responsibilities to perform their work in an ethical and
+legally compliant manner.
+4. AML Program Pillars
+Square Capitalʼs Credit Card Program has established the following internal controls for money laundering
+and terrorist financing detection reporting (collectively the “AML compliance pillarsˮ):
+● Designation of BSA/AML Compliance Officer;
+● Internal Policies, Procedures, and Controls;
+● AML Training and Awareness;
+● Independent Testing and Review; and
+● Customer Due Diligence Program (hereafter referred to as “KYC Programˮ).
+In addition, Square Capital recognizes the need to establish reporting requirements and document
+retention programs to provide evidence of satisfying the requirements set forth by the aforementioned
+AML compliance pillars.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 8
+
+Confidential
+5. Designation of a BSA/AML Compliance Officer
+The Block Board of Directors (the “Boardˮ) has designated a BSA/AML Compliance Officer who is
+responsible for coordinating, managing, and monitoring this Standard. The BSA/AML Compliance Officer
+has the authority to communicate directly with the members of the Audit and Risk Committee (“ARCˮ) of
+the Board, as well as the SCBM, at their discretion. The BSA/AML Compliance Officer may also delegate
+responsibilities under this Standard to other suitably qualified and experienced Staff Members. The SCBM
+provides governance oversight of this Standard and approves it on an annual basis.
+5.1 Square Capital, LLC Board of Managers
+At least quarterly, the SCBM must receive reporting of BSA/AML risks pertaining to the Standard.
+Reporting of items below should be reflected in meeting minutes or attestation stating that reporting was
+discussed in the meeting. Attestations must be signed by a corporate secretary, Square Capital officer, or
+committee chairperson. This must be available, along with any applicable report to the Bank Partner upon
+request (may be redacted if necessary).
+Quarterly Reporting must include:
+● Initiatives or deficiencies about the overall status of this Standard; and
+● Questionable activity trends.
+Annual Standard updates must be provided to the SCBM annually and must include the following:
+● Status of the BSA/AML Program;
+● BSA/AML/OFAC risk assessment and the results;
+● Annual summary/statistics of QAR activity;
+● Any BSA/AML process breakdowns and audit finding trends that were identified and resolved;
+and
+● BSA/AML training status of the year.
+The BSA/AML Compliance Officer assumes responsibility for the ongoing administration of this Standard,
+and the BSA/AML Compliance Officer or his/her designee performs regular independent internal reviews
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 9
+
+Confidential
+to ensure that Square Capital is in full compliance with all BSA/AML requirements. These reviews include,
+without limitation:
+● Ensuring that all regulatory reports required of Square Capital or by this Standard are accurate
+and timely filed with the appropriate governmental agency;
+● Ensuring all documents required to be retained pursuant to BSA/AML requirements or this
+Standard are retained for the required period;
+● Ensuring that all processes or procedures used to monitor existing Customers are properly
+designed to identify potential money laundering, taking into account the unique money
+laundering risks of each such product or service;
+● Monitoring federal and state regulatory changes, FinCEN Program guidance, and litigation
+developments to ensure that this Standard remains reasonably designed to prevent Square
+Capital from being used to facilitate money laundering or the financing of terrorist activities,
+and implementing changes to practices when necessary to detect and prevent such actions;
+and
+● Assisting in the development of an effective training program to support the implementation of
+this Standard and monitoring its progress for quality and effectiveness.
+6. Internal Policies, Procedures, and Controls
+Square Capitalʼs internal controls are policies, procedures, and processes administered by Block and
+designed to limit and control risks and to achieve compliance with the BSA. These controls typically
+address risks, and compliance requirements unique to the business and, in general, are designed to:
+● Identify operations (products, services, Customers, entities, and geographic locations) more
+vulnerable to abuse by money launderers and criminals, provide periodic updates to the
+Companyʼs risk profile, and provide for a compliance program tailored to manage risks;
+● Inform the SCBM and Senior Management of compliance initiatives, identified compliance
+deficiencies, and corrective action taken, and including notification of Questionable Activity
+Reports filed;
+● Designate a BSA/AML Compliance Officer responsible for BSA, AML, and OFAC compliance;
+● Meet regulatory recordkeeping and reporting requirements, recommendations for BSA, AML,
+and OFAC compliance, and provide for timely updates in response to changes in regulations;
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 10
+
+Confidential
+● Implement risk-based CDD policies, procedures, and processes;
+● Establish the identity of customers and verify their identities;
+● Provide sufficient controls and monitoring systems for timely detection and reporting of
+suspicious activity and filing of appropriate reports;
+● Train employees to be aware of their responsibilities under the BSA/AML regulations and
+internal policy guidelines; and
+● Maintain an appropriate level of BSA, AML, and OFAC compliance independence to ensure
+compliance staff:
+○ Have a reporting line to the corporate compliance or other independent function;
+○ Are actively involved in all matters affecting AML risk (e.g., new products, review or
+termination of Customer relationships, reporting determinations);
+○ Are able to escalate and objectively resolve disputes with business line management;
+and
+○ Maintain compliance objectivity in the event compliance staff is assigned additional
+responsibilities.
+6.1 Risk Assessment
+Money Laundering Characteristics
+FinCEN regulations require financial institutions to assess the money laundering and terrorist financing
+risks of their Customers. Money laundering is diverse and complex but usually includes the following three
+basic characteristics:
+1. Placement: Introducing unlawful proceeds into the financial system directly or indirectly.
+Placement occurs through many methods including breaking up large amounts of cash into
+smaller deposits made below reporting thresholds to avoid detection. Deposits may be placed
+into a single bank account or several bank accounts;
+2. Layering: The process of separating illicit money from its source for the purposes of disguising
+their original source. This stage is considered to be the most complex, as it often involves
+multiple transactions across different bank accounts, financial instruments, legal entities, or
+geographies; and
+3. Integration: Using apparently legitimate transactions such as the purchase of prepaid cards,
+investment securities, or other assets to disguise illicit proceeds and allow laundered funds to
+be disbursed back to the laundering party.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 11
+
+Confidential
+Mitigating Controls
+This Standard mitigates the money-laundering risks associated with its business in several ways, for
+example, by:
+● Maintaining a Customer Identification Verification Program that assists in reasonably
+understanding its Customer;
+● Performing Customer risk rating and on-going due diligence refresh based on the potential
+ML/TF risk that the Customer presents;
+● Prohibiting certain high-risk Customer types and businesses from using the Credit Card
+Product due to unacceptable money laundering, reputational, or other risks and outlining these
+prohibitions in its terms of service and internal compliance policies;
+● Leveraging (through Block) trained compliance professionals to monitor, mitigate, and prevent
+high-risk or suspicious Customer activity;
+● Establishing controls that can block transactional activity for accounts with connections to
+other accounts, individuals, or devices with a known history of illicit activity within the Block
+system;
+● Monitoring transactions using proprietary algorithms, including heuristic and machine-learning
+methodologies, to identify and prevent patterns of transactional behavior suggestive of
+high-risk money laundering or other suspicious activities;
+● Monitoring and reviewing transactional activity related to international cards, which may not
+otherwise be subject to the AML checks and procedures of U.S. financial institutions;
+● Screening its Customers against OFACʼs Specially Designated Nationals and Blocked Persons
+List and other applicable sanctions lists (collectively, the OFAC SDN List or OFAC List);
+● Maintaining procedural controls that can identify and terminate high-risk accounts in real time,
+including freezing any corresponding inflows or outflows of funds;
+Block administers BSA/AML risk assessments on behalf of Square Capital in order to evaluate potential
+money laundering and terrorist financing risks and to inform the design and priorities of this Standard. The
+BSA/AML risk assessment must undergo periodic review to account for changes in product offerings and
+services, Customers, and geographic locations. Square Capitalʼs BSA/AML risk assessment also assesses
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 12
+
+Confidential
+emerging risks, operations and employees. The applicable results for Square Capital are to be approved
+by the BSA/AML Compliance Officer and reported to the SCBM.
+Risk assessments may be updated on a regular basis including as necessary under the following
+circumstances:
+● New products or services are offered;
+● Material changes being offered to existing products;
+● Material changes are made to legal or regulatory requirements; and
+● New markets or jurisdictions are entered through Square Capitalʼs operations that will
+materially impact Square Capitalʼs risk profile.
+For the avoidance of doubt, risk assessments specific to products must be completed prior to:
+● New or materially changed products or services being available in any capacity to active
+Customers/merchants; and
+● The effective date of applicable legal requirements.
+On behalf of Square Capital, Block conducts an annual risk assessment process which is an assessment
+of Square Capitalʼs BSA/AML risk profile for the prior year. This annual risk assessment is to be approved
+by the BSA/AML Compliance Officer with results presented to Square Capitalʼs SCBM.
+7. AML Training and Awareness
+Square Capitalʼs training program is administered by Block. In accordance with legal requirements, Block is
+responsible for the implementation of a BSA/AML training program. The depth and content of the
+BSA/AML training depends on the degree of responsibility each individual has for BSA/AML compliance.
+At a minimum, each instance of the BSA/AML training shall provide details regarding this Standard and
+related Policy, including but not limited to the requirement to file reports to FinCEN, penalties for
+noncompliance with BSA/AML related policies and legal requirements, and risks associated with money
+laundering and terrorist financing.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 13
+
+Confidential
+To ensure that the content of the BSA/AML training remains current, the BSA/AML Compliance Officer
+stays abreast of developments in the BSA, and other related matters and directs updates to the BSA/AML
+training, as appropriate.
+The training program is based on 1 Mandatory Enterprise-Wide Training, 2 Role Specific Training, 3
+Specialist Compliance Training, and 4 Board Training. Each element is defined in further detail below.
+7.1 Mandatory Enterprise-Wide Training
+Blockʼs education and training program is the responsibility of the BSA/AML Compliance Officer or
+delegate. All Block full-time employees and contractors receive BSA/AML training (“BSA/AML Trainingˮ) at
+least once per calendar year. The BSA/AML Training is provided to each new full-time employee and
+contractor within a reasonable timeframe after their start date and thereafter each calendar year.
+7.2 Role-Specific Training
+Additionally, Block may require role-specific BSA/AML Training based on individual or team responsibilities
+and their relevance to the Block BSA/AML Standard.
+7.3 Specialist Compliance Training
+Block Compliance Team members participate in a specialist compliance training program which includes
+both professional and technical development. Additionally, professional membership for the purpose of
+personal development of compliance professionals is encouraged by Block.
+7.4 Board Training
+Blockʼs Board and senior management receives targeted BSA/AML Training annually, and must be
+informed of new BSA/AML developments and material changes to the federal financial agenciesʼ
+regulations from which they are implemented.
+For the avoidance of doubt, as the SCBM are either members of the Square Capital Product Team or
+otherwise Block Senior Management, they are subject to employee and specialist level compliance training
+and exempt from separate Board Training requirements under this Standard.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 14
+
+Confidential
+7.5 Training Procedures and Records
+Training procedures and records are managed and maintained in accordance with Blockʼs Compliance
+Training Program Standard and Annual Calendar..
+8. Independent Testing and Review
+As part ofBlockʼs BSA/AML Program, Square Capital conducts an independent, periodic risk-based
+assessment on the overall adequacy and effectiveness of Square Capitalʼs BSA/AML Compliance Program.
+This independent review is administered by Blockʼs Internal Audit Team. This independent evaluation is
+conducted in accordance with internal audit standards and includes testing of compliance with all
+applicable reporting, recordkeeping, and BSA/AML Program requirements as well as related policies,
+standards, and applicable supporting procedures. Internal Audit retains individuals with the knowledge and
+expertise to conduct a thorough and effective review.
+Internal Audit issues a written report to senior management and reports the results of the BSA/AML review
+at least quarterly to the ARC, summarizing any findings and resultant management action plans. Internal
+Audit also performs validation of any management action plan prior to acceptance of closure. The Board
+places accountability on senior management to address any results from the audit of this Standard in an
+appropriate manner and to report on the status of any remediation efforts on a regular basis.
+9. Customer Due Diligence Program KYC Program)
+9.1 Know Your Customer Minimum Requirements
+The Square Capital Credit Card Program has implemented a Know Your Customer Program that allows for
+forming a reasonable belief of the Customerʼs true identity. As part of completion of a submitted credit
+card application, Square Capital:
+● Obtains and subsequently verifies identification-related information of its Customers through
+third-party vendors;
+● Maintains records of any information used to verify a Customerʼs identity;
+● Determines if a Customer appears on the OFAC SDN List or OFAC List; and
+● Establishes procedures for the timely resolution of both potential and confirmed matches to
+entities on the OFAC SDN List or OFAC List.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 15
+
+Confidential
+9.2 Customer Identity Verification Procedures
+As part of the Credit Card application process, and prior to receiving an approval from Square Capital,
+Square Capital must be able to form a reasonable belief of the true identity of the Customer. As such, the
+Credit Card application requires Customers to provide certain information, such as:
+● Name;
+● Date of Birth (for a Customer who is an individual);
+● Physical Address (other than a P.O. Box); and
+● Social Security Number or Individual Taxpayer Identification Number, in the case of sole
+proprietorships. Additionally, for non-sole proprietorships, they must also provide:
+○ The Employer Identification Number; and
+○ Business name.
+Square Capital collects and verifies beneficial ownership information. Square Capital implements a
+reasonable and practical risk-based procedure for verifying the identity of each beneficial owner. More
+information is included in Beneficial Ownership Section 9.6.
+Square Capital may request additional information to perform a manual review of an application, which
+may include relevant business license or other document, or, in order to verify the identity of an individual,
+a driverʼs license, government-issued identification card, passport, or birth certificate. Square Capital may
+use various third-party vendors and public data sources to verify this additional information. Where a
+Customerʼs identity cannot be verified with additional information and/or documentation, Square Capital
+will decline the Credit Card application and will not proceed to the other steps involved in the application
+process.
+9.3 Notice to Customers of Customer Identity Verification Obligations
+To implement an BSA/AML Program that aligns with FinCENʼs requirements, Square Capital advises all
+Customers during the application process that the Company must obtain, verify, and record Customer
+identification information in order to meet its obligations.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 16
+
+Confidential
+9.4 Enhanced Due Diligence
+Square Capital recognizes that certain Customers or products may pose higher money-laundering or
+terrorist-financing risks and, therefore, may require the application of Enhanced Due Diligence (“EDDˮ)
+procedures. The criteria for whether Square Capital will apply EDD procedures include one or more of the
+following:
+● Square Capitalʼs BSA/AML and OFAC risk assessments;
+● The Customerʼs or associated businessʼ activity;
+● The Customerʼs or associated businessʼ ownership structure;
+● Explanations or lack thereof for changes in the Customerʼs linked bank account;
+● The anticipated or actual volume of transactions;
+● Activity on other related Square Capital account relationships; and
+● Excessive overpayment on a credit card account.
+9.5 Customer Screening Against Government Lists
+Square Capital performs an initial OFAC List screening of all Customers and additional periodic screenings
+thereafter, using a third-party vendor. For Customers that submit a credit card application, Square Capital
+performs an initial OFAC List screening on the application Customer(s) no later than lending product
+origination. For other types of Customers, Square Capital performs an initial OFAC List screening before
+establishing a new account relationship. After the OFAC List screening is cleared, Square Capital proceeds
+with establishing a new Customer relationship. Additionally, thereafter Square Capital performs additional
+periodic screenings of the Customer as appropriate for all open and active accounts, using a third-party
+vendor.
+Credit Card Customers that are also processing payments with other Block business units are subject to
+sanctions screening as part of payments processing onboarding and are subject to recurring screens
+while using other Block business unit products.
+9.6 Beneficial Ownership
+Square Capital maintains procedures that are reasonably designed to identify the beneficial owner(s) of
+qualifying legal entity Customers. Before opening a credit card account, Square Capital may request
+additional information or documentation to assist with this identification. If Square Capital is unable to
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 17
+
+Confidential
+reasonably verify the identity of each beneficial owner, the account relationship cannot be established.
+After the credit card account is open, if relevant information is obtained that changes Square Capitalʼs
+understanding of the true number or identity of a legal entityʼs beneficial owner(s), Square Capital will
+undertake similar steps to verify the beneficial owner(s) identity. If the identity of a new beneficial
+owner(s) cannot subsequently be verified, no new account relationship can be established with the legal
+entity until and unless all beneficial owner identity information can be verified.
+Beneficial ownership must be recertified, if, during the life of the active account new information is
+obtained that leads to a reasonable belief that there has been a change in beneficial ownership. These
+“triggering eventsˮ may include, but are not limited to a change in terms, the addition of a new
+signer/payer, change in address of the business, death of a sole proprietor, or direct knowledge of
+ownership change.
+10. Regulatory Reporting and Document Retention
+Requirements
+Square Capital adheres to the BSAʼs reporting and recordkeeping obligations, which apply to financial
+institutions (e.g., Square Capitalʼs Bank Partner(s)) when those reports or records have “a high degree of
+usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or
+counterintelligence activities, including analysis, to protect against international terrorism.ˮ
+10.1 Questionable Activity Reports
+Square Capital is not required to file a Suspicious Activity Report (“SARˮ) for suspicious activity that
+pertains to a credit card account and instead follows specific Bank Partner reporting obligations
+established by contract. Square Capital is required to notify its Bank Partner of suspicious activity by
+sending a Questionable Activity Investigation (“QAIˮ) Report to the Bank Partner within 30 days of the
+questionable activity being detected. The QAI Report contains information similar to that found in a SAR in
+order to provide the Bank Partner with all of the relevant information necessary to make a timely
+determination whether or not to file a SAR. Square Capital is not advised of the Bank Partnerʼs decision
+whether or not to file a SAR. The QAI Report and all information used to complete that report is handled
+with the same diligence and confidentiality as if a SAR were being filed.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 18
+
+Confidential
+10.2 OFAC Reports
+The procedures used to determine whether a Square Capital Customer is a potential match against the
+OFAC List include the following:
+● Comparison of all identifying information provided by the Customer against the OFAC List to
+determine whether there is a potential match;
+● Review of other information available on the OFAC List and if necessary a follow-up request for
+additional information from the Customer; and
+● If the Customer information is determined to be a match against the OFAC List or is sufficiently
+similar with respect to the above, this information is reported to the BSA/AML Compliance
+Officer.
+If a Square Capital Customer or Beneficial Owner matches the OFAC List, all records of the transaction are
+retained for a period of five years. When Square Capital rejects a proscribed transaction, or holds property
+that is blocked under an OFAC-administered program, all records of the transaction are maintained for five
+years from the date of the rejected transaction or, in the event of a blocking, for the period of the blocking
+plus five years. In the event of an OFAC true match as it pertains to a partner Customer, Square Capital will
+fulfill all applicable OFAC reporting requirements and block/freeze or reject funds, as required. Square
+Capital will submit blocked and rejected reports to OFAC within ten 10 business days from the date the
+property is blocked or rejected and file the annual report of blocked property, and include the blocked
+property(ies) in OFACʼs Annual Report of Blocked Property.
+Square Capital will refer any true OFAC matches to the Bank Partner within 5 days of Square Capital
+making a positive OFAC match identification if the true OFAC match is a Square Credit Card Customer.
+Square Capital will submit to the Bank Partner the following information related to the positive OFAC
+match: the name, date of birth, ssn/TIN, and address of the OFAC match.
+Once Square Capital has determined it cannot engage in a particular transaction with a particular Square
+Capital Customer, it may not recommend other sources for the party to contact, may not make referrals,
+and cannot act as an intermediary or consultant with respect to any prohibited transactions.
+Rescreens of the OFAC List are conducted periodically commensurate with the overall risk to this Standard
+using the same process outlined in this subsection.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 19
+
+Confidential
+10.3 Currency Transaction Reports
+Currency Transaction Reports (“CTRsˮ) are filed when a financial institution takes in or pays out more than
+$10,000 in one or more cash transactions (“currencyˮ) from a Customer in a 24-hour period. Square
+Capital does not accept currency; thus, Square Capital has no current obligation to file CTRs.
+10.4 314(a) and (b)
+Section 314(a) of the USA PATRIOT Act allows Law Enforcement agencies to share with financial
+institutions certain information regarding persons potentially involved in criminal or terrorist activities in
+order to obtain financial information related to those individuals. Section 314(b) generally follows the same
+requirements for information sharing between financial institutions for the same purposes.
+Square Capital is not a financial institution; however, its Bank Partner may receive such requests and
+provide those to Square Capital, in which case Square Capital follows all guidelines and requirements for
+escalating 314(a) and 314(b) requests to its Bank Partner in the event of a required response. In the event
+Square Capital identifies any transactions that require a response, Square Capital shall promptly report
+through a designated person to the Bank Partner at minimum the name of the person/entity and all
+associated account information, personal identifying information, and transaction information. Although
+314(a) and 314(b) requests are not subject to the BSAʼs five-year record retention requirements, Square
+Capital nonetheless maintains such requests for a period of five years to permit Square Capital to show
+evidence of 314(a) and 314(b) compliance between examinations.
+If, as a result of information sharing, Square Capital knows, suspects, or has reason to suspect that an
+individual, entity, or organization is involved in, or may be involved in terrorist activity or money laundering,
+and the activity qualifies for a QAR Report, Square Capital will escalate the activity to the Bank Partner.
+Additionally, if the activity is associated with other Block, Inc. products, Block will file a separate SAR with
+respect to that related activity.
+11. Document Management
+11.1 Document Owner
+This document is owned by the Head of Square Compliance or their designee.
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 20
+
+Confidential
+11.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance
+with the Compliance Document Approval Matrix. This review includes consideration of feedback on the
+effectiveness of the program and any Bank Partner or audit input, as applicable. In addition, the SCBM will
+annually review and approve this Standard. Specific to the SCBMʼs review and approval, the Credit Card
+Compliance Manager or their designee is responsible for facilitating such communication.
+12. Exceptions
+Exceptions to this document must be pre-approved by the Head of Square Compliance or their designee.
+Staff Members may submit exception requests for review at go/policyhelp.
+13. Record Retention
+Square will maintain records of this Standard in accordance with Squareʼs document retention guidelines.
+14. Related Documentation or References
+Related Policy Block Global Anti-Money Laundering &
+Countering The Financing
+of Terrorism Policy
+15. Revision & Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Tim Spencer Square Product Reviewed/No Imp… Feb 11, 2025
+Compliance
+Ken Triemstra Global Policy and Reviewed/No Imp… Feb 11, 2025
+Governance
+Approval Tracking
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 21
+
+Confidential
+Approver Title Type Description Date
+N/A N/A Creation Document is March 29, 2022
+created as a
+dnguyen@square Banking Credit Initial Appro… supplemental May 6, 2022
+up.com Policy Program Program
+Manager document for
+Square Capitalʼs
+Credit Card
+Program.
+Melissa Benja… Square Head of Scheduled R… July 12, 2022
+Compliance
+Laura Fragom… Square Head of Material Cha… Annual review. March 20, 2024
+Compliance Updated content
+and structure to
+Amelia Childre… Square Capital, Material Cha… align with the March 26, 2024
+LLC Board of Block BSA/AML
+Managers Program.
+Square Capital Square Capital Scheduled R… Scheduled February 20,
+Board of Board of review; immaterial 2025
+Managers Managers changes
+16. Document Details
+Business Square
+Scope Regional US
+Compliance Domain Financial Crimes
+Document Owner Head of Square Compliance
+Last Approval Date February 20, 2025
+Effective Date February 20, 2025
+Approved By Square Capital Board of Managers
+Document Review Schedule Annually February]
+Credit Card Bank Secrecy Act/Anti-Money Laundering & Countering the Financing of Terrorism Program Standard | Square | Square
+Capital, LLC 22

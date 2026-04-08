@@ -1,0 +1,393 @@
+How to use this guide:
+Speak Up Policy
+Square | Squareup Europe Limited
+April 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block Inc., (“Blockˮ) and
+on a need-to-know basis.
+Speak Up Policy | Square | Squareup Europe Limited
+2
+
+Confidential
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 6
+2. Purpose 7
+3. Scope 8
+4. Policy Requirements 8
+4.1 Protected Disclosure 8
+4.2 What is Not a Protected Disclosure 9
+5. Reporting a Concern 9
+5.1 General Principles 9
+5.2 Reporting Channels 10
+5.3 Internal Reporting 11
+5.4 Anonymous Report 12
+5.5 Investigations 12
+5.6 Disclosure to Prescribed Person External Reporting) 12
+5.7 Other Obligations to Make a Report 13
+6. Protection from Penalisation 14
+7. False Reports 14
+8. Record Keeping 14
+9. Data Protection 15
+10. Document Management 15
+10.1 Document Owner 15
+10.2 Review and Approval 15
+11. Monitoring and Reporting 15
+12. Exceptions 15
+13. Record Retention 16
+14. Related Documentation or References 16
+15. Revision and Approval History 16
+16. Document Details 17
+Speak Up Policy | Square | Squareup Europe Limited
+3
+
+Confidential
+Definitions
+Terminology Definition
+Staff (also All Squareup Europe Limited (“SELˮ) workers, including current and former
+referred as employees, officers, directors, consultants, independent contractors, trainees,
+Employees) interns, work experience trainees, part-time and fixed-term workers, casual
+and agency staff, volunteers and executive and non-executive directors of the
+Board of SEL. This includes those who are in a recruitment or other
+pre-contractual negotiation with SEL.
+Whistleblowing / It is a disclosure of information which relates to suspected wrongdoing or
+Speak Up dangers at work. This may include various issues such as criminal activity,
+non-compliance with legal, professional, or regulatory obligations, instances of
+injustice, threats to health and safety, environmental harm, potential bribery,
+aiding tax evasion, financial misconduct, violation of internal policies including
+codes of conduct, actions detrimental to reputation or financial stability,
+unauthorised sharing of confidential data, negligence, workplace-specific
+concerns, and the intentional concealment of any aforementioned matters.
+Whistleblower / A person who raises a genuine concern relating to any of the issues listed as
+Reporter whistleblowing above. Any concerns related to suspected wrongdoing or
+danger affecting SELʼs activities (a whistleblowing concern) must be reported
+under this Policy.
+Designated The UK Head of Compliance and Money Laundering Reporting Officer
+Person (“MLROˮ) is the Designated Person for the purposes of this Policy and, as
+such, is responsible for responding to reports of matters or concerns under
+this Policy.
+Good Faith Reports made about potential or actual violations of Blockʼs Global Code of
+Business Conduct and Ethics Code, SEL and Block Policy, or the law that are
+sincere and honest.
+Speak Up Policy | Square | Squareup Europe Limited
+4
+
+Confidential
+Protected A Protected Disclosure is a disclosure made by Staff of relevant information in
+Disclosure accordance with law or this Policy, which in the Staffʼs reasonable belief, tends
+to show one or more relevant wrongdoings.
+Roles and Responsibilities
+Role Responsibility
+SELʼs Board of SELʼs Board is responsible for the effective operation of this Policy, and for
+Directors (“the reviewing the effectiveness of actions taken in response to concerns raised
+Boardˮ) under this Policy.
+Whistleblowing This role is responsible for:
+Officer / Speak - Receiving and handling whistleblowing cases.
+Up Champion UK - Ensuring regular and appropriate training is provided to all managers and staff
+Head of who may deal with concerns or investigations under this policy.
+Compliance & - Responding to reports of matters or concerns under this Policy and is to be
+MLRO / the Reporterʼs point of contact throughout the process.
+Designated
+Person Where the Reporter requests the report be made by way of physical meeting,
+the Designated Person shall ensure, subject to the consent of the Reporter, that
+complete and accurate records of the meeting are kept in a durable and
+retrievable form. The Speak Up Champion is to remain in communication with
+the Reporter as far as is reasonably possible, and will carry out a diligent
+follow-up to the report.
+SEL Employees/ SEL employees also referred as Staff are encouraged to report relevant
+Staff information in relation to relevant wrongdoings, as quickly as possible after it
+comes to their attention using internal reporting channels.
+Staff must provide as much detail as possible including the times, dates,
+sequence of events, locations and factual details of the matter or concern when
+reporting a concern. Reports, whether made internally or externally by Staff,
+should be made in good faith and based on reasonable belief in its truth.
+Speak Up Policy | Square | Squareup Europe Limited
+5
+
+Confidential
+1. Introduction
+This Speak Up Policy (“Policyˮ) outlines SELʼs approach to Protected Disclosures. SEL has a culture to
+encourage staff to raise concerns of wrongdoing without fear of retaliation. Staff are to adhere to this
+Policy along with Block, Inc.ʼs (“Blockˮ) Global Code of Business Conduct and Ethics (the “Codeˮ) if they
+become aware of information which suggests that wrongdoing (as described below) may have happened
+or may happen if steps are not taken to address it.
+The UK Head of Compliance and MLRO is responsible for the management of this Policy.
+2. Purpose
+SEL is committed to maintaining the highest standards of honesty, openness and accountability and
+recognises that all staff have an important role to play in achieving this goal. SEL strives to conduct its
+business with honesty and with integrity at all times, and expects all staff to maintain high standards in
+accordance with our Block, Inc.'s Block Global Code of Business Conduct and Ethics (the "Code").
+However, all organisations face the risk of things going wrong from time to time, or of unknowingly
+harbouring illegal or unethical conduct. A culture of openness and accountability is essential in order to
+prevent such situations occurring and to address them when they do occur.
+The main purpose of this policy is:
+● To encourage staff to report suspected wrongdoing as soon as possible, in the knowledge that
+their concerns will be taken seriously and investigated as appropriate, and that their
+confidentiality will be respected;
+● To provide staff with guidance as to how to raise those concerns; and
+● To reassure staff that they should be able to raise genuine concerns without fear of reprisals,
+even if they turn out to be mistaken.
+3. Scope
+This Policy is established by SEL and applies to all Staff, who acquire information in respect of a relevant
+wrongdoing (as described in Section 4.1 below) in a work-related context.
+Speak Up Policy | Square | Squareup Europe Limited
+6
+
+Confidential
+4. Policy Requirements
+4.1 Protected Disclosure
+A Protected Disclosure is a disclosure made by staff of relevant information in accordance with law or this
+Policy, which in the staffʼs reasonable belief, tends to show one or more relevant wrongdoings (as
+explained below).
+A "Relevant Wrongdoing" in relation to the workplace means that:
+● An offence has been committed or is being or is likely to be committed;
+● A person has failed, is failing or is likely to fail to comply with any legal obligation (other than an
+obligation arising under the worker's contract of employment or contract of services);
+● A miscarriage of justice has occurred, is occurring or is likely to occur;
+● The health and safety of an individual has been, is or is likely to be endangered;
+● The environment has been, is or is likely to be damaged;
+● An unlawful or improper use of funds or resources of a public body or other public money has
+occurred or is likely to occur;
+● That a “Breachˮ has occurred- for the purpose of this Policy, a breach means a breach of the
+laws governing the following matters (the below is a non-exhaustive list):
+○ Financial services, products and markets, and prevention of money laundering and
+terrorist financing;
+○ Protection of privacy and personal data, and security of network and information
+systems; and
+○ Consumer protection.
+● A Relevant wrongdoing also includes information tending to show that any of the above matters
+has been, is being or is likely to be concealed or destroyed or an attempt has been, is being or
+is likely to be made to conceal or destroy such information.
+● A Relevant Wrongdoing can include a Relevant Wrongdoing that occurred, occurs or would
+occur in the United Kingdom UK or anywhere else in the world.
+4.2 What is Not a Protected Disclosure
+Generally, a matter or a concern may not be a Protected Disclosure under this Policy if it is an
+interpersonal grievance exclusively affecting Staff (for example, a complaint about bullying, or other type
+Speak Up Policy | Square | Squareup Europe Limited
+7
+
+Confidential
+of personal dispute with a colleague or manager which concerns Staff exclusively) or relates to a Staff
+member's individual contract of employment.
+5. Reporting a Concern
+5.1 General Principles
+Staff are encouraged to report relevant information in relation to Relevant Wrongdoings as quickly as
+possible to prevent escalation and to help SEL to contain and reverse any adverse consequences.
+Staff must provide as much detail as possible including the times, dates, sequence of events, locations
+and factual details of the matter or concern when reporting a concern.
+SEL will keep confidential the identity of the Reporter and any third party mentioned in the report, to the
+extent reasonably possible, consistent with the need to adequately investigate the information, and our
+compliance with applicable laws and regulations.
+There are however limited circumstances where confidentiality cannot be maintained including for
+example where:
+● The person to whom the Protected Disclosure was made or referred shows that they took all
+reasonable steps to avoid so disclosing any such information; or
+● The person to whom the Protected Disclosure was made or referred reasonably believes that
+staff are consenting to the disclosure of any such information; or
+● The person to whom the Protected Disclosure was made or referred reasonably believes that
+disclosing any such information is necessary for:
+● The effective investigation of the Relevant Wrongdoing concerned; or
+● The prevention of serious risk to the security of the State, public health, public safety
+or the environment; or
+● The disclosure is otherwise necessary in the public interest or is required by law.
+In such instances, SEL will ensure that information is handled sensitively.
+Speak Up Policy | Square | Squareup Europe Limited
+8
+
+Confidential
+5.2 Reporting Channels
+Lead | Manager go/myprofile
+Ethics Team ethics@
+Human Resources go/myhrbp
+Employee Relations erbp@
+Legal employment-legal@
+Ethics Line Online: ethics.block.xyz
+Phone: 08081349521
+Phone Outside the United Kingdom: visit ethics.block.xyz for local number
+SMS 2029310958
+5.3 Internal Reporting
+Staff are strongly encouraged to report any matter or concern promptly after it comes to their attention in
+a work-related context using the internal reporting channels.
+SELʼs internal reporting channels operate in a secure manner that ensures the confidentiality of the
+Reporter and anyone mentioned in the report. It is a protected reporting channel which prevents access by
+anyone other than authorised persons.
+SEL takes any allegation of violations, malpractice or breach of obligations very seriously, regardless of
+who may have committed them. SEL has appointed its UK Head of Compliance and MLRO as the
+Designated Person to respond to reports of matters or concerns under this Policy . The Designated Person
+is impartial and is trained to respond to these reports. The Designated Person will be the Reporterʼs point
+of contact throughout the process.
+Reports may be made upon request by the Reporter by means of a physical meeting with the Designated
+Person, within a reasonable period from the time the request was made. When such a request is made, the
+Designated Person shall ensure, subject to the consent of the Reporter, that complete and accurate
+records of the meeting are kept in a durable and retrievable form. The Designated Person may document
+Speak Up Policy | Square | Squareup Europe Limited
+9
+
+Confidential
+the meeting by way of i) audio recording, or ii) accurate minute taking. Where the Reporter has disclosed
+their identity, the Designated Person shall offer the Reporter the opportunity to check, verify and agree the
+minutes of the meeting by signing them.
+The Designated Person will remain in communication with the Reporter as far as is reasonably possible,
+will follow up in relation to the concern and where necessary will ask staff for further information.
+The Designated Person will carry out a diligent follow-up to the report which will include at least the
+following ("Diligent Follow Up"):
+● The Designated Person will carry out an initial assessment to establish if there is preliminary
+evidence that a Relevant Wrongdoing may have occurred. If the Designated Person comes to
+the conclusion that no preliminary evidence exists, the procedure will be closed or referred to
+other applicable internal procedure mechanisms. Reporters will be notified in writing of the
+decision and the reason for it as soon as possible.
+● Where the Designated Person concludes that preliminary evidence exists of a Relevant
+Wrongdoing, appropriate actions will be taken to address the wrongdoing, having regard to the
+nature and seriousness of the matter.
+● The Designated Person will maintain communication with the Reporter, will inform the Reporter
+of how they propose to investigate the matter, and will keep the Reporter informed of actions,
+where possible. However it is important to note that sometimes the need for confidentiality and
+legal considerations may prevent the Designated Person from giving the Reporter specific
+details of an investigation. The Designated Person will inform the Reporter of the likely time
+scales in regard to the steps being taken where possible.
+5.4 Anonymous Report
+As outlined in the Code, Staff who prefer to remain anonymous may report their concerns anonymously by
+visiting www.ethics.block.xyz or calling 08081349521.
+There may be limitations on the progress of the investigation where a matter is reported anonymously. SEL
+cannot guarantee that it can perform the Diligent Follow Up referred to above in response to anonymous
+Reports.
+Speak Up Policy | Square | Squareup Europe Limited
+10
+
+Confidential
+5.5 Investigations
+Concerns that are reported to SEL will be reviewed timely and addressed as appropriate. Due to
+considerations such as confidentiality and ensuring the integrity of investigations, SEL may not be able to
+share the details of such investigations with the Reporter .
+Subject to applicable laws, all Employees are required to cooperate with investigations and provide
+complete, accurate and truthful information. Retaliating against someone who has made a report or
+participated in an investigation in good faith is not tolerated.
+5.6 Disclosure to Prescribed Person (External Reporting)
+The aim of this Policy is to provide an avenue within the SEL workplace to deal with concerns or
+disclosures in regard to a Relevant Wrongdoing. Most issues can be dealt with internally using this Policy
+and/or the Code, and SEL strongly encourages staff to report such concerns internally. In most cases staff
+should not find it necessary to alert anyone externally.
+There may be circumstances where staff may consider making a disclosure externally. To that end, staff
+may, in certain circumstances, make a disclosure to a “Prescribed Personˮ, such as:
+● Financial Conduct Authority: contact details and method of reporting here;
+● Government Whistleblowing website: contact details and methods of reporting here; or
+● Independent Whistleblowing Charity: contact details abd methods of reporting here
+Before making a disclosure to a Prescribed Person, staff must reasonably believe that the information staff
+are disclosing and any allegations contained in the report are substantially true, and the report must fall
+within the description of matters in respect for which the Prescribed Person or Comission has
+responsibility.
+Additionally, a disclosure may be made to an external third party other than a Prescribed Person or the
+Commissioner where staff reasonably believe that the information disclosed and any allegations contained
+in it are substantially true and one or more of the following applies:
+1. Staff have previously made a disclosure of substantially the same information to SEL or a
+Prescribed Person and no appropriate action was taken within a time period;
+Speak Up Policy | Square | Squareup Europe Limited
+11
+
+Confidential
+2. Staff reasonably believe that the Relevant Wrongdoing concerned may constitute an imminent
+or manifest danger to public interest, such as where there is an emergency situation or risk
+of irreversible damage; or
+3. Staff reasonably believe that there is a risk to them of penalisation or there is a low prospect of
+the Relevant Wrongdoing being effectively addressed if the report is made to a Prescribed
+Person.
+5.7 Other Obligations to Make a Report
+As a regulated entity, SEL has other obligations under various pieces of legislation to report contraventions
+of financial services law to the Financial Conduct Authority (“FCAˮ). For the avoidance of doubt, this Policy
+also applies in relation to disclosures of infringements concerning the obligations under;
+● SYSC 18.3.1R whistleblowing handbook; and
+● Public Interest Disclosure Act 1998.
+6. Protection from Penalisation
+It is understandable that whistleblowers are sometimes worried about possible repercussions. SEL aims to
+encourage openness and must support staff who raise genuine concerns under this Policy, even if they
+turn out to be mistaken.
+As outlined in the Code, Block does not tolerate retaliation or penalisation in connection with the making
+of a Protected Disclosure. Anyone found to have committed such retaliation or penalisation could face
+disciplinary action up to and including dismissal.
+If staff make a Protected Disclosure, they are protected from penalisation by reason of the making of the
+Protected Disclosure. Penalisation includes, but is not limited to, to, suspension, lay-off, dismissal, and
+other disciplinary action as well as demotion, discrimination or other forms of adverse treatment.
+If a Reporter believes they are subject to penalisation as a result of making a disclosure under this
+procedure, they should report the matter to their HRBP or make a report at www.ethics.block.xyz promptly.
+Speak Up Policy | Square | Squareup Europe Limited
+12
+
+Confidential
+7. False Reports
+Reports should be made in good faith and based on reasonable belief in truth. If staff knowingly or
+carelessly make false allegations using this Policy, they may be subject to disciplinary action up to and
+including dismissal. It is also potentially a criminal offence to make a false report.
+8. Data Protection
+Any processing of personal data pursuant to this Policy, including the exchange or transmission of
+personal data must be carried out in accordance with applicable data protection law.
+9. Document Management
+10.1 Document Owner
+This document is owned by the UK Head of Compliance or their designee.
+10.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance
+with the Compliance Document Approval Matrix as outlined in Blockʼs Compliance Policy on Policies.
+10. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+11. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance
+Speak Up Policy | Square | Squareup Europe Limited
+13
+
+Confidential
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+12. Record Retention
+All published Documents are retained in accordance with Blockʼs Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+13. Related Documentation or References
+Related Program Global Code of Business Conduct and Ethics
+14. Revision and Approval History
+Version Approver Title Type Description Date
+1.0 Sara Sayeed Regulatory Creation Created the November
+Program policy 2023
+Manager
+1.0 vobrien@blo… UK Head of Initial Appr… March 2024
+Compliance
+and MLRO
+1.0 SEL Board of Board Material Ch… April, 2024
+Directors
+2.0 Elizabeth He… UK Head of Scheduled … The policy has Feb 27, 2025
+Compliance been converted
+into the new
+2.0 SEL Board of Board Scheduled … policy format Apr 10, 2025
+Directors Approval which includes
+definitions,
+roles and
+responsibilities,
+and reference
+to holding
+physical
+meetings with
+the reporting
+person, on
+request.
+Speak Up Policy | Square | Squareup Europe Limited
+14
+
+Confidential
+15. Document Details
+Business Square
+Scope Regional UK
+Compliance Domain Ethics & Employee Conduct
+Document Owner UK Head of Compliance and MLRO
+Last Approval Date Apr 10, 2025
+Effective Date Apr 10, 2025
+Approved By SEL Board
+Document Review Schedule Annually March 2026
+Speak Up Policy | Square | Squareup Europe Limited
+15

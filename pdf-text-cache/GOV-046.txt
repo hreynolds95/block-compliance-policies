@@ -1,0 +1,265 @@
+RETIRED
+Regulatory Compliance
+Monitoring Program
+Square | Squareup International Limited
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block Inc. (“Blockˮ) and
+on a need-to-know basis.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 4
+1. Introduction 6
+2. Purpose 6
+3. Scope 7
+4. Program Requirements 7
+4.1 Risk- Based Regulatory Compliance Monitoring Schedule 7
+4.2 Regulatory Compliance Monitoring Methodology 8
+4.3 Reporting 11
+5. Document Management 11
+5.1 Document Owner 11
+5.2 Review and Approval 11
+6. Exceptions 11
+7. Record Retention 11
+8. Related Documentation or References 12
+9. Revision and Approval History 12
+10. Document Details 12
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Regulatory The risk of legal or regulatory sanctions, material financial loss, or loss to
+reputation Squareup International Limited (“SILˮ) may suffer as a result of its
+Compliance Risk
+failure to comply with laws, regulations, regulatory guidance, codes of
+conduct, regulatory expectations and group wide policies, amongst other
+things.
+Employees All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Policy, and include interns,
+temporary workers, consultants, vendors, third-party providers, and
+contractors.
+Roles and Responsibilities
+Role Responsibility
+Three Lines of The Company operates a Three Lines of Defence model. This model reflects
+Defence the segregation between business units (first line), the compliance and risk
+management functions (second line), and the independent internal audit
+function (third line).
+First Line of The first line of defence is responsible for maintaining the effectiveness of
+Defence operations processing and controls in their respective units. In terms of
+compliance monitoring the businessʼ role is to identify, manage and escalate
+emerging issues or risks to Compliance and senior management to include
+the Regulatory Governance Committee and the SIL Board if warranted. Also
+to facilitate EU Compliance in conducting its own monitoring, the first line is
+required to provide data, documentation, management information etc., on
+request, in a timely manner. If non-compliances or concerns are identified via
+monitoring, the relevant business leads are to work with EU Compliance to
+determine the root cause and associated action plans to address the same.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+4
+
+Confidential and Not for Distribution
+Second Line of EU Compliance as a second line function is responsible for providing
+Defence ongoing oversight, guidance on requirements and independently evaluating
+the first lineʼs adherence to defined standards. EU Compliance is responsible
+for conducting compliance monitoring in accordance with this Regulatory
+Compliance Monitoring Program and its underlying compliance monitoring
+procedure, reportable to the EU Chief Compliance Officer (“EU CCOˮ), the
+Regulatory Governance Committee and the SIL Board, when required.
+Enterprise Risk function, as another limb of the second line, is responsible for
+the assessment, monitoring and reporting of risk, to include financial crime,
+regulatory, financial, technology, strategic and operational risks.
+Third Line of The third line, internal audit function is responsible for providing independent
+Defence assurance on the effectiveness of risk management, including control
+activities, by performing audits of business level activities and second-line
+functionality.
+Regulatory The role of the RGC is to assist SILʼs executive director(s), Chief Executive
+Governance Officer and other senior managers in relation to their oversight of SILʼs risk
+Committee (“RGCˮ) and compliance management framework and current risk exposures. In order
+to facilitate this, subject-matter experts update the Committee on areas
+including, but not limited to, the results of the Compliance monitoring
+reviews. The RGC is to review, assess and challenge these results.
+SIL Board (“Boardˮ) The Board is responsible for managing and overseeing all aspects of the
+Companyʼs business including, but not limited to, ensuring compliance with
+all applicable laws and regulatory guidelines/obligations. To this end, the
+Board is to review, assess and challenge the results of the Compliance
+monitoring reviews, reported to it.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Regulatory Compliance Monitoring Program (“Programˮ) outlines SILʼs approach to be applied by the
+EU Compliance team when conducting second line compliance monitoring.The EU CCO is responsible for
+the management of this Program.
+This Program will be executed by SILʼs EU Compliance team, and is separate to and distinct from the
+Global Compliance Monitoring and Testing (“GCMTˮ) Program. Both teams that execute on these
+respective programs form part of the second line of defence in SIL. Both monitoring and testing are
+important tools used for the oversight of SILʼs compliance risk management program, but serve two
+different oversight roles to achieve this objective.
+This Program involves the ongoing surveillance, review, and analysis of key management information,
+metrics and risk indicators, established by EU Compliance and or the relevant business area under review,
+allowing SIL to identify potential non-compliances.
+The GCMT program is a dynamic, risk-based, independent compliance oversight process designed to
+periodically select and review a regulatory area and report on the operating effectiveness of internal
+controls and governance processes.
+The two programs combined bring a systematic, disciplined testing approach to SILʼs oversight activities
+and provides key stakeholders and Board with relevant risk and control information so that control owners
+can take prompt remedial action.
+2. Purpose
+SIL conducts business in compliance with all applicable laws and regulations. In support of this, this
+Program has been designed to:
+● Manage Regulatory Compliance Risks;
+● Identify, correct, and report compliance-related gaps and deficiencies;
+● Satisfy the monitoring expectations of SILʼs regulator; and
+● Provide assurance to Board, senior management, and stakeholders on the status of
+compliance.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+6
+
+Confidential and Not for Distribution
+3. Scope
+This Program is established by SIL and is applicable to all its Employees.
+4. Program Requirements
+4.1 Risk-Based Regulatory Compliance Monitoring Schedule
+Compliance management begins with the assessment and identification of risks. Using a risk based
+approach, the Compliance monitoring schedule (“the Scheduleˮ) focuses on key Regulatory Compliance
+Risk for EU Compliance to monitor, and sets out the types of monitoring to be conducted, the frequency of
+such monitoring and the reporting of issues arising from the monitoring.
+The EU CCO must approve the annual Schedule which is prepared by the EU Compliance Team and any
+changes thereto. Scheduled Compliance monitoring may be moved to accommodate staffing or resources
+constraints/needs, to align with changes to risk levels etc., provided the EU CCOʼs approval is obtained.
+4.2 Regulatory Compliance Monitoring Methodology
+At a high level, the methodology used for conducting monitoring activity Figure 1 is:
+1. Data/facts;
+2. Monitoring; and,
+3. Management Acts.
+Figure 1 Regulatory Compliance Monitoring Methodology
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+7
+
+Confidential and Not for Distribution
+● Data/Facts
+It is vital for effective monitoring that EU Compliance connects to the relevant, meaningful, concise and
+complete data. This data is to be obtained from/reported by the first line of defence to EU Compliance as
+requested, in a timely manner.
+● Monitor
+EU Compliance is to then monitor this data for exceptions compared to processes, policies, procedures or
+programs that have been designed to ensure compliance. In other words, EU Compliance is to monitor
+adherence to regulatory requirements and/or internal policies and procedures. Monitoring results are to
+be RAG (“Red, Amber, Greenˮ) rated according to the results rating matrix Figure 2)below.
+Figure 2 : Monitoring Results Rating Matrix
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+8
+
+Confidential and Not for Distribution
+RAG ratings of specific monitoring results may change as new information becomes available during the
+review process with the business. Further, the EU CCO has override authority for result ratings, and may
+make substantive modifications to the way gaps are summarised and presented, provided any such
+changes are documented with supporting rationales.
+The types of monitoring to be conducted may include analysis of data, key risk indicators, reports, trends
+as well as sample/dip testing of files, transactions, cases, account records, etc.
+It is important to note that this Program should evolve,as well as the types of data subject to monitoring, as
+the business evolves and its risk profile changes.
+● Management Acts
+○ Root Cause Analysis
+Root cause analysis is an approach used to analyse problems before trying to solve them. The primary
+goal of root cause analysis is to identify the underlying reason for breakdowns in processes or systems,
+which leads to better resolution plans and reduces the likelihood that a problem reoccurs.
+Where exceptions, non-compliances and or concerns are identified via Compliance monitoring, the
+relevant first line team is to conduct a root cause analysis (with the assistance of EU Compliance if
+required), for onward reporting to EU Compliance.
+○ Resolution
+It is important that root cause analysis is performed prior to attempting to resolve an issue, in order to
+narrow down the potential issues causing exceptions to business as usual. The resolution to be adopted is
+dependent on the root cause of the problem and also based on the severity of the problem. Each first line
+team that is responsible for the non-compliance is to identify and work towards a resolution, which the EU
+CCO is to assess.
+Timing is critical to this process. As soon as an exception has been identified during the monitoring
+process, reporting stakeholders, including senior managers, are to be kept informed throughout the
+remainder of the monitoring process, including notification of the resolution and timeframe for resolution.
+All root cause analysis and resolution documentation shall be maintained by the relevant first line team.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+9
+
+Confidential and Not for Distribution
+4.3 Reporting
+Details of the Compliance monitoring review are to be reported quarterly, bi-annually or annually as per
+the Schedule. This type of reporting provides transparency into the first lineʼs adherence to its regulatory
+compliance requirements, significant compliance deficiencies or systemic weaknesses discovered,
+emerging risks and issue remediation status. The recipients of these reports, be they individuals or
+forums, are detailed within the Schedule. As detailed earlier, the results of the Compliance monitoring are
+to be RAG rated. Only Amber and Red rated results are reportable to the RGC and only Red rated results
+are reportable to the Board.
+5. Document Management
+5.1 Document Owner
+This document is owned by the EU CCO or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance
+with the Compliance Document Approval Matrix.
+6. Exceptions
+The EU CCO or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations.
+Policy exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+10
+
+Confidential and Not for Distribution
+7. Record Retention
+All published Documents are retained in accordance with Blockʼs Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+8. Related Documentation or References
+Related Documents:
+Related Procedure Compliance Monitoring Procedure | Square…
+9. Revision and Approval History
+Version Approver Title Type Description Date
+1.0 Danielle Carm… EU Regulatory Material … 16 November
+Program 2022
+Manager
+2.0 Elizabeth Henry EU CCO Immateri… 23 January 2023
+2.1 dcarmody@sq… EU Regulatory Immateri… 8 March 2023
+Program
+Manager
+2.2 Sydney Nam Block Policy Immateri… Updated 16 October 2023
+Governance template.
+Coordinator
+3.0 Danielle Carm… EU Regulatory Schedule… No change 23 January 2024
+Program
+Manager
+4.0 Danielle Carm… EU Regulatory Schedule… Migrated 26 March 2025
+Program original
+Manager version to
+new template
+Elizabeth Henry EU CCO Schedule… and restricted April 9, 2025
+and edited
+content. No
+material
+changes
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+11
+
+Confidential and Not for Distribution
+10. Document Details
+Business Square
+Scope Regional EU
+Compliance Domain Compliance Governance
+Document Owner EU COO
+Last Approval Date April 9, 2025
+Effective Date April 9, 2025
+Approved By EU CCO
+Document Review Schedule Annually March 2026
+Regulatory Compliance Monitoring Program | Square | Squareup International Limited
+12

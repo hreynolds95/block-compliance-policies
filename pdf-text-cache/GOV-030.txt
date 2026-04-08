@@ -1,0 +1,481 @@
+Compliance - Risk and
+Controls Documentation
+Standard
+Block
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. (“Block”)
+and on a need-to-know basis.
+Risk and Controls Documentation Standard | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+1. Introduction 6
+2. Purpose 6
+3. Scope 6
+4. Standard Requirements 7
+4.1 Taxonomies 7
+4.2 Documentation of Risks 8
+4.2 Documentation of Controls 9
+4.3 Compliance Risks and Controls Library Templates 13
+4.4 Change Management 14
+5. Document Management 14
+5.1 Document Owner 14
+5.2 Review and Approval 15
+6. Training 15
+7. Monitoring and Reporting 15
+8. Exceptions 15
+9. Record Retention 15
+10. Implementation Date and Transition Period 15
+11. Related Documentation or References 16
+12. Revision and Approval History 16
+13. Document Details 16
+Risk and Controls Documentation Standard | Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Compliance Risks For the purpose of this document, Compliance Risks and Controls refer
+and Controls to Compliance related risks and controls.
+Enterprise Risk The strategic enterprise level of process, overseen by the Board and
+Management implemented by Management and other personnel to identify potential
+(‘’ERM’’) risks and manage them within Block’s Risk Appetite to enable Block to
+achieve its strategic, operational, reporting, and compliance objectives.
+Enterprise Risk An annual assessment of the top management identified Inherent Risks
+Assessment categories that if incurred can expose Block to financial Impacts,
+(‘ERA”) regulatory actions, or loss of shareholder confidence, competitive
+advantages, and reputation.
+Compliance Risk Any Risk Assessment undertaken of a specific Level I, II, III or IV risk,
+Assessment owned by Compliance, and in line with the ERM Risk Categorisation.
+(“CRA”) This includes the ARA, and may also be referenced as Regulatory RCSAs
+and include other RCSAs owned by Compliance.
+Annual Risk An annual process for identifying, measuring, and reporting
+Assessment AML/CFT/Sanctions risks and the effectiveness of established control
+(“ARA”) environments designed to mitigate these risks with an objective of
+informing risk management strategies and organizational objectives.
+Risk Control A continuous bottom up assessment used to identify, assess and
+Self-Assessment document risks & controls within an organization to evaluate their
+(“RCSA”) effectiveness in optimizing risk portfolios. It serves as the primary tool for
+implementing the Enterprise Risk Assessment (ERA) at the business
+level.
+RCSA Playbook Risks and Controls Self Assessment (“RCSA”) playbook that serves as
+comprehensive guidance, templates and rubrics to support the practical
+implementation of the RCSA. It includes observable characteristics or
+criteria used to consistently evaluate where we are or aim to be with
+respect to risks, controls, and appetites.
+Compliance Risk A worksheet template which defines the minimum data elements that
+and Controls need to be captured in order to generate a harmonized and consistent
+Template risk & control inventory that supports and conforms to this standard.
+Risk and Controls Documentation Standard | Block
+4
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibility
+Brand Program The individual responsible within each Brand for the documentation of
+Manager - Risks & risks and controls. This person works with key stakeholders to ensure
+Controls that the risk and control inventory is current and complete and in
+conformance with these standards.
+Control Owner The individual responsible for the design, implementation and oversight
+of control effectiveness of specific controls to reduce inherent risk. They
+ensure controls are appropriately designed, regularly reviewed and
+updated to reflect changes to the risk environment. The Control Owner
+ensures controls operate as intended and provide oversight, reviews
+evidence and support during assessments or audits to maintain control
+effectiveness.
+Control Performer The individual responsible for executing the day-to-day activities of
+specific controls as designed. They ensure controls are performed
+accurately, consistently, and on schedule. The Control Performer provides
+evidence of control execution during assessments or audits and
+highlights any challenges, gaps, or inefficiencies to the Control Owner for
+resolution.
+Enterprise Risk Builds and oversees the global enterprise risk function for Block
+Management including its enterprise risk management framework and related policies
+(“ERM”) and processes. ERM owns the ERA process for the overall execution of
+enterprise risk strategies and risk mitigation.
+Product Product Compliance Management is the Compliance Team responsible
+Compliance for partnering cross-functionally with product, risk, compliance
+Management operations, legal, and other teams to design and advise on the building
+Team
+of compliance risk controls and conduct assessment and mitigation
+(PCM)
+functions regarding compliance risks.
+Risk Scenario Responsible for defining, maintaining, and updating risk scenarios that
+Owner (Level IV) are relevant to their assigned area. The Risk Scenario Owner supports the
+evaluation of the risk scenarios during the RCSA process and ensures risk
+scenarios are clearly documented, well understood, and actionable,
+enabling teams to assess and mitigate risks effectively.
+Risk and Controls Documentation Standard | Block
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Compliance - Risk and Controls Documentation Standard (“Standard”) outlines Block, Inc. 's
+(“Block”) approach to establishing a unified and systematic approach to compliance related risk and
+control documentation across Block and its brands. It provides the fundamental guidelines for
+maintaining an accurate and comprehensive record of all compliance risk-related activities and
+control measures, with an objective of ensuring consistency in risk management practices to
+promote the effectiveness of Block’s control environment. Block’s RCSA Playbook must be consulted
+for guidance in conjunction with this Standard while documenting Compliance related risks and
+controls.
+The Head of Global Policy & Governance is responsible for management of this Standard with
+delegation to relevant Brand Program Manager - Risks & Controls. This delegation includes
+responsibility and ownership for enforcement of these standards.
+2. Purpose
+The purpose of this standard is to define the specific requirements and minimum standards for
+documenting both compliance risks and their corresponding controls across Block and its affiliated
+brands. The standard aims to ensure that all risk and control information is systematically recorded
+and properly maintained, thereby supporting effective oversight and compliance with regulatory
+requirements. It serves as Compliance’s Standard for meeting the expectations of external partners,
+regulators, and auditors, while simultaneously providing clear guidelines for internal stakeholders. By
+implementing this Standard, Block strengthens its ability to identify, assess, and mitigate risks
+effectively, ultimately safeguarding the company's interests and ensuring compliance with
+applicable regulations across all jurisdictions in which it operates.
+3. Scope
+This Standard is established by Block, Inc. (“Block”) and is applicable globally across all Block brands,
+subsidiaries, and jurisdictions to all Compliance personnel within Block who are responsible for risk
+and control documentation. It covers the documentation processes related to compliance risks, as
+well as the controls designed to mitigate these risks. The Standard mandates adherence to specified
+documentation practices during the creation, review, updating, and retention of risk and control
+Risk and Controls Documentation Standard | Block
+6
+
+Confidential and Not for Distribution
+records. It focuses exclusively on the documentation and identification aspects of Compliance Risks
+and Controls and does not encompass risk and control measurements.
+4. Standard Requirements
+4.1 Documentation Principles:
+The Standard’s requirements are embedded in the four fundamental principles to provide a
+structured approach to documenting Compliance Risks and Controls, with the objective of ensuring
+clarity, consistency, and comprehensiveness in the process.
+1. Consistency: All documentation of Compliance Risks and Controls must adhere to a
+standardized format and level of granularity for consistent recording and reporting across all
+Block brands, facilitating comparability and coherence. The risk and controls repository must
+maintain scalability to meet the unique needs of different businesses while preserving core
+documentation standards across the enterprise.
+2. Accountability and Ownership: Clear responsibility must be assigned for both the creation
+and maintenance of risk and control documentation. Each control instance must have an
+identified owner, who is accountable for the accuracy and completeness of the information.
+3. Comprehensive Coverage: The documentation must encompass all key Compliance Risks
+and Controls, as well as the linkage between identified risks and their corresponding controls.
+4. Regular Review and Updates: Risk and control documentation must be reviewed and
+updated per the scheduled frequency defined by the Brands or more frequently if trigger
+events occur, to account for changes in the business environment, operational processes,
+Issues and/or Incidents or regulatory requirements. This principle ensures that the
+documentation remains relevant and provides a reliable basis for decision-making.
+Compliance teams are empowered to further group like/ and or interconnected attributes to assist
+in risk management activities.
+Risk and Controls Documentation Standard | Block
+7
+
+Confidential and Not for Distribution
+4.2 Documentation of Risks
+The Enterprise Risk Management (ERM) team owns and manages Block’s risk taxonomy. All
+documented risks must be categorized according to the taxonomy definitions that ERM has set.
+Block’s ERM risk taxonomy defines risk levels that flow from broad categories to specific scenarios in
+a clear hierarchy. This progression from broad categories to specific scenarios enables
+comprehensive risk identification and targeted control implementation. Level I establishes the
+foundational risk categories (E.g. compliance risk), Level II breaks these down into distinct
+sub-categories within each main category and Level III identifies risks more specifically. For
+additional details regarding the documentation of Risk levels I, II and III, refer to the risk attributes
+enlisted in the Compliance Risk and Controls Template that supports the implementation of this
+Standard.
+Level IV details precise risk scenario statements as described below.
+Risk Scenarios (Level IV): Risk scenarios help stakeholders understand how risks might materialize
+in real-world situations, the interconnected nature of risks, the importance of preventive, detective,
+corrective and directive controls and the need for response planning.
+A risk scenario provides a comprehensive picture of a potential risk situation, including how it might
+occur, the factors contributing to it, and the possible outcomes. A Risk scenario ID, Name and
+Description must be documented for each risk scenario. A Risk Description is a narrative that
+outlines how a risk could manifest, connecting risk events, factors, and impacts. A risk scenario is a
+comprehensive narrative that connects risk factors, events, and impacts into a coherent story. It
+describes:
+● “Setting the stage” - The context and conditions (risk factors, or Why It Might Happen)
+● “The Trigger” - The specific event that could occur (risk event, or What Could Go Wrong)
+● “The Fallout” - The cascade of consequences (impact) that may be direct or indirect and are
+measurable across dimensions based on timing and sequence of events, its potential severity and
+scope (Potential Consequences", “bad outcome”).
+● “What Could Go Wrong” refers to a risk event is a specific occurrence or incident that could
+potentially lead to an undesirable outcome affecting business objectives. It is the trigger
+where a threat or opportunity causes the risk to materialize. Well documented risk events are
+Risk and Controls Documentation Standard | Block
+8
+
+Confidential and Not for Distribution
+specific, observable, time-bound, measurable in terms of likelihood and impact and directly
+linked to business processes or objectives.
+● “Why It Might Happen” implies the risk factors or the internal or external conditions,
+circumstances, or vulnerabilities that can lead to the occurrence of a risk event. They are
+essentially the underlying causes or contributors that increase the likelihood of a risk event
+happening. They indicate the root causes or contributors to risk and often present before the
+risk event as "warning signs" or "pre-conditions" that make risk events more likely.
+● "Potential Consequences", “Bad Outcome” relate to the Impact or the potential
+consequences or effects that follow a risk event. It describes what could happen if the risk
+event actually occurs and the severity of the outcome can be measured across multiple
+dimensions.
+Additional Attributes:
+Legal Entity: relates to the legal entity that is associated with relevant risk & control inventory output
+at a product level. For example, if CashApp P2P is the subject of the inventory, the legal entity will be
+identified as Block, Inc. If Square Card UK is the subject of the inventory, the legal entity will be
+identified as Squareup Europe Limited.
+Brand (as applicable): used to more narrowly define the scope to which the risk & control inventory
+output relates. The applicable ‘brand’ options in this regard include: Square & CashApp. For risks and
+controls that are programmatic in nature and scope, the relevant brand may be labelled ‘N/a’ as
+these outputs will be applicable to Block. Conversely, for more downstream risk & control outputs
+that are product/process specific in scope and subject matter, Square and/or CashApp may be
+labelled as the brand option(s) in such contexts.
+Business (as applicable): used to narrowly define the scope of the risk and control inventory output
+for those instances where Block offers standalone services that are not affiliated to a brand (e.g.
+Bitcoin Platform).
+Product: relates to the payment product and/or features that are the subject of the risk & control
+inventory (e.g. CashApp P2P, Cash Investing, Square Managed Payments, Square Credit Card etc).
+Risk and Controls Documentation Standard | Block
+9
+
+Confidential and Not for Distribution
+Market/Country: Refers to a specific country, region, or jurisdiction where Block and its Brands
+operate or conduct business.
+4.3 Documentation of Controls
+A control is a specific measure, process, procedure, mitigating action or management action plan
+implemented within an organization to mitigate risks and help ensure that objectives are achieved
+effectively and efficiently. These actions or set of actions are implemented to provide reasonable
+assurance by mitigating or reducing inherent risks to acceptable levels through its consistent,
+precise, and repeatable execution.
+Mitigating controls must be identified based on the risks identified (as per Section 4.2).
+1. Control Name and Description
+Control Name - The Control Name should be a concise title that briefly identifies the control.
+While the title must be brief, limited to a few focused words, avoiding technical jargon where
+possible, it should be a descriptive identification of the control which clearly communicates the
+control’s function.
+Control Description - A control description should state a clear, concise testable objective. It
+must identify who is accountable (i.e. Control Owner/Control DRI), when the control operates or
+its frequency of operation, and what evidence demonstrates its effectiveness. Language used in
+descriptions must be simple, focusing on its risk mitigation role, versus step-by-step procedural
+detail. Control descriptions must clearly define the scope, including where the control ends, to
+set boundaries. The following are essential elements that must be present in every control
+description based on the 5W + 1H Approach:
+● When: What triggers this control to execute and/or at what frequency is the control
+performed? It’s not just the frequency but perhaps an action that has to occur to make
+this control operate.
+Examples of frequency: Annually, Semi-Annually, Quarterly, Daily, Weekly, Monthly,
+Real-Time / Continuous, Per Transaction / Event, Adhoc / as needed etc.
+● Who: This is the Control performer, which can be an individual role or entity must include:
+- Individual Role/title for manual controls
+- Entity - System/application, or models for automated controls
+Risk and Controls Documentation Standard | Block
+10
+
+Confidential and Not for Distribution
+● What: What action is taken that spots or stops the risk from occurring? E.g. Is it
+verification, authorization, reconciliation, due diligence or a safeguarding activity
+● How: In what manner is the aforementioned action stopping or spotting the risk
+- Manual, automated, or manual-automated1
+- Tools/systems used
+● Why: Purpose and risk being mitigated and objective being achieved.
+● Where (Evidence): Documentation or proof to demonstrate the control’s operation
+2. Control Types
+Controls may be classified by their level of importance as key and compensating as follows:
+a) Control Types based on importance:
+Key Controls: A primary control designed to directly mitigate a specific risk or prevent it from
+materializing, Key controls are typically the most effective and critical in reducing the likelihood
+or impact of a risk.
+Examples: System access authentication, Payment authorization limits, Regulatory reporting
+reviews, Customer due diligence, Financial reconciliations.
+Compensating Controls: A secondary or alternative control implemented to mitigate a risk
+when the key control is not in place, is ineffective, or cannot be applied due to specific
+constraints (e.g., resource limitations, technical infeasibility). Compensating controls reduce risk
+exposure but are often less robust or efficient than the intended key control. e.g. manual review
+of system logs.
+Examples: Routine data backups, Training completion tracking, Documentation reviews.
+Distinguishing Factors and Decision Matrix
+Criteria Key Control Compensating Control
+Directly mitigates specific, Serves as a backup when a key control is
+Primary Role inherent risk missing, delayed, or infeasible
+Design Intent Prevents or detects risk Provides a workaround or reduction in
+1 See RCSA Playbook Information Sheet of RCSA Playbook for Control Classifications
+Risk and Controls Documentation Standard | Block
+11
+
+Confidential and Not for Distribution
+Criteria Key Control Compensating Control
+exposure
+Reliance in Strong reliance (subject to Moderate reliance (may be temporary or
+Audit/Testing formal testing) supplementary)
+Designed to be permanent Often interim or dependent on external
+Sustainability and embedded factors
+Failure Likely requires immediate May be acceptable short-term, but requires
+Consequence escalation or remediation monitoring and periodic reassessment
+b) Control Types based on placement in a process
+Based on their placement within a process, controls may be classified as Preventative, Detective,
+Corrective and Directive.
+Preventative Controls: Actions that reduce the likelihood of an event happening. They are
+executed before possible events and address their causes. Preventative Controls are designed to
+stop errors, irregularities, or unwanted events from occurring in the first place. They are
+proactive in nature, and function as a barrier or gate. Examples: System access restrictions,
+Required approval workflows or Input validation rules.
+Detective Controls: Actions that take place during or after an event to reduce the impact
+through early detection, enabling a timely response. Detective controls are designed to identify
+errors, irregularities, or unwanted events that have already occurred. They help identify
+deviations or exceptions to enable investigation and correction. Examples: Exception reports,
+Audit logs review, Performance monitoring and Variance analysis.
+Directive Controls: Actions that provide guidance and set expectations to influence behavior
+and decision making. Unlike preventative controls, which reduce risk through barriers or
+safeguards, directive controls shape how risks are approached in the first place. Directive
+Controls are designed to guide actions toward desired outcomes and encourage compliance
+with policies and procedures. These controls may be guidance-oriented aiming to influence
+behavior, set expectations or support decision-making. Examples: Policies and procedures,
+Training programs, Management oversight, Performance standards.
+Risk and Controls Documentation Standard | Block
+12
+
+Confidential and Not for Distribution
+Corrective Controls: Actions that take place after an event to mitigate the consequences of
+unexpected events and restore normal operations. Unlike detective controls, which identify
+issues, corrective controls actively resolve them. Examples: Backups, business continuity plans,
+complaints handling etc.
+Distinguishing Factors and Decision Matrix
+Criteria Preventative Detective Directive Corrective
+Timing Before event After event Ongoing After detection
+Purpose Stop issues Find issues Guide behavior Fix issues
+Nature Proactive Reactive Guiding Remedial
+Function Prevent / Barrier Identify / Monitor Guide / Influence Resolve / Restore
+Impact Direct Indirect Indirect Direct
+c) Control Types based on level of automation
+Automated Controls: Controls that operate through system-configured rules, parameters,
+algorithms, or artificial intelligence/machine learning models, executing without human
+intervention to provide consistent risk mitigation and reliable documentation.
+Manual Controls: Controls that are performed by a person without the aid of an automated
+system to executive the control.
+Manual-Automated (Semi-automated): Controls that have both manual and automated
+components, where the system performs part of the control process but human intervention is
+required to complete it. When describing semi-automated controls, clearly explaining whether
+the automated or manual component or both are key to risk mitigation is recommended,
+including the consideration of failure points and impacts.
+4.4 Compliance Risks and Controls Library Templates
+All identified risks and corresponding controls must be documented using the Risk & Control
+Inventory Template. Block’s RCSA Playbook must be consulted for guidance in conjunction with this
+Risk and Controls Documentation Standard | Block
+13
+
+Confidential and Not for Distribution
+Standard while documenting Compliance related risks and controls. In the event of any conflicts
+between this Standard and the RCSA Playbook, the Head of Global Policy and Governance or their
+delegate must be consulted to provide a definitive resolution.
+4.5 Change Management
+The Risk and Control Inventory requires systematic maintenance through both event-driven updates
+and scheduled assessments to ensure its continued effectiveness.
+Trigger events are specific occurrences that necessitate a review and potential update of the Risk
+and Control Inventory. Key trigger events may include, but are not limited to
+● Significant modifications to existing processes or introduction of new processes,
+● Introductions and/or revisions to relevant frameworks initiated by internal stakeholders
+(e.g. revisions to ERM Methodologies, RCSA Standards etc.),
+● New product launches or changes to existing product functionalities,
+● Changes to the business environment that Block operates in,
+● New or revised regulations,
+● Insights from internal or external risk assessments or audits that reveal control gaps or
+inefficiencies or the emergence of new risks,
+● Other Internal stakeholder requests/engagements (e.g. ad-hoc request(s) from Block
+Compliance Leadership),
+● Organizational strategic shifts, such as market expansion or new product launches, that
+alter risk exposure,
+● Implementation or significant updates of technology systems impacting risk
+management practices.
+Risk and control documentation must be reviewed and updated on cadenced schedules defined by
+Brand Compliance teams or more frequently if trigger events occur, to account for changes in the
+business environment, operational processes, Issues and/or Incidents or regulatory requirements.
+Risk and Control documentation data may be informed by and must incorporate inputs from
+multiple stakeholders, who leverage this inventory for RCSAs, Enterprise Risk Assessment (ERA),
+Annual Risk Assessment (ARA), Global Control Monitoring and Testing (GCMT), bank partner
+requests, internal or external audit findings, regulatory and exam findings.
+Risk and Controls Documentation Standard | Block
+14
+
+Confidential and Not for Distribution
+5. Document Management
+5.1 Document Owner
+This document is owned by the Head of Global Policy & Governance or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with the Compliance Document Approval Matrix.
+6. Training
+The Brand Program Manager(s) - Risk and Controls Leads are responsible for delivering training to all
+Compliance personnel involved in risk and control documentation, as specified in the Compliance
+Risk and Control Documentation template, within their respective brands, with the objective of
+ensuring that the minimum expectations outlined in this Standard are effectively communicated
+and understood.
+7. Oversight of Standard
+On an ongoing basis, the relevant Risk and Control Leads/Program Managers will oversee Standard
+related activities to evaluate adherence to the Standard and determine whether outputs adhere to
+established objectives.
+8. Exceptions
+This standard and its supporting Compliance Risk and Controls Template are intended to
+respectively prescribe minimum standards and minimum data fields to ensure harmonization across
+Block in the documentation of Compliance related risks and controls. Any intent to deviate from this
+standard (and its supporting content) must first be documented, submitted and discussed with the
+relevant Brand Program Manager(s) - Compliance related Risks & Controls for decisioning. The
+relevant Brand Program Manager(s) - Compliance related Risks & Controls may, in turn, review and
+further escalate to the Head of Global Policy & Governance for review, consideration and decisioning
+as needed.
+Risk and Controls Documentation Standard | Block
+15
+
+Confidential and Not for Distribution
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Implementation Date and Transition Period
+Block and all applicable subsidiaries are expected to be in full compliance with requirements of this
+document no later than six months after the approval date of this document. As part of the
+implementation of the Standard, the Risk and Control Template will be enhanced by mapping
+brand-specific risks and controls to broader risk and control categories, enabling Level I, II, III and IV2
+Compliance Risk Assessments, including the Annual Risk Assessment (ARA).
+11. Related Documentation or References
+Related Documents:
+Related Standard Block | RCSA Standard & Supporting Playbook
+12. Revision and Approval History
+Stakeholder Review Tracking
+Reviewer Team Represented Stakeholder Status Date
+Rakhee Suchak Enterprise Risk Reviewed/Appro… Apr 9, 2025
+Management
+Approval History
+Version Approver Title Type Description Date
+1.0 Jason Gigliotti Compliance Risk & Initial Ap… Initial Apr 9, 2025
+Controls Lead Document
+(CashApp & Draft
+Afterpay
+2 Levels I, II, III and IV represent higher levels of risk categorizations within the ERM Risk taxonomy
+and Compliance Risk Assessments.
+Risk and Controls Documentation Standard | Block
+16
+
+Confidential and Not for Distribution
+Compliance)
+1.0 Shane Howe Compliance Risk & Initial Ap… Initial Apr 9, 2025
+Controls Lead Document
+(Square Draft
+Compliance)
+1.0 Tina Brister Compliance Risk & Initial Ap… Initial Apr 9, 2025
+Controls Lead Document
+(Emerging Draft
+Businesses)
+1.0 John Alfano Head of Global Initial Ap… Initial May 6, 2025
+Policy & Document
+Governance Draft
+13. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Head of Global Policy & Governance
+Document Delegate Brand Program Manager(s) - Risks & Controls
+Last Approval Date May 6, 2025
+Effective Date May 6, 2025
+Approved By Head of Global Policy & Governance
+Document Review Schedule [Annually] [April 2026]
+Risk and Controls Documentation Standard | Block
+17

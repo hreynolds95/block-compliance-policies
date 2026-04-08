@@ -1,0 +1,208 @@
+Escalation Framework for Non-Completion of
+Compliance Training Employees)
+Block, Inc.
+Last Approved: Mar 30, 2026
+Effective Date: Mar 30, 2026
+1. Overview
+Introduction and Purpose: Block, Inc (“Blockˮ) requires employees (“Staff Membersˮ) to complete
+mandatory Compliance training. This Escalation Framework for Non-Completion of Compliance
+Training (“Frameworkˮ) defines the approach taken by Block for Staff Members who do not
+complete mandatory compliance training, as required.
+The purpose of this document is to outline the Escalation Framework for Employees who have not
+completed mandatory Compliance training despite undergoing the current Compliance training
+escalation process as outlined in the Block Compliance Mandatory Training Program Standard (the
+“Standardˮ).
+For mandatory Compliance training, the Standard outlines the end-to-end Training Campaign
+Cycle, which gives Learners 30 days to complete the assigned mandatory training on time,
+followed by a 7 day escalating communication process post-due date aimed at driving completion
+of compliance training. Select mandatory Compliance training may follow an adjusted timeline as
+outlined in the Program. This Framework takes effect for Staff Members who have not completed
+mandatory Compliance training at the conclusion of the Compliance Training Campaign Cycle
+which can be thought of as day 1 of the Consequences phase. This Framework is owned and
+maintained by the Compliance Training Team who partners with HR, People Ops, External
+Workforce, and Employment Counsel on changes to the Framework.
+Scope: This Framework is established by Block and is applicable across all Block business lines
+and subsidiaries.
+Definitions:
+Terminology Definition
+1
+
+Call-to-Action Action required to be completed within a specified timeframe.
+Disciplinary Disciplinary Action may include verbal or documented coaching, written or
+Action final warning, unpaid administrative leave, or termination of employment, as
+a result of a policy violation.
+Docebo (“Block Blockʼs Learning Management System (“LMSˮ) utilized and managed by the
+Academyˮ) People Team
+Learner An employee or external worker (e.g., contingent labor, contractors), with
+access to Block systems and Block credentials who are assigned a Workday
+profile is required to take Compliance Training.
+Note: The scope of this document includes only employee learners.
+Training The end-to-end management of deploying a mandatory compliance training
+Campaign Cycle module that generally allows 30 days for completion and post-due date
+escalation and notification period. Select mandatory compliance training may
+follow an adjusted timeline as outlined in the Compliance Training Program
+Standard.
+Roles and Responsibilities:
+Terminology Definition
+Mandatory The Training Team owns and manages the Compliance Training Program
+Compliance Standard and the Disciplinary Action Framework for Non-Completion of
+Training Team Compliance Training outlining the requirements and strategy for
+(“Training implementing those requirements.
+Teamˮ)
+Employment Review the disciplinary matrix and partner with the Human Resources team
+Counsel to ensure consistent enforcement.
+Human HR supports the business in executing Disciplinary Actions.
+Resources
+(“HRˮ)
+Leads Leads are people managers who have employees or External Workforce
+assigned to them in Workday.
+Leads are responsible for executing Disciplinary Action for non-compliance,
+with support from HR.
+People Ops Responsible for placing said Staff Member on unpaid administrative leave
+and/or termination at the request of the Directly Responsible Individual
+(“DRIˮ).
+2
+
+2. Standard Requirements
+2.1. Disciplinary Action for Non-Completion of Compliance Training
+This section outlines recommended guidelines for managing Employees who have been assigned
+but not completed their required mandatory Compliance training despite notifications at various
+points throughout the Compliance Training Campaign Cycle. This net population of Staff Members
+with overdue training will be referred to the HR team by the Training Team at the conclusion of the
+Training Campaign Cycle. The tiered Disciplinary Actions matrix below was developed to be
+progressive (level 1 moves to level 2, then level 3, etc.),
+The following Disciplinary Action Matrix applies to all Block Staff members globally. Levels 1 and 2
+are applicable globally. Level 3 and 4 are applicable only to U.S. based employees only. For Staff
+Members outside the U.S., consequences at Levels 3 and 4 are managed on a case-by-case basis in
+accordance with local employment laws and regulations, as outlined in Section 2.2 below.
+Level 1 Level 2 Level 3 Level 4
+Applicability Global Global US Only* US Only*
+Written Warning Final Warning 7 Days Unpaid Termination
+Leave
+Begins 14 days Begins 28 days 42 days past
+past completion past completion Begins 35 days completion
+deadline deadline past completion deadline
+deadline
+Summary Docebo Docebo Employees who Employee is
+automated automated remain terminated
+notification, sent notification, sent non-compliant
+weekly, delivers daily, delivers after final
+warning with final warning with warning are
+Call-to-Action to Call-to-Action to placed on unpaid
+complete training complete training leave until
+within 7 days or training is
+else disciplinary completed
+action will ensue
+Actions Taken ● Employee ● Employee Employees who Employment will
+notification is notification is remain be terminated for
+automated automated non-compliant employees who
+● Repeats ● Repeats following the final fail to complete
+weekly until daily until L3 warning period mandatory
+L2 will be placed training following
+upon unpaid unpaid
+administrative administrative
+leave. Employees leave.
+retain system Termination
+access during decisions
+3
+
+Level 1 Level 2 Level 3 Level 4
+Applicability Global Global US Only* US Only*
+unpaid leave to consider
+complete individual
+required training. circumstances
+Unpaid leave and may include
+concludes upon case-by-case
+training evaluation. All
+completion or at termination
+the end of the actions comply
+seven-day with applicable
+period. Cases are employment laws
+evaluated and company
+individually to policies.
+determine
+appropriate
+disciplinary
+measures.
+Action Owner Compliance Automated HRS team HRS team
+Team owns Docebo
+configuration of notification:
+notifications as Compliance team
+new compliance
+courses are
+created
+Duration of this 14 Days 7 days 7 Days N/A
+level
+For Staff Members outside the U.S., consequences at Level 3 and 4 are managed on a
+case-by-case basis in accordance with local employment laws and regulations. See Section 2.2.
+Notes:
+● The escalation framework and consequences outlined in the matrix above apply only to
+Mandatory Compliance training as outlined in the Mandatory Compliance Training
+Standard. Operational training and on-the-job training non-completion is handled on a
+case-by-case basis by the employeeʼs manager and HR, based on job readiness and
+operational needs.
+● Actual notification timing may vary slightly due to weekends, holidays, system
+maintenance, or other operational considerations. The day counts represent target timing,
+with notifications sent on the next available business day, when necessary.
+2.2. Consequences for Non-Completion of Compliance Training - Outside the
+U.S.
+4
+
+For Staff Members located outside the U.S., consequences at Levels 3 and 4 for training
+non-completion are managed on a case-by-case basis in accordance with local employment laws
+and regulations. The HPBP team will work with HR leadership and Employment Counsel to determine
+appropriate disciplinary actions that comply with applicable local requirements. Levels 1 and 2 apply
+globally to all Staff Members regardless of location.
+3. Compliance & Enforcement
+3.1. Monitoring and Reporting
+On an ongoing basis, the Escalation Framework Owner and/or their designee monitors activities for
+compliance and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.2. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.3. Exceptions
+The Framework Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.4. Confidentiality
+This document is confidential and should only be accessed by employees.
+5
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Framework, please contact the Framework
+Owner.
+Review related documents:
+● Compliance Mandatory Training Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Stevi Winer Compliance Creation New document Mar 27, 2026
+Policy & Training
+Lead
+Sherry Steve… Governance Initial Appro… New document Mar 30, 2026
+Program Support
+GPS Lead
+Document Details:
+Business Block
+Scope Global
+Compliance Domain Governance
+Document Owner Compliance Policy & Training Lead
+Approved By Governance Program Support GPS Lead
+Document Tier Tier 2
+6

@@ -1,0 +1,470 @@
+Electronic Fund Transfer Act Regulation E
+Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Electronic Fund Transfer Act Policy (“Policyˮ) outlines Block, Inc.'s
+U.S. commitment to adhering to regulatory requirements as well as industry standards and best
+practices in the delivery of its products and services. This Policy is applicable in the United States
+across all products that involve Electronic Fund Transfers (“EFTˮ) and Remittance Transfers as
+those transactions are defined under the Electronic Fund Transfer Act (“EFTAˮ) 15 U.S.C. §§ 1693
+et seq.) and its implementing regulation, Regulation E 12 C.F.R. Part 1005. This Policy establishes
+comprehensive guidelines governing Block, Inc. and its U.S. subsidiaries' electronic fund transfer
+services while ensuring consistent consumer protections across all platforms.
+The purpose of the EFTA and Regulation E is to establish the basic rights, liabilities, and
+responsibilities of Consumers who use EFT and Remittance Transfer services and of the financial
+institutions or other persons that offer these services. The primary objective of the EFTA and
+Regulation E is the protection of individual Consumers engaging in EFTs and Remittance Transfers.
+Scope: This Policy applies to Block, Inc. and its subsidiaries (collectively, "Block") in the United
+States, governing all activities involving EFTs and Remittance Transfers subject to EFTA and
+Regulation E. The only exception is Square Financial Services (“SFSˮ), Blockʼs Utah state-chartered
+Industrial Bank federally regulated by the Federal Deposit Insurance Corporation, which has its
+own Compliance Program.
+1
+
+Definitions:
+Terminology Definition
+A card, code, login credentials or other means of access to a Consumer’s
+Access Device account, or any combination of devices, which may be used by the
+Consumer to initiate an EFT. This could be the Consumer's debit card,
+phone, computer/laptop, or login information. Anything that Consumers use
+to access their funds.
+A demand deposit (checking), savings, or other consumer asset account
+Account (other than an occasional or incidental credit balance in a credit plan) held
+directly or indirectly by a financial institution and established primarily for
+personal, family, or household purposes. The term includes a Prepaid
+Account.
+An individual who is a natural person who has obtained an Account that is
+Consumer to be used primarily for personal, family or household purposes.
+Any transfer of funds that is initiated through an Electronic Terminal,
+Electronic Fund telephone, computer, or magnetic tape for the purpose of ordering, instructing,
+Transfer (“EFTˮ) or authorizing a financial institution to debit or credit a Consumer's Account.
+The term includes, but is not limited to:
+● Point-of-sale transfers;
+● Automated teller machine transfers;
+● Direct deposits or withdrawals of funds;
+● Transfers initiated by telephone; and
+● Transfers resulting from debit card transactions, whether or not
+initiated through an Electronic Terminal.
+An electronic device other than a telephone operated by a Consumer,
+Electronic through which a Consumer may initiate an EFT, including point-of-sale
+Terminal terminals, ATMs and cash dispensing machines.
+The term Error means:
+Error ● Unauthorized EFTs;
+● Incorrect or missing transfers to or from a Consumer’s account;
+● Omission of a transaction from a periodic statement;
+● Computational or bookkeeping Errors;
+● Receipt of an incorrect amount from an Electronic Terminal; and
+● Requests for documentation (unless requesting a duplicate copy), or
+requests for information concerning a transaction or
+clarification to determine whether an “Error” specified above
+exists.
+For Remittance Transfers, the term Error also means:
+● An incorrect amount paid by a sending customer, unless the
+remittance disclosures stated an estimate of the amount paid by the
+2
+
+Terminology Definition
+sender and the difference results from application of the actual
+exchange rate, fees, and taxes, rather than any estimated amount;
+● Failure to make available to a designated recipient the amount of
+currency disclosed (unless certain conditions are met); and
+● Failure to make funds available to a designated recipient by the date
+of availability stated in the disclosure provided to the sender (unless
+certain conditions are met).
+A written or oral communication from a Consumer indicating that the
+Notice of Error Consumer believes there is an Error on their Account, and that:
+(“NOEˮ) ● Provides sufficient information for Block to identify the
+Consumer’s name and account number; and
+● Indicates why the Consumer believes an Error exists and
+includes to the extent possible the type, date, and amount of
+the alleged Error.
+For Remittance Transfers, a NOE is a written or oral communication from a
+Sender indicating the Sender believes there is an Error related to a
+Remittance Transfer sent from their account, and that: Provides sufficient
+information for to identify the Sender’s name, phone number, and address, the
+Remittance Transfer recipient’s name, and if known phone number or address;
+and
+● Indicates why the Sender believes an error exists and includes to the
+extent possible the type, date, and amount of the error of the
+Remittance Transfer to which the notice of error applies
+An EFT authorized in advance to recur at substantially regular intervals.
+Preauthorized
+EFT
+In relevant part, an Account that is marketed or labeled as “prepaid” and
+Prepaid Account that is redeemable upon presentation at multiple, unaffiliated merchants for
+goods or services or usable at automated teller machines; or an Account
+that is issued on a prepaid basis in a specified amount or not issued on a
+prepaid basis but capable of being loaded with funds thereafter; the primary
+function of which is to conduct transactions with multiple, unaffiliated
+merchants for goods or services, or at Automated Teller Machines (“ATM”),
+or to conduct person-to-person transfers, that is not a checking account,
+share draft account, or negotiable order of withdrawal account.
+A temporary credit that may be applied to a Consumer’s Account during
+Provisional their NOE investigation if Block is not able to reach a decision within ten
+Credit (10) business days.
+The electronic transfer of funds from a Consumer in the United States to a
+Remittance recipient in a foreign country. The transfer must be initiated by a remittance
+Transfer transfer provider and be greater than $15.00 U.S. dollars.
+3
+
+Terminology Definition
+An EFT from a Consumer's Account initiated by a person other than the
+Unauthorized Consumer without actual authority to initiate the transfer and from which the
+EFT Consumer receives no benefit.
+The term does not include an EFT initiated:
+● By a person who was furnished the Access Device by the
+Consumer (i.e., authorized user), unless the Consumer has
+notified Block that transfers by that person are no longer
+authorized;
+● With fraudulent intent by the Consumer or any person acting in
+concert with the Consumer; or
+● By Block or its employees.
+2. Block, Inc. Requirements
+2.1 Disclosures and Periodic Statements
+Block will provide disclosures required by Regulation E to its Consumers in a form that is clear,
+readily understandable, written in English, and can be kept by Consumers. The scope of
+disclosures provided by Block to its Consumers includes, but is not limited to:1
+● Initial Disclosures. Provided before a Consumer can make an EFT, including
+information such as the liability of Block and the Consumer for Unauthorized EFTs,
+contact information, available transfer types and limitations, applicable fees (including
+those for ATMs), the Consumerʼs right to documentation and stop payment, and Blockʼs
+confidentiality agreement.
+● Change in Terms Disclosures. Provided at least 21 days before the effective date of
+any change in a term or condition that was disclosed initially, if the change would result
+in: increased fees for the Consumer, increased liability for the Consumer, changes in
+types of EFTs available, or stricter limitations on the frequency or dollar amount of
+transfers.
+● Error Resolution Disclosures. Indicate how a Consumer can contact to file a NOE,
+provided with the initial disclosure and thereafter either annually or with each periodic
+statement.
+● Receipts. Provided to a Consumer each time the Consumer initiates an EFT at an
+Electronic Terminal, including the dollar amount of the EFT, date, type, Consumer
+identification, terminal information, and the third-party where funds were transferred
+to/from.
+1 For disclosure requirements specific to Prepaid Accounts, see section 5.6 – Prepaid Account Requirements for additional
+requirements. For disclosure requirements specific to gift cards, see section 5.8 – Gift Cards for additional requirements.
+4
+
+● Periodic Statements. Provided monthly to each Consumer that has had an EFT
+processed on their account during the statement period, including transaction
+information, account number, fees, account balance, and contact information.
+Block must explain the consumer's right to stop payment of preauthorized electronic fund
+transfers and the procedures for initiating such requests. The disclosure must address Block's
+liability for failure to complete or stop transfers as requested, including the conditions under which
+Block assumes liability and any applicable limitations.
+2.2 Preauthorized Electronic Funds Transfers
+Block will execute Preauthorized EFTs for its Consumers, upon request and with written
+authorization, and provide a written notice of transfer within two 2 business days after the
+transfer occurs (or is rejected) if the Preauthorized EFT is scheduled to transfer at least once every
+sixty 60 days.
+Block will stop payment of a Preauthorized EFT when it receives a stop payment request (orally or
+in writing) at least three 3 business days before the date of the next scheduled transfer, from a
+Consumer who has initiated the Preauthorized EFT.
+Block will not require Consumers to repay any extension of credit by Preauthorized EFT.
+2.3 Error Resolution
+See “Remittance Transfersˮ section below for Error resolution requirements applicable to
+Remittance Transfers. will provide its Consumers with alternative means to contact to provide a
+NOE, such as through the app, chat messaging, by calling , or by mailing a letter to . will promptly
+and reasonably address such NOEs as required by Regulation E. will not require its Consumers to
+provide more information than is described in Regulation E before Block initiates an investigation.
+Block will seek to resolve NOEs within ten 10 business days but, where circumstances so
+require, may take up to forty-five 45 calendar days to do so, provided that in such circumstances
+will:
+● Provisionally credit the funds (including interest, where applicable) to the Consumerʼs
+account within ten 10 business days;
+● Advise the Consumer within two 2 business days of the Provisional Credit; and
+● Give the Consumer full use of the funds during the investigation.
+If, after forty-five 45 calendar days, Block has not determined whether an Error has occurred,
+will make the Consumerʼs Provisional Credit permanent.
+In the event that no Error, or a different Error occurred Block will:
+● Provide notification to the customer advising that the Provisional Credit will be debited
+within five 5 business days from the notification; and
+● Specify the calendar date in which the debiting of the Provisional Credit will occur.
+5
+
+Upon completion of an investigation, Block will promptly report its determination to the Consumer,
+and notify them of their right under Regulation E that they may request the information upon which
+its investigation was based. If Block finds that an Error did occur, will refund its Consumer (or, if
+applicable, finalize Provisional Credit) and provide any interest or refunds for related fees incurred
+within one 1 business day. A Consumer might be held liable for an Unauthorized EFT in
+circumstances where Block has provided accurate disclosures and the Consumer did not provide
+timely notice, as described in Regulation E.
+2.4 Access Devices
+Block will only distribute Access Devices (i.e., Cash Cards) to Consumers who are soliciting a new
+or replacement Access Device. will not distribute unsolicited Access Devices, unless required by
+law or for purposes of account security.
+2.5 Overdraft Services
+Block does not provide overdraft services, as that term is defined under Regulation E, with respect
+to any of its products or services.
+2.6 Prepaid Accounts
+Block will provide all disclosures described in this section before a Consumer acquires a Prepaid
+Account. Prepaid Account disclosures must be:
+● Provided to the Consumer in an electronic form when a Consumer acquires the Prepaid
+Account through electronic means, including via a website or mobile application;
+● Provided in a form that the Consumer can keep.
+Block will provide a short-form disclosure for Prepaid Accounts that will include information
+(applicable to ) such as the periodic fee, per purchase fee, ATM withdrawal fee, cash reload fee,
+ATM balance inquiry fee, customer service fee, inactivity fee, variable fee, third-party fee, any
+other types of fees (as appropriate), information about Federal Deposit Insurance Corporation
+(“FDICˮ)/National Credit Union Administration (“NCUAˮ) insurance and registration, and
+identification of the CFPB website for further information.
+In addition, Block will provide a long form disclosure for Prepaid Accounts that includes content
+such as a heading, fees, information on FDIC/NCUA insurance and registration, Block or its
+subsidiary Contact information, and the CFPB website and telephone number.
+Outside of, but in close proximity to, the short form disclosure, will disclose its name, the name of
+the Prepaid Account program, any purchase price for the Prepaid Account, and any fee for
+activating the Prepaid Account.
+6
+
+2.7 Public Posting of Prepaid Account Agreements
+Block and its Bank Partner and prepaid card issuer will be responsible for updating the CFPB with
+any material changes to the cardholder agreements for both non-Cash Card and Cash Card
+Prepaid Accounts, respectively. Block and its Bank Partner will submit Prepaid Account
+agreements to the CFPB on a rolling basis, no later than thirty 30 days after offering, amending,
+or ceasing to offer any Prepaid Account agreement. Such submissions must contain identifying
+information about the issuer and the agreement, the effective date, the name of the program
+manager (if any), and the names of other relevant parties.
+Block will post all Prepaid Account agreements that are submitted to the CFPB on its website in a
+form that is readily usable by Consumers and complies with the requirements described by
+Regulation E.
+2.8 Gift Cards
+Block offers digital gift cards that can be sent by a Consumer to any other Consumer. Prior to
+purchasing a gift card, the Consumer will be provided disclosures from Block regarding terms and
+conditions of expiration. The disclosures must be clear and conspicuous and contain commonly
+accepted or readily understandable abbreviations or symbols. In addition, a disclosure regarding
+the fundʼs expiration terms must appear electronically on the same screen as the digital gift card.
+After the gift card has been purchased, Block will change neither the fees nor terms and conditions
+of expiration that were disclosed prior to purchase.
+2.9 Remittance Transfers
+Block offers Remittance Transfer services allowing its Consumers to send and receive money
+internationally. Block will disclose to its Consumers, before they pay for a Remittance Transfer,
+required information such as the amount transferred, fees collected by Block, taxes incurred, total
+amount charged to the sender, exchange rate used, applicable third-party fees, amount to be
+received by the designated recipient, and a cancellation rights statement.
+Block will adhere to requests to cancel Remittance Transfers if made within thirty 30 minutes of
+the payment made when:
+● The request to cancel enables to identify the senderʼs name and address or telephone
+number and the particular transfer to be cancelled; and
+● The transferred funds have not been picked up by the designated recipient or
+deposited into an account of the designated recipient.
+Block will investigate a senderʼs claim of an Error related to a Remittance Transfer when the NOE is
+received from the sender within one hundred and eighty 180 calendar days of the disclosed
+fundsʼ availability date. will determine whether an Error occurred within ninety 90 calendar days
+of receiving a NOE.
+7
+
+Within three 3 business days of completing an Error investigation, Block will notify the sender of
+the results of the investigation. If Block determines an Error occurred, Block will correct the Error
+as designated by the sender within one 1 business day of, or as soon as reasonably practicable
+after, receiving the senderʼs instructions regarding the appropriate remedy. Block, as appropriate,
+either will:
+● Refund the amount of funds provided by the sender in connection with a Remittance
+Transfer which was not properly transmitted, or the amount appropriate to resolve the
+Error; or
+● Send the original amount as requested by the sender.
+If the Error resulted because the recipient didnʼt receive the amount by the date initially disclosed,
+then will do one of the following as applicable:
+● Refund to the sender the amount of funds which was not properly transmitted, or the
+amount appropriate to resolve the Error;
+● Make available to the designated recipient the amount appropriate to resolve the Error,
+without any additional cost to either party; or
+● Refund any fees to the sender and, to the extent not prohibited by law, taxes imposed
+for the Remittance Transfer, unless the sender provided incorrect or insufficient
+information to Block in connection with the Remittance Transfer.
+If it is determined that no Error or a different Error from what is alleged occurred, Block will provide
+written notification to the sender of ʼs findings, which will note the senderʼs right to request
+information that relied upon in making its determination. If the sender requests copies of
+documentation that relied on during its investigation, Block will provide such documentation.
+Block will provide further remedies to the sender as required by Regulation E and other relevant
+policies.
+2.10 Error Resolution Documentation
+Block must document all stages of the error resolution process, including initial consumer
+notification, investigation steps taken, and final resolution. Documentation must include copies of
+all consumer correspondence, provisional credit notices, investigation findings, and any related
+account adjustments. These records must demonstrate compliance with regulatory timeframes
+and support Block's error resolution determinations.
+3. Brand-Specific Requirements
+Block will comply with ESign requirements, which may be detailed further in related Standards or
+Procedures. This section outlines only the distinct implementations and unique requirements
+specific to each subsidiary's lending products.
+8
+
+3.1 Cash App:
+Cash App maintains distinct features in its electronic fund transfer services reflecting its
+mobile-first, consumer-focused approach:
+Disclosures and Periodic Statements: Cash App provides electronic disclosures through its mobile
+application and website interfaces. Initial disclosures are integrated into the account opening
+process, ensuring consumers receive and acknowledge required information before completing
+their first electronic fund transfer. Periodic statements are delivered electronically and include
+transaction details, fees assessed, and account information in a mobile-optimized format.
+Error Resolution Process: Cash App provides multiple channels for error reporting, including in-app
+messaging, chat support, phone support, and mail. Upon receiving an error notice, Cash App
+implements a streamlined investigation process while maintaining required timelines. For
+investigations extending beyond ten business days, Cash App provides provisional credit and
+clearly communicates the provisional nature of such credits through in-app notifications.
+Access Device Management: Cash App implements specific controls for its Cash Card program,
+including specialized procedures for card activation, replacement, and security measures
+integrated within the mobile application. Access device distribution occurs only upon consumer
+request through the mobile application or website interfaces.
+Prepaid Account Features: Cash App's prepaid account implementation includes specialized
+disclosures integrated into the mobile interface. Account agreements are maintained on the Cash
+App website in a readily accessible format and submitted to the CFPB as required. The platform
+maintains specific procedures for updating and communicating changes to prepaid account terms.
+Remittance Transfer Services: Cash App's remittance transfer service includes specialized
+disclosures delivered through the mobile interface before transfer initiation. Exchange rates, fees,
+and receipt requirements are integrated into the transfer flow, ensuring clear communication of
+transfer terms and consumer rights.
+3.2 Afterpay:
+Afterpay's implementation addresses the unique aspects of buy-now-pay-later services:
+Preauthorized Payment Requirements: Afterpay maintains specific requirements for recurring
+payment authorizations in installment payment relationships. Prior to processing preauthorized
+recurring payments, Afterpay obtains explicit authorization and provides clear confirmation of
+autopay terms. The platform does not condition the extension of credit upon agreement to
+recurring payments but may offer cost-related incentives for autopay enrollment.
+Payment Variation Notices: When recurring payment amounts will vary from previous transfers,
+Afterpay provides advance notice at least ten days before the scheduled transfer date. These
+notices include the specific amount and scheduled date of the transfer.
+9
+
+Consumer Choice: Afterpay provides consumers with the ability to opt out of autopay at any time
+through readily accessible interfaces. The platform maintains specific procedures for managing
+payment preferences and implementing consumer choices regarding payment methods.
+The above brand-specific requirements supplement the general compliance EFTA requirements
+outlined in this Policy but are only applicable to their respective brands (i.e., Square Capital
+requirements apply only to Square Capital operations, requirements apply only to operations, and
+Afterpay requirements apply only to Afterpay operations).
+4. Compliance & Enforcement
+4.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block, Inc., Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+10
+
+○ Maintain awareness of updates and changes to requirements
+Subsidiary Roles:
+● Square Capital Board of Managers
+○ Reviews and adopts this Policy following CPC approval
+○ Oversees implementation within Square Capital
+○ Receives regular reporting on compliance with this Policy
+○ Reviews and approves material changes affecting Square Capital, as needed
+● Afterpay Board of Directors
+○ Reviews and adopts this Policy following CPC approval
+○ Oversees implementation within Afterpay
+○ Receives regular reporting on compliance with this Policy
+○ Reviews and approves material changes affecting Afterpay, as needed
+● Subsidiary Compliance Leads
+○ Implement policy requirements within their respective business units
+○ Monitor day-to-day compliance activities
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+4.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+4.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+4.4 Record Retention
+Block will retain evidence of compliance with the requirements of Regulation E, and otherwise with
+respect to activities related to adherence to this Policy for a period of time listed below, and which
+has the longest duration:
+11
+
+● Regulation E/EFTA requirements: for a minimum of two 2 years from the date
+disclosures are required to be made or action is required to be taken;
+● Time period required under applicable administrative proceedings, consent orders,
+or other legal or regulatory matters;
+● Time period consistent with obligations set forth by the Block Data Retention
+Standard (e.g., where such data may pertain to a complaint and therefore have
+additional retention requirements); or
+● In instances where Block receives notice of an investigation, enforcement
+proceeding by an enforcement agency, or is served notice of an action filed under
+sections 910, 916, or 917(a) of the EFTA, Block will retain the records that pertain to
+the investigation, action, or proceeding until final disposition of the matter unless
+an earlier time is allowed by court or agency order.
+Documents evidencing compliance with 12 C.F.R. § 1005.13(b)(1) may include:
+● Policies and procedures, including prior versions
+● Disclosures to consumers, including (account terms, fees, error resolution procedures, etc.;
+such as “Terms of Service”, “Account Agreement”, periodic statements, which include error
+resolution notices)
+● Consumer consent and authorization records
+● Documentation of error resolution processes, investigations, outcomes, and correspondence
+● Transaction records (e.g., periodic statements, remittance receipts)
+● Internal compliance and procedural documentation related to Reg E (e.g., “Knowledge
+Articles”)
+● Notices related to changes in fees or terms
+● EFTA / Reg. E training material and evidence of employee training completion records
+Please see Blockʼs Data Retention Standard for further details.
+4.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+12
+
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Compliance Compliance Initial Appro… Approval of October 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Block Consumer Protection Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+13

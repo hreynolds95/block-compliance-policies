@@ -1,0 +1,501 @@
+Fair and Accurate Credit Transactions Act Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Fair and Accurate Credit Transactions Act ("FCRA") Policy
+("Policy") outlines Square Capital, LLC's ("Square Capital" or the "Company") approach to
+compliance with the FCRA as amended by the Fair and Accurate Credit Transactions Act
+("FACTA"). The Chief Compliance Officer ("CCO") oversees development and implementation of
+this Policy and has delegated ownership of this Policy document to the Square Head of
+Compliance.
+The purpose of this Policy is to establish the responsibilities of Square Capital to comply with the
+requirements set forth in the FCRA, as amended.
+Scope: This Policy is established by Square Capital and is applicable to Square Capital. This Policy
+applies to Square Capital's credit card product, whether conducted by the Company's employees
+or through outsourced service providers. Square Capital recognizes a further duty to support the
+compliance programs of its Bank Partner, where applicable.
+Definitions:
+Terminology Definition
+Adverse Action A denial or revocation of credit, an unfavorable change in the terms of an
+existing credit arrangement, or a refusal to grant credit in substantially the
+amount or on substantially the terms that the applicant requested. It does not
+include an "accepted counteroffer," where the applicant requested particular
+credit card terms, such as a specific down payment or rate, but accepted the
+Company's offer for different terms, such as a higher down payment or rate.
+Affiliate Any Person or entity that is related by common ownership or common
+corporate control with another Person or entity.
+
+Consumer Any individual.
+Consumer Any written, oral, or other communication of any information by a Consumer
+Report Reporting Agency bearing on a Consumer's creditworthiness, credit
+standing, credit capacity, character, general reputation, Personal
+characteristics or mode of living.
+Consumer Generally refers to a credit bureau. If Square Capital shares information
+Reporting about Consumers with a third-party, the Company could become a
+Agency Consumer Reporting Agency.
+Covered Any account the Company offers or maintains that involves or is designed to
+Account permit multiple payments or transactions, and any other account the
+Company offers or maintains for which there is a reasonably foreseeable risk
+to Consumers or the safety and soundness of the Company from Identity
+Theft, including financial, operational, compliance, reputation or litigation
+risks.
+Creditor Any Person who regularly extends, renews, or continues credit; any Person
+who regularly arranges for the extension, renewal, or continuation of credit;
+or any assignee of an original Creditor who participates in the decision to
+extend, renew, or continue credit.
+Eligibility Includes any information that per the above definition would constitute a
+Information Consumer Report, plus the following:
+● A report containing information solely as to transactions or
+experiences between the Consumer and the Person making the
+report;
+● A communication of that information among Persons related by
+common ownership or Affiliated by corporate control; or
+● A communication of other information among Persons related by
+common ownership or Affiliated by corporate control, if it is clearly
+and conspicuously disclosed to the Consumer that the information
+may be communicated among such Persons and the Consumer is
+given the opportunity, before the time that the information is initially
+communicated, to direct that such information not be communicated
+among such Persons.
+Eligibility information does not include aggregate or blind data that does not
+contain Personal identifiers such as account numbers, names, or addresses.
+Firm Offer of An offer that will be honored if the Consumer meets the specific criteria used
+Credit to select him/her for the offer, except the offer may be conditioned on one or
+both of the following:
+
+● The Consumer meets any pre-established credit worthiness criteria
+based on the application, as long as such other criteria are
+established in advance; and
+● The Consumer's continued eligibility and application information can
+be verified after the Consumer accepts the offer.
+Identity Theft A fraud committed or attempted using the identifying information of another
+Person without authority.
+Medical Information or data, whether oral or recorded, in any form or medium,
+Information created by or derived from a health care provider or the Consumer, that
+relates to:
+● The past, present, or future physical, mental, or behavioral health or
+condition of an individual;
+● The provision of health care to an individual; or
+● The payment for the provision of health care to an individual.
+Person Any individual, partnership, corporation, trust, estate cooperative,
+association, government or governmental subdivision or agency, or other
+entity.
+Red Flag A pattern, practice, or specific activity that indicates the possible existence
+of Identity Theft.
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Policy, and includes interns,
+temporary workers, consultants, vendors, third-party providers and
+contractors.
+2. Policy Requirements
+2.1. Policy Statement
+Square Capital seeks to comply with the FCRA, which establishes requirements related to the use
+and sharing of Consumer credit information, information about credit reports and credit scoring,
+protections for victims of Identity Theft, and protections for Consumer Medical Information.
+2.2. FCRA Background
+The FCRA was enacted to provide Consumers with greater control and insight into their credit
+reports and how those reports are used to grant extensions of credit or other considerations
+addressed by the rule. In addition, the FCRA requires entities who extend credit based on usage of
+
+those reports as well as the providers of those reports to meet certain reporting and usage
+requirements, regardless of whether the credit is for commercial or Consumer purposes. In general,
+the FCRA states that its primary goals are to:
+● Provide fair and accurate credit reporting. Inaccurate credit reports directly impair the
+efficiency of the banking system, and unfair credit reporting methods undermine the public
+confidence, which is essential to the continued functioning of the banking system;
+● Create an efficient mechanism for investigating and evaluating the credit worthiness, credit
+standing, credit capacity, character, and general reputation of Consumers;
+● Provide Consumer Reporting agencies with regulatory guidance in assuming a vital role in
+assembling and evaluating Consumer credit and other information on Consumers; and
+● Ensure that Consumer Reporting agencies exercise their grave responsibilities with
+fairness, impartiality, and a respect for the Consumer's right to privacy.
+To implement those goals, the FCRA regulates the following:
+● Obtaining and using Consumer Reports;
+● Providing applicable disclosures;
+● Furnishing information;
+● Adverse action (as it pertains to the usage of credit report information);
+● Sharing information with both Affiliates and non-Affiliates;
+● Reporting accurate information and correction of errors;
+● Identity theft;
+● Medical information;
+● Free annual Consumer Reports;
+● Coverage of business transactions; and
+● Risk based pricing.
+The FCRA contains significant responsibilities for business entities that are Consumer Reporting
+agencies and lesser responsibilities for those that are not. Generally, financial institutions and
+providers of financial services are not considered to function as Consumer Reporting agencies.
+In addition to the requirements related to entities acting as Consumer Reporting agencies, the
+FCRA requirements also apply to businesses that operate in the following capacities:
+● Procurers and users of information (for example, as credit grantors, purchasers of dealer
+paper, or when opening deposit accounts);
+
+● Furnishers and transmitters of information (by reporting information to Consumer Reporting
+agencies or other third parties, or to Affiliates);
+● Marketers of credit or insurance products; or
+● Employers.
+2.3. Requirements
+This Policy governs Square Capital's guidelines to align with the requirements within the FCRA when
+Consumer Reports are used. Square Capital:
+● Does not furnish information to a Consumer Reporting Agency that the Company knows is
+inaccurate;
+● Does not submit information to a Consumer Reporting Agency if notified by a Consumer
+that the information is inaccurate and the Company subsequently determines the
+information is inaccurate;
+● Enacts policies and procedures designed to enable Square Capital to form a reasonable
+belief that a Consumer Report relates to the Consumer about whom it has requested the
+report, when Square Capital receives a notice of address discrepancy;
+● Only uses Consumer Reports for permissible purposes as defined within the FCRA; and
+● Provides disclosures to Consumers, as required by law.
+2.3.1. Obtaining Consumer Reports
+The FCRA requires any prospective user of a Consumer Report to have a legally permissible purpose
+to obtain a report. The Company may request a Consumer Report only for one of the following
+defined permissible purposes:
+● The Consumer provides authorization in writing;
+● The report will be used in connection with a credit transaction involving the Consumer and
+involving the extension of credit to, or review or collection of an account of the Consumer;
+● A prescreened solicitation in connection with any credit transaction that is not initiated by
+the Consumer only if:
+○ The Consumer authorizes the Consumer Reporting Agency to provide such a
+report; or
+○ The transaction consists of a Firm Offer of Credit and the Consumer has not opted
+out of receiving such solicitations.
+
+2.3.2. Medical Information
+The FCRA prohibits Creditors from obtaining and using Medical Information in connection with a
+Consumerʼs eligibility, or continuing eligibility for credit. Square Capital does not request Medical
+Information in connection with the determination of eligibility for Consumer credit and any
+information provided that contains Medical Information is evaluated under the same requirements
+and restrictions as any other credit extension covered under this Policy.
+Disclosure of Medical Information
+Where Square Capital receives Medical Information permissibly contained within a credit report
+under the FCRA, it will not re-disclose any Medical Information to a third-party, including to Affiliates,
+except as to carry out requirements mandated by this Policy.
+2.3.3. Credit Prescreening
+In any instance where Square Capital prescreens Consumer Credit Reports or makes firm offers of
+credit, the Company ensures that the use of prescreened lists are in compliance with all applicable
+Square Capital Policies. With respect to firm offers of credit, where offered, the FCRA requires that a
+Firm Offer of Credit be accompanied by two notices, which are referred to as the "short notice" and
+the "long notice." Square Capital ensures that all of the accompanying notices are clear,
+conspicuous, in an understandable language, and adhere to the below specifics for each.
+Prescreen Opt-Out Notice
+"Short Notice" will:
+● State the Consumer has a right to opt out of receiving prescreening solicitations and
+provide the toll-free number the Consumer can call to exercise that right;
+● Direct the Consumer to the existence and location of the long notice, including the heading
+for the long notice;
+● Appear in larger type than the type size of the principal text on the same page, but in no
+smaller than 12-point type font;
+● Appear on the front side of the first page of the principal promotional document in the
+solicitation;
+● Appear on a page and in a format that is distinct from the other text, such as inside a
+border; and
+
+● Appear in a type style that is distinct from the principal type style used on the same page,
+such as bold or underlined.
+Prescreen Opt-Out Notice
+"Long Notice" will:
+● Appear in the solicitation;
+● State that information in the Consumer Report was used in connection with making the
+solicitation;
+● State the Consumer satisfied the criteria for credit worthiness;
+● State that if the Consumer responds, the extension of credit may not be enacted if, after the
+Consumer responds, the Consumer does not meet the criteria used to select the Consumer
+for the offer;
+● State the Consumer has the right to stop receiving such solicitations in the future and how
+the Consumer can exercise that right, including address and toll-free number of the
+appropriate notification system;
+● Appear in a type size that is no smaller 8-point and no smaller than the type size of the
+principal text on the same page;
+● Begin with a heading “PRESCREEN AND OPT OUT NOTICEˮ in capital letters and
+underlined;
+● Appear in a type style that is distinct from the principal type style used on the same page;
+and
+● Appear set apart from other text on the page such as by including a blank line above and
+below the statement, and by indenting both the left and right margins from other text on the
+page.
+These above requirements apply in connection to any credit transaction that is not initiated by the
+Consumer.
+2.4. Affiliate Marketing Opt-Out
+2.4.1. Initial Notice and Opt-Out Requirement
+Square Capital will not use Eligibility Information, obtained from an Affiliate about a Consumer, to
+solicit the Consumer for marketing purposes unless:
+● The Consumer receives a clear and conspicuous disclosure in writing that information
+received from an Affiliate may be used for marketing purposes;
+
+● The notice is sent by the Affiliate that has or has had a pre-existing relationship with the
+Consumer;
+● The Consumer is given a reasonable opportunity and simple method to opt out of the
+solicitation; and
+● The Consumer does not opt out.
+2.4.2. Contents of Opt-Out Notice
+Where Square Capital provides an Opt Out Notice, the notice must be clear, conspicuous, and
+concise, and must accurately disclose:
+● The name of the Affiliate(s) providing the notice;
+● A list of the Affiliates or types of Affiliates whose use of Eligibility Information is covered by
+the notice, which may include companies that become Affiliates after the notice is provided
+to the Consumer;
+● A general description of the types of Eligibility Information that may be used to make
+solicitations to the Consumer;
+● That the Consumer may elect to limit the use of Eligibility Information to make solicitations
+to the Consumer;
+● That the Consumer's election will apply for the specified period of time stated in the notice
+and, if applicable, that the Consumer will be allowed to renew the election once that period
+expires;
+● If the notice is provided to Consumers who may previously opted out, such as if a notice is
+provided to Consumers annually, that the Consumer who has chosen to limit solicitations
+does not need to act again until the Consumer receives a renewal notice; and
+● A reasonable and simple method for the Consumer to opt out.
+2.4.3. Risk-Based Pricing Notice
+When Square Capital uses a Consumer Report in any manner to grant Consumer purpose credit, to a
+Consumer, on terms that are materially less favorable than the most favorable material terms
+available to a substantial proportion of Consumers, it must provide a risk-based pricing notice under
+the FCRA. Square Capital will provide a clear and conspicuous notice to the Consumer when
+risk-based pricing is used, before the consummation of the transaction. Such notice shall include the
+following:
+● That a Consumer Report (or credit report) includes information about the Consumer's
+credit history and the type of information included in that history;
+
+● The terms offered, such as the annual percentage rate, have been set based on information
+from a Consumer Report and that these terms may be less favorable than the terms offered
+to Consumers with better credit histories;
+● Encouraging the Consumer to verify the accuracy of the information contained in the
+Consumer Report and that they have the right to dispute any inaccurate information in the
+report;
+● The identity of each Consumer Reporting Agency that furnished a Consumer Report used
+in the credit decision;
+● That Federal law gives the Consumer the right to obtain a copy of a Consumer Report from
+the reporting agency(ies) identified in the notice without charge for 60 days after receipt of
+the notice;
+● A statement informing the Consumer how to obtain a Consumer Report from the Consumer
+Reporting Agency(ies) identified in the notice and providing contact information (including
+a toll-free telephone number, where applicable) specified by the Consumer Reporting
+Agency(ies);
+● A statement directing Consumers to the Web site of the Bureau to obtain more information
+about Consumer Reports; and
+● If a credit score of the Consumer to whom a Person grants, extends, or otherwise provides
+credit is used in setting the material terms of credit, then:
+○ A statement that a credit score is a number that takes into account information in a
+Consumer Report, that the Consumer's credit score was used to set the terms of
+credit offered, and that a credit score can change over time to reflect changes in
+the Consumer's credit history;
+○ The credit score used by the Person in making the credit decision;
+○ The range of possible credit scores under the model used to generate the credit
+score;
+○ Up to four key factors that adversely affected the credit score, except when one of
+the key factors is the number of inquiries made to the Consumer Report, the
+number of key factors will not exceed five;
+○ The date on which the credit score was created; and
+○ The name of the Consumer Reporting Agency that provided the credit score.
+● That a Consumer Report includes information about the Consumer's credit history and the
+type of information included in that credit history;
+● A statement that the Person has conducted a review of the account using information from
+a Consumer Report;
+
+● As applicable, a statement that as a result of the review, the annual percentage rate on the
+account has been increased based on information from a Consumer Report; and
+● A statement that the Consumer is encouraged to verify the accuracy of the information
+contained in the Consumer Report and has the right to dispute any inaccurate information
+in the report.
+2.4.4. Where a Risk-based Pricing Notice is Not Required
+A risk-based pricing notice is not required to be provided for:
+● Business purpose credit;
+● A transaction in which an Adverse Action Notice is provided; or
+● Consumers from a prescreened list for which a Firm Offer of Credit is made.
+If Square Capital elects not to provide a risk-based pricing notice for credit granted on materially less
+favorable terms, it must provide a Credit Score Disclosure Exception Notice in accordance with 12
+CFR 1022.72(d), including all elements set forth in the Bureauʼs model forms H6 or H7, as
+applicable.
+Notice of Address Discrepancy
+Square Capital enacts policies and procedures designed to enable it to form a reasonable belief that
+a Consumer Report relates to the Consumer about whom Square Capital has requested the report,
+which includes scenarios in which it receives a notice of address discrepancy. These policies and
+procedures, at a minimum:
+● Compare the information in the Consumer Report provided by the Consumer Reporting
+Agency with information that Square Capital:
+○ Obtains and verifies the Consumer's identity in accordance with the requirements
+of the Customer Identification Program ("CIP") rules (or Square Capital's Customer
+Identification Program ("CIP") Policy;
+○ Maintains in its own records, such as applications, change of address notifications,
+other customer account records, or retained CIP documentation; or
+○ Obtains from third-party sources; or
+● Verify the information in the Consumer Report provided by the Consumer Reporting
+Agency with the Consumer.
+
+2.4.5. Adverse Action Notice
+The Company will notify an applicant of an adverse decision, when information from a Consumer
+Reporting Agency contributes in whole or in part to taking an Adverse Action against the Consumer,
+including a denial of Consumer credit.
+All notices will be provided within 30 calendar days of receipt of a completed application. Square
+Capital will inform the Consumer of such Adverse Action in writing by providing a notice that
+includes:
+● The name, address, and toll-free number of the agency that provided the Consumer
+Report;
+● A statement that the Consumer Reporting Agency did not make the decision and does not
+have any information regarding why the Adverse Action was taken;
+● That the Consumer has the right to obtain a free copy of the report for 60 days;
+● That the Consumer has the right to verify the accuracy of the information contained in the
+Consumer Report and has the right to dispute any inaccurate or incomplete information in
+the report with the Consumer Reporting Agency;
+● If applicable, information about any credit score used in making the credit decision,
+including:
+● A statement that a credit score is a number that takes into account information in a
+Consumer Report, the Consumerʼs credit score was used in taking the Adverse Action, and
+that a credit score can change over time to reflect changes in the Consumerʼs credit
+history;
+● The numerical credit score used in generating the decision;
+● The range of possible credit scores under the model used to generate the credit score;
+● Up to four key factors that adversely affected the credit score, except when one of the key
+factors is the number of inquiries made with respect to the Consumer Report, the number
+of key factors will not exceed five;
+● The date on which the credit score was created;
+● The name, address and telephone number of the Consumer Reporting Agency.
+○ If information from a third party including an Affiliate, other than a Consumer
+Reporting Agency, was used to make an adverse decision, that Consumer has the
+right to make a written request within 60 days for the information.
+○ Square Capital will comply with any such request upon receipt.
+
+2.4.6. Information Furnishing
+Square Capital maintains reasonable policies and procedures to ensure Consumer information
+reported to a Consumer Reporting Agency is accurate.
+2.4.7. Notice of Negative Reporting
+Square Capital will provide a written notice to a Consumer either prior to furnishing negative
+information to a credit reporting agency, or within thirty days of such activity.
+2.4.8. Direct Consumer Disputes
+When Square Capital receives a notification from a Consumer regarding the accuracy or
+completeness of information on their Consumer Report, this constitutes a Notice of Dispute
+("Notice"), and there are several affirmative obligations imposed by Square Capital where a valid
+Notice is received according to the requirements below.
+2.4.9. Requirements
+Square Capital requires the Notice to contain enough information to identify the pertinent account,
+information the Consumer is disputing, a brief explanation of the basis of the dispute, and any
+supporting documentation to substantiate the dispute. Square Capital requires the Notice to be
+written and mailed to the following address:
+Square, Inc.
+Attention: Chief Compliance Officer
+1955 Broadway, Suite 600, Oakland, CA 94612
+2.4.10. Duties After Receiving a Direct Dispute Notice
+After receiving Notice, Square Capital will conduct a reasonable investigation of a direct dispute with
+respect to the disputed information including reviewing all relevant information provided by the
+Consumer with the Dispute. Upon receiving Notice, Square Capital does not furnish information
+pertaining to the account to a Credit Reporting Agency while the account is in dispute.
+The results of the investigation will be completed and reported within 30 calendar days. If the
+reported information was determined to be inaccurate, Square Capital will promptly notify each
+Consumer Reporting Agency regarding the correction to that information.
+
+Under the FCRA, Square Capital is not required to investigate any Notice the Company determines to
+be frivolous, duplicated, or irrelevant. Upon the determination by Compliance that a dispute is
+frivolous or irrelevant, a Notice of Determination letter will be sent to the customer within five 5
+business days. This letter will include the reasoning for why the dispute was found to be frivolous or
+irrelevant and any information required by the Company to investigate the disputed information.
+2.4.11. Identity Theft Prevention
+Square Capital has developed and implemented a written program for Identity Theft prevention
+designed to detect, prevent, and mitigate Identity Theft with the opening or existence of a Covered
+Account.
+2.4.12. Miscellaneous Provisions
+Square Capital also:
+● Provides a copy of the application and any business transaction records available, free of
+charge, upon receipt of a written claim of Identity Theft that resulted in a fraudulent
+transaction, provided the Identity Theft victim:
+○ Provides proof of positive identification in the form of a government issued
+identification card; and
+○ Provides proof of the Identity Theft claim in the form of an Identity Theft Affidavit
+and a copy of a police report.
+● Provides a copy of relevant business records related to fraudulent accounts or transactions
+within 30 days of receipt of a written request from an identity theft victim or their
+designated law enforcement representative, upon proper verification and documentation.
+With regard to victims of Identity Theft, does not sell, transfer, or place in collection a debt that has
+resulted from Identity Theft.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Chief Compliance Officer ("CCO"):
+○ Provides assistance and support in implementing this Policy across the organization
+○ Responsible for establishing appropriate practices designed to ensure Company
+operations reflect commitment to compliance
+
+○ Responsible for monitoring and reporting on compliance with this Policy
+○ May delegate authority to adopt, develop, and implement procedures and reporting
+● Counsel:
+○ Provides interpretative advice and counsel regarding Policy requirements
+○ Advises on applicability to business and operational activities
+● Compliance Policy Committee:
+○ Reviews and adopts this policy on an annual basis
+● Head of Business Product Compliance and Partnerships or Lending Product Compliance
+Lead:
+○ Owns this Policy document
+○ Reviews and approves exception requests
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+Review related documents:
+● Fair Credit Reporting Act
+● Fair and Accurate Credit Transactions Act
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Tim Spencer Square Product Reviewed/A… June 7, 2024 Tim Spencer
+Compliance
+Laura Square Reviewed/A… June 25, 2024 Laura Fragomeni
+Fragomeni Compliance
+Tim Spencer Square Product Reviewed/A… Jan 16, 2025 Tim Spencer
+Compliance
+Jermaine Kimble Customer Protectio Reviewed/A… Jul 3, 2025 Jermaine Kimble
+Corey Chamberl…Business Product Reviewed/A… Sep 9, 2025 Corey Chamberlain
+Compliance
+N/A Credit Card Initial Appro… Initial Approval March 3, 2022
+Compliance
+Committee
+Amelia Child… Chief Compliance Initial Appro… Initial Approval March 2022
+
+Officer
+Square Capital Square Capital Scheduled … Annual Review November, 30
+Board of Board of 2023
+Managers Managers
+Square Capital Square Capital Scheduled … Annual Review July 2, 2024
+Board of Board of
+Managers Managers
+Square Capital Square Capital Scheduled … Scheduled January 24, 2025
+Board of Board of review;
+Managers Managers immaterial
+change
+Compliance Compliance Scheduled … Scheduled October 3, 2025
+Policy Policy Committee Review; Minor
+Committee enhancements
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2

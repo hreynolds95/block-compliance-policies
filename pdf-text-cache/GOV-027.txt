@@ -1,0 +1,321 @@
+Activation Customer Risk
+Rating Standard
+Block
+May 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc.
+and on a need-to-know basis.
+Activation Customer Risk Rating Standard | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 6
+2. Purpose 6
+3. Scope 7
+4. Standard Requirements 7
+4.1 Process Presentation 7
+4.2 Automated Risk Rating Assignment 8
+4.2.1 Risk Scope 8
+4.2.2 Eligible Customer Population Scope 8
+4.2.3 Model Output 8
+4.2.4 Model Features 9
+4.2.5 Explainability 10
+4.3 Model Usage 10
+4.3.1 Due Diligence Reviews 10
+4.3.2 Intended Usage 10
+4.3.3 Triggering & Cadence 11
+5. Document Management 11
+5.1 Document Owner 11
+5.2 Review and Approval 11
+6. Monitoring and Reporting 12
+7. Exceptions 12
+8. Record Retention 12
+9. Related Documentation or References 12
+10. Revision and Approval History 13
+11. Document Details 13
+Activation Customer Risk Rating Standard | Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Customer Risk A methodology/model used in risk determination of a customer account
+Rating (“CRR”) at onboarding/activation as well on an ongoing/continuous basis.
+Activation A machine learning model and score associated with a one-time
+Customer Risk snapshot of initial customer risk taken at onboarding.
+Rating (“aCRR”)
+Continuous A machine learning model and score associated with a periodically
+Customer Risk updated (i.e. ongoing) assessment of customer risk.
+Rating (“cCRR”)
+Know Your KYC includes the process of establishing risk-based controls to
+Customer (“KYC”) reasonably identify and verify the identity of Block’s customers. The term
+KYC may also be referred to as Know Your Business (KYB) when dealing
+with non-individual entities or business customers.
+Model retraining The process of updating the machine learning model based on new or
+updated datasets.
+Model retuning The process of resetting the model score threshold, based on new or
+updated datasets.
+Negative action The result of a completed review when an account has been found to be
+engaging in illegal, suspicious, and/or high-risk activity. Actions include
+account denylist/deactivation, annotation of suspicious activity,
+suspicious activity escalation & reporting, and other adverse reporting.
+Staff References to “staff” throughout this document shall refer to all full-time
+employees and fixed-term and contingent workers including interns,
+temps, consultants, vendors, third-party providers, and contractors.
+Activation Customer Risk Rating Standard | Block
+4
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibility
+Compliance ● Review alerts and investigate associated activity
+Operations ● Decision alerts
+● Escalate accounts for unusual or suspicious activity
+International and ● Reviewers of the standard and individuals / businesses escalated
+Regional Chief by Compliance Operations for the specific region
+Compliance
+Officers (“CCO”)
+Square & Cash ● Approve the Compliance Customer Risk Standard document
+CCOs
+Regulatory ● Establish and maintain CRR models, parameters and thresholds
+Compliance and queueing infrastructure
+Machine Learning
+Model Risk ● Complete periodic model validation on the CRR models and
+Management associated queueing logic
+Cash Compliance ● Provide reporting to senior leadership on queue completion,
+Analytics performance, and enhancements
+Activation Customer Risk Rating Standard | Block
+5
+
+Confidential and Not for Distribution
+1. Introduction
+The cornerstone of a strong anti-money laundering (“AML”) compliance program is the adoption and
+implementation of risk-based due diligence policies, procedures, and processes for all customers,
+particularly those that present a higher risk for money laundering and terrorist financing. In order to
+achieve this, Block, Inc. (“Block”) has designed and implemented a customer risk rating standard
+that assesses a customer's profile, assigns a risk rating, and monitors the risk levels of customers.
+This Activation Customer Risk Rating (“CRR”) Standard (“Standard”) enables Block to apply the
+appropriate risk-based controls to mitigate exposure to money laundering, terrorism financing, and
+financial crime. Improper assessment of a customer’s risk can have a cascading effect, creating
+deficiencies in multiple areas of internal controls and resulting in an overall weakened AML
+compliance standard.
+This document covers the development, usage, validation and change management requirements
+of a machine learning (“ML”)-based activation CRR model (“aCRR”).
+2. Purpose
+All user accounts, once successfully onboarded (activated), will be risk-rated using a ML-based aCRR
+model. The aCRR model defines the risk ratings for customers at onboarding, producing a one-time
+snapshot of initial customer risk that may be consumed by Compliance Operations teams. The
+relevant team leads, along with Governance & Compliance Engineering & Technology, will establish
+the criteria for the usage of the aCRR model output.
+3. Scope
+This Standard is established by Block and is applicable globally to Square and Cash App where
+applicable.
+Activation Customer Risk Rating Standard | Block
+6
+
+Confidential and Not for Distribution
+4. Standard Requirements
+4.1 Process Presentation
+Figure 1. Square process flow diagram of aCRR model evaluation.
+Figure 2. Cash App process flow diagram of aCRR model evaluation and input to due diligence
+reviews
+Activation Customer Risk Rating Standard | Block
+7
+
+Confidential and Not for Distribution
+4.2 Automated Risk Rating Assignment
+4.2.1 Risk Scope
+The goal of the aCRR model is to assess the risk associated with an onboarded account with respect
+to money laundering, terrorism financing and illegal/suspicious activity/financial crime.1
+While Politically Exposed Person (“PEP”) matches, sanctions, and Terms of Service violation risks are
+monitored by other Compliance programs, the aCRR model will not incorporate Politically Exposed
+Person (“PEP”) matches, sanctions, and Terms of Service violation risks into the generated risk score
+at onboarding.
+4.2.2 Eligible Customer Population Scope
+All user accounts are generally in scope for risk assessment at onboarding for both Square and Cash
+App customers for all geographies where the products are in operation.
+In the event that Block expands a line of business to a new geography where it had previously not
+operated and no historical data or equivalent proxy from a similar geography is available at launch, a
+heuristics based approach may be used to collect sufficient outcomes based data2 required to build
+an ML based model. Alternatively, an ML model that is available in a similar geography may be
+deployed in the new geography with appropriate controls.
+4.2.3 Model Output
+The aCRR model evaluation produces a score between 0.0 and 1.0 for every user account on
+assessment, with 1.0 indicating maximum risk and 0.0 indicating minimal risk.
+For model usage purposes, thresholds may be applied on the continuous risk score and combined
+with additional business rules to generate alerts for review by the operations teams.
+1 Sanctions and Terms of Service violation related actions are excluded
+2 The time required to collect sufficient examples is a function of both volume and time period required
+for the labels to mature. These are in turn dependent on the nature of the product and membership.
+The decisions are made by the relevant ML team managers.
+Activation Customer Risk Rating Standard | Block
+8
+
+Confidential and Not for Distribution
+4.2.4 Model Features
+An analysis is performed to assess which features are available for consideration in the model.
+Regulatory requirements, guidance, and industry best practices are used to determine the features
+that need to be considered for the model. Details of the specific features used in the aCRR model
+can be found in the relevant aCRR System Design documents.
+The following types of signals (or features) may be included in the model (non-exhaustive):
+● Location and time zone based (IP address or self declared);
+● Onboarding self attested information based (e.g. usage intent, source of wealth/income,
+employment status);
+● Identity Verification information and attempts from third party vendors (e.g. Onfido, TLO,
+LexisNexis, IDology etc.);
+● Third party information based on email/IP/phone number including, but not limited to
+dimensions like known risk indicators etc (Emailage, Ekata, Neustar, Twilio);
+● (Stated and/or Inferred) Business Type3 (self attested and/or inferred);
+● Hard Connectivity to existing or past assets (e.g. bank accounts, payment cards, SSN,
+Employer Identification Number4, IP addresses) previously associated with
+Risk/Compliance actions;
+● Connectivity to existing or past user accounts (e.g. via CashApp Contact Books) associated
+with previous risk/compliance actions5;
+● Historical transactional activity based signals of connected Square accounts6;
+● Historical transactional activity based signals from customers sharing the same IP address
+7; and
+● Behavioral signals about the activation process (e.g. app installs, app & device versions,
+cashtag length etc.).
+3 Square: Stated or inferred business type (MCC) features are not available at activation time, so the ML
+model does not use them as input signals. However, MCC information is combined with the aCRR
+scores in the business logic for alerting decisions.
+4 EIN is for Seller only
+5 Cash only
+6 Cash only (time period from onboarding event to risk assessment)
+7 Square only
+Activation Customer Risk Rating Standard | Block
+9
+
+Confidential and Not for Distribution
+4.2.5 Explainability
+Every aCRR model evaluation and risk rating also logs an ‘explanation’ that provides insight into the
+features and/or signals that contributed to the specific customer risk score and their specific weights
+or relative contribution importance. Negative signal contributions suggest that the particular signal
+contributed to lower the risk score, while positive contributions suggest the opposite. The sum of
+contributions from all the models’ constituent signals result in the final risk rating assigned to the
+user account. Signals are typically grouped by a handful of high level themes to aid in human
+interpretability and review.
+Explainability is logged primarily for regulatory and audit purposes.
+4.3 Model Usage
+4.3.1 Due Diligence Reviews
+The scores generated by the aCRR model are a fundamental component of Block’s AML risk
+management framework. The scores are used as an input to ensure that risk-based due diligence
+and ongoing monitoring is applied to Block’s customers and accounts.
+4.3.2 Intended Usage8
+The intended usage of the aCRR model is to:
+● Generate an activation risk score for user accounts to be potentially consumed by
+downstream models as an input signal, so that initial activation risk is considered
+alongside ongoing account activity for alerting decisions.9
+● To provide an option to combine the model score with specific usage based
+heuristics/business logic for review by relevant KYC teams;
+● To provide an option to trigger an alert for an enhanced due diligence review (“EDD”) if a
+‘high risk’ score is attributed to the user at activation, in which the user account may be
+blocked from transacting on the platform until the EDD review is successfully completed.
+8 Intended use may vary based on specific product and/or geography and may not necessarily capture all future use alerts for this model.
+Meant to reflect key usage scenarios without necessarily being exhaustive. Specific details are captured in the product/geo specific system
+doc.
+9 Square: aCRR score is consumed as an input to cCRR model; Cash: All input signals that are available to the
+aCRR model at activation are also available as input to the cCRR models and Transaction Monitoring models,
+which might weight these signals differently from the aCRR model.
+Activation Customer Risk Rating Standard | Block
+10
+
+Confidential and Not for Distribution
+4.3.3 Triggering & Cadence
+The aCRR score is a one-time snapshot of risk at activation, and scoring will happen either at
+account onboarding or within a reasonable amount of time post account onboarding.
+For Cash App, a user provided mobile number or email address at account creation is considered the
+activation event that triggers the aCRR model evaluation.10
+For Square, a user completing the self-onboarding activation flow (prior to approval) is considered
+the activation step that triggers the aCRR model evaluation.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Block Regulatory Compliance Machine Learning Lead or their
+designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordance with the Compliance Document Approval Matrix. In addition, the aCRR models should
+be reviewed when there are material legal and/or regulatory changes, material updates are made to
+existing products, and/or when new markets are entered that will impact the company’s risk profile.
+6. Monitoring and Reporting
+The Document Owner and/or their designee will continuously review processes associated with the
+Standard to ensure they align with its requirements and evaluate whether outcomes meet the
+intended goals and expectations. This review will include regular assessments of key metrics and any
+deviations from expected results to ensure ongoing compliance.
+As outlined in Block’s Compliance Management System (CMS) Policy, Compliance will provide
+regular updates to the Block, Inc. Board (“Board”) and executive management. This reporting may
+10 In some non-US markets (Cash), users must undergo IDV at onboarding to transact on the platform. In
+these markets, IDV complete is considered the activation event that triggers aCRR model evaluation.
+Activation Customer Risk Rating Standard | Block
+11
+
+Confidential and Not for Distribution
+include specific information related to policies, Standards, procedures, audit/exam findings, issues
+management, training, and complaints.
+7. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Document Owner and/or designee
+will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+8. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance, whichever is longer.
+9. Related Documentation or References
+Related Documents:
+Related Standard Continuous Customer Risk Rating Standard | Cash App | U.S.
+Related Standard Continuous Customer Risk Rating Standard | Square
+10. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Vijay Sathish Head of Creation Initial Creation Jun 7, 2023
+Compliance
+Engineering and
+Technology -
+Data, Cash App
+Activation Customer Risk Rating Standard | Block
+12
+
+Confidential and Not for Distribution
+Chris Nasrallah Head of Creation Jun 7, 2023
+Compliance
+Engineering and
+Technology -
+Data, Square
+Tyler Hand Head of Initial Appro… Jun 15, 2023
+Compliance,
+Cash App
+Laura Fragom… Head of Initial Appro… Jun 15, 2023
+Compliance,
+Square
+Melissa Benja… Head of Program Scheduled … No material May 20, 2025
+Management updates.
+and Quality, Alignment of
+Square content and
+Compliance sections to meet
+document
+Megan Gonzal… Head of Scheduled … template May 29, 2025
+Financial Crimes, requirements
+Cash App
+11. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Engineering & Technology
+Document Owner Block Regulatory Compliance Machine Learning Lead
+Last Approval Date May 29, 2025
+Effective Date May 29, 2025
+Approved By Head of Financial Crimes, Cash App;
+Head of Program Management and Quality, Square
+Compliance
+Document Review Schedule Annually [May 2026]
+Activation Customer Risk Rating Standard | Block
+13

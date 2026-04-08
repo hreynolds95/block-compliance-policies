@@ -1,0 +1,289 @@
+RETIRED
+Third-Party Risk
+Management Standard
+Afterpay US, Inc.
+September 2024
+Last Approval Date
+
+Privileged and Confidential
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbydisclosedindividualswithinAfterpay
+US,Inc.andonaneed-to-knowbasis.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+2
+
+Privileged and Confidential
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 4
+1.Introduction 7
+2.Purpose 7
+3.Scope 7
+4.StandardRequirements 7
+4.1VERProcess 7
+4.2Third-PartyRiskManagementFramework 8
+5.DocumentManagement 10
+5.1DocumentOwner 10
+5.2ReviewandApproval 10
+6.MonitoringandReporting 10
+7.Exceptions 10
+8.RecordRetention 10
+9.RelatedDocumentationorReferences 11
+10.RevisionandApprovalHistory 11
+11.DocumentDetails 11
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+3
+
+Privileged and Confidential
+Definitions
+Definitions
+Terminology Definition
+Contract AnyagreementthatbindsorobligatesAfterpayUS,Inc.legallyor
+financially.ContractsmayincludebutarenotlimitedtoMasterServices
+Agreements,StatementsofWork,OrderForms,OnlineTermsofUse,
+SubscriptionAgreements,Changeorders,etc.
+CriticalVendor A CriticalVendorforAfterpayUS,Inc.isavendorwhoprovidesproducts
+orservicesthatareessentialtoday-to-dayoperationsandwhosefailure
+toprovidethoseproductsorservices,eitherwillfullyorinadvertently,will
+causematerialimpactstoAfterpayUS,Inc.oritscustomers.Material
+impactstoAfterpayUS,Inc.oritscustomerscouldbe,butnotlimitedto,
+thefollowing:
+1. AdverselyimpactingamaterialnumberofAfterpayUS,Inc.or
+customers,including,butnotlimitedto,theunauthorized
+disclosureofcustomers’non-publicinformation;
+2. AffectingAfterpayUS,Inc.’sfinancialconditionoraffecting
+AfterpayUS,Inc.’sabilitytoprovideitsproductsandservices;or
+3. SubjectingAfterpayUS,Inc.toseriousreputationalharmor
+regulatoryrisk.
+Directly AnAfterpayUS,Inc.businessstakeholderwhodirectlyobtainsthe
+Responsible productsandservicesfromaCriticalVendororThird-Partyandmanages
+Individual(“DRI”) anactiveengagementandrelated Contract.
+FirstLineof EmployeesinAfterpayUS,Inc.’sbusinessunitswhointeractwithCritical
+Defense VendorsorThird-Partiesdailywithinthescopeoftherespective
+engagement.
+SecondLineof Third-PartyRiskManagement,Compliance,Legal,BusinessContinuity,
+Defense PrivacyandInformationSecurity.Theseindividualsareindependentand
+vendoragnostic.TheyworkcloselywiththeFirstLinetoensurethe
+Third-PartyRiskManagementprogramandtheirdepartment’s
+organizationalpoliciesareadheredto.
+ThinkSmart TheplatformthatsupportstheThird-PartyVendorintaketicketing
+processwhenabusinessuser/DRI/TPROwantstoengageaThird-Party
+Vendor.Theplatformisaccessedthroughgo/buyorgo/VER.
+Third-Party UmbrellatermincorporatingbothCriticalVendorsandnon-vendor
+entitiesthatprovideaproduct,serviceortool.Examplesofnon-vendor
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+4
+
+Privileged and Confidential
+Third-Parties:paymentprocessors,acquirers,orpartners(e.g.network,
+bankpartner)Integrations,API,extensionsareexcludedfromthe
+Program.
+Third-PartyRisk Theprocessofidentifying,assessingandcontrollingrisksthatare
+Management presentedthroughoutthelifecycleofAfterpayUS,Inc’srelationships
+(“TPRM”) withCriticalVendors.Thisoftenstartsduringprocurement’sonboarding
+activitiesandextendsthroughtheoffboarding,involvingmanyinternal
+stakeholderswhocontributetotheprocess.
+Vendor AVERisanintaketicketinThinkSmartthatissubmittedbythebusiness
+Engagement user/DRI/TPROtoengageaThird-PartyVendortoprocureaproduct
+Request(“VER”) and/orservice.AspartoftheVERrequest,ifapplicableariskreviewmay
+beconductedtoensurethecontrolsmaintainedbythevendorare
+commensuratewiththeriskleveloftheengagementaswellasthe
+controlsandstandardsimplementedatAfterpayUS,Inc.
+RolesandResponsibilities
+Role Responsibility
+Third-Party The Afterpay TPRO will serve as Afterpay’s primary contact, and is
+RelationshipOwner ultimately responsible for the Third-Party and associated risks, if any,
+(“TPRO”) throughout the relationship. Other business users may also enter into
+relationships with Third Parties, but only one designee, by ecosystem,
+will be the Afterpay TPRO for the purposes of this TPRM Standard.
+AfterpayTPROswill:
+● SupportallthecomponentsoftheProgram;
+● Meet regularly with the Critical Vendors to review performance,
+scope of work, SLAs (if applicable and outlined in the respective
+governing document), financials (invoicing and payments) and
+compliancewithcontractualobligations;
+● MonitorandoverseetheoverallThird-Partyrelationships;and
+● ServeasanescalationpointforanyThird-Partyrelatedissues.
+Directly An Afterpay US, Inc. business stakeholder who directly obtains the
+Responsible products and services from a Critical Vendor or Third-Party/Vendor and
+Individual manages an active engagement and related Contract.TheDRIprovides
+a description of theserviceand/orproducttobeprocuredand/orused.A
+TPROmayalsomanageanactiveengagement.
+TPRMProgram TheTPRMProgramManagerwill:
+Manager ● BeresponsibleforimplementingtheProgramanditspolicy
+company-wide,includingBU’s,ecosystems;
+● Facilitatethereview,assessmentandassignmentofrisk-based
+tierstoThirdParties;
+● DevelopandimplementRiskMitigationPlansandCorrective
+Actionsasappropriate;
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+5
+
+Privileged and Confidential
+● ProvidereportstoBlockmanagementonthevarious
+componentsoftheProgram;
+● Providetoolsforconductingriskassessmentsandduediligence
+● ProvidetrainingandoutreachontheTPRMProgram;
+● Providetoolsformonitoringandoversightactivitiesofcritical
+Third-Party/Vendorrelationships;
+● EnforcetheTPRMpolicyandframework;and
+● SecondLineofDefense.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+6
+
+Privileged and Confidential
+1. Introduction
+This Third-Party Risk Management Standard (“Standard”) outlines Afterpay US, Inc.’s (“Afterpay”)
+approach to ensuring it maintains a regulatory compliant Third-Party Risk Management program.
+Failure to manage Third-Party related risks can expose Afterpay to regulatory action, financial loss,
+litigation, reputational damage and/or other negativeconsequences.Itisimportanttonotethatthis
+Standard is meant to be viewed as a supplement to the Block, Inc. Third-Party Risk Management
+Policyanditscorrespondingprocedure.
+2.Purpose
+Afterpay conducts business in compliance with all applicable laws and regulations. The purpose of
+this Standard is to outline Afterpay’s commitment to ensuring that there is a strong, proactive
+risk-based framework for managing its Third-Party relationships. The Afterpay TPRO is responsible
+formanagementofthisStandard.
+3. Scope
+This Standard is applicable to Afterpay’s Employees and sets out the approach to Third-Party risk
+management oversight of Critical Vendors. This Standard has also been created to ensure that
+Afterpay and relevant personnel are aware of and comply with expectations regarding Third-Party
+riskmanagement,asdetailedbelow.
+4.Standard Requirements
+4.1 VER Process
+The DRI will need to submit a go/VER ticket via ThinkSmart, which begins the Third-Party Risk
+Management process. This initial process includes performing due diligence (as applicable) by
+Information Security, Privacy, Business Continuity, Compliance and developing appropriate
+Contracts. ThinkSmart automatically triggers required due diligence, notifies the appropriate risk
+subject matter expert (“SME”) of required assessment, and notifies Legal Counsel directly when
+Contractreviewisapplicable.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+7
+
+Privileged and Confidential
+4.2 Third-Party Risk Management Framework
+The TPRM Team is responsible for implementing the Program. The team coordinates with a broad
+range of internal and external stakeholders to setclearexpectationsandexecuteThird-Partyrelated
+initiatives. The team strives to promote sensible stewardship of Afterpay resources and engages
+variousdepartmentsandindividualsatAfterpayintheThird-Partyrelationshiplifecycle.
+ThefivephasesofthePrograminclude:
+1. PlanningandAssessment;
+2. InitialDueDiligence;
+3. Contracting;
+4. OngoingMonitoring;and
+5. ContractTermination
+1.PlanningandAssessment
+Planning begins when the Afterpay TPRO or DRI defines business requirements or scope of work
+that involves a Third-Party/Vendor. Afterpay uses a value/riskandcontrols-basedapproachtoselect
+and manage Third Parties/Vendors. Duringtheplanningandassessmentphase,AfterpayTPRO’sor
+DRI’s start the process by initiating a VER, a brief survey which describes the overall scope of the
+engagement and helps determine the risk to which Afterpay is exposed by a particular product or
+servicethatisprocured.
+2.InitialDueDiligence
+Initial Due Diligence is driven by the results of the “Assessment” phase,whichmeasurestheriskby
+assessing a Third-Party/Vendor’s abilitytosatisfyAfterpay’srequirementsfortheproposedproducts
+and services, while maintaining appropriate controls to ensure compliance with our policies and
+regulatory requirements. Due diligence could include, but is not limited to, reviewing the service
+provider’spolicies,procedures,internalcontrols,andtrainingmaterialsforadequacy.
+The responses to the VER will usually determine the required level of due diligence that the risk
+SME’sdeterminetoperform.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+8
+
+Privileged and Confidential
+3.Contracting
+A clearly drafted and equitable Contract protects Afterpay and provides a framework for
+expectations and issue resolution. Vendor Contracts are reviewed in accordance with legal
+guidelines that have been issued under the guidance of Legal. The level of detail and relative
+importance of ContractprovisionsvarieswithscopeandaThird-Party’sassessedrisk.AfterpayDRIs
+are responsible for understanding the content of their respective Contracts. All Contracts are
+subjectedtoAfterpay’sElectronicSignaturesinGlobalandNationalCommerceActPolicy.
+4.OngoingMonitoring
+Third-Party/Vendors will be subject to ongoing monitoring and review to ensure compliance with
+applicable Anti-Money Laundering laws, in accordance with the TPRM Policy. Tier 1
+Third-Party/Vendors will be formally reviewed annually. Tier 2 Third-Party/Vendors will be reviewed
+every 2 years and Tier 3 every three years. The effective date as set out in the Block-Third-Party
+Contract may be used as the starting point to calculate review periods or the date of the most
+recent top tier risk assessment and due diligence, unlesssomeotherstartingpointisagreedupon,
+in which case that will be the effective date for future reviews. Tier 4 Third-Party/Vendors do not
+requirereview.
+5.ContractTermination
+Contract termination may occur if there are findings discovered as a result of ongoing monitoring
+that indicate a breach of contractual obligations. Examples may include, but are not limited to,
+consistently failing to meet SLAs, violations of consumer protection laws, or change in
+business-related priorities. When ending a Contract or terminating a Third-Party relationship, the
+Afterpay TPRO or DRI should follow the Contract’s stated language, otherwisetheyshouldconsult
+the Legal and Procurement team. When a relationship ends, it is the responsibility of the Afterpay
+TPRO or DRI to ensure that all Afterpay assets arereturnedandthatdataiseitherreturnedtousor
+securely destroyed. It is the responsibility of the TPRO or DRI to follow the requirements for the
+destruction or return of data as outlined in the Third-Party Contract. And, as appropriate, the
+Afterpay TPRO or DRI will make sure access, physical and electronic, is terminated, as well notify
+Procurement Operations and Accounts Payable to ensure a Third-Party is made inactive in
+Afterpay’s financial system upon final payment. The TPRO or DRI will work with these teams
+directly.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+9
+
+Privileged and Confidential
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheLendingProductComplianceLead.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordancewiththeComplianceDocumentApprovalMatrix.
+6.Monitoring and Reporting
+On an ongoing basis, the Document Owner and/or their designee will monitor Standard related
+activities to evaluate adherence to the Standard and determine whether outputs adhere to
+establishedobjectives.
+7. Exceptions
+Exceptionstothisdocumentmustbepre-approvedbytheDocumentOwner.TheDocumentOwner
+or designee will have authority to approve exceptions and/or exemptions to thisStandard.Standard
+exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls the Company will implement to mitigate risks associated with the
+exception.Anyapprovedexceptionsmustbedocumentedinwritingandretainedwithinestablished
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Document Owner and/or designee will inform
+ComplianceLeadershipandapplicablecommittees,asneeded,ofexceptions.
+8.Record Retention
+All published Documents are retained in accordancewithAfterpay’’sRecordRetentionguidanceor
+inaccordancewithregulatoryguidance-whicheverislonger.
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+10
+
+Privileged and Confidential
+9.Related Documentation or References
+RelatedDocuments:
+RelatedPolicy Block,Inc.Third-PartyRiskManagement
+Policy
+RelatedPolicy ComplianceDocumentApprovalMatrix
+RelatedReferences:
+RegulationName InteragencyGuidanceonThird-Party
+Relationships:RiskManagement
+10. Revision and Approval History
+ApprovalHistory
+Approver Title Type Description Date
+Corey Chamb… LendingProduct Creation Develop Aug 26, 2024
+Compliance Afterpay,USInc.
+Lead Standardtoalign
+withtheBlock
+TPRMPolicy
+Tyler Hand Block,Inc.Head Initial Appro… Initialapprovalof Sep 3, 2024
+ofCompliance policy
+AfterpayBoard AfterpayBoard Initial Appro… Initialapprovalof Sep 11, 2024
+policy
+11. Document Details
+Business AfterpayUS,Inc.
+Scope Regional
+ComplianceDomain Consumer Protection
+DocumentOwner LendingProductComplianceManager
+LastApprovalDate Sep 11, 2024
+EffectiveDate Sep 11, 2024
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+11
+
+Privileged and Confidential
+ApprovedBy AfterpayBoard
+DocumentReviewSchedule Annually
+Third-PartyRiskManagementStandard|AfterpayUS,Inc.
+12

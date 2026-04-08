@@ -1,0 +1,513 @@
+Conflicts of Interest Policy
+Square Australia
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: This Conflicts of Interest Policy ("Policy") sets out Square AU's
+approach to identifying, managing, and monitoring conflicts of interest, reflecting our commitment
+to strong corporate governance and ethical business conduct. Operating in a regulated
+environment, effective conflict management is essential to maintaining trust and integrity across all
+our activities.
+Under the Corporations Act 2001, Square AU is required to have arrangements in place to manage
+conflicts arising in connection with the provision of financial services. This Policy provides a clear
+framework to address potential, actual, and perceived conflicts, outlining the responsibilities of all
+representatives to adhere to these guidelines and promptly report any conflicts.
+The Chief Compliance Officer (“CCOˮ) has primary responsibility for overseeing and implementing
+this Policy. Through these measures, Square AU seeks to protect the interests of customers,
+employees, and stakeholders, ensure regulatory compliance, and promote an ethical culture
+throughout the organisation.
+The purpose of this Conflicts of Interest Policy is to provide a clear and structured framework for
+identifying, assessing, escalating, and managing conflicts of interest within Square AU. It ensures
+that all conflicts are addressed in a way that upholds Square AUʼs integrity and ethical standards,
+meets regulatory requirements, and safeguards the interests of customers, employees, and
+stakeholders.
+This Policy forms an integral part of Square AUʼs broader compliance and risk management
+framework, demonstrating our commitment to the highest standards of professional conduct and
+corporate responsibility.
+Scope: This Conflicts of Interest Policy is established by Square AU Pty Ltd ("Square AU") and is
+applicable to all employees, officers, directors, contractors, interns, contingent workers and
+representatives of Square AU. The Policy sets out the approach to identifying, managing, and
+mitigating conflicts of interest within the context of Square AU's operations.
+
+This Policy applies specifically to the activities and responsibilities of Square AU and its
+subsidiaries directly involved in the provision of financial services. It governs the conduct of all
+employees and representatives in relation to their professional duties and external engagements
+that may give rise to conflicts of interest.
+This document must be read in conjunction with Block Inc Policies and programs. Square AU will
+make reasonable attempts to align with Block Inc Policies unless regulatory obligations differ.
+Definitions:
+Terminology Definition
+Conflict of Interest ● An actual Conflict Of Interest (i.e. a Conflict Of Interest that
+has arisen);
+● A potential Conflict Of Interest (i.e. a Conflict Of Interest
+that may arise given particular facts and circumstances);
+● A perceived Conflict Of Interest (i.e. a situation which may
+give rise to the perception of a Conflict Of Interest); and
+● Where a direct Conflict Of Interest may not in fact exist
+Actual Conflict of Interest A Conflict of Interest that is currently happening. For example,
+if an advisor recommends a product that benefits them
+financially, even though it may not be in the best interest of the
+client.
+Potential Conflict of Interest A situation where a Conflict of Interest may arise in the future.
+For example, an advisor who could benefit from the sale of a
+particular financial product in the future, though they haven't
+recommended it yet.
+Perceived Conflict of Interest A situation where it appears to others that a Conflict of Interest
+exists, even if there is no actual conflict. This is often based on
+appearances and can erode trust, even if the advisor is acting
+impartially.
+Managing Conflicts of Interest The process by which financial services licensees identify,
+assess, and address conflicts of interest to ensure that they do
+not adversely affect clients. This can involve disclosure,
+avoidance, or control measures.
+Disclosure of Conflicts The practice of informing clients about any conflicts of interest
+that may affect the advice or services provided. This is a
+crucial part of managing conflicts and ensuring transparency.
+Avoidance of Conflicts Taking steps to eliminate a Conflict of Interest altogether. This
+may involve not engaging in certain activities or declining to
+provide advice where a conflict exists.
+
+Terminology Definition
+Control of Conflicts Implementing measures to manage conflicts of interest that
+cannot be avoided, ensuring that they do not negatively impact
+clients. This may include setting up barriers between different
+parts of a business to prevent conflicts from influencing
+advice.
+Staff Member(s) or Staff All employees and fixed-term and contingent workers who
+support the operations and/or subsidiaries covered by this
+Policy, and include interns, temporary workers, consultants,
+vendors, third-party providers, and contractors. An employee
+or external worker (e.g., contingent labour, contractors) hired
+by Squareup International Limited who supports the operations
+covered by this Policy.
+2. Policy Requirements
+2.1 Guiding Principles
+By implementing this Policy, Square AU seeks to:
+● Promote Ethical Conduct: Foster a culture of transparency and ethical behaviour across all
+levels of the organisation by ensuring that conflicts of interest are addressed promptly and
+effectively.
+● Facilitate Regulatory Compliance: Comply with the obligations set forth under the
+Corporations Act 2001 and relevant Regulatory Guide 181 - Licensing: Managing conflicts of
+interest, particularly those related to the management of conflicts of interest in financial
+services.
+● Protect Stakeholder Interests: Safeguard the interests of our customers, employees, and
+other stakeholders by mitigating the risks associated with conflicts of interest that could
+compromise the quality and fairness of our services.
+● Enhance Corporate Governance: Strengthen Square AU's governance framework by
+providing clear guidelines and responsibilities for the identification, reporting, and
+resolution of conflicts of interest.
+● Support Informed Decision-Making: Ensure that decisions made within the organisation
+are free from bias and undue influence, thereby maintaining the trust and confidence of all
+parties involved in or affected by our business activities.
+
+2.2 Mechanisms for managing conflicts of interest
+The Board has considered and adopted, among other arrangements, the three mechanisms for
+managing conflicts of interest prescribed by ASIC in RG 181 in preparing this section of the
+compliance manual.
+Under the arrangements set out in this document, Square AU has put in place processes for:
+● controlling conflicts of interest;
+● avoiding conflicts of interest; and
+● disclosing conflicts of interest.
+These mechanisms are defined in the definition section of this Policy.
+2.3 Disclosure Obligations
+All personnel must self-disclose any actual, potential, or perceived conflicts of interest by
+following the Conflicts of Interest disclosure process, details of which can be found on the
+Conflicts of Interest page. Once the potential conflict has been disclosed, no action may be taken
+until the disclosure has been reviewed by a Manager and approval is provided if required.
+2.4 Assessment of Conflicts
+Square AU will assess business activities, including relationships to identify any potential conflicts
+of interest. In order to control conflicts of interest, Square AU has put a program place to:
+● identify the conflicts of interest relating to the business of Square AU (if any);
+● assess and evaluate those conflicts; and
+● decide upon, and implement, an appropriate response to those conflicts.
+Assessment of the business level conflicts are conducted at least annually by the CCO and
+included in Annexure A. Data on conflicts of interest is reported to the Square AU Board. Examples
+of what may constitute a conflict which may require disclosure include activities outside of work
+such as a secondary employment position, personal investments, or engaging friends or family in a
+business relationship with Square AU.
+
+2.5 Mitigation Strategies
+Once identified, Conflicts of Interest must be managed through appropriate mitigation strategies,
+which may include but is not limited too:
+● Removing the individual from decision-making related to the conflict;
+● Segregation of duties;
+● Disclosing the conflict to relevant stakeholders;
+● Implementing information barriers or ethical walls; and
+● Divesting conflicting interests.
+2.6 Breaches of the Policy
+In the event of a Conflict of Interest breach, Square AU requires mandatory reporting, followed by a
+confidential investigation to assess the breach's impact. Corrective actions, including removal from
+conflicting situations and potential disciplinary measures, may be taken. Square AU is to ensure
+internal transparency through communication of outcomes and, if necessary, external
+communication to affected stakeholders. Post-incident reviews where applicable may be
+conducted to evaluate the response and enhance the Conflict of Interest policy where necessary.
+Enhanced monitoring may be implemented to prevent future breaches, ensuring the organisation's
+integrity is maintained.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Square AU operates a Three Lines of Defence (“3LoD") Model. All Staff Members are expected to
+comply with this Policy, including the Anti-Bribery and Corruption element of Blockʼs Code of
+Business Conduct and Ethics (the Code) at all times. Square AU is required to demonstrate that it
+took all reasonable steps and exercised all due diligence in order to avoid Conflicts of Interest and
+the commission of a bribery or corruption offence. Therefore, it is essential that all Staff Members
+and each line of defence understands its roles and responsibilities in respect to this Policy.
+First Line of Defence
+● All Staff Members or Staff: All Staff Members are responsible for identifying and managing
+Conflicts of Interest on an ongoing basis and must:
+○ Avoid Conflicts of Interest
+
+○ If there is a situation that a Conflict of Interest has occurred or could present a
+potential conflict, or the appearance of conflict, disclose it through the available
+channels detailed on the Conflicts of Interest page so that it can be evaluated.
+○ Avoid making a Conflict of Interest determination on their own, and instead make a
+disclosure as mentioned above, in order for a fulsome evaluation to be made.
+○ Report breaches of this Policy to the Policy owner, the AU Chief Compliance
+Officer, or the Ethics Line.
+● Leads: While the Code applies to all Staff Members, "Leads" Square AU's term for
+managers) have a deeper level of responsibility and must lead with integrity and reinforce
+Block's ethical culture. Leads are often the first resource for Staff Members who have
+questions on ethical issues or potential violations of Block and Square AU Policy. If unsure
+of the best course of action, Leads are responsible for:
+○ Ensuring the embedding and ongoing adherence to the Policy within their area of
+accountability;
+○ Directing their Staff Members to the correct resource;
+○ Promptly reporting any violation or suspected violation of this Policy, the Code or
+law. Leads may be held responsible if they don't report misconduct;
+○ Creating an environment where others feel comfortable sharing concerns and
+uphold the principle that Staff Members reporting their concerns is protected from
+retaliation;
+○ Ensuring that any breaches of this Policy or non-declarations, which are also
+considered breaches, are reported;
+○ Ensuring the Global Code of Conduct training is completed by all Staff Members
+within their business unit on time.
+Second line of Defence
+● Compliance: Compliance, as the owner of this Policy will:
+○ Carry out risk-based reviews of the implementation of this Policy, to include the
+identification and investigation of breaches and the appropriate action taken to
+address such breaches, as required;
+○ Effectively communicate Conflicts of Interest Policy to the Business;
+○ Have an effective mechanism for identifying and reporting on non-adherence of
+this Policy;
+○ Report on related management information to the Regulatory Governance
+Committee, and the Square AU Board as appropriate.
+● Global Ethics Team: The Global Ethics team, within Corporate Compliance ("the Ethics
+team") is responsible for:
+○ Monitoring the Conflicts of Interest register1;
+○ Assessing reported Conflicts of Interest and making recommendations with respect
+to the management/prevention of Conflicts of Interest;
+1 Details of reported Conflicts of Interest are held on a ‘One Trustʼ register monitored by the Ethics team. Details of reported
+outside activity are held on a JIRA system, monitored by the Legal team.
+
+○ Developing and delivering Code of Conduct training to Square AU Staff Members.
+● Third Line of Defence (“Internal Auditˮ): Internal Audit forms Square AU's third line of
+defence. The independent internal audit function, employing a risk-based approach,
+provides assurance to the Square AU Board and senior management.
+● Square AU Board Members (“Boardˮ) It is the role of the Board to monitor and manage
+potential Conflicts of Interest between management, board members, shareholders,
+external advisors and other service providers, including misuse of corporate assets. The
+Board is also responsible for decisioning on reported Conflicts of Interest, escalated by The
+Compliance Manager AU, in instances where Square Management and the Ethics team (or
+other relevant stakeholder involved in the evaluation process) are not in agreement as to
+the determination or management of such a Conflict of Interest.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+Compliance will provide updates to the Square AU Board ("Board") and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Block, Inc. Code of Business Conduct & Ethics
+● Block, Inc. Anti-Bribery & Anti-Corruption Policy
+● Block, Inc. Gifts & Entertainment Policy
+● Block, Inc. Insider Trader Policy
+● Block, Inc. Outside Activities Policy
+● Square I Australian Employee Handbook
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square AU Pty Board Approval Initial Approval Approved the September 11,
+Ltd Board creation of the 2019
+document
+Square AU Pty Board Approval Scheduled Approved minor December 10,
+Ltd Board Review changes to the 2020
+document
+Square AU Pty Board Approval Scheduled Approved minor December 9,
+Ltd Board Review changes to the 2021
+document
+Square AU Pty Board Approval Material Change Approved December 8,
+Ltd Board Approval changes and 2022
+updated to
+
+Approver Title Type Description Date
+manage changes
+in regulatory
+guidance.
+Square AU Pty Board Approval Scheduled Approved December 13,
+Ltd Board Review changes and 2023
+Minor change to
+complaint
+Lance Howard Compliance Lead Material Change Approved August 29, 2024
+- AU Approval changes to
+manage
+regulatory
+guidance
+Square AU Pty Board Approval Material Change Approved October 1, 2024
+Ltd Board Approval changes to
+manage
+regulatory
+guidance
+Square AU Pty Board Approval Scheduled Minor December 18,
+Ltd Board Review amendment, new 2025
+template
+Document Details:
+Business Square
+Scope Australia
+Compliance Domain Ethics & Employee Conduct
+Document Owner Compliance Lead - AU
+Approved By Square AU Pty Ltd Board
+Document Tier Tier 2
+
+Annexure A
+Assessment and evaluation of
+conflict(s) of interest (refer to
+Annexure D
+Description of
+identified Qualitative Procedures for monitoring
+conflict(s) of Risk Arrangements for conflicts management
+interest Likelihood Consequences Outcome managing conflict(s) arrangements
+Square AU B 1 M Employees that are Outside Activities Policy
+employee is a Square Sellers requires employees and
+Square Seller removed from representatives to obtain
+decision making and advanced approval from
+customer-facing roles their managers and the
+with respect to their Counsel Team before
+Square Seller account engaging in any outside
+via risk-based employment activities,
+approach. including becoming or
+continuing to operate a
+Breach of Employee Square Seller.
+Handbook will result
+in HR review and Disclosure of Personal
+potential termination. Interests form updated.
+Employees encouraged to
+reach out to Legal team
+directly for questions
+concerning conflicts of
+interest.
+Personal C 1 L Disclosure and Disclosure of Personal
+investment in approval required Interests form updated
+(or serving in under Outside annually.
+some Activities Policy in AU
+capacity with) Employee Handbook. Employees encouraged to
+a Square reach out to the Legal
+Seller Employees with direct team directly for questions
+interest in Square concerning conflicts of
+Seller removed from interest.
+decision making and
+customer-facing roles
+with respect to such
+Square Seller via
+risk-based approach.
+
+Breach of Employee
+Handbook will result
+in HR review and
+potential termination.
+Square AU C 1 L Disclosure and Disclosure of Personal
+employee approval of entry into Interests form updated
+learns of other personal annually.
+personal business
+business or opportunities required Employees encouraged to
+investment under Outside reach out to Legal team
+opportunity Activities Policy in AU directly for questions
+with small, Employee Handbook. concerning conflicts of
+private interest.
+Square Seller Employees with direct
+through their interest in Square
+Square AU Seller removed from
+role decision making and
+customer-facing roles
+with respect to such
+Square Seller via
+risk-based approach.
+Breach of Employee
+Handbook will result
+in HR review and
+potential termination.
+Square AU C 3 H Investments in Square Exposure to deals with
+employee Sellers in violation of large private or public
+learns of insider Trading policy Square Sellers limited to
+personal subject to termination need-to-know.
+business or and potential criminal
+investment escalation. Annual insider Trading
+opportunity policy training required of
+with large Disclosure and all Square Group
+private or approval of entry into employees.
+public Square other personal
+Seller through business Whistleblower line for
+their Square opportunities required violations of insider
+AU role under Outside Trading policy maintained
+Activities Policy in AU by Square, Inc.
+Employee Handbook.
+Employees with direct Disclosure of Personal
+interest in Square Interests form updated
+Seller removed from annually.
+decision making and
+customer-facing roles
+
+with respect to such Employees encouraged to
+Square Seller via reach out to Legal team
+risk-based approach. directly for questions
+Breach of Employee concerning conflicts of
+Handbook will result interest.
+in HR review and
+potential termination.
+Square AU C 3 H Investments in Exposure to deals with
+employee violation of insider third parties that could
+learns of Trading policy subject lead to insider trading
+personal to termination and limited to need-to-know.
+business or potential criminal Annual insider Trading
+investment escalation. Policy training required of
+opportunity all Square Group
+with third Disclosure and employees.
+party through approval of entry into
+their Square other personal Whistleblower line for
+AU role business violations of insider trading
+opportunities required policy maintained by
+under Outside Square, Inc.
+Activities Policy in AU
+Employee Handbook. Disclosure of Personal
+Interests form updated
+Employees with direct annually.
+interest in Square
+Seller removed from Employees encouraged to
+decision making and reach out to the Legal
+customer-facing roles team directly for questions
+with respect to such concerning conflicts of
+Square Seller via interest.
+risk-based approach.
+Breach of Employee
+Handbook will result
+in HR review and
+potential termination.
+
+Square AU C 2 M Square AUʼs Conflict Disclosure of Personal
+employee of Interest policy Interests forms update
+utilises role to prevents employees annually.
+hire/benefit from benefiting
+friends and friends and family at Employees encouraged to
+family the expense of the reach out to the Legal team
+company. directly for questions
+concerning conflicts of
+Square AU interest.
+discourages
+managers from hiring
+friends and family
+directly and suggests
+individuals instead
+apply to alternate
+teams.
+“Tipping offˮ friends
+and family in violation
+of insider trading
+policy subject to
+termination and
+potential criminal
+escalation.
+Breach of Employee
+Handbook will result
+in HR review and
+potential termination.
+Square AU C 3 H Disclosure and Disclosure of Personal
+employee approval required Interests form updated
+works for under Outside annually.
+current or Activities Policy in AU
+likely future Employee Handbook. Employees encouraged to
+Square AU Direct competition reach out to Legal team
+competitor with Square AU will directly for questions
+not be approved by concerning conflicts of
+manager. interest.
+Breach of Employee
+Handbook will result
+in HR review and
+potential termination.
+
+Square AU C 2 M Square AU employee Disclosure of Personal
+employee investments may not Interests form updated
+invests in necessarily breach annually.
+current or the Conflicts of
+likely future Interest policy, but Employees encouraged to
+Square AU depending on trade reach out to Legal team
+competitor and Material directly for questions
+Non-Public concerning conflicts of
+Information MNPI interest.
+available to employee,
+could breach Insider
+Trading Policy.
+Investments in
+violation of insider
+trading policy subject
+to termination and
+potential criminal
+escalation.
+Large investments in
+competitors
+amounting to control
+over competitors
+would require
+disclosure and
+approval under
+Outside Activities
+Policy in AU Employee
+Handbook.
+Direct competition
+with Square AU will
+not be approved by
+the manager.
+Breach of the AU
+Employee Handbook
+will result in HR review
+and potential
+termination.
+
+Square AU C 2 M Square AU employee Disclosure of Personal
+employee using Square AUʼs Interests form updated
+uses Square property, information, annually.
+AUʼs property, relationships, or
+information, his/her position for Employees encouraged to
+relationships, personal gain is a reach out to Legal team
+or position for breach of the directly for questions
+personal gain Employee Handbook. concerning conflicts of
+Breach of Employee interest.
+Handbook will result
+in HR review and
+potential termination.

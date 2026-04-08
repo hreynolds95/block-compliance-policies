@@ -1,0 +1,375 @@
+Acquiring Chargebacks Standard
+Cash App
+Last Approved: Aug 8, 2025
+Effective Date: Aug 8, 2025
+1. Overview
+Introduction and Purpose: Cash App's Acquiring Chargebacks Standard explains how Cash App
+processes Chargebacks received from our Customers' banks.
+When a Customer uses their credit or debit card for a transaction, they might later question or
+dispute that payment with their bank. This can happen for various reasons, such as:
+● Unauthorized card use
+● Unhappiness with a product or service
+● Other transaction concerns
+The Chargeback Process Protocol outlines at a high level how this process works.
+1. The cardholder initiates a dispute through their financial institution Issuing Bank)
+2. Upon review, the Issuing Bank may initiate a formal chargeback procedure through the card
+network
+3. The chargeback notification is transmitted to Cash App through established network
+channels
+4. As the merchant of record, Cash App evaluates the chargeback and may:
+a. Conduct a transaction review
+b. Submit a response to validate the original transaction
+c. Accept Chargeback liability
+The Chargeback process adheres to the standardized protocols established by card network
+regulations to ensure proper dispute resolution.
+Scope: This document is relevant for Acquiring Chargebacks related to Cash App transactions
+conducted through debit or credit card, excluding Cash App Pay. Cash App is a line of business
+under Block, Inc., and is applicable to Cash App U.S.
+As of July 2025, true fraud evaluations (see 2.1.1 New Chargebacks) are not supported for AmEx or
+any payments still processed through the Cash Service Franklin. Addressing AmEx and migrating
+the remaining Franklin payments to new services is planned for Q3 '25. This means by Q4'25 all
+transaction types should be supported.
+Acquiring Chargebacks Standard ┃Cash App
+1
+
+Definitions:
+Terminology Definition
+Acquirer An Acquiring or Merchant bank. A financial institution that
+provides services to Merchants that enable them to accept
+branded credit and debit cards for payment.
+Arbitration The final stage of the Chargeback lifecycle where the Network
+makes a binding decision to resolve a Chargeback when all prior
+resolution attempts have failed.
+Chargeback It is a financial mechanism in which a debit or credit card
+transaction is reversed by the cardholder's issuing bank. The
+Merchant who processed that transaction may accept the liability
+or represent the Chargeback with evidence of a valid transaction.
+Chargeback Cancellation This is the return of funds from a cardholder's issuing bank after
+a Chargeback was thought to be resolved as Merchant liability.
+Chargeback Reversed The Issuer accepts the Merchant Chargeback Representment as
+valid or otherwise does not continue the Chargeback; funds
+remain or are returned to Merchant; often referred to as "Won" by
+Merchant.
+Chargeback Upheld The Issuer continues the Chargeback process after receipt of the
+Merchant Chargeback Representment and maintains Merchant
+liability; generally referred to as "Lost" by Merchant.
+Clawback A term that refers to Cash App retrieving funds from a Consumer
+to cover the cost of a Chargeback that was received.
+Clawback Reversal / The return of funds retrieved from a Consumer to cover the cost
+Reimbursements of a Chargeback that was received after a Chargeback
+Cancellation event.
+First Party Fraud / This occurs when a consumer uses their own information to
+Friendly Fraud commit fraudulent activities, such as falsely disputing a legitimate
+transaction or misrepresenting information.
+Issuer This is the financial institution, and member of the Card network,
+such as Visa, who issues a prepaid, debit or credit card.
+Merchant A business or sole proprietor that accepts payments for goods or
+services.
+Acquiring Chargebacks Standard ┃Cash App
+2
+
+Terminology Definition
+Network The entities that facilitate the movement of funds into and out of
+debit and credit card products and establish rules that other
+players must adhere to.
+Pull Transactions A customer initiates a purchase or funding transaction from their
+linked debit or credit card into the Cash ecosystem.
+Push Transactions Transfers from one account to another account that are initiated
+from the account sending funds.
+Peer To Peer (“P2Pˮ) A Peer-to-Peer transaction refers to a payment from one
+individual to another individual.
+Representment The opportunity for an Acquirer/Merchant to respond to a
+received Chargeback with details about the customer and/or
+transaction.
+Template / Chargeback The documentation an Acquirer/Merchant provides in response to
+Response a Chargeback.
+2. Standard Requirements
+2.1 Chargeback Initiation
+When a Chargeback is initiated by a cardholder with their issuing bank, it first enters the Cash App
+ecosystem via Acquirer reports (like AmEx) or network gateways (like VROL, Mastercom and
+Discover Direct). This ultimately lands in the Cash Finplat Disputes CFD service which acts as the
+initial intake and validation layer. This service performs several critical checks, including validating
+the Chargeback details and ensuring proper formatting. The system processes various types of
+Chargebacks-related notifications, from initial Chargeback alerts to resolution updates.
+The Chargeback then flows to the Chargeback handling service Payback, which is responsible for
+the core decision-making process. Payback checks if the payment exists in the system and
+validates its details.
+2.1.1 Chargeback Handling
+Once a Chargeback notification has been received by Payback, the Cash App process for handling
+the Chargeback takes place. This section covers handling for Cash App Pull Transactions.
+● Auto-defended Chargebacks
+Sometimes, our Acquiring partners may action an incoming Chargeback on our behalf by
+responding with Representment documentation. Generally, this is when a Chargeback
+occurs on a transaction that is already refunded, or when the Chargeback received is out
+of compliance with network rules. In these instances, we receive notice of the Chargeback
+and that it has already been defended, and updates later on about the final outcome.
+Acquiring Chargebacks Standard ┃Cash App
+3
+
+● New Chargebacks
+When a new Chargeback is received, first, for Chargebacks with a fraud reason code, a
+call is made to our risk service to evaluate whether the Chargeback is likely to be a result of
+truly unauthorized cardholder use (as opposed to Friendly or First Party Fraud). The risk
+evaluation utilizes an ML Model to determine if the transaction was 1. the result of stolen
+card usage or 2. as the result of an account takeover. If the ML model determines either of
+these scenarios exist, Cash App will accept the Chargeback and no further action is taken.
+If not, the Chargeback will continue down the processing flow.
+For Chargebacks deemed to not be the result of true fraud, the next step in the process is
+attempting a Clawback according to the existing policies (see section 2.7 Clawback
+Policies).
+If a Clawback is successful, the Chargeback will be accepted and no further action is
+taken. If a Clawback is not successful, the processing will continue to the next step.
+Payback will then evaluate whether the Chargeback meets any other auto-accept criteria.
+Remaining auto-accept criteria is generally based on reason code, Issuers, networks and
+transaction amounts, representing Cash App business logic that is subject to change based
+on business needs. Any Chargebacks that meet the current auto-accept criteria will be
+accepted.
+At this point, any remaining Chargeback is meant to be responded to.
+● Chargeback Response Template Selection
+Umpire, our Chargeback Representment service, determines what Template to utilize
+based on transaction details, Chargeback reason code, and available evidence.
+The evidence might include details about the customer's account, transaction records, or
+other documentation that supports the transaction's validity and will be useful for the
+issuing banks' assessment of their customers' claim (see more details in section 2.8.
+Chargeback Response Details).
+Umpire ensures all challenge responses are properly formatted.
+● Manually Handled Chargebacks
+There is only one exception to the automated Template selection, which is AmEx
+Chargebacks. At this time, there is no automated handling for AmEx Chargeback
+Responses, so the response Template selection and processing is handled manually by
+members of the Disputes Operations team.
+Other actions Chargeback updates and record keeping, Clawback policies, and
+monitoring) are handled the same.
+● Timelines
+The Chargeback process overall has timelines governed by the card networks and
+procedures of the different parties involved (issuing banks, card schemes, and Merchant
+banks). However, for Cash App, the automated processes take 48 hours to run and
+respond each time a Chargeback notification is received. This ensures Cash App remains
+in compliance with all network response time requirements and gives Issuers ample time to
+review responses on their end for follow up with their cardholder.
+Acquiring Chargebacks Standard ┃Cash App
+4
+
+Manually handled Chargebacks have due dates visible to the Disputes Operations team
+handling responses, corresponding to the network's timeframe requirements for Merchant
+responses.
+Any failure to respond to an incoming Chargeback Response on the Cash App side in time,
+or at all, would result in Cash App accepting liability for the Chargeback.
+2.2 Updates to Existing Chargebacks
+Once an Issuer receives the Cash Chargeback Response, they will evaluate the details provided
+along with their internal records and determine whether they accept the response and reverse the
+Chargeback, or would like to continue the Chargeback.
+2.3 Chargeback Reversed
+In instances where Issuers accept the Cash App response, Cash App considers the Chargeback
+Reversed Cash App "Won") as the funds remain or are returned to Cash App. No further actions
+are taken.
+2.4 Chargeback Upheld
+In instances where Issuers would like to continue the Chargeback, Cash App will generally accept
+the Chargeback liability Cash App "Lost") to avoid going to Arbitration except in rare
+circumstances. This is a business decision that can be changed, if there is ample reason to believe
+that a network review of the Chargeback and transaction details will result in a favorable outcome
+for Cash App. See more details in the below Section 2.5 Arbitration.)
+Once Chargeback liability has been accepted, Cash App may attempt another Clawback. This is
+described in further detail in the Section 2.7 Clawback Policies section.
+2.5 Arbitration
+In some cases where Cash App believes a Chargeback should have been Reversed based on
+network rules, we may continue on to Arbitration; it's also possible our Acquiring partners may also
+do this on our behalf. During Arbitration, the networks Visa, Mastercard, etc) will review the
+evidence presented by both parties to determine the party liable. In a successful Arbitration
+attempt, Cash App will be reimbursed for the transaction amount. If an Arbitration attempt is not
+successful, the Chargeback liability will remain with Cash App, along with additional fees.
+2.6 Recordkeeping
+Throughout this entire flow, our Chargeback handling system updates and maintains records that
+feed into various data warehouses (like app_cash.app.Chargebacks and
+app_cash.app.disputes_metric_summary), allowing for comprehensive monitoring, reporting, and
+alerting on key metrics such as Chargeback loss ratios, challenge rates, and Clawback success
+rates.
+This data-driven approach enables Cash App to continuously monitor and optimize its Chargeback
+handling processes while maintaining compliance with card network requirements like the Visa
+Acquirer Monitoring Program VAMP. See more details on monitoring in section Monitoring.
+Acquiring Chargebacks Standard ┃Cash App
+5
+
+2.7 Clawback Policies
+As referenced above, we may attempt to Clawback funds associated with a Chargeback in two
+parts of the process: upon receipt of a new Chargeback, and again after assuming liability for a
+Chargeback. Our Clawback actions differ based on transaction type and funds movements and are
+handled in compliance with our existing policies and procedures for debiting a customer's account.
+2.7.1 First Clawback Attempt
+● Peer To Peer P2P
+Upon receipt of a new Chargeback, Cash App will check where the funds last were (the
+P2P recipient, or refunded back to sender) and attempt to Clawback funds from the
+customer who last held them, without pushing any balances negative.
+If the P2P transaction was refunded, Cash App will attempt to Clawback funds via balance
+from the sender.
+If the P2P transaction was not refunded, Cash App will attempt to Clawback funds from
+recipients' latest push instrument, which could include their stored balance or linked
+instruments, without pushing balances negative.
+● Non-P2P
+For other types of Cash App transactions, on the first attempt, Cash App will only Clawback
+if 100% funds are available in the customer's main balance and/or savings balances.
+Clawbacks are not done for Loan Repayment transactions; instead the charged back
+amount is added back to the outstanding loan.
+2.7.2 Second Clawback Attempt
+● P2P
+After final liability for a Chargeback, Cash App will follow the same logic as the first
+attempt, with a slight change in behavior where a refund has occurred. Again, the system
+will check where the funds last were (the P2P recipient, or refunded back to sender) and
+attempt to Clawback funds from the customer who last held them.
+If the P2P transaction was refunded, Cash App will attempt to Clawback funds via balance
+from the sender and will send the balance negative if needed.
+If the P2P transaction was not refunded, Cash App will attempt to Clawback funds from
+recipients' latest push instrument, which could include their SVB or linked instruments,
+without pushing balances negative.
+● Non-P2P
+For other types of Cash App transactions, on the second attempt, Cash App will Clawback
+and send the balance negative, if needed. Clawbacks are not done for Loan Repayment
+transactions; instead the charged back amount is added back to the outstanding loan.
+Acquiring Chargebacks Standard ┃Cash App
+6
+
+2.8 Chargeback Response Details
+At a very high level, these are some of the most common types of Chargebacks Cash App
+receives, and what is provided to the Issuing Bank in response to the Chargeback request.
+Note: The Chargeback reason codes are set by the Issuer and are not necessarily indicative of the
+true nature of the Chargeback.
+Chargeback Reason Code Category Chargeback Response Details (when/where
+applicable)
+Fraud Information to allow Issuer to determine whether the
+cardholder authorized the payment and card use, such
+as: Customer details (name, email, phone) Card
+verification details (like micro-auth) Transaction details
+(type, time, amount, IP, device information) Previous or
+other transactions and their details Recipient details
+(name, email, phone) Payment trends (like previous
+interactions between sender/recipient) Evidence of a
+refund if applicable
+Goods/services not received Information to allow Issuer to determine whether the
+good/services were in fact received Evidence of a
+refund if applicable
+Goods/services canceled Information to allow Issuer to determine whether the
+goods/services were not actually canceled or cannot be
+canceled due to terms of service Evidence of a refund if
+applicable
+Duplicate transaction Information to allow Issuer to determine whether there
+are two separate payments Evidence of a refund if
+applicable
+Incorrect amount Information to allow Issuer to determine whether the
+customer was charged the correct amount Evidence of a
+refund if applicable
+2.9 Cash Out / Push Chargebacks
+There is one subset of transactions that handle Chargebacks a bit differently, and that is for Push
+Transactions. In these instances, the notification of a Chargeback means the funds that a customer
+attempted to send to their external linked instrument are being returned to Cash App. This can
+happen either due to cardholder action or confusion, or be initiated by their external financial
+institution directly. In any case, when a Chargeback is received related to this type of transaction,
+Cash App accepts the Chargeback. This requires the funds to then be returned to the customer's
+stored value balance. This is done automatically upon receipt and acceptance of the Chargeback.
+Acquiring Chargebacks Standard ┃Cash App
+7
+
+2.10 Monitoring
+These Chargeback procedures and associated services are regularly monitored to ensure
+processes are working as expected.
+● Service-level tracking and alerting
+○ Owner: FinPlat Chargebacks Engineering
+○ Monitoring platform: Datadog
+● Convenience table and Data Warehouses
+○ Owner: Product Data Science PDS + Business Intelligence Engineering BIE
+○ Monitoring platform: Anomalo
+● Business Metrics
+○ Owner: PDS + BIE to set up alerts; PDS + Machine Learning + Financial Operations
+to respond when triggered
+○ Monitoring platform: Anomalo / Mode
+2.11 Chargeback Cancellations
+Rarely, a Customer may later decide, outside of the Chargeback cycle, to cancel their dispute (or
+their bank will do so on their behalf). As a result, the Customer's bank may return the money to
+Cash App that was originally charged-back. If Cash App has already clawed back funds
+associated with the Chargeback, the funds are owed back to the account it was originally clawed
+back from.
+2.11.1 Clawback Reversal / Reimbursements
+As of May 2025, the process of reversing a Clawback has been manual and instigated only after
+Customer outreach, but Cash App is currently in the process of automating this flow for improved
+Customer experience. Once this new process is fully live, Customers who had a Clawback
+associated with a Chargeback that is later Cancelled will automatically receive a Clawback
+Reversal to the original Clawback instrument. This is currently live for 100% of Chargeback
+Reversals for Transfers.
+2.12 Chargeback Dispute Documentation Recordkeeping Requirements
+All documentation is retained in compliance with our Money Transmissions Licensing requirements
+and Block's Data Retention Standard.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Consumer Protection Lead as the owner of this Standard, is responsible for:
+○ Developing the Standard to outline the Program for Acquiring Chargebacks;
+○ Ensuring regulatory requirements are included in documentation;
+○ Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners;
+○ Liaising with relevant stakeholders to complete Standard updates;
+Acquiring Chargebacks Standard ┃Cash App
+8
+
+○ Conducting periodic review(s) of the Standard; and
+○ Delegating and overseeing documentation requirements, as needed.
+● Head of Block Consumer Protection is the approver of this Standard.
+Cash App Roles:
+● FinOps Acquiring:
+○ Serves as the subject matter expert for content relevant to this Standard;
+○ Communicates roles and responsibilities for the execution of this Standard
+to relevant stakeholders including business partners; and
+○ Conducts periodic review(s) of this Standard.
+● FinPlat Chargebacks Engineering owns the integrations with third party services,
+networks and acquirers Visa VROL, Mastercom, etc) associated with chargebacks,
+and owns the internal handling of states, actions, and ledgering associated with
+chargebacks on Cash App.
+● Behavioral Insights Team BIT is a fraud analysis team that identifies, describes,
+and organizes Cash App Consumer behaviors. BIT investigates and analyzes
+emerging threats to provide intel to Risk Machine Learning ML.
+● Risk Machine Learning maintains and supports models that apply actions based on
+transactional behavior and evaluates whether incoming chargebacks are true fraud.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management.
+3.3 Record Retention
+All documentation is retained in compliance with Block's Data Retention Standard and Cash
+Addendum, which specifies retention periods for chargeback related records in accordance with
+regulatory requirements.
+3.4 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+Acquiring Chargebacks Standard ┃Cash App
+9
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Lee Buchmann Consumer Creation New Document Jun 18, 2025
+Protection
+Compliance Lead
+Brian Kollmeyer Head of Block Approval Aug 8, 2025
+Consumer
+Protection
+Document Details:
+Business Cash App
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Consumer Protection Compliance Program
+Manager
+Approved By Head of Block Consumer Protection
+Document Tier Tier 3
+Acquiring Chargebacks Standard ┃Cash App
+10

@@ -1,0 +1,572 @@
+Risk and Compliance Adverse Actions Policy
+Cash App
+Last Approved: Feb 4, 2026
+Effective Date: Feb 4, 2026
+1. Overview
+Introduction and Purpose: This Risk and Compliance Adverse Actions Policy ("Policy") outlines
+Cash App's approach to actioning accounts and customers that violate Cash App's Terms of
+Service (herein referred to as "platform violations"), internal policies, or engage in suspicious or
+illegal activity (together, referred to as "prohibited activity"). This framework is designed to ensure
+Cash App has reasonable measures and appropriate methods to manage accounts and customers
+who present higher risk to Cash App, and to ultimately mitigate and manage the risks associated
+with potential money laundering, terrorist financing, fraud and other financial crimes in line with its
+BSA/AML and CTF obligations. The BSA/AML Program Office Lead is responsible for management
+of this Policy.
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose
+of this Policy is to establish a holistic set of standards and requirements for which Cash App
+operates as it pertains to offboarding and/or putting certain limitations on customers and accounts.
+Scope: The scope of this Policy includes Risk and Compliance teams and processes that take
+action to accounts and customers on Cash App.
+Definitions:
+Terminology Definition
+Adverse Action Controls in place to limit customer access to Cash App as a result
+of prohibited activity.
+Account The structure that is used by Cash App customers to log in,
+manage their personal information, and send or receive money or
+engage in other transactions.
+
+Terminology Definition
+Customer A person that opens an account and receives Cash App products
+and services, or a person opening a new account for someone
+who lacks the legal capacity.
+Denylisting Accounts The process by which Cash App accounts are prevented from
+continued use, with the exception of liquidating assets and
+withdrawing funds after a determination or suspicion of
+involvement in prohibited, fraudulent or illegal activity on Cash
+App.
+Denylist Propagation The act of denylisting more than one account or identity-based
+asset with the intention of offboarding all accounts and assets
+linked to the account of a perpetrator of bad activity.
+Employee Identification A list of EINs updated and maintained by Compliance. Once an EIN
+Number EIN Denylist is added to the EIN denylist, that prevents a business using that
+same EIN from successfully passing Know Your Business KYB in
+the future.
+Identity Based Assets An alias or attribute that a customer links to an account that may
+be associated with an identity (i.e., social security number, phone
+number, email address, financial instrument, device).
+Financial Instrument Linked external debit, prepaid, credit card and bank account
+Identity Verification The process of verifying a customer's identity, which may be
+("IDV") triggered by a number of actions including but not limited to
+ordering a Cash Card, exceeding peer-to-peer sending and
+receiving limits, buying bitcoin or enabling bitcoin withdrawals and
+deposits, signing up for a Cash App Investing account, and
+sending from a stored balance
+Cash App Card Refers to the deactivation of a customer's Cash App Card and all
+Termination associated services, including the direct deposit feature. This
+ensures that the card cannot be reactivated or used for any future
+transactions.
+Risk Suspension A degraded customer experience state where certain features of
+Cash App are unavailable to the account until the customer or
+Cash App takes a particular action. Applied when certain risky
+customer behaviours are detected.
+
+Terminology Definition
+Suspicious Activity Report A document that financial institutions file with the Financial Crimes
+("SAR") Enforcement Network FinCEN to report suspected violations of
+law or suspicious activity
+Sponsor Account A parent or guardian of a teen on Cash App. All Sponsors have
+successfully passed IDV.
+Sponsored Account Accounts operated by individuals between the age of 1317 years
+old that require authorization and sponsorship from their parent or
+guardian
+Sponsorship Strike A negative indicator based on the 1 and 2 strike policy applicable
+to a Sponsor Account's SSN if one of the accounts they've
+sponsored has been actioned (e.g. denylisted)
+Sponsorship Warning A notification sent to a Sponsor Account when a Sponsored
+Account has been denylisted to notify the Sponsor of the Adverse
+Action taken
+2. Policy Requirements
+2.1 Adverse Actions
+Cash App is responsible for establishing the appropriate processes, criteria and corresponding
+action on accounts and customers upon the detection or suspicion of prohibited activity on Cash
+App. In general, these processes and criteria are designed to be commensurate with the customer
+and account's activity, and take into account factors such as length of the customer relationship,
+number of counterparties involved, and the overall risk associated with the customer, to the extent
+that such decisions do not conflict with applicable law. Cash App offboards accounts and
+relationships with customers who it identifies to be engaging in prohibited activity. Cash App also
+maintains processes and controls to prevent the re-onboarding of customers previously
+denylisted.
+
+2.2 Monitoring & Decision Making
+Prohibited relationships and activity are determined and driven by the Cash App Terms of Service,
+internal policy, risk assessments, partnership requirements, and applicable regulations. The Risk
+and Compliance teams have established monitoring to ensure prohibited customer accounts and
+relationships do not persist on Cash App. Additionally, Risk and Compliance teams maintain
+relevant procedures to ensure consistent application of the framework described in this Policy.
+When determining whether a customer account or relationship should be exited, a comprehensive
+and holistic review of the account and relationship specific behavior is conducted. Reputational
+risk exposure and overall business impact may also be considered when determining if an account
+or relationship should be exited.
+2.2.1 Assessing Customer Risk
+Customer denylist decisions are to be determined based on the holistic risk exposure posed to
+Cash App and reputational risk exposure. Input from the Brand and Reputational Risk Committee
+may be sought prior to a final decision to retain a high risk relationship. Additionally, the overall
+impact of the customer's relationship to the business will be assessed ahead of a determination to
+exit a relationship. Enhanced due diligence may be leveraged to mitigate risk exposure; however, if
+the risk exposure of the relationship exceeds Cash App's risk tolerance, the relationship will be
+exited. Any customer relationship that is subject to Adverse Action will involve a review that
+considers some or all of the aforementioned factors.
+2.3 Account Denylisting
+Account denylisting is executed when an account is found to be engaging in activity that violates
+Cash Appʼs Terms of Service (including, without limitation engaging in fraudulent activity) or
+internal policies (collectively referred to as “bad activityˮ herein). The action may happen either
+manually or automatically, and revokes all account functionality, with the exception of:
+● Logging in
+● Contacting customer support
+● Accessing account statements
+● Selling or transferring stocks
+● Selling bitcoin
+● Paying back loans (check only)
+● Linking a financial instrument
+● Receiving pending direct deposits and check deposits
+● Withdrawing available fiat funds to a linked financial instrument
+Once an account is denylisted, if applicable, the customerʼs corresponding account with Marqeta
+is also closed, which deactivates their Cash App Card and prevents any future direct deposits.
+Account level denylisting is executed by Compliance and Risk, while the denylisting service and
+underlying technology is managed by Trust (“Safeguardsˮ). The technological service is
+“guardrailsˮ.
+
+2.3.1 Manual Account Denylisting
+In general, account level denylisting happens manually, when Compliance or Risk Specialists review an
+account that has alerted (e.g., due to triggering a Risk or Compliance machine learning model or
+heuristic) and the Specialist suspects bad activity1. In the context of this Policy, the definition of
+“suspectsˮ is - once the Specialist has conducted a thorough review of the account and activity, and
+has determined based on the underlying procedures that the activity warrants a denylist. Specialists
+may also escalate the account to the Financial Crimes program for further investigation and actioning
+(as determined by applicable procedures).
+2.3.2 Automated Account Denylisting
+Account denylisting may also happen automatically. When applied automatically, Cash App has a
+high degree of confidence in the existence of bad activity on the account. Typically, account
+denylisting happens automatically either when Cash App has identified an account (or group of
+accounts) through a high precision model or heuristic rule that is designed to detect certain types
+of bad activity, as part of a remediation effort (e.g., denylisting a population of networked fraud
+with various bad actors), or during an automated account denylist propagation. Automated
+account denylist propagation occurs when Cash App has a high degree of confidence that
+accounts connected to a confirmed bad actor are operated by the same individual due to their
+shared account attributes, such as social security number SSN, device, and more (see more in
+the ‘Customer Denylistʼ section below for more details).
+2.3.4 Account Denylist Reasons
+Account denylisting may happen for a variety of reasons across Risk and Compliance. In general, a
+denylist may be categorized into one (or more) of the following categories:
+● Financial Crime & Abuse (e.g., Money Laundering, Terrorist Financing, and Securities Law
+Violations)
+● Fraud & Identity Abuse (e.g., Identity Theft, Account Takeovers, Scams, Inauthentic
+Account Activity, and Chargeback Abuse)
+● Exploitation & Human Rights Violations (e.g., Human Trafficking, CSAM, Elder Financial
+Exploitation, Adult Services)
+● Prohibited Business Activities (e.g., Gambling, Unlicensed Financial Services, Weapons,
+Unauthorized Pharmaceuticals)
+● Regulatory & Legal Compliance (e.g., Sanctions Violations, Unlicensed Money Service
+Business, Securities Law Violations)
+● Platform Integrity & Safety (e.g., Hate-Related Activities, Reputational Risk, Illicit Prison
+Activity)
+1 In some cases, Risk and Compliance Specialists may review an account and identify unusual activity, which may lead to a
+referral to Financial Crimes for further review and action.
+
+Considering Participants and Facilitators
+Cash App offers customers the ability to send and receive peer-to-peer P2P payments, which
+allows two accounts to send and receive funds between each other, funded by a linked
+financial instrument or Cash App balance. As part of its investigations, Cash App must consider
+how it treats the sender and recipient in the context of prohibited or otherwise illegal activity.
+Cash App does not support the facilitation of any illegal or prohibited activity on its platform.
+For instance, in the context of P2P payments, a “receiverˮ of a payment may be suspected of
+selling or distributing illegal content or substance, providing prohibited services to other Cash
+App customers, or otherwise receiving payments for prohibited or illegal activity. In these
+cases, Cash App denylists the account, any other account suspected to be operated by that
+individual, as well as the identity-based assets associated with that individual (phone number,
+email address, financial instrument, SSN and device) to prevent that customer from returning to
+Cash App.
+Similarly, Cash App must consider the risks of the senders in P2P transactions, or in some
+cases, the “buyerˮ of prohibited or otherwise illegal activity. As part of this assessment, Cash
+App evaluates the account and its activity holistically, evaluating the underlying risk associated
+with their transactions, as well as other factors such as the pervasiveness of such activity
+relative to the rest of their account activity. As part of this evaluation, Cash App also evaluates
+whether or not the sender is colluding with the receiver, or is otherwise intending to disguise
+the original source of the funds.
+2.4 Customer Denylisting
+Cash App may terminate its relationship at the customer level, to prevent that individual from
+returning to Cash App in the future. Customer denylisting is determined by Risk & Compliance
+procedures which are designed to be commensurate with the observed activity. Terminating
+relationships at the customer level is critical to ensure that Cash App no longer maintains a
+relationship with individuals who have perpetrated fraud, prohibited or otherwise illegal activity on
+its platform. In general, this involves denylisting the Social Security number SSN of the bad actor,
+identity-based assets associated with the accounts (i.e., phone number, email address, device,
+financial instrument(s)), accounts that share the same SSN Unrestricted Accounts), and in the
+case of Restricted accounts, Cash App evaluates accounts that share certain device signals to
+determine if the accounts belong to the same individual.
+Risks of Identity Theft to Customer Denylists
+When denylisting a customerʼs accounts connected by SSN, it is critical that Cash App consider
+the risks and implications associated with stolen identities and the impact it may have on victims
+of identity theft. As such, Cash App must maintain Standards and Procedures to reasonably
+identify instances when bad activity is perpetrated by a bad actor using a stolen identity, and
+factoring in the impact denylisting accounts connected by SSN may have on a victim of identity
+theft. To manage this risk, Cash App uses available data to determine whether or not the
+perpetrator is the owner of the identity of the account, or if it is stolen and being used for illicit
+purposes. In cases where there is more than one account connected by SSN, Cash App
+considers available data and connections between accounts other than SSN, such as shared
+device, phone number, email address, financial instrument(s), peer-to-peer counterparties and
+
+Cash App Card shipping address(es) to form a reasonable understanding as to the connection
+between the accounts.
+If the SSN is confirmed to be stolen, Cash App should avoid negatively impacting the victim of
+identity theft by not terminating the victimʼs account(s).
+2.4.1 Recidivism
+Cash App prevents bad actors from returning to its platform by denylisting identity-based assets
+associated with a bad actorʼs account. In general, when Cash App denylists an account due to
+suspected bad activity, it also propagates the denylist to the connected device, phone number,
+email address and financial instrument(s) (either automatically or manually). SSNs are manually
+added to the SSN denylist by Compliance. The denylist applies to the phone number for 270 days,
+while the denylist of the SSN, email address, device and financial instrument is in perpetuity.
+2.4.2 Restricted Accounts
+When denylisting Restricted Accounts, Cash App evaluates other Restricted Accounts that share
+certain device signals (or other signals in accordance with relevant procedures). As such, if those
+other accounts connected by device (or other signals) are also partaking in bad activity and can
+also be attributed to the same person, those other Restricted Accounts are also denylisted.
+2.4.3 Single Account Model SAM
+Cash App considers all accounts connected by a “single accountholderˮ to be the same customer.
+As such, when Cash App denylists an account and they are connected to one or more accounts by
+a single accountholder, all accounts in the accountholder are automatically denylisted2.
+Additionally, all connected identity-based assets (phone number, email address, device, financial
+instrument, SSN are also denylisted.
+2.4.4 Sponsors and Sponsored Accounts
+When Cash App denylists a Sponsor of one or more teen accounts, the sponsorship is suspended;
+the Sponsored account is placed into a restricted minor status which prevents the Sponsored
+account from any money movement apart from selling assets or withdrawing funds; and the teen is
+required to successfully obtain a new Sponsor before continuing to transact on Cash App.
+When Cash App denylists a Sponsored account, Cash App manually reviews the Sponsorʼs activity
+to determine the Sponsorʼs involvement in the bad activity. If it is determined that the Sponsor is
+not involved in the teenʼs activity, the Sponsor is not denylisted, but is issued a warning (“strikeˮ). If
+another one of a Sponsored accounts is denylisted, the Sponsor is no longer able to sponsor any
+teens in the future.
+2 An exception for this account denylist propagation is when the denylist happens due to a customer attempting to create
+their sixth monthly active account. In these cases, Cash App denylists the account and the SSN, but does not propagate
+such denylist to other accounts or assets within the accountholder.
+
+2.5 SSN / EIN Denylisting
+SSN and EIN denylisting is a key control Cash App maintains to prevent bad actors from returning
+to the platform. The process involves Cash Appʼs Compliance Operations team putting an SSN or
+EIN on a denylist, which prevents any new account in the future from using that same SSN or EIN
+during IDV or KYB respectively. If that same SSN or EIN is identified during IDV or KYB, Cash App
+prevents the customer from successfully completing verification and their account is automatically
+denylisted. Cash App uses the SSN denylist in other instances, such as when it identifies a
+deceased identity (either going through IDV or having already gone through IDV and when a
+customer attempts to go through IDV when that customer maintains five active Cash App
+accounts; adding the SSN to the SSN denylist prevents the re-use of that SSN and mitigates the
+risk of identity theft.
+Risks of Identity Theft to SSN / EIN Denylisting
+When denylisting a customerʼs SSN or EIN, it is critical that Cash App consider the risks and
+implications associated with stolen identities and the impact it may have on victims of identity
+theft. As such, Cash App must maintain Standards and Procedures to reasonably identify
+instances when bad activity is perpetrated by a bad actor using a stolen identity, and factoring in
+the impact denylisting the SSN or EIN may have on a victim of identity theft in the future. To
+manage this risk, Cash App uses available data to determine whether or not the perpetrator is the
+owner of the identity of the account, or if it is stolen and being used for illicit purposes. Prior to
+putting an SSN on the SSN denylist, Cash App evaluates certain data associated with the
+account to determine if the identity has been stolen. This may include alias mismatches, unusual
+account access, unusual device attributes, and mismatching payment sources.
+If the SSN is confirmed to be stolen, Cash App should avoid negatively impacting the victim of
+identity theft in future IDV attempts, while still protecting the victim of identity theft. To achieve
+this, Cash App still adds the SSN or EIN to the denylist, however, maintains processes for
+step-up identity verification methods in the future should that same SSN or EIN be used in future
+IDV attempts.
+2.6 Keep Open Letters
+Cash App maintains internal controls related to Keep Open Letters KOL in alignment with FinCEN
+guidance on requests by law enforcement to keep accounts open. The Intelligence Analysis Unit
+IAU reviews the written request and verifies that all required fields have been completed before
+adhering to the request. Additionally, IAU is responsible for monitoring the length of time that has
+passed in alignment with the Keep Open Letter and will appropriately action the account in
+accordance with the findings of the investigators after the official request has expired.
+
+2.7 Teams involved
+The primary team responsible for adding SSNs and EINs to the denylist is the Cash App
+Compliance Operations team. This team manually adds this information to the denylist as part of
+their investigative procedures.
+2.8 Denylist Propagation Chart
+The Denylist Propagation Chart below details controls that may be applied in response to a denylist
+and / or SAR Filing.
+Type Denylist Propagation
+1 SSN/ EIN (if applicable) When Compliance denylists an Unrestricted
+account and files a SAR, the SSN or EIN is also
+denylisted, which results in any future account
+attempting IDV with that same SSN or EIN getting
+automatically denylisted during IDV.
+2 Financial Instrument When Compliance denylists an account and files
+a SAR, all associated linked financial instruments
+are automatically blocked from being linked to
+any new accounts in the future indefinitely.
+3 Device When Compliance denylists and files a SAR,
+devices associated with the account are
+automatically blocked from signing up for a new
+account for 270 days.
+When Compliance denylists an account and files
+a SAR, any mobile devices used to access the
+denylisted account within the last year will be
+device denylisted.
+4 Phone Number When Compliance denylists an account and files
+a SAR, currently linked phone numbers will be
+prevented from re-linking to a new account for
+270 days.
+5 Email Address When Compliance or Risk denylists an account,
+all currently linked email addresses will be
+
+Type Denylist Propagation
+prevented from re-linking to a new account
+indefinitely.
+2.9 Customer Account Reinstatement
+Cash App has established a denylist appeals process to allow customers who have had a denylist
+adversity placed on their account to appeal such decision. The appeals process, governed by the
+Risk and Compliance Adverse Actions Policy, is managed by both Risk and Compliance teams, and
+is routed to the appropriate team based on the original denylist reason. The teams maintain an SLA
+of 10 business days. Customers are able to appeal the denylist of an account, as well as the
+denylist of an identity-based asset SSN, phone number, email address, financial instrument and
+device). Customers are able to initiate their appeal by contacting customer support through phone,
+email or chat. As part of the appeals process, Specialists conduct a holistic review of the accountʼs
+activity, including transactions, and strive to understand the original denylist reason, as well as
+whether or not such decision was valid. In general, Cash App intakes and reviews all appeal
+requests, regardless of the original denylist decision, however, customers may not appeal the
+same denylist decision more than once. If the appeal is successful, the denylist (as well as any
+other adversity) is lifted.
+2.9.1 Ensuring Customer Access to Funds
+For denylisted customers who do not liquidate and transfer their funds out of their account(s),
+Cash App is required to escheat funds to the proper state, where the state requires liquidation.
+2.9.2 Quality Assurance QA / Quality Control QC
+To ensure Cash App maintains a high rate of precision in its denylist decisions, QA and QC
+processes are established to provide periodic oversight and review of denylist decisions and
+outcomes. In general, the process maintains relative independence to ensure the reviews do not
+bias towards the original decisions that were made. Additionally, Cash App ensures no perverse
+incentives exist by QA / QC teams to ensure the highest quality reviews possible. Results of QA /
+QC are regularly reported to management. Weaknesses observed in quality result in an
+investigation into procedures and training.
+2.10 Unfair, Deceptive, or Abusive Acts or Practices ("UDAAP")
+2.10.1 Notification of Restriction
+In accordance with the Cash App Terms of Service, Cash App may terminate or suspend an
+account, any associated account, or access to any service, at any time for any reason, including a
+violation of the terms of service, and may add or remove, suspend, stop, delete, discontinue, or
+impose conditions on services or any feature or aspect of a service. Cash App will take reasonable
+
+steps to provide notification of termination or other types of service changes using available
+communication channels, which may include in-app messaging, email, SMS, or push notification.
+Cash App must provide customers with a written explanation within 24 hours of freezing,
+suspending, locking, closing, or otherwise restricting access to or limiting the functionality of a
+Cash App account to the extent legally permissible. Unless prohibited by law enforcement, this
+communication must include:
+● The reason the account was restricted,
+● The procedure for appealing the decision, and
+● If applicable (i.e., if funds are not frozen), whether and how the customer can transfer their
+funds out of Cash App.
+Such communication must not contain any information that “tips offˮ the customer regarding any
+potential or actual SAR investigation or filing. The specific channels used to deliver this
+information—such as email, SMS, push notification, or in-app messaging—may vary depending on
+the nature of the restriction, customer attributes, and implementation method. However, all account
+restriction flows must include a communication plan that meets the above content and timing
+requirements.
+2.10.2 Non-Discrimination
+Cash App may never exit customer relationships based on discrimination of a protected class,
+such as the customer's race, color, religion or national origin.
+2.11 Document Management
+Document Owner
+This document is owned by the Head of Financial Crimes or their designee.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Compliance:
+○ Provides oversight and guidance to Business Lines in implementing the
+requirements of this Policy.
+● Risk Machine Learning:
+○ Builds machine learning models and systems that may place an adversity on a
+customerʼs account or assets, which may lead to a denylist action being taken
+(either manually or automatically).
+● Risk Operations:
+○ Maintains a team of dedicated Specialists who review accounts due to certain
+higher-risk activity (i.e., alerts and cases), which may result in a denylist action
+being taken (as well as an escalation to the Financial Crimes team as applicable).
+
+● Compliance Operations:
+○ Reviews accounts and customer profile and associated transactions that may result
+in a determination of a terms of service violation, or high-risk behavior (e.g. KYC
+concern) which may result in denylisting, referral to another department, and filing
+SARs, as applicable.
+● Legal Counsel:
+○ Provides interpretive advice and counsel regarding the applicability of the
+requirements of this Policy and relevant legal obligations to the Companyʼs
+business and operational activities.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+3.3 Denylist Training
+Training on denylisting is delivered to Risk and Compliance teams on a periodic basis, and is
+designed to ensure Specialists are well resourced to execute their function appropriately. Training
+consists of electronic learning modules as well as live learning sessions. Lessons learned from
+QA/QC are continuously fed into training, which ensures appropriate feedback loops between
+quality management and the procedures.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Cash App Transaction Monitoring and Suspicious Activity Reporting Adverse Actions
+Procedure
+● Cash App Terms of Service
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Sonakshi Nayyar Cash PMO Lead Creation Mar 17, 2023
+Adrian Gardner Cash App Head Creation Mar 17, 2023
+of Customer
+Onboarding &
+Management
+
+Megan Gonzales Cash App Head Creation Mar 17, 2023
+of Financial
+Crimes
+Sandy Zanaty Global Creation V1 created based Mar 17, 2023
+Compliance on the original
+Policy Manager Adverse Actions
+Policy and
+shared with the
+working group.
+Content
+modification led
+by Sonakshi,
+Adrian, and
+Megan.
+Tyler Hand Cash App Head Initial Approval Jun 13, 2023
+of Compliance
+Sydney Nam Block Policy Immaterial Oct 16, 2023
+Governance Change Approval
+Coordinator
+Adrian Gardner Cash App Head Material Change Update to new Sep 30, 2024
+of Customer Approval template ;
+Onboarding & modification and
+Management expansion of
+Adverse Actions
+available
+Megan Gonzales Cash App Head Material Change Update to new Aug 20, 2024
+of Financial Approval template ;
+Crimes modification and
+expansion of
+Adverse Actions
+available
+Jason Liberman Cash App Head Material Change Update to new Oct 29, 2024
+of Product Approval template ;
+Compliance modification and
+expansion of
+
+Adverse Actions
+available
+Adrian Gardner Cash App Head Material Change Update to Nov 8, 2024
+of Customer Approval Denylist
+Onboarding & Propagation from
+Management a Tier 1 and Tier
+2 strategy to a
+streamlined
+single tier
+Megan Gonzales Cash App Head Material Change Update to Nov 11, 2024
+of Financial Approval Denylist
+Crimes Propagation from
+a Tier 1 and Tier
+2 strategy to a
+streamlined
+single tier
+Jason Liberman Cash App Head Material Change Update to Nov 8, 2024
+of Product Approval Denylist
+Compliance Propagation from
+a Tier 1 and Tier
+2 strategy to a
+streamlined
+single tier
+Compliance Compliance Scheduled … Updates to October 3, 2025
+Policy Committee Policy Committee definitions,
+adverse actions
+chart,
+clarification on
+notifications,
+noting
+established
+denylist appeals
+process as well
+as other
+immaterial
+updates for
+clarity
+
+Kevin Turnbull Financial Crime Immaterial … Removed February 4, 2026
+Policy & Advisory section 2.1.1
+"Adverse Actions
+Chart" and
+section 2.3.3
+"Account
+Denylist
+Communications
+" - to avoid over
+prescription.
+Modified the
+name of section
+2.10.1
+"Notification of
+Termination" to
+"Notification of
+Restriction" - to
+remove
+duplication and
+unintended
+misinterpretation
+.
+The standard still
+sets forth
+expectations for
+active user
+notifications and
+communications,
+as well as
+ensuring there is
+robust
+documentation
+from a controls
+perspective.
+Updated the
+current language
+in section 2.4.4
+"Sponsors and
+Sponsored
+Accounts" - to
+clarify the spirit
+and intent of who
+should be deny
+listed and when.
+Document Details:
+Business Cash App
+Scope United States
+
+Compliance Domain Financial Crimes
+Financial Crimes Regulatory & Execution
+Document Owner
+Oversight, Lead
+Approved By Compliance Policy Committee
+Document Tier
+Tier 2

@@ -1,0 +1,467 @@
+Incident Response Management Plan
+Afterpay Canada
+Last Approved: August 8, 2025
+Effective Date: August 8, 2025
+1. Overview
+Introduction and Purpose: Afterpay Canada (“Afterpayˮ) is a British Columbia incorporated entity
+that offers “buy now, pay laterˮ installment products in Canada. Afterpay Canada is registered as a
+Payment Service Provider (“PSPˮ) with the Bank of Canada and subject to the Retail Payment
+Activities Act (“RPAAˮ). Additionally, Afterpay maintains a credit license in Nova-Scotia, New
+Brunswick and Saskatchewan.
+This document outlines Afterpay Canada Afterpay)ʼs internal processes for detecting, responding
+to and recovering from incidents and reporting of incidents that may affect the confidentiality,
+integrity, or availability of systems, services and operations involved in the delivery of Afterpayʼs
+retail payment activities and in accordance with the RPAA.
+This document is to be read together with the Block Incident Management Standard , the Block
+Issue Management Program, the Privacy Incident Runbook and the Afterpay Incident Management
+Policy and sets out the plan to be followed to identify and respond to threats and incidents in a
+coordinated and efficient manner, assess and determine if an incident is material and reportable to
+the Bank of Canada (“BoCˮ) in accordance with Afterpayʼs obligations as a PSP and subject to the
+RPAA and while ensuring that remediation is completed with minimal disruption in accordance with
+stipulated SLAs.
+Scope: This document applies to all Afterpay related payment services, systems, staff, and third
+party vendors that support any Afterpay related payment activities within the scope of the RPAA.
+References to "staff" throughout this document shall refer to all full-time employees and fixed-term
+and contingent workers including interns, temps, consultants, vendors, third-party providers, and
+contractors engaged to work on Afterpay matters.
+Definitions:
+Terminology Definition
+The Retail Payment Activities The Retail Payment Activities Act is a Canadian federal law that
+Act establishes a regulatory framework for the oversight of retail
+payment service providers (“PSPsˮ)
+
+Terminology Definition
+Bank of Canada Bank of Canada is the supervisory authority under the RPAA
+and acts as the regulator for retail payment service providers in
+Canada.
+Block, Inc. Block, Inc., a Delaware corporation and the ultimate parent of
+Afterpay Canada.
+Governance Risk and An internal governance committee made up of Senior
+Compliance Committee Management responsible for the oversight of Afterpay's
+compliance with applicable laws.
+Incident Any event or series of related events that is unplanned,
+unexpected or adverse and that results in or could reasonably
+be expected to result in the reduction, deterioration or
+breakdown of any retail payment activity that is performed by
+Afterpay Canada and/or the systems, data and information
+involved in the Afterpay Canada's performance of its retail
+payment activities.
+Reportable Incident An incident that has a material impact on an end user, Afterpay
+Canada's operations.
+2. Objectives
+● Outline RPAA Operational Risk Incident Management and Reporting requirements
+● Map compliance to existing processes
+● Define roles & responsibilities
+● Document data sources and validation procedures
+● Establish a workflow to efficiently and effectively report a major RPAA Operational Risk
+Incident, inclusive of identification and classification of an incident, internal and external
+communication channels, escalation procedures, and notification timeline requirements
+● Align with Block's existing Security IRP and Block's Information Security Response plan
+● Ensure compliance with detection, classification, notification and reporting obligations
+under the RPAA
+3. Overview
+Under RPAA, incidents are categorised broadly into four types: security, operational, fraud and
+non-compliance.. Security incidents include events like cyberattacks, data breaches, or any
+unauthorized access that compromises data authenticity, integrity or confidentiality. Operational
+incidents refer to disruptions that affect service continuity and availability, such as system outages
+or failures in critical infrastructure. Fraud include events involving actual or attempted fraudulent
+activities, misappropriation of funds, identity theft affecting end-user accounts. Non-compliance
+
+includes events that could impact Afterpayʼs compliance status such as violations of RPAA
+requirements or applicable privacy laws. All categories of incidents include incidents caused by
+Afterpay or its third-parties or vendors. Only incidents that have been assessed and deemed to
+have a material impact on Afterpayʼs operations and end users are reportable to the Bank of
+Canada under RPAA.
+Afterpay leverages Block-foundational resources to respond to, contain, remediate and resolve a
+Security Incident. Blockʼs Detection and Response Team (“DARTˮ) supports security incidents,
+while Site Reliability Engineering (“SREˮ) supports operational incidents (also known as SEVs) and
+the Compliance Issue Management Team supports fraud and non-compliance related incidents.
+This document will often refer back to each teamʼs respective incident handling procedures and
+will only outline the RPAA-specific requirements.
+4. Background
+The RPAA is a Canadian regulation introduced by the Bank of Canada to establish a regulatory
+framework for the oversight of PSPs and to protect the integrity of payment services, and the
+interest of end users. As a PSP operating under RPAA, Afterpay is required to comply with these
+requirements and by implementing this plan, Afterpay demonstrates its commitment to operational
+resilience, end-user protection, and regulatory compliance.
+5. Prerequisite Reading
+This document does not replace Block's existing incident plans and runbooks, rather it is to be
+used as an extension of existing processes to ensure Afterpay's alignment with the RPAA. It is
+recommended that DRIs directly or indirectly impacted by this plan familiarize themselves with the
+following:
+● BLOCK INFORMATION SECURITY INCIDENT RESPONSE PLAN
+● Security Incident Response Runbook
+● [Engineering] Incident Management at Square (go/sev)
+● Incident Severity Definitions & Thresholds
+● Incident Management Roles & Responsibilities
+● Counsel SEV Runbook - Privileged and Confidential
+● Afterpay Incident Management Policy
+● Privacy Incident Runbook
+6. Program Requirements
+6.1 Identification of Incidents
+Incidents may be identified through any of the following sources:
+● Automated monitoring systems
+● End-user reports or escalations
+● Internal staff
+
+● Third-party notifications
+● Compliance, Regulatory or law enforcement alerts
+Incidents will be assessed by the Afterpay Compliance Team, Risk and Legal Counsel as to
+whether they are deemed reportable incidents under the RPAA. Refer to the Afterpay Canada
+incident materiality threshold guidance Appendix A.
+Block Incident Identification
+● Security and Operational incidents are identified in a variety of ways. We will continue
+following the identification methods listed in Blockʼs IR and Square Engineering Incident
+Management. plans.
+● Incidents impacting Afterpayʼs critical or important functions – where malicious
+unauthorized access to network and information systems is identified, or where there is an
+adverse impact on the availability, authenticity, integrity, or confidentiality of data – will be
+assigned a criticality of P0/P1/SEV0/SEV1. Designations will consider other factors such as
+trend and impact assessments. For more information on security incident classifications,
+refer to Blockʼs incident response plans and runbooks.
+● All P0, P1 and SEV0, SEV1 incidents impacting Afterpay International and/or international
+Afterpay users, regardless of impact to Afterpayʼs CIF, will be escalated to the Afterpay
+Incident Team.
+Security Incidents
+● Analysis of past security incidents affecting Afterpay suggests material impacts on
+Afterpay's CIFs and generally P1 incidents.
+● While P2 incidents generally do not meet the reportable criteria thresholds, incident teams
+will share information as it becomes available, but no later than post-containment, to
+ensure readiness in the event that criticality increases. The escalation channel will be done
+via Slack at #afterpay-rpaa-incident-team on Slack.
+● Incidents with a P0/P1 designation will be escalated to the Afterpay Incident Team via Slack
+#afterpay-rpaa-incident-team on Slack.
+Operational Incidents SEVs
+● Operational incidents, also known as Engineering SEVs, ALERTs, or just SEVs, are managed
+differently from security incidents. These are typically created and managed by the
+engineering teams that support the impacted service.
+● Go/sevlevels requires a minimum designation of SEV1 for incidents with reputational or
+regulatory concerns.
+● Incidents with a SEV0/SEV1 designation impacting the Afterpay will be escalated to the
+Afterpay Incident team via the Incident.io and PagerDuty integration, prompting an email,
+text, and phone call.
+● While SEV2 incidents generally do not meet the reportable criteria thresholds, Incident.io
+will still notify the Afterpay Incident team when a SEV2 impacting Afterpay is declared to
+ensure readiness, in the event that criticality increases.
+● The first 24 hours of the incident are the most uncertain. Engineering teams will have
+more information on impact upon stabilization 4hrs from incident start time).
+
+Fraud and Non-Compliance Incidents
+● All fraud and non-compliance incidents are promptly reported within 48 hours in
+accordance with the Block Issue Management Program. These categories of incidents
+must be promptly identified, assessed, and escalated to the issue management team in
+coordination with AP Canada compliance, legal and risk teams to ensure containment,
+preservation of evidence and where applicable, regulatory reporting to the Board of
+Canada (refer to Reporting Incidents section). Root cause analysis will be conducted with
+corrective action implemented to prevent recurrence and all actions and findings must be
+documented and retained.
+6.1.2 Manual Classification of Incidents
+● With the support of Afterpay Canada Compliance and Afterpay Canada Legal Counsel, the
+Afterpay Incident Team will assess the incident against the RPAA incident reportable
+threshold .
+● If the team suspects the incident meets the RPAA reportable threshold, this workflow will
+be activated in parallel with Blockʼs existing incident plans.
+● Refer to the Incident Materiality Threshold Guide
+6.2 Assessing the Incident
+● Once an incident is identified and the Afterpay Canada Compliance team is notified, the
+Afterpay Canada Compliance team will engage and work with the Risk DRI and the Afterpay
+Canada Legal Counsel to help determine if the incident meets the material / reportable
+threshold under RPAA
+● If the incident is determined not to meet the material / reportable threshold under RPAA,
+continue to follow the Incident Management policy (including recording details of
+remediation).
+● For all incidents assessed Material or non-Material), Afterpay Compliance must record the
+assessment, the Materiality decision, the rationale for the Materiality decision and the
+Compliance, Risk and Legal Counsel approvers of the Materiality decision.
+● If the incident is determined to meet the RPAA reportable threshold, the Afterpay
+Compliance Team will work together with Afterpay Legal Counsel, Risk, the Responsible
+Manager/s, the CA Public Policy team and the relevant business risk owner to determine
+reportability. If necessary, an out of cycle Governance Risk and Compliance Committee
+meeting may be called to discuss the matter.
+6.3 Recording an incident
+● Incidents are to be managed in accordance with the Block ERM Issue Management
+Program and Block Incident Management Program.
+● Once identified, incidents must be recorded in the GRC Tool, which is the Afterpay GRC
+tool, within 5 business days. Guidance as to how to record incidents in the GRC Tool can be
+found here. It is the responsibility of ALL Afterpay employees to identify and record
+Incidents. Where the Incident is identified by the business, e.g. the product team, this team
+is responsible for entering the Incident into the GRC Tool.
+
+NOTE Only the Afterpay Compliance team, with advice from Legal Counsel, can determine
+whether an incident is "material" and reportable - it is important to not refer to an Incident
+as reportable until it has been determined as such by Afterpay Compliance, Risk and Legal.
+● To ensure the Afterpay Compliance team is notified of any Incidents which might
+potentially be deemed 'material' and 'reportable' as soon as possible, Afterpay has
+implemented the following escalation process:
+○ All Afterpay employees have direct access to contact the Afterpay Compliance
+team via email (canadacompliance@squareup.com) and Slack, and have been
+trained to report any incidents. When contacted via these channels, the Afterpay
+Compliance team will also direct the relevant Afterpay employee to enter the
+Incident into the GRC Tool to ensure there is the appropriate record of the Incident
+for audit and reporting purposes.
+○ The Afterpay Chief Compliance Officer and Afterpay Incident Lead will be notified
+through the Block Incident Slack channel of any operational or security incidents
+and performance failures. This ensures that there is adequate and appropriate
+Compliance awareness of any such incidents in real time.
+6.4 Reporting Incidents
+What type of incidents must Afterpay report to the BoC?
+Afterpay must report any payment-related incidents that materially impacts Afterpay's critical or
+important functions and that:
+● Disrupts or threatens Afterpay's payment functions
+● Compromises the confidentiality, integrity or availability of Afterpay's end-user data or
+funds, or;
+● Has a material impact on Afterpay's operations
+Refer to the incident materiality threshold guidance
+When to report to / notify BoC?
+● Initial notification must be submitted to the Bank of Canada as soon as possible and no
+later than 48 hours after Afterpay determines the incident is material.
+● If there are significant updates, an interim notification must be submitted within 72 hours of
+the initial notification.
+● A final report must be provided no later than one month after the last interim notification. If
+the deadline falls on a Canadian statutory holiday or weekend, the notification may be
+submitted by noon the next working day.
+● The report must be approved by the Afterpay Canada Chief Compliance Officer prior to
+submitting to the BoC
+● The licensing and regulatory reporting DRI is responsible for submitting the incident to BoC
+What information should be included in the report?
+The information Afterpay must share with BoC as part of the reporting process includes:
+● The description of the incident and how it was discovered
+
+● Classification
+● Timeline of events
+● Impact on end users or operations
+● Root case
+● Resolution measures, mitigation and recovery efforts
+● Any residual risks or unresolved issues
+Afterpay must also notify impacted end-users where applicable.
+6.5 Other Actions
+Where an incident is reportable to the BoC, the Afterpay Compliance team will also:
+● Ensure that Afterpay's accountable person is notified;
+● Report to the Governance, Risk and Compliance Committee;
+● Prepare a written report to the BoC in the manner required under RPAA and approved by
+the Afterpay Canada Chief Compliance Officer.
+Where a breach is not considered reportable, the Afterpay Canada Compliance Team will report
+the matter to the Governance, Risk and Compliance Committee and note it as such in the Incidents
+Register.
+6.6 Post-Incident Review
+Following resolution, a post-incident review shall be conducted by the Governance and Oversight
+Lead to assess root causes, mitigation effectiveness, and areas for improvement. Findings and
+lessons learned shall be documented, and internal knowledge bases and playbooks shall be
+updated as necessary. The Afterpay Incident Response Team shall review post-incident findings
+and make recommendations for future improvements.
+6.7 Review and Testing
+This plan shall be:
+● Reviewed annually; and
+● Tested at least once a year through tabletop or simulation exercises, or through real
+incidents that require regulatory reporting
+7. Compliance & Enforcement
+7.1 Roles and Responsibilities
+The listed roles and responsibilities outlined here are intended to strengthen collaboration and
+streamline information sharing for reporting incidents under RPAA. This is not an exhaustive list,
+but rather a high-level guide to understand the typical workflow for RPAA-compliant incident
+reporting. Detailed responsibilities are further elaborated in Blockʼs existing incident plans.
+
+● Compliance Governance and Oversight Lead: As part of the Afterpay's Incident Team, this
+DRI is responsible for overseeing all major incidents impacting Afterpay, validating
+classification, ensuring Afterpay carries out timely reporting and notification to the BoC and
+end-users (where applicable).
+● Chief Compliance Officer: The CCO or delegate is the DRI responsible for sharing the
+incident notification and reports with the BoC. This function will be executed in partnership
+with the Canada Legal Counsel team.
+● Afterpay Canada Compliance Team: The Afterpay Compliance Team forms part of the
+local Afterpay Incident Team is responsible for assessing and managing incidents in
+ProTecht.
+● Legal Counsel: Legal Counsel supports incidents where an incident impacts Afterpay's
+clients or products. DRI should be consulted for guidance, including reviewing & approving
+all external communications to the BoC and end-users
+● External Communications: Responsible for supporting the Reporting Liaison, as needed, in
+crafting external communications to the BoC.
+● Block Incident Team: The Security and Operational Incident teams will be established per
+Blockʼs existing incident plans. DRIʼs are responsible for escalating incidents to the Afterpay
+Canadaʼs Incident team where a Material incident (refer to the Materiality Threshold),
+P0/SEV0, P1/SEV1, or P2/SEV2 priority is designated impacting Afterpay Canada. Block
+Incident teams are responsible for providing up-to-date information about the incident, as it
+becomes available, through the final phase of the incident and may support root-cause
+analysis.
+● Privacy Counsel: Privacy Counsel supports Afterpay incidents where a data breach is
+suspected impacting significant data loss. Upon this incident type, Privacy DRI should be
+consulted and provide guidance, including reviewing & approving all external
+communications (i.e. to the BoC, relevant regulator/s, impacted individuals and / or
+partners) alongside Afterpay Legal Counsel and Afterpay Incident Team.
+● Afterpay Incident Response Team (#afterpay-rpaa-incident-team on Slack) : Local team
+responsible for overseeing all incidents impacting Afterpayʼs systems, end-users or
+services. This is the body which is ultimately responsible for determining which an incident
+should be classified as ‘materialʼ, whether an incident is reportable, sign-off of
+communication plans, sign-off of remediation plans and assessing customer impacts. This
+body is supported by the Incident Team. DRIs are also responsible for staying up-to-date
+on all incident management and reporting regulatory requirements, such as RPAA.
+● Security Governance Risk and Compliance: Is responsible for ensuring Block's
+compliance with data governance standards and regulations, minimizing risk and impact
+during incidents, and ensuring that all actions adhere to applicable laws, country specific
+requirements, regulations, and industry standards.
+● Enterprise Risk Management: ERM serves as a 2LoD in the Afterpay Canada Incident
+Response Management Plan. ERM is responsible for developing and maintaining the
+enterprise-wide Issue Management Framework applicable to Afterpay Canada. It supports
+the identification, escalation, and classification of all issues including material incidents
+under the RPAA.
+
+7.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+7.3 Training
+The Afterpay Canada Compliance team will establish and implement an RPAA training program to
+ensure that all employees, contractors, and third parties involved in Afterpay's retail payment
+activities understand their roles and responsibilities related to incident detection, escalation, and
+reporting under the RPAA.
+Training Objectives:
+● Educate staff on RPAA requirements and the materiality threshold for incidents;
+● Ensure staff understand how to identify and escalate potential incidents;
+● Promote consistent usage of reporting tools such as Protecht and designated Slack
+channels;
+● Provide specialized training for Compliance, Legal, and Engineering teams on
+RPAA-specific reporting obligations; and
+● Reinforce the importance of timely communication and regulatory notification
+requirements.
+Program Components:
+● Mandatory onboarding training for all new hires involved in Afterpay's retail payment
+activities;
+● Annual refresher training will be provided to all relevant staff;
+● The Compliance Team will track participation in training sessions and completion rates;
+● Audit logs will be maintained to demonstrate compliance with training requirements; and
+● Refresher training will be provided to employees who fail to comply with the incident
+response procedures.
+
+7.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+All incident-related records, including communications, logs, and reports, must be retained for at
+least five 5 years in compliance with the RPAA.
+7.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+8. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program owner.
+Review related documents:
+● Afterpay Canada Operational Risk Management Standard
+● Afterpay Canada Responsibility Matrix for ORM Standard
+9. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Block is committed to continuously reviewing policies, policy supplements, and procedures, on at
+least an annual basis and reserves the right to amend this document at any time, for any reason,
+subject to applicable law. Amendments and modifications must be reviewed and approved by the
+Afterpay Canada Chief Compliance Officer.
+Approval History:
+Approver Title Type Description Date
+Safiya Adenekan Canada Chief Initial Approval Creation July 4, 2025
+Compliance
+Officer
+Afterpay Canada Board August 8, 2025
+Board of
+Directors
+
+Document Details:
+Business Afterpay
+Scope Canada
+Compliance Domain Compliance Governance
+Document Owner Canada Regulatory Compliance Lead
+Approved By Afterpay Canada Board
+Document Tier Tier 2
+
+Appendix A
+Afterpay Canada Guidance on the Classification Criteria and
+Thresholds for Material Incidents under the RPAA
+An incident is classified as "Material" if:
+1) Critical services are affected and
+2) (i) any malicious unauthorized access to network and information systems is identified,
+which may result in data losses, or
+(ii) the thresholds of two additional criteria from the below table are met.
+Criteria Criteria Threshold/ Criteria Details Triggered
+Category Condition Yes /No
+Mandatory Critical Services Any impact on Critical
+Condition Affected critical services Services:
+or functions Services that
+performed by or impact any of the
+for Afterpay critical functions
+that support the
+performance and
+delivery of
+Afterpay's retail
+payment
+activities.
+Additional Clients, a) 10% of all Clients and
+Classification Financial clients using the Counterparts:
+Criteria Counterparts affected service Includes all
+and b) 100,000 parties unable to
+Transactions clients using the use or adversely
+affected service impacted by the
+c) 30% of service,
+financial including
+counterparts contractual
+used d) 10% of beneficiaries.
+daily avg.
+number or
+amount of
+transactions e)
+Any identified
+impact on
+
+Criteria Criteria Threshold/ Criteria Details Triggered
+Category Condition Yes /No
+clients/counterp
+arts
+Data Losses Any impact on Data Losses:
+availability, Availability:
+authenticity, Temporarily or
+integrity, or permanently
+confidentiality of inaccessible/unu
+data adversely sable data.
+affecting Authenticity:
+business Compromised
+objectives or trustworthiness.
+regulatory Integrity:
+requirements Unauthorized
+modification.
+Confidentiality:
+Unauthorized
+access/disclosur
+e.
+Reputational a) Media Reputational
+Impact coverage b) Impact: Media
+Repetitive coverage,
+complaints c) complaints,
+Regulatory regulatory
+non-compliance non-compliance,
+d) Loss of clients or client loss.
+or financial
+counterparts
+with material
+impact
+Duration and a) Incident 24 Duration/Downti
+Service hours b) me: Measured
+Downtime Downtime 2 from incident
+hours for critical onset/detection
+Technology / to resolution.
+Engineering / Downtime
+Platform services measured from
+service
+unavailability to
+full restoration.
+
+Criteria Criteria Threshold/ Criteria Details Triggered
+Category Condition Yes /No
+Economic Costs/losses Economic
+Impact exceed $100,000 Impact: Includes
+liability, theft,
+compensation,
+lost revenue,
+advisory costs,
+etc.

@@ -1,0 +1,674 @@
+Employee and Personnel Due Diligence Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 26, 2026
+Effective Date: Mar 26, 2026
+1. Overview
+Introduction and Purpose: The Employee and Personnel Due Diligence Program (the “Programˮ)
+details Square AUʼs risk based approach to screen employees and personnel to minimise the risks
+that they may commit, or assist others in committing money laundering, financing of terrorism
+(“ML/TFˮ) or other financial crime offences.
+The purpose of this Program is to establish and maintain an effective framework for assessing and
+managing the risks associated with employing or engaging individuals who may be involved in
+activities that could facilitate money laundering, terrorist financing, or proliferation financing. This
+program is designed to ensure that all personnel , particularly those in roles that influence
+AML/CTF outcomes or have access to sensitive financial information or decision-making authority
+over high-risk activities, undergo thorough background checks and risk-based ongoing
+monitoring. By identifying and mitigating potential risks early, the program helps protect Square AU
+from reputational, legal, and financial harm, while ensuring compliance with the AML/CTF Act and
+supporting the ongoing effectiveness of Square AUʼs AML/CTF controls.
+Scope: The Program applies to all employees (including full time, part time and casual workers)
+and directors (collectively known as “employeesˮ) of Square AU, and personnel (including
+individuals employed or otherwise engaged by Square AU who perform functions relevant to its
+AML/CTF obligations).
+Where individuals are engaged through employment agencies or other third-party arrangements,
+Square AU satisfies its personnel due diligence obligations through contractual screening
+requirements and oversight mechanisms agreed with the relevant agency or provider.
+Due diligence procedures, including background checks appropriate to the AML/CTF risk of the
+role, are conducted by the employment agency pursuant to the applicable services agreement.
+Square AU reserves the right to review, test and audit the agencyʼs screening procedures and
+
+requires hiring managers to attest that screening proportionate to the risk of the role has been
+completed prior to commencement.
+The Program applies when Square AU transfers contractors into permanent roles as direct hires of
+Square AU.
+Program Requirements Square AU adopts a risk-based approach to Employee and Personnel Due
+Diligence. Personnel performing functions relevant to Square AUʼs AML/CTF obligations are
+subject to formal due diligence requirements proportionate to their level of financial crime risk,
+regulatory exposure, and decision-making authority.
+In addition, to address risks arising from broader organisational structures and cross-functional
+responsibilities, Square AU applies baseline due diligence measures across all employees to
+support consistent risk management, governance, and oversight.
+Definitions:
+Terminology Definition
+Anti-Money Set of laws, regulations and procedures designed to detect and deter
+Laundering (“AMLˮ) Money Laundering (“MLˮ), Terrorist Financing (“TFˮ), and any other
+financial crimes.
+AUSTRAC The Australian Transaction Reports and Analysis Centre (‘AUSTRACʼ), which
+performs a dual role as AML and CTF regulator and financial intelligence unit.
+Counter-Terrorist Set of laws, regulations and measures designed to detect, prevent and
+Financing (“CTFˮ) disrupt the flow of funds to terrorist organisations and activities.
+Employee and The process by which businesses conduct background checks and ongoing
+Personnel Due monitoring of employees and personnel to ensure they are not involved in
+Diligence (“EPDDˮ) money laundering, terrorist financing, or other illegal activities.
+The Anti-Money As part of its broader regulatory compliance obligations, Square AU Pty Ltd
+Laundering and (“Square AUˮ) is required to comply with the Anti-Money Laundering and
+Counter-Terrorism Counter-Terrorism Financing Act 2006, as amended from time to time. The
+Financing Act 2006 AML/CTF Act is designed to deter, detect and disrupt money laundering and
+(“AML/CTF Actˮ) terrorism financing.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 2
+
+Politically Exposed A PEP is an individual who holds a prominent public position or role in a
+Persons (“PEPsˮ) government body or international organisation, either in Australia or
+overseas. Immediate family members and/or close associates of these
+individuals are also considered PEPs.
+Employee Means an individual who is directly employed by Square AU under a contract
+of employment (whether full-time, part-time, or casual), and who performs
+duties for or on behalf of Square AU.
+Personnel Means any individual employed or otherwise engaged by Square AU,
+including persons deployed, seconded, contracted or supplied through an
+Outsourced Service Provider, who perform or will perform functions
+relevant to Square AUʼs obligations under the AML/CTF Act.
+Designated Service A service that is listed in section 6 of the AML/CTF Act.
+Roles and Responsibilities
+Role Responsibility
+Square Australia Acts as the designated Senior Manager for approvals required under the
+(“AUˮ) Chief AML and CTF Act and Rules, including approving the Employee and
+Compliance Officer Personnel Due Diligence Program and any material updates to it.
+(“CCOˮ)
+Square AU Act as the AML/CTF Compliance Officer to oversee and coordinate the
+Regulatory Program operational functions of the Employee and Personnel Due Diligence Program
+Manager in compliance with local regulatory requirements, ensures that all due
+diligence processes, including onboarding, screening, and ongoing checks,
+are implemented effectively and consistently, and is responsible for
+reporting.
+The Trust & Safety Responsible for protecting employees and personnel, assets and information
+team of Block.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 3
+
+2. Role-Level Risk Assessment Framework
+Square AU applies a role-level risk assessment methodology to determine the appropriate level of
+Personnel Due Diligence (“PDDˮ) required for Personnel.
+This assessment recognises that roles present varying levels of exposure to money laundering and
+terrorism financing (“ML/TFˮ) risk based on their access, authority, decision-making capacity and
+influence over AML/CTF controls.
+Square AU conducts personnel due diligence both prior to employment or engagement and on an
+ongoing basis during employment.
+This approach is designed to ensure that personnel due diligence is risk-based, proportionate to
+the AML/CTF risk exposure of the role, and aligned with Square AUʼs broader AML/CTF
+compliance obligations.
+The purpose of the role-level assessment is to ensure that personnel due diligence measures are
+proportionate to:
+● The level of decision-making authority exercised by the role;
+● The roleʼs ability to influence or design AML/CTF controls;
+● Access to regulatory reporting functions;
+● Access to sensitive customer or business information;
+● The potential impact on Square AUʼs AML/CTF compliance obligations if the role fails.
+The role-level assessment applies to all Personnel performing AML/CTF functions across Square
+AU, including oversight, investigations, onboarding, detection, escalation and customer-facing
+functions where relevant.
+The outcomes of this assessment inform the allocation of roles into the appropriate EDD Screening
+Package and are documented in Appendix A.
+2.1. Roles and Methodology
+2.1.1. Identification of Personnel Performing AML/CTF Functions
+Square AU identifies all personnel who perform, or are responsible for overseeing, influencing or
+supporting functions relevant to Square AUʼs obligations under the AML/CTF Act.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 4
+
+This includes people who:
+● Hold AML/CTF governance roles, such as governing body, senior manager(s) and
+AML/CTF compliance officer;
+● Have responsibilities under the AML/CTF program;
+● Work in roles that could be exposed to ML/TF risks;
+● Perform any other functions or roles that support or help perform your AML/CTF
+obligations.
+Only roles identified as performing AML/CTF functions are subject to role-level AML/CTF risk
+assessment under this Program.
+2.1.2. Methodology
+Square AU applies a structured role-level risk assessment to determine the AML/CTF exposure
+associated with each identified AML/CTF role.
+The assessment evaluates the nature and extent of the roleʼs authority, control influence and
+potential regulatory impact. In particular, Square AU considers whether the role:
+● Designs, approves or materially influences AML/CTF policies, procedures or frameworks;
+● Holds authority to approve or escalate high-risk customers;
+● Has access to and/or authorises regulatory reporting submissions;
+● Has the ability to override or bypass internal controls;
+● Configures or influences transaction monitoring rules or detection parameters;
+● Amends customer risk ratings or audit trails;
+● Implements process exemptions or manual workarounds;
+● Manages outsourcing or third-party arrangements impacting AML/CTF controls;
+● Has access to highly sensitive business or customer information.
+Each role is assessed by these factors and assigned an Overall Risk Rating that can be found in
+Appendix A.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 5
+
+The Overall Risk Assessment reflects the highest level of authority, systemic influence or regulatory
+exposure exercised by the role.
+This methodology ensures that the level of personnel due diligence applied is proportionate to the
+AML/CTF risk presented by the role.
+2.1.2.1. Determination of High Risk Roles
+Roles classified as High risk are those that:
+● Hold concentrated AML/CTF decision-making authority;
+● Exercise systemic control influence over AML/CTF frameworks;
+● Have direct responsibility for regulatory compliance oversight; or
+● Have the capacity to create material regulatory or systemic exposure if control failure
+occurs.
+Based on the current role-level assessment, the following roles are classified as High risk:
+● CCO Senior Manager)
+● AMLCO
+All other identified AML/CTF roles are currently classified as Medium or Low risk and are subject to
+standard screening measures.
+The role-level risk assessment is reviewed periodically and updated where responsibilities, authority or
+risk exposure materially change.
+●
+A simplified checklist with the relevant role risk factors can be found in Appendix B.
+2.2. Due Diligence Process
+Due diligence checks must be conducted for employees and personnel prior to being onboarded
+to Square AU, or as soon as practical, after being onboarded. This ensures maximum mitigation of
+the risk of involvement in money laundering or terrorism financing activities. For the purposes of
+EDD, roles are classified into two packages of increasing levels of risk. Screening will occur for
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 6
+
+prospective employees and personnels as well as existing employees and personnels who may be
+transferred / promoted into a higher risk role.
+The type of checks performed are dependent on the outcome of the assessment of the role.
+Screening is performed using Blockʼs third party vendor First Advantage (“First Advantageˮ).
+A full summary of the screening packages available via First Advantage can be found in Appendix
+D.
+2.2.1. Onboarding Checks
+All offers of employment or engagement are contingent upon the satisfactory completion of
+pre-employment due diligence screening in accordance with this Program.
+All employees will at a minimum be screened for
+● Global Sanctions
+● Criminal History
+● Employment History 7 years or up to 3 employers)
+● Identity Verification
+● Work Eligibility (right to work)
+● Adverse Media
+● Anti Money Laundering
+● Politically exposed persons
+As required:
+● Education/Qualification
+○ This check is only to be applied to individuals in roles that require an
+education/qualification check. Recruiters are to notify T&S to add on manually
+● Bankruptcy
+○ This check is only to be applied to individuals who work in the health claiming
+product space to meet our MSA requirements
+Those employees identified as being in a Package 2 Role will be required to go through
+additional screening for
+● APRA Disqualification Check
+● ASIC banned and disqualified search
+● ASIC authorised representative register
+● Education/Qualification
+● Civil Litigation Search
+● Credit check
+Any screening results that contain adverse findings should be referred to the appropriate team
+members for review on a case-by-case basis. This includes escalation to the Trust & Safety team
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 7
+
+who work with the Employment Counsel, Compliance, Hiring Managers and other SMEs to
+determine any necessary courses of action. Block ANZ reserves the right to terminate / cease
+employment as a result of the review.
+2.2.2. Personnel Suitability and Integrity Assessments
+Square AU applies a risk-based approach to assessing the suitability of personnel performing
+AML/CTF-related functions.
+Personnel are required to demonstrate appropriate levels of integrity, and possess the skills,
+knowledge and expertise necessary to perform their AML/CTF responsibilities, commensurate with
+the nature, complexity and risk exposure of their role.
+Integrity is assessed through pre-employment screening processes conducted via Square AUʼs
+approved screening provider, including identity verification, sanctions and adverse media
+screening, and other background checks proportionate to the risk of the role.
+In addition to integrity screening, Square AU assesses whether Personnel possess the skills,
+knowledge and expertise required to perform their AML/CTF responsibilities. This assessment may
+include consideration of:
+● Prior AML/CTF experience;
+● Relevant qualifications;
+● Understanding of ML/TF risks and AML/CTF obligations;
+● Role-specific interviews or knowledge assessments, where appropriate.
+The level of assessment is proportionate to the authority, complexity and AML/CTF risk exposure
+associated with the role.
+Assessments are conducted prior to commencement of AML/CTF-related functions and form part
+of Square AUʼs ongoing personnel due diligence framework.
+Where integrity concerns or capability gaps are identified, Square AU may implement appropriate
+risk mitigation measures, including enhanced supervision, targeted training, reassignment of
+responsibilities or, where necessary, removal from AML/CTF-related duties.
+More stringent fit and proper requirements apply to designated roles, including the AML/CTF
+Compliance Officer, in accordance with applicable regulatory expectations.
+2.2.3. Transfer/Promotions Checks
+Square AU employees who are transferred or promoted to a role associated with higher levels of
+ML/TF risk, will also undergo additional due diligence.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 8
+
+Employees historically in a role classified for Package 1 and being transferred or promoted to a role
+requiring Package 2 will be screened for:
+● APRA Disqualification Check
+● ASIC banned and disqualified search
+● ASIC authorised representative register
+● Education/Qualification
+● Civil Litigation Search
+● Credit check
+Where a personnel assumes materially expanded AML/CTF decision-making authority or control
+influence, Square AU will reassess the individualʼs suitability under the Fit and Proper
+requirements. This may include additional integrity screening and/or reassessment of AML/CTF
+skills, knowledge and expertise proportionate to the risk profile of the new role.
+2.3. Other Considerations
+2.3.1. Additional Due Diligence
+In addition to the due diligence process described above, the below considerations should be
+applied if the hiring manager, talent acquisition and/or Trust and Safety deem the checks
+performed were insufficient to the commensurate risk of the personnel :
+● Seek advice from the Square AU CCO/Senior Manager to determine whether to proceed with
+the appointment or assess the implications of the personnel's role. Depending on the
+outcome, further checks may be required, such as:
+○ Bankruptcy checks where risks are identified in relation to financial management;
+○ Further checks where risks are identified in relation to personnel who have a working
+history in high risk countries.
+2.3.2. Other Obligation
+All employment checks performed through First Advantage include appropriate consents which
+must be agreed upon by the candidate prior to proceeding. Any information collected about
+candidates is used, stored, shared and maintained in accordance with the Block Information
+Security Policy.
+Outcomes of checks performed through First Advantage are kept for a minimum of 7 years, in
+adherence to local laws and regulations.
+Square AU maintains records reasonably necessary to demonstrate compliance with personnel
+due diligence obligations, including risk classification, screening outcomes, reassessments and
+decisions taken in response to adverse findings.
+2.3.3. Mandatory AML/CTF Training
+All Square AUʼs employees receive general AML/CTF risk awareness training to support
+understanding of Square AUʼs AML/CTF obligations and the importance of identifying and
+escalating suspicious activity.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 9
+
+Personnel performing AML/CTF related functions must complete additional role-specific AML/CTF
+training appropriate to their responsibilities and ML/TF risk exposure, in accordance with Square
+AUʼs AML/CTF Risk Awareness Training Program.
+2.3.4. Employee Code of Conduct and Obligations
+All Square employees and personnel are expected to read and accept the and uphold the Code of
+Business Conduct and Ethics (“Codeˮ) in their day-to-day activities. All employees and personnel
+are additionally expected to comply with all the systems, controls, policies and procedures
+established within their respective functions, in accordance with this Program and the Anti-Money
+Laundering & Counter-Terrorism Financing Program.
+2.3.5. Consequences of Non-Compliance
+For all employees and personnel who fail, with no reasonable reason, to comply with the above,
+Square AU may take the below action(s) (in accordance with applicable local law), depending on
+the scale and seriousness of the violation:
+● Deliver individual feedback to address errors, mistakes, or areas of improvement
+● Conduct refresher or targeted training
+● Issue formal verbal and/or written warnings
+● Schedule performance improvement plans
+● Terminate employment
+Where personnel due diligence or internal monitoring identifies integrity concerns, capability gaps
+or performance deficiencies relating to AML/CTF responsibilities, Square AU will take
+proportionate action based on severity. Actions may include enhanced supervision, targeted
+training, reassignment of AML/CTF duties or disciplinary action in accordance with internal
+policies. All decisions and actions taken are documented.
+2.3.6. Restricted Access to Systems
+Access to Square AUʼs internal systems and customer information is highly restricted, where
+access is usually reviewed and approved by team leads. Access to customersʼ secret Personal
+Identifiable Information (“PIIˮ) goes through periodic audit and expiration. In addition, all Square AU
+personnel are governed by the Block Information Security Program which sets out the
+classification of sensitive data elements and the storage, access and other processing
+requirements for each classification. These controls, in turn, mitigate the risks of personnel
+abusing their access to assist in ML/TF activities.
+2.3.7. Additional Controls
+The Trust & Safety team, in consultation with DRIs, reviews all personnel screening packages in
+First Advantage, on a periodic basis.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 10
+
+The Trust & Safety team additionally implemented an internal mobility auditing control. This
+includes a control for auditing the process which involves the investigation of a monthly report to
+determine if any transfers / internal promotions have occurred without conducting the appropriate
+level of due diligence.
+2.4. Ongoing Personnel Due Diligence
+Square AU applies ongoing suitability monitoring on a risk-based basis to personnel performing
+AML/CTF-related functions. Ongoing monitoring is designed to ensure that personnel continue to
+meet integrity, competence and conduct expectations appropriate to their role.
+Ongoing monitoring may include, where proportionate to the AML/CTF risk classification of the
+role:
+● Periodic re-screening aligned to the personnel's assessed AML/CTF risk level;
+● Review of adverse information where identified;
+● Reassessment following material changes in role authority or AML/CTF responsibilities;
+● Reassessment following significant AML/CTF control failures within the personnel's area
+of responsibility;
+● Reassessment following regulatory developments materially impacting the personnel
+function;
+● Reassessment following disciplinary findings relating to integrity or compliance matters.
+Ongoing suitability monitoring also includes consideration of whether personnel continue to
+possess the skills, knowledge and expertise required to perform their AML/CTF responsibilities.
+This may include review of training completion, quality assurance outcomes and demonstrated
+application of AML/CTF policies.
+The nature, scope and frequency of ongoing monitoring measures are determined proportionately,
+taking into account the AML/CTF risk associated with the role, authority and responsibilities.
+Periodic re-screening applies to High AML/CTF risk roles at least every two 2 years.
+Medium and Low AML/CTF risk roles are not subject to routine periodic re-screening and are
+instead reassessed on a trigger-based basis, including where there is a role change, promotion,
+material change in risk exposure, adverse information identified, or other integrity concerns.
+Square AU retains discretion to conduct earlier reassessment where risk indicators, control
+deficiencies, role changes or other relevant factors arise.
+Outcomes of ongoing suitability monitoring are documented and retained in accordance with
+recordkeeping requirements and are subject to governance oversight under this Program.
+2.5. Trigger-Based Reassessment
+In addition to onboarding and promotion checks, reassessment of suitability may occur where
+events arise that could materially affect a personnel's fitness to perform AML/CTF responsibilities.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 11
+
+Trigger events include, but are not limited to:
+● Promotion into higher-risk compliance or oversight roles;
+● Significant changes in Square AUʼs ML/TF risk profile affecting the role;
+● The personnel becomes subject to adverse media, criminal proceedings or regulatory
+investigation;
+● A material AML/CTF control failure is identified within the personnel's area of responsibility;
+● The personnel is subject to disciplinary action relating to integrity or compliance matters.
+All trigger-based reassessments must be documented and retained in accordance with
+record-keeping requirements.
+3. Compliance & Enforcement
+3.1. Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.2. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.3. Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 12
+
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.4. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+● Square AU | Anti-Money Laundering & Counter-Terrorism Financing Policies
+● Square AU | Anti-Money Laundering & Counter-Terrorism Financing Risk Awareness
+Training Program
+● Proposed ANZ Background Check Packages
+● Block information security policy
+● Compliance New Hire Training Record
+● Code of Business Conduct and Ethics
+● Anti-Money Laundering and Counter-Terrorism Financing Act 2006
+● Anti-Money Laundering and Counter-Terrorism Financing Rules Instrument 2007 No. 1
+● Anti-Money Laundering and Counter-Terrorism Financing 2025 Rules) Amendment Rules
+2026
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approver Title Type Description Date
+Ying Li Square AU CCO Creation First issuance of March 28, 2018
+document
+(previous version
+here)
+Ying Li Square AU CCO Scheduled R… Annual review of November 9, 2018
+document
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 13
+
+● Added risk
+assessment
+of
+employees
+● Added
+additional
+due
+diligence for
+high
+Ben Gray Chief Compliance Material Cha… Approval. November 9, 2018
+Officer
+Jing Wang / Square AU Scheduled R… Annual review of April 27, 2020
+Christie Yeung Compliance document
+Analyst ● Added
+quarterly
+audit
+● Updated
+roles and
+groups
+● Updated risk
+assessment
+and rating
+● Added
+localised AU
+employee
+handbook
+● Updated due
+diligence for
+external
+directors
+Ying Li Square AU CCO Material Cha… Approval. April 27, 2020
+Jing Wang / Square AU Scheduled R… Annual review of May 7, 2021
+Christie Yeung Compliance document
+Analyst ● Added
+Credit Risk
+Team in
+High Risk
+Group
+● Added
+timeline for
+Enhanced
+Training for
+High Risk
+Group
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 14
+
+Lance Howard Square AU CCO Material Cha… Approval. May 7, 2021
+Jing Wang Square AU Scheduled R… Annual review of June 17, 2022
+Compliance document
+Program Manager
+Lance Howard Square AU CCO Material Cha… Approval. June 17, 2022
+Jing Wang Square AU Scheduled R… Annual review of November 21,
+Compliance document and 2023
+Program Manager update according
+to internal testing
+outcome
+Lance Howard Square AU CCO Immaterial C… Approval. November 27,
+2023
+Jing Wang Square AU Scheduled R… Annual review of December 06, 24
+Compliance document and
+Program Manager update
+Lance Howard Square AU CCO Immaterial C… Approval. December 11, 24
+JING WANG Square AU Scheduled R… Annual Review of March 20, 2026
+Regulatory the Document
+Program Manager and AML/CTF
+Reforms
+Lance Howard Square AU CCO Material Cha… ● Updates to March 26, 2026
+the Employee
+Due Diligence
+Program to
+reflect
+AML/CTF
+reforms
+● Refinement of
+the risk-based
+approach for
+identifying
+higher-risk
+personnel
+roles
+● Clarification
+of due
+diligence
+requirements
+across
+different
+employee and
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 15
+
+personnel
+categories
+● Updates to
+background
+screening and
+integrity
+assessment
+requirements
+● Updates to
+documentatio
+n and record -
+keeping
+requirements
+to support
+AML/CTF
+compliance
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Financial Crimes
+Document Owner Square AU RegulatoryProgram Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+Appendix A Role-Level Assessment
+Risk Factor / CCO (Senior AMLCO Program KYC ECDD TM Customer Team Leads
+Role Level Manager) Manager (Detection Success /
+Team) Facing
+Design or
+influence changes
+H H H L L L L M
+to AML/CTF
+policies
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 16
+
+Authorise
+investments or L M L H H L L M
+payments
+Have access to
+and authorise
+reports to be M M M L M M L M
+submitted (IFTI,
+TTR, SMR)
+Override or
+bypass internal H H L M M M L M
+controls
+Handle high value
+transactions or
+L L L L L L L L
+physical currency
+(cash)
+Approve or
+escalate high-risk H H H L M M L M
+customers
+Amend customer
+risk profiles or M M L L M L L M
+related audit trails
+Change
+processes, such
+as temporary
+exemptions or a H H H M M M L M
+manual
+work-around of
+protocols
+Manage and
+authorise
+outsourcing or M L L L L L L M
+contracting
+arrangements
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 17
+
+Have access to
+highly sensitive
+business or H H H H H H M H
+customer
+information
+Overall Risk
+High High Medium Medium Medium Medium Low Medium
+Rating
+Level of EDD Package 2 Package 2 Package 1 Package 1 Package 1 Package 1 Package 1 Package 1
+Required
+Re-screening 2 Years 2 Years N/A N/A N/A N/A N/A N/A
+Frequency
+Appendix B Role Level Checklist
+Risk Factor If criteria is met
+All Employee Package 1
+Employee has a fiduciary responsibility to Block Package 2
+I.e. Employee Directors, Board Members, Senior Managers, AML Officers
+Employee is performing a control function at Block or is licensed by a financial regulatory authority or Package 2
+other body
+I.e. Designated Roles (Responsible Manager for AFSL in Australia)
+Appendix C Decision Matrix for Square AU Candidates
+Decision Matrix for ANZ Candidates1 Choose Package
+Employee is performing a control function at Square AU or is licensed by a financial ANZ Package 2
+regulatory authority or other body
+A. Employee Directors / Board Members
+B. Senior Managers
+C. AML Compliance Officers
+1 Examples of Job Titles which are included in each category can be found in Appendix E.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 18
+
+Decision Matrix for ANZ Candidates1 Choose Package
+D. Designated Roles (positions that under law or regulatory guidance, require specific due
+diligence obligations to be carried out e.g. Responsible Manager for AFSL in Australia)
+E. Any other high-risk role
+All Other Roles ANZ Package 1
+A.
+Employee was historically in a role associated with Package 1 and has been transferred / ANZ Transfer/Promotion
+internally promoted to a role requiring Package 2 Package 2
+Appendix D First Advantage Employee Screening
+Packages
+Proposed Package Package inclusions
+ANZ Package 1 ● Global Sanctions
+● Criminal History
+All employees ● Employment History 7 years or up to 3
+employers)
+● Identity Verification
+● Work Eligibility (right to work)
+● Adverse Media
+● Anti Money Laundering
+● Politically exposed persons
+As required:
+● Education/Qualification
+○ This check is only to be applied to
+individuals in roles that require an
+education/qualification check. Recruiters
+are to notify T&S if it needs to be added
+on manually
+● Bankruptcy
+○ This check is only to be applied to
+individuals who work in the health
+claiming product space to meet our MSA
+requirements.
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 19
+
+ANZ Package 2 ● Global Sanctions
+● Criminal History
+Employee is any of the following: ● Civil Litigation Search
+● Employee Directors / Board ● Employment History 7 years or up to 3
+Members employers)
+● Senior Managers ● Identity Verification
+● AML Officers ● Work Eligibility (right to work)
+● Designated Roles (positions that ● Adverse Media
+under law or regulatory guidance, ● Anti Money Laundering
+require specific due diligence ● Politically exposed persons
+obligations to be carried out e.g. ● Credit check
+Responsible Manager for AFSL in ● Bankruptcy Register Search
+Australia) ● APRA Disqualification Check
+● Any other high-risk roles ● ASIC banned and disqualified search
+● ASIC authorised representative register
+● Education/Qualification
+ANZ Transfer/Promotion Internal) ● Education/qualification
+● Bankruptcy
+Employee was historically in a role ● Criminal History (if no previous criminal history
+associated with Package 1 and has been was performed)
+transferred / internally promoted to a role
+requiring these checks (to be ordered individually as required, not as a package)
+ANZ Transfer/Promotion Package 2 ● Global Sanctions
+Internal) ● Criminal History
+● Civil Litigation search
+Any employee moving from Package 1 ● Education/qualification
+roles into Package 2 roles must undergo ● Adverse Media
+screening in accordance with the ● Anti Money Laundering
+requirements applicable to Package 2. ● Politically exposed persons
+● Credit check
+● Bankruptcy Register Search
+● APRA Disqualification Check
+● ASIC banned and disqualified search
+● ASIC authorised representative register
+Personnel Due Diligence Program | Square | Square AU Pty Ltd 20

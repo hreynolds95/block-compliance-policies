@@ -1,0 +1,206 @@
+Military Lending Act (“MLAˮ) Policy
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+1. Overview
+Introduction and Purpose: This Military Lending Act Policy (the "Policy") outlines Block's
+enterprise-wide approach to compliance with the Military Lending Act ("MLA"). The purpose of this
+Policy is to establish comprehensive guidelines governing Block, Inc., and its U.S. subsidiaries'
+compliance with the MLA, ensuring consistent operations while maintaining brand-specific
+flexibility, where applicable. Block's Business Product Compliance Lead, Lending & Credit, and/or
+their designee, is responsible for the management of this Policy.
+Scope: This Policy applies to all Consumer Credit products offered by Block, Inc., its subsidiaries,
+and affiliates (collectively, "Block") in the United States, including, but not limited to installment
+loans, buy-now, pay-later products, and other forms of consumer lending. The only exception is
+Square Financial Services (“SFSˮ), Blockʼs Utah state-chartered Industrial Bank federally regulated
+by the Federal Deposit Insurance Corporation, which has its own Compliance Program.
+Definitions:
+Terminology Definition
+Consumer Credit Credit offered or extended to a Covered Borrower primarily for personal,
+family, or household purposes.
+Creditor A creditor under the MLA is a person who is:
+● Engaged in the business of extending consumer credit; or
+● An assignee of a person engaged in the business of extending
+consumer credit with respect to any consumer credit extended.
+Covered A consumer who, at the time the consumer becomes obligated on a
+Borrower Consumer Credit transaction or establishes an account for Consumer Credit,
+is a Covered Member of the armed forces or a Dependent of a Covered
+Member.
+
+Covered Members of the Army, Navy, Marine Corps, Air Force, or Coast Guard
+Member currently serving on active duty under a call or order that does not specify a
+period of 30 days or fewer, or such a member serving on Active Guard and
+Reserve duty.
+Dependent With respect to a Covered Member, a Dependent means:
+● The Covered Member's spouse
+● Children under the age of 21
+● Children under the age of 23 enrolled in an accredited institution of
+higher learning who are dependent on the Covered Member for over
+half of their support
+● Children of any age that are incapable of self-support.
+Other relationships may qualify as Dependents, and employees should
+consult compliance.
+Military Annual The cost of the Consumer Credit expressed as an annual rate, calculated in
+Percentage Rate accordance with 32 CFR 232.4(c). The MAPR for covered transactions must
+(“MAPRˮ) not exceed 36 percent.
+Active Service Also known as "active duty" or "active status." A person who is on active
+duty in the military full-time for a period of greater than 30 days. They work
+for the military full-time, may live on a military base, and can be deployed at
+any time. Such term includes full-time training duty, annual training duty, and
+attendance, while in active military service, at a school designated as a
+service school by law or by the Secretary of Defense.
+2. Block, Inc. Requirements
+2.1 Policy Statement
+The standards set out in this Policy represent minimum requirements based on applicable legal and
+regulatory guidance and apply throughout Block's lending operations. These requirements are
+intended to prevent Block and its employees from violating applicable provisions of the MLA. Block
+recognizes that MLA violations can present significant legal, reputational, and compliance risk.
+2.2 MLA Policy Requirements
+Military Annual Percentage Rate
+All transactions covered by the MLA are subject to the Military Annual Percentage Rate ("MAPR").
+The MAPR is analogous to the Annual Percentage Rate ("APR") as defined in other consumer
+protection regulations in that both are calculated in the same manner. However, the MAPR
+calculation must include certain fees and charges regardless of whether other regulations require
+those fees or charges to be included in the APR calculation. Specifically, the MAPR calculation
+must include credit insurance premium or fees, debt cancellation or debt suspension fees, fees for
+
+ancillary products sold in connection with the credit transaction, finance charges, and application
+fees.
+In accordance with the MAPR cap provided by the MLA, Block will not impose an MAPR greater
+than 36 percent on transactions with Covered Borrowers.
+2.3 MLA Notice and Disclosure Requirements
+Block will provide the appropriate notice and disclosures to Covered Borrowers, including the
+following considerations:
+● Disclosures will be made clearly and conspicuously in writing and in a form the Covered
+Borrower may keep. Disclosures will contain a statement of the MAPR applicable to the
+extension of Consumer Credit as well as the total dollar amount of all charges included in
+the MAPR.
+● If oral disclosures are given, the MAPR, the payment obligation will be provided orally
+before origination. A toll-free number will be provided with or on the written disclosures
+that consumers may use to obtain oral disclosure, and oral disclosures are provided when
+the Covered Borrower contacts Block for that purpose.
+Where applicable, during the renewal or refinancing of covered transactions, new disclosures will
+be provided if the transaction is considered a new transaction that would require disclosure under
+other regulations.
+2.4 Prohibited Conduct
+In accordance with MLA requirements, Block will not condition the extension of Consumer Credit to
+a Covered Borrower by requiring the Covered Borrower to waive their right to legal recourse under
+the Servicemembers Civil Relief Act or any other state or federal law. Block will not require the use
+of a check or other method of access to a deposit, savings, or other financial account maintained
+by the Covered Borrower, except that, in connection with a Consumer Credit transaction with an
+MAPR consistent with the regulation, Block may, unless otherwise prohibited by law: require
+electronic fund transfer for repayment; require a direct deposit of the Covered borrower's salary,
+as a condition of eligibility; take a security interest in funds deposited after extending credit in an
+account established in connection with the transaction; or require the Covered Borrower to
+establish an allotment to repay the obligation.
+Furthermore, Block will not prohibit the Covered borrower from prepaying Consumer Credit and
+will not charge the Covered borrower a prepayment penalty fee for prepaying all or part of
+Consumer Credit. Block will not renew, roll over, repay, refinance, or consolidate any transaction
+with a Covered Borrower unless the transaction results in more favorable terms to the Covered
+Borrower. Block will not require a Covered Borrower to submit to arbitration.
+Block may be subject to certain penalties if MLA is violated; including in certain instances
+rendering the credit agreement void.
+2.5 Identifying Covered Borrowers
+
+It is Block's policy to verify the Covered Borrowers' Active Service status via either the U.S.
+Department of Defense's Defense Manpower Data Center or information contained in a consumer
+report obtained from a nationwide consumer reporting agency. This verification must occur prior to
+origination of any Consumer Credit product covered under this Policy.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Blockʼs Compliance Policy Framework
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy across the organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+● Business Product Compliance Lead, Lending & Credit
+○ Implement policy requirements within their respective business units
+○ Monitor day-to-day compliance activities
+
+○ Manage training requirements for their business unit
+○ Report issues or concerns to the CCO
+○ Ensure brand-specific requirements are met while maintaining overall compliance
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+○ Policies and standards
+○ Procedures
+○ Audit/exam findings
+○ Issues management
+○ Training
+○ Complaints
+3.3 Training
+All relevant employees will receive training at least annually covering applicable requirements and
+guidance to implement Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+○ Blockʼs Data Classification & Handling Policy, or
+○ Applicable regulatory requirements
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+
+● Questions: For questions or clarifications about this Policy please contact the Document
+Owner.
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Amanda C… Regulatory Initial Appro… Attestation to Oct 10, 2025
+Counsel Document
+Contents
+Corey Cha… Business Product Initial Appro… Attestation to Oct 15, 2025
+Compliance Lead, Document
+Lending & Credit Contents
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Block
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending &
+Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2

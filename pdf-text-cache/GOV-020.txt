@@ -1,0 +1,361 @@
+Third Party Risk Management TPRM Policy
+Square | Square AU Pty Ltd
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: Square AU Pty Ltd (“Square AUˮ) is an Australian Financial Services
+License AFSL holder License Number: 513929 and is a reporting entity enrolled on the Reporting
+Entity Roll managed by the Australian Transaction Reports and Analysis Centre (“AUSTRACˮ) for the
+purposes of AML/CTF Law . This Third Party Risk Management TPRM Policy (“Policyˮ) outlines
+Square AUʼs approach to outsourcing. The Chief Compliance Officer (“CCOˮ) for Square AU is
+responsible for the management of this Policy.
+The Policy describes the outsourcing arrangements that Square AU has in place in relation to the
+conduct of various aspects of its activities. Square AU remains fully accountable for compliance
+with legislation, regardless of any outsourcing. In accordance with AUSTRACʼs guidance on
+Outsourcing, all outsourced AML activities must align with Square AUʼs AML/CTF program,
+policy, standard and related procedures.
+This Policy is modelled on the processes set out in the Block. Inc, Third Party Risk Management
+TPRM Policy.
+Scope: This Policy applies to all employees, officers, and contingent workers of Square AU
+involved in any aspect of outsourcing or vendor management, including intra-group
+outsourcing across the Block group.
+Definitions:
+Terminology Definition
+Outsourcing The practice of engaging a third party to perform services or functions
+typically conducted in-house, ensuring compliance with all regulatory
+standards, especially those mandated by Australian Investments and
+Securities Commission (“ASICˮ) and Australian Transaction Reports and
+Analysis Centre (“AUSTRACˮ)
+
+Employees All full-time and part-time employees and fixed-term and contingent
+(also referred workers including interns, temps, consultants, vendors, third-party
+as Staff) providers, and contractors.
+Vendor (third A non-affiliated third party engaged to provide products or services,
+party service inclusive of intra-group outsourcing where services are provided by
+provider / affiliated entities.
+outsourced
+service
+provider)
+Responsible An individual responsible for maintaining effective oversight and
+Manager compliance of outsourced activities, ensuring adherence to regulatory
+(“RMˮ) requirements.
+Third-Party A program managing the identification, assessment, monitoring, and
+Risk mitigation of risks associated with third-party vendors.
+Management
+(“TPRMˮ)
+Enterprise A role responsible for implementing the TPRM program locally, including
+Risk Manager monitoring Vendor performance, assessing risks, and reporting to the
+(“ERMˮ) Board.
+Third-Party The primary point of contact responsible for managing the Vendor
+Relationship relationship and supporting TPRM program components.
+Owner
+(“TPROˮ)
+Due Diligence The process of evaluating prospective Vendors to ensure they are
+competent, experienced, and capable of meeting regulatory requirements
+and service standards.
+Vendor A preliminary assessment that helps determine the inherent risk level and
+Engagement guides further due diligence requirements as part of the Vendor
+Request contracting and engagement process.
+(“VERˮ)
+Risk Subject Specialists who provide expertise on various risk areas, advising on Due
+Matter Diligence, contract inclusions, and residual risks.
+Experts (“Risk
+SMEsˮ)
+Business A program evaluating Vendors' ability to maintain or restore critical
+Continuity-Dis functions following disruptions, ensuring continuity in outsourced
+aster services.
+Recovery
+(“BCDRˮ)
+Monitoring Continuous assessment of a Vendor's compliance with service levels,
+performance, and financial health, documented and reported periodically
+to stakeholders.
+
+Breach Any non-compliance or failure by the Vendor to meet contractual or
+regulatory obligations, requiring reporting and potentially corrective
+actions.
+Contingency A process to ensure continuity or transfer of critical services if a Vendor
+Planning relationship is terminated, mitigating business impact.
+2. Policy Requirements
+2.1. Guiding Principles
+The guiding principles upon which this Policy is implemented by Square AU are as follows:
+● Accountability: Square AU remains fully responsible for compliance with all AFSL and
+AML/CTF obligations, regardless of outsourcing.
+● Proportionality: Risk management controls are commensurate with the materiality,
+complexity, and regulatory importance of the outsourced service.
+● Regulatory Compliance: Outsourcing must not diminish Squareʼs ability to meet obligations
+under AFSL, AML/CTF, Privacy Act, or other applicable laws.
+● Due Diligence & Ongoing Monitoring: All service providers are subject to appropriate due
+diligence, risk assessment, and periodic performance reviews.
+● Contractual Safeguards: Outsourcing agreements must include rights of access, audit, data
+security, and termination provisions aligned with ASIC and AUSTRAC guidance.
+● Continuity & Contingency: Plans must exist to ensure continuity of critical functions in the
+event of vendor failure or termination.
+2.2. Planning
+Process for engaging vendors
+Square AUʼs board of directors (“Boardˮ), Employees and the TPROʼs are ultimately responsible for
+identifying the services to be outsourced to third parties and for ensuring compliance with its
+obligations as an AFSL holder and an AUSTRAC-regulated entity. As part of this process, Square AUʼs
+management team will conduct the following activities (and report to the Board for review and
+approval of material Outsourcing arrangements):
+● identify all material risks associated with the Outsourcing proposal (the Block Vendor
+Management Policy outlines the risks that may be created by an Outsourcing relationship);
+● ensure that appropriate Due Diligence has been conducted in relation to prospective
+outsource providers; and
+● consider relevant documentation, including the necessity for service level agreements.
+
+Documented justification for all outsourcing of critical or customer-impacting functions must be
+maintained in accordance with record keeping requirements.
+2.3. Due Diligence and Third Party Selection
+Initial Due Diligence
+Square AU will conduct appropriate initial Due Diligence in relation to prospective third party / Vendor
+in order to:
+● review the experience and capabilities of those providers; and
+● ensure that they are suitable to perform the outsourced functions.
+Initial Due Diligence is driven by the inherent risk and measures the residual risk by assessing a third
+partyʼs ability to satisfy Square AUʼs requirements for the proposed products and services, while
+maintaining appropriate controls to ensure compliance with our policies and regulatory requirements.
+When due diligence is required, Square AU requests the third party to complete topic-based
+questionnaires (such as information security and privacy) and provide relevant supporting
+documentation. Risk SMEs review the responses to identify any gaps or control weaknesses and
+determine appropriate mitigations. TPRM, Procurement, and relevant teams — including Legal and
+Information Security — then collaborate with the business and the third party to assess risks, agree
+on remediation actions, and ensure controls are in place before engagement proceeds. The
+frequency of Due Diligence on vendors is outlined in the Block Inc global Vendor Management Policy.
+2.4. Process for the selection of Vendors
+Planning and assessing risk
+● Planning begins when the Square TPRO or Business Unit (“BUˮ) defines business
+requirements that involve a third party.
+Square AU selects and manages third parties using a value- and risk-based approach, initiated
+through a VER to capture engagement details and determine inherent risk, in accordance with the
+Block Inc global Vendor Management Policy.
+Vendor selection considers the reputation, financial stability, performance history, and operational
+capability of the provider. Square AU must be satisfied that each vendor is:
+● competent, experienced, and qualified to provide the outsourced service;
+● familiar with Square AUʼs business and regulatory obligations; and
+● of good fame, character, and integrity.
+All use of cloud computing, data hosting/storage, and international vendors must undergo
+additional due diligence to assess cyber and data risks.
+2.5. Conflicts of Interest
+
+Square AU is committed to managing conflicts of interest to ensure all decisions and interactions are
+fair, transparent, and in the best interests of customers and the business. A conflict may occur when
+personal interests, relationships, or external obligations could influence, or appear to influence,
+professional judgement.
+Employees must promptly disclose any potential or actual conflicts so they can be assessed and
+managed appropriately — through disclosure, recusal, segregation of duties, or other controls. All
+conflicts must be handled in line with the Square AU and Block Inc. Conflicts of Interest Policies.
+Conduct that prioritises personal or commercial benefit over integrity or customer fairness is not
+tolerated.
+2.6. Contracts Management and Negotiation
+Square AU will ensure that all third-party engagements are governed by written contracts that align with
+the requirements of the Block global TPRM policy. During negotiation and throughout the contract
+lifecycle, agreements must address key risk areas including data privacy, security controls, regulatory
+compliance, and the right to audit. Contracts will be reviewed in consultation with relevant stakeholders to
+confirm appropriate risk mitigation measures are included and that third parties remain accountable for
+their obligations. Regular reviews and updates of contractual terms will be conducted to maintain
+alignment with evolving business, legal, and regulatory requirements.
+2.7. Ongoing Monitoring
+Vendor performance, compliance, and risk must be monitored throughout the lifecycle of the
+arrangement.The performance of the outsourced service provider will be monitored against the
+service level and performance requirements specified in the relevant agreement with the outsourced
+service provider.
+The ERM has monitoring functions in relation to matters such as the performance of the outsourced
+service provider against benchmarks, the quality and timeliness of the delivery of the services as well
+as the continued financial and organisational capacity of the Vendor to provide the services.
+2.8. Breaches
+All actual or suspected breaches by third parties that could result in customer detriment or
+non-compliance with legal, regulatory, or contractual obligations must be reported and managed in
+accordance with the Square AU Breach Reporting Policy and Third Party Incident Management
+Procedures. This includes breaches of legal, regulatory, contractual, or internal compliance
+obligations — such as privacy or data protection requirements, service-level commitments, or
+consumer protection standards. Examples may include misuse or unauthorised disclosure of data,
+failure to deliver agreed services, misleading communications, or conduct resulting in harm or unfair
+outcomes for customers. All employees and third parties must report breaches.
+Square AU expects all third parties to maintain a transparent and accountable culture where issues
+are raised promptly and managed effectively. Employees and partners are encouraged to report
+concerns in good faith, with all reports handled confidentially and without retaliation, in line with Block
+Incʼs Speak Up Policy.
+
+2.9. Terminations
+Where a termination of contract is sought, either resulting from a breach or review, or from a business
+decision to end the contract, Square AU must ensure that the termination process is managed in a
+controlled and compliant manner. This includes:
+● Assessment and Approval: Confirming that termination is consistent with contractual
+terms, internal policies, and regulatory obligations, and obtaining appropriate internal
+approvals.
+● Notification: Providing formal written notice to the Vendor in accordance with the
+termination provisions outlined in the agreement.
+● Transition Planning: Implementing a transition or exit plan to ensure the orderly transfer or
+cessation of services, minimise disruption to business operations or customers, and
+safeguard data and confidential information.
+● Risk Mitigation: Identifying and mitigating any operational, regulatory, or customer risks
+arising from the termination.
+● Record Keeping: Retaining records of the decision-making process, approvals,
+communications, and closure activities in accordance with Square AUʼs record retention
+requirements.
+Square AU may terminate Third Party relationships for various reasons, including, but not limited
+to:
+● Expiration or satisfaction of the contract;
+● Desire to seek an alternate third party;
+● Desire to bring the activity in-house or discontinue the activity; or
+● Breach of contract, bankruptcy, force majeure, or similar.
+Termination of contracts will be completed in line with the global Block, Inc. Third Party Risk
+Management TPRM Policy.
+3.
+Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Square AU operates a Three Lines of Defence (“3LoDˮ) Model. All Staff Members are expected to
+comply with this Policy at all times. Square AU is required to demonstrate that it has taken all
+reasonable steps and exercised all due diligence in order to identify, assess, manage, and monitor
+risks associated with third parties. Therefore, it is essential that all Staff Members and each line of
+defence understand their roles and responsibilities in respect to this Policy.
+First Line of Defence
+
+● All Staff Members or Staff: All Staff Members are responsible for identifying and managing
+Third Party Risks on an ongoing basis and must:
+○ Conduct appropriate due diligence before engaging with any third party, including
+suppliers, vendors, and partners, to ensure they meet both Square AUʼs and Block,
+Inc.ʼs global standards for risk management, compliance, and ethical conduct.
+○ Monitor third party relationships to ensure that performance, compliance, and risk
+profiles remain within acceptable parameters.
+○ Promptly escalate any concerns or incidents relating to third parties through the
+designated reporting channels outlined in the TPRM procedures.
+● Leads: While the Code applies to all Staff Members, "Leads" Square AU's term for
+managers) have a deeper level of responsibility and must lead with integrity and reinforce
+Block's ethical culture. Leads are often the first resource for Staff Members who have
+questions on ethical issues or potential violations of Block, Inc and Square AU Policy. If
+unsure of the best course of action, Leads are responsible for:
+○ Ensure the TPRM Policy is embedded and consistently adhered to within their area
+of accountability.
+○ Support their teams in conducting appropriate third party due diligence and risk
+assessments.
+○ Promptly report any suspected violations of this Policy, the Code, or law. Leads may
+be held accountable if they fail to report misconduct.
+○ Foster a culture of transparency and ethical behaviour where Staff Members feel
+comfortable escalating concerns about third party risks.
+○ Ensuring the Global Code of Conduct training is completed by all Staff Members
+within their business unit on time.
+Second line of Defence
+● Compliance: Compliance, as the owner of this Policy will:
+○ Carry out risk-based reviews of the implementation of this Policy, to include the
+identification and investigation of breaches and the appropriate action taken to
+address such breaches, as required;
+○ Have an effective mechanism for identifying and reporting on non-adherence of this
+Policy;
+○ Report on related management information to the Regulatory Governance
+Committee, and the Square AU Board as appropriate.
+● Global Third Party Risk Management (“TPRMˮ) Team: The Global TPRM team, within
+Corporate Compliance is responsible for:
+○ Monitoring and providing oversight at a global level for Third Party providers to
+Square AU;
+○ Supporting the design, implementation, and ongoing enhancement of the TPRM
+framework.
+
+Third line of Defence
+● Third Line of Defence (“Internal Auditˮ): Internal Audit forms Square AU's third line of
+defence. The independent internal audit function, employing a risk-based approach,
+provides assurance to the Square AU Board and senior management.
+● Square AU Board Members (“Boardˮ): The Board is responsible for overseeing Square AUʼs
+Third Party Risk Management framework, ensuring that management has appropriate
+systems and controls in place to identify and manage third party risks. They will also be
+responsible for:
+○ Supporting the design, implementation, and ongoing enhancement of the TPRM
+framework;
+○ Provide oversight and decisioning on escalated third party risk issues.
+3.2. Monitoring, Testing and Reporting
+Square AU maintains a structured and risk-based approach to monitoring, testing and reporting on
+its regulatory programs. Oversight is coordinated by the Compliance and Risk functions, with input
+from stakeholder teams.
+We focus on three key activities:
+● Monitoring: Monitoring activities are conducted on a risk-based schedule to confirm that
+key compliance controls are operating effectively. These activities may include but are not
+limited to vendor reviews, dashboards, risks assessments, exception reporting and analysis
+of complaints or incidents. Higher-risk areas are subject to more frequent and detailed
+monitoring to ensure timely detection and remediation of issues.
+● Testing: Independent and Internal testing and thematic reviews are undertaken through
+Compliance, Risk, or Internal Audit to verify that controls are working as intended. Results
+are documented, issues are tracked and remediation actions are followed through until
+closed.
+● Reporting: Square AU provides risk based reporting on the performance and effectiveness
+of its compliance programs to ensure transparency, accountability, and informed
+decision-making. Reports highlight program health, key risks, control effectiveness and
+remediation progress, giving senior leaders and committees clear visibility of compliance
+outcomes and areas requiring attention. This ensures consistent oversight and supports a
+strong culture of governance across the business.
+3.3. Training
+All relevant personnel will receive training on the Third Party Risk Management processes at
+Square AU. This training will cover aspects of Square AU and Block Inc global policies on TPRM.
+
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate
+risks associated with the exception. Any approved exceptions must be documented in writing
+and retained with recordkeeping requirements. Any approved exceptions or exemptions should
+be submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Block Third Party Risk Management TPRM Policy
+● Square AU AML/CTF Program
+● Square AU Breach Management Policy
+● Square AU Conflict of Interest Policy
+Review related references:
+● ASIC Regulatory Guide 104 RG 104 Licensing: Meeting the general obligations
+● Anti-Money Laundering and Counter‑Terrorism Financing Act 2006 and AML/CTF Rules
+● ASO/DFAT Sanctions Instruments and Guidance
+● Privacy Act 1988 (incl. NDB scheme)
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square AU Outsourcing Creation Approved the September 11,
+Pty Ltd Policy creation of the 2020
+Board document
+Square AU Outsourcing Schedule… Approved December 10,
+Pty Ltd Policy minor changes 2020
+Board to the
+document
+Square AU Outsourcing Schedule… Approved December 9,
+Pty Ltd Policy minor changes 2021
+Board to the
+document
+Square AU Outsourcing Schedule… Approved December 8,
+Pty Ltd Policy Minor 2022
+Board changes to the
+document
+Square AU Outsourcing Schedule… Approved December 13,
+Pty Ltd Policy Minor 2023
+Board changes to the
+document and
+new format
+and template
+Lance Ho… CCO Square Schedule… Approved November 18 ,
+AU Minor 2024
+changes to the
+Square AU Outsourcing Schedule… document and December 11 ,
+Pty Ltd Policy new format 2024
+Board and template
+Square AU Outsourcing Schedule… Renaming and December 18,
+Pty Ltd Policy alignment with 2025
+Board global policy
+and new
+template
+Document Details:
+Business Square
+
+Scope Regional AU
+Compliance Domain Governance
+Document Owner Chief Compliance Officer Square AU
+Approved By Square AU Board
+Document Tier Tier 2

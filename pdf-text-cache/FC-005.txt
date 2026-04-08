@@ -1,0 +1,761 @@
+Afterpay Canada Limited Anti-Money
+Laundering Program
+Afterpay Canada Limited
+Last Approved: Dec 8, 2025
+Effective Date: Dec 8, 2025
+1. Overview
+Introduction and Purpose:
+This Afterpay Canada Limited (“Afterpay Canadaˮ, “Afterpay CAˮ) Anti-Money Laundering Program
+(“Programˮ) outlines Afterpay Canadaʼs approach to anti-money laundering, counter-terrorism
+financing, and sanctions compliance. The purpose of this Program is to establish comprehensive
+guidelines governing Afterpay Canada's operations to identify, mitigate, and manage money
+laundering and terrorism financing risks, while ensuring consistent operations and maintaining
+regulatory compliance.
+Afterpay Canada Limited, a British Columbia incorporated entity, offers "buy now, pay later"
+installment products in Canada. As a subsidiary of Afterpay Australia Pty., Afterpay Canada
+maintains this Program to meet subsidiary obligations under Australian AUSTRAC requirements,
+partner expectations from banking and financial institutions, and to implement voluntary best
+practices aligned with Canadian AML/CTF frameworks.
+Scope: This Program applies to Afterpay Canada Limited, its employees, contractors, and agents
+engaged by Afterpay Canada, or acting on Afterpay Canada's behalf, for the purpose of
+performing services for the benefit of Afterpay Canada.
+Definitions:
+Terminology Definition
+CRR/MRR Afterpay Consumer Customer Risk Rating framework that evaluates
+consumer behavior and profile to assign ML/TF risk ratings
+
+Consumer An individual end-consumer who utilizes, or seeks to utilize, Afterpayʼs
+“buy now, pay laterˮ services
+Customer In the context of this AML Program, the term “Customerˮ comprises
+both Consumers and Merchants.
+EDD Enhanced Due Diligence procedures applied to high-risk customers
+Consumers and/or Merchants)
+Employee Includes full-time, part-time and casual employees, contractors and
+agents engaged by Afterpay, or acting on Afterpayʼs behalf, for the
+purpose of performing certain services for the benefit of Afterpay.
+Financial The Financial Transactions and Reports Analysis Centre of Canada is
+Transactions and an independent agency of the Government of Canada responsible for
+Reports Analysis the administration of the Proceeds of Crime Money Laundering) and
+Centre of Canada Terrorist Financing Act (“PCMLTFAˮ or “PC Actˮ) and its implementing
+(“FINTRACˮ) regulations.
+IDV Identity Document Verification - Afterpay Canada's identity verification
+program
+Know Your The “Know Your Customerˮ framework implements procedures and
+Customer (ˮKYC“) controls related to identifying a person or entity to mitigate ML/TF and
+Sanctions risk.
+Material Meaningful inconsistency in beneficial ownership information that
+Discrepancy could impact proper identification or conceal individuals who own or
+control a corporation.
+Merchant Individuals, partnerships, and companies with whom Afterpay has an
+arrangement to pay the value of purchases made by a Consumer using
+Afterpayʼs “buy now,pay laterˮ loan product and who offer goods or
+services for sale to Consumers.
+Money Laundering The risk that Afterpay may reasonably face that its provision of
+and Terrorism Designated Services may involve or facilitate money laundering or
+Financing terrorism financing.
+(“ML/TFˮ) Risk
+PC Act or PCMLTFA The Proceeds of Crime Money Laundering) and Terrorist Financing
+Act is Canada's primary anti-money laundering and counter-terrorist
+financing law whose aim is to detect and deter ML/TF while protecting
+the Canadian financial system.
+
+Risk Assessment Afterpayʼs assessment of its ML/TF and Sanctions Risk that underpins
+the AML/CTF Program.
+Suspicious A type of report submitted to FINTRAC when a financial transaction
+Transaction Report occurs, or is attempted, where there are reasonable grounds to
+(“STRˮ) suspect the transaction is related to the commission or the attempted
+commission of a money laundering or terrorist activity financing
+offence.1
+Standard Operating An SOP is a set of step-by-step instructions compiled to help staff
+Procedure (“SOPˮ) perform routine operations.
+2. Block, Inc. Requirements
+2.1. Parent Company Obligations
+As a subsidiary of Block, Inc., Afterpay Canada operates within Block's global compliance
+framework while maintaining entity-specific requirements. This Program aligns with Block's
+Anti-Money Laundering & Counter-Terrorist Financing Policy and incorporates applicable global
+standards adapted for Canadian operations.
+2.2. Cross-Border Regulatory Framework
+Afterpay Canada maintains dual compliance obligations:
+Australian AUSTRAC Requirements: As a subsidiary of Afterpay Australia, Afterpay Canada
+complies with applicable AUSTRAC obligations for foreign subsidiaries, including maintaining this
+AML/CTF program and reporting requirements.
+Canadian Regulatory Framework: While Afterpay Canada is regulated by the Bank of Canada
+under the Retail Payment Activities Act RPAA for providing payment services, this Program
+implements voluntary AML/CTF best practices aligned with Canadian frameworks and partner
+expectations.
+1 Though Afterpay Canada is not directly regulated by FINTRAC, nor subject to the PC Act, this Program highlights the
+entityʼs commitment to identifying and managing ML/TF and other criminal activity on the platform as a best practice.
+Afterpay Canadaʼs MLRO or their delegate will submit voluntary STRs to FINTRAC where warranted.
+
+2.3. AML/CTF Legal Framework
+In Canada, the anti-money laundering/counter terrorism financing ("AML/CTF") regime is set out in
+the Proceeds of Crime Money Laundering) and Terrorist Financing Act ("PC Act") and certain
+implementing regulations. While Afterpay Canada is not subject to the requirements of, or a
+reporting entity regulated under the PC Act, Afterpay Canada is nonetheless committed to
+identifying, mitigating and managing indicators of ML/TF, sanctions evasion or other criminal
+activity as a best practice. In this regard, Afterpay Canada undertakes certain KYC, risk
+assessment and related procedures in order to ensure that Afterpay Canada does not establish a
+relationship with or transact with individuals or entities that could be linked to money laundering,
+terrorist activities, sanctions evasion or that can use Afterpay Canada to facilitate such activities.
+As a subsidiary of an Australian entity, Afterpay Canada may also develop an AML/CTF policy
+relevant to any obligations under Australian law.
+As a British Columbia incorporated entity, Afterpay Canada is subject to compliance requirements
+under the Canadian sanctions laws. To this end, Afterpay Canada maintains this Program which is
+designed to ensure that it complies with and does not directly or indirectly assist others to
+contravene such laws.
+3. Afterpay Canada-Specific Requirements
+3.1. Governance and Oversight
+3.1.1 Board Approval
+This Program is to be approved and adopted by the Afterpay Canada Board.
+This Program should be endorsed for approval by the Canada Anti-Money Laundering Compliance
+Officer prior to being presented to the Board.
+3.1.2 Compliance Officer
+Afterpay Canada will appoint an Anti-Money Laundering Compliance Officer, who is referred to as
+the Money Laundering Reporting Officer (“MLROˮ), whose appointment must be approved by
+Senior Management. The MLRO will be appropriately knowledgeable in AML-related matters, and
+will understand Afterpay Canadaʼs products, services, Customers and geographies services and
+the potential risks associated with such products, services, Customers and geographies.
+The MLRO is responsible for implementing this Program, overseeing Afterpay Canadaʼs AML
+Program, and ensuring regulatory compliance. As necessary, the MLRO may also serve as a liaison
+between Afterpay Canada and law enforcement officials, government regulators, internal or
+external auditors, service providers, and others regarding issues related to Afterpay Canadaʼs AML
+
+Program, and reviewing and updating Afterpay Canadaʼs AML Program consistent with any new
+statutes, regulations, or regulatory and industry guidance.
+The MLRO will provide periodic reports to Senior Management, as needed, at least on a biannual
+basis. Such reports may include information about any instances of non-compliance with this
+Program, any feedback received from external stakeholders including any regulatory bodies, the
+results of any review conducted, and any legal or regulatory developments bearing on the AML
+Program.
+The MLRO may delegate duties to other responsible Employees as appropriate.
+3.1.3 Independent Review
+This AML Program may be independently reviewed every two 2 years. The Independent Review
+will be performed by suitably qualified internal or external personnel. The purpose of this review is
+to assess the effectiveness of the AML Program design, whether it has been effectively
+implemented and whether Afterpay Canada is complying with it. The Independent Review will
+focus on either all or parts of the AML Program, using a risk based approach.
+The results of the Independent Review will be provided to the Afterpay Canada Board.
+3.2. Risk Assessment
+Afterpay Canada conducts regular ML/TF and sanctions risk assessments considering:
+● Products & Services risk
+● Customer risk
+● Geographic risk
+● Distribution channel risk
+● Operational and Employee risk
+● Emerging risk
+● Sanctions risk
+This AML Program is informed by the outcome of the Afterpay risk assessment. The latest risk
+assessment was conducted at a local (regional), brand and enterprise-wise in conjunction with
+Block, Inc. levels covering the timeframe from January to December 2024. The Afterpay Canada
+Risk Assessment will be reviewed annually or where one of the risk types changes.
+Summary of the Risk Assessment Results
+Table 1 AML/CFT Result Summary
+Inherent Risk Degree of Mitigation Residual Risk
+
+Moderate Partially Mitigated Moderate
+Table 2 Sanctions Result Summary
+Inherent Risk Degree of Mitigation Residual Risk
+Moderate Partially Mitigated Moderate
+The 2024 assessment identified Moderate inherent risk for both AML/CFT and sanctions. With
+current controls providing Partially Mitigated degree of mitigation, residual risks were assessed as
+Moderate for both categories. Key risk factors include digital payment channels, substantial
+organizational growth, and evolving regulatory landscape. The assessment informs AML program
+enhancements including strengthened Consumer identity verification, enhanced customer risk
+rating models, and expanded sanctions screening capabilities.
+Risk assessments are reviewed annually or when material changes occur.
+Ongoing Risk Assessment:
+The Afterpay Canada MLRO or their designee will:
+● Undertake regular risk identification and assessments of activities to identify any new
+Office of Foreign Assets Control (“OFACˮ), Canada Sanctions, ML/TF risks;
+● Review any material changes in the ML/TF risk profile of the business following a Trigger
+Event (as defined below); and
+● Review the AML Program and develop new processes and procedures that are deemed
+necessary as a result of any change in the ML/TF risk profile.
+Trigger Events include:
+● An internal or independent review of the AML Program;
+● The purchase or commencement of a new business;
+● A change in the Customer, Merchant or Consumer base leading to a change in ML/TF or
+sanctions evasion risks;
+● A material change in outsourcing arrangements;
+● Any changes in legislation that have a material effect on the AML Program; and
+● The introduction of any new product or service, delivery channels, new or developing
+technologies for the provision of a services or any change to existing services, business
+
+systems and processes, or any changes arising in the nature of the business relationship
+Afterpay Canada has with its Merchants.
+3.3 Customer Due Diligence
+3.3.1 Merchant Know Your Customer KYC
+Before a Merchant is permitted to use Afterpay Canadaʼs services, Afterpay Canada will identify
+and verify the identity of the Merchant and beneficial owners of Merchants such that Afterpay
+Canada has a reasonable belief that it knows the true identity of the Merchant and beneficial
+owners (“Merchant KYCˮ).
+A ‘beneficial ownerʼ for the purpose of this Program means individuals (i.e., natural persons) who:
+● Ultimately own (directly or indirectly) 25% or more of a Merchant; or
+● Ultimately control (directly or indirectly) a Merchant.
+Control includes control as a result of trusts, agreements, arrangements, understandings and
+practices, whether or not having legal or equitable rights, and extends to exercising control
+through the capacity to determine decisions about financial and operating policies. The types of
+individuals that could ‘controlʼ are discussed in further detail below.
+In determining whether to offer Afterpay services to Merchants in certain verticals, in addition to
+the considerations outlined in this Program, Afterpay Canada has established a Global Merchant
+Category Policy to determine where services can be offered to a Merchant and whether additional
+risk based checks or controls may be appropriate.
+Merchant onboarding also includes ongoing risk assessment through the Merchant Risk Rating
+framework.
+Merchant Risk Rating MRR Framework:
+● Activation MRR (aMRR): Rule-based assessment during onboarding to identify high-risk
+merchants requiring Enhanced Customer Due Diligence
+● Continuous MRR (cMRR): Ongoing attribute-based risk assessment for existing merchant
+Enhanced Due Diligence: High-risk merchants undergo additional verification and ongoing
+monitoring as determined by the MRR framework.
+Enhanced Beneficial Ownership Requirements
+For high-risk corporations incorporated under the Canada Business Corporations Act, Afterpay
+Canada consults Corporations Canada's database and reports material discrepancies within
+required timeframes. This enhanced transparency measure supports improved beneficial
+ownership verification.
+
+Merchant Bank Details
+For each Merchant, Afterpay Canada requires bank account information (routing number and
+account number) for a chequing account in the name of the Merchant. A Bank Account
+Assessment is conducted to confirm that a Canadian bank account titled to the entity or beneficial
+owner is provided during the onboarding process. Common Canadian banks include:
+● Bank of Montreal;
+● Bank of Nova Scotia Scotiabank);
+● Canadian Imperial Bank of Commerce CIBC;
+● Royal Bank of Canada RBC;
+● Toronto-Dominion Bank TD;
+● National Bank of Canada;
+● Desjardins Group;
+● Laurentian Bank of Canada; and
+● Canadian Western Bank.
+Afterpay Canada deems Merchants who use these Canadian banks to be low risk and therefore
+does not require any further vetting. Acceptable alternatives for a Canadian bank account is an
+OFX, Airwallex, and Wise Global Currency Account, which can offer Merchants local bank
+accounts.
+3.3.2 Consumer KYC
+Consumer KYC
+Afterpay Canada has implemented a comprehensive consumer identity verification program to
+ensure accurate customer identification and mitigate ML/TF risks.
+Consumer Identity Document Verification IDV Program: A risk-based, two-tiered verification
+approach:
+● Soft ID Check: Primary verification method using data sources such as credit bureau
+records
+● Hard ID Check: Government-issued photo ID verification for customers unable to complete
+soft verification
+● Manual Verification: Support process for customers requiring additional assistance
+The IDV program incorporates risk assessment to determine appropriate verification levels and
+maintains Quebec-specific considerations for biometric data collection. Detailed procedures are
+maintained in separate operational documents.
+Consumer Risk Rating Integration: Consumer verification integrates with the APCRR framework
+to ensure appropriate risk-based measures are applied.
+
+3.4 Customer Risk Rating Models
+Afterpay Canada maintains comprehensive customer risk rating frameworks to assess and manage
+ML/TF risk across its customer base.
+Consumer Risk Rating CRR Framework evaluating consumer attributes including geography,
+account characteristics, transaction patterns, and sanctions screening results. Risk ratings are
+updated through daily scoring with periodic reviews, supporting risk-based compliance measures.
+Merchant Risk Rating MRR Dual methodology combining onboarding risk assessment (aMRR)
+with ongoing risk evaluation (cMRR). The framework considers entity structure, geographic
+factors, transaction volumes, and compliance history to determine appropriate risk management
+measures.
+Both frameworks incorporate override mechanisms for sanctions hits, suspicious transaction
+reports, and other high-risk indicators, ensuring appropriate escalation and enhanced monitoring
+3.5 Discrepancy Management
+Discrepancies may occur in relation to Merchant Identification and verification during the
+onboarding process. Discrepancies may be categorized as material or immaterial depending on the
+classification of the identified data discrepancy and may require additional vetting and escalation
+prior to a Merchant being approved for onboarding onto the Afterpay Canada platform.
+A discrepancy which is categorized to be material in nature may require the collection of additional
+identification information and/or documents to resolve the discrepancy. If a material discrepancy is
+unable to be resolved through the collection of additional information from the Merchant, the
+Merchant should be declined and the Merchant information forwarded to the North America
+Compliance team to determine if further action is required.
+Should a discrepancy in Merchant beneficial ownership be categorized as material in nature where
+it is assessed to be a high risk of ML/TF, or sanctions evasion offence, the Merchant should be
+declined and the information escalated to the Afterpay Canada MLRO without delay. Based on all
+the information gathered, the MLRO will make the final determination on whether the discrepancy
+is material and of high risk of ML/TF or sanctions evasion. The MLRO will then determine whether
+it would be appropriate to report such information to FINTRAC and/or local government agencies.
+A discrepancy which is categorized as immaterial is not classified as a discrepancy and therefore
+does not require escalation for additional vetting. More detailed information related to
+discrepancies related to Merchant identification and verification is set out in the Canada Merchant
+Vetting SOP.
+Keeping Customer Information Up to Date
+Afterpay Canada will review Merchant information and request updated information as needed.
+Where Merchant information is determined to require updating, steps may be undertaken to
+
+re-verify the information against reliable electronic databases and/or through collection of
+documents. This may include updates and/or re-verification of information relating to the Merchant
+beneficial ownership information or Merchant bank details.
+High Risk Merchants may need regular reviews in accordance with the Merchant Enhanced Due
+Diligence Procedure to ensure the information remains accurate and up to date.
+Audit and Compliance
+Afterpay Canada reserves the right to conduct periodic audits or compliance reviews of its
+partners to assess their adherence to AML/CTF requirements. This ensures ongoing compliance
+and identifies any areas that need improvement.
+3.6 Transaction Monitoring & Reporting
+Although Afterpay Canada is not a reporting entity under the PCMLTFA, and is therefore not legally
+obligated to submit STRs or report to FINTRAC, it has adopted certain voluntary measures aligned
+with industry best practices to detect and respond to suspicious activity.
+3.6.1 Merchant Monitoring
+Any monitoring of Merchant transaction activity will be for the purpose of identifying potentially
+suspicious activity, which may include:
+● Complex, unusual, or large transactions, including;
+○ Transactions of an unusually large size or volume relative to the Merchant profile
+(or usual Merchant behaviour);
+○ Transactions that exceed internal thresholds and triggers;
+○ Irregular patterns of account activity that are characteristic of fraud, ML/TF; and
+● Unusual patterns of transactions
+● Risk rating assessments to identify activities requiring further investigation
+3.6.2 Consumer Monitoring
+Similarly, any monitoring of Consumer transaction activity will be for the purpose of identifying
+potentially suspicious activity, which may also include:
+● Complex, unusual, or large transactions, including;
+○ Transactions of an unusually large size or volume relative to the Consumer profile
+(or usual Consumer behaviour);
+○ Transactions that exceed internal thresholds and triggers;
+○ Irregular patterns of account activity that are characteristic of fraud, ML/TF; and
+● Unusual patterns of transactions
+● Risk rating assessments to identify activities requiring further investigation
+
+If a Merchant or Consumer transaction activity is flagged as potentially suspicious, or there are
+reasonable grounds to suspect that a transaction (attempted or completed) is related to the
+commission or the attempted commission of fraud, ML/TF, or sanctions evasion, such transaction
+activity will be escalated to the MLRO or designee for further investigation and review.
+Based on all the information gathered, the MLRO will make the final determination on whether the
+transaction activity is suspicious and whether it would be appropriate to report such transaction
+activity to FINTRAC and/or local law enforcement authorities.
+3.7 Sanctions Screening & Compliance with Sanctions Laws
+As a Canadian incorporated entity, Afterpay Canada has legal obligations under Canadian
+sanctions legislation and must comply with all applicable sanctions measures. Afterpay Canada will
+screen all Merchants and Consumers against the Canadian Designated Lists under the Canadian
+sanctions laws and will take a risk-based approach to collecting and screening the names of the
+beneficial owners of Merchants in its network.
+Screening Requirements: All customers are screened against Canadian Designated Lists under
+applicable sanctions legislation. Enhanced screening procedures incorporate:
+● Russia and Iran Ministerial Directive requirements treating relevant transactions as high-risk
+● Counter-proliferation sanctions guidance for dual-use goods and complex corporate
+structures
+● Enhanced due diligence for high-risk jurisdictions and entities
+Reporting Obligations: Sanctions hits and suspected sanctions evasion must be reported to
+relevant Canadian authorities such as the Royal Canadian Mounted Police RCMP, the Canadian
+Security Intelligence Service CSIS, and FINTRAC as required by law.
+Enhanced Measures: Additional scrutiny and comprehensive documentation applies to
+transactions involving high-risk jurisdictions, complex ownership structures, and activities that may
+indicate sanctions evasion attempts.
+3.7.1 Diligence and Sanctions Screening
+Afterpay Canada will screen all Merchant and Consumer names against appropriate watch lists,
+which at a minimum include the lists of persons designated under Canadian Sanctions Legislation
+(the “Canadian Designated Listsˮ). All screening will take place at the initiation of the relationship
+with a Merchant or Consumer, and periodically thereafter as determined by the MLRO.
+Afterpay Canada may also rely on a commercial sanctions database to carry out this screening.
+The MLRO is responsible for ensuring that any commercial sanctions database or third party
+vendor used is suitable and for verifying that any sanctions database relied on by such vendor (a)
+contains all of the Canadian Designated Lists and (b) is updated in a timely manner to include
+newly designated persons or applicable statutory or regulatory changes. This verification will be
+done periodically, as required, and at least annually. Afterpay Canada may screen others, as
+
+warranted based on risk and, as determined by the MLRO. Such persons may include guarantors
+(to the extent applicable), beneficial owners of Merchants, suppliers and vendors.
+All potential matches are reported immediately to the MLRO or designee for further evaluation. If
+the MLRO or designee determines a hit to be a false match, the review will be memorialized and
+maintained in accordance with applicable record keeping procedures. In circumstances where it is
+determined that there is a likely match against the Canadian Designated List, the match will be
+referred to the MLRO (if reviewed by a designee) who will ensure that the relationship with the
+Merchant, Consumer or third-party is frozen and determine the required next steps, if necessary.
+Where a determination is made that a positive hit or “True Matchˮ has occurred against the
+Canadian Designated List, the MLRO will promptly report this to the relevant regulatory authority. In
+instances where sanctions evasion is suspected, on the part of either a Merchant or a Consumer,
+these cases will also be escalated to the MLRO, who will promptly report to FINTRAC and the
+required local law enforcement authorities.
+3.7.2 Listed Person or Entity Property Reporting
+If Afterpay Canada believes that a transaction is related to property owned or controlled by or on
+behalf of a terrorist or a terrorist group, the MLRO should promptly investigate. This involves
+collaboration with authorities and analysis of transaction patterns and Customer profiles. If
+suspicion is confirmed, the MLRO must prevent the transaction, freeze related property and file a
+Listed Person or Entity Property Report in addition to a STR with FINTRAC, providing detailed
+information for investigation.
+3.7.3 Disclosure to the RCMP and/or CSIS
+The MLRO will be responsible for reporting without delay to the Royal Canadian Mounted Police
+("RCMP") and/or Canadian Security Intelligence Service ("CSIS") the existence of property in
+Afterpay Canada's possession or control that Afterpay Canada has reason to believe is owned or
+controlled, directly or indirectly, by a person on the Canadian Designated Lists or by any other
+person with whom dealings are prohibited under Canadian Sanctions Legislation, together with
+information about the underlying transaction or attempted transaction.
+The RCMP and/or CSIS will be notified by the MLRO, or their delegate, as follows:
+CSIS National Headquarters
+CSIS PO BOX 9732
+POSTAL STATION "T"
+OTTAWA ON K1G 4G4
+Telephone: 6139939620
+TTY 6139919228 24hrs
+Unclassified Fax CSIS Financing Unit): 6133692303
+RCMP National Headquarters
+Headquarters Building
+
+73 LEIKIN DRIVE
+OTTAWA ON K1A 0R2
+Telephone: 6139937267
+TTY 6138251391
+Unclassified Fax Anti-Terrorist Financing Team): 6138257030
+3.7.4 Monitoring Updates to Canadian Sanctions Legislation
+In order to comply with the requirements to freeze property and/or notify the applicable regulatory
+authority (the RCMP and/or CSIS, as required), the MLRO will monitor the various Canadian
+Designated Lists and updates to such lists.
+3.8 Tipping Off
+Tipping off to a Consumer/Merchant is not applicable to Afterpay Canada as it is not a reporting
+entity to FINTRAC. Nonetheless, Afterpay Canada generally prohibits Employees from disclosing
+the existence of STRs or law enforcement agency information submissions except on a need to
+know basis.
+3.9 Information Sharing and Reporting
+Afterpay Canadaʼs AML Program aligns with the regulatory framework established by the FINTRAC.
+In accordance with the PCMLTFA, Afterpay Canada and its partners are bound by contractual
+obligations to facilitate effective information sharing and reporting. This Program emphasizes
+compliance with FINTRACʼs guidelines, including the reporting of suspicious transactions and the
+monitoring of Customer activities.
+Partners are required to adhere to the reporting obligations outlined in Part 1 of the PCMLTFA,
+promptly submitting STRs when necessary. This collaborative approach ensures that Afterpay
+Canada and its partners contribute to the broader national efforts to combat money laundering and
+uphold the integrity of the Canadian financial system. Afterpay Canadaʼs commitment to regulatory
+compliance not only strengthens the AML Program but also demonstrates Afterpay Canadaʼs
+dedication to operating within the legal framework established by Canadian authorities.
+3.10 Compliance with Law Enforcement
+If Afterpay Canada receives either a formal or informal request to produce information from a
+Canadian law enforcement officer or agency, it is Afterpay Canadaʼs policy to cooperate and
+comply with such requests for information or assistance, to the extent permitted by applicable law.
+The MLRO is responsible for coordinating Afterpay Canadaʼs compliance with such requests.
+Afterpay Canadaʼs policy to cooperate with requests from Canadian law enforcement aligns with
+legal obligations, aiding investigations related to financial crimes such as ML/TF, fostering
+regulatory compliance, and demonstrating corporate responsibility in supporting law enforcement
+efforts.
+
+3.11 Record Keeping
+The PCMLTFA mandates that reporting entities, including financial institutions and entities engaged
+in certain businesses, maintain records related to their AML/CTF programs for a specified period of
+time.
+Afterpay Canada will maintain relevant data, information and documents relating to the AML
+Program for a minimum period of seven 7 years. More specifically, this related to the following:
+● Records related to transactional data should be retained for a period of seven years after
+the date of the transaction;
+● Records of the customer identification procedures used to identify a Merchant for the
+duration of the relationship and an additional seven years after the termination of the
+relationship;
+● Records of consumer identity document verification IDV procedures including soft ID
+checks, hard ID checks, and manual verification processes for the duration of the
+relationship and an additional seven years after account closure;
+● Records of beneficial ownership identification and verification for merchants, including
+ownership structure documentation and periodic updates, for the duration of the
+relationship and an additional seven years after the termination of the relationship;
+● Records of customer risk rating assessments CRR/MRR and updates for the duration of
+the relationship and an additional seven years after the termination of the relationship;
+● Records of discrepancy management and resolution for merchant identification and
+verification for a period of seven years after resolution;
+● Records of Corporations Canada database consultations and material discrepancy
+reporting for beneficial ownership verification for a period of seven years after the
+consultation;
+● Records of sanctions screening results, match evaluations, and actions taken on blocked or
+frozen assets will be kept for five 5 years after the date the property was unblocked; and
+● Records relating to the adoption of the AML Program (including any ML/TF risk
+assessments) and any amendments made to the Program for a period of seven years after
+it has ceased to apply.
+Afterpay Canada will also retain records that assist in demonstrating its compliance with the
+Blockʼs Global Policies and Program for a minimum of seven years. This includes, but is not limited
+to, records relating to Employee Due Diligence and AML/CTF risk awareness training programs.
+4. Compliance & Enforcement
+4.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Role 1
+
+○ Description
+● Role 2
+○ Description
+Afterpay CanadaRoles:
+● Money Laundering Reporting Officer MLRO
+○ Responsible for implementing and overseeing this Program, ensuring regulatory
+compliance, and serving as liaison with authorities and partners regarding
+AML/CTF matters.
+● Senior Management:
+○ Communicates and reinforces AML/CTF compliance culture, implements approved
+policies and procedures, and supports the MLRO in program execution.
+● Board of Directors:
+● Establishes comprehensive AML/CTF compliance program, ensures
+appropriate culture and oversight, and appoints qualified MLRO.
+4.2. Monitoring and Reporting
+The MLRO provides regular reports to Senior Management and the Board covering compliance
+status, program effectiveness, regulatory developments, and any issues requiring attention. This
+Program is subject to ongoing oversight and regular review.
+As outlined in the Compliance Management System Policy, Compliance will provide regular
+updates, as applicable, to the Block, Inc. Board and executive management. Reporting may cover
+specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+4.3. Training
+Employee Training and Screening
+Afterpay Canada Employees will (i) acquaint themselves with any AML/Canadian sanctions-related
+requirements as requested by the MLRO, (ii) comply with the AML Program, and (iii) comply with
+Canadian law enforcement requests, if they are directed to do so by the MLRO.
+AML Risk Awareness Training Program
+Afterpay Canada will provide Employees with appropriate training at appropriate intervals. At a
+minimum, all relevant new Employees will receive basic AML and Canadian sanctions training
+within one month of hiring and ongoing training on an annual basis.
+
+Training records are maintained and stored in order to demonstrate the implementation of the
+training program where records are kept for a minimum period of seven 7 years. Training records
+include:
+● Training content and materials, including versions of training materials;
+● Records of training completion; and
+● Where applicable, records of training assessment
+Employee Screening
+As part of Block's global approach to hiring, all employment offers are contingent upon
+satisfactory employee due diligence checks. Employees are screened as part of Blockʼs hiring
+process prior to employment.
+Employee Management
+Any Employee who fails, without reasonable excuse, to comply with any system, control or
+procedure established under this AML/CTF Program, will be subject to disciplinary action in
+accordance with Blockʼs Employee Handbook.
+4.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements with minimum seven-year retention for AML/CTF
+records.
+4.5. Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+Exceptions to this AML Program may be requested in writing to the MLRO for review. The MLRO
+may elect to escalate the request for an exception to the appropriate risk and compliance
+governance forum. The MLRO or designee will keep a record of all exceptions requested and the
+outcome for this Program.
+Staff members may submit exception requests for review at go/policyhelp.
+
+Breaches
+A breach of this Program may result in significant damage to Afterpay Canada and expose
+Afterpay Canada to unintended legal or commercial liabilities. Breaches of this AML Program may
+result in disciplinary action against the Employee, including dismissal in certain circumstances.
+In the event any potential breaches of this AML Program have been identified, the MLRO should be
+consulted.
+The Board and Senior Management will be kept up to date by the MLRO on any ML/TF issues
+arising until resolution of the issue.
+4.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+5. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+● Block Anti-Money Laundering & Counter-Terrorist Financing Policy
+● Block Global Sanctions Policy
+● Afterpay Canada Australian AML/CTF Program
+● Global Merchant Category Policy
+● Customer Risk Policy
+Related Procedures
+Related Procedures
+● Listed Person or Entity Property Reporting Procedure Canada
+● Sanctions Screening Procedure Canada
+● Watchlist Screening Procedure Canada
+● Transaction Monitoring Procedure Canada
+● Suspicious Transaction Reporting Procedure Canada
+● Internal Unusual Activity Referrals Procedure Canada
+● Enhanced EDD & Ongoing Due Diligence ODD Procedure Canada
+● Termination and Suspension Procedure Canada _ Afterpay
+● EverC Merchant Compliance Monitoring Procedure Canada
+Other
+● Block Employee Handbook Canada
+
+● CA Afterpay Consumer Customer Risk Rating
+● CA Afterpay Merchant Customer Risk Rating Model
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad-hoc basis in accordance with the Compliance Document Approval Matrix. Minor changes to this
+Program can be amended with approval from the Afterpay Canada MLRO, and subsequent
+Afterpay Board notification.
+Approval History:
+Approver Title Type Description Date
+NA MLRO Creation New Document July 2020
+NA Compliance Material Cha… Aligning with August 2021
+Associate Global AML/CTF
+policy,
+added:
+- Product Risk
+Assessment
+- Discrepancy
+Management
+- Keeping
+Customer
+Information Up to
+Date
+- Tipping off
+- Consumer CIP
+- Breaches &
+
+Exceptions
+Safiya Aden… Head of Material Cha… Newly formatted March 2024
+Compliance document with
+Canada added sections
+and changed
+& verbiage
+Canada
+Compliance
+Ben Hollister Program Manager
+Safiya Aden… Head of Scheduled R… Annual review May 26, 2025
+Compliance and updates.
+Canada & MLRO Added:
+Sanctions
+evasion
+requirements
+Afterpay Scheduled R… Jun 2, 2025
+Canada Board Provided
+updates to clarify
+on the usage of
+the term
+‘customerʼ vs.
+‘consumer
+Updated
+Discrepancy
+Management
+section Updated
+Risk Assessment
+summary for
+2023
+Added new
+subsection for
+Consumer
+Monitoring
+Updated
+Appendix 1 to
+include updated
+regulations
+
+Afterpay Afterpay Canada Material Cha… 2025 December 8,
+Canada Board Board comprehensive 2025
+update
+incorporating CA
+Consumer IDV,
+risk rating models
+CRR/MRR and,
+enhanced
+sanctions
+FINTRAC
+sanctions
+requirements,
+November 2025
+Ministerial
+Directives update
+for Iran, 2024 risk
+assessment
+results, and uplift
+to 2025 Block
+Standards
+template.
+Document Details:
+Business Afterpay
+Scope Regional Canada
+Compliance Domain Governance
+Document Owner Head of Canada Compliance & MLRO
+Approved By Afterpay Canada Board
+Document Tier Tier 2
+
+Appendix 1
+Please note that the following is provided for informational purposes only and is not meant to serve
+as legal advice. Escalate any situation-specific inquiries to the MLRO or their designee.
+1. What is money laundering?
+Money laundering is generally defined as engaging in acts designed to conceal or disguise the true
+origins of money, the proceeds of which were derived from carrying out illegal activities, so that
+such proceeds appear to have derived from legitimate origins or constitute legitimate assets. There
+are normally three stages in money laundering.
+● “Placementˮ Stage – where the illegally earned money is introduced to the financial system
+(e.g., by depositing into a bank account, converted into monetary instruments such as
+money orders or travellerʼs checks).
+● “Layeringˮ Stage – where the money is converted into a different type of asset (e.g.,
+converting a bank deposit to an unsecured note) or moved to different financial institutions,
+in each case, for the purposes of further separating the money from its criminal origin.
+● “Integrationˮ Stage – where the money is “legitimatelyˮ integrated back into the mainstream
+economy (e.g., by purchasing real estate).
+2. What is terrorism financing?
+Terrorist financing may not involve the proceeds of criminal conduct, but instead may entail an
+attempt to conceal either the origin of the funds or their intended use, which could be for criminal
+purposes. Terrorism financing often involves money raised from legitimate sources, such as
+donations and business profits as well as money from illegal sources to fund terrorism. Those
+involved in terrorism financing often use techniques similar to money launderers, but the funding
+does not always require large sums of money and the associated transactions may not be
+complex.
+3. What is sanctions evasion?
+Canadian sanctions place restrictions on the activities permissible between persons in Canada or
+Canadians outside Canada and foreign states, individuals, or entities. Sanctions evasion is an
+offence arising from the contravention of a restriction or prohibition established by an order or a
+regulation made under the United Nations Act, the Special Economic Measures Act or the
+Justice for Victims of Corrupt Foreign Officials Act Sergei Magnitsky Law). Sanctions are
+subject to change without notice and listings are updated as needed to ensure it includes the
+most accurate and up to date information.
+4. Canadian Sanctions Legislation
+As of November 2025, the following is the list of Canadian sanctions laws.
+● Criminal Code Canada
+● Regulations Establishing a List of Entities
+● United Nations Act Canada
+
+● Regulations Implementing the United Nations Resolution on Eritrea
+● Regulations Implementing the United Nations Resolutions on Iran
+● Regulations Implementing the United Nations Resolutions on South Sudan
+● Regulations Implementing the United Nations Resolution on Lebanon
+● Regulations Implementing the United Nations Resolutions on Somalia
+● Regulations Implementing the United Nations Resolutions on the Democratic Peopleʼs
+Republic of Korea
+● Regulations Implementing the United Nations Resolutions on the
+● Suppression of Terrorism
+● Regulations Implementing the United Nations Resolution on Yemen
+● United Nations Al-Qaida and Taliban Regulations
+● United Nations Democratic Republic of the Congo Regulations
+● United Nations Iraq Regulations
+● Regulations Implementing the United Nations Resolutions on the Central African Republic
+● United Nations Sudan Regulations
+● Regulations Implementing the United Nations Resolutions and imposing Special Economic
+Measures on Libya
+● Regulations Implementing the United Nations Resolutions on Mali
+● Special Economic Measures Act Canada
+● Special Economic Measures Belarus) Regulations
+● Special Economic Measures Burma Regulations
+● Special Economic Measures Democratic Peopleʼs Republic of Korea) Regulations.
+● Special Economic Measures Extremist Settler Violence) Regulations
+● Special Economic Measures Guatemala) Regulations
+● Special Economic Measures Haiti Regulations
+● Special Economic Measures Hamas Terrorist Attacks) Regulations
+● Special Economic Measures Iran Regulations
+● Special Economic Measures Moldova) Regulations
+● Special Economic Measures People's Republic of China)
+● Special Economic Measures Russia Regulations
+● Special Economic Measures South Sudan) Regulations
+● Special Economic Measures Sri Lanka) Regulations
+● Special Economic Measures Sudan Regulations
+● Special Economic Measures Syria Regulations
+● Special Economic Measures Ukraine) Regulations
+● Special Economic Measures Venezuela) Regulations
+● Special Economic Measures Nicaragua) Regulations
+● Freezing Assets of Corrupt Foreign Officials Act Canada
+● Freezing Assets of Corrupt Foreign Officials Tunisia) Regulations
+● Freezing Assets of Corrupt Foreign Officials Ukraine) Regulations
+● Justice for Victims of Corrupt Foreign Officials Act Sergei Magnitsky Law)
+● Justice for Victims of Corrupt Foreign Officials Regulations
+4. FINTRAC Ministerial Directives (as of November 15, 2025
+Iran:
+
+● All businesses subject to PCMLTFA must report every financial transaction to/from Iran
+regardless of amount
+● Enhanced sanctions evasion risk assessment required
+● New correspondent banking relationship requirements
+● Universal identity verification and enhanced due diligence mandatory
+North Korea:
+● High-risk classification for all transactions
+● Enhanced due diligence and reporting requirements
+● Correspondent banking restrictions
+Russia:
+● Enhanced monitoring and due diligence requirements
+● Specific reporting obligations for suspicious activities
+● Customer identification and verification requirements

@@ -1,0 +1,573 @@
+Conduct Standards Policy
+Square | Squareup International Limited
+Last Approved: Mar 30, 2026
+Effective Date: Mar 30, 2026
+1. Overview
+Introduction and Purpose: Squareup International Limited (“SILˮ or “the Companyˮ) is authorised
+by the Central Bank of Ireland (the “CBI ˮ) as an e-money institution (“EMoney Firmˮ) pursuant to
+Regulation 9 of the European Communities Electronic Money) Regulations 2011 (as amended) (the
+“EMoney Regulationsˮ). The Company was incorporated on 26 May 2016 under registration
+number 583287 and was authorised as an EMoney Firm by the CBI on 18 June 2020 (with CBI
+reference number: C184117.
+The Central Bank Individual Accountability Framework) Act 2023 (the “Actˮ) provides for the
+introduction of the Individual Accountability Framework (“IAFˮ), which is designed to:
+● Improve governance, performance, and accountability in regulated firms by establishing a
+framework of enhanced clarity as to who is responsible for what within these firms;
+● Clarify the standards to be met by individuals holding these responsibilities;
+● Promote the embedding of a culture of ethical compliance in regulated firms; and
+● Achieve better outcomes for consumers and users of financial services and for the ongoing
+functioning of the economy.
+The four key areas covered by the Act are noted below and it is the first area, Conduct Standards
+which is governed by this Policy:
+● Conduct Standards, which set out the standards of behaviour the CBI expects of firms and
+certain individuals working within them;
+● A Senior Executive Accountability Regime (otherwise known as “SEARˮ) which ensures
+clearer accountability by imposing obligations on in-scope firms and senior managers
+within them to set out clearly where responsibility and decision-making lies for their
+business. Currently this requirement does not apply to SIL;
+● Enhancements to the Fitness & Probity F&P Regime; and
+1
+
+● Enhancements to CBIʼs Administrative Sanctions Procedure, including a key change
+regarding the CBIʼs ability to take enforcement directly against individuals for breaches of
+their obligations rather than only for their participation in breaches committed by a firm.
+The Conduct Standards, as a key element of the IAF and guidance on the IAF (the “Guidanceˮ)
+came into force in December 2023.
+As a regulated EMoney Firm, the Company and individuals performing certain roles in and on
+behalf of SIL, are subject to the Conduct Standards, and related provisions in the Act and the
+Guidance. The purpose of this Conduct Standard Policy (“Policyˮ) is to facilitate the Companyʼs
+compliance with these obligations. This Policy sets out the Conduct Standards that are applicable
+to SIL and its Controlled Functions CFs and Pre-Approval Controlled Functions PCFs and the
+related obligations under the Act and the Guidance. This Policy is an integral part of SILʼs internal
+IAF, and promotes the integration of the Conduct Standards into the culture and conduct of the
+affairs of SIL, in order to drive the right behaviours and standards in SIL.
+This Policy should be read in conjunction with the Companyʼs Conduct Standards procedure, and
+Fitness and Probity policy and procedures. The Companyʼs HR Business Partner can be contacted
+to obtain a copy of any of these documents, if needed.
+Scope: This Policy is established by SIL and is applicable to individuals that hold CFs or PCFs
+within SIL and individuals that perform CF or PCF roles on behalf of SIL.
+Definitions:
+Terminology Definition
+Controlled A CF is a function performed with respect to a regulated financial service
+Functions provider, like Squareup International Limited (“SILˮ), which is prescribed by
+(“CFsˮ) the CBIas a CF. A full list of CBI-prescribed CFs can be found here.
+CF1 A CF1 is a type of controlled function that has the ability to exercise
+significant influence on the conduct of a regulated financial services
+providerʼs affairs.
+Pre-Approval A PCF is a subset of CFs. PCFs are key roles within a firm and by virtue of
+Controlled the nature of the role, require pre-approval from the CBI. A full list of PCFs
+Functions can be found here on pages 129 - 130.
+(“PCFsˮ)
+Staff All SIL workers including current and former employees, officers, directors,
+consultants, independent contractors, trainees, interns, work experience
+trainees, part-time and fixed-term workers, casual and agency staff,
+volunteers and executive and non-executive directors of the board of SIL.
+This includes those who are in a recruitment or other pre-contractual
+negotiation with SIL.
+2
+
+2. Policy Requirements
+2.1. Conduct Standards
+Introduction to the Conduct Standards
+The Conduct Standards act as a benchmark to guide regulated firms and CFs and PCFs in those
+firms, individually and collectively, as to the standards of behaviour expected of them. The Conduct
+Standards are the basic standards that underpin the provision of financial services and the
+relationships of trust that are central in this area.
+Importantly, the Conduct Standards impose positive, enforceable legal obligations on CFs and PCFs
+to act in accordance with a single set of standards of expected behaviour. That being said the
+Conduct Standards reflect the sound values to which all Staff should already hold themselves.
+The Conduct Standards are comprised of:
+● The Common Conduct Standards, which apply to all CFs and PCFs;
+● The Additional Conduct Standards, which apply to PCFs and CF1 only; and
+● The Business Standards, which apply to SIL as an entity. These standards were developed
+by the CBI in conjunction with the CBIʼs review of the Consumer Protection Code, which
+comes into effect in March 2026. Please see SILʼs Consumer Protection Policy for more
+details.
+The Conduct Standards apply to CFs and PCFs that perform their role in Ireland or abroad, whether
+or not the role is outsourced and the Conduct Standards are to be adhered to whether or not the
+CF/PCF is dealing with customers based in Ireland or abroad.
+Reasonable Steps
+CFs and PCFs must take reasonable steps to discharge their responsibilities and duties under the
+Conduct Standards. CFs and PCFs should consider what steps would be considered reasonable in
+particular circumstances and whether they have taken such reasonable steps. Below are some of the
+factors the CBI may consider when determining if an individual took such reasonable steps:
+● The nature of SILʼs business, including its scale and complexity;
+● The functions of the CF/PCF role, and the level of knowledge and experience that a person
+with such functions could reasonably be expected to have (one such factor would be the
+steps taken to ensure their awareness of key risks and developments, to include regulatory
+developments, that may impact the area of business they are responsible for);
+● The level of knowledge and experience of the person (this includes taking account of
+learning curves if a person is moving into a different or more senior role);
+● The existence and application (or otherwise) of—
+○ appropriate and effective systems (including risk management systems, internal
+control mechanisms and governance arrangements);
+○ effective oversight of any delegation of responsibilities and effective safeguards
+against any inappropriate delegation; and
+3
+
+○ appropriate and effective procedures for identifying and remedying problems.
+● The extent to which any matter in the above bullet point was within the control or influence
+of the person; and
+● Any guidelines published by the CBI in this regard.
+Discharging responsibilities and duties under the Conduct Standards should not be a tick box
+exercise. CFs and PCFs are expected to be experienced, competent professionals and should be in a
+position to:
+● Fully understand the area of the business for which they are responsible;
+● Fully understand their own responsibilities, the inherent responsibilities of their PCF role
+and how they relate to the responsibilities of others in SIL;
+● Fully understand risks and consequences of their decisions and actions and behaviours, on
+SIL, its Staff, its customers and the wider market;
+● Take the necessary steps required to ensure that the area of the business for which they
+are responsible is managed appropriately e.g. by questioning/challenging, being thorough,
+making informed decisions, delegating appropriately and being in a position to discharge
+their duties;
+● Satisfy themselves with the quality of any input provided by other Staff that is required for
+them to carry out their responsibilities; and
+● Understand their role in the effective running of the business more broadly, including their
+obligations in relation to effective collective decision-making and seek to create and/or
+contribute to an overall environment where the risk of a regulatory breach is minimised.
+Please see the section on Collective Decision Making below, for more details.
+Collective Decision Making
+CFs and PCFs must be fully aware of matters for which they are collectively responsible, even if
+other individuals are responsible for those specific areas, so that they can actively contribute to and
+challenge relevant decisions. SIL Board members and other senior managers should also be familiar
+with obligations that apply under the corporate governance framework and Companies Acts in
+respect of their role and responsibilities in decision making at the firm.
+To ensure that SILʼs collective decision making avoids barriers to effective decisions such as
+groupthink, herd behaviour or domineering individuals, CFs and PCFs must exercise due care, skill
+and diligence when partaking in collective decision making. This includes, for example CFs and
+PCFs:
+● Ensuring sufficient attention to and awareness of their own behaviour, cognitive biases of
+participants and the group dynamics that influence the results;
+● Providing input and constructive challenge, in such a way that recognises both the value
+and limitations of their own knowledge, skills and experience;
+● Contributing in an engaging and inclusive manner, and allowing for adequate debate and
+review of the matter(s) at hand including consideration of any potential risks arising from
+such a decision.
+4
+
+Common Conduct Standards
+The Common Conduct Standards apply to CFs and PCFs. They set out the standards of behaviour
+expected of CFs and PCFs, which are to:
+● Act with honesty and integrity in carrying out their responsibilities. This includes:
+○ Having regard to the legitimate interests of SIL, its Staff, its customers and other
+persons with whom SIL engages;
+○ Operating without bias and preventing or identifying and appropriately managing
+conflicts of interest. Individuals must be cognisant that decision-making can be
+affected by the cognitive biases of both individuals and groups. It is therefore
+important for biases to be recognised and acknowledged and to have strategies to
+counteract them e.g. by seeking out broader perspectives and contrarian views,
+where possible. Ongoing and considered reflection is necessary to ensure that the
+avoidance, identification and mitigating of conflicts is properly reviewed and
+handled and that any conflict is fully declared in accordance with SILʼs Conflict of
+Interest Policy;
+○ Not exerting pressure or influence on customers affecting their ability to make an
+informed choice in relation to any financial service;
+○ Not misusing or misappropriating any assets or information of SIL or SILʼs
+customers; and
+○ Reporting appropriately, and not impeding others from reporting, to Leads or SILʼs
+senior management:
+■ information relevant to, or suspicions of any contravention of legal
+obligations or standards imposed on SIL and
+■ any matter otherwise adversely affecting the activities or interests of SILʼs
+customers, SIL, its related undertakings, or the financial system in Ireland.
+● Act with Due, Skill, Care and Diligence - This means CFs and PCFs are:
+○ To act to the best of their ability and in a consistent manner to a standard that could
+reasonably be expected from an individual in that role;
+○ Not expected to exhibit in the performance of their role a greater degree of skill,
+care and diligence than might reasonably be expected from an individual in that role
+with the relevant qualifications, knowledge and experience;
+○ To have a clear and comprehensive understanding of SILʼs business activities that
+are relevant to their role and the specific responsibilities that are to be undertaken.
+This includes, for example, having appropriate knowledge of the legal and
+regulatory framework SIL operates in, SILʼs market, customer base, industry and the
+associated impact on risks, relevant to the CFʼs/PCFʼs role;
+○ To proactively keep themselves informed with regard to developments relevant to
+their role/function, including for example changes in respect of the legal and
+regulatory framework, the firmʼs market, customer base, industry and the
+associated impact on risks by engaging in relevant training and maintaining
+qualifications as required. A CF/PCF should have sufficient knowledge to explain an
+issue and if not they should seek the relevant expertise on a timely basis;
+○ To operate in compliance with SILʼs systems, processes, policies, procedures and
+other controls. Individual compliance should go beyond ‘ticking the boxʼ and
+5
+
+individuals are to use their own initiative to act in a compliant manner rather than it
+being driven by prompts and/or threats of punitive actions;
+○ To act without detriment to SIL, SILʼs customers and the wider Irish financial
+system. Where an individual considers a decision may not be in the best interests
+of customers and following appropriate and effective challenge, they should take
+appropriate follow-up action;
+○ To ensure any communication, including any record, provided to a customer or
+other person is clear, accurate, up to date and not misleading;
+○ To act appropriately in any decision-making, including collective decision-making.
+CFs and PCFs must ensure that all decisions are properly informed and that they
+exercise sound judgement and appropriately contribute to collective decisions, for
+example in Board and committee meetings, senior management meetings, steering
+or project committees related to key business or regulatory initiatives. See section
+on collective decision-making for more details;
+○ Individuals should attend and actively contribute to relevant meetings and be
+appropriately informed of the matters at hand; and
+○ To monitor the performance of any delegated tasks on an ongoing basis, stay up to
+date about issues or activities delegated and ensure that those tasks are
+appropriately performed e.g. receive progress reports and where appropriate
+challenge information received as well as progress made.
+● Cooperate in Good faith and Without Delay with SIL Regulators to include the CBI
+○ This standard does not represent a duty on any CF/PCF to proactively report or
+disclose information. Instead, it is expected that CF/PCFs respond to requests,
+disclose information, and attend meetings/ interviews, when required to do so by
+the regulator, under financial services legislation, in a timely, co-operative and
+transparent manner.
+○ An individual should report any such information, by following SILʼs existing
+processes for reporting information to the CBI i.e. via EU CCO, as CBIʼs point of
+contact. Information should be provided in a prompt and unambiguous manner.
+Providing information in a piecemeal or ambiguous manner could be considered as
+an effort to conceal or evade the detection of information.
+● Act in the Best Interests of Customers and Treat Them Fairly and Professionally - This
+conduct standard applies to CF/PCFs regardless of whether they have direct contact or
+dealings with customers. The focus of this standard is on the outcomes for customers and
+the legitimate expectations of those customers. Complying with this standard means that
+CFs and PCFs must ensure that:
+○ Communication with customers is clear and comprehensible and does not impede
+the provision of relevant information to customers. Relevant information should be
+disclosed to the customer, in a way that seeks to inform the customer;
+○ They act in the best interests of customers and treat them fairly including
+acknowledging and seeking to resolve any customer complaints, resolving errors or
+mistakes affecting customers, and disclose errors or mistakes to the customers
+affected in a timely manner and pay attention to customer feedback which may
+indicate problems which need to be addressed.
+○ In respect of errors or issues arising, individuals should communicate all relevant
+information to the appropriate individuals within SIL in a timely manner. If
+6
+
+responsible for resolving the error or issue, individuals should consider the root
+cause(s), take the necessary action to remedy the root causes and determine
+without delay the extent to which other customers may also be affected. It is
+important for SIL and for individuals to act without having to wait for a complaint or
+other prompt from a customer;
+○ Communication with customers is done in a timely manner having regard to the
+urgency of any matter and the time required by the customer to consider the
+relevant information;
+○ The needs and circumstances of customers, including their level of knowledge and
+experience of financial services, their financial circumstances and the range of
+options available to them are assessed, and ensuring that any advice or
+recommendation provided to customers is appropriate and tailored to their needs
+and circumstances; and
+○ Customers are not misled as to the advantages of any financial service.
+Additional Conduct Standards1
+The additional conduct standards apply to PCF and CF1s. These standards do not apply to other CF
+role holders.
+PCFs and CF1s must take any steps, that are reasonable in the circumstances to take, to:
+● Ensure that SILʼs Business for Which They are Responsible is Controlled Effectively -
+This means PCFs and CF1s must:
+○ Ensure that they fully understand and keep themselves properly informed as to the
+area of the business for which they are responsible, seeking further briefings and
+explanations to the extent necessary;
+■ Certain PCFs/CF1s may have broader responsibilities and therefore should
+ensure they have sufficient information and understanding of the matter(s)
+at hand to participate effectively in collective decisions.
+○ Rationally challenge and debate the matters including review of any risks involved
+in the decision and take appropriate follow-up action where the outcome is not in
+the best interest of the firm and its related stakeholders, including its customers;
+○ In organising the area of business for which they are responsible, PCF/CF1 should
+consider the Board approved plans and strategy and ensure it is appropriate for the
+business and implement in an appropriately controlled way*;
+○ Ensure the necessary framework is in place to effectively oversee and proactively
+monitor, identify and rectify any weaknesses and ineffective systems and controls,
+in areas for which they are responsible. Recommendations on system and control
+improvements should be considered and implemented, where appropriate, in a
+timely manner. In the event that a recommendation is not implemented, an
+individual should have a documented rationale to support the course of action
+adopted;
+1 In the event that SIL avails of an outsourcing exemption under the F&P Standards, and the individual in the outsourced role
+is therefore not a PCF, the individual will be subject to the Additional Conduct Standards to the extent that the individual is
+identified as a CF1.
+7
+
+○ Ensure that the responsibilities, accountabilities and escalations and reporting of
+lines of Staff are clearly defined and understood and appropriately allocated.
+Particular attention should be given by the individual to ensure clear reporting
+lines, authorisation levels and job descriptions/ responsibilities; clarity in the case
+of ‘matrixʼ or dual reporting arrangements whether in Ireland or elsewhere within
+Block; regular review of the appropriateness of responsibilities allocated; an open
+and transparent communication environment is fostered at all levels of reporting
+lines;
+○ Ensure appropriate policies and procedures are in place for reviewing the
+competence, knowledge, skills and performance of Staff and for assessing their
+suitability to fulfil their duties. This includes not giving undue weight to a Staff
+memberʼs contribution to SILʼs financial performance when considering the
+suitability or continuing suitability of that Staff member for a particular role; and
+○ Ensure a comprehensible and orderly transition of personnel changes e.g., having a
+comprehensive set of guidance for the successor, holding transitional handover
+meetings, addressing matters of relevance to performing the function, ensuring
+compliance with regulatory requirements.
+In organising the area of business for which the PCF/CF1 is responsible, the below should be
+considered in each scenario:
+Scenario Consideration
+SIL takes a high-risk Assess the impact of the strategy on the firm and ensure that the
+strategy proposed strategy is implemented in an appropriately controlled way.
+SIL takes a high growth Assess the impact on SILʼs stakeholders, including its customers, of
+strategy successful delivery of the strategy and that it is not at the expense of
+adhering to regulatory requirements.
+SIL is a strategy taker Identify and challenge any aspects of the overseas strategy that may
+from an overseas parent not be compatible with SILʼs business and/or the regulatory and
+company consumer protection framework SIL operates in.
+● Ensure that the SIL Business for Which They are Responsible is Conducted in
+Accordance with its Obligations Under Financial Services Legislation - PCFs/CF1s must
+ensure, for the areas of business they are responsible:
+○ PCFs/CF1s must ensure that areas of the business for which they are responsible
+have appropriate and up to date operating policies and procedures with clear and
+well-defined steps for complying with the detail of all of the relevant regulatory
+requirements;
+○ Compliance with relevant regulatory requirements is appropriately monitored and
+that all Staff are aware of and understand the need for compliance. This includes
+ensuring that: Staff are appropriately trained to enable them to fully understand the
+8
+
+business, evolving regulatory environment and requirements applicable to their
+role; That prompt action is taken to independently investigate concerns with Staff
+performance, in particular where these relate to regulatory compliance. While the
+investigation is ongoing and prior to resolution of the issues arising, an interim plan
+is to be put in place to mitigate any risks identified such that SIL and any relevant
+stakeholders are protected from any performance deficiencies identified. The
+relevant PCF/CF1 must be satisfied that the appropriate actions to resolve the
+concerns are taken, and that weight is not given to a Staff memberʼs contribution to
+SILʼs financial performance when considering the concerns around the Staff
+memberʼs compliance with regulatory requirements;
+○ That appropriate measures with respect to temporary appointments, which the
+PCF/CF1 is responsible for overseeing, are established to avoid increased risk and
+disruption to transitions and mitigate any risk to compliance with regulatory
+requirements; and
+○ That they are kept informed and up to date about actual or potential breaches of
+relevant regulatory requirements. The relevant CF/PCF must ensure that the issue
+is fully resolved in a timely and appropriate manner and steps are taken to mitigate
+the risk of recurrence and that any wider lessons learnt are applied across SIL,
+where required. A cost benefit analysis (“CBAˮ) may be conducted when assessing
+any recommendations for improvements, however, a CBA cannot be the only factor
+considered in driving an ultimate decision. In doing a CBA, firms need to be
+conscious of the wider implications for customers, markets and corporate and
+social responsibility.
+● Ensure that Any Delegated Tasks are Assigned to an Appropriate Person with Effective
+Oversight
+○ Individuals may delegate management of the day to day business where
+appropriate, and whilst retaining overall accountability for the business;
+○ Activities should only be delegated where the accountable person is satisfied that
+the delegate, has the competence, knowledge, seniority, skill and capacity to deal
+with the tasks or activities being delegated; and
+○ Such delegation should be appropriately arranged, managed and monitored
+● Disclose Promptly to the CBI Any Information in Respect of SIL which the CBI Would
+Reasonably Expect Notice, in an Open and Cooperative Manner
+PCFs and CF1s must disclose any information relevant to, or giving rise to a suspicion or
+expectation of, any of the following:
+○ Commission of an offence, a prescribed contravention or any other breach of
+obligations under financial services legislation by SIL or a relevant individual;
+○ Concealment or deliberate destruction of evidence, provision of false or misleading
+information, obstruction or impeding of a relevant investigation;
+○ Commencement of legal proceedings by or against SIL arising from its obligations
+under financial services legislation or which may impact on its ability to continue to
+trade;
+○ Anything that may otherwise interfere significantly with the operation of the SIL or
+its compliance with its obligations under financial services legislation; and
+9
+
+○ A decision by SIL to cease to provide financial services of a particular description;
+By virtue of their role, PCF/CF1s are expected to have access to information of potential regulatory
+significance and to have the expertise to recognise when this is something which the CBI would
+reasonably expect notice of. If in doubt as to what information requires disclosure to the CBI, the
+PCF/CF1 must reach out to the EU CCO and EU Regulatory Counsel.
+If the information to be disclosed to the CBI falls within the scope of the PCF/CF1ʼs responsibilities,
+they should ensure that the EU CCO and EU Regulatory Counsel is made aware and that it is
+promptly disclosed to the CBI. If a decision is made not to report the matter the PCF/CF1 must,
+subject to any legal professional privilege considerations, be able to evidence that this decision was
+made after reasonable enquiry and analysis of the situation.
+If it does not reasonably fall within the scope of the PCF/CF1ʼs responsibilities, and the PCF/CF1
+becomes aware of the information, they should obtain confirmation that the matter is being dealt
+with by the individual who is responsible for its disclosure. If the PCF/CF1 is unsure whether it is
+within the scope of their responsibility or whether the matter is being dealt with by another
+individual, the PCF/CF1 must promptly make enquiries to clarify such responsibilities, rather than
+disregard the matter.
+2.2. Notification
+SIL must integrate the Conduct Standards into its culture , which is done, in part, by notifying all SIL
+CFs and PCFs of their respective Common Conduct and Additional Conduct Standards that are
+relevant to them. This helps inform the CFs/PCFs of the standards and how they apply to them in
+the performance of their individual roles.
+Records must be maintained of these notifications and are to be kept for a minimum of 6 years after
+that person has ceased to perform a controlled function.
+2.3. Temporary Roles
+The appointment of a temporary officer to a PCF role, is permitted in certain circumstances with
+conditions. Temporary officers are CF1 and are subject to the Common and Additional Conduct
+Standards.
+Where an individual has been pre-approved as a PCF the Conduct Standards apply even where an
+appointment is temporary. The temporary nature of the role and the particular circumstances will be
+taken into account when considering what reasonable steps are expected of the individual.
+2.4. Overlap and distinction between Conduct Standards and F&P
+The IAF and F&P, both of which apply to CFs and PCFs are two aspects of one overall framework of
+sound governance, with F&P being about suitability of individuals and the IAF about their ongoing
+conduct.
+The purpose of F&P and the Conduct Standards can be distinguished as follows:
+10
+
+● CF/PCFs must meet the F&P Standards to ensure that they are sufficiently skilled and have
+the requisite integrity to be trusted in their roles;The F&P Standards are relevant to
+assessing a CF/PCFʼs suitability prior to their appointment and on an ongoing basis while
+performing the role; and
+● The Conduct Standards govern the conduct of individuals in CF/PCF roles, and only apply
+once the CF/PCF is in the role.
+As there is a distinction between the two, where an individual is exempt from the F&P Standards, that
+individual will be in scope for the Conduct Standards and may be held individually accountable for
+their conduct and behaviour in the role.
+2.5. Non Compliance
+Breaches of the Common Conduct Standards and/or Additional Conduct Standards is a ‘prescribed
+contraventionʼ and is directly enforceable by the CBI i.e. the CBI can, amongst other things, levy
+sanctions (which may include monetary fines) against SILʼs PCFs/CFs who breach the Conduct
+Standards. SIL and its CFs/PCFs must report suspicions of prescribed contraventions to the CBI. An
+individual should report any such information, by following SILʼs existing processes for reporting
+information to the CBI i.e. via EU Chief Compliance Officer, as CBIʼs point of contact.
+A breach of the Conduct Standards may result in the individual not complying with the F&P
+Standards, and in such instances SIL cannot permit that individual to perform, or continue to
+perform, the PCF/CF role. Similarly, a breach of the F&P Standards may equate to a breach of the
+Conduct Standards. Each breach will be determined based on the facts and circumstances of the
+specific case.
+SIL must consider how the failure to meet the Common Conduct Standards could be linked to
+matters such as performance review and promotion in order that such standards become
+meaningfully embedded in the culture of SIL.
+2.6. Governance and Oversight
+The firmʼs training program in relation to Conduct Standards should be subject to oversight and
+challenge by senior management to ensure that the firmʼs training program adheres to IAF legislative
+and regulatory requirements, is adequately embedded into the firmʼs day-today activities, including
+the performance review process, and identifies areas of enhancement where required.
+Senior management must ensure that it is provided with timely and effective management
+information in relation to Conduct Standards training and that appropriate remediation action is taken
+where required. The scale and level of detail contained in such reporting should be proportionate to
+the nature, scale and complexity of the firm.
+SIL must ensure that policies implementing the Conduct Standards are well communicated across
+the business and SIL continually reviews its control framework and where gaps are identified take
+the necessary steps to review, improve and update such policies where required. This review must
+be subject to oversight and challenge by senior management.
+11
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Individual CFs and PCFs:
+○ Individual CFs and PCFs are responsible for adhering to the Conduct Standards and
+notifying SILʼs HR Business Partner if they fail or suspect they will fail to adhere to
+them.
+○ CFs and PCFs must take reasonable steps to discharge their responsibilities and
+duties under the Conduct Standards.
+● SILʼs Board of Directors (“the Boardˮ):
+○ The Board is ultimately responsible for SILʼs compliance with the Central Bank
+Individual Accountability Framework) Act 2023 and related Guidance. However,
+from an operational perspective, responsibility for the day-to-day implementation of
+this Policy is delegated to certain individuals in the appropriate functions.
+○ Directors are responsible for discharging their fiduciary duties under the
+Companies Act 2014, which are complementary to the Common Conduct
+Standards. This includes, taking part in meetings, preparing and reviewing papers
+in advance of meetings, actively participating in collective decisions, constructively
+challenging, engaging in consultation and reporting to the relevant body or
+committee as required.
+○ The Conduct Standards to be met by (independent) non-executive directors relate
+purely to their non-executive, oversight functions and will be limited to what should
+reasonably be expected of individuals in that context.
+● SILʼs HR Business Partner (“HR Business Partnerˮ):
+○ SILʼs HR Business Partner is responsible for executing SILʼs individual
+accountability framework and related procedures and is to assist the Board in
+relation to its compliance with the Central Bank Individual Accountability
+Framework) Act 2023 and the related guidance.
+● EU Regulatory Counsel:
+○ The EU Regulatory Counsel is responsible for updating the Board and the HR
+Business Partner as to any changes in law or guidance from the Central Bank of
+Ireland in relation to the Central Bank Individual Accountability Framework) Act
+2023, the related guidance and/or the individual accountability framework regime
+on an ongoing basis.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+12
+
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● SIL | Conflict of Interest Policy
+● SIL | Consumer Protection Policy
+● SIL | Fitness and Probity Policy
+13
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Danielle Car… EU Regulatory Creation Creation of policy Feb 10, 2024
+Compliance
+Officer
+cathal@squ… EU Regulatory Initial Appro… Creation of policy Feb 27, 2024
+Counsel
+Elizabeth He… EU CCO Initial Appro… Creation of policy Feb 27, 2024
+SIL Board Board of Initial Appro… Creation of policy Mar 25, 2024
+Directors
+Elizabeth He… EU CCO Scheduled R… Creation of policy Feb 27, 2025
+SIL Board Board of Scheduled R… New template, no Mar 24, 2025
+Directors other changes
+Elizabeth He… EU CCO Scheduled R… New policy Feb 12, 2026
+template;
+Take account of
+revised Fitness
+and Probity
+Guidance.
+Changes include:
+noting Temporary
+Officers are CF1s
+and that the
+Common and
+Additional
+Conduct
+Standards apply
+to them; and
+certain PCF roles
+have inherent
+responsibilities;
+Take account of
+revised Consumer
+14
+
+Protection Code.
+Changes include:
+incl. of Standards
+for Business CPC
+principles)
+NA SIL Board Scheduled R… Mar 30, 2026
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Ethics & Employee Conduct
+Document Owner EU CCO
+Approved By SIL Board
+Document Tier Tier 2
+15

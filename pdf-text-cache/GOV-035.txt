@@ -1,0 +1,412 @@
+Global Compliance Monitoring and Testing
+GCMT Program
+Block, Inc.
+Last Approved: Mar 26, 2026
+Effective Date: Apr 1, 2026
+1. Overview
+Introduction and Purpose: This Global Compliance Monitoring and Testing Program (“Programˮ)
+outlines Blockʼs approach to Regulatory Compliance Testing and Monitoring within the Compliance
+organization. The GCMT Program Lead is responsible for management of this Program.
+Block, Inc. (herein referred to as “Blockˮ or the “Companyˮ) is committed to maintaining a robust
+Global Compliance Monitoring & Testing GCMT function and maintaining compliance with the
+laws and regulations governing the conduct of its business. As part of this commitment, Block
+developed this Program to define the GCMT function, its purpose, and general responsibilities.
+The GCMT function tests and reports on the effectiveness of internal controls so that control
+owners can take prompt remedial action. GCMT is part of the second line of defense in Blockʼs
+three lines of defense risk management model. GCMT brings a systematic, disciplined testing
+approach to Blockʼs oversight activities. Compliance testing serves as an independent and
+objective assurance activity designed to enhance Blockʼs oversight activities.
+GCMT is granted authority access to records, reports, systems, and personnel necessary to
+execute risk-based compliance monitoring and testing.
+The purpose of the GCMT function is to support Blockʼs risk governance framework. GCMT
+provides periodic monitoring and testing of compliance activities and control environments to
+determine whether internal controls over compliance activities are adequately designed and
+functioning effectively. Other approaches we can take include:
+● ‘Go liveʼ Readiness Assessments
+● Post-Implementation Reviews
+
+● Consultations to evaluate the alignment between frameworks, policies, and regulations
+First and second line of defense employees, including Managers, Officers, and Executives, must
+be familiar with this Program.
+Scope: This Program applies to Block, Inc., its subsidiaries, and affiliates (collectively, “Blockˮ),
+including all products.
+Definitions:
+Terminology Definition
+Business Units Any business or administrative group or team that develops or supports
+Blockʼs products and services.
+Compliance Risk The risk of legal or regulatory sanctions, material financial loss, or loss to
+reputation that the company may suffer as a result of its failure to comply
+with compliance laws, regulations, codes of conduct, regulatory guidance
+and expectations, as well as group wide policies, rules and standards.
+Corrective Internal Corrective internal controls (or compensating controls) are designed to
+Controls correct undesirable outcomes or control failures that have occurred.
+Examples of corrective internal controls include software patches,
+disciplinary actions, new policies or procedures, and validation testing.
+Committee of The Committee of Sponsoring Organizations of the Treadway Commission
+Sponsoring COSO developed a model for evaluating internal controls. This model is
+Organizations of widely accepted and is recognized as the standard against which
+the Treadway organizations measure the effectiveness of their systems of internal control.
+Commission
+Detective Internal Controls designed to uncover undesirable events, errors, and irregularities
+Controls that may have occurred, for example, assessments of existing controls,
+self-assessments, and quality control reviews.
+Issues Fails to meet a specific requirement of contract, law, regulation,
+compliance policy, program document, or internal procedure.
+Institute of The Institute of Internal Auditors IIA is a recognized international
+Internal Auditors professional association which develops standards, guidance, and
+certifications.
+Internal Control A process effected by an entityʼs board of directors, management, and
+other personnel, designed to provide reasonable assurance regarding the
+achievement of objectives relating to operations, reporting, and
+compliance.
+2
+
+Enhancement A minor control weakness that is being addressed through a project or
+Opportunity initiative causing the residual risk to be considered as negligible i.e it does
+not meet the threshold level to be reported as an issueControl owners have
+the option to accept the proposed enhancement opportunity or accept the
+potential risk. Accepting the enhancement opportunity will require a
+management action plan MAP or if it is not accepted, a rationale for this
+decision.
+Preventive Proactive internal controls (such as policies, procedures, separation of
+Internal Controls duties and Quality Assurance reviews) designed to prevent a negative event
+from occurring.
+Recommendation The proposed measure(s) to be taken to correct an observed gap or
+out-of-compliance situation. Control owners have the option to accept the
+proposed recommendation or provide their own management action plan.
+Testing An end-to-end review of a business unitʼs processes, which includes the
+underlying policies, frameworks, and controls. The type and approach of
+testing will be driven by the agreed scope objective and may vary in
+degrees.
+2. Block, Inc. Requirements
+2.1. Testing Methodology
+The Testing methodology was built around the Committee of Sponsoring Organizations COSO of
+the Treadway Commission framework and the Institute of Internal Auditors IIA guidance.
+Compliance tests are conducted in four phases:
+2.1.1. Administration
+● Develop an annual test plan
+● Obtain feedback, input and approval from stakeholders
+● Distribute annual test plan to stakeholders and senior leadership
+● Communicate the plan to appropriate local risk and Block level committees
+2.1.2. Planning
+● Review applicable regulations, policies, procedures, open issues, internal audits and
+independent reviews, as available
+● Complete scoping document and outline testing focus areas
+● Inform key stakeholders via engagement email and obtain completed information Request
+form
+● Schedule kick off/walkthrough meeting
+● Request view only system access
+2.1.3. Testing
+● Develop work papers, document test scripts, select testing techniques, and sampling
+methodology.
+● Test samples and retain supporting documentation
+3
+
+● Schedule status meetings
+● Schedule a vetting meeting, present the Results Matrix, and ask control owners to provide
+a Management Action Plan MAP for each recommendation (if they accept GCMTʼs
+recommendations) or their rationale for not accepting GCMTʼs recommendations.
+2.1.4. Planning
+● Review applicable regulations, policies, procedures, open issues, internal audits and
+independent reviews, as available
+2.2. Monitoring Methodology
+2.2.1. Administration
+● Develop the annual monitoring plan and calendar in alignment with GCMTʼs Annual Plan.
+For Afterpay Data Monitoring:
+● Identify and prioritize any new key monitoring areas and metrics in coordination with
+Compliance, Legal, and operational partners—both during annual planning and through
+insights gained from ongoing testing reviews.
+● Obtain stakeholder input, feedback, and approval on existing and or newly proposed
+metrics and monitoring coverage.
+● Confirm resource assignments, roles, and responsibilities to support ongoing monitoring
+execution, analysis, and reporting.
+For a monitoring review:
+● Determine the specific scope, objectives, and schedule during the annual planning cycle.
+● Develop the detailed scope and review criteria in conjunction with stakeholders.
+● Conduct targeted reviews and issue reports within agreed timeframes
+2.2.2. Requesting Data
+● If the tester has access to the data, write/update code to extract the latest data or request
+data to be supplied by the appropriate business data team or business unit stakeholder. If
+the tester does not have access to the data, submit a JIRA ticket data request, set up time
+with the appropriate data analytics teams to share your data requirements and or work with
+the data team to define your requirements.
+2.2.3. Reporting
+● Issue monitoring reports, dashboards, and/or data to appropriate stakeholders in
+accordance with the agreed rhythms.
+● Issues are entered into Blockʼs Risk, Controls, and Issue Management system with action
+owners and due dates.
+2.3. Additional Information
+4
+
+2.3.1. Conduct
+The GCMT function is expected to:
+● Act with integrity
+● Perform its duties in compliance with Blockʼs policies
+● Ensure objectivity and independence
+● Develop an annual, risk-based test plan
+● Provide proper supervision to testers performing compliance reviews
+● Encourage management to adopt appropriate policies, procedures, and controls
+2.3.2. Risk Assessments
+Risk assessments are performed by a third party or Block personnel not directly involved in testing
+activities (e.g., 1LOD, Risk and Compliance personnel). Where a risk assessment has not been
+completed, GCMT will undertake a process to identify and document the key risks and controls from
+stakeholders and business documentation.
+2.3.3. Risk-Based Annual Monitoring & Testing Plan
+The Global Compliance Monitoring and Testing Program Lead prepares an annual risk-based
+monitoring and testing plan considering available information, such as:
+● Regulatory inventory for key requirements/guidance applicable to a product,
+● Compliance and Anti Money Laundering and Sanctions risk assessments
+● Risk control inventory mapped to products and regulations,
+● Regulatory data monitoring metrics of key controls
+● Current and emerging regulatory landscape
+● Historical results of compliance control effectiveness
+● internal audit coverage areas,
+● Independent reviews,
+● New regional or product expansion.
+The Compliance Monitoring and Testing Lead also considers requests submitted by the Block Chief
+Compliance Officer, Global and regional Compliance Leads, management, Global and regional Legal
+and Privacy Leads and bank partners.
+The Head of Governance, Compliance approves the consolidated annual monitoring and testing plan.
+Bank partners may approve sub-sections of the annual monitoring and testing plan and any material
+modifications to the programs they sponsor.
+Where required, the monitoring and testing plan may be updated during the period. This may occur
+due to changes or delays in the anticipated implementation of a process or framework, products and
+processes are on the same rails, being retired or migrated or where an additional need has been
+5
+
+identified, e.g. action from an internal audit review. Memorandumʼs are issued to stakeholders for
+material changes to the plan.
+While developing the monitoring and testing plan, where applicable GCMT considers all the above
+elements to determine a monitoring and testing frequency which can be a maximum of 12 months
+for high risk, 24 months for Moderate risk and 36 months for low risk.
+2.3.4. Types of Monitoring & Testing Activities
+GCMT performs a variety of assurance activities:
+Review Type Review Description Review Examples Frequency
+Duration
+Testing Conducted on established Block level 12 weeks - New Licence Annually or
+Review programs, regulatory guidelines/ Obligations as needed
+requirements, local business level - Complaints
+programs, high risk products, and Program or
+standard operational procedures. These Compliance
+reviews are intended to test the design Management
+and operational effectiveness of Systems
+processes and controls for adherence to - Global Scope
+regulatory guidelines/requirements,
+program policy and procedures, as well
+as the adequacy in addressing certain
+targeted risks (i.e. AML. A design review
+can involve comparison of existing or new
+programs, guidelines/regulations and
+procedures. An operational effectiveness
+review can involve testing
+account/transactional/regulatory or
+procedural steps to determine the
+effectiveness of processes and controls.
+A testing review typically requires
+assessment of the program from
+end-to-end and would require
+involvements from cross-functional
+business units who support the program
+(i.e. Policy and Product owners,
+oversight/reporting, system/model
+owners, operations/client services).
+Monitoring Conducted on specifically defined 4 Weeks Dedicated Annually or
+Review regulatory sections and compliance Reviews based as needed
+policies and procedures. The accelerated on Compliance
+Risk
+6
+
+review is intended to validate the Assessments
+operating effectiveness of a targeted area
+that its scope is well defined and requires
+limited planning activities.
+A monitoring review can also be used for
+regulatory program reviews of a simpler
+product/process, in which the review can
+be completed in a shorter duration.
+Post-Impleme Conducted to test key compliance 412 Weeks Product As needed
+ntation controls and processes are working in specific
+Review accordance with their stated objective, features and
+post their implementations. The controls to
+implementations might not have direct meet
+regulatory implications but are considered regulatory
+key in addressing critical risks identified obligations
+to Blockʼs compliance program(s) (i.e.
+platform restriction controls).
+Data Established with metrics intended to Continuous Consumer Monthly
+Monitoring measure ongoing terms of service, r orders
+(applicable regulatory compliance and the declined due
+to late fees
+only to effectiveness of key controls and
+reaching $500
+Afterpay) processes through the use of data
+in 12 months
+analytics (where available).
+Go Live Conducted to establish that a regulatory 4 weeks New Licence As needed
+Readiness or policy requirement has a obligations/
+Assessments corresponding control/process in place. Industry
+Standards and
+This may be a tick and tie only exercise to
+Guidelines
+identify compliance gaps or can be a
+combination of design and or control
+effectiveness testing.
+2.3.5. Issues
+Issues reveal deficiencies, or weaknesses, that have a potential risk impact on the compliance and
+risk management framework.
+2.3.6. Direct Responsible Individuals Responses
+7
+
+Issues communicated to the directly responsible individual DRI during the engagement and require
+a response with actions and due date for completion. The DRI is expected to provide a response as
+soon as possible, but no later than five calendar days from formal issuance of the draft report.
+2.3.7. Compliance Testing Report
+Testing activities are generally conducted in line with the timeframes stipulated in the final scope
+document. The final report is distributed to all key stakeholders, including the Block Chief
+Compliance Officer, compliance and legal partners, the line of business, the head of Internal Audit
+and bank partners. The report includes an executive summary, the test scope, the testing
+methodology, the number of issues and enhancement opportunities, the DRIʼs action plan, and the
+target date for resolution.
+2.3.8. Issue Tracking and Validation Testing
+GCMT will record issues and management action plans in the Blockʼs Risk, Controls and Issue
+Management system. These entries will include the issue and action plan owner and due dates.
+These are responsible for providing regular updates of the issue and documentary evidence to
+support the closure of the issue in accordance with the Enterprise Issue Management Program.
+GCMT will validate the documentation received to determine if it is satisfactory to close the
+management action.
+2.3.9. Past Due Action Plans and Repeat Issues
+Details regarding past due corrective action plans will be reported to the various local and
+international governance meetings in accordance with the Block Enterprise Issue Management
+Program, including compliance, audit, risk committeesʼ and board meetings.
+2.3.10. Regulatory Guidance
+This program leverages guidance contained in the following (inclusive, but not exhaustive)
+documents:
+● 12 CFR 30, Appendix D. II. C
+● Comptrollerʼs Handbook - Corporate and Risk Governance, Version 2.0, July 2019, pg 39
+● Board of Governors of the Federal Reserve System, Supplemental Policy Statement on the
+internal Audit Function and Its Outsourcing, SR 131 Jan. 2013
+● Board of Governors of the Federal Reserve System, Amended Interagency Guidance on the
+Internal Audit Function and Its Outsourcing, SR 035 Apr. 2003
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+8
+
+Block, Inc. Roles:
+● First line of defense:
+○ Owns the risk associated with their activities and the responsibility for managing
+compliance risk within their environment through ongoing preventive, corrective,
+and detective internal controls. They are accountable for periodically performing
+quality assurance and quality control activities, developing new internal controls,
+and enhancing existing controls to mitigate risk. The 1st line of defense LOD
+includes business units responsible for developing and managing products and
+services offered by Block.
+● Second line of defense:
+○ The Second Line of Defence includes compliance functional teams and Monitoring
+and Testing. Compliance functional teams provide compliance and oversight in the
+form of frameworks, policies, tools, reporting and techniques to support risk and
+compliance management.
+○ GCMT are responsible for performing risk-based compliance monitoring and testing
+activities, reporting on the effectiveness of internal controls, and providing
+oversight and advice to the 1st LOD.
+● Third line of defense:
+○ Refers to the internal audit function. Internal Audit supports Blockʼs business
+objectives and provides independent assurance on the effectiveness of risk
+management, control framework, and processes managed by the first and second
+LOD. Internal Audit reports to the Board of Directors and senior management.
+● Compliance Monitoring and Testing Program Lead:
+○ Oversees the GCMT function. Maintains the Global Compliance Monitoring and
+Testing Program. Approves the annual risk-based test plan and approves the Global
+Compliance Monitoring and Testing Program.
+● Block Chief Compliance Officer:
+○ Receives recurring reporting on Program.
+● Head of Governance, Compliance:
+○ Approves the annual risk-based test plan and approves the Global Compliance
+Monitoring and Testing Program.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Program Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board (or a committee thereof),
+Subsidiary Boards and Senior Management. Reporting may cover specific information related to:
+● Customer Complaints
+● Monitoring and Testing Results
+● Corrective Action Updates
+● Training results:and;
+9
+
+● Regulatory Examinations and Findings
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History
+Approver Title Type Description Date
+N/A N/A Creation Block, Inc. performs November 2020
+analysis of need for
+10
+
+Program documentation.
+Program Document
+drafted.
+John Alfano Global Policy Initial Approval Program is submitted to March 2021
+& Governance
+GPG Lead and approved.
+GPG Lead
+Amelia Chil… Global Chief Scheduled Re… Program is submitted to March 2021
+Compliance
+Global Chief Compliance
+Officer GCCO
+Officer and approved.
+John Alfano Global Policy Scheduled Re… Program is submitted to April 2022
+& Governance
+GPG Lead and approved.
+GPG Lead
+John Alfano Global Policy Scheduled Re… Program is submitted to May 2023
+& Governance
+GPG Lead and approved.
+GPG Lead
+John Alfano Global Policy Scheduled Re… Program is submitted to January 2024
+& Governance
+GPG Lead and approved.
+GPG Lead
+Keith Roche Compliance Scheduled Re… Program is submitted to February 2025
+Monitoring &
+the Compliance
+Testing Lead
+Monitoring and Testing
+Lead.
+Keith Roche Compliance Scheduled Re… Program is submitted to March 2026
+Monitoring
+the Compliance
+and Testing
+Program Lead Monitoring and Testing
+Program Lead.
+John Alfano Head of Scheduled Re… Scheduled review March 2026
+Governance,
+Compliance
+Block
+11
+
+Document Details
+Business Block
+Scope Global
+Compliance Domain Governance
+Document Owner Compliance Monitoring and Testing Program Lead
+Approved By Head of Governance, Compliance Block
+Document Tier Tier 3
+12

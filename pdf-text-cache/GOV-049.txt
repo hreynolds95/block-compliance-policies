@@ -1,0 +1,316 @@
+Continuous Customer Risk
+Rating Standard
+Square
+May 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc. and
+on a need-to-know basis.
+Continuous Customer Risk Rating Standard | Square
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 5
+1. Introduction 7
+2. Purpose 7
+3. Scope 8
+4. Standard Requirements 8
+4.1 Process Presentation 8
+4.2 Standard Design 9
+4.2.1 Empirical Customer Risk 9
+Activation Customer Risk Rating (aCRR) 9
+Continuous Customer Risk Rating (cCRR) 10
+4.2.2 Intrinsic Customer Risk 10
+4.2.3 Eligibility 10
+Evaluation Eligibility 10
+Alerting Eligibility 10
+Intrinsic Risk Alerting Eligibility 11
+Empirical Risk Alerting Eligibility 11
+4.3 Model Usage 11
+4.3.1 Intended Usage 11
+4.3.2 Non-Intended Usage 11
+4.4 Reviews & Revisions 11
+5. Document Management 12
+5.1 Document Owner 12
+5.2 Review and Approval 12
+6. Monitoring and Reporting 12
+7. Exceptions 12
+8. Record Retention 13
+9. Related Documentation or References 13
+10. Revision and Approval History 13
+11. Document Details 14
+Continuous Customer Risk Rating Standard | Square
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Customer Risk A methodology/model used in risk determination of a customer account both
+Rating (“CRRˮ) initially and on an ongoing basis.
+Activation Customer A machine learning model and score associated with a one-time snapshot of
+Risk Rating (“aCRRˮ) initial customer risk taken at onboarding.
+Continuous A machine learning model and score associated with a periodically updated
+Customer Risk (i.e. ongoing) assessment of customer risk.
+Rating (“cCRRˮ)
+Empirical Customer A risk score determined using machine learning and data, reflecting the
+Risk likelihood that a customer or account poses a financial crime risk.
+Intrinsic Customer Risk of a customer as determined by the presence of a specific attribute, or
+Risk intrinsic risk factor. Intrinsically high-risk customers are considered high risk
+regardless of empirical risk.
+Above the Line A phrase indicating that an account meets all predefined criteria.
+(“ATLˮ)
+Below the Line A phrase indicating that an account does not meet all the predefined criteria.
+(“BTLˮ)
+Identity Verification The process of confirming an individual or business identity.
+(“IDVˮ)
+Enhanced Due An in-depth set of procedures and holistic review of a customer by operation
+Diligence (“EDDˮ) teams.
+Staff Members All full-time employees and fixed-term and contingent workers including
+interns, temps, consultants, vendors, third-party providers, and contractors.
+Roles and Responsibilities
+Role Responsibility
+Compliance ● Review alerts and investigate associated activity
+Operations ● Decision alerts
+● Escalate accounts for unusual or suspicious activity
+International ● Approver of the standard
+Compliance Leads ● Reviewer of individuals/businesses escalated by Compliance for the
+specific region
+Continuous Customer Risk Rating Standard | Square
+4
+
+Confidential and Not for Distribution
+Policy & Governance ● Development and maintenance of Blockʼs Model Governance Policy
+Team
+Model Risk ● Complete periodic model validation of the CRR models
+Management Team
+Regulatory ● Establish and maintain CRR models, parameters, thresholds, and
+Compliance queueing infrastructure
+Machine Learning ● Provide reporting to senior leadership on queue completion,
+performance, and enhancements
+Continuous Customer Risk Rating Standard | Square
+5
+
+Confidential and Not for Distribution
+1. Purpose
+The cornerstone of a strong anti-money laundering (“AMLˮ) compliance program is the adoption and
+implementation of risk-based due diligence policies, procedures, and processes for all customers,
+particularly those that present a higher risk for money laundering and terrorist financing. In order to
+achieve this, Square has designed and implemented a customer risk rating standard that assesses a
+customer's profile, assigns a risk rating, and monitors the risk levels of customers.
+This Continuous Customer Risk Rating Standard (“Standardˮ) outlines Squareʼs approach to assessing and
+monitoring risks posed by customers. The Regulatory Compliance Machine Learning Lead or their
+designee is responsible for management of this Standard.
+This Continuous Customer Risk Rating (“CRRˮ) Standard (the “Standardˮ) enables Square to apply
+appropriate risk-based controls to mitigate potential exposure to money laundering, terrorism financing,
+and financial crimes. Improper assessment of a customerʼs risk can have a cascading effect, creating
+deficiencies in multiple areas of internal controls and resulting in an overall weakened AML compliance
+program.
+All new and/or active customers are risk-rated daily using a ML-based Continuous CRR (“cCRRˮ) model.
+This model defines the risk ratings for customers, which may be used in part to determine the customers
+that may require enhanced due diligence by Compliance teams. The relevant team leads, along with
+Regulatory Compliance Machine Learning, establish the criteria for the usage of the cCRR model output.
+This document covers the development and design of a machine learning MLbased CRR standard for all
+markets in which Square operates, and is applicable to all Staff Members and subsidiaries used for the
+Square business. Exclusions, if any, will be case-by-case and documented explicitly.
+Model Usage
+Intended Usage1
+The intended usage of the cCRR model is to:
+1 Reflects key usage scenarios without necessarily being exhaustive. Specific details are captured in the system documentation.
+Continuous Customer Risk Rating Standard | Square
+6
+
+Confidential and Not for Distribution
+● Generate regular risk scores for customer accounts;
+● Combine the model score with heuristic criteria to identify empirically high-risk customers for
+manual review; and
+● Potentially be used in part to determine other applications, such as KYC information refresh
+frequency, quality control sampling, etc.
+Non-Intended Usage
+The intended usage of the cCRR model does not include taking automatic negative action (i.e. without
+human intervention) on a large number of customers.
+2. Customer Risk
+2.1 Empirical Customer Risk
+Square uses machine learning models to assess the risk of each customer. These assessments of
+customer risk include a variety of sources of information about a customer, and models are trained using
+historical data. We refer to model-based assessments of customer risk as empirical risk. Square uses two
+machine learning models to assess empirical risk across the life of a customer: the Activation CRR and
+Continuous CRR models.
+Activation Customer Risk Rating (aCRR)
+Every customer who onboards through the automated payment onboarding flow and successfully passes
+identity verification (“IDVˮ) is evaluated by the aCRR machine learning model. The aCRR model evaluation
+produces a score between 0.0 and 1.0, with 1.0 indicating maximum risk and 0.0 indicating minimal risk.
+This score should be thought of as a one-time snapshot assessment of the risk associated with the
+attributes of a customer that are observable during onboarding. A customerʼs aCRR score is stored and
+used as an input into the cCRR model. Additional details on aCRR can be found in
+Activation Customer Risk Rating Standard | Block .
+Continuous Customer Risk Rating (“cCRRˮ)
+Customers globally are evaluated daily by the cCRR machine learning model. The cCRR model produces a
+score between 0.0 and 1.0, with 1.0 indicating maximum risk and 0.0 indicating minimal risk. The cCRR
+model leverages a wide range of information about a customer and their behavior. This score should be
+Continuous Customer Risk Rating Standard | Square
+7
+
+Confidential and Not for Distribution
+considered a current assessment of the risk of suspicious/illicit activity posed by a customer given the
+information available as of the evaluation date.
+Square refers to customers who display high cCRR model scores as empirically high risk, meaning that
+their overall data (i.e. their actions and collection of attributes) led the model to consider them sufficiently
+risky to receive additional scrutiny in the form of Enhanced Due Diligence (“EDDˮ) review.
+2.2 Intrinsic Customer Risk
+Machine learning-based empirical assessments of customer risk can be powerful, and in some markets,
+these empirical assessments of risk may be sufficient to fully describe the high-risk population under
+Squareʼs CRR Standard. In some markets, however, there may be certain characteristics a customer
+displays that Square believes should lead them to be considered as high risk, regardless of their empirical
+model scores. Square refers to this as intrinsic customer risk; the specific attributes that lead to this
+assessment are referred to as intrinsic risk factors. Which attributes, if any, are considered to be intrinsic
+risk factors will vary across markets, based upon the specific risk profile of each market.
+A customer is considered to be intrinsically high risk if they display one or more intrinsic risk factors.
+Intrinsically high-risk customers are subjected to regular monitoring equal to or exceeding that of
+empirically high-risk customers.
+3. System Architecture
+Process Presentation
+Figure 1 Process flow diagram to use cCRR in conjunction with country specific business logic to generate
+alerts for review by Compliance Operations:
+Continuous Customer Risk Rating Standard | Square
+8
+
+Confidential and Not for Distribution
+4. Machine Review Parameters
+The Regulatory Compliance Machine Learning Team manages the cCRR model and is responsible for the
+training, rollout, execution and periodic updates. The change management process in the following
+document should be conformed to for any changes to the cCRR model:
+Block - Model Change Management Procedure
+Square takes a trigger-based approach to tuning the cCRR model. cCRR model thresholds will be re-tuned
+in the event that the BTL sample productivity rises above 5%. The cCRR model will be initially eligible for
+re-tuning one year following deployment, and will be monitored for re-tuning on a continuous basis
+thereafter.
+In addition, the cCRR model will be revisited as necessary, including when new products or services are
+offered, there are material legal and/or regulatory changes, material updates are made to existing
+products, and/or when new markets are entered that will impact the companyʼs risk profile.
+Continuous Customer Risk Rating Standard | Square
+9
+
+Confidential and Not for Distribution
+4.1 ML Model Details
+For ML model details, please refer to Section 4.1 in Square - Global Continuous CRR System Design.
+4.2 Global Sampling
+For global sampling details, please refer to Section 4.2 in Square - Global Continuous CRR System
+Design.
+5. Eligibility Determination
+5.1 Evaluation Eligibility
+Evaluation eligibility refers to those customers who are eligible to be evaluated by the cCRR model. All new
+and/or active customers are considered eligible to be evaluated by the cCRR model.
+5.2 Alerting Eligibility
+Not all customers who are evaluated may be immediately eligible for EDD review.There may be certain
+minimum eligibility requirements that must be met in order for a customer to become eligible for alert
+generation. Eligibility requirements may differ for assessments of Intrinsic Customer Risk and Empirical
+Customer Risk, and may differ for initial and ongoing review. In each case, Square seeks to maximize the
+customers eligible for review during their lifecycle, while providing agents sufficient data to reach a
+high-confidence decision upon review.
+5.3 Intrinsic Risk Alerting Eligibility
+Intrinsically high-risk customers, due to their high-risk nature, have lower eligibility requirements than their
+empirically high-risk counterparts, which are determined by the risk appetite of each market.
+5.4 Empirical Risk Alerting Eligibility
+Square takes a risk-based approach to determining eligibility for the review of empirically high-risk
+customers in the course of both initial and ongoing monitoring. In order to ensure that agents have
+sufficient data about a customer to make accurate assessments, the eligibility requirements for initial or
+ongoing empirical review involve minimum levels of activity. These minimum levels may include such
+specific metrics as individual transaction counts, active days, processing volume, and other similar
+metrics.
+Continuous Customer Risk Rating Standard | Square
+10
+
+Confidential and Not for Distribution
+6. Alerting Threshold
+Refer to Section 6 in Square - [Global] Continuous CRR System Design.
+7. Quality Control
+Refer to Section 7 in Square - [Global] Continuous CRR System Design.
+8. Explainability
+Refer to Section 8 in Square - [Global] Continuous CRR System Design.
+9. Production System Details
+Refer to Section 9 in Square - [Global] Continuous CRR System Design.
+10. Document Management
+10.1 Document Owner
+This document is owned by the Regulatory Compliance Machine Learning Lead or their designee.
+10.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance
+with the Compliance Document Approval Matrix.
+11. Monitoring and Reporting
+As part of the ongoing monitoring process, relevant and appropriate metrics that continuously monitor the
+modelʼs effectiveness will be reported to the relevant stakeholders, including Compliance Leads. Key
+metrics include, but are not limited to, above the line (“ATLˮ) and below the line (“BTLˮ) productivity.
+12. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+Continuous Customer Risk Rating Standard | Square
+11
+
+Confidential and Not for Distribution
+regulations. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+13. Record Retention
+All published Documents are retained in accordance with Blockʼs Record Retention guidance or in
+accordance with regulatory guidance, whichever is longer.
+14. Related Documentation or References
+Related Documents:
+Related Standard Activation Customer Risk Rating Standard | Block
+Related Document Square - Global Continuous CRR System Design
+Related Procedure Block - Model Change Management Procedure
+15. Revision and Approval History
+Approver Title Type Description Date
+Chris Nasrallah Regulatory Creation May 18, 2023
+Compliance
+Machine Learning
+Lead
+Sayaka Kobay… CCO, Square Initial Appro… May 29, 2023
+Japan KK
+Lance Howard CCO, Square Initial Appro… May 28, 2023
+Australia Pty Ltd
+Jeff White CCO, Square Initial Appro… May 25, 2023
+Canada, Inc.
+Continuous Customer Risk Rating Standard | Square
+12
+
+Confidential and Not for Distribution
+Melissa Benja… Square Initial Appro… May 26, 2023
+Compliance
+Operations Lead
+Elizabeth Henry CCO, Squareup Initial Appro… May 25, 2023
+Europe Limited
+Interim Head of
+Compliance,
+Squareup
+International
+Limited
+Sydney Nam Block Policy Immaterial C… Update template. October 16, 2023
+Governance
+Coordinator
+Megan Gonzal… Head of Financial Scheduled R… No material May 20, 2025
+Crimes, Cash App updates.
+Alignment of
+Melissa Benja… Head of Program Scheduled R… content and May 29, 2025
+Management and sections to meet
+Quality, Square document
+Compliance template
+requirements.
+16. Document Details
+Business Square
+Scope Global
+Compliance Domain Compliance Engineering & Technology
+Document Owner Block Regulatory Compliance Machine Learning
+Lead
+Last Approval Date May 29, 2025
+Effective Date May 29, 2025
+Approved By Head of Financial Crimes, Cash App;
+Head of Program Management and Quality,
+Square Compliance
+Document Review Schedule Annually May 2026
+Continuous Customer Risk Rating Standard | Square
+13

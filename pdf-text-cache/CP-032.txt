@@ -1,0 +1,875 @@
+Consumer Protection Policy
+Square | Squareup Europe Ltd
+July 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Squareup Europe Ltd and
+on a need-to-know basis.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+2
+
+Confidential
+Table of Contents
+Definitions 4
+Roles and Responsibilities 6
+1. Introduction 8
+2. Purpose 8
+3. Scope 8
+4. Policy Requirements 8
+4.1 Regulatory Framework 8
+4.1.1 Consumer Duty 10
+5. General Principles 12
+5.1 Principle of Culture and Values 12
+5.2 Principle of Setting the Right Tone with SEL Employees 13
+5.3 Principle of Fair Outcome 14
+5.4 Principle of Governance and Control 14
+6. Key Consumer Protection Measures 15
+6.1 Vulnerable Customers 15
+6.2 Product Development 19
+6.3 Marketing 20
+6.4 Sales Process 21
+6.5 Customer Support 22
+6.6 Customer Communication 23
+6.7 Complaint Handling 24
+6.8 Monitoring the Outcomes 27
+6.9 Conflict of Interest 28
+6.10 Record Retention 29
+7. Non-Compliance 30
+8. Document Management 30
+8.1 Document Owner 30
+8.2 Review and Approval 30
+9. Training 30
+10. Exceptions 30
+11. Related Documentation or References 31
+12. Revision & Approval History 31
+13. Document Details 32
+Consumer Protection Policy | Square | Squareup Europe Ltd
+3
+
+Confidential
+Definitions
+Terminology Definition
+Financial Conduct The FCA is a financial regulatory body in the United Kingdom (“UK”),
+Authority (“FCA”) responsible for issuing SEL licence as an e-Money Institution (“EMI”).
+Financial Ombudsman The FOS is a government body established to serve as an impartial third
+Service (“FOS”) party to assess whether a financial institution, such as SEL, has treated a
+customer fairly within the context of a customer’s Complaint.
+Consumer Protection Risk Consumer Protection risk is the risk of unfair treatment or detriment to
+customers arising from a firm’s actions, business model, or practices.
+Customer For the purposes of this policy, a Customer is defined as all SEL Cash
+App users and SEL Square merchants, including potential customers,
+where appropriate.
+Vulnerable Customer As per FG21/1 guidance published by the FCA, a vulnerable customer is
+someone who, due to their personal circumstances, is especially
+susceptible to harm, particularly when a firm is not acting with
+appropriate levels of care.
+First Line of Defence The first line of defence comprises operational management responsible
+for identifying, managing, and reporting Consumer Protection risk
+concerns, including functions such as Marketing, Sales, Customer
+Success, and Complaints.
+Second Line of Defence The second line of defence consists of activities covered by Compliance
+and Enterprise Risk. This line of defence monitors and facilitates the
+implementation of effective risk management practices by operational
+management and assists the first line in reporting adequate risk related
+information up and down SEL.
+Complaint The FCA defines a complaint to be ‘any oral or written expression of
+dissatisfaction, whether justified or not, from, or on behalf of, any person
+Consumer Protection Policy | Square | Squareup Europe Ltd
+4
+
+Confidential
+about the provision of, or failure to provide, a financial service’, which:
+● alleges that the complainant has suffered (or may suffer)
+financial loss, material distress or material inconvenience; and
+● relates to an activity of that respondent or any other respondent
+with whom a respondent has some connection in providing
+financial services, which comes under the jurisdiction of the FOS.
+Note: Potential Customers can make a Complaint to SEL.
+Regulated Complaint Regulated complaints are issues concerning activity subject to oversight
+and control by the FCA, such as payment processing and money
+transfers. For Square, Regulated Complaints could involve issues related
+to payments processing like deactivation of accounts, frozen funds,
+fraud, or anything else to do with the processing, settlement of or access
+to customer’s funds. For Cash, all Complaints would be classed as
+Regulated Complaints.
+Unregulated Complaint Unregulated complaints are complaints that do not concern or relate to
+the provision of regulated financial services. Other services and products
+provided by Square such as its SaaS services, loans and hardware do not
+fall under the jurisdiction of a specific regulatory body or authority and
+are therefore, not regulated Complaints.
+Conflicts of Interest A Conflict of Interest is a situation where one or more persons or entities
+have competing interests, and serving one interest may involve
+detriment to another.
+A Conflict of Interest includes both an actual Conflict of Interest (i.e. a
+Conflict of Interest that has arisen) and a potential Conflict of Interest
+(i.e. a Conflict of Interest that may arise given particular facts and
+circumstances). It also includes a perceived Conflict of Interest (i.e. a
+situation which may give rise to the perception of a Conflict of Interest),
+even where a Conflict of Interest may not in fact exist.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+5
+
+Confidential
+Roles and Responsibilities
+Role Responsibility
+The Board of Directors Responsible for promoting a culture of compliance, positive customer
+(“Board”) outcomes and providing direction to SEL on the delivery of the strategy
+and the management of Consumer Protection Risk.
+Regulatory Governance Responsible for reviewing any Consumer Protection Risk concerns, and
+Committee (“RGC”) Consumer Protection Key Risk Indicators (“KRI”) and Management
+Information (“MIˮ).
+First Line of Defence ● Responsible for effectively identifying Consumer Protection Risk
+in their respective areas and engaging in mitigating such risks. -
+● Understanding consumer protection and embedding and
+maintaining business processes and controls in the daily
+operations of the business.
+● Informing Compliance and Enterprise Risk of any concerns
+regarding Consumer Protection that are relevant to their
+functions in performing their duties.
+● Assisting the business with promoting and embedding a
+customer centric culture.
+● Tracking and understanding customer feedback relating to their
+function and taking appropriate actions accordingly.
+Staff Members Responsible for complying with this Consumer Protection Policy in their
+relevant business activities, ensuring that customers are adequately
+protected and that any concerns in relation to consumer protection are
+identified, managed, and reported.
+Compliance Responsible for monitoring compliance with this policy. Compliance will
+challenge, support and guide the business in the identification of
+Consumer Protection Risk issues.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+6
+
+Confidential
+Enterprise Risk Responsible for the assessment, monitoring and reporting on regulatory
+risk, to include Consumer Protection Risk, on a quarterly basis. The
+output of such a review will be the Quarterly Risk Register, which is
+reported to the Board on the same cadence.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+7
+
+Confidential
+1. Introduction
+The Consumer Protection Policy (“Policyˮ) is applicable to Squareup Europe Ltd (“SELˮ) and outlines the
+fundamental principles to be followed that guide SEL in safeguarding its Customers.
+This Policy is an integral part of SELʼs risk management framework. Its primary objective is to aid SELʼs
+Board in assigning responsibilities and implementing controls aimed at mitigating Consumer Protection
+Risk. This is undertaken with the overarching aim of protecting Customers' interests in accordance with
+SEL's risk tolerance and regulatory guidelines.
+The SEL Head of Compliance is responsible for the management of this Policy. Any conflicts between this
+Policy and SEL's other legal or regulatory obligations should be referred immediately to the Head of
+Compliance for further assessment.
+2. Purpose
+The purpose of this Policy is to demonstrate SEL's commitment to complying with all applicable laws and
+regulations concerning consumer protection. This Policy establishes a robust framework for identifying,
+managing, and mitigating Consumer Protection Risk. It ensures that SELʼs practices align with the
+standards set forth by the FCA, including the Consumer Duty, as well as industry best practices, to
+promote fair treatment, transparency, and positive outcomes for all Customers.
+3. Scope
+This Policy is established by SEL and applies to all SEL Staff Members and to outsourced service providers
+listed in SELʼs Third Party Service register. It outlines the approach to Consumer Protection, ensuring that
+all Staff Members understand their roles and responsibilities in fostering a culture of compliance and
+Customer care.
+4. Policy Requirements
+4.1 Regulatory Framework
+SEL is authorised by the FCA as an EMI pursuant to the Electronic Money Regulations 2011. SELʼs
+commitment to protecting Customers aligns with the comprehensive rules set by the FCA, ensuring
+Consumer Protection Policy | Square | Squareup Europe Ltd
+8
+
+Confidential
+equitable treatment in all financial services. This includes a focus on fair outcomes, transparent
+information, and adequate support.
+Below is an overview of the key conduct and consumer protection related regulations and guidance
+applicable to SEL.
+● Banking Conduct of Business Sourcebook (“BCOBSˮ)
+BCOBS outlines rules and guidance on how financial firms, including EMIs, should conduct
+their business. It includes provisions related to treating Customers fairly, communicating
+effectively, and handling Complaints.
+● Principles for Businesses (“PRINˮ)
+Underpinning the FCA's principles-based approach, PRIN sets out fundamental obligations for
+firms under the regulatory regime. These principles emphasise integrity, professionalism,
+transparency, and fair treatment of Customers.
+● Dispute Resolution: Complaints (“DISPˮ)
+This sourcebook provides rules and guidance on how financial institutions, including EMIs,
+should handle Complaints fairly and promptly.
+● Fair treatment of Vulnerable Customers
+The document provides guidance on how authorised firms, including EMIs, should treat their
+Vulnerable Customers and ensures that their unique needs and circumstances are central to
+the firms' design of products, processes, and ongoing monitoring and evaluation.
+● FCA Approach Document
+The approach document sets out the regulatory requirements that firms, including EMIs, must
+adhere to in order to operate in compliance with UK financial regulations. This provides
+additional guidance on how the FCA supervises and regulates EMIs, outlining expectations for
+governance, risk management, and customer protection.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+9
+
+Confidential
+4.1.1 Consumer Duty
+Consumer Duty (“the Dutyˮ), a regulatory framework that came into effect on July 31, 2023, sets clearer
+and higher standards of Consumer protection across financial services. It requires firms to put their retail
+customersʼ needs first by delivering good outcomes. It comprises the following components.
+Consumer Principle
+A pivotal aspect of the Duty is the incorporation of a new principle, Principle 12, in PRIN, asserting that "A
+firm must act to deliver good outcomes for retail customers."
+The Consumer Duty applies to all products and services offered to retail customers. Retail customers
+(hereafter referred to as “Customersˮ) include Consumers, micro-enterprises (businesses with fewer than
+10 employees and an annual turnover or gross balance sheet of less than €2 million) and small charities
+(charities with an annual income of less than £1 million).
+SEL has opted to include all of its Customers using regulated services within the scope of the Duty,
+encompassing both existing and prospective Customers.
+Cross-Cutting Rules
+The Duty includes three cross-cutting rules which sets out how firms should act to deliver good outcomes.
+They require firms to:
+1. Act in good faith: Firms are required to act in good faith towards customers, emphasising trust,
+transparency, and fairness in all interactions. This principle underscores the importance of
+ethical conduct in fostering a positive customer experience.
+2. Avoid causing foreseeable harm: Firms are required to take proactive measures to avoid
+causing foreseeable harm to customers. This directive underscores the preventive nature of
+the Duty, placing the responsibility on firms to anticipate potential risks and safeguard
+customers from harm.
+3. Enable and support customers to pursue their financial objectives: Firms are obligated to
+enable and support retail customers in pursuing their financial objectives. This aspect of the
+duty emphasises the active role that firms play in empowering customers to make sound
+financial decisions aligned with their goals.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+10
+
+Confidential
+Four Outcomes
+The four outcomes are a suite of rules and guidance setting more detailed expectations for firm conduct in
+areas that represent key elements of the relationship between a firm and its customers.
+1. Products and Services
+● Products must be designed to meet the specific needs, characteristics, and objectives of
+the target market including Vulnerable Customers and avoid causing foreseeable harm.
+● The distribution strategy must ensure that products reach the appropriate target market,
+including those with vulnerabilities, and that distributors receive adequate and timely
+information.
+● Regular reviews must be conducted to assess whether the product continues to meet
+customer needs and whether the distribution strategy remains appropriate.
+● If a firm identifies that a product is causing harm or failing to meet customer needs, it must
+take appropriate corrective action to mitigate risks.
+2. Price and Value
+● Products and services must deliver fair value by ensuring a reasonable relationship
+between the price paid—including both financial and non-financial costs—and the overall
+benefits received by customers.
+● Pricing must not exploit customer vulnerabilities or result in poor Customer outcomes.
+● When different prices are applied to various customer groups, each pricing model must still
+demonstrate fair value for the respective group.
+● Firms must conduct regular value assessments to confirm that products continue to
+provide fair value over time, with review frequency aligned to the nature and duration of the
+product.
+3. Consumer Understanding
+● Provide customers with all necessary information to make effective, timely, and
+well-informed decisions.
+● Information should be clear, accessible, and tailored to the characteristics of the intended
+audience, including those with vulnerabilities.
+● Regularly test, monitor, and adapt their communications to improve customer
+understanding and support informed decision-making.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+11
+
+Confidential
+4. Consumer Support
+● Support must be designed and delivered to accommodate the diverse needs of target
+customers, including those with vulnerabilities.
+● Products and services should function as customers reasonably expect, without imposing
+unnecessary barriers or additional costs.
+● Customer journeys should incorporate appropriate points of friction to mitigate risks and
+ensure informed decision-making.
+● The quality of support must be continuously monitored, with prompt action taken to
+address any shortcomings.
+It is important to note that there is a close relationship between Consumer Support and Consumer
+Understanding outcome. While Consumer Understanding focuses on communicating effectively to help
+customers make informed decisions, Consumer Support ensures customers can act on these decisions
+without facing unnecessary obstacles.
+SEL is committed to complying with all relevant regulations and continuously updating SELʼs Policy to
+reflect any changes or new requirements. For additional guidance, visit go/consumerduty.
+5. General Principles
+SEL will adhere to the following fundamental principles in safeguarding its Customers.
+5.1 Principle of Culture and Values
+The fair treatment of Customers must be central to SELʼs corporate culture. To instil positive behaviours,
+fortify values, and foster a strong culture, this commitment must originate from SEL's top leadership.
+Therefore, it must be included in the agenda of the senior management.
+SEL's operating principles, as set out below, must guide its behaviour and its engagement with the
+Customers:
+● Understanding someoneʼs struggle;
+● Seeking divergent perspectives;
+● Taking principled risks; and
+Consumer Protection Policy | Square | Squareup Europe Ltd
+12
+
+Confidential
+● Inventing & learning.
+SEL shall consistently operate by its principles and values, promoting honesty, ethical conduct, and
+treating individuals with dignity and respect. Throughout onboarding and via company-wide
+communications, training sessions, and regular talent reviews, all Staff Members must regularly be
+reminded of SEL's operating principles, values, and mission to establish an honest financial network
+accessible to everyone.
+5.2 Principle of Setting the Right Tone with SEL Employees
+SEL's employee onboarding programme shall be designed to ensure that all new employees understand
+SEL's operating principles, mission, purpose, values and desired Customer outcomes. Additionally,
+Consumer Protection training shall be an essential control in mitigating Consumer Protection Risk. Ongoing
+training shall be provided to Customer-facing employees to ensure positive Customer interactions.
+Compliance shall provide consumer protection training to Staff Members annually.
+SEL's promotion and performance management process shall focus on behaviours and operating
+principles, expecting employees to consistently demonstrate commitment to SEL's Customer-centric
+purpose and positive Customer outcomes.
+SEL is committed to providing an open and safe environment where Staff Members feel comfortable
+raising issues without fear of reprisal. Staff Members shall be encouraged to speak up and report any
+concerns in relation to Customer matters and are reminded on an ongoing basis of the escalation channels
+available to report any concerns.
+Other examples of ways to enhance Customer-centric culture shall include:
+● Embedding of adequate conduct into performance appraisals, Staff Members remuneration,
+and promotions;
+● Increasing training and awareness programmes;
+● Increasing personal accountability for consumer protection risk across SEL, so that Staff
+Members take ownership of and responsibility for Consumer Protection Risk management and
+for delivering positive Customer outcomes; and
+● Giving Consumer Protection Risk the same prominence as other risks.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+13
+
+Confidential
+5.3 Principle of Fair Outcome
+SEL shall prioritise fair and positive outcomes for all Customers, aligning with the Duty's focus on fair
+treatment, clear information, and Customer support.
+This commitment shall be demonstrated through:
+● Understanding Customer needs
+● Meeting Customer expectations
+● Transparent communication
+● Empowered decision-making
+● Effective handling of Complaints
+● Continuous improvement
+This principle reflects SEL's commitment to building enduring trust and positive relationships with its
+Customers recognising that fair outcomes are not just regulatory requirements but ethical imperatives.
+Examples of how these outcomes shall be achieved are detailed in each subsection of the Key Consumer
+Protection Measures.
+5.4 Principle of Governance and Control
+SEL shall maintain a comprehensive risk management process for identifying and managing Consumer
+Protection Risk, rooted in the culture and behaviour within SEL.
+SEL shall mitigate Consumer Protection Risk by ensuring adherence to guidelines and procedures,
+embedding a robust system of internal controls in operations.
+An extensive range of consumer protection related KRI and MI shall be in place across the business areas.
+A detailed list of these KRIs shall be maintained by Compliance and reported to and monitored by the RGC
+on a regular basis. The monitoring of these KRIs shall be designed to provide early detection of poor SEL
+Customer outcomes.
+Compliance shall also perform other monitoring activity, such as reviewing samples of Complaints,
+Customer communications, marketing material, and sales and account management calls to assess
+compliance with consumer protection requirements, on a regular basis.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+14
+
+Confidential
+Enterprise Risk Management shall also monitor the risk appetite related to consumer protection on a
+quarterly basis and report to the Board.
+SEL shall ensure that the reporting lines, management responsibilities, and accountability for consumer
+protection are clear and transparent. All employees understand their responsibility of ensuring Customers
+are adequately protected and identifying/reporting any concerns related to consumer protection.
+6. Key Consumer Protection Measures
+6.1 Vulnerable Customers
+A Vulnerable Customer is defined by the Financial Conduct Authority FCA as someone who, due to their
+personal circumstances, is especially susceptible to harm, particularly when a firm is not acting with
+appropriate levels of care1. Characteristics of vulnerability may result in Customers having additional or
+different needs, and may limit their ability or willingness to make decisions and choices or to represent
+their own interests.
+Living with a disability, illness, or diagnosis does not in and of itself make someone vulnerable. It is a
+person's situation and barriers to accessing services that may make them vulnerable. Equally, a person
+may be vulnerable without any disability, illness or diagnosis, for example, if they are recently bereaved or
+are frail. Vulnerability can take many different forms, be temporary or permanent and the characteristics
+can be overlapping.
+Vulnerability is seen as a spectrum on which Customers can move up and down depending on their
+circumstances, and SEL is expected to be and remain flexible in its approach and care provided to
+Vulnerable Customers. SEL aims to foster a Customer-centric culture that prioritises fairness,
+transparency, and support for all Customers, regardless of their vulnerability status. This section outlines
+SELʼs approach to identifying and assisting Vulnerable Customers while upholding high standards of
+Customer service to meet their expectations.
+All Customers are at risk of becoming vulnerable and this risk is increased by characteristics of
+vulnerability related to four key drivers.
+1 FCA FG21/1 Guidance for firms on the fair treatment of vulnerable customers (p.3).
+Consumer Protection Policy | Square | Squareup Europe Ltd
+15
+
+Confidential
+1. Health – physical and/or mental health conditions or illnesses that affect ability to carry out
+day-to-day tasks and make decisions.
+2. Life events – life events such as bereavement, unexpected financial hardship, job loss, material
+losses or downturns in sales, or relationship breakdown.
+3. Resilience – low ability to withstand and come back from financial or emotional shocks.
+4. Capability – low knowledge of financial matters or low experience and/or confidence in
+managing money (financial capability). Low capability in other relevant areas such as literacy,
+or digital skills.
+Some generic vulnerability characteristics that may be seen across SEL's target markets include:
+● Financial Instability:
+○ Individuals with irregular income or unstable employment.
+○ Businesses experiencing fluctuations in revenue or cash flow.
+○ Other unexpected financial hardship.
+● Limited Access to Traditional Banking:
+○ Unbanked or underbanked individuals lacking access to mainstream financial services
+and lending products.
+○ Small businesses without established banking relationships or credit history.
+● Limited Financial Literacy:
+○ Individuals or businesses with limited experience and/or understanding of financial
+products and services.
+○ Customers who may not fully grasp the terms and conditions of financial transactions.
+● Susceptibility to Fraud and Scams:
+○ Individuals or businesses vulnerable to fraudulent schemes or identity theft.
+○ Customers lacking awareness of common financial scams and how to protect
+themselves.
+● Dependency on Alternative Financial Services:
+○ Customers relying on alternative financial services due to limited options or
+preferences.
+○ Individuals seeking convenience and accessibility in financial transactions.
+● Mental capacity:
+○ Individuals having trouble understanding financial products or making sound financial
+decisions due to cognitive limitations or emotional challenges.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+16
+
+Confidential
+● Physical Capacity:
+○ Individuals with physical impairments requiring tailored support services.
+Understanding these generic vulnerability characteristics help SEL develop inclusive and responsible
+financial products and services, ensuring fair treatment and support for all Customers.
+Identifying signs of vulnerability
+SEL strives to understand the importance of identifying vulnerability early in Customer interaction to
+ensure adequate support is provided to Customers irrespective of their circumstances.
+The Table 1 below provides examples of the types of circumstances and characteristics under these four
+drivers which can lead to Customers having additional or different needs. This is not a complete,
+exhaustive or definitive list.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+17
+
+Confidential
+Source: Financial Conduct Authority, Guidance for firms on the fair treatment of vulnerable customers
+FG21/1, February 2021
+Outside of circumstances where a Customer directly informs SEL of a condition, diagnosis, or
+circumstance that places them in a vulnerable position, there are some common Customer behaviours
+which may indicate vulnerability, such as:
+● Repeat requests for the same or similar information (a sign that the Customer is not retaining
+information);
+● failing to understand the questions or providing answers that are inconsistent with the
+questions;or
+● Difficulty understanding and/or engaging with information presented to them.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+18
+
+Confidential
+Supporting Vulnerable Customers
+SEL must have appropriate processes and safeguards in place to support and protect Vulnerable
+Customers. All Staff Members must be trained to respond to the needs of Vulnerable Customers and,
+when appropriate, to signpost or guide Customers to external services or support with specialised
+expertise, particularly in cases of financial difficulty and emotional distress. Staff Members shall ask
+Customers if they understood the information and whether further information is required, particularly if
+the information is key information or material to the Customerʼs decision-making related to the product.
+SEL shall consider the needs of Vulnerable Customers throughout the entire lifecycle of a product and
+ensure that it provides such reasonable arrangements and/or assistance to those who have become
+known to SEL as Vulnerable Customers. Additionally, SEL products make use of iOS and Android
+accessibility features to assist Vulnerable Customers.
+6.2 Product Development
+SEL must be committed to delivering exceptional solutions to Customers whilst upholding its existing high
+standards to treat Customers fairly and achieve positive outcomes.
+In the realm of product development, SEL shall adhere to the Product Governance Policy and prioritise
+meeting the needs of its identified target group throughout the entire process. To ensure that the end
+Customer is considered at all stages of the product and service design process:
+● A thorough pre-launch Customer research will be conducted to understand the needs,
+characteristics, and objectives of the target market, including Vulnerable Customers. This may
+involve engaging with Customers through surveys, focus groups, and interviews to gather
+insights that will shape product design.
+● The development, marketing, and sale of regulated products and services will be meticulously
+designed to address the specific requirements of identified target markets, including
+Vulnerable Customers, and avoid foreseeable harm. Additionally, the distribution strategy will
+be designed to ensure that the products reach the appropriate target market through suitable
+channels. Each distributor will be provided with adequate information in a good time.
+● A Fair Value Assessment will be completed for each product to ensure it provides fair value by
+maintaining a reasonable relationship between the price paid (both financial and non-financial
+costs) and the overall benefits Customers receive, including Vulnerable Customers. If different
+Consumer Protection Policy | Square | Squareup Europe Ltd
+19
+
+Confidential
+prices are charged to various Customer groups, each pricing model will provide fair value to its
+respective group. Products and their features will be tested internally and in staging
+environments before product rollout to the general audience to ensure the product is fit for
+Customers' needs. This may include usability testing and scenario-based assessments to
+identify potential barriers.
+● Post-launch surveys will be conducted to gather Customer feedback on product performance.
+Account management will track product requests, and all collected data will be used to assess
+whether products continue to meet Customer needs and expectations, with adjustments made
+to products and features where required.This collaborative approach ensures that SEL remains
+responsive to Customer feedback and continues to evolve its offerings to meet the
+ever-changing demands of the retail market.
+SEL will review its regulated products regularly as outlined in the Product Governance Policy(e.g., in
+response to events that could materially impact the target market), to evaluate whether the product
+continues to meet Customer needs and whether the distribution strategy remains appropriate. Even for
+closed products (those no longer marketed but still in use by Customers), SEL will maintain an ongoing
+review process to assess whether they continue to comply with regulatory obligations.
+If a risk or adverse impact is identified as causing harm or failing to meet Customer needs, SEL will take
+appropriate corrective actions to mitigate risks and communicate any necessary changes to all relevant
+stakeholders, including those within the distribution chain. This may include product modifications,
+additional Customer support, or discontinuation of the product.
+If SEL ever decides to withdraw or discontinue a product, an impact assessment will be conducted to
+understand how it may affect the Customers. This ensures fair treatment and helps mitigate any negative
+outcomes.
+6.3 Marketing
+SELʼs marketing strategy is a key component of its business model. In the UK, marketing material is subject
+to various regulations and laws, primarily enforced by the Advertising Standards Authority ("ASA") and the
+FCA (in relation to compliance with the FCA rules). A fundamental principle in these laws and regulations is
+that advertisements must be responsible, clear, truthful, and cannot be deceptive, misleading, or unfair.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+20
+
+Confidential
+These legal requirements are consistent with SEL's business ethics of being transparent and truthful with
+Customers in the interest of maintaining Customer trust.
+Communications relating to SEL brand, products and services which are distributed via the following
+mediums could be considered "advertising" and then be regulated under the UK's advertising codes:
+● Newspapers, magazines, brochures, leaflets, circulars, mailings, e-mails, text transmissions
+(including SMS and MMS, fax transmissions, catalogues, follow-up literature and other
+electronic or printed material;
+● Posters or other promotional media lawfully posted in public places;
+● Cinema, or in video, DVD or Blu-ray ads;
+● SEL social media accounts;
+● SEL websites aimed at UK Customers;
+● Paid-for online space (such as banner or pop-up ads), paid-for search listings, preferential
+listings on price comparison sites and viral ads;
+● Paid-for ad space in games or web widgets;
+● Advertising content in otherwise editorial material;
+● Broadcast media, such as television and radio; and
+● Other non-paid-for space online under the control of SEL, which is directly connected with the
+supply or transfer of goods, services, opportunities and gifts.
+To ensure compliance with all applicable rules and internal procedures, SEL has established a Marketing
+review procedure. Adherence to this procedure is mandatory before implementing any marketing strategy.
+Additionally, SEL must enforce proper governance across all aspects of product development, promotion,
+distribution, and post-sale services to safeguard Customers.
+6.4 Sales Process
+SEL must ensures that Customers are provided with clear information and are appropriately informed
+before, during and after the point of sale of a regulated service.
+Sales aids, training and procedural documentation should be designed to support effective sales. They
+should ensure sales Staff Members (“Salesˮ) can clearly explain the key features of each product or
+service offered. This, in turn, should enable Customers to make informed decisions.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+21
+
+Confidential
+Furthermore, Sales should inquire about the needs and preferences of the Customer at crucial stages of
+their journey to ensure the right product and service are offered. Additionally, Sales should seek
+confirmation from Customers that they understand key information about the regulated service (e.g.,
+payment processing, associated fees, etc.). In the event that the Sales team identifies a vulnerability, the
+process involves advising the Customer to seek advice before making any decision. There should also be
+a documented process for Sales to escalate Complaints and/or Customer detriment.
+6.5 Customer Support
+Customer support must be easily accessible and Customers do not face unreasonable post-sale barriers
+in making a Complaint or switching provider. Additionally, support must be tailored to Customerʼs diverse
+needs, particularly those with characteristics of vulnerability.
+SEL shall have following support measures to ensure fair and positive outcomes for Customers:
+● A dedicated support function to allow Customers to discuss their needs or ask questions about
+the product or service. Where possible, SEL shall offer multiple communication channels to
+ensure flexibility for Vulnerable Customers.
+● Customers shall be informed about available support through web help, in app articles, and
+customer support, including relevant options for third party representation and specialist
+support services.
+● Customer facing Staff Members shall be trained to handle challenging conversations with
+Customers and respond to the needs of Vulnerable Customers, providing guidance as
+necessary. Staff Members shall have access to knowledge articles to find internal expertise
+and support.
+● Complaints Management Program shall ensure clear and accessible Complaint-handling
+processes for Customers, as well as consistency and efficiency in resolving Complaints.
+● The Support Centre and issquareup.com shall offer real-time guidance and updates on the
+status of any incident for Customers.
+● Front line advocates shall receive regular updates on product changes, severe incidents
+SEVs, policy changes, etc, to ensure correct and up to date information is provided when
+interacting with Customers.
+● Provide clear and easy to understand communications through various channels, including
+online FAQs, help manuals, and advice letters.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+22
+
+Confidential
+● Systems and processes shall be designed to support and enable Vulnerable Customers,
+allowing them to disclose and retrieve information about their needs. Staff Members shall have
+the ability to flag the Customer's account within the system, ensuring that future Staff
+Members are aware of their vulnerability prior to engagement to exercise caution and provide
+appropriate support.
+● In line with best practices, SEL shall avoid using the label 'vulnerable' during Customer
+interactions and adopt a supportive and compassionate approach, focusing on understanding
+individual needs without stigmatising Customers based on their circumstances.
+6.6 Customer Communication
+SEL must ensure that Customers receive clear, fair, and not misleading information to help them make
+effective, timely, and well-informed decisions. Our communications shall be designed to meet Customers'
+information needs, ensuring they are easily understood and support informed decision-making.
+● All product and service-related communications, including terms and conditions, marketing
+materials, and pricing structures, shall be presented in a clear, concise, and accessible manner.
+● Information will be designed to be easily understood by different Customer groups, including
+those with characteristics of vulnerability.
+● Customers will receive timely and relevant information at key decision points to help them
+assess their options, understand associated risks, and make choices that align with their
+needs.
+● Where appropriate, SEL will use a layered approach to communication, providing key
+information upfront while allowing Customers to access more detailed explanations when
+needed.
+● SEL will map the Customer journey to identify all pain points and instances of unreasonable
+friction that may hinder Customer understanding or decision-making.
+● SEL will proactively provide important information at relevant points in the Customer journey,
+such as pre-sale, post-sale, and renewal stages, to ensure that Customers fully understand
+their rights, obligations, and available options.
+● Communication materials will be designed with accessibility in mind, ensuring that Customers
+with different needs, including Vulnerable Customers, can access information through multiple
+channels such as video tutorials, chat support, and alternative formats.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+23
+
+Confidential
+● Regular assessments, which might include Customer feedback, usability testing, and data
+analysis, will be conducted to ensure that communications are effective and meet Customer
+needs.
+● Customer-facing teams will receive training to ensure consistent messaging across all
+communication channels. They will be equipped to explain key product features, address
+common concerns, and guide Customers toward making informed choices.
+● All Customer-facing documentation (i.e. letters, emails, business materials, marketing content,
+websites, etc.) include the regulatory status disclosure in a durable medium (e.g. in writing) -
+Squareup Europe Ltd is authorised by the Financial Conduct Authority under the Electronic
+Money Regulations 2011 (registered reference no. 900846 for the issuing of electronic money
+and provision of payment services.
+● SEL ensures clear distinction between regulated and unregulated products, ensuring
+transparent communication to Customers regarding the regulatory status of each product. SEL
+clearly informs Customers which products are regulated, and which are not, and clearly sets
+out the consumer protections relating to each product.
+● SEL Staff Members will inform the Customer that the call is recorded, and for what reason.
+Example - Please note this call is recorded for training and quality purposes.
+● SEL will continuously review and refine its communications to ensure that information remains
+relevant, accurate, and aligned with regulatory expectations. Customer interactions will be
+monitored to identify gaps in understanding and enhance support where needed.
+6.7 Complaint Handling
+SEL must ensure fair and proper treatment of all Customer Complaints including those Complaints handled
+by outsource service providers. In its commitment, SEL will adhere to legal, regulatory, and contractual
+requirements governing the handling of Customer Complaints related to the financial product and services
+offered in the UK.
+A Global Complaint Program is in place at Block to create a standardised complaint management
+framework to support the Global Complaint Policy. The Program has been established to provide guiding
+principles for the development and management of the First Line of Defence Complaint programs.
+This section of this Policy sets out the local regulatory requirements to be adhered to with respect to
+Complaints, which supplements the Global Complaints Program and the Global Complaints Policy. These
+local regulatory requirements only apply to Regulated Complaints, which are issues concerning activities
+Consumer Protection Policy | Square | Squareup Europe Ltd
+24
+
+Confidential
+or services subject to regulatory oversight by the FCA. In the UK, the provision of financial services such
+as payment processing and money transfer falls under FCA regulation. Therefore, for Square, Regulated
+Complaints may encompass issues related to payment processing. Conversely, all Complaints for Cash are
+classified as Regulated Complaints.
+For guidance on handling all unregulated Complaints, please refer to Blockʼs Global Complaints Program
+and Policy.
+Square may receive Complaints through various channels, including written submissions, phone calls,
+in-person interactions, postal correspondence, and email. For Cash App, Complaints can be submitted in
+writing via email. SEL Staff Members shall be responsible for identifying and documenting any Customer
+dissatisfaction. Subsequently, the following steps must be undertaken:
+● Receiving and Logging complaints: All Staff Members are required to promptly notify the
+Complaints team of any received Complaints. This involves recording comprehensive details of
+the Complaint in a centralised complaint database, including a description, the date and time of
+its receipt, as well as the details of the complainant and the next steps.
+● Acknowledgement: All Complaints must be acknowledged in writing, either by email or a letter
+within three working days following the receipt of the Complaint.
+● Investigation: SEL has designated Complaint Managers who are adequately trained to handle
+and address Complaints. Upon receiving a Complaint, a Complaint Manager must conduct a
+thorough investigation and gather additional information as needed. This may involve reaching
+out to the complainant, conducting internal investigations, or forwarding the matter to another
+department for resolution.
+● Summary Resolution: If a Complaint is considered to be ‘resolvedʼ within three working days
+of its receipt, SEL may choose to send a written summary resolution to the complainant
+advising SEL now considers the Complaint as resolved and providing the option to refer the
+Complaint to the FOS if the complainant remains unsatisfied.
+● Final Response: SEL must provide a timely written response to the complainant within 15
+business days following the receipt of the Complaint. This response must include an
+explanation of the measures taken to address the Complaint, investigation's findings and
+outcome, and details on escalating the matter to the FOS if the Customer remains dissatisfied.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+25
+
+Confidential
+● Exceptional scenarios: In an event, SEL cannot provide a final response within the initial 15
+business days, a written holding response must be sent within that time frame to the
+complainant. The holding response should specify the reason for the delay and the expected
+resolution time frame, which must be within 35 business days following the receipt of the
+Complaint. While every effort must be made to adhere to this timeline, if circumstances prevent
+a timely resolution, SEL is required to write to the Customer within 35 business days following
+the receipt of the Complaint. This correspondence must acknowledge the failure to resolve the
+Complaint within the regulatory timeframe and present the option to refer the Complaint to the
+FOS.
+● Complaint Record: SEL is required to maintain a record of all Regulated Complaints,
+comprising:
+○ Date of Complaint
+○ Date of hold email
+○ Date of final response
+○ Resolution outcome
+○ Redress paid
+○ Category of the Complaint
+● Root Cause Analysis (“RCAˮ): SEL will conduct a thorough RCA to ascertain whether the
+identified issue results from systemic factors or is an isolated incident. This analysis aims to
+gauge the severity and associated risks within SEL. The commitment to a thorough RCA aligns
+with SELʼs dedication to continuous improvement and ensures a proactive approach to
+preventing the recurrence of Complaints.
+Figure 1 below provides an overview of regulatory requirements and SLAs for complaint handling.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+26
+
+Confidential
+Figure 1 Complaint Handling Regulatory Requirements
+6.8 Monitoring the Outcomes
+Monitoring is crucial to test the outcomes and for identifying potential issues, and this is done through the
+three lines of defence monitoring. SEL will generate and analyse the information concerning the services
+provided to the Customers. This information will be comprehensive and of high quality and reported to the
+Senior management, enabling the identification of successful products/services and processes as well as
+those that may be causing harm to Customers and require improvement.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+27
+
+Confidential
+On an ongoing basis, First and Second line of Defence will monitor activities related to this Policy to
+assess adherence and determine whether outputs adhere to established objectives. This includes
+evaluating processes, procedures, and performance metrics related to consumer protection.
+Typically, the monitored information may encompass:
+● Complaints data, including service level success rates, trend analysis on Customer complaints
+with a focus on any specific process failings, and resolution success rates;
+● RCA to identify underlying issues and systemic risks;
+● FOS complaints data, social media complaints, and online reviews;
+● Customer satisfaction metrics, feedback surveys, and other direct Customer input to gauge
+overall service effectiveness;
+● Results of any testing, and monitoring the outcomes experienced by Vulnerable Customers;
+● Feedback from Staff Members regarding process improvements;
+● Regular reviews of processes and policies to assess their effectiveness in the fair treatment of
+Customers; and
+● Any other relevant data deemed necessary to determine if good outcomes are being achieved.
+This structured monitoring framework ensures that SEL upholds its consumer protection obligations by
+identifying risks early, addressing areas for improvement, and fostering positive Customer outcomes.
+6.9 Conflict of Interest
+SEL is committed to maintaining the highest standards of conduct in all aspects of its business and aims to
+treat Customers fairly at all times. To support this commitment, any conflicts of interest must be identified
+and managed in line with the SELʼs Conflicts of Interest policy which establishes clear standards for
+identifying, documenting, escalating and managing or preventing Conflicts of Interest.
+As a part of the Block Inc. Group, SEL is subject to the Global Code of Business Conduct and Ethics and
+SEL Conflicts of Interest Policy. This Policy should be read in connection with these documents, and in
+cases where there is a conflict between the global and local policy, the most restrictive requirement must
+be followed.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+28
+
+Confidential
+Where Conflicts of Interest are identified, they must be managed in accordance with the Conflicts of
+Interest Policy, including logging the conflict in the conflicts register to ensure proper oversight. Conflicts
+of Interest can be disclosed via go/disclose for appropriate review and action.
+6.10 Record Retention
+SEL must ensure compliance with record retention requirements. SELʼs policy is to retain all necessary
+Customer records for at least six years from the date SEL ceases to provide any product or service to that
+Customer.
+Types of records required to be kept include:
+● Copies of all original documents submitted by the Customer in support of an application for the
+provision of a service or product;
+● Copy of all documents required for Customer identification;
+● Details of products and services provided to the Customer;
+● All correspondence with the Customer;
+● All documents completed or signed by the Customer; and
+● All other relevant information and documentation concerning the Customer.
+6.11 Reporting
+SEL should ensure that appropriate MI is provided to the management, which includes sufficient detail to
+enable those bodies to challenge the oversight of consumer protection, and to enable key decision makers
+to make informed decisions. Compliance shall be responsible for producing relevant MI on the nature of
+and outcomes from ongoing monitoring of consumer protection, and providing this to the respective
+bodies.
+Compliance will provide monthly updates to the RGC and quarterly updates to the Board. Additionally,
+timely updates will be provided whenever a risk is identified or as required to maintain effective
+communication and proactive risk management.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+29
+
+Confidential
+7. Non-Compliance
+Non-Compliance with this Policy, whether negligent or intentional, will be taken seriously. Failure to report
+any knowledge or suspicion of malpractice, wrongdoing or impropriety at work may constitute
+misconduct.
+Any Staff Member who has concerns that the requirements under this Policy are not being met are
+encouraged to ‘speak upʼ by raising an issue with their line manager or following the reporting procedures
+set out in the SEL Speak Up Policy.
+8. Document Management
+8.1 Document Owner
+This document is owned by the SEL Head of Compliance or their designee.
+8.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance
+with the Compliance Document Approval Matrix.
+9. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+10. Exceptions
+The SEL Head of Compliance or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that SEL will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements.
+Consumer Protection Policy | Square | Squareup Europe Ltd
+30
+
+Confidential
+11. Related Documentation or References
+Related Documents:
+Related Policy SEL Product Governance Policy
+Related Policy SEL Conflict of Interest Policy
+12. Revision & Approval History
+Version Approver Title Type Description Date
+1.0 James Skelton MLRO Creation Initial creation November, 2021
+1.0 Regulatory Regulatory Initial Appr… November, 2021
+Governance Governance
+Committee Committee
+1.0 SEL Board SEL Board Initial Appr… December, 2021
+2.0 Victoria O'Brien Head of Schedule… Added the July, 2023
+Compliance vulnerable
+and MLRO customer
+policy
+2.0 SEL Board SEL Board Schedule… September, 2023
+2.1 Victoria O'Brien Head of Material C… Enhanced the December, 2023
+Compliance complaint
+and MLRO policy
+2.1 SEL Board SEL Board Material C… December, 2023
+2.2 Victoria O'Brien Head of Material C… Incorporated March 25, 2024
+Compliance regulatory
+and MLRO requirements,
+including
+2.2 SEL Board SEL Board Material C… Consumer April 16, 2024
+Duty, conflict
+of interest,
+and
+regulatory
+status
+disclosure.
+Fundamental
+principles
+Consumer Protection Policy | Square | Squareup Europe Ltd
+31
+
+Confidential
+retained with
+strategic
+refinements
+for
+coherence.
+3.0 Ryan Goldstone SEL Head of Schedule… Enhanced April 9, 2025
+Compliance alignment
+with
+3.0 SEL Board SEL Board Schedule… Consumer July 2, 2025
+Duty principle
+13. Document Details
+Business Square and Cash App
+Scope Regional Europe
+Compliance Domain Consumer Protection
+Document Owner SEL Head of Compliance
+Last Approval Date July 2, 2025
+Effective Date July 2, 2025
+Approved By SEL Board
+Document Review Schedule Annually April 2026
+Consumer Protection Policy | Square | Squareup Europe Ltd
+32

@@ -1,0 +1,284 @@
+Financial Crimes Transaction Monitoring
+Program
+Square Australia
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: The Financial Crimes Transaction Monitoring Program TMP is a key
+component of Square AU Pty Ltd's ("Square AU") Anti-Money Laundering & Counter-Terrorism
+Financing Program, designed to meet the obligations set out by the Australian Transaction Report
+and Analysts Centre AUSTRAC.
+The Financial Crime Transaction Monitoring Program for Square AU is overseen by the Square AU
+CCO, who provides approval and ensures regulatory compliance. The AML/CTF Compliance
+Officer is responsible for managing and updating the program when required, ensuring it adheres
+to local regulatory requirements.
+In accordance with Square AU Anti-Money Laundering & Counter-Terrorism Financing Program,
+the TMP establishes methods to monitor, detect, and prevent possible money laundering, financial
+crimes, terrorist financing and proliferation financing for Square AU's customer transactions in
+Australia. The program is designed to identify, mitigate and manage money laundering, terrorism
+financing and proliferation financing risks in compliance with AUSTRAC's requirements and the
+AML/CTF Act. Its primary objective is to identify and report suspicious transactions, including but
+not limited to those that deviate from a customer's normal behaviour, involve high-risk jurisdiction,
+or trigger specific red-flag indicators.
+Scope: This Program is established by Square AU Pty Ltd Square AU and applicable to Square
+AU products and services, such as Square Point of Sale ("POS") and other financial products that
+process transactions which are deemed to fall within the scope of this Program. It is implemented,
+managed and maintained by the Square Australian AU Compliance team and sets out the
+approach to design and execution Square AU's Transaction Monitoring program.
+1
+
+Definitions:
+Terminology Definition
+Anti-Money Laundering Set of laws, regulations and procedures designed to detect and
+("AML") deter money laundering, terrorist financing, and any other
+financial crimes.
+Counter-Terrorist Financing Set of laws, regulations and measures designed to detect,
+("CTF") prevent and disrupt the flow of funds of terrorist organisations
+and activities.
+The Anti-Money Laundering As part of its broader regulatory compliance obligations, Square
+and Counter-Terrorism AU Pty Ltd Square AU is required to comply with the
+Financing Act 2006 Anti-Money Laundering and Counter-Terrorism Financing Act
+("AML/CTF Act") 2006 Cth, as amended from time to time. The AML/CTF Act is
+designed to deter, detect and disrupt money laundering and
+terrorism financing.
+AUSTRAC The Australian Transaction Reports and Analysis Centre
+('AUSTRAC') performs a dual role as AML and CTF regulator
+and financial intelligence unit.
+Transaction Monitoring The process of overseeing and analysing financial transactions
+to detect suspicious or unusual activity that may indicate money
+laundering, terrorism financing, or other illicit activities.
+Suspicious Matter Report A report that a reporting entity must submit under AML/CTF Act
+("SMR") if they have reasonable grounds to suspect that a transaction
+may be related to money laundering, terrorism financing, tax
+evasion, proceeds of crime or any other serious crimes under
+Australian law. An SMR must also be submitted if the reporting
+entity has reasonable grounds to suspect the customer or an
+agent of the customer is not who they say they are.
+Typology Assessment The assessment of Square's product conducive to automated
+anti-money laundering Transaction Monitoring, mapping those
+products to risk indicators, Transaction Monitoring rules, then
+conducting a gap assessment to determine whether those
+products are covered by a Transaction Monitoring rule (also
+called "Coverage Assessment".
+Service Level Agreements Defines the expected review period for cases and other
+("SLA") responsibilities of the Compliance Australia Analysts working on
+Transaction Monitoring queues.
+2
+
+Terminology Definition
+Quality Assurance The quality assurance process of reviewing decisions made by
+an analyst during TM reviews by a Quality analyst.
+Regulator A proprietary tool which houses all customer data and
+transactions, to perform monitoring of customer transactions
+across all Square products.
+Square Point of Sale ("POS") Square's payment processing system offered to merchants.
+AML/CTF & Sanction Risk Systematic process for identifying and measuring the risks
+Assessment which could jeopardise an organisation's objects, as well as the
+effectiveness of the control environment established to mitigate
+those risks.
+2. Program Requirements
+The Transaction Monitoring program is designed and maintained based on the annual AML/CTF &
+Sanction Risk Assessment conducted by Compliance Governance and Reporting AML/CTF &
+Sanctions Risk Assessment Team CGRRA. This program undergoes an annual review to assess
+its effectiveness, address any significant findings, and implement necessary improvements.
+Additional reviews may be conducted following events such as identified issues or significant
+regulatory changes. In addition, the program is subject to regular testing and independent auditing
+to evaluate its performance, accuracy, and compliance with AUSTRAC requirements.
+This program also outlines the compliance controls that are used for the evaluation and
+management of Square's program as it relates to money laundering, terrorist financing,
+proliferation financing and financial crime related risk, as well as how to identify suspicious
+customer transactions.
+These controls include, but are not limited to:
+● Coverage Assessments;
+● Model Governance and Monitoring; and
+● Transaction Monitoring Alert Review Procedures and Processes.
+2.1 Coverage Assessments
+Square conducts annual Anti-Money Laundering AML and Transaction Monitoring TM Risk
+Coverage Assessments. These assessments, known as Typology Assessments, help identify any
+gaps and inform the design of the program.
+At a high level, these assessments involve identifying key inputs, compiling risk indicators and
+regulatory requirements, aligned to covered markets and products. The assessments include
+reviewing documentation, conducting Subject Matter Expert SME interviews, and assessing
+3
+
+current manual and automated monitoring controls. A coverage analysis is performed to identify
+gaps ensuring comprehensive risk coverage and regulatory compliance.
+The Square AU Compliance team is involved in the coverage assessment process across all
+phases, with involvement from the Square AU CCO, AML/CTF Compliance Officer, Compliance AU
+Program Manager and Square APAC Transaction Monitoring Lead. These phases include the
+creation of documentation, gathering and finalising risk rating, drafting, and approving
+management action plans.
+2.2 Model Governance and Queue Parameters
+Square utilises various proprietary algorithms to create cases for the Compliance analysts to
+review. The creation, review and governance of these models is covered by the Block | Model
+Governance Policy and Block | Model Change Management Procedure. These include automated
+case queues and periodic or manual reports for review.
+Models cover multiple typologies to detect anomalous activity as outlined in the Coverage
+Assessment, including, but not limited to:
+● Structuring;
+● Profiling;
+● Velocity;
+● Lack of Economic Purpose;
+● Patterning;
+● High Risk Geography; and
+● Funnelling.
+Square AU's Transaction Monitoring queues are established and maintained by the Compliance
+Engineering & Technology team. This team will evaluate effectiveness of the alerts generated by
+queues (i.e. productivity) and make recommendations for tuning the models, adding further
+models or changing existing models. Detailed rules of Square AU's Transaction Monitoring queues
+are maintained in Square | AU TM Rulebook. Any new models or recommended changes to the
+existing models are reviewed and approved in accordance with the Block | Model Change
+Management Procedure.
+To ensure oversight of the Transaction Monitoring queues, Square has implemented change
+management and model validation policies, managed and executed by the Compliance Engineering
+& Technology team, in accordance with the Block | Model Change Management Procedure.. Any
+changes applicable to Square AU must be approved by both the AU Compliance Program Approver
+and the AU Compliance Operations Approver, ensuring continued local oversight.
+2.3 Transaction Monitoring Alert Review Procedures and Processes
+The Analyst reviews alerts based on written procedures that are routinely reviewed and updated.
+In general, the investigation of a case follows the steps outlined below:
+1. The Analyst claims a new alert case in Regulator and notes the typologies, alert type, and
+product; and
+4
+
+2. The Analyst reviews customer information in conjunction with account activity, web
+presence, and potentially adverse media in order to make a determination of an appropriate
+case action.
+Following that, the analyst can take one of the following actions:
+● Clear: Account activity represents typical product use with no adverse or potentially
+unusual activity identified;
+● Clear and escalate: Account activity represents typical product use with no adverse or
+unusual activity identified, however potential terms of service violations or sanctions
+concerns exist and require an escalation in a timely manner to relevant queues;
+● Escalate to ECDD team for an ECDD review when:
+○ The merchant has no apparent economic or legal purpose; or
+○ The merchant has made unusually complex or large transactions; or
+○ Would involve an unusual pattern of transactions;
+● Request for more information: In instances where The Analyst is not able to confidently
+take a “clearˮ or “deactivationˮ action type, the Analyst may request more information from
+the merchant. Once this information is received from the merchant, the Analyst will
+re-evaluate the case with the additional context in order to action the case.
+● Deactivate: If account activity violates our terms without indicating any involvement in
+money laundering, terrorist financing or proliferation financing, the merchantʼs account will
+be deactivated with no further action required.
+● Deactivate and Escalate: Account activity appears unusual and does not represent typical
+product use. The merchant account will be deactivated and escalated to the Compliance
+Investigation queue in a timely manner for further investigation and potential reporting to
+AUSTRAC.
+2.4 Systems
+The Square AU Compliance Team uses a Case Management solution called Regulator. Third party
+vendor tools are used to supplement reviews and include, but are not limited to, Legit Script. Some
+of these tools are integrated within Regulator.
+2.5 Training
+Square AU ensures that the Analysts working on Transaction Monitoring cases are fully trained in
+the procedures and appropriate steps to investigate and provide rationale for reviewing alerts
+through a combination of new hire, on the job and ad hoc continuous training, according to Square
+| Anti-Money Laundering & Counter-Terrorism Risk Awareness Training Program.
+2.6 Quality Assurance
+The Square Compliance Quality Team is a separate team from the Square AU Compliance Team
+that exercises quality assurance by reviewing decisions made by the analysts during Transaction
+Monitoring reviews. The Square Compliance Quality Team reports the results of the reviews to
+individual team members, their leads and senior management.
+5
+
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Square Australia AU Chief Compliance Officer (“CCOˮ): Acts as the designated Senior
+Manager for approvals required under the AML and CTF Act and Rules, including approving
+the AML & CTF Risk Awareness Training Program and any material updates to it.
+●
+● Square AU Regulatory Program Manger: Acts as the AML/CTF Compliance Officer to
+oversee and coordinate the operational functions of the AML & CTF Risk Awareness
+Training Program in compliance with local regulatory requirements, ensures that all due
+diligence processes, including onboarding, screening, and ongoing checks, are
+implemented effectively and consistently, and is responsible for reporting.
+● Compliance AU Operations Lead: Manages the operational team responsible for reviewing
+compliance alerts; provides guidance, training and acts as an escalation point in addition to
+managing SLAs.
+● Compliance AU Analyst (“The Analystˮ): Monitors and acts upon Transaction Monitoring
+alerts, including reviewing and escalating potentially suspicious activity accordingly.
+● Square Compliance Quality Assurance Team:
+Performs quality assurance by reviewing decisions made by analysts during Transaction
+Monitoring reviews; provides feedback on decision-making, observations, and insights into
+trends, processes, and procedures; highlights opportunities for consistency and efficiency;
+and reports the results of the reviews to individual team members, their leads and senior
+management and supports regulatory and audit requirements.
+● Compliance Engineering & Technology Team: Designs and maintains Square's
+Transaction Monitoring machine-learning, heuristics and other manual methodologies and
+generates alerts for TM team to review, in line with the Model Governance Policy and
+Model Change Management Process.
+● Square AU's Board ("Board"):Responsible for providing governance and oversight by
+ensuring the company implements an effective AML/CTF program, manages risks, and
+complies with reporting obligations.
+● Compliance Governance and Reporting AML/CTF & Sanction Risk Assessment Team
+CGRRA Responsible for managing and conducting the AML/CTF & Sanctions Risk
+Assessment process.
+3.2 Monitoring and Reporting
+On an ongoing basis, the AML/CTF Compliance office and/or their designee will monitor and track
+the overall health of Square AUʼs Transaction Monitoring program, Square AU uses reports
+generated using Looker, a business intelligence tool to:
+● Monitor alert volumes and SLA performance;
+● Undertake management review reports;
+● Calculate capacity needs through alert forecasts and models
+● Track Quality Assurance scores
+6
+
+● These Key Performance Indicators (“KPIˮ), are tracked for individual Compliance AU
+Analysts.
+Effective oversight of the Transaction Monitoring Program is crucial to ensure its ongoing integrity
+and compliance with regulatory obligations. Square AUʼs AML/CTF Compliance Officer is
+responsible for providing regular updates to Square AUʼs Board through comprehensive reports,
+which detail key metrics such as the number of Suspicious Matter Reports SMRs filed, trends
+identified in Transaction Monitoring, and emerging risks.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team at go/policyhelp. The Document Owner and/or designee
+will inform Compliance Leadership and applicable committees, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+Review related documents:
+● Block | Anti-Money Laundering & Counter-Terrorist Financing Policy
+● Block | Model Governance Policy
+● Square | Anti-Money Laundering & Counter-Terrorism Financing Program
+● Square | Anti-Money Laundering & Counter-Terrorism Risk Awareness Training Program
+● Block | Model Change Management Procedure
+● Square | AU TM Rulebook
+7
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Jing Wang Compliance AU Creation Initial draft Sep 11, 2024
+Program
+Manager
+Lance Howard AU Compliance Initial Approval Initial approval Sep 27, 2024
+Lead
+Jing Wang Square AU Scheduled Annual review of Mar 24, 2026
+Regulatory Review document
+Program
+Manager Update
+escalation
+Lance Howard Square AU CCO Material Change requirement Mar 25, 2026
+Approval following
+AML/CTF reform
+Document Details:
+Business Square
+Scope Regional - AU
+Compliance Domain Financial Crimes
+Document Owner Square AU Regulatory Program Manager
+Approved By Compliance Lead - AU
+Document Tier Tier 2
+8

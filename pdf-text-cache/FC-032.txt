@@ -1,0 +1,552 @@
+Know Your Business
+Standard for Cash for
+Business Customers
+Cash App | U.S.
+March 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App U.S. and on
+a need-to-know basis.
+Know Your Business (KYB) Standard | Cash App | U.S.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 3
+Roles and Responsibilities 5
+1. Introduction 7
+2. Purpose 8
+3. Scope 8
+4. Customer Onboarding Controls 9
+4.1 Customer Risk Scoring and Status 11
+4.2 Due Diligence Reviews 11
+● 4.2.3 Ongoing Due Diligence 13
+4.3 Source of Wealth/Source of Funds 14
+4.4 Screening 14
+4.5 KYC Refresh 16
+4.6 System Access 16
+4.7 Queue Parameters 16
+4.8 Quality Control 16
+4.9 New Product Launches 17
+4.10 Risk Assessment 17
+5. Document Management 17
+5.1 Document Owner 17
+5.2 Review and Approval 17
+6. Training 17
+7. Monitoring and Reporting 18
+8. Exceptions 18
+9. Record Retention 18
+10. Related Documentation or References 18
+11. Revision & Approval History 19
+12. Document Details 19
+Know Your Business (KYB) Standard | Cash App | U.S.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Adverse Media /
+Screening for unfavorable news or mentions about customers, impacting their
+Negative News
+risk rating and triggering due diligence reviews.
+(Screening)
+Business Identity bIDV involves the collection and verification of customer business information
+Verification (“bIDV”) to comply with Know Your Business guidelines and onboard to the platform.
+Cash for Business accounts are accounts that a Cash App customer can open
+Cash for Business
+to manage their business funds and remains separate from their personal
+(“C4B”)
+account.
+Customer Due The process of identifying and assessing customer information to understand
+Diligence (“CDD”) each customer’s expected activities and assess potential risks.
+Enhanced Due A process that enables deeper understanding of high-risk customers and
+Diligence (“EDD”) implementation of risk mitigation processes.
+Identity Verification IDV that individuals or natural persons must go through to onboard the
+(“IDV”) platform and use the services
+KYB is a process used to verify the legitimacy and credentials of business
+Know Your Business clients to prevent money laundering and terrorism financing. It involves
+(“KYB”) verifying business registration details, identifying beneficial owners,
+understanding the nature of the business, and assessing associated risks.
+Know Your Customer A process involving periodic reviews and updates of customer information,
+(“KYC”) Refresh including Personally Identifiable Information (“PII”).
+A standardized code that classifies the types of goods and services a
+Merchant Category merchant sells and is a key piece of info for payment processing. This code is
+Code (“MCC”) provided by customers, who are opening a business account, during the KYB/
+onboarding process and serves as a basis for evaluating customer risk.
+Ongoing Due Diligence Ongoing Due Diligence includes the reviews triggered periodically or based on
+(“ODD”) events to assess customer-specific attributes and activities.
+Due diligence that takes place periodically as part of the KYC Refresh
+Periodic Due Diligence
+program
+Know Your Business (KYB) Standard | Cash App | U.S.
+4
+
+Confidential and Not for Distribution
+Terminology Definition
+A section of the USA PATRIOT Act requiring information sharing between
+Section 314(a) covered financial institutions and law enforcement to prevent money
+laundering and terrorist activities.
+Source of Funds /
+A series of questions aiming to understand the origin of funds used for a
+Source of Wealth
+transaction and the source of a customer's accumulated wealth.
+(“SoF/SoW”)
+The tracking and reporting resources utilized for the overall health of Block's
+AML/CTF standard through various dashboards, reports, and trackers.
+Regulator: Block’s internal case management system
+LexisNexis: Primary screening vendor managing sanctions watchlists and KYC
+screening leveraging PII matching logic, including World Compliance.
+Cash Force 1: A customer relationship management platform that streamlines
+customer service processes, including case management and issue resolution.
+CSI: Screening vendor used for Sanctions related screening as part of the
+NPO workflow
+Systems and Tools
+TLOXP: A data intelligence platform used for due diligence, investigations,
+and risk assessment.
+Google / Internet: General internet searches as part of the due diligence
+process. Use of this tool involves leveraging internet resources to gather
+additional information about customers, their activities, and potential risks.
+Looker and Tableau: A business intelligence and data analytics platform.
+Looker or Tableau may be used for reporting and analysis related to AML/CTF
+risk exposure and standard performance.
+Alloy / Middesk: A vendor used to verify customer business information.
+Know Your Business (KYB) Standard | Cash App | U.S.
+5
+
+Confidential and Not for Distribution
+Terminology Definition
+Secretary of State: A government database used to confirm customer
+business details.
+Tax Identification Number is an unique identifier for a business customer or
+legal entity. Depending on the entity type, Cash App accepts two types of
+TINs: Social Security Numbers and Employer Identification Numbers. TINs are
+Tax Identification
+used to file taxes and are necessary to complete onboarding for a business
+Number (“TIN”)
+customer. Cash App currently allows sole props and disregarded limited
+liability companies to onboard using a Social Security Number; all other
+entities must onboard using an EIN.
+Roles and Responsibilities
+Role Responsibility
+● Conducting due diligence on accounts in accordance with documented
+procedures, user guides, and guidance logs
+● Documenting conclusions in a manner that is clear and complete
+Customer Onboarding ● Reviewing escalated customer accounts to determine if the customer has
+and Due Diligence violated Block’s Terms of Service
+Team ● Escalating customer accounts to the Transaction Monitoring team that are
+identified as having potential unusual or suspicious activity
+● Reviewing escalated customer accounts to determine if there is sanctions
+exposure
+Customer Onboarding
+and Management ● Reviewing and approving this Standard
+(“COM”) Lead
+● Owner of the Standard and responsible for providing an advisory function as
+Program Manager well as engaging with the C4B operations team on new product launches
+and program controls.
+Quality Control Team ● Reviewing actions taken by the operations teams for consistency with
+Know Your Business (KYB) Standard | Cash App | U.S.
+6
+
+Confidential and Not for Distribution
+Role Responsibility
+established procedures
+● Providing reporting for management and senior leadership teams on the
+results of the reviews
+● Reviewing cases and investigating associated customer activity within
+established queue SLAs
+● Escalating customer accounts to the UUP team that are identified as
+potentially violating Block’s Terms of Service
+Customer Onboarding
+● Escalating customer accounts to the Sanctions team that are identified as
+Team
+having potential sanctions exposure
+● Escalating customer accounts to the Suspicious Activity Reporting team
+that meets the established referral requirements for unusual or suspicious
+activity
+● Reviewing escalated customer accounts to determine if a Suspicious
+Activity Report (“SAR”) is required
+Suspicious Activity ● File SARs within established timelines per Suspicious Activity Reporting
+Reporting Team procedures
+● Deactivating customer accounts that are identified as exhibiting patterns of
+transactions indicative of unusual or suspicious activity
+● Reviewing cases and investigating associated customer activity within
+established queue SLAs
+● Escalating customer accounts to the EDD team that are identified as
+potentially violating Block’s Terms of Service
+Transaction Monitoring
+● Escalating customer accounts to the Sanctions team that are identified as
+Team
+having potential sanctions exposure
+● Escalating customer accounts to the Suspicious Activity Reporting team
+that meets the established referral requirements for unusual or suspicious
+activity
+Know Your Business (KYB) Standard | Cash App | U.S.
+7
+
+Confidential and Not for Distribution
+1. Introduction
+In accordance with the Block, Inc. (herein referred to as the “Company” or “Block” ) Anti-Money Laundering &
+Counter-Terrorist Financing (“AML/CTF”) Policy, the U.S. Cash App (“Cash App” or “Cash”) Know Your
+Business (“KYB”) Standard (“Standard”) has been established to ensure that Cash App reasonably
+understands who its C4B customers are, and the risks posed by those customers. The COM team supports
+monitoring of KYB processes and procedures. Compliance is responsible for implementing procedures to
+ensure proper information and documentation is obtained and stored for each customer file. A risk-based
+approach is used to ensure customers are subject to Due Diligence and those identified as posing a
+heightened risk receive EDD. This allows the business to further understand the risks the customer poses
+and establish processes to mitigate those risks. The KYB Standard is a critical element within Cash App's
+compliance framework, designed to align with regulatory standards and enhance the integrity of the Cash
+App business ecosystem. This document delineates the comprehensive KYB Standard tailored for C4B
+customers.
+2. Purpose
+The cornerstone of a strong AML/CTF compliance program is the adoption and implementation of risk-based
+due diligence policies, procedures, and processes for all customers, particularly those that present a higher
+risk for money laundering and terrorist financing1. In order to achieve this, Cash App has leveraged the
+Customer Risk Rating standard which assesses a customer's profile, assigns risk ratings, and monitors the
+customer’s risk levels.
+The KYB standard captures CDD, EDD, and ODD to ensure Cash App has a clear understanding of its
+customer base and continuously evaluates risks associated with money laundering, terrorist financing, and
+other financial crimes. The KYB Standard also establishes consistent risk-based monitoring controls on the
+platform, including KYC, KYB, SoW, and SoF, Adverse Media Screening, KYC Refresh,2 and Section 314(a)
+screening.
+3. Scope
+This Standard applies to all U.S. Cash App Compliance personnel, who must maintain thorough knowledge of
+its content and ensure compliance within their related business activities. The Standard extends to all
+1 FFIEC BSA/AML Exam Manual
+2 KYC Refresh is currently performed on the beneficial owner i.e. the individual
+Know Your Business (KYB) Standard | Cash App | U.S.
+8
+
+Confidential and Not for Distribution
+business units engaged in the development of new products and services, including those resulting from
+internal product development or merger and acquisition activities. All U.S. Cash App employees must have
+access to policies that affect their specific roles and understand their responsibilities to perform their work
+in an ethical and legally compliant manner.
+4. Standard Requirements
+4.1 Customer Onboarding Controls
+Cash App has a comprehensive approach to customer onboarding and monitoring which is designed to
+maintain the integrity of the platform, mitigate risks, and ensure compliance with regulatory standards. This
+methodical collection and verification of customer data not only helps in understanding the nature of
+customer activities but also in safeguarding against reputational and financial risks.
+Cash App’s customer onboarding process begins with the collection of certain mandatory KYB data fields,
+which include:
+● Business name
+● Merchant Category Code (MCC)
+● U.S. business address
+● Tax Identification Number (TIN) either Social Security Number (SSN), or Employer Identification
+Number (EIN)
+Cash App collects all nine digits of an account Social Security Numbers (“SSNs”) or Employer Identification
+Numbers (“EIN”) at the time of KYB (if not already provided). All provided information is verified through an
+authorized third-party vendor to ensure data integrity and prevent misuse. Additionally, restricted accounts
+are required to pass IDV prior to the KYB flow.
+For sole proprietors, the IDV process requires verified personal details such as legal first and last names,
+and date of birth as well as SSN. The KYB process for these entities includes the mandatory collection of the
+business name, address, and the business website field being optional. Additionally, verification of the TIN,
+which is always an SSN for sole proprietors, and a specific selection from possible MCCs are requirements to
+complete the IDV.
+Know Your Business (KYB) Standard | Cash App | U.S.
+9
+
+Confidential and Not for Distribution
+For Single Member LLCs (“SMLLCs”), the beneficial owner must pass IDV prior to KYB. The KYB
+requirements for these entities include the collection and verification of TIN (EIN or SSN), business name,
+and business address. As part of the KYB process, the business website is also an optional field. The
+business owner also certifies that to the best of their knowledge the information provided during KYB is true
+and correct. Selecting an MCC category, answering additional questions about the business entity and
+source of funds are crucial steps of the KYB onboarding process. These questions include details about the
+estimated annual revenue, length of business operations, and projected annual income. This information
+helps Cash App in gaining an understanding of the business on our platform.
+Non-profit organizations (“NPOs”) or similar entities registered with their relevant Secretary of State
+(“SOS”) undergo a similar IDV process where the legal name, date of birth, SSN, and address of the
+beneficial owner are collected and verified. The KYB process collects and verifies the EIN, business name,
+business address, and website (if provided). The TIN is always an EIN, which is verified by a third party vendor
+for accuracy. The MCCs are limited to categories such as charitable organizations or churches. NPOs must
+also confirm that their operations are limited to the U.S., as Cash App currently does not permit organizations
+with activities outside the U.S. Significant control responsibilities are acknowledged through an ownership
+attestation. Similar to an SMLLC, an NPO is required to respond to questions that include details about the
+estimated annual revenue, length of business operations, and projected annual income.
+Account Restrictions: Additional restrictions and monitoring controls are applied to restricted accounts who
+attempt but fail to upgrade to a business account. These accounts are classified as “unverified” and are
+given limited options; they can re-attempt the KYB process, or withdraw any available funds (cash out).
+Similarly, verified personal accounts who attempt but fail to upgrade to a business account have the option
+to re-attempt KYB, withdraw available funds, or switch to a personal account with an attestation that they
+will no longer use their account for business purposes. These measures are part of a broader monitoring
+strategy to flag and scrutinize business activity within personal accounts.
+4.1.1 Customer Risk Scoring and Status
+Customer Risk Rating (“CRR”) is a primary control to identify high risk accounts on Cash App's platform. All
+accounts have an overall risk status which consists of risk factors that can be grouped into two categories -
+model risk score and intrinsic risk. Customers have a model risk score (which is defined by the empirical risk
+score3) and have a risk status (which is defined by intrinsic risk factors4). All accounts are scored through
+3 determined by machine learning models during onboarding and weekly thereafter
+4 Determined by predefined factors or attributes associated with the customer
+Know Your Business (KYB) Standard | Cash App | U.S.
+10
+
+Confidential and Not for Distribution
+machine learning models (i.e. activation customer risk rating (“aCRR”) and continuous customer risk rating
+(“cCRR”)). A customer’s risk status is impacted by intrinsic risk factors like matches to Politically Exposed
+Persons (“PEP”), Adverse Media related to financial crimes or reputational risk, and operations in certain
+high-risk industries (i.e. MCC categories).
+After successful onboarding, accounts are scored in real-time through the aCRR. This model utilizes a
+number of features from the set of signals available at the alias-link event. The model features are grouped
+in categories like transaction activity, connected users, onboarding attributes, linked instruments, etc.
+Additionally, active verified accounts are scored weekly through the cCRR. This model utilizes over 100
+features and is grouped based on various categories including (but not limited to) historical compliance/ risk
+actions, connections through various identifiers such as SSN, device, IP addresses, bank/card linkage, and
+transactional activity.
+CRR scores and status are used to determine high-risk populations, ensuring they undergo due diligence on
+an ongoing basis. Customers with high empirical risk scores, a high CRR status, and those falling under
+high-risk scenarios are subject to an EDD review.
+4.1.2 Due Diligence Reviews
+Comprehensive due diligence processes ensure accuracy and completeness of KYB information, mitigating
+potential risks. A primary goal of due diligence reviews is identifying or obtaining relevant customer-specific
+information, which is supported by enhanced information collection during the C4B onboarding flow, to
+understand the nature and purpose of the customer’s relationship with Cash App. This involves continuously
+monitoring customer activity, transactions, and behavior patterns to detect potential money laundering,
+terrorist financing, and other financial crimes risks posed by customers. Moreover, due diligence entails
+conducting an enhanced level of scrutiny on higher risk customers (often at an increased cadence). By
+subjecting higher risk customers to EDD, Cash App can better identify and manage potential risks, thereby
+enhancing the overall effectiveness and safeguarding the integrity of its platform.
+● Customer Due Diligence
+Customer Due Diligence (“CDD”) involves obtaining and evaluating customer information to determine their
+identity, activity, and establish a reasonable assessment of potential risks related to money laundering,
+terrorist financing, and other financial crimes. Customers are prompted to complete KYB, providing personal
+and business details to verify their identity and ensure compliance. Manual IDV reviews must be performed
+at onboarding when a customer’s business information is not automatically verified by the vendor or
+Know Your Business (KYB) Standard | Cash App | U.S.
+11
+
+Confidential and Not for Distribution
+database (e.g. Alloy, Secretary of State website). A business account is subject to a manual review under the
+scenarios below:
+● If the Internal Revenue Service (“IRS”) check fails because the EIN is associated with a different
+business name;
+● If the EIN is not found and the business is less than one year old ;or
+● If there is no match on the business name and address against SOS records.
+Accounts receiving a manual review through this workflow are restricted from certain activity, including from
+transacting, until they pass the manual review.
+● Enhanced Due Diligence
+Enhanced Due Diligence (“EDD”) enables Cash App to comprehensively assess the risks posed by customers
+and implement measures to mitigate those risks effectively. High risk customers are identified through Cash
+App’s CRR methodology. Customers that have a high risk rating or are involved in high-risk business
+categories may undergo an EDD review. All NPOs are considered high risk at the time of onboarding and
+must receive EDD and ongoing reviews.
+EDD reviews extend to customer activity, regardless of customer risk score, when that activity is indicative of
+higher risk, or apparent circumvention of controls (for example, customers who fail to pass KYB or bIDV as
+one entity type and attempt again as a different entity). Additionally, accounts may also be flagged for EDD
+review based on referrals from other departments within the organization.
+During the EDD process, specialists must evaluate various customer-specific attributes and account data
+such as the customer’s Personally Identifiable Information (“PII”), transactional behavior patterns, including
+activities linked to connected accounts within the customer's network on the platform. Specialists must also
+review the customer's web presence, relevant negative news screening, linked bank account and financial
+instrument behavior, pertinent business information, source of funds, and source of wealth. These reviews
+provide a deeper understanding of the customer’s nature, purpose, and expected activity. The EDD process is
+conducted within the defined service level agreement (SLA) for the EDD workflow, ensuring timely and
+thorough assessments of high risk accounts.
+Request for information
+Know Your Business (KYB) Standard | Cash App | U.S.
+12
+
+Confidential and Not for Distribution
+During an EDD review, a Request for Information (“RFI”) may be used to gather additional details from
+customers, particularly when the specialist identifies higher risk activity. Specialists can reach out to NPOs
+for more in-depth information via a series of direct questions through email to ensure records of all
+communication and documentation are maintained for audit and compliance purposes, to mitigate risk and
+facilitate regulatory adherence.
+Merchant Category Code
+MCCs are essential for categorizing businesses and the types of goods and services they provide as well as
+assessing their risk levels. Based on analysis, certain MCCs have been identified as high risk in alignment
+with industry standards or due to their association with higher rates of suspicious activity, adverse actions
+and escalations. The high-risk designation requires EDD and continuous monitoring under certain
+circumstances to mitigate potential risks associated with money laundering, terrorist financing, and other
+financial crimes. These categories are periodically evaluated to determine if codes should be added or
+removed from the high risk list.
+● Ongoing Due Diligence and Periodic Due Diligence
+The frequency of the Ongoing Due Diligence (“ODD”) review is determined by the customer’s risk rating and
+MCC category. High risk customers and those in high risk MCCs must be reviewed at onboarding and every
+90 days, provided the customer remains active and high risk5. Moderate risk customers that select high risk
+MCC categories must be reviewed at onboarding and every three years while low risk customers with a high
+risk MCC must be reviewed at onboarding and every five years6. If the customer's risk rating changes to
+‘high’, they will then adhere to the high- risk due diligence cadence.
+Specialists analyze customer-specific attributes, transactional behavior patterns, and web presence to
+understand the account's nature and actual vs anticipated activity, including manual Google searches for
+Negative News and a comprehensive review of identity and behavior patterns.
+● EIN Denylisting
+The ability to denylist by EIN is an integrated compliance alert action, and is also enforced during the KYB
+onboarding process. This functionality ensures that a business entity that has been denylisted is prevented
+from using Cash App, similar to how SSN denylist accounts are handled. When a C4B customer provides
+5 Certain high risk customers with high risk MCCs may be subject to ODD at a more frequent cadence.
+6 This was implemented in June 2024. Customers will be scheduled for a periodic review on a go forward
+basis from the date of implementation.
+Know Your Business (KYB) Standard | Cash App | U.S.
+13
+
+Confidential and Not for Distribution
+their EIN during the KYB process, the system screens it against the denylist and prohibits the customer from
+onboarding. This integration supports the goal of maintaining a secure platform and ensures a consistent
+handling of both SSN and EIN denylisted accounts by mitigating risk posed by potential bad actors.
+4.1.3 Source of Wealth/Source of Funds
+Collection of information regarding the customer’s source of wealth and funds enhances transparency and
+compliance with regulatory standards. This process involves a series of questions that aim to understand the
+customer’s origin of funds used for a transaction (“SoF”) and the origin of the customer’s accumulated
+wealth (“SoW”). For C4B customers that choose a Single Member LLC or NPO as the business entity, three
+questions are asked at onboarding about how long the business has been in operation, estimated annual
+revenue, and estimated annual income, with the aim of understanding customers' expected level of
+transactions and income.
+4.1.4 Screening
+● Sanctions
+Sanctions screening is integral to efforts to detect and prevent prohibited individuals and entities from
+establishing an account with Cash App. This process involves screening new business customers against
+multiple sanctions lists using third-party vendors such as LexisNexis and CSI. The screening process
+includes screening individual and business information collected during account setup and on an ongoing
+basis to identify any matches with sanctioned entities. Additional members and beneficial owners identified
+during the course of review of high-risk businesses, such as NPOs and professional services, are also subject
+to sanction screening.
+For additional information about Cash App’s sanctions screening standard and controls, please refer to the
+Cash Customer Onboarding Management Sanctions Program.
+● Adverse Media (Negative News)
+Screening for Adverse Media is a crucial component of the CDD procedure. C4B customers are a part of
+Cash App's initial and rescreening processes for Adverse Media. Additionally, within the EDD review process,
+all C4B customers are subject to manual Google searches to identify Negative News, and if any unfavorable
+news or mentions are detected, customers are escalated or denylisted.
+● Section 314(a)
+Know Your Business (KYB) Standard | Cash App | U.S.
+14
+
+Confidential and Not for Distribution
+Pursuant to requirements within the Uniting and Strengthening America by Providing Appropriate Tools
+Required to Intercept and Obstruct Terrorism Act of 2001 ("USA PATRIOT Act"), the Treasury Department
+maintains a process for information sharing in and among qualifying financial institutions and law
+enforcement divisions in order to prevent money laundering and terrorist activities.
+Section 314(a) requires certain financial institutions to register with their federal regulator in order to receive
+information requests and notifications about individuals or organizations that are suspected of being
+involved in or connected to criminal activity. Financial Crimes Enforcement Network (“FinCEN”), the
+administrator of this process, maintains an electronic database to facilitate this information exchange (the
+Secure Information Sharing System (“SISS”)).
+Cash App maintains a registration with FinCEN and actively participates in screening against 314(a)
+information requests, including C4B accounts in bi-weekly 314(a) screens.
+4.2 KYC Refresh
+The KYC Refresh standard updates account PII, identification documentation, and SoW for the beneficial
+owner of the C4B account. In parallel, and at a set cadence driven by the customer’s CRR score, a periodic
+due diligence review is conducted yearly on active high risk customers, every 3 years for medium risk
+customers, and every 5 years for low risk customers.
+Active accounts are required to confirm or update their legal name and address every year for high risk
+customers, every 3 years for medium risk customers, and every 5 years for low risk customers. Inactive
+customers will undergo the KYC Refresh process upon reactivation or as per policy requirements.
+4.3 System Access
+The COM team uses several internal and external systems and tools to perform due diligence on C4B
+customers. Third-party vendor tools are used to supplement reviews. Some of these tools are integrated
+within Cash Apps’s internal case management system, and some are external to Cash App's proprietary tool.
+These systems and tools include Regulator, Toolbox, Notary, TLOXP, Google/ Internet, Looker, Tableau, CSI,
+Middesk, Alloy, Box.com and CLEAR. Specialists require access to all systems and tools listed and
+additionally, specialists require Compliance specific roles to ensure access to job specific functionalities.
+Know Your Business (KYB) Standard | Cash App | U.S.
+15
+
+Confidential and Not for Distribution
+4.4 Queue Parameters
+Cash App utilizes various proprietary algorithms to create cases for the KYC team to review. This includes
+automated case alerts generated in queues and periodic or manual reports for review. Case alerts and
+reports are generated using machine-learning, heuristics, and manual methodologies.
+Cash App’s COM team queues are established and maintained by internal Engineering team(s). Any new
+queues or recommended changes to the existing queue models for the KYC team are reviewed and approved
+by the Customer Onboarding Lead.
+4.5 Quality Control
+The Quality Control (“QC”) team recognizes the importance of ensuring that compliance standards are
+functioning optimally while assessing performance and enabling precise and accurate reviews, as well as
+appropriate risk based controls. The QC team is an independent team that ensures actions taken on
+individual accounts are in line with review procedures, and are based on the overall reputational, operational,
+and regulatory risk posed. Essential functions of the QC process include creating a feedback loop for the
+COM team to continuously identify opportunities for improvement, assessing potential operational gaps to
+remediate deficiencies, and developing and disseminating quality control reporting.
+4.6 New Product Launches
+The COM KYC Program Manager is responsible for providing an advisory function as well as engaging with
+the business unit operations team on new product launches.
+4.10 Risk Assessment
+Cash App’s Global Anti-Money Laundering (“AML”) and KYC Risk Assessments are completed annually by the
+Block Governance and Program Support team’s Risk Assessment with input/feedback from the Customer
+Onboarding or KYC operation teams. The risk assessments are reviewed and approved by the GCCO or
+applicable in-country CCO. Risk assessments may also occur off-cycle as a result of international expansion,
+the introduction of new products or services, material changes to existing products or services, or new or
+material changes to regulatory requirements.
+5. Document Management
+Know Your Business (KYB) Standard | Cash App | U.S.
+16
+
+Confidential and Not for Distribution
+5.1 Document Owner
+This document is owned by the COM KYC Program Manager or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All full-time Cash employees and contractors receive Bank Secrecy Act (“BSA”)/AML and OFAC training at
+least once per calendar year. Upon onboarding newly hired COM Operations Analysts are provided role
+specific training relating to alert review and proper manager escalations as outlined in the C4B user guides .
+Ongoing training requirements are set by the COM Lead and may be deemed necessary based on
+performance, changes to processes, or the implementation of new processes.
+7. Monitoring and Reporting
+A key aspect of the C4B standard is leveraging dashboards to track KYB metrics, enabling effective
+monitoring and reporting of standard performance. Dashboards are used to identify potential gaps through
+random sampling to help drive and determine any need for additional monitoring.
+Both programmatic and operational reporting are used to allow visibility of Block’s AML risk exposure and
+overall performance. Programmatic reporting provides transparency into the KYB standard performance and
+gauges compliance impact to the business, through the tracking of negative actions taken on C4B
+customer’s accounts, and escalation activity into the Financial Crimes’ SAR investigations team.
+8. Exceptions
+The Document Owner (COM KYC Program Manager) or designee will have authority to approve exceptions
+and/or exemptions to this Standard, provided that the proposed exception or exemption does not violate
+applicable laws and regulations. Standard exception requests must be documented in writing, include a
+reason for a request, and provide a description of the controls that the Company will implement to mitigate
+risks associated with the exception. Any approved exceptions must be documented in writing and retained
+with recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Know Your Business (KYB) Standard | Cash App | U.S.
+17
+
+Confidential and Not for Distribution
+Standard Governance team at go/policyhelp. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documentation or References
+Related Policy Cash App KYC Policy
+Related Document Cash App KYC Program
+Related Program COM Sanctions Program
+Related Procedure Cash App EDD Procedure for C4B customers
+Related Program Customer Risk Rating Program
+11. Revision & Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Anjali Khullar Program Management Reviewed/No Impact Jun 24, 2024
+Lead
+Vanessa Rioux COM Ops Lead Reviewed/No Impact Jun 24, 2024
+Adrian Gardner Head of COM Reviewed/No Impact Jun 24, 2024
+Sarah Edwards Counsel Reviewed/No Impact Jul 22, 2024
+Approval History
+Version Approver Title Type Description Date
+Know Your Business (KYB) Standard | Cash App | U.S.
+18
+
+Confidential and Not for Distribution
+1.0 Jonathan COM Program Creation Block performs analysis Mar 18, 2024
+Diaz Manager of the need for the
+standard. Standard is
+drafted.
+1.0 Adrian Head of COM Initial Appr… Initial review and Sep 19, 2024
+Gardner approval
+2.0 Adrian Head of COM Scheduled … Updates documenting Mar 28, 2025
+Gardner enhancements to C4B
+KYB monitoring
+12. Document Details
+Business Cash App
+Scope Regional
+Compliance Domain Anti-Financial Crimes
+Document Owner COM KYC Program Manager
+Last Approval Date Mar 28, 2025
+Effective Date Mar 31, 2025
+Approved By Head of Cash App Customer Onboarding and Management
+Document Review Schedule Annually [March 2025]
+Know Your Business (KYB) Standard | Cash App | U.S.
+19

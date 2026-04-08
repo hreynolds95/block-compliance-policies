@@ -1,0 +1,310 @@
+Global Complaint Policy
+Block, Inc.
+Last Approved: Feb 19, 2026
+Effective Date: Feb 19, 2026
+1. Overview
+Introduction and Purpose: The Global Complaint Policy ("Policy") establishes a standardized
+complaint management framework across Block. This framework is applicable to all Block, Inc.
+(“Blockˮ) Businesses that develop and manage financial products and services across all complaint
+channels and jurisdictions in which Block operates and oversees, excluding Square Financial
+Services (“SFSˮ), which is governed by a separate complaint management framework due to its
+chartered banking obligations. The Global Complaint Oversight Lead is responsible for
+management of this Policy.
+Block is committed to identifying and resolving Complaints in an effective manner. This Policy has
+been established to provide guiding principles to be utilized in the development and management
+of Business-level complaint programs.
+A full-cycle complaint management program creates a uniform framework for the intake, handling,
+and resolution of all Complaints. The Global Complaint Oversight function, within
+Compliance,establishes standard practices by which all Businesses subject to this Policy must
+comply.
+Further, Block maintains this Policy to support compliance with legal, regulatory, and contractual
+requirements governing the handling of customer Complaints for in-scope Block businesses.
+Scope: This Policy is established by Block and is applicable globally across all Block Business
+lines, subsidiaries, and jurisdictions, excluding Square Financial Services, Inc. and its subsidiaries,
+which maintain a separate complaint management framework pursuant to applicable banking
+regulatory requirements. This includes all directors, officers, and team members of these Block
+legal entities and any subsidiaries thereof (which for these purposes includes temporary or
+contract staff and consultants performing work on behalf of these entities).
+● Afterpay Australia Pty Ltd
+● Afterpay Canada Limited
+1
+
+● Afterpay NZ Limited
+● Afterpay US Services, LLC
+● ASPIRO AB
+● Cash App Investing LLC
+● Cash App Taxes, Inc.
+● Clearpay Finance Limited
+● Square AU Pty Ltd
+● Square Canada Inc.
+● Square Capital, LLC
+● Square K.K.
+● Squareup Europe Limited
+● Squareup International Limited
+● TIDAL Music LLC
+● Tidal Serviços de Entretenimento Ltda
+The entities listed above are collectively referred to as “In-Scope Businessesˮ for purposes of this
+Policy. It is every team member of the In-Scope Business's responsibility to adhere to this Policy.
+Definitions:
+Terminology Definition
+Complaint An expression of dissatisfaction or grievance (oral or written) by an
+individual, Business entity, or someone authorized to act on their behalf,
+with a Block product, process, service, decision, vendor, or interaction
+regardless of validity. Complaints are more than just the 'words' but also are
+identified by the tone of and intention behind the customer outreach, as
+well as sentiments of a breach in the Business' responsibilities Complaints
+may also include allegations that Block engaged in wrongful or unfair
+conduct. Complaints do not include Disputes of unauthorized or erroneous
+electronic funds transfers, which are handled through a distinct process
+governed by separate policies and procedures.
+Controls The mechanisms, processes, and procedures designed to minimize risk and
+provide reasonable assurance regarding the effectiveness and efficiency of
+operations and compliance with applicable laws and regulations.
+Dispute A Customer's claim that an electronic funds transfer from their account was
+unauthorized, incorrect, or not executed as intended. A Dispute is outside
+the scope of the definition of Complaint.
+Inquiry A communication (oral or written) that includes general questions, service
+requests or technical issues that do not have sentiments of a Complaint.
+2
+
+Terminology Definition
+Staff Member All employees and fixed-term and contingent workers who support the
+operations of Block and/or subsidiaries covered by this Policy, and include
+interns, temporary workers, consultants, vendors, third-party providers, and
+contractors.
+2. Policy Requirements
+2.1 Terms and Definitions
+The Global Complaint and Inquiry definition must be adopted by all In-Scope Businesses subject to
+this Policy. Businesses with additional legal, regulatory or contractual requirements not captured
+within the global definitions may adopt a Business-level complaint definition inclusive of additional
+requirements to which they are subject.
+2.2 Severity Tier Rating
+A tiered severity model is used to assess and prioritize complaints based on the inherent risk
+posed by the issue and, in some cases, the source of the Complaint. This model supports
+consistent Complaint handling, enables efficient resource allocation, and ensures that higher-risk
+matters receive appropriate attention and escalation.
+A severity tiering framework must be adopted by all In-Scope Businesses subject to this Policy. If a
+Business is subject to additional legal, regulatory, or contractual obligations that go beyond what is
+outlined in this Policy, it must adopt a severity model that meets those heightened requirements
+while remaining aligned with the core expectations set forth by Block.
+Detailed tier definitions and criteria are provided in the applicable Complaint Standards and may
+consider factors such as regulatory impact, reputational harm, systemic issues, or potential
+consumer harm.
+2.3 Complaint Intake Channels
+Block is committed to providing customers of In-Scope Businesses with multiple accessible
+avenues for submitting Complaints. Complaints may be received through various intake channels,
+including but not limited to direct customer communications, company-operated interfaces,
+regulatory agencies, and authorized third-party service providers acting on behalf of the customer.
+Intake channels are defined and operationalized in greater detail within the applicable Complaint
+Standards for each brand or product line. Complaints received by an In-Scope Business are
+subject to standardized identification, handling, categorization, and resolution, as outlined in this
+Policy and associated Complaint Standards.
+3
+
+2.4 Regulatory Authorities, Rules, and Regulations
+For In-Scope Businesses operating in jurisdictions with region-or country-specific complaint
+obligations, such Businesses must comply with applicable local regulatory complaint requirements
+in addition to the requirements set forth in this Policy and associated Complaint Standards.
+In-Scope Businesses with contractual obligations established by bank partners must also comply
+with such obligations in addition to this Policy and associated Complaint Standards. Bank partner
+requirements are documented in contractual agreements and supporting governance
+documentation. Block Legal and Compliance functions provide guidance on the integration of bank
+partner complaint-related requirements into the Business-level complaint governance frameworks
+and processes.
+2.5 Complaint Trend Analysis and Root Cause Analysis
+Complaint trend analysis provides insight into the types of Complaints raised, the customer
+journey and experience, and whether information obtained through Complaint handling
+substantiates customer allegations or identifies emerging patterns of concern. In-Scope
+Businesses must conduct Complaint trend analysis, where appropriate and commensurate with
+Complaint severity, volume, and risk.
+In-Scope Businesses must establish feedback loops to relevant stakeholders, including Product,
+Operations, Legal, Risk, and Compliance, to assess whether observed trends or volume variations
+may reasonably be attributed to products, technology, policies, procedures, or customer
+communications, and whether changes could mitigate the circumstances leading to such
+Complaints.
+Trend analysis outputs must be presented through established governance forums to enable
+further evaluation, prioritization, and treatment decisions. These forums will assess potential root
+causes, determine whether additional investigation is required, and define appropriate treatment
+actions, which may include process enhancements, product changes, risk acceptance, or
+escalation to Issue Management.
+Root cause analysis may require cross-functional investigation and intervention beyond initial
+trend analysis. Where an underlying issue is identified that causes material harm to additional
+customers, Businesses must take appropriate remedial action regardless of whether those
+customers submitted a Complaint. This includes escalation to Issue Management or incident
+response processes, where appropriate, to support identification of affected customers,
+documentation of systemic issues, and remediation tracking.
+Global Complaint Oversight, as part of the Compliance function, establishes governance
+expectations for Complaint trend reporting and systemic issue identification. Each month, Global
+Complaint Oversight reviews RCA outputs and Complaint trends to determine whether issues meet
+criteria for systemic issue designation, risk acceptance, or other governance actions, and monitors
+the remediation lifecycle in coordination with Issue Management.
+4
+
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Businesses (“1LODˮ):
+○ In-Scope Business teams are subject to this Policy based on the products or
+services they develop, manage, and oversee. Businesses are responsible for
+implementing, maintaining, and complying with Policy requirements, including
+establishing and operating complaint handling processes, controls, and procedures.
+○ As the first line of defense, the Business operations team, agent team leaders,
+complaint handling units, and quality assurance are responsible for designing,
+implementing, and maintaining internal controls necessary to comply with Global
+Complaint Policy requirements and applicable contractual, regional, or regulatory
+obligations.
+● Global Complaint Oversight (“2LODˮ):
+○ The enterprise compliance function responsible for establishing the Global
+Complaint Policy framework, defining oversight expectations, and monitoring
+adherence to Policy requirements across In-Scope Businesses subject to this
+Policy.
+○ As the second line of defense, Global Complaint Oversight provides independent
+oversight, challenge, guidance, and monitoring of Business complaint management
+programs, including the execution of risk-based, independent compliance and
+validation testing. Global Complaint Oversight escalates material risks and systemic
+issues as appropriate but does not execute complaint handling activities.
+● Global Complaint Program Lead:
+○ Responsible for developing and maintaining the Global Complaint Policy and
+associated oversight requirements, ensuring In-Scope Businesses are informed of
+policy obligations, and conducting independent monitoring and assessments of
+Business-level complaint management.
+● Chief Compliance Officer ("CCO"):
+○ Senior executive responsible for oversight of the Global Complaint Policy and
+Global Complaint Standard. They receive recurring reporting on Policy and
+Business level compliance and metrics.
+● 3rd Line of Defense ("3rd LoD"):
+○ The third-line function consists of the Internal Audit ("Audit") team. The 3LoD is
+responsible for conducting period reviews of the Business and global level
+programs, as well as independent testing and evaluation of the control
+environment.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+5
+
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All relevant Staff members will receive training at least annually covering applicable requirements
+and guidance to implement this Policy effectively. All training activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Standard.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Document Owner or designee has the authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws,
+regulations, or contractual obligations.
+Policy exception requests must:
+● Be submitted in writing through Blockʼs designated exception management process and
+system;
+● Include a clear business justification for the request;
+● Describe the risks associated with non-compliance; and
+● Provide a description of the controls Block will implement to mitigate risks associated with
+the exception.
+Businesses are expected to submit exception requests within forty-five 45 days of becoming
+aware of actual or potential non-compliance with this Policy, including but not limited to
+non-compliance resulting from new product development or identified procedural, people, or
+technological gaps.
+All approved exceptions must be documented in writing and retained in accordance with Company
+recordkeeping requirements. Approved exceptions or exemptions must be submitted to the Global
+Complaint Oversight Lead. The Document Owner and/or designee will inform Compliance
+Leadership and applicable governance committees, as needed, of approved exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+6
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Global Complaint Program Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+N/A N/A Creation August 2020
+N/A Compliance Lead Initial Approval October 2020
+Ben Gray Block (prev. Initial Approval November 2020
+Square) Chief
+Compliance
+Officer
+N/A Global Complaint Scheduled October 2021
+Program Review
+manager
+Ben Gray Block (prev. Scheduled December 2021
+Square) Chief Review
+Compliance
+Officer
+N/A N/A Immaterial Document is February 2022
+Change Approval migrated to new
+template in
+accordance with
+change from
+7
+
+Approver Title Type Description Date
+Square, Inc to
+Block, Inc.
+John Alfano Block Global Immaterial Made clarifying December 8,
+Policy & Lead Change Approval edits to 2022
+document and
+migrated
+document to new
+template.
+Sydney Nam Block Policy Immaterial Revised August 29, 2023
+Governance Change Approval template.
+Coordinator
+Briana Peterkin Global Complaint Material Change Clarified March 14, 2024
+Program Approval applicability,
+Manager definition, and
+purpose of root
+cause analysis.
+Added
+regulatory/region
+al/bank partner
+requirements.
+Removed
+mention of COE
+John Alfano Head of Global Material Change Mar 30, 2024
+Policy & Approval
+Governance
+Briana Peterkin Global Complaint Scheduled Clarified Apr 3, 2025
+Program Lead Review definitions and
+exceptions with
+other edits to the
+Compliance Compliance Scheduled Aug 12, 2025
+document and
+Policy Committee Policy Committee Review
+migrated the
+document to the
+new template.
+8
+
+Approver Title Type Description Date
+Compliance Compliance Scheduled … Clarified that SFS February 19,
+Policy Committee Policy Committee is explicitly 2026
+excluded, and
+clarify the
+distinct roles and
+responsibilities
+between
+1LOD and 2LOD
+Responsibilities
+for trend and
+RCA
+Document Details:
+Business Block
+Scope Global
+Compliance Domain Consumer Protection
+Document Owner Global Complaint OversightLead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+9

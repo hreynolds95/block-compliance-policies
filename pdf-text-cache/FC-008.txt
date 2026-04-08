@@ -1,0 +1,563 @@
+ARCHIVED
+Australian Anti Money
+Laundering and Counter
+Terrorism Financing
+Program
+Afterpay | Afterpay NZ Limited
+18 December 2024
+Date of Approval
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Australian AML/CTF Program | Afterpay NZ Limited 2
+
+Confidential
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 6
+2.1 The requirement to establish and maintain an Australian AML/CTF Program 6
+2.2 Scope and application of this Australian AML/CTF Program 7
+2.3 The structure and purpose of this Australian AML/CTF Program 7
+3. Key Concepts 8
+3.1 What is money laundering 8
+3.2 What is terrorism financing? 8
+3.3 AML/CTF obligations 9
+Part A 10
+4. General Obligation 10
+4.1 Purpose 10
+4.2 Afterpay NZ’s business 10
+4.3 Afterpay NZ’s Designated Services 10
+4.4 Application of the Part A requirements to Afterpay NZ 11
+4.5 Comparable laws 11
+5. Risk Management Obligations 12
+6. Oversight and Update Obligations 13
+6.1 Rule 8.4 Board and Senior Management approval and oversight 13
+6.2 Designation of AML/CTF Compliance Officer at management level 14
+6.3 Rule 8.6 Independent review of this Australian AML/CTF Program 15
+6.4 Rule 8.7 AUSTRAC feedback and guidance 15
+6.5 Record Keeping 16
+7. Reporting Obligations 17
+7.1 Compliance Reports 17
+7.2 International funds transfer instructions (IFTIs) 17
+7.3 Changes to enrolment details 17
+Part B 18
+8. Obligations 18
+8.1 Application of Part B 18
+8.1 Consumer KYC 18
+9. Document Management 20
+9.1 Document Owner 20
+9.2 Review and Approval 20
+9.3 Exceptions 20
+9.4 Revision & Approval History 20
+9.5 Document Details 21
+Australian AML/CTF Program | Afterpay NZ Limited 3
+
+Confidential
+1. Definitions
+Terminology Definition
+Afterpay Foreign means the document titled “Afterpay Foreign Entities Guidance Note”,
+Entities Guidance which sets out overarching guidance on the application of the
+Note AML/CTF Laws to non-Australian Reporting Entities and a comparative
+analysis of AML/CTF Laws.
+Afterpay NZ means Afterpay NZ Limited 6340314
+AML/CTF means anti-money laundering and counter-terrorism financing
+(“AML/CTF”).
+AML/CTF Act means the Anti-Money Laundering and Counter-Terrorism Financing
+Act 2006 (Cth), being the principal statute operating in Australia.
+AML/CTF means Afterpay NZ’s AML/CTF Compliance Officer as provided for in
+Compliance Officer accordance with Rule 8.5.1 of the AML/CTF Rules.
+AML/CTF Rules means the Anti-Money Laundering and Counter-Terrorism Financing
+Rules Instrument 2007 (No. 1) (Cth).
+AML/CTF Laws means the AML/CTF Act and the AML/CTF Rules.
+AUSTRAC means the Australian Transaction Reports and Analysis Centre
+(“AUSTRAC”), which is Australia’s anti-money laundering and
+counter-terrorism financing regulator and financial intelligence unit.
+this Australian means the Australian AML/CTF program for Afterpay NZ, as recorded in
+AML/CTF Program this document.
+Board means Afterpay NZ’s board of directors.
+Consumer means an individual end-customer who utilises, or seeks to utilise,
+Afterpay NZ’s “buy now pay later” services. For the purpose of this
+AML/CTF Program, Consumers are Afterpay NZ’s Customers.
+Australian AML/CTF Program | Afterpay NZ Limited 4
+
+Confidential
+Criminal Code means the Criminal Code Act 1995 (Cth).
+Customer means a person to whom Afterpay NZ provides (or is asked to provide)
+a Designated Service. For the purpose of this AML/CTF Program,
+Afterpay NZ’s Customers are Consumers.
+Designated
+has the meaning given to that term in section 6 of the AML/CTF Act.
+Services
+Employees includes full-time, part-time and casual employees, contractors and
+agents engaged by Afterpay NZ, or acting on Afterpay NZ’s behalf, for
+the purpose of performing certain services for the benefit of Afterpay
+NZ.
+FATF means the Financial Action Task Force (“FATF”), an international,
+inter-governmental body which sets standards and promotes effective
+implementation of legal, regulatory and operational measures for
+combating money laundering, terrorist financing and other related
+threats to the integrity of the international financial system.
+Merchant means those individuals, partnerships, companies and trusts with
+whom Afterpay NZ has an arrangement to pay the value of purchases
+made by a Consumer using Afterpay NZ’s “buy now, pay later” loan
+product and who offer goods or services for sale to Consumers. For the
+avoidance of doubt, Afterpay NZ does not provide a Designated Service
+to these Merchants, rather they are part of the process for the provision
+of the loan products to Consumers.
+ML/TF means money laundering (“ML”) / terrorism financing (“TF”)
+ML/TF Risk means the risk that a reporting entity (in this case Afterpay NZ) may
+reasonably face that its provision of Designated Services may
+(inadvertently or otherwise) involve or facilitate money laundering or
+terrorism financing.
+NZ means New Zealand.
+Australian AML/CTF Program | Afterpay NZ Limited 5
+
+Confidential
+NZ Programme means the AML/CTF compliance program that applies to Afterpay NZ
+under NZ laws (otherwise known as Afterpay NZ’s “AML/CFT
+Compliance Programme”).
+Reporting Entities means providers of Designated Services as that term is defined under
+the AML/CTF Act.
+Senior includes a member of Afterpay’s Leadership Team or a member of the
+Management Block Compliance Core organisation.
+2. Introduction
+2.1 The requirement to establish and maintain an Australian AML/CTF
+Program
+This Australian AML/CTF Program is established in compliance with section 84(1) of the Australian
+AML/CTF Act. It applies to Afterpay NZ Limited 6340314 ( Afterpay NZ ) as a Reporting Entity enrolled
+with AUSTRAC.
+Although Afterpay NZ is registered, and operates in NZ (and is subject to NZ laws), the AML/CTF Act
+operates extraterritorially to the activities of a subsidiary of an Australian resident company insofar as
+that subsidiary provides a Designated Service at or through a permanent establishment of that
+subsidiary in a country other than Australia. Afterpay NZ is a subsidiary of Afterpay Pty Ltd1 , an
+Australian resident company, and it provides certain Designated Services at or through its
+permanent establishment in NZ.
+As a result, Afterpay NZ is subject to the AML/CTF Act, which imposes a range of obligations on
+Afterpay NZ in connection with its provision of Designated Services, albeit that they are more limited
+than the obligations imposed on Reporting Entities who provide Designated Services at or through
+a permanent establishment in Australia.
+1 On 31 January 2022, Block Inc. completed its acquisition of Afterpay Pty Ltd (ACN 618 280 649). As a result,
+Afterpay Pty Ltd is a wholly owned subsidiary of Block, Inc.
+Australian AML/CTF Program | Afterpay NZ Limited 6
+
+Confidential
+2.2 Scope and application of this Australian AML/CTF Program
+In New Zealand, Afterpay NZ is a member of the Afterpay New Zealand Designated Business Group
+( D BG ), comprising Afterpay NZ, Afterpay Australia Pty Ltd ACN 15 169 342 942 and Afterpay Limited
+ACN 30 618 280 649. Afterpay NZ is not a member of an Australian DBG. To meet its obligations
+under the AML/CTF Act, Afterpay NZ has also enrolled itself with AUSTRAC and maintains its own
+Australian AML/CTF program.
+This Australian AML/CTF Program operates in addition to the NZ Programme and any supporting NZ
+policies and procedures. It is not intended to replace or be replaced by the NZ Programme or NZ
+policies and procedures. In the event that the NZ Programme or supporting NZ policy or procedure
+specifies any requirements that are materially different from those required by this Australian
+AML/CTF Program, Afterpay NZ must apply both procedures to the extent possible. Where this is not
+possible, Afterpay NZ must apply the requirements of the NZ laws. If it appears that performance of
+any part of this Australian AML/CTF Program would cause Afterpay NZ to breach NZ laws, the
+AML/CTF Compliance Officer must be consulted immediately.
+2.3 The structure and purpose of this Australian AML/CTF Program
+Section 84(1) of the AML/CTF Act requires that an AML/CTF program consists of two distinct sections,
+referred to as “Part A” and “Part B”. Each section is required to contain certain information, which is
+set out below.
+Afterpay NZ provides Designated Services solely at or through its permanent establishment in New
+Zealand. It is regulated by NZ laws relating to AML/CTF and Afterpay NZ has assessed these NZ laws
+to be comparable to the AML/CTF Laws. This assessment process, including a review table of
+comparable elements of the laws, is contained in the ‘Afterpay Foreign Entities Guidance Note’.
+In these circumstances:
+A. Afterpay NZ is exempted from the need to comply with a range of obligations under the
+AML/CTF Laws that would otherwise apply if the Designated Services were being
+provided at or through a permanent establishment in Australia; and
+B. this Australian AML/CTF Program is required to consider only minimal additional systems
+and controls to those already applicable to Afterpay NZ within NZ, as reflected in the
+remainder of this document.
+Australian AML/CTF Program | Afterpay NZ Limited 7
+
+Confidential
+3. Key Concepts
+3.1 What is money laundering
+Money Laundering is a serious crime. Money Laundering involves hiding, disguising or legitimising
+the true origin and ownership of money used in or derived from committing crimes. It is an
+extremely diverse activity that is carried out at various levels of sophistication and plays an important
+role in organised crime.
+The AML/CTF Act defines “money laundering” as conduct that amounts to: (a) an offence against
+Division 400 of the Criminal Code; or (b) an offence against a law of a State or Territory that
+corresponds to an offence referred to in paragraph (a); or (c) an offence against a law of a foreign
+country or of a part of a foreign country that corresponds to an offence referred to in paragraph (a).
+Division 400 of the Criminal Code 2 provides a range of money laundering offences, each with a
+similar theme, being that a person deals with money or property that is the proceeds or instrument
+of crime. The person need not have an actual knowledge of the connection between the money and
+a crime.
+NZ has similar laws, which are relevant to the definition above at (c).
+3.2 What is terrorism financing?
+The World Bank defines “ terrorism financing ” as the financial support, in any form, of terrorism or of
+those who encourage, plan or engage in terrorism and this can be divided into two broad areas:
+1. funding of terrorist attacks – funding the cost of an actual attack, including cost of
+firearms, explosives and travel; and
+2. logistical funding – funding required to support groups or individuals who may plan a
+terrorist attack or recruit for and provide training to the groups.
+The AML/CTF Act defines “financing of terrorism” as conduct that amounts to: (a) an offence against
+section 102.6 or Division 103 of the Criminal Code; or (b) an offence against section 20 or 21 of the
+Charter of the United Nations Act 1945; or (c) an offence against a law of a State or Territory that
+2 A full list of offences under Division 400 is available in the Australian Criminal Code Act 1995
+Australian AML/CTF Program | Afterpay NZ Limited 8
+
+Confidential
+corresponds to an offence referred to in paragraph (a) or (b); or (d) an offence against a law of a
+foreign country or a part of a foreign country that corresponds to an offence referred to in paragraph
+(a) or (b).
+3.3 AML/CTF obligations
+The AML/CTF Act imposes a number of obligations on Reporting Entities with a view to detecting,
+deterring and disrupting money laundering, terrorism financing and other serious financial crimes
+and meeting various related objectives.
+Reporting Entities that meet the geographical link test in section 6(6) of the AML/CTF Act must have
+an Australian AML/CTF Program in place that meets the requirements of the AML/CTF Act and the
+AML/CTF Rules.
+The Designated Services provided by Afterpay NZ are outlined in Part 4.3 of Part A of this Australian
+AML/CTF Program.
+Australian AML/CTF Program | Afterpay NZ Limited 9
+
+Confidential
+Part A
+4. General Obligation
+4.1 Purpose
+Section 84(2) of the AML/CTF Act specifies that the purpose of a Part A is to:
+A. identify, mitigate and manage the ML/TF Risk that the Reporting Entity reasonably may
+face in respect of its provision of Designated Services at or through its permanent
+establishment in Australia ;
+B. if the Reporting Entity provides Designated Services at or through a permanent
+establishment in a foreign country, ensure that it takes such action as is required by the
+AML/CTF Rules in relation to its provision of Designated Services at or through its
+permanent establishment in that foreign country ; and
+C. otherwise address the Reporting Entity’s compliance with the applicable AML/CTF Laws.
+The application of these purposes to Afterpay NZ and its provision of Designated Services is
+discussed below.
+4.2 Afterpay NZ’s business
+Afterpay NZ’s ‘buy now pay later’ service allows Consumers to purchase at participating Merchants
+and pay for them over four fortnightly instalments. Afterpay NZ pays the Merchant the purchase
+price of the goods (less a fee), and assumes all Consumer non-payment risk. It is fee and interest free
+to Consumers who pay on time.
+4.3 Afterpay NZ’s Designated Services
+Afterpay NZ provides Designated Services to Consumers as follows:
+Designated Service Customer Corresponding Financial Activities
+under the Australian under New Zealand Law
+AML/CTF Act
+Item 6: Making a loan, Individual end-customer Lending to or for a customer.
+where the loan is made in who seeks to utilise [Sub paragraph 5(1)(a)(ii) of the
+the course of carrying on a Afterpay NZ’s “buy now pay definition of “financial institution” in
+loans business. later” services (referred to the AML/CFT Act 2009 (NZ).]
+Australian AML/CTF Program | Afterpay NZ Limited 10
+
+Confidential
+in this AML/CTF Program
+as a Consumer).
+Item 7: In the capacity of: Individual end-customer Issuing or managing a means of
+(a) lender for a loan; or (b) who seeks to utilise payment.
+assignee (whether Afterpay NZ’s “buy now pay [Sub paragraph 5(1)(a)(v) of the
+immediate or otherwise) later” services (referred to definition of “financial institution” in
+of the lender for a loan; in this AML/CTF Program the AML/CFT Act 2009 (NZ).]
+allowing the borrower to as a Consumer).
+conduct a transaction in
+relation to the loan, where
+the loan was made in the
+course of carrying on a
+loans business.
+Items 6 and 7 relate to Afterpay NZ's “buy now, pay later” loan products. Afterpay NZ provides these
+loan products to Consumers who are residents of NZ and have a credit or debit card account issued
+by a NZ registered bank. These products are used by those Consumers to pay for purchases upfront
+(by way of disbursing the loan funds) and allow the Consumers to repay the loan to Afterpay NZ by
+making repayments due every two weeks.
+4.4 Application of the Part A requirements to Afterpay NZ
+Afterpay NZ has identified that it is required to take certain actions specified in the AML/CTF Laws in
+relation to its provision of Designated Services at or through its permanent establishment in NZ.
+These actions are addressed in sections 5 to 7 below.
+4.5 Comparable laws
+The AML/CTF Laws provide some relief to Afterpay NZ from AML/CTF requirements that would
+otherwise apply to it if any of its Designated Services were provided at or through a permanent
+establishment in Australia.
+Australian AML/CTF Program | Afterpay NZ Limited 11
+
+Confidential
+In addition to relief provided in the AML/CTF Act itself, Part 8.8 of the AML/CTF Rules confirms that
+Afterpay NZ need only consider minimal additional systems and controls to those required by NZ
+laws so long as it is regulated by AML/CTF laws in NZ that are comparable to those in Australia.
+NZ laws relating to AML/CTF matters apply to Afterpay NZ’s activities when it provides its Designated
+Services.
+A comparative analysis has been undertaken between the Australian and NZ AML/CTF laws in
+accordance with AUSTRAC’s guidance titled “ Assessment of comparable AML/CTF laws in foreign
+countries, Guidance note 09/02 ” 3 . The full analysis and assessment is recorded and stored in the
+Afterpay Foreign Entities Guidance Note.
+Afterpay NZ has assessed that it is regulated in NZ by AML/CTF laws that are comparable to Australia.
+On that basis, Afterpay NZ has considered whether any additional systems or controls are necessary
+to meet its obligations under the AML/CTF Act and whether its current New Zealand ML/TF Risk
+assessment is adequate. Afterpay NZ considers that there is currently no need for additional systems
+and controls beyond those addressed in sections 5 to 7 below.
+5. Risk Management Obligations
+Afterpay NZ provides Designated Services only at or through its permanent establishment in NZ. In
+the circumstances, it has not identified any ML/TF Risk that it reasonably may face in respect of its
+provision of Designated Services at or through a permanent establishment of Afterpay NZ in
+Australia for the purpose of giving effect to section 84(2)(a) of the AML/CTF Act.
+Afterpay NZ will continue to monitor its provision of Designated Services to ensure that it does not
+commence to provide any such Designated Services at or through a permanent establishment in
+Australia as defined by section 21 of the AML/CTF Act. Afterpay NZ’s processes include consultation
+with the AML/CTF Compliance Officer or their delegates where new Designated Services are being
+considered, or where there may be other changes to existing Designated Services that may impact
+this Australian AML/CTF Program.
+3 Further information is available at
+https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/assessment-co
+mparable-amlctf-laws-foreign-countries
+Australian AML/CTF Program | Afterpay NZ Limited 12
+
+Confidential
+Afterpay NZ’s approach to identifying, mitigating and managing ML/TF Risk is set out in the NZ
+Programme. It has assessed its overall residual ML/TF Risk to be low, based on Block’s ML/TF &
+Sanctions Risk Assessment Program, but will continue to reflect on, and monitor, this.
+6. Oversight and Update Obligations
+6.1 Rule 8.4 Board and Senior Management approval and oversight
+Rule 8.4.1 of the AML/CTF Rules requires that Part A of this Australian AML/CTF Program is approved
+by the Board and Senior Management. Part A of the Australian AML/CTF Program must also be
+subject to the ongoing oversight of the Board and Senior Management.
+The AML/CTF Compliance Officer provides updates to Senior Management and the Board regarding
+AML/CTF compliance. These are provided in accordance with the following points:
+● The AML/CTF Compliance Officer is to present Part A of this Australian AML/CTF Program
+for formal re-approval by the Board and Senior Management approximately every 12
+months regardless of whether any changes have been made to it;
+● AML/CTF compliance will be reported to Senior Management at least annually and will be
+noted and/or discussed at least annually by the Board, and will be the subject of regular
+oversight by Senior Management; and
+● To ensure that the Board and Senior Management have the necessary knowledge and
+skill to carry out their oversight functions, they will receive separate dedicated Board
+AML/CTF awareness training on an annual basis and otherwise upon the request of any
+Board member.
+The AML/CTF Compliance Officer will also provide updates to the Board and Senior Management
+concerning each of the following:
+● Changes to NZ laws, Afterpay NZ’s approach to AML/CTF compliance in NZ, Afterpay NZ’s
+assessment of ML/TF Risk, or business changes, that may have an impact on Afterpay NZ’s
+Australian obligations;
+● Reports of, or the results from, independent reviews, internal reviews or compliance
+assessments, or other assessments as to Afterpay NZ’s state of compliance with the
+AML/CTF Laws;
+● Any feedback or guidance received from AUSTRAC as set out in Section 6.4 below;
+Australian AML/CTF Program | Afterpay NZ Limited 13
+
+Confidential
+● business trends, regulatory changes and market developments relevant to AML/CTF
+compliance;
+● Identification of breaches of AML/CTF Laws; and
+● Any other subject matter that the AML/CTF Compliance Officer considers appropriate to
+bring to the Board and/or Senior Management's attention.
+This Australian AML/CTF Program is not a static document. It will be amended over time if the
+AML/CTF Compliance Officer believes that such a change is necessary. This will occur if:
+● There are changes to the AML/CTF Laws, NZ laws or its NZ AML/CTF program that alter
+Afterpay NZ’s Australian AML/CTF obligations;
+● Afterpay NZ expands or alters its business in the future (including by the introduction of
+new products or services) and the AML/CTF Compliance Officer believes that the
+processes outlined in this Australian AML/CTF Program are no longer sufficient;
+● Afterpay NZ determines that it will commence to provide Designated Services at or
+through another jurisdiction outside NZ; or
+● The AML/CTF Compliance Officer otherwise believes that a change is justified.
+Any material changes to this Australian AML/CTF Program must be approved by the AML/CTF
+Compliance Officer, Senior Management and the Board. Any minor changes however can be
+approved by the AML/CTF Compliance Officer only and provided for noting to Senior Management
+and the Board at the next convenient opportunity.
+6.2 Designation of AML/CTF Compliance Officer at management level
+Afterpay NZ has designated an AML/CTF Compliance Officer at management level. This
+appointment has been approved by Senior Management and is confirmed through the adoption of
+this Australian AML/CTF Program. At the date of approval of this Part A, the AML/CTF Compliance
+Officer is Martina Kann .
+The AML/CTF Compliance Officer is responsible for implementing, monitoring, and managing both
+this Australian AML/CTF Program, and the NZ Programme and for ensuring that Afterpay NZ meets
+its requirements under the AML/CTF Laws.
+Australian AML/CTF Program | Afterpay NZ Limited 14
+
+Confidential
+The AML/CTF Compliance Officer may temporarily delegate their duties to an individual at
+management level who has undertaken AML/CTF training and screening, and is at a level of seniority
+appropriate to carry out the duties of an AML/CTF Compliance Officer.
+6.3 Rule 8.6 Independent review of this Australian AML/CTF Program
+Part A of this Australian AML/CTF Program is subject to regular independent review, by an internal or
+external party, at frequencies that take into account the nature, size and complexity of Afterpay NZ’s
+business and the type and level of ML/TF Risk that it may face. Having regard to those factors,
+Afterpay NZ, in consultation with Block, Inc.’s Internal Audit team, will determine the appropriate
+party/parties to undertake an independent and professional review of Part A of this Australian
+AML/CTF Program, and its associated procedures and practices at least once every two years.
+The purpose of the independent review is to assess:
+● The effectiveness of Part A of this Australian AML/CTF Program;
+● Whether Part A of the AML/CTF Program complies with the AML/CTF Rules;
+● Whether Part A of the AML/CTF Program has been effectively implemented; and
+● Whether Afterpay NZ has complied with Part A of the AML/CTF Program.
+In addition to considering these matters, the independent review may consider any other matters
+that the AML/CTF Compliance Officer determines are appropriate.
+Afterpay NZ will also ensure that the results of any independent review of Part A of this Australian
+AML/CTF Program will be provided to the Board and Senior Management. Further details can be
+found in Block’s Compliance Audit, Exam & Independent Assessment Management Program.
+6.4 Rule 8.7 AUSTRAC feedback and guidance
+Afterpay NZ may receive direct feedback (either written or oral) from AUSTRAC, from time to time, in
+respect of AML/CTF compliance or other matters relevant to identifying, mitigating or managing
+ML/TF Risk relevant to Afterpay NZ’s business. This may be specific to Afterpay NZ, or industry-wide
+feedback.
+Following receipt of AUSTRAC feedback, the AML/CTF Compliance Officer will:
+Australian AML/CTF Program | Afterpay NZ Limited 15
+
+Confidential
+● Consider the AUSTRAC feedback and any necessary action that Afterpay NZ will need to
+take to ensure ongoing compliance with AML/CTF Laws;
+● Consider whether the AUSTRAC feedback is relevant to its obligations under NZ laws and
+any necessary action that Afterpay NZ will need to take to ensure ongoing compliance
+with NZ laws;
+● Consult with AUSTRAC as is appropriate in the circumstances; and
+● Inform the Board and Senior Management of the AUSTRAC feedback and any
+recommended action.
+From time to time, AUSTRAC may also publish or disseminate guidance material that is relevant to
+the identification, mitigation, and management of ML/TF Risk that is relevant to Afterpay NZ’s
+business. In these circumstances the AML/CTF Compliance Officer will:
+● Consider the guidance and any necessary action that Afterpay NZ will need to take in
+respect of the guidance;
+● Consult with AUSTRAC as is appropriate; and
+● Inform Senior Management (and, if considered appropriate, the Board) of any
+recommended action.
+6.5 Record Keeping
+Afterpay NZ will make and retain records, or a copy or extract of records, of:
+● The adoption of this Australian AML/CTF Program or an amendment to this Australian
+AML/CTF Program for a period of 7 years from the date that the adoption ceases to be in
+force;
+● Each version of the Australian AML/CTF Program adopted, and any amendments to the
+Australian AML/CTF Program that are adopted, for a period of 7 years from the date that
+the adoption ceases to be in force; and
+● Other matters that are relevant to Afterpay NZ’s application of the AML/CTF Act, AML/CTF
+Rules, or this Australian AML/CTF Program.
+Australian AML/CTF Program | Afterpay NZ Limited 16
+
+Confidential
+7. Reporting Obligations
+7.1 Compliance Reports
+Section 47 of the AML/CTF Act requires Afterpay NZ to lodge annual compliance reports with
+AUSTRAC, in an approved form, in accordance with Chapter 11 of the AML/CTF Rules.
+The AML/CTF Compliance Officer or their delegate will consult with management and other relevant
+Employees to prepare the annual AUSTRAC compliance reports in the first quarter of each year in
+respect of activities undertaken in the previous calendar year and will lodge these with AUSTRAC as
+required.
+7.2 International funds transfer instructions (IFTIs)
+Section 45 of the AML/CTF Act requires Reporting Entities that send or receive IFTIs to lodge an IFTI
+report with AUSTRAC within 10 business days of the instruction being sent or received (as
+appropriate).
+Any instruction Afterpay NZ sends or receives as the last point of transmission out of Australia, or the
+first point into Australia, which involves the transfer of money or property must be reported to
+AUSTRAC by an IFTI report.
+Afterpay NZ does not deal with IFTIs and therefore does not need to file an IFTI report.
+7.3 Changes to enrolment details
+Afterpay NZ will advise the AUSTRAC Chief Executive Officer (“CEO”) of any changes to Afterpay NZ's
+enrolment details which were provided to AUSTRAC when it enrolled as a reporting entity being the
+details contained in Part A of Chapter 63 of the AML/CTF Act). This includes updating Afterpay NZ’s
+annual earnings, derived from operations in Australia, where earnings of A$100 million or more
+occur.
+The AML/CTF Compliance Officer / delegate will notify the AUSTRAC CEO of any changes within 14
+days of the change arising.
+Australian AML/CTF Program | Afterpay NZ Limited 17
+
+Confidential
+Part B
+8. Obligations
+8.1 Application of Part B
+The purpose of Part B is to set out the applicable customer identification procedures that Afterpay
+NZ must use to identify, and verify the identity of, its Customers for the purpose of applying the
+AML/CTF Act to its Customers.
+As Afterpay NZ provides Designated Services to Customers solely at or through its permanent
+establishment in NZ, it is exempted from the need to apply Part 2 of the AML/CTF Act to its
+Customers. Part 2 of the AML/CTF Act includes both the statutory requirements obliging Reporting
+Entities to carry out applicable customer identification procedures to their customers and the
+requirements obliging Reporting Entities to undertake ongoing customer due diligence.
+Practically, this means that there is no role for the applicable customer identification procedures that
+are required to be addressed in Part B in relation to Afterpay NZ under the AML/CTF Act. Instead,
+Afterpay NZ is required to comply with applicable procedures under NZ law to identify, and verify the
+identity of its Customers.
+Nothing in the AML/CTF Laws expressly exempts Afterpay NZ from the need to include a Part B in
+this Australian AML/CTF Program in a form that complies with the requirements of Chapter 4 of the
+AML/CTF Rules. Adopting a cautious approach, Afterpay NZ has therefore determined to include a
+Part B in this Australian AML/CTF Program which incorporates by reference its approach to customer
+identification and verification under NZ law. To that end, the following should be treated as
+incorporated by reference into this Part B.
+8.1 Consumer KYC
+Afterpay NZ collects the following data from Consumers in accordance with the collection methods
+detailed in the NZ Programme.
+Field Afterpay NZ Frontend Validation
+First Name Mandatory
+Australian AML/CTF Program | Afterpay NZ Limited 18
+
+Confidential
+If applicable (the Middle Name will be used to verify the
+Middle Name
+Consumer’s identity when one is provided by the Consumer)
+Surname Mandatory
+Date of Birth (“DOB”) Mandatory (Afterpay NZ Consumers must be 18 or over)
+Residential Address Mandatory (must be within NZ)
+Mobile Phone Mandatory
+Email Mandatory
+Afterpay NZ then:
+a. Verifies the Consumer’s identity; and
+b. Completes a satisfactory PEP and sanctions screening.
+Afterpay NZ will continue to monitor the adequacy of its assessment of ML/TF Risk and associated
+program, policies, processes, systems and controls in NZ. If Afterpay NZ identifies a need to
+strengthen this Australian AML/CTF Program in relation to customer identification, identity
+verification, ongoing customer due diligence, or record keeping, it will incorporate these into its NZ
+Programme, policies and procedures and update this Australian AML/CTF Program as required.
+Australian AML/CTF Program | Afterpay NZ Limited 19
+
+Confidential
+9. Document Management
+9.1 Document Owner
+This document is owned by the AML/CTF Compliance Officer or their designee. For questions arising
+from this AML/CTF Program, please contact the AML/CTF Compliance Officer.
+9.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with Section 6 of this Program.
+9.3 Exceptions
+Exceptions to this Program are not permitted.
+9.4 Revision & Approval History
+Version Approver Approval Type Reason for Issue Date
+1.0 Afterpay NZ Creation New Australian AML/CTF Program 15 November 2019
+Board
+2.0 Afterpay NZ Material C… Remove reference to factoring 22 November 2019
+Board
+3.0 Afterpay NZ Material C… Decline of Ministerial exemption 22 May 2020
+Board application resulting in need to
+conduct electronic identity
+verification, enhanced customer
+due diligence and PEP checks,
+updates to incorporate
+recommendations from 2019
+audit, and general update of
+AML/CFT Programme following
+review.
+4.0 Afterpay NZ Material C… Change of AML/CTF Officer 12 August 2020
+Board
+4.0 Immateria… New Template 27 August 2021
+5.1 Afterpay NZ Scheduled… Annual review and minor 23 September 2021
+Board cosmetic changes
+Australian AML/CTF Program | Afterpay NZ Limited 20
+
+Confidential
+4.2 Afterpay NZ Scheduled… Minor administrative changes 21 December 2022
+Board
+5.0 Afterpay NZ Material C… Change of AML/CTF Officer 14 April 2023
+Board
+5.0 Immateria… New Template 31 August 2023
+6.0 AML/CTF Scheduled… Annual review and minor 15 November 2024
+Compliance administrative changes to bring
+Officer the program up to date.
+Martina Kann
+Afterpay NZ 18 December 2024
+Board
+9.5 Document Details
+Business Afterpay
+Scope Regional (New Zealand)
+Compliance Domain Financial Crimes
+Document Owner AML/CTF Compliance Officer
+Last Approval Date 18 December 2024
+Effective Date 18 December 2024
+Approved By AML/CTF Compliance Officer
+Document Review Schedule Annually
+Australian AML/CTF Program | Afterpay NZ Limited 21

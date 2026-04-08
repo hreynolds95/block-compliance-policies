@@ -1,0 +1,414 @@
+Compliance Training
+Program Standards
+Block
+October 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbydisclosedindividualswithinBlock,Inc.
+andonaneed-to-knowbasis.
+Compliance Training Program Standards | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 4
+1.Introduction 6
+2.Purpose 6
+3.Scope 6
+4.StandardsRequirements 7
+4.1Certifications&ContinuingEducation 7
+4.2BoardTraining 7
+4.3IntakeProcess 8
+4.4TrainingRecords 8
+4.5CommunicationPlan 8
+4.5.1AnnualTrainingCommunicationPlan 8
+4.5.2NewHire&OtherModifiedEscalationProcess 9
+4.5.3TrainingNon-Completion 10
+4.6EnrollmentWaivers 10
+5.DocumentManagement 11
+5.1DocumentOwner 11
+5.2ReviewandApproval 11
+6.MonitoringandReporting 11
+7.Exceptions 11
+8.RecordRetention 12
+RelatedDocuments 12
+9.RevisionandApprovalHistory 12
+10.DocumentDetails 14
+Compliance Training Program Standards | Block
+3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Assignment Generally,enterprise-widemandatorycompliancetrainingareassigned
+tonewhireswithinaweekofonboardingandtheyaregiven30daysto
+completethetraining.Forenterprise-widemandatorycompliance
+trainingassignedannually,staffaregenerallygiven45daystocomplete
+thetraining.Exceptionsareoutlinedinthe2024ComplianceTraining
+Calendar.
+Enrollment StaffMemberswhoareassignedtrainingbasedoneligibilitycriteria
+Audience determinedandapprovedbytheContentOwnerforeachtraining
+course.
+TrainingCampaign Theend-to-endcycletomanageaspecifictrainingcourse.
+StaffMember(s) Allemployeesandfixed-termandcontingentworkerswhosupportthe
+operationsand/orsubsidiariescoveredbythisStandards,andincludes
+interns,temporaryworkers,consultants,vendors,third-partyproviders
+andcontractors.
+RolesandResponsibilities
+Role Responsibility
+● AdviseonAMLandBlockInc.Boardtrainingcontentreview,
+providesinputonrelevanttrainingrequirements
+ChiefCompliance
+● DeliverstrainingtoBlock,Inc.Board.
+Officer(orDelegate)
+● ReviewsandapproveswaiversforAMLandBlock,Inc.Boardtraining
+basedoneligibility;thisresponsibilitymaybedelegated
+● OwnsandmanagesthisComplianceTrainingProgramStandards
+definingtheframeworkthatoutlinestherequirementsandstrategy
+forimplementingthoserequirements.
+● Advisesontrainingdevelopmentanddesign,escalationprocess,
+communicationsplan,andotherCTT-ownedprocessesand
+Compliance
+enterprise-widemandatorycompliancetraining.
+TrainingTeam
+● ResponsibleformonitoringadherencetoStandardsrequirements.
+● SupportsdevelopmentofComplianceTrainingfortheBlock,Inc.
+BoardandsubsidiaryBoardswhicharedeliveredandfacilitatedby
+theBlockChiefComplianceOfficer(“CCO”)andinternational
+ComplianceLeads.
+ContentOwners ● Owntrainingcontent,andincollaborationwiththeCompliance
+Compliance Training Program Standards | Block
+4
+
+Confidential and Not for Distribution
+TrainingTeam(“CTT”),areresponsibleforensuringthattheircontent
+andenrollmentdeliverablesarecompletedbytargetdates.
+● ProvidetheEnrollmentAudiencerequirementsfortheirtrainingto
+theCTT.
+● Reviewandapprovefinaltrainingcontent,audience,andwaiver
+requests(basedoneligibilitycriteria)priortocampaignlaunch
+● FacilitatestheBoardmeetingthatincludestraining,including
+Corporate
+schedulingandmaintenanceofrecordsoftrainingattendanceat
+Governance
+Boardsessions.
+HumanResources ● WhereStaffMembersfailtocompletetheirrequiredCompliance
+BusinessPartners TrainingHRBPs(inpartnershipwithPeopleLeads)determineand
+(“HRBPs”) supportdisciplinaryaction,asappropriate.
+● Advisesoninternationaltrainingcontent,providesinputonrelevant
+International
+trainingrequirements
+ComplianceLeads/
+● DeliverstrainingtolocalsubsidiaryBoards
+MoneyLaundering
+● ReviewsandapproveswaiverRegionaltrainingbasedoneligibility
+ReportingOfficers
+● Note:OftentheInternationalComplianceLeadisalsotheContent
+(“MLROs”)
+Owner.
+● PeopleLeadsshouldensuretimelycompletionoftrainingforall
+theirteammembers.
+PeopleLeads ● WhereStaffMembersfailtocompletetheirrequiredCompliance
+Trainingrequirements,PeopleLeadsdetermineandorsupport
+disciplinaryaction,asappropriate.
+Compliance Training Program Standards | Block
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Compliance Training Program Standard (“Standard”) outlines Block,Inc’s.(“Block”) approachto
+ensuring that appropriate Staff Members are trained on applicable aspects of laws and regulations
+related to their job functions. Block requires all Staff Members to complete and understand
+mandatory Compliance Training within established timeframes. The Compliance Training Lead is
+responsibleformanagementofthisStandards.
+Enterprise-wide mandatory compliance training administered in person and through Block’s
+Learning Management System (“LMS”) is managed under this Standard. Block updates its
+Compliance Training Calendar on an annual basis1, which details the schedule and audiences for
+globalandregionalmandatorycompliancetrainingforthecalendaryear.
+This Standard is established by Block and is applicable globally across all Block business lines,
+subsidiaries, and jurisdictions. References to “Staff Members'' throughout this document shall refer
+toallemployeesandexternalworkers(e.g.contingentlabor,contractors)hiredbyBlockwhosupport
+operationsand/orsubsidiariescoveredbythisStandard
+2.Purpose
+This Compliance Training Program Standards (the “Standards”) details Block’s Compliance Training
+framework outlining requirements for developing Compliance Training, including certifications and
+continuingeducation,boardtraining,intakeprocess,communicationplans,andexceptionwaivers.
+3. Scope
+The scope of this Standard covers all directors, officers, Board members, and Staff Members
+(including temporary or contract staff) of Block globally. Specifically, this Program addresses the
+followingtraining:
+● FoundationalcorporateComplianceTraining;
+● Region-specificComplianceTraining;and
+1Asneeded.
+Compliance Training Program Standards | Block
+6
+
+Confidential and Not for Distribution
+● BoardofDirectorstraining.
+OutofScope:
+● Select contractors and or external consultants on Assignments, depending on scope of
+role;
+● Role-specific, procedural, and operational training relatingtobusinessprocessesorselect
+products;and
+● Training developed outside of the Compliance organization such as by the People Team,
+Privacy,Legal,andInformationSecurity.
+4.Standards Requirements
+4.1 Certifications & Continuing Education
+Professional memberships for the purpose of development of a compliance professional are
+encouraged by Block. Many industry organizations or professional bodies offer access to technical
+training content and network development opportunities. Subject to eligibility requirements, Block
+will reimburse team members for certain annual professional membership fees. Staff Members
+shouldbewithBlockforaminimumof6monthsandobtainLeadapproval.
+Supportedprofessionalmembershipsinclude:
+● ACAMS-AssociationofCertifiedAnti-MoneyLaunderingSpecialists;
+● ACFCS-AssociationofCertifiedFinancialCrimeSpecialists;and
+● CFE-CertifiedFraudExaminer.
+Other certifications relevant to an individual’s duties, regulatory expectations and/or professional
+developmentmayqualifyandwillbeconsidereduponrequestandwithLeadapproval.
+4.2 Board Training
+BoardTrainingisdeliveredonanannualbasistotheBlock,Inc.BoardbytheBlockChiefCompliance
+Officer, and to the subsidiary Boards by the local MLROs. The CTT facilitates development of Board
+training content tomeettrainingneedsdeterminedbytheBlockCCOandinternationalCompliance
+Leads/MLROs. This training may include but is notlimitedtoAML,Anti-Bribery&Corruption(“ABC”),
+Compliance Training Program Standards | Block
+7
+
+Confidential and Not for Distribution
+and Consumer ProtectiontopicsalongwithanyadditionalcontentidentifiedbytheCCO&MLROs.If
+a Board Director is also an employee, they will be waived from employee-level training if they
+attendedtheDirector-leveltraining.
+4.3 Intake Process
+New training requests for in-house development are considered and prioritized on a case-by-case
+basis by the CTT. The CTT then determines the best learning solution for required training, and the
+orderinwhichtherequestwillbeprioritizedagainsttheComplianceTrainingCalendar.
+For training that will require vendor support, theCTTwillmanagetherelationship,adviseonsystem
+requirements, evaluate vendor options, customize vendor content, and support use of vendor
+content.
+4.4 Training Records
+TrainingrecordsaremaintainedandstoredinaccordancewithBlock’srecordretentionstandards.
+Trainingrecordsinclude:
+● TrainingContent,includingversionsoftrainingmaterials;
+● RecordsofTrainingCompletionfromLMS;and
+● Whereapplicable,recordsofTrainingAssessmentsandcorrespondingresults.
+RecordsarestoredwithintheLMSandsecureshareddrivesmanagedbytheCTT.
+4.5 Communication Plan
+4.5.1AnnualTrainingCommunicationPlan
+In order to ensure completion of requiredfoundationalcorporateCompliancetrainingandmaintain
+a culture of compliance, Block has established the below communication and escalationprocessto
+ensure team members areencouragedtocompletetrainingbytherequiredduedate.Oncetraining
+is assigned, employees must complete training within 45 days from annualtrainingenrollmentand
+within 30 days of enrollment for new hires (unless otherwise noted in the Compliance Training
+Calendar).
+Compliance Training Program Standards | Block
+8
+
+Confidential and Not for Distribution
+Process
+Audience Notification Notification
+# Timing Calendar Frequency
+Notified Sender Method
+Day*
+PriortoDueDate-Notification&ReminderCommunications
+** Before Day<1 AllTeam Internal Emailw/Hub Once
+Enrollment Members Comms post**
+1 AtEnrollment Day1 AllTeam Workday Email Once
+Members
+2 2Weeks Day31 Incomplete Workday Email Once
+BeforeDue Team
+Date Members
+3 1Week Day38 Incomplete CTT Slack Once
+BeforeDue Team
+Date Members
+Day45-DueDate-Notification&ReminderCommunications
+4 OnDueDate Day45 Incomplete CTT Slack Weekly(5
+Team weeks)
+Members
+5 1DayOverdue Day46 Incomplete Chief Email Once
+Team Compliance
+Members+ Officer
+Leads
+6 1Week Day53 Incomplete CTT Slackbot Once
+Overdue Team messaging
+Members
+7 2Weeks Day60 Incomplete CTT Email Once
+Overdue Team
+Members+
+Lead
+*Datesareapproximateandcommunicationmayoccuratthenextbusinessday
+**Forselectcampaigns
+4.5.2NewHire&OtherModifiedEscalationProcess
+The CTT review newhirecompletionratesarereviewedonamonthlybasisandnotificationsaresent
+to employees and their leads for two monthly cycles or untilcompleteforlearnerswhoare30+days
+overdue.
+Compliance Training Program Standards | Block
+9
+
+Confidential and Not for Distribution
+Additionally, at times, select training may need to have a customized escalation process based on
+audience, requirements, campaign length, and/or subject matter. This determination is made in
+partnership between the CTT and the Content Owner. In these instances, a modified escalation
+processwillbedevelopedandappliedtothecampaign.
+4.5.3TrainingNon-Completion
+Block requires all Staff Members to complete and understand mandatory Compliance Training
+within established timeframes. Staff Members who do not complete training by established due
+dates may be subject to further escalations and or disciplinary action. Upon the conclusion of a
+TrainingCampaigncycle,theCTTwillprovideafinallistofStaffMemberswithincompletetrainingto
+theHRBPsatthecompletionoftheTrainingCampaign.
+For U.S. based employees, appropriateconsequencesareoutlinedintheEscalationFramework,and,
+in the U.S., may include disciplinary actions such as limitation of internal mobility, ineligibility for
+promotion, loss of system access, and potential termination. Outside the U.S, consequences for
+training non-completion are managed on a case-by-case basis, in accordance with local
+employmentlawsandregulations.
+4.6 Enrollment Waivers
+At times, it may be necessary, based on audience updates or changes to training requirements, to
+make changes to an approved Enrollment Audience after training hasbeenassignedtoemployees
+via LMS. The CTT manages a formal exception process for how these changes are managed and
+processed,followingoneofthetwopathwaysdescribedbelow.
+● Waivers: Waivers are enrollment exceptions that deviate from the audience Assignment
+parameters for an individual or group of individuals. Waivers are reviewed on a
+case-by-casebasisbytheCTTandContentOwners.Forwaivers(bothindividualandbulk),
+requestors must submit a request in writing providing a business justification for the
+unenrollment request. The CTT will review requests and work with respective Content
+Owners to determine if additional approvals are required (i.e. such as from Employment
+Compliance Training Program Standards | Block
+10
+
+Confidential and Not for Distribution
+Counsel). If the waiver request is approved, the CTT will fulfill the request in the LMSand
+maintainarecordoftherequestanditsapproval.2
+● Changes to Training Audience: For any other changes to the training audience after
+training has been assigned (e.g. adding employees missed), Content Owners mustmake
+the request to the CTT in writing, detailingwhichcourseandhowtheaudienceneedsto
+beupdated.TheCTTwillmaintainarecordoftherequestanditsapproval.
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheComplianceTrainingTeamLeadortheirdesignee.
+5.2 Review and Approval
+This document shall be reviewedandapprovedatleastannuallyandasneededonanoff-cyclebasis
+inaccordancewiththeComplianceDocumentApprovalMatrix.
+6.Monitoring and Reporting
+On an ongoing basis, the Standards Owner and/or their designee will monitor Standards related
+activities to evaluate adherence to the Standards and determine whether outputs adhere to
+establishedobjectives.
+Specifically, training results are reported and submitted to the Block Audit and Risk Committee
+(“ARC”) on a quarterly basis. Training reports include completion rates for each training and can be
+broken down by region, cost center, and team code. Training results are reported and submitted to
+theBlockAuditandRiskCommittee(“ARC”)onaquarterlybasis.
+7. Exceptions
+The Standards Owner or designee will have authority to approve exceptions and/or exemptions to
+theseStandards,providedthattheproposedexceptionorexemptiondoesnotviolateapplicablelaw.
+2Ifthetrainingiswaivedafterthecoursestatuswas“inprogress”,thetrainingrecordstatuswill
+reflectas“dropped”fromthecourse.
+Compliance Training Program Standards | Block
+11
+
+Confidential and Not for Distribution
+Standards exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Standards Owner and/or designee will inform
+ComplianceLeadershipandapplicablecommittees,asneeded,ofexceptions.
+8.Record Retention
+Block will maintain records of these Standards in accordance with Block’s document retention
+guidelines.
+Trainingrecordsinclude:
+● TrainingContent,includingversionsoftrainingmaterials;
+● RecordsofTrainingCompletionfromLMS;and
+● Whereapplicable,recordsofTrainingAssessmentsandcorrespondingresults.
+RecordsarestoredwithintheLMSandsecureshareddrivesmanagedbytheCTT.
+Related Documents
+Other 2024ComplianceTrainingCalendar|Block
+Other EscalationFrameworkforNon-Completionof
+ComplianceTraining
+9.Revision and Approval History
+StakeholderReviewTracking
+Approver TeamRepresented StakeholderStatus Date
+Katrina Carroll RegulatoryCounsel Reviewed/Appro… May23,2024
+Compliance Training Program Standards | Block
+12
+
+Confidential and Not for Distribution
+ApprovalHistory
+Name Title Type Description Date
+Greta Bautista Compliance Creation Mar 14, 2023
+Training
+Program
+Manager
+Sandy Zanaty Global Material Ch… Jun 26, 2023
+Compliance Separated
+PolicyManager contentsfrom
+Greta’soriginal
+mergedpolicy
+andprogram.
+Standalone
+policydocument
+indevelopment.
+Sherry Stevens Headof Initialapproval Jul 6, 2023
+Compliance fordocument
+Governance& creation.
+Reporting
+Sydney Nam BlockPolicy Immaterial … Revised Aug 28, 2023
+Governance template.
+Coordinator
+Sherry Stevens Headof Material Ch… Programreview Feb 26, 2024
+Compliance andremovalof
+Governance& procedural
+Reporting elementsinto
+draftProcedure
+&separate
+calendaras
+AnnualPlan
+Sherry Stevens Headof Immaterial … Clarifying Mar 13, 2024
+Compliance language
+Governance& including
+Reporting footnotes,
+linkingrelated
+docs,formatting
+fixes
+Sherry Stevens Headof Immaterial … Updatesand Apr 17, 2024
+Compliance clarifying
+Governance& languagemade
+Reporting throughout
+alongwith
+Compliance Training Program Standards | Block
+13
+
+Confidential and Not for Distribution
+Name Title Type Description Date
+minorrevisions
+toescalation
+processand
+waiversections.
+Sherry Stevens Headof Material Ch… Program Jun 28, 2024
+Compliance updatestoscope
+Governance& androlesand
+Reporting responsibilities,
+additionofnew
+escalation
+processsections,
+andclarifications
+throughout
+Sherry Stevens Headof Material Ch… Updatesto4.5 Oct 4, 2024
+Governance& Communication
+Program Planrevising
+Support endtoend
+experienceand
+numberof
+touchpoints
+10. Document Details
+Business Block
+Scope Global
+ComplianceDomain Compliance Governance
+DocumentOwner Lorianne Woldehanna -ComplianceTrainingLead
+LastApprovalDate Jun 4, 2024
+EffectiveDate Mar 14, 2023
+ApprovedBy HeadofGovernance&ProgramSupport(GPS)
+DocumentReviewSchedule Annually
+Compliance Training Program Standards | Block
+14

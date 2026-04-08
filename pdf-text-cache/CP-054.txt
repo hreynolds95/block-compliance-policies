@@ -1,0 +1,343 @@
+○
+Consumer Protection
+Program Standard
+Cash App | U.S.
+September 2024
+LastApprovalDate
+
+Confidential
+Table of Contents
+TableofContents 2
+Definitions 3
+1.Introduction 5
+2.Purpose 5
+3.Scope 5
+4.StandardRequirements 5
+4.1ConsumerProtectionLawsandRegulations 5
+4.1.1ConsumerProtectionProgramAreaOverview 6
+4.1.2RegulationE/DisputesProgram 6
+4.1.3ComplaintsProgram 6
+4.1.4UDAAPProgram 7
+4.1.5FraudRiskManagement/ScamsProgram 7
+4.1.6AppealsProgram 7
+4.1.7FairLendingProgram 7
+4.2ConsumerProtectionProgramActivities 8
+4.2.1Oversight 8
+4.2.2Monitoring 8
+4.2.3Reporting 9
+4.2.4Standards,PoliciesandProcedures 9
+4.2.5Training 10
+4.2.6ThirdPartyRiskManagementandExternalPartnerships 10
+4.2.7ProductComplianceReviews 10
+5.QualityControlandAssurance 10
+6.DocumentManagement 11
+6.1DocumentOwner 11
+6.2ReviewandApproval 11
+7.Training 11
+8.MonitoringandReporting 11
+9.Exceptions 11
+11.RecordRetention 12
+12.RelatedDocumentationorReferences 12
+13.RevisionandApprovalHistory 12
+14.DocumentDetails 12
+ConsumerProtectionProgramStandard|CashApp
+2
+
+Confidential
+Definitions
+Terminology Definition
+Consumer Consumerreferstoanindividualwhoisanaturalpersonwhoobtainsorhas
+obtainedafinancialproductorservicethatistobeusedprimarilyforpersonal,
+familyorhouseholdpurposes.
+StaffMember Anemployeeorexternalworker(e.g.,contingentlabor,contractors)hiredby
+theCompanywhosupportstheoperationscoveredbythisStandard.
+RolesandResponsibilities
+Role Responsibility
+CashAppConsumer CashAppConsumerProtectionComplianceProgramLeadasownerofthis
+Protection StandardisresponsibleforperformingtheactionslistedundertheHeadof
+Compliance Compliance,CashAppaswellas:
+ProgramLead
+● Servingasthesubjectmatterexpertforcontentrelevanttothis
+Standard,
+● Ensuring this Standard and its accompanying policies and procedures
+reflectindustrybestpracticesandapplicableregulatoryguidance,
+● Ensuringregulatoryrisksaredocumented,
+● Providingandcommunicatingrolesandresponsibilitiestorelevant
+stakeholdersincludingbusinesspartners,
+● EscalatingrelevantmatterstotheHeadofCompliance,CashApp,
+● Conductingperiodicreview(s)oftheStandard,and
+● Delegatingandoverseeingdocumentationrequirements,asneeded.
+CashAppConsumer CashAppConsumerProtectionComplianceProgramManager(s),asdelegated
+Protection bytheLead,isresponsiblefor:
+Compliance ● Overseeingthedocumentationofrequirements,
+ProgramManager(s)
+● Servingasasubjectmatterexpertforcontentrelevanttothis
+Standard,
+● Ensuringregulatoryrequirementsareincludedindocumentation,and
+● ConductingperiodicreviewsoftheStandard.
+CashApp,Headof TheCashApp’sHeadofComplianceisresponsiblefor:
+Compliance ● Ensuringappropriateresourcesandsupportareavailabletoimplement
+thisStandard,
+● Serving as an escalation point for matters related to the Consumer
+ProtectionStandardandProgram,and
+ConsumerProtectionProgramStandard|CashApp
+3
+
+Confidential
+● Ensuring that appropriate Staff Members are trained on Consumer
+Protection topics at least annually commensurate with their roles and
+responsibilities.
+As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App Consumer
+Protection Compliance Lead or Compliance who inform and escalatekeyrisks
+andissuestotheHeadofCompliance.
+ConsumerProtectionProgramStandard|CashApp
+4
+
+Confidential
+1. Introduction
+This Consumer Protection Program Standard (“Standard”) outlines Cash App’s (“Cash App”), U.S. a Line of
+Business under Block, Inc., approach and strategytocomplywithConsumerProtectionlawsandregulations
+that are applicable to the products and services offered by Cash App. The Cash App Consumer Protection
+ComplianceProgramLeadand/ortheirdesigneeisresponsibleforthisStandard.
+2.Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. This Standard is a
+critical component ofCashApp’sConsumerProtectionstrategytoupholdfairandtransparentprinciplesand
+practices across all aspects of the Cash App business and to proactively safeguard the interestsandrights
+ofitsconsumers.
+ThisStandarddefinesthestrategytoensureCashAppis:
+● Incompliancewithapplicableconsumerprotectionlawsandregulations;
+● Adheringtoconsumerprotectionindustrystandards;
+● Implementingcontrolstoensurethatproductsandservicesareadheringtoconsumerprotection
+requirements;
+● Promptlyaddressingconsumerconcerns;
+● Identifyingcommonconsumerprotection-relatedrisks,trends,andemergingareas,and
+● Trackingandremediatingsituationsofnon-complianceorprogramdeficiencies.
+3.Scope
+This Standard is established by Cash App and is applicable to the Cash App U.S. business linesandrelated
+productsandservices.
+4.Standard Requirements
+4.1 Consumer Protection Laws and Regulations
+Cash App is committed to offering its products andservicesinaccordancewithapplicablestateandfederal
+consumerprotectionlawsandregulations.
+ConsumerProtectionProgramStandard|CashApp
+5
+
+Confidential
+4.1.1ConsumerProtectionProgramAreaOverview
+TheConsumerProtectionProgram(“Program”)providesgovernanceandoversightacrosskeyareasthat
+representheightenedconsumerprotectionrisks.
+4.1.2RegulationE/DisputesProgram
+TheRegulationE/DisputesProgramareasupportsandprovidesgovernancefortheregulatoryrequirements
+of the Electronic Fund Transfer Act (“EFTA”) and Regulation E. The EFTA establishes a basic framework of
+the rights, liabilities, and responsibilities of Consumers using electronic fund and remittance transfer
+services and of the financial institutions or other persons, like Cash App, that offer these services.
+Regulation E implements the EFTA and contains two subparts: A and B.SubpartAcontainsregulationsthat
+apply to electronic fund transfers (“EFTs”), prepaid accounts, and gift cards, amongotherthings.SubpartA
+covers the requirements for statements, disclosures, receipts and the requirements and timelines for error
+resolution. Subpart B to Regulation E contains rules regarding remittance transfers, which provide for
+prepayment disclosures, post-payment receipts, error resolution, and cancellation rights. The Electronic
+Fund Transfer Act (Regulation E) Policy, and associated Procedures outline Cash App’s approach to
+adherencefortherequirementsofEFTAandRegulationE,SubpartsAandB.
+4.1.3ComplaintsProgram
+Regulators expect financial institutions to establish and maintain a robust complaint structure. Cash App
+adheres to the requirements outlined in the Block, Inc. Global Complaint Policy and Program. Complaints
+provide valuable insight into the operations of an organization and often help identify and raise issues
+involving consumer harm from UDAAP violations, discrimination, or other regulatory violations. The general
+ConsumerProtectionProgramStandard|CashApp
+6
+
+Confidential
+requirements that regulators expect for Complaints management are to ensure that there are appropriate
+processes for identifying, receiving, investigating, recording, categorizing, and resolving Consumer
+complaints.Complaintsarecategorizedandresolvedbasedonthetierorseverityofthecomplaint.
+4.1.4UDAAPProgram
+Unfair, Deceptive, or Abusive Acts or Practices (“UDAAP”) is the standard of fairness pursuant to the
+Dodd-Frank Act that protects Consumers from unfair, deceptive, or abusive actsorpracticesthatcancause
+significant financial injury to Consumers, erode Consumer confidence, and undermine the financial
+marketplace. Cash App is committed to offering its products through allstagesoftheproductlifecycleina
+fair and responsible manner and in accordance with applicable state and federal consumer protection laws
+and regulations, which includes those promulgated under state and federal UDAAP laws and regulations.
+TheexpectationsandrequirementsforUDAAPcomplianceareoutlinedintheCashAppUDAAPPolicy.
+4.1.5FraudRiskManagement/ScamsProgram
+CashApp’sFraudRiskManagementstrategyistoensureitupholdsadequateriskandfraudmitigationinline
+with industry expectations and relevant regulatory obligations. The activities in support of this strategy are
+administered cross-functionally and are designed to prevent and mitigate fraudulent activity, inclusive of
+scams, on Cash App. Cash App’s approach to detecting, preventing, detering, and reporting individuals who
+attempt to gain unauthorized access toconsumerfundsoraccountbalances,ormovemoneyusingtheCash
+AppwithoutauthorityorthroughdeceptionisoutlinedintheFraudRiskManagementStandard.
+4.1.6AppealsProgram
+Cash App defines the framework for the Appeals process where a Consumer’s denylisted account or
+identity-based asset (e.g., phone number, email address, financial instrument) is reviewedforreinstatement
+to an active status.AppealsallowforthemitigationoftheriskofConsumercomplaintsandpotentialUDAAP
+violations through the implementation of a scalable appeals process for Consumers who have been
+denylistedforviolatingTermsofServiceorotherprohibitedactivities.
+4.1.7FairLendingProgram
+Cash App prohibits all forms of discriminationwithrespecttoanyaspectofacredittransaction.CashAppis
+committed to offering its credit products and services through all stages of the product life cycle in
+accordance with applicable federal and statefairlendinglaws,includingbutnotlimitedtothefederalEqual
+CreditOpportunityActanditsimplementingRegulationB.
+ConsumerProtectionProgramStandard|CashApp
+7
+
+Confidential
+4.2 Consumer Protection Program Activities
+The Program conducts or participates in effective governance related activities to support the Program
+Areaslistedabove.
+4.2.1Oversight
+Oversight activities conducted by the Program help foster a culture of transparency, continuous
+improvement, and to reinforcethecommitmentCashAppmakestoconsumerprotection.Oversightactivities
+arerelatedtomanyoftheitemslistedundertheMonitoringandReportingactivitiesaswellasthe:
+● EstablishmentandparticipationintheConsumerProtectionWorkingGrouptoreviewmonitoring
+outcomesandmetrics,
+● ParticipationintheCashAppFirstandSecondLineForumtopresentConsumerProtection
+escalationsorsignificantrisksfromtheConsumerProtectionWorkingGrouportosupportother
+compliance-relatedescalationsorrisks,asnecessary,
+● CreationofaConsumerProtectiondashboardtofacilitatedistributionoftheProgram’smetrics
+forreviewbykeystakeholders,
+● ParticipationinaConsumerProtectionprogram-relatedriskassessmentprocessatleast
+annually,
+● Partneringwiththefirstandsecondlineteamstoidentifyconsumerprotectionrisksandsupport
+thedevelopmentofcontrolsinaccordancewithregulationsandtohelpmitigateapplicablerisks,
+and
+● GuidanceandremediationofissuesassignedtotheProgramorprovidingconsultationforother
+compliance-relatedissuesthatmayberelatedtotheProgram.
+4.2.2Monitoring
+Monitoring activities, which may inform and assist with oversight, reflect the Program’s proactive
+commitment to early detection of consumer protection-related trends that may indicate potential
+non-compliance with laws or regulations. Additionally, monitoring exercises may result in investigations,
+escalations, remediation activities, updates or thecreationofnewProgramdocumentsortraining.Examples
+oftheProgram’smonitoringactivitiesinclude:
+● Monitoring its own metricsandotherrelevantmetricsprovidedbyFirstLineofDefenseteamson
+atleastamonthlybasis,
+ConsumerProtectionProgramStandard|CashApp
+8
+
+Confidential
+○ Any potential issues or risks detectedbythePrograminthecourseofmonitoringmaybe
+escalated to the Consumer Protection Working Group and the First and Second Line
+Forum, relevant members of leadership,bankpartners,IssueManagement,andtheHead
+ofCompliance,CashAppasrequiredornecessary,
+● ExercisestoidentifygapsinadherencetotheProgram’sStandardsand/orPolicies,
+● Timely escalation of identified consumer protection-related incidents and the documentation of
+issuesthroughtheIssueManagementprogram,ifnecessary,
+● Review of remediation events to ensure satisfactory and timely resolution ofincidentsorissues,
+and
+● Review of compliance-ownedandstakeholder-ownedconsumerprotection-relatedcontrolsonat
+leastanannualbasis.
+4.2.3Reporting
+Ongoing reporting is a crucial component of monitoring the Program’s health. Reporting is used asatoolto
+prevent and detect issues and reporting activities are closely tied to the monitoring and oversightactivities
+andincludethefollowing:
+● Create and maintain relevant and required reporting for each of the Program areas, including
+maintenanceoftheConsumerProtectionDashboard,
+● IndependentlyreviewProgrammetricsonaregularbasis,
+● Review relevant reporting from other Compliance program areas and business lines to identify
+anyconsumerprotectionrelatedtrendsorgaps,and
+● Provide regular updates to relevant stakeholders through official reporting to leaders and
+oversightfunctionssuchascommitteesandthroughtheConsumerProtectionDashboard.
+4.2.4Standards,PoliciesandProcedures
+The Program maintains Standards, Policies, and Procedures outlining the Program’s requirements,
+strategies, and instructions in accordance with the Compliance PolicyonPoliciesrequirements.Maintaining
+the accuracy and relevance of the Program's documents is essential; documents are reviewed at least
+annually or when material changes occur1, with input from relevant stakeholders and in conjunction with
+Legal to ensure comprehensive oversight. The review process involves an evaluation of the Program’s
+documents to ensure they reflect current laws, regulations, and best practices; this systematic approachto
+1Forexample,changesinregulatoryrequirementsorprogramenhancements.
+ConsumerProtectionProgramStandard|CashApp
+9
+
+Confidential
+content review helps ensure thattheProgram’sdocumentationisrobust,up-to-date,andeffectiveinguiding
+employeeconductandorganizationalpractices.
+4.2.5Training
+Training is an integral part of the Program, ensuring that applicable Staff Members are trained at least
+annually on the legal and regulatory requirements related to consumer protection and how these
+requirements apply to Cash App products and services. Training materials are updated as necessary to
+ensure that the materials remain relevant and applicable to the Cash App business. The Program also
+ensures that members of the Block Board receive annualtrainingonrequiredconsumerprotectionlawsand
+regulations.
+4.2.6ThirdPartyRiskManagementandExternalPartnerships
+The Program is committed to excellence in supporting third-party risk management and external
+relationships through collaboration with Cash App teams who manage these relationships and if required,
+working directly with external parties. Cash App engages with bankpartnersandotherthirdpartiestooffer
+products and servicesandmayhavecontractualobligationssetbythosepartnerswithwhichCashAppmust
+comply. The Program will implement any relevant consumer protection items specified in bank partner and
+thirdpartycontracts.
+4.2.7ProductComplianceReviews
+As part of Cash App’s process to launch new products and features, Cash App Product Managers partner
+with Product Compliance for consultation and review of new or enhanced products and services. Product
+Compliance will solicit the Program to review and/or document any relevant Consumer Protection
+requirements. Cash App maintains a library of approved disclosuresthatrequireLegalreviewwhenupdates
+are made or newdisclosuresarecreatedandCompliancereviewsincludetheassurancethattheappropriate
+disclosure is used. When the Program is engaged for a review, the Program will provide these reviews in a
+timelymannerandinsupportofConsumerProtectionlawsandregulations.
+5.Quality Control and Assurance
+The Program engages with the Quality Assurance Program and the Operational Excellence Program teams
+who provide first line oversight to Cash App’s Customer Care Operations. The Program receives ongoing
+reportingfromtheseteams,andregularlyreviewstestingresults.
+ConsumerProtectionProgramStandard|CashApp
+10
+
+Confidential
+6. Document Management
+6.1 Document Owner
+ThisdocumentisownedbytheConsumerProtectionComplianceProgramLeadortheirdesignee.
+6.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis inaccordancewith
+theComplianceDocumentApprovalMatrix.
+7. Training
+All relevant personnel will receive training at least annually covering applicablerequirementsandguidance
+to implement this Standard effectively. All training activities aremonitoredbytheComplianceTeamandare
+outlinedintheComplianceTrainingProgram.
+8. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related activities to
+evaluateadherencetotheStandardanddeterminewhetheroutputsadheretoestablishedobjectives.
+9. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Standard exceptionrequestsmustbedocumentedinwriting,includeareasonforarequest,and
+provide a description of the controls that Cash App will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Standard Governance
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicablecommittees,asneeded,ofexceptions.
+ConsumerProtectionProgramStandard|CashApp
+11
+
+Confidential
+11. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordancewithregulatoryguidance-whicheverislonger.
+12. Related Documentation or References
+RegulationName TheDoddFrankAct
+RegulationName TheFederalTradeCommissionAct
+RegulationName RegulationE
+RegulationName RegulationB
+13. Revision and Approval History
+StakeholderReviewTracking
+Approver TeamRepresented StakeholderStatus Date
+Sarah Edwards RegulatoryCounsel Reviewed/Approv… Oct 11, 2024
+Patrick Regan RegulatoryCounsel Reviewed/Approv… Sep 17, 2024
+ApprovalHistory
+Approver Title Type Description Date
+Brian Kollmeyer ConsumerProtection Creation InitialCreation Aug 30, 2024
+ComplianceProgram ofStandard
+Lead
+Jason Liberman InterimHeadof Initial Appr… Initialapproval Sep 30, 2024
+Compliance,CashApp ofStandard
+14. Document Details
+Business CashApp
+ConsumerProtectionProgramStandard|CashApp
+12
+
+Confidential
+Scope U.S.
+ComplianceDomain Consumer Protection
+DocumentOwner ConsumerProtectionComplianceProgramLead
+LastApprovalDate September30,2024
+EffectiveDate September30,2024
+ApprovedBy InterimHeadofCompliance,CashApp
+DocumentReviewSchedule Annually
+ConsumerProtectionProgramStandard|CashApp
+13

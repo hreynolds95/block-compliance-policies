@@ -1,0 +1,502 @@
+))
+Incident Response Plan
+Square | Square Canada Inc.
+Last Approval Date: September 8, 2025
+
+Confidential and Not for Distribution
+Table of Contents
+1. Introduction and Context 3
+1.1 Prerequisite Reading 3
+1.2 Roles & Responsibilities 3
+2. Definition of an Incident 5
+3. Overview of the Incident Response Lifecycle 6
+3.1 Detect 6
+3.2 Assess 6
+3.3 Engage Relevant Stakeholders 7
+3.4 Remediate 8
+3.5 Resolve 8
+3.6 Post-Incident Review 9
+3.7 Report to Regulators 9
+3.8. Archive 10
+4. Continuous Improvement 10
+5. Notification and Reporting Requirements 10
+Timelines 10
+Templates 10
+6. Document Management 10
+6.1 Document Owner 10
+6.2 Scheduled Review and Amendments 11
+7. Approval History 11
+Incident Response Plan | Square | Square Canada Inc. 2
+
+Confidential and Not for Distribution
+1. Introduction and Context
+This Incident Response Plan outlines the structure and processes to ensure that Square Canada can
+effectively respond to disruptions in a timely manner and in accordance with the requirements of
+the Retail Payments Activities Act (“RPAA”). This structure supports the escalation, management,
+and remediation of incidents to maintain operational resilience.
+Square Canada will both rely upon and will feed into Block Inc.’s existing Incident and Crisis
+Management processes in the event of a disruption impacting our retail payment activities. The
+purpose of developing and implementing a localised Square Canada Incident Management
+structure is to ensure that the impact of the disruption to Square Canada is fully understood,
+informing decision making regarding the actions required to mitigate any potential or further
+impacts to our retail payment activities.
+This playbook establishes the procedures for incident management at Square Canada in
+alignment with Block’s global incident response protocols. The objective is to ensure a structured
+and efficient response to incidents impacting Square Canada while maintaining coordination
+with Block’s central incident response teams.
+1.1 Prerequisite Reading
+This document does not replace Block’s existing incident plans and runbooks, rather it is to be used
+as an extension of existing processes to ensure Square Canada’s alignment with RPAA incident
+response and reporting requirements. It is recommended that Directly Responsible Individuals
+(“DRI”s) directly or indirectly impacted by this runbook familiarize themselves with Block's Business
+Continuity Plan.
+1.2 Roles & Responsibilities
+The listed roles and responsibilities outlined here are intended to strengthen collaboration and
+streamline information sharing for reporting incidents under RPAA. This is not an exhaustive list, but
+rather a high-level guide to understand the typical workflow for RPAA-compliant incident reporting.
+Detailed responsibilities are further elaborated in Block’s existing incident plans.
+Role Responsibility DRI
+Square CA Incident As part of the Square CA Incident Team, this DRI is Liz Samson / Toni
+Lead responsible for overseeing all major incidents Kuyinu (alternate)
+impacting Square CA, validating classification,
+ensuring local Square CA Incident Team carries out
+timely written communications to the Bank of
+Canada, and creating communication channels
+Incident Response Plan | Square | Square Canada Inc. 3
+
+Confidential and Not for Distribution
+with partner teams.
+Chief Risk Officer The CRO or delegate will be the primary liaison Toni Kuyinu
+(CRO) supporting communications between SQ Canada
+and the Bank of Canada. The CRO is responsible for
+reviewing the notification and reports to be shared
+with the regulators.
+SQ Canada Counsel SQ Canada Counsel is responsible for reviewing Saleha Ali
+notifications to be filed with regulators and will
+serve as the primary legal support for the SQ
+Canada Incident Team, providing guidance and
+reviewing all external communications to sellers. In
+incidents that impact SQ Canada’s clients or
+products. SQ Canada Counsel should be consulted
+for guidance and approval of all external
+communications, in coordination with the SQ
+Canada Incident Team.
+Regulatory The Regulatory Manager is responsible for Tara Loo Skymmer
+Manager coordinating with cross-functional stakeholders to
+prepare regulatory reports pursuant to the RPAA
+and ensuring timely submission of those reports to
+the Bank of Canada.
+External Responsible for issuing timely communications to JJ Ortiz
+Communications sellers and other impacted parties during an
+incident. This role excludes communication with
+regulators and ensures alignment with internal
+teams to maintain consistency and mitigate
+reputational risk
+Corporate Responsible for supporting the Incident Lead, as Leslie Jackson
+Communications needed, in crafting external communications to
+the regulators
+Block Incident The Security and Operational Incident teams will DART
+Team be established per Block’s existing incident plans.
+DRI’s are responsible for escalating incidents to the
+SQ Canada Incident Lead where a material
+incident (as defined in Section 3.2) is impacting
+Square Canada and/or Square Canada customers.
+Block Incident teams are responsible for providing
+up-to-date information about the incident, as it
+becomes available, through the final phase of the
+incident and may support root-cause analysis.
+Privacy Counsel Privacy Counsel supports Square incidents where a Sam Adriance
+data breach is suspected impacting significant
+data loss. Upon this incident type, DRI should be
+consulted and provide guidance, including
+Incident Response Plan | Square | Square Canada Inc. 4
+
+Confidential and Not for Distribution
+reviewing & approving all external communications
+(i.e. to relevant regulator/s, impacted individuals
+and / or partners) and assisting in the submission
+of regulatory reports alongside SQ Canada Counsel,
+Regulatory Manager and SQ Canada Incident
+Team.
+SQ Canada Local team responsible for overseeing all major
+Incident Response incidents impacting SQ Canada services. This is
+Team the body which is ultimately responsible for
+determining whether an incident should be
+classified as material, whether an incident is
+reportable, sign-off of communication plans,
+sign-off of remediation plans and assessing
+customer impacts. This body is supported by the
+Incident Team. DRIs are also responsible for staying
+up-to-date on all incident management and
+reporting regulatory requirements, such as RPAA.
+Security Is responsible for ensuring Block's compliance with Anne Marie Hobley
+Governance Risk data governance standards and regulations,
+and Compliance minimizing risk and impact during incidents, and
+ensuring that all actions adhere to applicable laws,
+country specific requirements, regulations, and
+industry standards (e.g., RPAA etc)).
+Compliance Canada Compliance serves as the Second Line of Square Canada
+Defense (“2LoD”) in the Square Canada Incident CCO / Head of
+Response Management Plan, ensuring that Canada
+incidents are managed in accordance with the Compliance or their
+RPAA, other applicable regulatory requirements, designee.
+and internal policies. This includes providing
+oversight, supporting incident assessment,
+escalation, and approving regulatory reporting and
+notification where required.
+2. Definition of an Incident
+An incident, for the purposes of this Incident Management Playbook and in accordance with the
+RPAA, refers to an event or series of related events that is unplanned by a payment service
+provider and that results in, or could reasonably be expected to result in, the reduction,
+deterioration or breakdown of any retail payment activity that is performed by the payment
+service provider.
+Incidents may arise from a variety of sources including, but not limited to, cybersecurity breaches,
+system outages or failures, data corruption, third-party service disruptions, operational errors,
+fraud, or external threats.
+Incident Response Plan | Square | Square Canada Inc. 5
+
+Confidential and Not for Distribution
+For clarity, an incident is not limited to events that have already resulted in harm, but also
+includes events with a reasonable likelihood of causing such harm if left unaddressed. The
+classification of an event as an "incident" under this playbook triggers the application of our
+formal incident response procedures, including incident assessment, notification (internal and
+regulatory), remediation, recovery, and post-incident review.
+3. Incident Response Lifecycle
+3.1 Detect
+Block’s Incident Management Team shall notify Square Canada of any incidents impacting its
+operations within 4 hours, but no later than 24 hours of becoming aware of the incident. The
+designated Square Canada Incident Lead must acknowledge receipt of the notification and
+initiate the assessment process.
+3.2 Assess
+Incidents shall be classified according to the severity levels that takes into consideration using
+the materiality criteria below. Note that Square may update each or any of these criteria to reflect
+our incident response as the practice evolves.
+Incident Response Plan | Square | Square Canada Inc. 6
+
+Confidential and Not for Distribution
+Classification Mandatory Sellers, Financial Data Losses Reputational Duration and Economic Impact
+Criteria Condition Counterparts and Impact Service Downtime
+Transactions
+Materiality The incident has a. >5% of all sellers Any impact on Any a. Incident Costs/losses
+threshold had any impact on using the availability, reputational duration is incurred
+critical services affected service; authenticity, impact that longer than 24 $150,000 exceed or
+(ex. Payment integrity or meets the hours or; are likely to exceed
+processing, Square b. >100,000 sellers confidentiality of criteria detailed $150,000 (can be
+Card, Balance using the data, which has below b. service based on estimates
+Folders, Manual affected service; or will have an downtime is where actuals
+Transfers) adverse impact longer than 2 cannot be
+c. >5% of daily on the hours for determined)
+number/amount implementation Information and
+of transactions; of the business Communication
+objectives or on Technology (ICT)
+d. >10% of the daily
+meeting that support
+average amount
+regulatory critical or
+of transactions;
+requirements important
+e. any identified
+functions
+impact on sellers
+deemed
+material?
+Detail Assess if the Affected sellers Includes: 1) Reputational 1. Duration Types of direct and
+incident: a) affects unable to make use availability of impact measured from indirect incurred
+Information and of the service data – data on evidenced by the moment an costs
+Communication provided by Square demand any of the incident occurs
+Technology (ICT) Canada during the rendered below: a) or is detected, a. expropriated
+services or Network incident or that temporarily or incident until it is funds or financial
+and information were adversely permanently reflected in the resolved. assets liability,
+systems that impacted by the inaccessible or media; or b) (estimate if not including theft;
+Incident Response Plan | Square | Square Canada Inc. 7
+
+Confidential and Not for Distribution
+support critical or incident. unusable; 2) received yet known) b. replacement or
+important 2. all affected authenticity of repetitive 2. Service relocation costs;
+functions or JTBD financial data – complaints; or downtime c. staff costs;
+(jobs to be done); or counterparts with compromised c) inability to measured from
+d. contract
+b) affects financial contractual trustworthiness meet the moment
+non-compliance
+services that arrangements with of the source of regulatory service
+fees;
+require the FE. data; 3) integrity requirements; fully/partially
+authorisation, 3. relevant sellers of data – data or d) likely loss unavailable/dela e. customer redress
+registration or are and financial inaccurate or of sellers with a yed to sellers, and
+otherwise counterparts whose incomplete due material financial compensation
+supervised by impact will affect to impact on the counterparts or costs;
+competent our business non-authorized business. other internal or f. forgone revenues;
+authorities; or c) objectives. modification; 4) external users, g. communication
+represents a 4. all affected confidentiality of Level of until activities costs;
+successful, transactions with data – data being visibility of the are restored to
+h. advisory costs.
+malicious and monetary amount accessed by or incident to be the same level
+(based on
+unauthorised disclosed to taken into before the
+available data at
+access to the unauthorized account incident.
+time of reporting)
+network and party or system.
+information
+systems of the
+financial entity.
+Incident Response Plan | Square | Square Canada Inc. 8
+
+Confidential and Not for Distribution
+The Square Canada Incident Lead shall determine whether the incident is material or not and
+present the initial assessment to the Incident Response Team for challenge and/or approval. If
+the Incident Response Team disagrees with the Incident Lead’s assessment, they may challenge
+the determination. It is recognized that it can be challenging in the early stages of an incident to
+be exact on impacts and therefore classification as ‘material’, best practice suggests using
+estimates or data from comparable periods (e.g. based on previous incidents and existing
+knowledge on services).
+If the incident is determined by the Incident Response Team not to meet the material/reportable
+threshold under the RPAA, the Incident Lead will continue to follow the Incident Management
+policy to manage the incident (including recording details of remediation).
+For all incidents assessed (Material or non-Material), the Incident Response Lead must record the
+assessment, the Materiality decision, the rationale for the Materiality decision and the
+Compliance, Risk and Legal Counsel approves of the Materiality decision and the remediation
+action for the incident.
+3.3 Engage Relevant Stakeholders
+The Incident Lead shall convene the Incident Response Team for a briefing on the initial
+assessment in order to define a response and communication strategy. Upon agreement on the
+classification by the Incident Response Team, the Incident Lead shall notify any other relevant
+Square Canada teams that are not part of the Incident Response Team.
+At this stage of the lifecycle, initial notification to the Bank of Canada must occur.
+Initial Notification:
+● The Incident Response Team will coordinate with External Communications to craft a
+written “initial notification” to materially affected end users users, PSPs or clearing
+houses (using their most recent contact information provided to them by Square), and
+the Bank of Canada without delay but no longer than 48 hours after Square Canada
+determines that the incident is material.
+● Square Canada must post a notice of the incident on its website to ensure that all
+materially affected individuals or entities are notified of the incident. The notice will
+include, at a minimum:
+○ Square’s name;
+Incident Response Plan | Square | Square Canada Inc. 9
+
+Confidential and Not for Distribution
+○ a description of the incident, including when it began, and the nature of its
+material impacts on the individuals or entities; and
+○ any corrective measures that could be taken by the individuals or entities.
+● Canada Counsel and the Incident Response Team are responsible for reviewing and
+approving the written notification. Once approved, External Communications will
+share the communication with affected end users and other PSPs, while the Chief
+Risk Officer and Regulatory Manager will share the communication with the Bank of
+Canada.
+● The Chief Risk Officer and Regulatory Manager are responsible for disseminating
+questions and feedback from the Bank of Canada back to the Incident Response
+Team.
+All async engagement and updates on the incident shall take place in the Square CA Incident
+Response channel. This slack channel should be updated frequently with any information
+gathered or communication held related to the incident outside the formal channel.
+Continuous communication with Block’s Incident Management Team and, as needed, senior
+leadership, shall be maintained throughout the response process.
+Note that an initial notification and final notification are required for all material incidents.
+However, if the incident is resolved and all required information is available at the time of initial
+notification (i.e., within 48 hours of determining the incident to be material), the PSP may submit
+a single notification that provides all relevant information (which also serves as the final
+notification.
+3.4 Remediate
+The Incident Lead shall ensure that appropriate response actions are executed based on the
+severity and impact of the incident. The situation shall be continuously monitored to determine
+whether internal escalation is necessary. Remediation shall include promptly identifying the
+status of all transactions that were in progress at the time of the incident. Dedicated monitoring
+and reconciliation processes will be activated to determine whether transactions were
+successfully completed, delayed, or failed. Where data loss or corruption is detected, Square will
+initiate recovery protocols to restore affected records from validated backups and system logs,
+ensuring continuity and accuracy of transaction data. Any identified data integrity issues will be
+corrected through reconciliation with authoritative records and partner systems, with oversight
+from designated incident leads to confirm completeness and accuracy. These actions will be
+Incident Response Plan | Square | Square Canada Inc. 10
+
+Confidential and Not for Distribution
+carried out in a timely manner to minimize disruption to customers, maintain regulatory
+compliance, and protect the integrity of payment services.
+At this stage of the incident lifecycle, the Incident Lead should monitor the incident to determine
+if an interim notification is required.
+Interim Notification:
+● An interim notification must be communicated by the Regulatory Manager to the Bank of
+Canada within 72 hours from the initial notification if there are significant
+developments in the incident and when relevant updates become available. Should the
+submission time limit fall on a weekend or statutory holiday in Canada, Square Canada
+may submit the intermediate report by noon the next working day.
+● The Incident Response Team is responsible for providing new information regarding the
+incident including changes in prioritization, containment measures, ongoing remediation
+actions, and overall progress.
+● The Incident Response Team will coordinate with External Communications to craft the
+written intermediate report. Canada Counsel and the Incident Response Team are
+responsible for reviewing and approving the intermediate notification.
+● Once approved, External Communications will share the communication with affected
+end users and other PSPs, while the Chief Risk Officer and Regulatory Manager will share
+the communication with the Bank of Canada.
+● The Chief Risk Officer and Regulatory Manager are responsible for disseminating
+questions and feedback from the Bank of Canada back to the Incident Response Team.
+The Incident Response Team shall oversee the implementation of response actions and provide
+periodic updates to any higher levels of leadership, if required.
+3.5 Resolve
+An incident shall be deemed resolved when containment measures are validated, all mitigations
+are confirmed as effective, and impacted systems are functioning normally. Recovery efforts,
+including system restoration and data reconciliation, shall be completed. The Incident Lead shall
+secure confirmation from stakeholders before declaring the incident as “resolved” and closing
+the incident. The Incident Response Team shall conduct a final review prior to resolution
+confirmation to ensure that all risk factors have been addressed.
+Incident Response Plan | Square | Square Canada Inc. 11
+
+Confidential and Not for Distribution
+3.6 Post-Incident Review
+Following resolution, a post-incident review shall be conducted by the Incident Lead to assess
+root causes, mitigation effectiveness, and areas for improvement. Findings and lessons learned
+shall be documented, and internal knowledge bases and playbooks shall be updated as
+necessary. The Incident Response Team shall review post-incident findings and make
+recommendations for future improvements.
+3.7 Report
+3.7.1 Report to Regulators
+A final notification shall be sent to the Bank of Canada following the resolution of the incident.
+Final notification:
+● The Bank of Canada requires a comprehensive final report once all required details of
+the incident have been determined, including the root cause analysis, and the
+incident has been resolved. Square Canada will ensure that this is done without delay
+but no later than one month after the latest interim notification.
+● The Incident Response Team will coordinate with External Communications to craft the
+written intermediate report.
+● Canada Counsel and the Incident Response Team are responsible for reviewing and
+approving the intermediate notification. Once approved, External Communications will
+share the communication with affected end users and other PSPs, while the Chief Risk
+Officer and Regulatory Manager will share the communication with the Bank of Canada.
+● The Chief Risk Officer and Regulatory Manager are responsible for disseminating
+questions and feedback from the Bank of Canada back to the Incident Response Team.
+Other regulatory bodies requiring notifications shall be determined by Legal and Compliance.
+Notification Guidelines
+In accordance with Regulation s. 11(2), Square Canada will ensure that all notifications to the Bank
+of Canada regarding incidents are made through the Bank’s designated electronic notification
+system. Each notification must include the following minimum content requirements:
+1. Identification – The legal name of Square Canada and the contact information of a
+designated individual, including name, telephone number, and email address.
+Incident Response Plan | Square | Square Canada Inc. 12
+
+Confidential and Not for Distribution
+2. Incident Description – A clear description of the incident, including its type, timing,
+and scope.
+3. Material Impact – An assessment of the incident’s material impact on affected end
+users, counterparties, or other parties relying on Square Canada’s retail payment
+services.
+4. Response Measures – A summary of the actions taken or planned to respond to the
+incident, including any mitigation, remediation, and communication measures.
+Square Canada will retain a record of all notifications submitted to the Bank of Canada, including
+confirmation of submission through the Bank’s electronic system. These records will be aligned
+with Square Canada’s record retention requirements and made available for regulatory
+inspection upon request.
+The Incident Response Team shall validate compliance efforts and recommend updates to
+reporting protocols as needed.
+3.7.2 Report to Senior Officers and the Board
+Senior Officers and the Board of Directors will be kept informed of incident activity through
+updates provided as part of the regular cadence of Board and Committee meetings.
+In the event that an incident is reported to the Bank of Canada under applicable regulatory
+requirements, the Board will be notified via email. This notification will include:
+● A summary of the incident
+● The rationale for regulatory reporting
+● The time and method of the report to the Bank of Canada
+● Any immediate or planned next steps
+The email will be sent promptly following submission to the Bank of Canada and will ensure the
+Board is kept informed of regulatory interactions relevant to the incident.
+3.8. Archive
+Incident reports shall be archived for compliance and audit purposes. in accordance with Square
+Canada’s Document Retention Policy. All reports and related documentation will be securely
+stored in the incidents reports folder, with access restricted to authorized personnel.
+Incident Response Plan | Square | Square Canada Inc. 13
+
+Confidential and Not for Distribution
+4. Continuous Improvement
+This document shall be reviewed and updated periodically to enhance response and reporting
+capabilities.
+4.1. Testing
+Effective testing and training are vital components of Square Canada’s Incident Response Plan,
+ensuring preparedness for swift and efficient response to disruptions.
+Recovery capabilities identified within the BCP will be tested annually using the methods
+outlined in the Business Continuity Management Standard.
+4.2. Training
+Comprehensive training exercises shall be conducted to ensure team readiness with policies and
+procedures. The Incident Response Team shall periodically evaluate incident trends and
+recommend strategic improvements to the incident response plan and associated training.
+5. Notification and Reporting Requirements
+Timelines
+● Initial Notification – No later than 48 hours of becoming aware of the incident. Should the
+submission time limit fall on a weekend or statutory holiday in Canada, Square Canada
+may submit the notification by noon the next working day.
+● Intermediate Report(s) – within 72 hours from the initial notification. Should the
+submission time limit fall on a weekend or statutory holiday in Canada, Square Canada
+may submit the intermediate report by noon the next working day.
+● Final Report – no later than one month after the latest intermediate report.
+Templates
+For an export of the notification and reporting templates, please refer to this folder:
+Notification & Reporting Templates . Refer to the latest Bank of Canada guidance for detailed
+information and updates on reporting material incidents.
+6. Document Management
+6.1 Document Owner
+This document is owned by the Chief Risk Officer, Square Canada or their designee.
+Incident Response Plan | Square | Square Canada Inc. 14
+
+Confidential and Not for Distribution
+6.2 Scheduled Review and Amendments
+Square Canada is committed to continuously reviewing policies, policy supplements, and
+procedures, on at least an annual basis and reserves the right to amend this document at any time,
+for any reason, subject to applicable law. Amendments and modifications must be reviewed and
+approved by the SQ Canada CRO.
+7. Recordkeeping and Retention
+All documentation generated as part of the incident response process—including incident logs,
+investigation reports, communications, corrective actions, and post-incident reviews—shall be
+maintained in accordance with Square Canada’s Record Retention Policy. This includes, but is not
+limited to:
+● Incident response documentation including:
+○ possible or verified impact on retail payment activities;
+○ possible or verified impact on end users;
+○ possible or verified impact on other payment service providers or on clearing
+houses of clearing and settlement systems under the RPAA; and
+○ possible or verified impact on systems, data, or information involved in the
+performance of retail payment activities.
+○ Measures taken to mitigate the impact of an incident, measures to prevent or
+mitigate any further damage, measures to identify the root causes of the
+incident;
+○ The manner in which the incident was reported;
+○ The status of all transactions identified, the manner in which the status of
+those transactions was identified and the manner in which Square Canada
+recovered any lost or corrupted data and corrected any data integrity issues.
+● Internal and external communications related to the incident
+● Root cause analyses and lessons learned
+● Evidence and data collected during investigations
+● Regulatory reporting submissions
+For detailed retention periods and storage protocols, please refer to the Record Retention Policy.
+Incident Response Plan | Square | Square Canada Inc. 15
+
+Confidential and Not for Distribution
+8. Approval History
+Department Stakeholder Title Approval Review / Approval
+Name Date
+(copy and paste
+(Approver)
+✓
+)
+Enterprise Toni Kuyi… Chief Risk Officer, ✓ Jun 13, 2025
+Risk Square Canada
+Compliance Jeff White Chief Compliance ✓ Jun 25, 2025
+Officer, Square
+Canada
+Compliance Safiya Ad… Head of Canada ✓ Jul 11, 2025
+Compliance -
+(Square, Cash &
+Afterpay)
+Legal Saleha Ali Head of Legal, ✓ Aug 27, 2025
+Square Canada
+Policy/ Leslie Jack… Head of Policy & ✓ Jun 3, 2025
+Corporate Corporate
+Communicati Communications
+ons
+IRO Liz Samson Head of Industry ✓ Jul 9, 2025
+Relations and
+Operations,
+Square Canada
+Square CA Square CA Square CA Board ✓ Sep 8, 2025
+Board of Board of of Directors
+Directors Directors
+Incident Response Plan | Square | Square Canada Inc. 16

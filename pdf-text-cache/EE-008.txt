@@ -1,0 +1,529 @@
+Squareup Europe Limited
+Conflicts of Interest Policy
+Last Approved: Sep 29, 2025
+Effective Date: Sep 29, 2025
+1. Overview
+Introduction and Purpose: Squareup Europe Limited (“SELˮ) is an authorised Electronic Money
+Institution, regulated and supervised by the Financial Conduct Authority (“FCAˮ) under Firm
+Reference Number 900846. The indirect and ultimate parent company is Block, Inc., a Delaware
+corporation, and a merchant services aggregator and mobile payments company based in the
+United States of America.
+This Conflicts of Interest Policy (“Policyˮ) outlines SELʼs approach to identifying, managing, and
+mitigating conflicts of interest within the firm.
+SEL is dedicated to adhering to the principles of fair treatment and good outcomes for Customers,
+conducting itself with honesty, fairness, and professionalism, and acting in the best interests of its
+Customers. An important element of these principles is that SEL has appropriate arrangements in
+place to prevent Conflicts of Interest from adversely affecting the interests of SELʼs Customers.
+This Policy provides a clear statement of the standards around identifying, documenting,
+escalating and managing or preventing Conflicts of Interest. The objective of this Policy is to
+communicate SELʼs requirements regarding Conflicts of Interest and to advise all Staff Members of
+their obligation to disclose Conflicts of Interests and maintain high ethical standards.
+SEL and its Staff Members must maintain the highest possible standards of integrity in business
+relationships, both inside and outside the organization. Staff Members must:
+● Reject any business practice which might be deemed improper (including practices that
+might benefit SEL where there is a Conflict of Interest);
+● Never use authority or position for personal gain;
+● Act at all times with impartiality, independence, and integrity; and
+● Avoid being, or giving the appearance of being, in a position which may result in actual or
+perceived detriment to SEL's reputation and/or interests.
+Staff Members must take all reasonable and appropriate steps to prevent or avoid situations where
+a Conflict of Interest may happen, potentially arise, or have been perceived to have happened. It is
+not enough to rely solely on the disclosure and recording of (actual, potential or perceived)
+
+conflicts. Proactive steps must be taken to prevent Conflicts of Interest from occurring in the first
+place and to ensure that personal interests do not conflict with the wider interests of SEL or its
+Customers at any time.
+Staff are personally accountable for disclosing Conflicts of Interest and/or seeking direction on any
+issues which could potentially conflict with Staff responsibilities to SEL as they arise in line with the
+Policy Requirements Section 3 of this Policy. Where Conflicts of Interest are not properly managed,
+there may be serious consequences for SEL and for all those involved. In extreme cases, Conflicts
+of Interest may facilitate fraud, corruption, or other serious issues. Furthermore, they have the
+potential to negatively impact the business and tarnish the reputation of SEL. The person
+responsible could be subject to disciplinary action internally with SEL, or criminal sanctions
+externally (e.g. if it is deemed to be bribery or corruption).
+Scope: This Policy is established by SEL and is applicable to all SEL Staff Members. SEL requires
+all Staff Members to adhere to the standards set out in this Policy and any other SEL and Block
+Inc., standards which seek to prevent and manage Conflicts of Interest. Failure to comply with this
+Policy may result in disciplinary and/or legal action. As a member of the Block Inc. Group, SEL is
+subject to the Block, Inc. Global Code of Business Conduct and Ethics (“the Codeˮ) and Global
+Conflicts of Interest Policy and should read this Policy in connection with the Code and Global
+Conflicts of interest. If there is any conflict between the Code and applicable local law, the most
+restrictive requirement must be followed.
+Additionally, SEL requires Outsource Service Providers (“OSPˮ) to communicate and make their
+Staff aware of their responsibilities under this Policy and to monitor the implementation of this
+Policy.
+Definitions:
+Terminology Definition
+Conflict of Interest Is a situation where one or more persons or entities have competing
+interests and the serving of one interest may involve detriment to another.
+In terms of Block Inc, Conflicts of Interest occur when Personal interests
+are in potential conflict with an employeeʼs role and work at Block.
+Outsource Service Are considered as a third-party entity that is undertaking an outsourced
+Providers (“OSPˮ) process, service or activity, or parts thereof, under an outsourcing
+arrangement on behalf of SEL. The term refers to both external third party
+service providers and intra/inter group service providers.
+Staff Member(s)/ All employees and fixed-term and contingent workers who support the
+Staff operations and/or subsidiaries covered by this Policy, and include interns,
+temporary workers, consultants, vendors, third-party providers, and
+contractors.
+An employee or external worker (e.g., contingent labour, contractors) hired
+by SEL who supports the operations covered by this Policy.
+
+Close Personal Includes family members (e.g., spouse, domestic partner, parent,
+Relationship son/daughter, sibling, grandparent, aunt/uncle, niece/nephew, cousin,
+step/half/or in-law relation, etc.), individuals living in the same household,
+individuals with whom an individual has a personal relationship of an
+intimate or romantic nature, or any other person with whom the individual
+has such a close bond that could impair, or appear to impair the
+individual's objectivity.
+Personal Interest Means a Block employee's situation or circumstances outside Block that
+could create, potentially create or appear to create a financial or other
+benefit to the employee or their Close Personal Relationship.
+Customers A Customer is defined as all SEL Cash App users and SEL Square
+merchants, including potential Customers, where appropriate.
+2. Policy Requirements
+2.1 Conflicts of Interest
+A Conflict of Interest occurs when competing interests impair the ability to make an objective,
+unbiased decision that impacts professional duties or SELʼs interests.
+Conflicts of interest can arise in many situations, including Personal Relationships with family and
+friends, activities outside of work (such as secondary employment), financial interests in or
+board/advisory positions with companies that do business or compete with SEL or Block, and
+business opportunities that employees may learn about through their position in SEL or Block.
+Conflicts of Interest under this Policy includes the following:
+● Actual: these are Conflicts of Interest where there is an actual conflict between an
+employeeʼs duties or responsibilities to SEL or Block and any external interest;
+● Potential: these are conflicts which may materialise in the future based on current
+circumstances or forecasted changes in circumstances;
+● Perceived: these are Conflicts of Interest where a reasonable person would view that,
+based on available information, there may be a conflict; and
+● Where direct Conflicts of Interest may not in fact exist.
+To assist in the identification of Conflicts of Interest, Annex 1 includes non-exhaustive lists of (i)
+relationships where Conflicts of Interest may arise and (ii) Conflicts of Interest scenarios, as well as
+(iii) a sample of specific examples of circumstances in which these Conflicts of Interest arise.
+2.2 Regulatory Requirements
+Conflicts of Interest represent a key element of conduct risk and consumer protection risk. The
+identification, monitoring, management and mitigation of Conflicts of Interest are critical to the
+development of a robust conduct risk environment. SEL has a number of regulatory requirements
+pertaining to Conflicts of Interest, including regulations such as the “FCA Handbook SYSC 10
+
+Conflicts of Interestˮ, and “European Banking Authority Guidelines on Outsourcing Arrangementsˮ,
+and as such SEL is expected to have established processes and controls in place for Conflicts of
+Interest management.
+2.3 Identification and reporting
+Employees are required to disclose Conflicts of Interest, as described in this policy, as soon as
+possible. This includes any situation in which an employee is involved, or plans to become
+involved, which could result in an actual, perceived, or potential Conflict of Interest. Once the
+conflict has been disclosed, no action should be taken until the disclosure has been reviewed and
+a decision is provided.
+● All Conflicts of Interest, or transactions or relationships that could give rise to Conflicts of
+Interest must be disclosed immediately. This requirement extends to any interest or
+relationships involving all Staff, their immediate family members or any other individual with
+whom they have Close Personal Relationships. All Staff are expected to exercise good
+judgement and common sense in anticipating situations that may give rise toConflicts of
+Interest. Staff and other persons working on behalf of SEL who believe they may have
+Conflicts of Interest, become aware of a potential Conflicts of Interest with others, or are
+uncertain as to whether the potential for a Conflict of Interest actually exists must disclose
+it using the reporting channels described below:
+Disclose your potential Conflict of Interest by visiting:
+go/oar for Outside Activity Requests
+go/disclose for all other Conflicts of Interest
+For guidance and questions, reach out to Compliance at ethics@; and,
+employment-legal@ for questions regarding OARs.
+● Once a Conflict of Interest has been disclosed, Staff are to take no further action until the
+disclosure has been reviewed and approval is provided by one or more of the following,
+depending on the type of conflict involved: the Ethics team, the Legal team, HR Business
+Partner or the Outsourcing Oversight Committee (“OCCˮ).
+● Staff must promptly take action to eliminate a Conflict of Interest if SEL asks Staff to do so.
+When necessary, SEL will take appropriate action to manage the conflict based on the
+circumstances.
+● If Staff seek guidance from their Lead, the Lead is to direct their Staff to the correct
+resource. If there is any violation or suspected violation of this Policy, to include
+non-disclosures, the Code or law that a Lead becomes aware of, the Lead must promptly
+report this. Leads may be held responsible if they do not report misconduct.
+● Potential Conflicts of Interest arising from potential outsourcing arrangements, to include
+intra-group outsourcing, should be identified via the completion of due diligence. Please
+refer to SELʼs Outsourcing Policy for more details. All such identified Conflicts of Interest
+should be disclosed through the available channels detailed above.
+● Any Director who is in any way directly or indirectly personally interested in a transaction
+with SEL must disclose the nature and extent of that interest to the Corporate Governance
+team and the Board at the Board meeting and the conflict shall be recorded in the minutes
+of the meeting. Such Director will abstain from voting on any such transactions.
+
+2.4 Evaluation and Management of Conflicts of Interest
+● The Ethics team is required to:
+○ Maintain a record of Conflicts on Interest in the management system;
+○ Evaluate any Conflicts of Interest reported to them. Other relevant stakeholders may be
+included in this evaluation in order to opine on whether a Conflict Of Interest exists.
+These additional stakeholders may include HR, Trust and Safety, Legal, Employee
+Relations, and Outside Counsel, and the reporter's lead, depending on the nature of the
+Conflict of Interest;
+○ Make a recommendation, based on the above mentioned evaluation and
+recommendations from other relevant stakeholders as described above, as to the best
+course of action to resolve, manage or avoid the Conflict of Interest, including further
+escalation to a higher management authority where necessary, to include SELʼs OOC
+and or SEL Board. These recommendations may include placing any required
+conditions on the approval of a Conflict of Interest, such as the reporter recusing
+themselves from contract negotiations, performance evaluations etc., where a Conflict
+of Interest exists; and
+○ Maintain a record of all the above including the output of the Conflicts of Interest
+evaluation.
+● The OOC is required to:
+○ Assess and manage Conflicts of Interest with regard to its outsourcing arrangements.
+Such Conflicts of Interest are to be reported by Staff to the Ethics team, for onward
+escalation to the OOC;
+○ Assess and make a determination about any reported Conflicts of Interest with respect
+to OSP, together with any recommendations from the Ethics team as to how to manage/
+prevent/ resolve the Conflicts of Interest provided by the Ethics team;
+○ Escalate a reported Conflict of Interest to the Board for its review, in instances where
+the OOC and the Ethics team (or other relevant stakeholder involved in the evaluation
+process) are not in agreement as to the determination or management of such a
+Conflict of Interest;.
+○ Conduct interim reviews when changes occur that could reasonably be said to have
+impacted decisions previously made in relation to Conflicts of Interest with OSP;
+○ Establish that, where outsourcing creates material conflicts of interest, including
+between entities within Block Inc., group SEL takes appropriate measures to manage
+those Conflicts of Interest;
+○ Oversee the refresh review of OSP, performed on an annual basis, or sooner if deemed
+appropriate, which includes any measure taken to resolve or manage any identified
+Conflicts of Interest. Please see SELʼs Outsourcing Policy for more details on such
+ongoing monitoring;and
+○ Determine the criteria for measuring the effectiveness of measures taken to
+manage/prevent/resolve a Conflict of Interest with OSP, to include the timelines
+involved, and request input from the Ethics team as required.
+
+Some Conflicts of Interest are not permitted as a matter of law or regulation and others are permitted
+so long as SEL has appropriate means by which to manage them. SEL may utilise a number of means
+(individually or in combination) to manage Conflicts of Interest including:
+● Policies, procedures systems and controls which are described in Annex 2;
+● Disclosure design to inform the affected parties of the Conflicts of Interest and its likely impact
+on them; or
+● Avoidance of the service, activity or matter giving rise to the Conflicts of Interest where the
+Conflicts of Interest cannot be prevented or managed effectively using other means.
+In cases where there is an actual or perceived conflict, even if there is no line of authority or reporting
+involved, SEL may, in its sole discretion, make alternative reporting or decision-making arrangements,
+or may take appropriate action to resolve the conflict, to the extent permitted by applicable local law.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+SEL operates a Three Lines of Defence (‘3LoDʼ) Model. Staff are expected to comply with this
+Policy, and the Code including the Anti-Bribery and Corruption element of the Code and Global
+Conflict of Interest Policy at all times. SEL is required to demonstrate that it took all reasonable
+steps and exercised all due diligence in order to avoid Conflicts of Interest and the commission of a
+bribery or corruption offence. Therefore, it is essential that all Staff Members and each line of
+defence understands its roles and responsibilities in respect to this Policy.
+First Line of Defence:
+● Staff or Staff Members: All Staff are responsible for identifying and managing Conflicts of
+Interest on an ongoing basis and must:
+○ Avoid Conflicts of Interest;
+○ If there is a situation wherein a Conflict Of Interest has occurred or could present a
+potential conflict, or the appearance of conflict, disclose it through the available
+channels detailed on the Conflicts of Interest page, so that it can be evaluated;
+○ Avoid making a Conflict Of Interest determination on their own, and instead make a
+disclosure as mentioned above, in order for a fulsome evaluation to be made; and
+○ Report breaches of this Policy to the Policy owner, the UK Head of Compliance and
+Money Laundering Reporting Officer (“MLROˮ).
+● Leads : While the Code applies to all Staff, Leads SELʼs term for managers) have a deeper
+level of responsibility and must lead with integrity and reinforce Blockʼs ethical culture.
+Leads are often the first resource for Staff who have questions on ethical issues or
+potential violations of Block and SEL Policy. If unsure of the best course of action, Leads
+are responsible for:
+○ Ensuring the embedding and ongoing adherence to the Policy within their area of
+accountability;
+○ Directing their Staff to the correct resource;
+
+○ Promptly reporting any violation or suspected violation of this Policy, the Code or
+law. Leads may be held responsible if they donʼt report misconduct;
+○ Creating an environment where others feel comfortable sharing concerns and
+uphold the principle that Staff reporting their concerns is protected from retaliation;
+○ Ensuring that any breaches of this Policy or non-declarations, which are also
+considered breaches, are reported; and
+○ Ensuring the Global Code of Conduct training is completed by all Staff within their
+business unit on time.
+Second Line of Defence:
+● Compliance: Compliance, as the owner of this Policy will:
+○ Carry out risk-based reviews of the implementation of this Policy, to include the
+identification and investigation of breaches and the appropriate action taken to
+address such breaches, as required;
+○ Effectively communicate Conflicts of Interest Policy to the Business;
+○ Have an effective mechanism for identifying and reporting on non-adherence of
+this Policy; and
+○ Report on related management information to the Regulatory Governance
+Committee, the Outsourcing Oversight Committee and the SEL Board as
+appropriate.
+● Global Ethics team: The Global Ethics team, within Corporate Compliance (“the Ethics
+teamˮ) is responsible for:
+○ Monitoring the Conflicts of Interest register;
+○ Assessing reported Conflicts of Interest and making recommendations with respect
+to the management/prevention of Conflicts of Interest; and
+○ Developing and delivering Code of Conduct training to SEL Staff.
+Third Line of Defence Internal Audit): Internal Audit forms SELʼs third line of defence. The
+independent internal audit function, employing a risk-based approach, provides assurance to the
+SEL Board and senior management. This assurance covers how effectively SEL assesses and
+manages its risks and includes assurance on the effectiveness of the first and second lines of
+defence.
+SEL Outsourcing Oversight Committee (“OOCˮ): The OOC is to assess and manage Conflicts of
+interest with regard to its outsourcing arrangements. This is to include any Conflicts of Interest
+relating to current and proposed OSP.
+SEL Board Members (“ Boardˮ): It is the role of the Board to review potential Conflicts of Interest
+between management, board members, shareholders, external advisors and other service
+providers, including misuse of corporate assets. The Board is also responsible for reviewing
+decisions regarding reported Conflicts of Interest, escalated by the OOC, in instances where the
+OOC and the Ethics team (or other relevant stakeholder involved in the evaluation process) are not
+in agreement as to the determination or management of such a Conflict of Interest.
+
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaint
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block
+Inc and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Block, Inc. Global Code of Business Conduct and Ethics (“the Codeˮ)
+● Squareup Europe Limited SEL Outsourcing Policy
+● Squareup Europe Limited Speak Up Policy
+● Global Conflicts of Interest Policy
+
+● Global Conflicts of Interest Decision Framework
+● Global Anti-Bribery and Anti-Corruption Policy
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Danielle Carm… EU Regulatory Creation Creation of the May 2023
+Program Manager Policy
+Elizabeth Henry Interim UK Head Initial Approval Approved the June 2023
+of Compliance Policy
+and MLRO
+SEL Board Board Approval Initial Approval Approved the September
+Policy 2023
+Elizabeth Henry Interim UK Head Scheduled R… Approved the August 8, 2024
+of Compliance Policy for its
+and MLRO Annual Review
+SEL Board Board Approval Scheduled R… Approved the September 23,
+Policy 2024
+Ryan Goldstone UK Head of Scheduled R… Approved the Aug 11, 2025
+Compliance and Policy for its
+MLRO Annual Review
+SEL Board Board Approval Scheduled R… Approved the Sep 29, 2025
+Policy
+Document Details:
+Business Square
+Scope United Kingdom
+Compliance Domain Ethics & Employee Conduct
+Document Owner UK Head of Compliance and MLRO
+Approved By SEL Board
+Document Tier Tier 2
+
+Annex 1 Conflicts On Interest relationships and scenarios
+A. Relationship giving rise to Conflicts of Interest (non-exhaustive)
+Conflicts of Interest under this Policy arise in a variety of relationships which are often closely
+related and may overlap. This includes Conflicts of Interest that arise between:
+● A Customer and SEL, Block Inc, group entity, or a member of Staff;
+● SEL and a member of Staff or material shareholder;
+● SEL and a Block Inc., group entity; or
+● SEL and an OSP
+B. Conflicts of Interest scenarios (non-exhaustive)
+A non-exhaustive list of common Conflicts of Interest scenarios is set out below.
+1. Customer-related conflicts
+A non exhaustive list of scenarios that give rise to Conflicts of Interest relating to Customers
+are listed below:
+Scenario - where SEL, or SEL Staff Potential/ Actual Associated Causal Chain
+Members:
+Is likely to make a financial gain or Potential Competing interests; Serving of
+avoid financial loss at the expense of Staffʼs interest at the detriment of
+a Customer; the Customer.
+Has an interest in the outcome of a Actual Competing interests; Serving of
+service provided to a Customer or of Staffʼs interest at the detriment of
+a transaction carried out on behalf of the Customer.
+a Customer which is in opposition
+from the Customerʼs interest in that
+outcome;
+Has a financial or other incentive to Actual Competing interests; Serving of
+favour the interest of a Customer or Customersʼ interest at the
+group of Customers over the detriment of other Customers.
+interests of another Customer;
+Carries on the same business as a Potential Competing interests.
+Customer;
+Has a financial or other incentive to Actual Competing interests; Serving of
+favour the sale of a particular product SELʼs interest at the detriment of
+the Customer.
+
+or service to a Customer which is not
+in the best interest of the Customer;
+Block Inc. decisions may be in the Actual If this is the case, there is a
+best interest of the group but at the reasonably high likelihood that the
+expense of loss of profits, costs or interests of SELʼs Customers may
+other sacrifices on the side of SEL. conflict with the interests of Block
+Inc., or Block Inc. group.
+The Corporate Governance team
+will evaluate each potential instance
+and help determine and confirm
+(where possible) if any director of
+SEL should abstain from voting.
+2. SEL related conflicts
+A non exhaustive list of scenarios that give rise to Conflicts of Interest relating to SEL are listed
+below:
+Scenario Potential/ Actual Associated Causal Chain
+Receiving or giving personal Potential and Could result in or be perceived as
+benefits such as gifts or Perceived resulting in bias and favouritism in
+entertainment of more than modest decision making, as opposed to
+value (as detailed in the Code) or decisions being made on merit or
+personal discounts (if such objective considerations
+discounts are not generally offered
+to the public) from a potential or
+existing OSP, vendor, business
+partner, competitor or Customer, as
+a result of the Staff Memberʼs
+position in the Company;
+A Staff Memberʼs interest in the Potential Competing interests; Serving of
+outcome of a particular activity or Staffʼs interest at the detriment of
+SELʼs.
+
+endeavour differs from the SELʼs
+interest;
+Staff Member (or, where applicable, Actual Serving of Staffʼs interest at the
+a Family Member or Close Personal detriment of SELʼs
+Relationship) receives a loan,
+financial or other significant benefit
+as a result of the Staff Memberʼs
+position at SEL that is inappropriate
+in nature;
+A Staff Memberʼs existing financial Potential Serving of Staffʼs interest at the
+or other interest or previous detriment of SELʼs
+engagement in an endeavour or
+activity or relationship with another
+person, impairs or could impair their
+judgement or objectivity in carrying
+out their duties and responsibilities
+to SEL;
+A Staff Member makes any Potential Competing interests; Serving of
+significant investment or has any Staffʼs interest at the detriment of
+other significant financial interests SELʼs.
+in any company that has a business
+relationship with SEL.
+SEL recruits and or supervises Potential and This could result in Staff Memberʼs
+(directly or indirectly) a Staff Perceived family or friends being hired on the
+Memberʼs family or friend. basis of who they know and not on
+their merit.
+Staff Member considers taking on Potential Competing interests; Serving of
+additional roles outside of SEL Staffʼs interest at the detriment of
+(including board positions) or any SELʼs.
+existing affiliations with competitors,
+Customers or suppliers
+
+A Staff Member using their position Potential This may involve the use of Staffʼs
+in SEL to access SEL accounts position to access information
+belonging to a Staff Member, a about Staffʼs friends or family.
+co-worker, friend, or family
+member, for purposes outside of the
+Staffʼs role.
+Staff Members allow any of their Actual and This may involve favoritism or
+personal connections or family Perceived nepotism and may harm SELʼs
+members to receive a personal reputation and credibility.
+benefit from the Staff Memberʼs
+position at SEL or improperly
+influence, or give the appearance of
+improperly influencing, the Staff
+Memberʼs decision-making.
+A potential recruit into a senior role, Potential It may involve the sharing of
+has been previously employed by a confidential information.
+competitor and as such held a
+professional and / or commercial
+relationship in a supervised entity
+within the last 5 years
+Block Inc., instructs SEL to engage Actual May harm SELʼs financial interests
+into transactions that are dictated and strategy.
+by the interest of Block Inc., or of
+Block group as a whole, which are
+not directly in the interest of SEL.
+Block Inc., group strategies and Actual May cause regulatory risk and
+priorities are delivered by reputational damage to SEL.
+centralised group OSPs, in a manner
+that may not be fully compliant with
+the local regulatory requirements of
+SEL.
+
+Where a SEL Director holds various Potential It may be difficult for such a
+Directors, conflict may occur as a director to make impartial
+result of intra-group transactions in decisions to the detriment of SEL.
+the ordinary course of business.
+The Corporate Governance team
+will evaluate each potential
+instance and help determine and
+confirm (where possible) the
+directorʼs ability to make impartial
+decisions.
+Where a Staff holds Directorships Potential It may be difficult for such a
+with Block vendors, Customers, director to make impartial
+outsourcers, or competitors. decisions to the detriment of SEL.
+Annex 2 Description of policies, procedures, systems and controls
+relating to Conflicts of Interest
+1. General Policies, Procedures, Systems and Controls (non-exhaustive list)
+1.1. Escalation: SEL operates internal escalation processes for Conflicts of Interest as detailed in
+Sections 3.4 and 3.4. The escalation processes are required to enable the Conflicts Of Interest to
+be escalated on a timely basis and considered at an appropriate level of seniority and by the
+correct stakeholders to arrive at the most appropriate resolution.
+1.2. Speak Up: SEL provides appropriate channels, detailed in the Code and SELʼs Speak Up
+Policy, through which a good faith concern regarding Conflicts of Interest can be made. This
+includes an Ethics Line at ethics.block.xyz which provides options for Staff to report concerns
+anonymously. Additional information and guidance can be found in SELʼs Speak Up Policy.
+1.3. Outside Activities: A Conflict Of Interest may arise between an Employeeʼs outside activities
+and the interests of SEL and its Customers. The Outside Activities Policy imposes disclosure and
+approval requirements, enabling the identification, management and, where necessary,
+prohibition of outside activities that may give rise to Conflicts of Interest. A log of outside activities
+is maintained by the Legal team, which is reviewed periodically and utilised for conflicts
+management purposes.
+1.4. Insider Trading: Staff may not trade or enable others to trade Block stock or stock of another
+company, such as a Customer, supplier, competitor, potential acquisition target or alliance, while
+in possession of material nonpublic information about SEL or Block Inc. Insider trading not only
+violates the Code, it also violates the law and can result in criminal consequences. Staff are to
+abide by the Code and Blockʼs Insider Trading Policy (which explains the risks of insider trading
+
+and trading windows when Staff may not trade Block stock). There is a channel, by way of
+insider@, available for Staff to have any questions answered as to whether information is material
+or has been adequately disclosed.
+1.5. Gifts and Entertainment: A Conflict of Interest may arise where a Staff Member receives or
+offers a gift or entertainment that constitutes an inappropriate incentive for a Staff Member, Third
+Party Representative, Customer or vendor to act in a certain way. The Code does not permit the
+offering or acceptance of gifts or entertainment by Staff unless it is reasonable, proportionate and
+for a legitimate business purpose. Where applicable, Employees must disclose a gift and
+entertainment offer using the Disclosure Tool. Additional information and guidance can be found
+in the Code and Blockʼs Gifts and Entertainment Policy which should be reviewed prior to any
+activity related to gifts or entertainment occurring.
+1.6. Vendors and OSPs: Conflicts of Interest may arise in SELʼs interaction with vendors and
+OSPs where, for example, a Staff Member involved in the procurement or hiring process has a
+close relationship with a particular vendor or OSP.
+With respect to vendors and non-Block Inc., group OSPs, SEL abides by a Block Global Procure to
+Pay Policy and operates multiple systems, controls, policies and procedures to manage these
+interactions, including due diligence requirements and contractual arrangements.
+The OOC is responsible for the review and approval of due diligence performed with respect of all
+prospective OSPs before SEL enters into any outsourcing arrangement. The consideration of
+Conflicts of Interest is a mandatory component of such due diligence. Furthermore, the SEL
+Outsourcing Policy provides for a refresh of the primary outsourcing documents to include due
+diligence (which considers Conflicts of Interest) to be performed on an annual basis, or sooner if
+deemed appropriate.
+There is a defined process to consider armʼs length condition requirement before commencing
+outsourcing arrangements with Block Inc. group entities, detailed in SELʼs Outsourcing Policy.

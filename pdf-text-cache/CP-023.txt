@@ -1,0 +1,478 @@
+Elder Financial
+Exploitation Policy
+Cash App
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Elder Financial Exploitation Policy | Cash App
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 7
+1. Introduction 9
+2. Purpose 9
+3. Scope 9
+4. Policy Requirements 9
+4.1 Elder Financial Exploitation 9
+4.2 Red Flags for Elder Financial Exploitation 9
+4.2.1 Behavioral Red Flags 10
+4.2.2 Financial Red Flags 10
+4.3 Common Scams Targeting Consumers 11
+4.4 Awareness and Education 11
+4.4.1 Staff Member Annual Training 12
+4.4.2 Consumer Awareness, Education and Prevention 12
+4.5 Scam Prevention 12
+4.5.1 Consumer Scam Warnings 12
+4.5.2 Real-time Transaction Blocking 13
+4.6 Elder Abuse Referrals 13
+4.7 Reporting Scams 13
+4.8 Elder Financial Exploitation and Elder Abuse Investigations 14
+4.8.1 Risk Operations Scams Division 14
+4.8.2 Risk Operations Elder Abuse Investigations Team 14
+4.8.3 Compliance Specialized Investigations Unit (“SIU”) 14
+4.9 Investigation Resolution 15
+5. Document Management 15
+5.1 Document Owner 15
+5.2 Review and Approval 15
+6. Training 15
+7. Monitoring and Reporting 15
+8. Record Retention 15
+9. Related Documentation or References 16
+10. Revision and Approval History 16
+11. Document Details 16
+Elder Financial Exploitation Policy | Cash App
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Account Take Over (“ATO”) When a third party maliciously gains access to a Consumer’s account
+with the intention of using it for fraudulent purposes.
+Brand / Business The Consumer receives an unprovoked external incoming message
+Impersonation Scam (email, text message, phone call, etc). The message indicates that there is
+an issue with one of the Consumer’s accounts (e.g. Apple, Amazon, or
+their local utility) and the Scammer needs the Consumer to pay to resolve
+the situation (suspicious purchase, past due bill, etc) using their Cash
+App account. This could also be messaging purporting to be from Cash
+App.
+Celebrity Impersonation The fraudster creates a fake online presence impersonating a specific
+celebrity and makes social media posts offering fans personal
+connections, VIP access, investment opportunities and the chance to
+support the celebrity’s favorite charities, but they must pay to participate.
+Ultimately, the Consumer sends funds via Cash App to the fraudster and
+receives nothing in return.
+Charity/Charitable Giving The fraudster creates a fake online presence impersonating a specific
+Impersonation charity and posts pleas on social media that pull at the Consumer’s
+heartstrings. The Consumer ultimately sends funds to a Cash App
+account that they believe is operated by or will benefit the actual charity.
+Consumer An individual who is a natural person who obtains or has obtained a
+financial product or service that is to be used primarily for personal,
+family or household purposes. An Elder is also a Consumer.
+Elder A Consumer aged sixty (60) years or older.
+Elder Abuse Any knowing, intentional, or negligent act by a family member, caregiver,
+advisor, investment entity, or any other person or entity that causes harm
+or a serious risk of harm to an Elder.
+An elder may become a victim of Elder Abuse with or without his or her
+consent or knowledge through trickery, intimidation, forced consent, or
+his or her inability to give consent due to lack of competency.
+Elder Abuse includes Elder Financial Exploitation.
+Elder Financial Exploitation The illegal or improper use of an Elder’s assets, funds, or property. The
+most common types of Elder Abuse include theft and scams. Elder
+Financial Exploitation also includes stolen or misappropriated PII, which
+carries no dollar value threshold to report. Perpetrators can be family,
+friends, or strangers, and the financial impact can be significant.
+Elder Financial Exploitation Policy | Cash App
+4
+
+Confidential and Not for Distribution
+Friend/Family The fraudster creates a fake Cash App account using specific
+Impersonation characteristics of another real Consumer's personal information. The
+fraudster obtains all the information they need to make the fake profile
+by either taking over someone’s social media account or by scraping
+social media accounts that are not private. The fraudster then sends
+multiple requests to the impersonated person’s contacts, either by
+knowing $cashtags, phone numbers ahead of time or by searching for
+profiles in Cash App’s search functionality. The subject lines of the
+requests indicate the impersonated person is in trouble or needs money
+urgently. The Consumer ultimately sends funds via Cash App, but
+eventually realizes the person who is being impersonated is not who is
+sending the requests.
+Friend/Family Impersonation refers to the creation of impersonation
+accounts and is not an indicator that the actual account was fraudulently
+taken over.
+Fake Check Scam A Scammer sends the Consumer a check or money order worth more
+than the amount they are owed and instructs them to return the excess
+funds back to them via Cash App. The Scammer will portray the situation
+as urgent and ask the Consumer to front the funds while the bank is
+processing the check. But the check will ultimately bounce. The
+Scammers will keep the real money they received.
+Giveaway/Prize Scam The Scammer pretends to be running an official giveaway from a
+generally known brand or business. The Consumer will receive outreach
+in the form of a call, email, or letter saying they won a sweepstakes,
+lottery, or prize, but are told to pay a small fee via Cash App to get the
+prize. Ultimately, the prize is never awarded. In this scam, the Consumer
+may have some familiarity with the brand or business but the outreach is
+specific to winning a prize - not resolving an issue. This scam can also be
+an Advanced Fee scam.
+Goods and Services Scam The Scammer pretends to be a legitimate online seller using a very real
+looking website and/or is selling a good or service via social media
+marketplace sites. They offer products or services at prices that are often
+too good to be true and post fake reviews to corroborate their scam. The
+Consumer (buyer) will often pay some or all of the cost of the item
+upfront via Cash App. The seller has no intention to provide the good or
+service, nor will the Scammer meet face-to-face to facilitate the
+exchange of a good or service.
+Government / Public Entity The Consumer will receive an external incoming message (email, text
+Impersonation message, phone call, etc) from someone who says they work for a
+government agency (FTC, Social Security Administration, FBI, IRS, etc) or
+another Public Entity (Banks, Utilities, Businesses, Corporations, etc). The
+Scammer is often looking for personal information and/or requires a
+payment via Cash App to resolve an urgent issue.
+Elder Financial Exploitation Policy | Cash App
+5
+
+Confidential and Not for Distribution
+Identity Theft Identity Theft is when a Consumer’s personal data is used in some way
+that involves fraud or deception, typically for economic gain.
+Job Scam These scams prey on the unemployed by promising good jobs and exploit
+their need for employment through fake job offers. Scammers will ask for
+money via Cash App to help a Consumer get the job (placement fee), for
+supplies to start a business at home, for job listings or for a certification
+that is supposed to get a job. However, after a payment(s) is sent, the
+Scammer disappears, the job never materializes, and the Consumer is left
+out of pocket for the amount sent.
+Money Flip Scam Scammers will claim they can “flip” a Consumer’s money and multiply it
+as long as the Consumer first sends a payment to the Scammer via Cash
+App. These scams are too good to be true and the Scammer will accept
+the funds but never send anything in return. The Scammer may
+sometimes claim to know someone at Cash App who can quickly make
+the flip happen.
+Rental/Housing Scam A Scammer duplicates real rental listings, but changes the contact
+information and reposts them on several rental sites. Consumers are told
+to make a deposit or pay fees via Cash App for homes or apartments that
+the Consumer will never actually buy or rent - the Scammer doesn’t have
+the authority to sell or rent the places in the listings.
+Romance Scam A Scammer adopts a fake online identity and uses the illusion of a
+romantic relationship to gain a victim’s affection and trust. The Scammer
+uses this relationship to manipulate and steal from the Consumer by
+having them send money via Cash App. This scam can perpetuate over a
+long period of time and Consumers may send consistent payments for
+months or even years before realizing it was all an illusion.
+Scam A dishonest scheme or fraudulent activity designed to defraud, exploit, or
+deceive individuals by persuading them to make an authorized
+transaction under false pretenses.
+Scammer The perpetrator of a Scam.
+Technical Support Scam The Consumer receives an external incoming message (email, text
+message, phone call, etc) and is told that something is wrong with their
+computer/electronic device and is given a phone number to call for help.
+The Consumer may also receive a pop-up on their computer due to
+malware, which instructs them to call a fake technical support number.
+The technical support agent pretends to deal with their issue and
+convinces the Consumer to send funds to a Cash App account to resolve
+it.
+Elder Financial Exploitation Policy | Cash App
+6
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibility
+Cash App Customer Care Cash App CCO is the first line of defense and provides phone, in-app,
+Organization (“CCO”) messaging, and email support to Cash App Consumers. CCO should
+consider the behavioral and financial red flags outlined in this Policy
+when interacting with Elders to identify any potential victims of Elder
+Financial Exploitation and should take the necessary steps to provide a
+referral using go/abuseesc for a specialized review of the account.
+Head of Consumer As the owner of this Policy, the Head of Consumer Protection or their
+Protection designee is responsible for:
+● Developing the Policy to meet regulatory expectations,
+● Ensuring regulatory requirements are included in documentation,
+● Providing and communicating roles and responsibilities to
+relevant stakeholders including business partners,
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy, and
+● Delegating and overseeing documentation requirements, as
+needed.
+Cash App Risk Operations The Cash App Risk Operations Elder Investigations Team conducts a
+Elder Investigations Team risk-based manual review of Consumers aged 60 and above to identify,
+deter, and escalate potential victims of Elder Abuse or Elder Financial
+Exploitation.
+Cash App Risk Operations The Cash App Scam Specialists, within the Scams Division of Risk
+Scams Division Operations, promptly identify, assess and mitigate fraudulent activities all
+while maintaining a high level of Consumer trust and satisfaction. The
+Scams division of the Risk Operations team is responsible for the manual
+review of all Scam reports and refers cases to Compliance Investigations
+aligned with the escalation criteria for evaluation of Suspicious Activity
+Report (“SAR”) filing.
+Cash App Specialized The SIU is responsible for ensuring suspected and confirmed Elder Abuse
+Investigations Unit (“SIU”) and Elder Financial Exploitation cases are reported to the appropriate
+state authorities.
+Counsel Cash App’s legal counsel provides interpretative advice and counsel
+regarding the applicability and application of the requirements of this
+Policy to Cash App’s business and operational activities.
+Machine Learning Team The Machine Learning Team supports Cash App by applying Machine
+Learning across most of the major work-streams at Cash App. This group
+Elder Financial Exploitation Policy | Cash App
+7
+
+Confidential and Not for Distribution
+is composed of both Machine Learning Modelers (“MLMs”) and Machine
+Learning Engineers (“MLEs”).
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired
+by the Company who supports the operations covered by this Policy.
+Elder Financial Exploitation Policy | Cash App
+8
+
+Confidential and Not for Distribution
+1. Introduction
+This Elder Financial Abuse Policy (“Policy”) demonstrates Cash App’s commitment to identifying, deterring
+and reporting suspected Elder Financial Exploitation in connection with Cash App’s products and services.
+The Cash App Consumer Protection Compliance Program Lead is responsible for this Policy.
+2. Purpose
+Cash App recognizes the importance of protecting Elders who use Cash App products and services. The
+purpose of this Policy is to facilitate compliance with regulatory and state legal guidance for Elder Financial
+Abuse and to ensure that Cash App and its Staff Members understand their role in preventing, detecting, and
+responding to suspected Elder Financial Exploitation.
+3. Scope
+This Policy is established by Cash App, U.S. a Line of Business under Block, Inc and is applicable to the Cash
+App businesses and related products and services.
+4. Policy Requirements
+4.1 Elder Financial Exploitation
+Elder Abuse can present itself as physical abuse, emotional abuse, sexual abuse, financial abuse, neglect
+and abandonment. Elder Financial Exploitation may also include stolen or misappropriated personally
+identifiable information (PII). While the definition of Elder may vary depending on the state, Cash App’s
+Policy aligns with the majority of regulatory guidance and defines the age of an Elder as age sixty (60) years
+old and above.
+4.2 Red Flags for Elder Financial Exploitation
+The Red Flags outlined in this Policy that indicate suspected Elder Financial Exploitation are not necessarily
+a comprehensive list of all red flags. As no single red flag is determinative of illicit or suspicious activity,
+Cash App considers the surrounding facts and circumstances, such as the Elder’s historical financial activity,
+if the Elder is new to Cash App and is exhibiting potentially suspicious account activity, as well as if the Elder
+Elder Financial Exploitation Policy | Cash App
+9
+
+Confidential and Not for Distribution
+is exhibiting behavioral red flags that may indicate Elder Financial Exploitation in their interactions with our
+Cash App Consumer Care Organization (“CCO”).
+The Cash App CCO provides live chat, messaging, phone and email support to Consumers. The advocates
+that interact with Elders are trained to identify any potential behavioral and financial red flags that an Elder
+may exhibit through interactions and/or transactions over these channels.
+4.2.1 Behavioral Red Flags
+● Elder requests sudden or unusual changes to their contact information or adds new connections
+to emails, phone numbers, or accounts, that do not align to current account information
+● Elder is unable to answer basic questions about their account authentication, account activity, or
+financial status
+● Elder appears distressed, submissive, fearful, anxious in the tone and language used in their
+communications, or may be unwilling to disconnect from the call
+● Elder seems to be taking direction from someone in the background of a call
+● Elder mentions how an online friend or romantic partner is asking them to receive and forward
+money to one or more individuals on their behalf or open a bank account for a “business
+opportunity”
+● Elder is agitated or frenzied about the need to send money immediately in the face of a
+purported emergency of a loved one, but the money would be sent to the account of a seemingly
+unconnected third-party business or individual
+● Elder is unable to speak for himself or herself and a third party is attempting to conduct
+transactions or answer questions on behalf of the Elder
+● Elder is unable to provide required information for the Cash App identify verification process
+● Elder attempts to open multiple accounts and participate with multiple products within a short
+timeframe, with connected PII
+● Account access via devices with risk alerted IP addresses followed by normal log ins. This may
+indicate Third party access alongside victim access.
+4.2.2 Financial Red Flags
+● Elder attempts to open multiple accounts and add/use multiple products within a short amount of
+time
+Elder Financial Exploitation Policy | Cash App
+10
+
+Confidential and Not for Distribution
+● Elder links or attempts to link multiple payment methods or sources to fund their account(s) with
+mismatched PII
+● Elder with dormant accounts that suddenly make recurring deposits and withdrawals or request
+new products or services
+● Elder receives and transfers money interstate to recipients with whom they have no in-person
+relationship, and the explanation seems suspicious or indicative of a scam or money mule
+scheme
+● Elder who inquires about buying and/or selling bitcoin or begins buying and/or selling excessive
+amounts of bitcoin
+● Elder who repeatedly reaches the bitcoin withdrawal limit and requests increasing the limit
+● Elder withdraws bitcoin to exchanges that do not operate in the United States
+● Elder conducts peer-to-peer transactions and references one of the common scam types listed in
+this Policy
+● Uncharacteristic, sudden, abnormally frequent, or significant withdrawals, which may also be
+seen in bitcoin transactions, or transfers of assets
+● Uncharacteristic attempts to send large sums of money
+● Sudden or frequent insufficient funds activity
+● Elder displays a large volume or high frequency of trades that is atypical to previous behavior
+● Support receives verbiage from the Elder suggesting someone directed them to sell/buy a stock
+● Cash App Borrow loans are repaid by new payment card links, followed by rapid re-use of the
+Borrow product
+● New and/or sudden use of the Borrow product, including to new merchants that are atypical to
+the Elder’s previous usage
+4.3 Common Scams Targeting Consumers
+The Scams outlined in the Definitions section of this Policy represent how Cash App categorizes Scams that
+target Consumers.
+4.4 Awareness and Education
+Cash App deploys a variety of efforts to help educate Staff Members and Customers about scams and how
+protections are provided by Cash App. Below are descriptions from the Fiat P2P Scams Policy that outline
+Elder Financial Exploitation Policy | Cash App
+11
+
+Confidential and Not for Distribution
+how these efforts function and the role they play in helping to protect Cash App Customers from falling
+victim to a scam.
+4.4.1 Staff Member Annual Training
+Awareness and education in the form of annual training is provided to applicable Cash App Staff Members on
+Scam typologies, red flags, and how to report if an Elder may be a victim of Elder Financial Exploitation.
+4.4.2 Consumer Awareness, Education and Prevention
+Cash App provides external facing education to help prevent Consumers, inclusive of Elders, from falling
+victim to a Scam using the Cash App platform.
+● Cash App uses several channels to proactively educate its Consumers to prevent them from
+becoming victims of scams.
+● Cash App educates Consumers on the most common types of Scams on Cash App, how to avoid
+becoming the victim of a scam, and how to keep their funds safe.
+● Cash App uses the customer support section of its website, a customer scams education page,
+and social media to educate Consumers about scams and how to prevent them. Cash regularly
+updates these materials to ensure they are current and meaningful.
+4.5 Scam Prevention
+4.5.1 Consumer Scam Warnings
+Cash App provides Consumer scam warnings in an effort to prevent senders of payments from falling victims
+to Scams. These warnings are triggered by machine learning models and not displayed on every transaction
+to prevent unconscious click bias by the Consumer, which allows the warnings to remain effective at
+preventing scams.
+● Cash App utilizes machine learning models to trigger clear and concise scam warnings when
+attributes of the payment that the Consumer is attempting to send reflect a higher probability the
+payment could be related to a scam.
+● The warning reminds the Consumer to only send payments to individuals they know and trust.
+● The warning also reminds the Consumer that payments are sent immediately and may not be
+able to be reversed.
+● The warning informs the Consumer they have the option to cancel the payment prior to sending if
+they do feel like they may be a victim of a scam.
+Elder Financial Exploitation Policy | Cash App
+12
+
+Confidential and Not for Distribution
+● The warning inserts an intentional pause in the payment flow in case the Consumer has doubts
+about the transaction they are able to cancel.
+4.5.2 Real-time Transaction Blocking
+Certain transactions are reviewed by machine learning models using data sources such as previous
+transactions, sender and recipient identities, device characteristics, and linked instruments to identify
+transactions that appear likely to be associated with a potential fraudulent payment. In certain instances,
+these machine learning models will take an automated action to block or prevent the completion of the
+transaction, returning the funds to the sender. A message will be provided to the sender indicating the
+payment could not be completed.
+4.6 Elder Abuse Referrals
+Cash App Staff Members should submit a referral using go/abuseesc when it is suspected that an Elder
+Consumer they are speaking, messaging, emailing, or otherwise communicating with either directly or
+though another authorized designee is a potential victim of (presenting behavioral and/or financial red flags)
+or when a Staff Member otherwise suspects Elder Abuse through the course of an investigation. Referrals
+regarding suspected Elder Abuse are not to be disclosed by the reporter given the sensitivity and
+unconfirmed nature of the activity being reported. This referral routes the Elder Consumer’s Cash App
+account to a specialized team who review these reports to determine if further action needs to be taken.
+4.7 Reporting Scams
+Cash App encourages Consumers to report in-app or by contacting Cash App CCO when they believe they
+may have fallen victim to a scam. When Consumers report scams it allows Cash App to help stop additional
+victims from falling victim to the same Scammer or the latest scams. These reports made by Consumers are
+used to update the machine learning models designed to warn Consumers and prevent the completion of
+transactions that are potentially scam related. In addition, this reporting helps Cash App educate Consumers
+on emerging scam trends, provide targeted Consumer fraud warnings, and take action on confirmed scam
+perpetrators. The detection and escalation of Scams is outlined further in the Cash App Fiat Scams P2P
+Policy.
+Elder Financial Exploitation Policy | Cash App
+13
+
+Confidential and Not for Distribution
+4.8 Elder Financial Exploitation and Elder Abuse Investigations
+Cash App has specialized teams that investigate reports of scams and play a part in investigating reports of
+suspected Elder Abuse and Elder Financial Exploitation.
+4.8.1 Risk Operations Scams Division
+Cash App performs a systematic review of all reports of potential scams received by Cash App through an
+automated machine learning model which queues the reported activity and Cash App account for manual
+review by one of Cash App’s Scam Specialists within the Risk Operations Scams Division. The manual review
+process is designed to identify signals within the transaction history and profile information which confirms
+the Consumer is a victim of a scam and appropriate mitigating actions will be completed.
+4.8.2 Risk Operations Elder Abuse Investigations Team
+To manage the risks associated with Elder Abuse and Elder Financial Exploitation, Cash App maintains
+dedicated processes and a specialized team, the Risk Operations Elder Abuse Investigations Team, that
+focuses on proactively identifying instances of Elder Financial Exploitation and Elder Abuse and takes action
+accordingly.
+The Cash App Risk Operations Elder Investigations Team conducts a risk-based manual review of Consumers
+aged 60 and above to identify, deter, and escalate potential victims of Elder Abuse or Elder Financial
+Exploitation. The Risk Operations Elder Abuse Investigations team also conducts a risk based review of
+investigation of cases referred through the use of go/abuseesc.
+4.8.3 Compliance Specialized Investigations Unit (“SIU”)
+The SIU is responsible for ensuring suspected and confirmed Elder Abuse and Elder Financial Exploitation
+cases are reported to the appropriate state authorities. The SIU performs investigations in instances in
+which we file a SAR under the Elder Financial Exploitation typology and SIU may conduct a proactive reach
+out to Adult Protective Serves (APS) for applicable cases, whether it is at the local or at the state level in the
+state the elder resides in, via a phone call, email or online submission.
+Elder Financial Exploitation Policy | Cash App
+14
+
+Confidential and Not for Distribution
+4.9 Investigation Resolution
+As a result of the investigations outlined above, Elders could be denylisted, Scammers could be denylisted,
+appropriate regulatory reporting occurs, and potential reimbursement may be provided as outlined in the
+Fiat P2P Scams Policy.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App Consumer Protection Compliance Lead or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to evaluate
+adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+Elder Financial Exploitation Policy | Cash App
+15
+
+Confidential and Not for Distribution
+9. Related Documentation or References
+Related Documents:
+Related Policy Cash App Fiat P2P Scams Policy
+Related Standard Cash App Fraud Risk Management Standard
+Related References:
+Regulation Name FinCen Advisory on Elder Financial Exploitation
+FIN-2022-A002
+10. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Michael Carrah Counsel Reviewed/Approv… May 28, 2025
+Approval History
+Approver Title Type Description Date
+Lee Buchmann Consumer Creation Apr 30, 2025
+Protection
+Compliance
+Program Manager
+Brian Kollmeyer Head of Initial Appro… Initial Approval May 28, 2025
+Consumer
+Protection
+Compliance Policy Compliance Policy Scheduled R… Approval Jun 6, 2025
+Committee Committee
+11. Document Details
+Business Cash App
+Scope Regional [U.S.]
+Elder Financial Exploitation Policy | Cash App
+16
+
+Confidential and Not for Distribution
+Compliance Domain Consumer Protection
+Document Owner Cash App Consumer Protection Compliance
+Program Lead
+Last Approval Date Jun 6, 2025
+Effective Date Jun 6, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+Elder Financial Exploitation Policy | Cash App
+17

@@ -1,0 +1,213 @@
+Escalation Framework for Non-Completion of
+Compliance Training External Workers)
+Block, Inc.
+Last Approved: Mar 30, 2026
+Effective Date: Mar 30, 2026
+1. Overview
+Introduction and Purpose: Block, Inc (“Blockˮ) requires external workers to complete applicable
+mandatory Compliance training. This Escalation Framework for Non-Completion of Compliance
+Training External Workers) (“Frameworkˮ) defines the approach taken by Block for External
+Workers who do not complete mandatory compliance training, as required.
+For mandatory Compliance training, the Standard outlines the end-to-end Training Campaign
+Cycle, which generally gives Learners 30 days to complete the assigned mandatory training on
+time, followed by automated escalating communications post-due date aimed at driving
+completion of compliance training. Select mandatory Compliance trainings may follow an adjusted
+timeline as outlined in the Compliance Mandatory Training Standard. This Framework establishes a
+three-level escalation process for External Workers who remain non-compliant after receiving
+standard automated notifications:
+● Level 1 & 2 Automated written and final warnings delivered via Block Academy
+● Level 3 Case-by-case review by EWP and relevant stakeholders to determine appropriate
+action
+This Framework takes effect when External Workers have not completed mandatory Compliance
+training at the conclusion of the automated notification period.
+Scope: This Framework is established by Block and is applicable across all Block business lines
+and subsidiaries. It applies to all external workers including BPO resources, Magnit-managed
+temporary workers, independent contractors, vendor workers, and temporary agency workers
+outside of Magnit.
+1
+
+Definitions:
+Terminology Definition
+Call-to-Action Action required to be completed within a specified timeframe.
+Disciplinary Disciplinary Action may include verbal or documented coaching, written or
+Action final warning, system access restrictions, or termination of contract, as a
+result of a policy violation.
+Learner An external worker (e.g., contingent labor, contractors), with access to Block
+systems and Block credentials who are assigned a Workday profile is
+required to take Compliance Training.
+Training The end-to-end management of deploying a mandatory compliance training
+Campaign Cycle module that generally allows 30 days for completion and a subsequent
+post-due date escalation and notification period. Select mandatory
+compliance training may follow an adjusted timeline as outlined in the
+Compliance Mandatory Training Program Standard.
+Roles and Responsibilities:
+Terminology Definition
+Mandatory The Training Team owns and manages the Compliance Mandatory Training
+Compliance Program Standard and the Disciplinary Action Framework for
+Training Team Non-Completion of Compliance Training outlining the requirements and
+(“Training strategy for implementing those requirements.
+Teamˮ)
+Employment Review the disciplinary matrix and partner with the External Workforce
+Counsel Program Team to ensure consistent enforcement.
+EWP (“External Team that oversees the External Workforce program inclusive of contractors,
+Workforce temporary workers, consultants, vendors, and third-party providers.
+Programˮ)
+BPO (“Business A type of external worker who is engaged through a third party on a
+Process long-term, ongoing basis to provide outsourced services for Block.
+Outsourcingˮ)
+VMO (“Vendor A Department at Block whose responsibility is to manage third-party
+Management relationships.
+Officeˮ)
+DRI (“Directly DRIs are managers who have External Workforce assigned to them in
+Responsible Workday. DRIs are notified of consequences for non-compliance, with
+2
+
+Individualˮ) support from EWP.
+2. Standard Requirements
+2.1. Consequences for Non-Completion of Compliance Training by External
+Workers
+Block partners with the External Workforce Program Team to partner with External Workforce suppliers
+so that external workers (non-full time employees) complete required training. If an external worker
+does not complete the training within the Training Campaign Cycle, Block will implement a three-level
+escalation process that includes automated warnings followed by case-by-case review, which could
+result in the end of the assignment at Block.
+The following Consequence matrix is specific to the U.S.-based External Workers on assignment at
+Block. While the escalation levels are consistent across all external worker types, the EWP team
+coordinates with the appropriate intermediary based on the external workerʼs engagement type:
+● BPO Workers: EWP coordinates with the Vendor Management Office (“VMOˮ) Team, as
+these resources require training time to be scheduled.
+● Magnit-Managed Temporary Workers: EWP coordinates with Magnit
+● Other External Workers ( I ndependent Contractors, Vendor Workers, Non-Magnit Temps):
+EWP coordinates directly with Vendor
+Escalation Consequence Matrix
+Level 1 Level 2 Level 3
+Written Training Final Training System Case-by-Case Review & Action
+System Notification Notification
+Summary Automated written Automated final written Individual review of circumstances by
+warning with warning with External Workforce Program Team with
+Call-to-Action to Call-to-Action to appropriate action which may include but
+complete training complete training within is not limited to temporary schedule
+within 14 days. 7 days of notification. removal, extended timeline for completion,
+and to termination of access.
+Automated Automated
+communication via communication via
+Block Academy) Block Academy)
+3
+
+Actions ● Block Academy ● Block Academy ● Block Academy sends
+Taken automatically automatically sends auto-generated list of overdue
+sends written final written external workers (post-Level 2
+warnings to warning 7 days escalations) to EWP Team
+applicable overdue after the final Level ● EWP Team conducts
+learners 1 communication case-by-case review with
+● Warning includes a was delivered VMO/Magnit/Vendor (as
+14-day completion based on applicable) and DRI to determine
+deadline and non-completion appropriate action based on:
+potential ● Warning includes ○ Circumstances and
+consequences 7-day completion reasonable explanations
+deadline and ○ Business impact and
+notification of coverage needs
+escalation to ○ Worker history and role
+management for criticality
+non-compliance ● Potential Actions (not exhaustive
+list):
+○ Temporary Schedule
+Removal: Worker
+removed from schedule
+until training completed
+(retains access to
+complete training)
+○ Extended remediation:
+Additional time granted
+with specific completion
+plan, if warranted
+○ Termination of Access: If
+training remains
+incomplete without a
+reasonable explanation,
+the vendor will be notified
+the worker is no longer
+eligible; Access will be
+terminated and
+offboarding will be
+completed
+Action Compliance Team via Compliance Team via EWP Team (list provided by Block
+Owner Block Academy Block Academy Academy) in collaboration with
+VMO/Magnit/Vendor (as applicable) and
+DRI
+Time for 14 days 7 days Case-by-Case Basis
+External
+Worker to
+Resolve
+Not ● Moves to Level 2 ● Moves to Level 3 Case-by-Case Basis
+Resolved
+3. Compliance & Enforcement
+3.1. Monitoring and Reporting
+4
+
+On an ongoing basis, the Escalation Framework Owner and/or their designee monitors activities for
+compliance and objective achievement. As outlined in the Compliance Management System Policy,
+Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive
+management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.2. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.3. Exceptions
+The Framework Owner or designee will have authority to approve exceptions and/or exemptions to
+this Standard, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and retained
+with recordkeeping requirements. Any approved exceptions or exemptions should be submitted to
+the Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Framework, please contact the Framework
+Owner.
+Review related documents:
+● Compliance Mandatory Training Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+5
+
+Approval History:
+Approver Title Type Description Date
+Stevi Winer Compliance Creation Initial creation of March 26, 2026
+Policy & Training External
+Lead Workforce
+escalation
+document
+Ali Heifetz Employment Stakeholder … Initial legal review March 25, 2026
+Counsel of external
+workforce
+escalation
+management
+framework
+Wesley Beck Head of External Initial Appro… Initial approval of March 26, 2026
+Workforce external
+workforce
+escalation
+management
+framework
+Sherry Stevens Governance Initial Appro… Initial approval of March 30 2026
+Program Support external
+Lead workforce
+escalation
+management
+framework
+Document Details:
+Business Block
+Scope Global
+Compliance Domain Governance
+Document Owner Stevi Winer
+Approved By Governance Program Support Lead
+Document Tier Tier 2
+6

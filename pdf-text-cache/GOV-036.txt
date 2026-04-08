@@ -1,0 +1,207 @@
+Global Geographic Risk
+Ratings Methodology &
+Program
+Block
+Published January 2024
+
+Table of Contents
+Table of Contents 2
+Introduction 3
+Definitions 3
+Roles & Responsibilities 3
+Methodology 4
+Governance 6
+Document Management 6
+Document Owner 6
+Scheduled Review & Ad-Hoc Maintenance 7
+Exceptions 7
+Related Documents 7
+Revision & Approval History 7
+Document Details 7
+Global Geographic Risk Ratings Methodology & Program | Block 2
+
+Introduction
+The Global Geographic Risk Ratings Methodology & Program (the “Program”) details the
+methodology and data sources used to calculate Geographic Risk Ratings (GRR) for money
+laundering, terrorist financing, economic sanctions, bribery, and corruption. The methodology
+includes a quantitative risk analysis based on data points and research, as well as a qualitative risk
+analysis conducted by Compliance Subject Matter Experts (Compliance SMEs).
+This Program is established by Block, Inc. (“Block”) and is applicable globally across all Block business
+lines, subsidiaries, and jurisdictions. References to “staff” throughout this document shall refer to all
+full-time employees and fixed-term and contingent workers including interns, temps, consultants,
+vendors, third-party providers, and contractors.
+Definitions
+FATF The Financial Action Task Force (FATF) leads
+global action to tackle money laundering,
+terrorist and proliferation financing.
+FINCEN The Financial Crimes Enforcement Network
+(FinCEN) is a bureau of the U.S. Department of
+the Treasury which safeguards the financial
+system from illicit use and money laundering.
+FINTRAC The Financial Transactions and Reports
+Analysis Centre of Canada (FINTRAC) is
+Canada's financial intelligence unit and
+anti-money laundering and anti-terrorist
+financing supervisor.
+Roles & Responsibilities
+Global Policy & Governance The Global Policy & Governance team’s
+responsibility is to ensure geographic risk
+methodology accurately reflects company risk
+with respect to the compliance subject
+matter, approve the final risk scores, and
+maintain geographic risk scoring and
+integrate into company risk assessments
+where applicable, including the annual AML &
+Sanctions Risk Assessments, new product risk
+assessments, or any other assessment of
+Global Geographic Risk Ratings Methodology & Program | Block 3
+
+inherent risk that implicates country risk from
+a compliance perspective.
+Compliance Engineering & Technology The Compliance Engineering & Technology
+team’s responsibility is to implement and
+maintain final scoring in enhanced customer
+risk models and transaction monitoring
+systems, as applicable.
+Business Unit’s Compliance Teams The Business Unit’s Compliance teams
+responsibilities are to operationalize the final
+(Including International Compliance Leads, risk scoring into underlying procedures and
+Product Compliance and Operational decision
+processes (e.g. due diligence, product risk
+making)
+assessments, new business ventures)
+Strategic Operations The Strategic Operations team’s responsibility
+is to integrate risk scoring into Merger and
+(i.e. Deal Desk) Activity due diligence and discussions
+Procurement The Procurement team’s responsibility is to
+integrate risk scoring into vendor due
+diligence, including ongoing due diligence
+Methodology
+For the quantitative risk analysis, Block leverages Knowyourcountry.com’s Country Ratings, which is a
+composite financial crimes index with each country receiving a score between 1 (highest risk) and
+100 (lowest risk). It assesses corruption, money laundering, tax haven, terrorist financing, and
+sanctions risks, among other data points.
+Knowyourcountry.com’s scores are converted to Geographic Risk Ratings of Low, Medium, and High,
+as illustrated in this chart.
+Score Country Risk Tier Country Risk Rating
+70.01 - 100 1 Low
+50.01 - 70 2 Medium
+0 - 50 3 High
+Global Geographic Risk Ratings Methodology & Program | Block 4
+
+In order to tailor these scores/ratings to the specific financial crimes risks facing Block and its
+subsidiaries, as well as to align with regulatory guidance on high risk countries for AML purposes,
+Block then considers the following risk factors into the final scores/ratings.
+Criteria Additional Money Laundering and Terrorist Scoring/Rating Impact
+Financing Risk Factors
+1 Countries identified as high risk for AML/CTF purposes
+by Australia,1 the European Union,2 the United Kingdom,
+High Risk override
+3 the United States,4 Japan,5 New Zealand6 and
+countries in which Block has offices.
+2 Financial Action Task Force (FATF):
+● High-Risk Jurisdictions Subject to a Call for
+High Risk override
+Action7
+● Jurisdictions Under Increased Monitoring8
+3 Countries identified as uncooperative tax havens9 High Risk override
+4 Countries identified as State Sponsors of Terrorism10 High Risk override
+5 Countries identified as high risk by Block’s global
+High Risk override
+leadership.
+6 Other applicable regulatory advisories on countries of
+Up to -30 points
+concern (e.g., U.S. State Dept., FINTRAC, etc.)
+7 Recent, material negative news about a country’s AML
+Up to -10 points
+framework
+Additional Sanctions Risk Factors11
+8 Countries/regions subject to comprehensive sanctions
+are considered prohibited under Block’s Global Prohibited
+Sanctions Policy.
+1https://www.austrac.gov.au/business/core-guidance/customer-identification-and-verification/high-risk-countries-regions-and-
+groups
+2https://finance.ec.europa.eu/financial-crime/high-risk-third-countries-and-international-context-content-anti-money-launderi
+ng-and-countering_en
+3 https://www.legislation.gov.uk/uksi/2023/704/regulation/2/made
+4 https://www.fincen.gov/resources/statutes-and-regulations/311-and-9714-special-measures
+5 https://www.mof.go.jp/
+6 https://www.dia.govt.nz/AML-CFT-List-of-Jurisdictions-under-Increased-Monitoring
+7https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-February-2023.html
+8https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2023.ht
+ml
+9 https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/
+10 https://www.state.gov/state-sponsors-of-terrorism/
+11 Apply the greatest applicable score.
+Global Geographic Risk Ratings Methodology & Program | Block 5
+
+9 Countries with governments subject to applicable, asset
+-25 points
+freezes/blocking sanctions programs
+10 Countries subject to applicable, sectoral or thematic
+sanctions &
+-15 points
+Countries with applicable, list-based asset
+freezes/blocking sanctions programs12
+11 Countries bordering or conducting significant trade
+with countries subject to applicable, comprehensive -10 points
+sanctions programs
+12 Countries with a history of evading applicable sanctions
+-10 points
+programs
+Compliance SMEs will then review the GRR scores to ensure they adequately reflect the risk as it
+relates to Block and its subsidiaries. Any proposed changes must be documented and approved by
+the Global Policy & Governance (GPG) lead or the Head of Sanctions. The new risk scores will be
+implemented after approval by the SMEs and the GPG lead or the Head of Sanctions.
+Governance
+This methodology provides a reasonable estimate of inherent risk on a country-by-country basis for
+financial crimes concerns and may be incorporated into parallel risk analyses such as enhanced
+customer monitoring and business unit specific risk assessments.
+The GRR will be finalized prior to the execution of the annual AML/Sanctions Risk Assessment and as
+required by the methodologies of other risk assessments, especially if they require more frequent
+updates.
+Document Management
+Document Owner
+This document is owned by Block’s AML/CTF & Sanctions Risk Assessment Program Lead or their
+designee.
+12 Defined as any sanctions beyond list-based sanctions to include arms embargoes, export prohibitions, technical assistance
+prohibitions, etc. (see relevant sanctions policies for further information).
+Global Geographic Risk Ratings Methodology & Program | Block 6
+
+Scheduled Review & Ad-Hoc Maintenance
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in
+accordance with the Compliance Document Approval Matrix.
+Exceptions
+Exceptions to the requirements, strategies, or procedures established by this document must be
+pre-approved by the Compliance Governance and Reporting Lead or their designee. Staff members
+may submit exception requests for review at go/policyhelp.
+Related Documents
+Related Policies Anti-Money Laundering & Counter - Terrorist
+Financing Policy
+Related Policy Global Sanctions Compliance Policy
+Other Global Risk Rating Scorecard 2023
+Revision & Approval History
+Approver Title Type Description Date
+Updated the
+Compliance
+methodology,
+Blake Unde… Governance Creati… Sep 08,…
+definitions, roles/
+Program Specialist
+responsibilities.
+Head of Compliance
+Initial document
+Sherry Stev… Governance & Initial … Nov 29,…
+approval.
+Reporting
+Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Risk Assessment Lead
+Global Geographic Risk Ratings Methodology & Program | Block 7
+
+Original Publication Date Jan 1, 2024
+Last Material Revision Date Nov 29, 2023
+Effective Date Nov 29, 2023
+Global Geographic Risk Ratings Methodology & Program | Block 8

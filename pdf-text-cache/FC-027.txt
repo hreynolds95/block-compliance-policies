@@ -1,0 +1,993 @@
+Anti-Money Laundering & Counter Terrorist
+Financing Standard
+Cash App Investing LLC
+Last Approved: Mar 27, 2026
+Effective Date: Mar 27, 2026
+1. Overview
+Introduction and Purpose: This Anti-Money Laundering & Counter Terrorist Financing Program
+(“Programˮ) outlines Cash App Investing LLCʼs (“CAI,ˮ “Broker-Dealer,ˮ or “Firmˮ) approach to
+comply with applicable laws, regulations, and guidelines to monitor, detect, prevent, and report
+possible money laundering, financial crimes and terrorist financing. The BSA/AML Compliance
+Officer (“Officerˮ) is responsible for management of this Program.
+This Program ensures compliance with regulations administered by the Financial Industry Regulatory
+Authority (“FINRAˮ), the Bank Secrecy Act (“BSAˮ), and the Treasury Departmentʼs Office of Foreign
+Assets Control (“OFACˮ). This Program is risk-based and designed to address the risks of money
+laundering and terrorist financing as they relate to the characteristics of the customers CAI serves,
+where CAI customers are located, and the types of services CAI offers.
+CAI is a subsidiary of Block, Inc. (“Blockˮ), a licensed money transmitter and registered money
+service business subject to the Bank Secrecy Act (“BSAˮ) and USA PATRIOT Act requirements to
+establish and maintain an anti-money laundering (“AMLˮ) compliance program. While CAI maintains
+this independent Program, CAI leverages the resources, personnel, technology, and sophistication of
+the enterprise-wide Block AML program. The Firm is committed to substantive AML monitoring and
+continuous improvement in its AML program, including adequate oversight of Block enterprise-wide
+AML services.
+In both money laundering and terrorist financing, criminals may attempt to exploit loopholes and
+other weaknesses in the financial system to launder criminal proceeds or conduct other illegal
+activities. Both money laundering and terrorist financing are serious financial crimes with potentially
+devastating social and financial effects.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+CAI reserves the right to investigate any known or suspected violation of this Program. Failure to
+comply with this Program may result in disciplinary action, including termination. Staff must be
+mindful that they may be subject to criminal liability if they are willfully blind to suspicious activity or
+should have known that an activity was suspicious. Willful blindness (deliberately ignoring facts that
+a reasonable person would consider suspicious) does not require active involvement in a money
+laundering scheme in order to create liability.
+CAI designed this Program to provide a framework for a robust AML program and to communicate at
+an organizational level CAIʼs commitment to a culture of effective AML compliance. This Program is
+intended to be supplemented by additional policies, programs and procedures where necessary.
+Some policies, programs or procedures are maintained by Block. References to “staff members''
+throughout this document shall refer to all employees of CAI and/or Block and fixed-term and
+contingent workers who support the operations and/or subsidiaries covered by this Program, and
+include interns, temporary workers, consultants, vendors, third-party providers, and contractors.
+Scope: To address the money laundering concerns outlined above, the U.S. government has passed
+laws that both make money laundering a crime and additionally impose affirmative obligations upon
+covered entities. The Bank Secrecy Act, as amended by Title III of the USA PATRIOT Act (collectively,
+the “BSAˮ), relies on U.S. financial institutions to assist U.S. government agencies in detecting and
+preventing money laundering and terrorist financing.1 To accomplish these objectives, the BSA and
+FINRA Rule 3310 require broker-dealers to implement written risk-based AML programs that are
+reasonably designed to ensure compliance with all applicable BSA and FINRA requirements, while
+further imposing certain recordkeeping and reporting requirements.2
+In addition to BSA and FINRA regulations, OFAC administers and enforces economic and trade
+sanctions against targeted countries, agencies, instrumentalities, controlled entities, and nationals of
+those countries, as well as other designated individuals, such as terrorists or narcotics traffickers.3
+Although the specific requirements of each OFAC-related regulatory program are unique, all
+programs generally prohibit a U.S. person4, broadly defined, from transacting business with any
+embargoed or sanctioned country, individual, or entity. Further, OFAC guidance instructs financial
+institutions such as CAI to develop a risk-based approach to economic sanctions screening that is
+commensurate with the sanctions risks that are currently or will be posed.5
+Definitions
+Terminology Definition
+AML Anti-Money Laundering
+BSA Bank Secrecy Act
+Report of International Transportation of Currency or Monetary
+CMIR Instruments
+FBAR Report of Foreign Bank and Financial Accounts
+1 31 U.S.C. § 5311
+2 31 U.S.C. § 5318(h)
+3 31 C.F.R. § Part 500 et. seq.
+4 31 C.F.R. § 560.314
+5 See https://www.treasury.gov/resource-center/sanctions/Documents/matrix.pdf and OFAC FAQ 560.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+FCS FINRA Contact System
+FinCEN Financial Crimes Enforcement Network
+FINRA Financial Industry Regulatory Authority
+SEC Securities and Exchange Commission
+IRS Internal Revenue Service
+NSLs National Security Letters
+OFAC Office of Foreign Assets Control
+SAR Suspicious Activity Reports
+SDN Specially Designated Nationals
+SRO Self-Regulatory Organizations
+CAI Cash App Investing LLC (“the Firmˮ)
+Block Block, Inc.
+Cash App A financial services platform offered by Block
+Apex Clearing Corporation ("Apexˮ). A clearing partner whom CAI relies
+upon for executing transactions in customer accounts. Apex also
+maintains an anti-money laundering/counter-terrorist financing and
+Apex sanctions compliance program.
+DriveWealth, LLC (“DriveWealthˮ). A clearing partner whom CAI relies
+upon for executing transactions in customer accounts. DriveWealth also
+maintains an anti-money laundering/counter-terrorist financing and
+DriveWealth sanctions compliance program.
+The process by which individuals attempt to conceal and disguise the
+true nature of illegal proceeds through phases known as placement,
+Money Laundering layering, and integration.
+The process of raising money to carry out terrorist activities, the funds
+of which may be derived from unlawful or legitimate sources, such as
+personal donations and profits from businesses and charitable
+Terrorist Financing organizations.
+All products and services offered by CAI that are required to comply
+Covered Products with local laws.
+An internal indicator placed upon a Cash App account. A Denylisted
+account is prevented from continued use, except for certain limited
+activity. Staff Denylist a Cash App account if it reasonably suspects its
+involvement in prohibited, fraudulent, or illegal activities on the Cash
+App platform. For Denylisted Cash App accounts with a CAI account, the
+customer is prevented from making further securities purchases, but is
+Denylist permitted to sell existing holdings.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+2. Program Requirements
+2.1. Customers and Product
+2.1.1. Customers
+The Firm is an introducing broker-dealer that enables customers to trade securities on a purely
+self-directed basis. The Firm makes its services available through an application available to
+customers of Cash App, a financial services platform offered by Block. Existing Cash App customers
+who wish to engage in securities transactions sign up for an account with the Firm through the Cash
+App mobile application. CAI only permits U.S. residents to open brokerage accounts, and limits
+brokerage accounts to one per customer by ensuring that the Social Security Number obtained is not
+already affiliated with another CAI account, with certain exceptions6.
+2.1.2. Products and Securities
+CAI enables customers to buy or sell hundreds of equities on a self-directed basis. Specifically, the
+broker-dealer provides access to purchase highly liquid stocks, exchange traded funds (“ETFsˮ) and
+American Depository Receipts (“ADRsˮ) listed on the New York Stock Exchange (“NYSEˮ) or the
+National Association of Securities Dealers Automated Quotations System (“NASDAQˮ). The menu of
+securities available to CAI customers is further limited by additional established criteria;. please see
+CAIʼs Written Supervisory Procedures for full details.
+The CAI platform is characterized by relatively small accounts and transactions in highly liquid
+securities. CAI does not offer retirement accounts, joint accounts, or any account type other than
+individual brokerage accounts.
+CAI does not carry customer accounts or custody of any funds or securities, but instead introduces
+accounts on a fully disclosed basis to clearing firm partner(s), who are registered carrying
+broker-dealers and members of FINRA (“CAIIntroduced Accountsˮ). CAIIntroduced Accounts
+never contain free credit balances, and customers cannot directly transfer funds to or from these
+accounts. Rather, customers only fund securities transactions from their Cash App Balance7 held
+outside CAI and clearing firm partner(s) in the Cash App digital wallet and only receive proceeds
+from securities sales in this external Cash App Balance. All funds notionally flowing to and from
+CAIIntroduced Accounts represent the exact amounts to fund securities purchases and provide
+proceeds of sales. All actual movements of funds related to securities purchases and sales occur on
+an aggregate basis between CAIIntroduced Accounts and the Cash App Wallet.
+2.2. Organizational Structure and Authority
+6 The limit of one brokerage account per individual excludes “Family Investing Accountsˮ. Family Investing Accounts are brokerage
+accounts opened by the account owner that can be used by “Authorized Usersˮ. An Authorized User is a person residing in the U.S.
+between the ages of 13 and 17 at the time of the opening of the Family Investing Account, and to whom the account owner is the
+parent or legal guardian.
+7 A customerʼs “Cash App Balanceˮ refers to funds held by Block, Inc. for the benefit of Cash App customers in depository accounts
+at third-party banks (i.e., the “Cash App Walletˮ).
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Once the Board has designated the BSA/AML Compliance Officer, they have responsibility for
+implementing the broker-dealerʼs AML program. This Officer has a working knowledge of the BSA
+and its regulations and is qualified by experience, knowledge and training. The Officer oversees
+adherence to the AML program as well as communication and training for employees. The Officer
+also ensures that CAI keeps and maintains all of the required AML records and ensures that SARs are
+filed with FinCEN when appropriate. The Officer is vested with responsibility and authority to enforce
+the firmʼs AML program.
+As required, CAI will provide FINRA (via FINRAʼs Contact System (“FCSˮ)) with the following AML
+Compliance Personʼs contact information:
+a) name;
+b) title;
+c) mailing address;
+d) email address;
+e) telephone number; and
+f) facsimile number.
+The AML Compliance Person will promptly notify FINRA of any changes to this information through
+FCS and will review and, if necessary, update this information within 17 business days after the end
+of each calendar year. In addition, if there is any change to this information, the designated
+supervisor will update the information promptly, but in any event not later than 30 days, following
+changes in things like personnel. The Officer may designate delegates as necessary for performing
+elements of the firmʼs AML program.
+2.3. BSA/AML/Sanctions Risk Assessment
+This Program is commensurate with the risks posed by CAIʼs product and services, customers, and
+geographic locations. Block conducts an annual Anti-Money Laundering and Counter-Terrorist
+Financing and Sanctions Risk Assessment (“Risk Assessmentˮ), which includes CAI products and
+services. The Risk Assessment is performed to evaluate the risk of money laundering and terrorist
+financing ML/TF and sanctions breaches, including the inherent risks in CAIʼs products, and the
+effectiveness of CAIʼs existing controls in mitigating those risks. The Risk Assessment must undergo
+periodic review to account for changes in product offerings and services, customers, and
+geographic locations. In addition, the Risk Assessment, may be updated for certain circumstances,
+which may include but is not limited to: (i) When new material products or services are offered; (ii)
+When there are material legal and/or regulatory changes; (iii) When material updates are made to
+existing products; and/or (iv) When new markets are entered that will materially impact the
+broker-dealerʼs risk profile. The results of the Risk Assessment are approved by the Officer, and
+results are provided to senior management and the Board for review.
+2.4. Money Laundering Characteristics
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+FinCENʼs regulations require financial institutions to assess the money laundering and terrorist
+financing risks presented by their customers.8 Money laundering is diverse and complex, but usually
+involves the following three basic stages:
+● As the first stage of money laundering, placement is the introduction of criminal proceeds
+into the financial system;
+● As the second stage of money laundering, layering is generally the use of many complex
+transactions to obscure the source of the criminal proceeds and make them appear
+legitimate; and
+● As the final stage of money laundering, integration occurs when the criminal receives the
+proceeds of what now appear to be legitimate payments. The criminal can then use the
+funds as they wish.
+2.5. CAIʼs AML Program
+As part of its AML program, CAI has implemented the four pillars of AML compliance, namely:
+● Designation of a BSA/AML Compliance Officer;
+● Development of internal policies, procedures, and controls;
+● BSA/AML education and training program; and
+● Independent testing and review.
+This program discusses each of the four pillars as implemented by CAI in individual sections below.
+2.6. Designation of a BSA/AML Compliance Officer
+Source(s): 31 C.F.R. § 1023.210(b)(1)
+The Board designates the Officer, who is responsible for oversight of day-to-day AML compliance
+with this Program. The Officer may delegate certain duties under the Program to others and also may
+formally appoint a Secondary BSA/AML Compliance Officer(s) to complete certain responsibilities.
+The Officer is responsible for monitoring relevant federal and state regulatory changes, FinCEN
+program guidance, and other developments to ensure that this program remains reasonably
+designed.
+2.7. Clearing and Introducing Firm Relationships
+Source(s): 31 C.F.R. § 1023.210; FINRA Rule 3310; FINRA Rule 4311;FIN2006G003 Frequently
+Asked Questions: Foreign Bank Re-certifications under 31 C.F.R. § 103.77 February 3, 2006
+CAI will work with its clearing firm partners(s) as necessary to detect money laundering. CAI will
+exchange information, records, data and review information as necessary to comply with the
+broker-dealerʼs contractual obligations and with AML laws. CAI and clearing firm partner(s) may
+escalate customer(s) to one another where suspicious activity has been identified for additional
+8 31 C.F.R. § 1022.210(b)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+review, which may result in closing the account and/or flagging the account for possible suspicious
+activity reporting.
+2.8. Monitoring Accounts for Suspicious Activity
+Understanding the Nature and Purpose of Customer Relationships
+Source(s): 31 C.F.R. § 1010.230; 31 C.F.R. § 1023.210(b)(5)(i); FINRA Rule 3310;FIN2016G003
+Frequently Asked Questions Regarding Customer Due Diligence Requirements for Financial
+Institutions 7/19/2016; Regulatory Notice 1740; Regulatory Notice 1819.
+All CAI brokerage accounts are self-directed, and CAI does not make any recommendations with
+respect to securities transactions, strategies, or account types. Further, most transactions effected
+through CAI are small. CAIʼs Program is focused on substantive AML monitoring, such as risk-based
+CIP at account opening and transaction monitoringAdditionally, Block enacts a risk-based approach
+for Source of Wealth / Source of Funds SOW/SOF verification flow for certain U.S. Cash App
+accounts (including those customers that also maintain a CAI brokerage account) that meet
+established transaction and customer risk rating thresholds. This flow requires customers to answer
+questions about the origin of their funds and may be required to provide supporting documentation
+based on their answers.
+Conducting Ongoing Monitoring to Identify Suspicious Transactions
+Source(s): 31 C.F.R. § 1010.230; 31 C.F.R. § 1023.210(b)(5)(ii); FINRA Rule 3310FIN2016G003
+Frequently Asked Questions Regarding Customer Due Diligence Requirements for Financial
+Institutions 7/19/2016; Regulatory Notice 1740; Regulatory Notice 1819
+CAI conducts ongoing monitoring, as outlined further below, to identify and report suspicious
+transactions.
+The Officer or the designated team member(s) monitors transactions that are triggered for review
+due to unusual size, volume, returns, or patterns, taking into account risk factors and red flags that
+are appropriate to CAIʼs business (the identification of red flags is outlined further in the next
+section). Trade surveillance and transaction monitoring queues are configured to identify anomalous
+activity conducted, and surface said activity for further investigation by the designated team(s)
+through alerts. Investigations may involve reviewing factors such as a customerʼs trading activity,
+KYC profile information and web presence, searching in particular for AML red flags as outlined
+further below.
+Identification of Red Flags
+Source(s): FINRA Rule 3310; FINRA Regulatory Notice 0221
+When the Officer, CAI team member(s), and/or Block team member(s) discover any “red flagsˮ that
+indicate a higher risk of money laundering or terrorist financing, the individual will take appropriate
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+action, which may include escalation for further review or subjecting a customer to enhanced due
+diligence (“EDDˮ) procedures.
+Examples of red flags include:
+Potential Red Flags in Customer Due Diligence and Interactions With Customers
+● The customer refuses to identify a legitimate source of funds or information is false,
+misleading or substantially incorrect.
+● The customerʼs legal or mailing address is associated with multiple other accounts or
+businesses that do not appear related.
+● The customer appears to be acting as an agent for an undisclosed principal, but is
+reluctant to provide information.
+● The customer is publicly known or known to the firm to have criminal, civil or regulatory
+proceedings against him or her for crime, corruption or misuse of public funds, or is known
+to associate with such persons. Sources for this information could include news items, the
+Internet or commercial database searches.
+● The customer maintains multiple accounts, or maintains accounts in the names of family
+members or corporate entities, with no apparent business or other purpose.
+● An account is opened by a politically exposed person PEP, particularly in conjunction with
+one or more additional risk factors, such as the account being opened by a shell company
+beneficially owned or controlled by the PEP, the PEP is from a country which has been
+identified by FATF as having strategic AML regime deficiencies, or the PEP is from a
+country known to have a high level of corruption.
+Potential Red Flags in Securities Trading and Money Movements
+● There is a sudden spike in investor demand for, coupled with a rising price in, a thinly
+traded or low-priced security.
+● The customerʼs activity represents a significant proportion of the daily trading volume in a
+thinly traded or low-priced security.
+● A customer buys and sells securities with no discernable purpose or circumstances that
+appear unusual.
+● A customer engages in pre-arranged or other non-competitive securities trading, including
+wash or cross trades, with no apparent business purpose.
+● A customer attempts to influence the closing price of a stock by executing purchase or sale
+orders at or near the close of the market.
+● A customer engages in transactions suspected to be associated with cyber breaches of
+customer accounts, including potentially unauthorized disbursements of funds or trades.
+● A customer engages in a frequent pattern of placing orders on one side of the market,
+usually inside the existing National Best Bid or Offer NBBO, followed by the customer
+entering orders on the other side of the market that execute against other market
+participants that joined the market at the improved NBBO (activity indicative of “spoofingˮ).
+● Two or more unrelated customer accounts at the firm trade an illiquid or low priced security
+suddenly and simultaneously.
+● The customer makes a large purchase or sale of a security, or option on a security, shortly
+before news or a significant announcement is issued that affects the price of the security.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+● The customer is known to have friends or family who work at or for the securities issuer,
+which may be a red flag for potential insider trading or unlawful sales of unregistered
+securities.
+● The customerʼs purchase of a security does not correspond to the customerʼs investment
+profile or history of transactions (e.g., the customer may never have invested in equity
+securities or may have never invested in a given industry, but does so at an opportune
+time) and there is no reasonable explanation for the change. The firm receives regulatory
+inquiries or grand jury or other subpoenas concerning the firmʼs customersʼ trading.
+● The customer appears to buy or sell securities based on advanced knowledge of pending
+customer orders.
+● A dormant account suddenly becomes active without a plausible explanation (e.g., large
+deposits that are suddenly wired out).
+Other Potential Red Flags
+● The customer exhibits unusual concern with the firmʼs compliance with government
+reporting requirements and the firmʼs AML policies.
+● The customer tries to persuade an employee not to file required reports or not to maintain
+the required records.
+● Notifications received from the broker-dealerʼs clearing firm that the clearing firm had
+identified potentially suspicious activity in customer accounts. Such notifications can take
+the form of alerts or other concern regarding negative news, money movements or activity
+involving certain securities.
+● Law enforcement has issued subpoenas or freeze letters regarding a customer or account
+at the securities firm.
+● The customer makes high-value transactions not commensurate with the customerʼs
+known income or financial resources.
+● The stated business, occupation or financial resources of the customer are not
+commensurate with the type or level of activity of the customer.
+● The customer engages in transactions that show the customer is acting on behalf of third
+parties with no apparent business or lawful purpose.
+● The customer engages in transactions that show a sudden change inconsistent with normal
+activities of the customer.
+● Current officers, former officers, significant shareholders or family members of these
+individuals, who trade low-priced securities prior to a corporate announcement or stock
+promotion campaign
+Brokerage Customer Termination
+Source(s): FINRA Rule 3310; FINRA Regulatory Notice 1740
+If a customer account is under reasonable suspicion of being a bad actor by CAI compliance or
+designated Block team(s) for reasons including, but not limited to, fraud, anti-money laundering
+concerns, identity theft, or accounts that have otherwise been identified to have violated the terms
+of service, the designated team(s) will review and Denylist and/or close the account as they see fit
+and according to procedure.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+2.9. Enhanced and Customer Due Diligence
+Source(s): 31 C.F.R. § 1023.220
+Know Your Customer Due Diligence
+CAIʼs KYC Program consists of a three-tier approach, starting with its Customer Identification
+Program (“CIPˮ). The level of KYC varies depending on the level of potential AML/CTF risk
+presented. The three tiers, explained in the sections that follow, are:
+● Customer Identification Program (“CIPˮ);
+● Customer Due Diligence (“CDDˮ); and
+● Enhanced Due Diligence (“EDDˮ).
+CAIʼs CIP includes risk-based procedures for verifying the identity of each customer using
+documentary and non-documentary methods. The procedures are based on CAI's assessment of
+the relevant risks, including those presented by the various types of accounts maintained by CAI, the
+various methods of opening accounts, the various types of identifying information available and
+CAI's size, location and customer base. If CAI is unable to verify the customerʼs identity, an account
+is not opened for the customer. Notice is provided to customers that information is being requested
+for identity verification through CAIʼs Customer Account Agreement. Customer identifying
+information is kept, at a minimum, for 6 years subsequent to account closing as required by CAIʼs
+Books and Records Inventory. Please refer to CAIʼs “CIP Programˮ for additional information,
+including the information requested from the customer.
+CDD and EDD for the Cash App ecosystem, including CAI, are centralized under the Block KYC Team
+and done on an alert basis through various queues. The Block KYC Team performs an
+enterprise-wide review of customer account information for these purposes, including CAI
+information. They document the reviews, including disposition and supporting comments within
+Blockʼs internal case management system.
+All Cash App accounts receive a risk rating by a machine learning-based Customer Risk Rating
+(“CRRˮ) model. A CRR is an ongoing assessment of customer risk updated on a regular cadence.
+Customers receive CRRs between 0.0 (lowest risk) and 1.0 (maximum risk). The factors used in the
+CRR scores include a variety of factors, including but not limited to transaction activity, connected
+users, onboarding attributes, historical risk actions, and connections through identifiers such as
+SSN, device, IP address. Certain factors such as adverse media related to financial crimes or
+reputational risk can override a CRR to assign a higher risk rating. In summary:
+● CRR scores differentiate low, moderate and high risk Cash App customers.
+● CRR scores determine if customers alert in the CDD or EDD queues reviewed by the Block
+KYC Team.
+Politically Exposed Persons PEPs
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+PEPs are often viewed as higher risk based on the potential risk that their funds may have derived
+from or involved foreign corruption, bribery, terrorist financing or money laundering. Immediate
+family members or close associates of PEPs may pose a similar elevated risk as they may be used to
+conceal misappropriated funds. CAI only supports US citizens as customers, , minimizing the level of
+Foreign PEP risk exposure. CAIemploys a risk-based approach to PEP monitoring and has
+documented procedures for PEP determination and ongoing monitoring for high-risk PEP exposure.
+PEPs are categorized and defined as:
+● Domestic PEPs: Individuals who are or have been entrusted domestically US with
+prominent public functions.
+● Foreign PEPs: Individuals who are or have been entrusted with prominent public functions
+by a foreign (non-US) country.
+● International Organization PEPs: Individuals who are or have been entrusted with a
+prominent function by an international organization.
+● Family Members: Individuals who are related to a PEP directly or through marriage or
+similar (civil) forms of partnerships.
+● Close Associates: Individuals who are closely connected to a PEP, either socially or
+professionally.
+If a domestic PEP (including a family member or close associate) is identified on the platform during
+the normal course of compliance review, the account is subject to due diligence in accordance with
+KYC review processes. If a foreign PEP or international organization PEP (family member or close
+associate) is identified on the platform, the account will be escalated for an EDD review, and a
+determination must be made as to whether to continue the business relationship with the customer.
+Approval from the Head of Customer Onboarding and Management or their designee is required to
+maintain a business relationship with any individual identified as a high risk PEP.
+Confirmed PEPs are subject to ongoing EDD monitoring which may include:
+● Reaching out to the customer to confirm SoF or SoW information;
+● Adverse media screening; or,
+● Transactional review of the customerʼs activity.
+Customer Due Diligence CDD Rule) for Entities
+Source(s): 31 C.F.R. § 1010.230; 31 C.F.R. § 1023.210(b)(5); FINRA Rule 3310;81 Fed. Reg. 29398
+May 11, 2016 Final Rule: Financial Crimes Enforcement Network; CustomerDue Diligence
+Requirements for Financial Institutions); FIN2016G003 Frequently Asked Questions Regarding
+Customer Due Diligence Requirements for Financial Institutions 7/19/2016; Regulatory Notice 1740;
+FIN2018G001 Frequently Asked Questions Regarding Customer Due DiligenceRequirements for
+Financial Institutions 4/3/2018; Regulatory Notice 1819.
+CAI does not open or maintain accounts for legal entity customers within the meaning of 31 C.F.R. §
+1010.230. If, in the future, CAI elects to open accounts for legal entity customers, CAI will first
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+establish, document and ensure the implementation of appropriate CDD procedures to support legal
+entity customers.
+Enhanced Due Diligence for Correspondent Accounts of Foreign Financial Institutions
+Source(s):31 C.F.R. § 1010.610(b); 31 C.F.R. § 1010.610(c)
+CAI does not have, nor does it intend to open or maintain correspondent accounts for foreign
+financial institutions. CAI does not currently support entity accounts nor the creation of entity
+accounts with foreign addresses.
+Special Procedures when Due Diligence or Enhanced Due Diligence Cannot be Performed for
+Foreign Financial Institutions
+Source(s): 31 C.F.R. § 1010.610(d)
+CAI does not have, nor does it intend to open or maintain correspondent accounts for foreign
+financial institutions. CAI does not currently support entity accounts nor the creation of entity
+accounts with foreign addresses.
+Due Diligence and Enhanced Due Diligence Requirements for Private Banking Accounts/Senior
+Foreign Political Figures
+Source(s): 31 C.F.R. § 1010.620;Guidance on Enhanced Scrutiny for Transactions that May Involve
+the Proceeds of Foreign Official Corruption 1/1/2001; FIN2008G005 Guidance to Financial
+Institutions on Filing Suspicious Activity Reports regarding the Proceeds of Political Corruption
+4/17/2008; FIN2018A003
+CAI does not have, nor does it intend to open or maintain correspondent accounts for foreign
+financial institutions. CAI does not currently support entity accounts nor the creation of entity
+accounts with foreign addresses. Because CAI does not support private banking accounts or foreign
+accounts, the obligation to conduct due diligence and enhanced due diligence does not apply to CAI.
+Correspondent Accounts for Foreign Shell Banks
+Source(s): 31 C.F.R. § 1010.630; 31 C.F.R. § 1010.605
+CAI does not allow entity accounts and, at this time, prohibits the onboarding of customers who are
+not U.S. residents. CAI only enables the funding of the customerʼs brokerage account via their linked
+stored Cash App balance.
+Detecting and Closing Correspondent Accounts for Foreign Shell Banks
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Source(s): 31 C.F.R. § 1010.630; 31 C.F.R. § 1010.605
+Customers may only fund their brokerage accounts through their linked stored Cash App balance
+and are unable to fund their brokerage accounts via foreign banks.
+Certifications
+Source(s): 31 C.F.R. §§ 1010.630(a)–(b), 1010.630(d)
+CAI does not allow accounts with foreign banks.
+Recordkeeping for Correspondent Accounts for Foreign Banks
+Source(s): 31 C.F.R. §§ 1010.630(a)–(b), 1010.630(d)
+CAI does not allow accounts with foreign banks.
+Summons or Subpoena of Foreign Bank Records; Termination of Correspondent Relationships
+with Foreign Bank
+Source(s): 31 C.F.R. § 1010.660
+CAI does not allow accounts with foreign banks, nor does it intend to open or maintain
+correspondent accounts for foreign financial institutions.
+Due Diligence for Correspondent Accounts of Foreign Financial Institutions
+Source(s):31 C.F.R. §§ 103.175, 103.176
+CAI does not allow accounts with foreign banks, nor does it intend to open or maintain
+correspondent accounts for foreign financial institutions.
+Currency Transaction Reports CTRs
+Source(s): 31 C.F.R. §§ 1010.340, 1010.306
+Resources: FinCENʼs BSA EFiling System
+CTRs must be filed by broker-dealers for transactions in currency9 exceeding $10,00010 by or on
+behalf of a customer during any one business day11. CAI does not accept cash. Therefore, CAI
+currently has no obligation to file CTRs.
+9 For purposes of this program, “currencyˮ means cash. See 31 C.F.R. § 1010.100(m).
+10 31 C.F.R. § 1010.311
+11 31 C.F.R. § 1010.313
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Foreign Bank and Financial Accounts Reports
+Source(s): 31 C.F.R. §§ 1010.306, 1010.350, 1010.420
+Resources: FinCENʼs BSA EFiling System
+CAI does not have any financial accounts of more than $10,000, or for which CAI has signature or
+other authority over, in a foreign country. If, in the future, CAI elects to open or engage in said
+activity, CAI will file a Report of Foreign Bank and Financial Accounts (“FBARˮ).
+Monetary Instrument Purchases
+Source(s):31 C.F.R. § 1010.415
+Resource: 59 Fed. Reg. 52250 October 17, 1994 Final Rule; Amendments to BSA Regulations
+Relating to Identification Required to Purchase Bank Checks and Drafts, Cashierʼs Checks, Money
+Orders, and Travelerʼs Checks)
+CAI does not issue bank checks or drafts, cashierʼs checks, money orders or travelerʼs checks.
+Therefore, CAI has no obligation to file Money Instrument Purchases at this time.
+Funds Transmittals of $3,000 or more under the Travel Rule
+Source(s): 31 C.F.R. § 1010.410(e) and (f);; FINRA Rule 3310.
+The “Travel Ruleˮ requires financial institutions that affect funds transmittals of $3,000 or more to
+transfer certain information to receiving financial institutions relating to such transmittals. Subject to
+certain exemptions, broker-dealers must obtain and retain information relating to the funds
+transmittal of $3,000 or more that are sent or received by or for an individual on any one business
+day. CAIʼs customers may only transfer funds to their brokerage account with CAIʼs clearing and
+carrying custodian through their Cash App stored balance. This transmittal of funds to facilitate the
+Cash App stored balance funding is between the initiating domestic bank and Blockʼs designated
+bank account; CAI is not involved in this flow of funds. Moreover, funds for securities transactions
+are transmitted between Block and clearing firm partner(s) at the direction of CAI. Given the above,
+the travel rule does not apply to CAI.
+2.10. Suspicious Transactions and BSA Reporting Program
+Suspicious Activity Reports (“SARsˮ)
+Source(s): 31 C.F.R. § 1023.320; 31 C.F.R. § 1010.430; 31 C.F.R. § 1010.540 (safe harbor)
+Resources: FinCENʼs BSA EFiling System, , 67 Fed. Reg. 44048 July 1, 2002 Final Rule: Financial
+Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations – Requirement that
+Brokers or Dealers in Securities Report Suspicious Transactions)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Potentially suspicious activity is investigated by a dedicated and trained team through the
+enterprise-wide Block AML program. A SAR is filed within 30 days of detection if CAI knows,
+suspects, or has reason to suspect that a transaction (or pattern of transactions):
+● Involves criminal violations of any amount which involve insider abuse;
+● Involves criminal violations aggregating $5,000 or more where a suspect can be identified;
+● Involves criminal violations aggregating $5,000 or more regardless of a potential suspect;
+● Involves funds derived from illegal activity, or is intended to hide or disguise funds or
+assets derived from illegal activity, as part of a plan to violate or evade any federal law or
+regulation, or to evade any transaction reporting requirement under federal law or
+regulation;
+● Is designed, whether by structuring or other means, to evade any requirements of the BSA;
+● Serves no business or apparent lawful purpose, and CAI knows of no reasonable
+explanation for the transaction after examining the available facts, including the
+background and possible purpose of the transaction; or
+● Involves the use of CAI to facilitate criminal activity.
+Factors that contribute to the decision whether or not to file a SAR include the following:
+● The size, frequency, and nature of the transaction;
+● Escalations from internal teams as well as external partners;
+● CAIʼs experience with the customer and other individuals associated with the transaction (if
+any);
+● The customerʼs relationship to other accounts on Blockʼs system; and
+● The norm for such transactions within CAIʼs line of business and geographic area.
+If one or more suspicious transactions are identified and meet any of the thresholds above, the
+Officer or the designated team member(s) conducts a review of the transaction(s) to assess whether
+a reportable suspicious event has occurred and determines whether or not a SAR should be filed. If it
+is determined that a SAR should be filed, it must be filed no later than thirty calendar days after the
+determination that a reportable suspicious event has occurred.
+After the filing of a SAR, CAI maintains and securely stores the SAR and all corresponding supporting
+evidence for a minimum of five years from the date of the filing.
+For all cases in which CAI filed a SAR with FinCEN, a Continuing Activity Review is conducted in
+accordance with FinCEN instructions and relevant guidance; and if necessary a Continuing Activity
+SAR is filed to report continuation of the activity.
+Continuing Activity Reviews commence 90 days after the prior filing date; and Continuing Activity
+SARs are filed no later than 120 days after the previous SAR filing date. Continuing Activity Reviews
+are required after every SAR filing, regardless if a Continuing Activity SAR has previously been filed.
+The cycle of the investigation reopening every 90 days after a filing continues until the reportable
+activity has ceased.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+If CAI files a SAR, neither CAI nor any director, officer, employee, or agent of CAI may notify any
+person that the transaction has been reported on a SAR nor may admit or deny the fact that a SAR
+has been filed. If CAI is subpoenaed or otherwise requested to disclose that a SAR has been filed or
+the information contained in a SAR, except when such disclosure is requested by FinCEN or an
+appropriate law enforcement or supervisory agency, CAI will decline to produce the SAR or to
+provide any information that would disclose that a SAR has been prepared or filed. CAI will promptly
+notify FinCEN of any such request and of CAIʼs response. When CAI files a SAR, CAI and any
+director, officer, employee, or agent of CAI are protected from liability for any disclosure contained in
+the report or for failure to provide notice of such disclosure to the person who is the subject of such
+report.12
+Joint Filing of SARs by Broker-Dealers and Other Financial Institutions
+Source(s): 31 C.F.R. § 1023.320; 31 C.F.R. § 1010.430; 31 C.F.R. § 1010.540
+Based on the facts and circumstances, and when the circumstances meet generally acceptable
+business practices, CAI may file a joint SAR with Block or clearing firm partner(s). Due to the nature
+of the Block ecosystem, SARs are generally filed jointly between CAI and Block. CAI may choose to
+share information about a particular suspicious transaction with Block, as appropriate, that is
+involved in that particular transaction for purposes of determining whether a SAR will be filed jointly.
+If CAI determines that it is appropriate to jointly file a SAR, CAI understands that the Firm cannot
+disclose that a joint SAR was filed to any financial institution except Block. If CAI determines that it is
+not appropriate to file jointly (e.g., because the SAR concerns CAI only), CAI understands that the
+Firm cannot disclose that a SAR has been filed to any other financial institution.
+Outside of the above, CAI will not otherwise file joint SARs.
+Sharing SARs with Parent Companies
+Resource: FinCENʼs BSA EFiling System, FinCEN Guidance on Sharing of Suspicious Activity
+Reports by Securities Broker-Dealers, Futures Commission Merchants, and Introducing Brokers in
+Commodities 1/20/2006
+CAI may share SARs and suspected suspicious activities with Block when the Officer or designated
+team deems it necessary under generally accepted business practices and as permitted under
+applicable law.
+Reporting and Record Retention
+Rules: 31 C.F.R. § 1010.430; Exchange Act Rule 17a-8 (requiring registered broker-dealers subject to
+the Currency and Foreign Transactions Reporting Act of 1970 to comply with the BSA regulations
+regarding reporting, recordkeeping and record retention requirements); FINRA Rule 3310.
+12 31 U.S.C. 5318(g)(3)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Resources: 67 Fed. Reg. 44048 July 1, 2002 Final Rule: Financial Crimes Enforcement Network;
+Amendment to the Bank Secrecy Act Regulations – Requirement that Brokers or Dealers in Securities
+Report Suspicious Transactions)
+CAI adheres to the BSAʼs reporting and recordkeeping obligations, which impose requirements on
+broker-dealers for reports or records that have “a high degree of usefulness in criminal, tax, or
+regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence
+activities, including analysis, to protect against international terrorismˮ13. The BSAʼs reporting and
+recordkeeping obligations include SARs. In addition, OFAC has its own reporting requirements for
+various related activities. CAI complies with all applicable reporting and record retention obligations
+imposed by the BSA and OFAC regulations.
+CAI will keep other documents according to existing BSA and other recordkeeping requirements,
+including certain FINRA and Exchange Act rules. See CAIʼs Written Supervisory Procedures for
+further detail.
+Exemptions from SAR Reporting
+Source(s): 31 C.F.R. § 1023.320
+CAI is exempt from reporting a SAR for the following violations: 1 a robbery or burglary that is
+committed or attempted and already reported to appropriate law enforcement authorities; 2 lost,
+missing, counterfeit or stolen securities that the firm has reported pursuant to Exchange Act Rule
+17f-1; and 3 violations of the Federal securities laws or self-regulatory organization (“SROˮ) rules by
+the firm, its officers, directors, employees or registered representatives, that are reported
+appropriately to the SEC or SRO, except for a violation of Exchange Act Rule 17a-8, which must be
+reported on a SAR. If CAI relies on one of these exemptions, it will document that it relied on one of
+these exemptions and will maintain records, for at least eighteen months, of its determination not to
+file a SAR based on the exemption.
+2.11. OFAC Checks, Reports, and Record-Keeping
+Source(s): 31 C.F.R. § 501.603; 31 C.F.R. § 501.604;SEC AML Source Tool for Broker-Dealers, Item 12;
+OFAC Lists web page (including links to the Specially Designated Nationals (“SDNˮ) List and lists of
+sanctioned countries); FINRAʼs OFAC Search Tool. See also the following OFAC forms: Report of
+Blocked Transactions Form; Report of Rejected Transactions Form; Annual Report of Blocked
+Property Form; OFAC Guidance Regarding Foreign Assets Control Regulations for the Securities
+Industry.
+Sanctions processes for Cash App customers, including CAI customers, are centralized under the
+Block Sanctions and/or KYC Teams. Block maintains procedures to subject customers to sanctions
+screening upon onboarding of the Cash App account and on an ongoing basis during the customerʼs
+relationship with Block, in order to determine whether a CAI customer is a potential match against
+the OFAC List.
+13 31 U.S.C. § 5311
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+When potential sanctions hits are identified, the sanctions hits are fully investigated and
+dispositioned by the Cash App Sanctions teams and escalated to the Global Block Sanctions team
+where applicable. If a customerʼs sanctions hit is confirmed to be a true match, CAI will immediately
+take appropriate actions including account freezing, blocking transactions, account deactivation,
+and reporting to relevant regulatory authorities. The following recordkeeping and reporting
+obligations14 will also be met:
+● Persons engaged in a transaction with an individual or entity on an OFAC List must keep all
+records of the transaction, regardless of whether the transaction was licensed by OFAC, for
+a period of five years15;
+● Persons who have rejected a proscribed transaction, or hold property that is blocked under
+an OFAC-administered program, must retain all records of the transaction for five years
+from the date of the rejected transaction or, in the event of a blocking, for the period of the
+blocking plus five years16; and
+● Holders of blocked property must report the blocking to OFAC within 10 business days of
+the blocking, and must file an annual report of blocked funds to OFAC17.
+Under OFAC regulations, United States persons are not only prohibited from engaging in transactions
+with SDNs, but may also be prohibited from “facilitatingˮ or “brokeringˮ transactions with sanctioned
+parties. This means that once CAI has determined it cannot engage in a transaction with a particular
+CAI customer, because they are identified as a true positive SDN, CAI must refrain from providing the
+SDN with any services. Accordingly, CAI will coordinate with clearing firm partner(s) to reject any
+pending or future transaction(s) in the account(s) and/or block the customer's assets leveraging
+Blockʼs established controls as well as established controls at clearing firm partner(s). Additionally,
+Block will file a blocked asset and/or rejected transaction report with OFAC on CAIʼs behalf within 10
+business days. For blocked assets, Block will file the report within 10 business days of the assets
+held at CAIʼs clearing firm partner(s) being moved to a segregated, blocked account. In the event of
+a rejection, the report will be filed within 10 business days of the transaction being rejected. CAI
+does not hold property.
+Comparison with Government-Provided Lists of Terrorists
+Source(s): 31 C.F.R. § 1023.220(a)(4)
+At such time that CAI receives notice that a federal government agency has issued a list of known or
+suspected terrorists and identified the list as a list for CIP purposes, CAI will, within a reasonable
+period of time after an account is opened (or earlier, if required by another federal law or regulation
+or federal directive issued in connection with an applicable list), determine whether a customer
+appears on any such list of known or suspected terrorists or terrorist organizations issued by any
+federal government agency and designated as such by Treasury in consultation with the federal
+functional regulators. CAI will follow all federal directives issued in connection with such lists. CAI
+14 These obligations are set forth in 31 C.F.R. Part 501, Subpart C.
+15 31 C.F.R. 501.601
+16 Several programs have “blockingˮ provisions. These provisions deem assets in which an embargoed or sanctioned individual or
+entity over which the U.S. has jurisdiction has an interest to be “blockedˮ or “frozen.ˮ Under these blocking provisions, the sanctioned
+individual or entity retains title to the assets, but the assets are placed in an interest-bearing account, and the blocking must be
+reported to OFAC.
+17 31 C.F.R. 501.603(a)-(b)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+will continue to comply separately with OFAC rules prohibiting transactions with certain foreign
+countries or their nationals.
+2.12. Special Section 314(a) Procedures, Special Measures and Law Enforcement Requests
+Section 311, 314(a) and 314(b) Requirements
+Section 314 of the USA PATRIOT Act encourages information sharing between regulatory bodies or
+law enforcement authorities and financial institutions to deter money laundering and terrorist activity.
+FinCENʼs regulations18 under Section 314(a) require financial institutions to search their records and
+produce certain documents and records on demand (each, a “Section 314(a) Requestˮ), and
+FinCENʼs regulations19 under Section 314(b) provide an information sharing process and safe harbor
+from liability, whereby financial institutions who elect to participate may share information with one
+another.20
+If CAI receives a Section 314(a) Request, CAI will observe the process outlined in the sections below
+and within relevant procedure documents. Participation in the information sharing process within
+Section 314(b) is voluntary; CAI has elected to not participate at this time but is considering future
+participation.
+Special Measures under Section 311 do not apply to CAI because business activity does not occur
+outside of the United States; therefore, no activity is conducted in any of the listed jurisdictions.
+Designation of Section 314(a) Contact Person
+The Officer is CAIʼs Section 314(a) contact person for receipt of all Section 314(a) Requests21 and
+shall provide to FinCEN their name, contact information, and such other information as FinCEN may
+request.22
+Action Upon Receipt of a Section 314(a) Request
+Upon receipt of a Section 314(a) Request, the Officer or their designee will search CAIʼs records to
+determine both whether it (i) maintains or has maintained any account for, or (ii) has engaged in any
+transaction with, each individual named in the Section 314(a) Request (iii) and report any positive
+matches via FinCENʼs Web-based 314(a) Secure Information Sharing System. For accounts, the
+scope of the search must include both current accounts as well as any maintained in the preceding
+twelve months.23 For transactions, the scope of the search must include any transactions that
+occurred in the preceding six months.24 If CAIʼs Section 314(a) records search identifies an account
+or a transaction pertaining to any individual named in the Section 314(a) Request, the Officer must
+18 31 C.F.R. § 1010.520
+19 31 C.F.R. § 1010.540
+20 Participation in the information sharing process within Section 314(b) is voluntary; CAI has elected to not participate.
+21 31 C.F.R. § 1010.520 (b)(3)(iii)
+22 31 C.F.R. § 1010.520 (b)(3)(iii)
+23 31 C.F.R. § 1010.520(b)(3)(i)(A)
+24 31 C.F.R. § 1010.520(b)(3)(i)(B)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+report the affirmative nature of the search results, together with pertinent identifying information25 to
+FinCEN, within 14 days or within the timeframe and in the manner specified by FinCEN.
+Section 314(a) Request Record Retention
+For each Section 314(a) Request that CAI receives, CAI shall retain a copy of and/or document the
+resulting information in CAIʼs 314(a) Log:
+● The Section 314(a) Request; and
+● The results and record of Section 314(a) searches against CAIʼs customers, including
+○ the tracking number, the date of the search, any potential customer, transaction, or
+entity matches identified during the search, the resolution of corresponding
+investigations, the number of customer accounts searched, and any true matches
+identified, information regarding the corresponding investigation and the date any
+true match was reported to FinCEN.
+CAI shall retain all Section 314(a) documents for a period of five years following the last response or
+communication with FinCEN regarding the Section 314(a) Request in compliant storage.
+Limitations on Use of Information Provided by FinCEN
+CAI shall not use any of the information obtained from FinCEN in any Section 314(a) Request, except
+for the following purposes:
+● Making its Section 314(a) report to FinCEN;
+● Determining whether to establish or maintain an account or engage in a transaction; or
+● Complying with any other BSA statutory or regulatory requirements as detailed below.26
+CAI will not disclose that FinCEN has requested or obtained information from it, except to the extent
+necessary to comply with the information request. The designated team will review, maintain and
+implement procedures to protect the security and confidentiality of requests from FinCEN similar to
+those procedures established to satisfy the requirements of Section 501 of the Gramm-Leach-Bliley
+Act with regard to the protection of customersʼ nonpublic information.
+CAI will direct any questions regarding 314(a) Requests to the requesting federal law enforcement
+agency as designated in the request. Unless otherwise stated in the 314(a) Request, CAI will not treat
+the information request as continuing in nature, and will not treat the periodic 314(a) Requests as a
+government provided list of suspected terrorists for purposes of the customer identification and
+verification requirements.
+25 31 C.F.R. § 1010.520 (b)(3)(ii)
+26 31 C.F.R. § 1010.520 (b)(3)(iv)
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+When a positive 314(a) match is made, the designated team(s) will conduct an investigation of the
+customer subject to the subpoena as well as review the customerʼs account activity. If any
+suspicious activity is uncovered during the risk assessment and review, the designated team will file
+a SAR in accordance with the SAR filing requirements. No reference will be made to the existence of
+the 314(a) match in any part of the SAR, including the narrative. The SAR will only contain detailed
+information about the facts and circumstances of the detected suspicious activity.
+Law Enforcement Requests, Subpoenas, and National Security Letters
+CAI has established policies, procedures, and processes for identifying subjects of law enforcement
+requests, subpoenas, and national security letters. In most instances, when CAI receives a law
+enforcement request, subpoena, or national security letter, it involves a request for copies of
+account records related to an activity that has occurred on the brokerage account or information
+associated with the account holder. While CAIʼs timely responsiveness to subpoenas is a
+fundamental priority, the Block Law Enforcement Response Team will first scrutinize any request to
+ensure its validity and will only provide information that is within its scope. When a valid request is
+received, it is CAIʼs policy to partner with government and law enforcement agencies in the spirit of
+cooperation to prevent abuse and misuse of CAIʼs systems and services. The designated handler of
+all incoming requests for information and associated legal process is the Block Law Enforcement
+Response Team. The Block Law Enforcement Response Team will escalate to the SAR team for a
+review of account activity to determine if SAR filing is warranted. Absent specific record retention
+requirements, CAI retains these documents for no less than six years from the final actions in
+compliant storage.
+National Security Letters
+Source(s): FinCEN SAR Activity Review, Trends, Tips & Issues, Issue 8 National Security Letters and
+Suspicious Activity Reporting) 4/2005
+National Security Letters NSLs are written investigative demands that may be issued by the local
+Federal Bureau of Investigation FBI and other federal government authorities conducting
+counterintelligence and counterterrorism investigations to obtain, among other things, financial
+records of broker-dealers.
+CAI understands that the receipt of a National Security Letter (“NSLˮ) is highly confidential. CAI
+understands that none of its officers, employees or agents may directly or indirectly disclose to any
+person that the FBI or other federal government authority has sought or obtained access to any of its
+records. Broker-dealers that receive NSLs must have policies and procedures in place for processing
+and maintaining the confidentiality of NSLs. As such, NSLs will be reviewed and handled on a
+case-to-case basis. The Block Law Enforcement Response Team is responsible for responding to
+NSLs and escalating to the Officer or designated person or team(s) when a SAR may be warranted.
+Questions regarding NSLs are to be directed to the local FBI field office. Disclosure to the target of
+the NSL is prohibited. Disclosure to others, including employees, must be only to those involved in
+the fulfillment of the NSL. Accounts must not be adversely affected, either by restriction or closure,
+based on the receipt of an NSL.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+After an escalation from the Block Law Enforcement Response Team, the Officer or designated
+person or team(s) may determine that a SAR should be filed, but the SAR will not contain any
+reference to the receipt or existence of the NSL. Mere receipt of an NSL does not, by itself, require
+the filing of a SAR by CAI. Nonetheless, NSLs are a piece of information that may be relevant to a
+broker-dealerʼs overall risk assessment of its customers and accounts. It is incumbent upon CAI to
+assess the information in accordance with its risk-based anti-money laundering program, its policies
+and procedures, and to determine whether a SAR should be filed based on the totality of information
+available to the institution.
+Grand Jury Subpoenas
+Source(s): FinCEN SAR Activity Review, Trends, Tips & Issues, Issue 10 Grand Jury Subpoenas and
+Suspicious Activity Reporting) 5/2006
+CAI understands that, generally, grand jury proceedings are confidential and that none of its officers,
+employees, or agents may directly or indirectly disclose to the person who is the subject of the
+subpoena its existence, its contents or the information used to respond to it unless otherwise
+allowed by law. The Block Law Enforcement Response Team will be responsible for responding to,
+processing and maintaining the subpoena, handling each on a case-by-case basis.
+Similar to NSLs, the mere receipt of a grand jury subpoena concerning a customer does not, by
+itself, require the filing of a SAR. When CAI receives a grand jury subpoena, the Officer or designated
+person or team(s) will conduct an investigation of the customer subject to the subpoena as well as
+review the customerʼs account activity. If any suspicious activity is uncovered during the review, the
+Officer or designated person or team(s) will file a SAR in accordance with the SAR filing
+requirements. No reference to the receipt or existence of the grand jury subpoena should be made in
+any part of the SAR, including the narrative. The SAR will only contain detailed information about the
+facts and circumstances of the detected suspicious activity.
+2.13. BSA/AML Education and Training Program
+Source(s):: FINRA Rule 3310; 31 C.F.R. § 1023.210(b)(3)
+Resources: See FinCEN SAR Narrative Guidance Package 11/2003, FinCEN Suggestions for
+Addressing Common Errors Noted in Suspicious Activity Reporting 10/10/2007, FinCEN's 2012 SAR
+filing instructions, FinCEN SAR Advisory FIN2023A003
+All persons associated with CAI, including contractors, receive Blockʼs BSA/AML and OFAC training
+(“BSA/AML Trainingˮ) at least once per calendar year.27 The BSA/AML Training is provided to each
+new full-time employee and contractor within a reasonable timeframe after their start date and
+thereafter each calendar year. The education and training program is the responsibility of the Officer,
+although the Officer may delegate certain training functions. Additionally, CAI-specific BSA/AML and
+red flags training is delivered to appropriate staff members on an annual basis, including the Board.
+The Officer or their designee creates a record of each BSA/AML Training session and retains all such
+27 The BSA Compliance Officer may grant exemptions to full-time employees and contractors if it is determined that their degree of
+responsibility for BSA/AML and OFAC compliance is low or negligible. Exemption records are retained for five years.
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+records for six years from the date of completion of the training. Each BSA/AML Training session
+records shall include a copy of the content of the training, the date training was conducted, and a
+participation record of all persons who received the training.
+The depth and content of the BSA/AML Training depends on the degree of responsibility each
+individual has for BSA/AML and OFAC compliance. To ensure that the content of the BSA/AML
+Training remains current, the Officer stays abreast of developments in the BSA, economic sanctions,
+and other related matters, and updates the BSA/AML Training, as appropriate.
+2.14. Independent Testing and Review
+Independent Testing
+Source(s):31 C.F.R. § 1023.210(b)(2); FINRA Rule 3310
+CAI engages with Block and Internal Audit to facilitate an annual independent evaluation of the
+overall adequacy and effectiveness of CAIʼsBSA/AML compliance program, including policies,
+programs and procedures. This independent evaluation includes testing of compliance with
+applicable reporting, recordkeeping, and program requirements of the BSA and FINRA Rule 3310, this
+program, and all supporting procedures.
+After CAI has received its independent testing and AML report, the designated team will report its
+findings to senior management and the Board. The Officer or designee(s) will promptly address each
+of the resulting recommendations and keep a record of how each noted deficiency was addressed
+and/or resolved.
+Independent testing will be performed more frequently than annually if warranted.
+2.15. Additional Areas of Risk
+Confidential Reporting of AML Non-Compliance
+Source(s): 31 C.F.R. § 1023.210; FINRA Rule 3310
+Employees must promptly report any potential violations of CAIʼs AML compliance program to the
+Officer, unless the violations implicate the Officer, in which case the employee shall report the issue
+to the Chief Executive Officer or Chief Operating Officer, or designee. Reports may also be made to
+appropriate Block personnel as warranted. Such reports will be confidential, and the employee will
+suffer no retaliation for making them. Reports can also be made to Block via Blockʼs Ethics Line at
+https://ethics.block.xyz/.
+Monitoring Employee Conduct and Accounts
+Source(s):31 C.F.R. § 1023.320; 31 C.F.R § 1023.210; FINRA Rule 3310
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+CAI subjects employee accounts to the same AML procedures as customer accounts, under the
+supervision of the Officer or designee. The Officerʼs accounts will be reviewed by an appropriate
+registered principal that does not report to the Officer.
+2.16. Associated Policies and Procedures
+This Program is applied in conjunction with further internal policies and procedures for combating
+money laundering and criminal activity enacted, maintained, and observed by CAI and Block (as
+applicable).
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Board of Managers of Cash App Investing LLC (“Boardˮ):
+○ The Board is primarily responsible for ensuring that Cash App Investing LLC
+establishes and maintains a comprehensive and effective AML/CTF compliance
+program, and an oversight framework reasonably designed to ensure compliance
+with applicable federal and state laws and regulations.
+○ In fulfilling these responsibilities, the Board shall:
+■ Establish and promote a culture of AML/CTF compliance, emphasizing the
+importance of sound governance, appropriate documentation and effective
+management of related risks;
+■ Ensure that senior management is qualified, experienced, and empowered
+to manage the compliance risks arising from each relevant jurisdictionʼs
+activities;
+■ Appoint a qualified and capable BSA/AML Compliance Officer with
+sufficient authority, independence and resources to coordinate, implement
+and oversee the AML/CFT program and related activities; and,
+■ Review program effectiveness by periodically reviewing reports on the
+effectiveness of the AML/CFT program, including results of independent
+testing, internal audit and regulatory examinations, and ensure that
+identified issues are promptly addressed.
+● BSA/AML Compliance Officer:
+○ The BSA/AML Compliance Officer (“the Officerˮ) is a suitably experienced and
+qualified person who is appointed by the CAI Board of Managers and who is
+responsible for the oversight of day-to-day AML Compliance.
+○ The BSA/AML Compliance Officer will provide assistance and support in
+implementing this Program across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that the Firmʼs operations
+reflect the Firmʼs commitment to compliance and that all employees are aware of
+that commitment and their individual responsibility.
+○ The BSA/AML Compliance Officer is responsible for monitoring and reporting on
+compliance with this Program. The BSA/AML Compliance Officer may delegate to
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+others the authority to adopt, develop, and implement procedures and reporting
+that support this Program.
+● Senior Management:
+○ Senior management, which includes key members of CAIʼs management team, is
+responsible for communicating and reinforcing the AML/CTF compliance culture
+established by the Board. Additionally, they are responsible for implementing and
+enforcing approved AML/CTF compliance policies and programs.
+● Staff:
+○ Staff members play a crucial role in the detection and prevention of money
+laundering and terrorist financing violations. Staff members are responsible for
+paying particular attention to customer behavior or transactions that may be
+unusual or warrant additional scrutiny, and must not knowingly provide advice or
+other assistance to individuals who attempt to violate local laws, or CAIʼs related
+policies, programs, or procedures. Staff members may not deliberately or
+inadvertently disclose information to any third party, including account holders, that
+may prejudice an investigation including but not limited to disclosing that a
+Suspicious Activity Report SAR has been filed or alerting of the suspicion of
+prohibited or illegal activity. Staff members are required to undergo appropriate
+background checks in order to mitigate significant risks related to the subject
+matter of this program.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least triennially and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Andrew Nerys (…Compliance Creation Creation of May 24, 2024
+Analyst document
+(consolidation of
+historical
+document)
+Ashley Adkins (s Chief Compliance Initial Approval Approval of June 24, 2024
+Officer and document
+BSA/AML Officer,
+Cash App
+Investing
+Ashley Adkins (s Chief Compliance Material Change… Annual review and January 3, 2025
+Officer and program updates
+BSA/AML Officer,
+Cash App
+Investing
+Christine Delaney BSA/AML Officer, Scheduled Revi… Annual review and March 27, 2026
+Cash App program updates,
+Investing including to reflect
+CAIʼs partnership
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC
+
+Ashley Adkins (s Chief Compliance Scheduled Revi… with multiple March 27, 2026
+Officer and clearing broker(s)
+BSA/AML Officer, and adjustments
+Cash App
+to CRR scoring
+Investing
+Document Details:
+Business Cash App Investing LLC
+Scope United States
+Compliance Domain Anti-Financial Crimes
+Document Owner Christine Delaney
+Approved By The Officer
+Document Tier Tier 3
+Anti-Money Laundering and Counter Terrorist Financing Program | Cash App Investing LLC

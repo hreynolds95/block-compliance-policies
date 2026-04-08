@@ -1,0 +1,309 @@
+Enhanced Customer Due Diligence Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: Under the AML/CTF Act, Square AU Pty Ltd (“Square AUˮ) has enacted
+obligations to perform multiple AML controls that include its Enhanced Customer Due Diligence
+ECDD Program (“Programˮ). The Program defines the triggers of ECDD and the actions Square
+AU takes when ECDD is performed. It also documents additional requirements from Acquirers and
+Payment Networks.
+The program sets out the ECDD measures applied in response to specific ML/TF risks. It also
+describes how the effectiveness of ECDD measures is monitored and reviewed, and outlines how
+Square AU manages its tipping-off obligations when conducting ECDD.
+Scope: This Program is established by Square AU and is applicable to the Square AU products
+through which Square AU provides Designated Services as defined under the AML/CTF Act. This
+Program is implemented, managed and maintained by the Square AU Compliance team and sets
+out the approach to design and execution Square AUʼs ECDD Program.
+Definitions:
+Terminology Definition
+Service Level Defines the expected review period for cases and other responsibilities of
+Agreements the Analysts working on filing PEP watchlist alerts.
+(“SLAˮ)
+Suspicious A report that a reporting entity must submit under AML/CTF Act if they have
+Matter Report reasonable grounds to suspect that a transaction may be related to money
+(“SMRˮ) laundering, terrorism financing, tax evasion, proceeds of crime or any other
+serious crimes under Australian law. An SMR must also be submitted if the
+Reporting Entity has reasonable grounds to suspect the customer or an
+1
+
+agent of the customer is not who they say they are.
+Reporting Entity Providers of Designated Services as that term is defined under the AML/CTF
+Act.
+Tipping Off The conduct of disclosing any information about an SMR, or inferring that
+Square AU has submitted or will submit an SMR.
+Designated A service that is listed in section 6 of the AML/CTF Act.
+Service
+2. Program Requirements
+2.1. Customer Risk Rating Model
+Square AU has established its ECDD program based on its Continuous Customer Risk Rating
+Program. All new and/or active customers are risk-rated daily using a Machine Learning-based
+Continuous CRR (cCRR) model. This model defines the risk rating for customers, which is used in
+part to determine the customers that may require enhanced due diligence by Square AU.
+2.1.1. Empirical Customer Risk
+Square uses machine learning models to assess the risk of each customer. These assessments of
+customer risk include a variety of sources of information about a customer, including, but not limited
+to, the customerʼs payment behaviour, bank behaviour, casing history, account attributes and other.
+These models are trained using historical data. Square AU refers to model-based assessments of
+customer risk as empirical risk. Square uses two machine learning models to assess empirical risk
+across the life of a customer: the Activation CRR and Continuous CRR models.
+2.1.2. Activation Customer Risk Rating (aCRR)
+Every customer who is onboarded is evaluated by the aCRR machine learning model and given a
+score. A customerʼs aCRR score is stored and used as an input into the cCRR model. Additional
+details on aCRR can be found in the Block Compliance Activations CRR ML Program.
+2
+
+2.1.3. Continuous Customer Risk Rating (cCRR)
+Every customer is evaluated daily by the cCRR machine learning model and given a score. The cCRR
+model leverages a wide range of information about a customer and their behavior. This score should
+be considered a current assessment of the ML/TF risk posed by a customer given the information
+available as of the evaluation date.
+2.1.4. Intrinsic Customer Risk
+There are certain characteristics a customer displays that Square AU believes should lead them to
+be considered as high risk, regardless of their empirical model scores. Square AU refers to this as
+Intrinsic Customer Risk, and the specific attributes that lead to this assessment are referred to as
+intrinsic risk factors. A customer is considered to be intrinsically “high riskˮ if they display one or
+more intrinsic risk factors. Intrinsically high risk customers are subjected to regular monitoring equal
+to or exceeding that of empirically high risk customers.
+The intrinsic high risk factors for Square AU are defined as follows:
+● Sanctions: The individual, beneficial owner, or the business is identified as having sanction
+related concerns.
+● Suspicious Matter Report SMR: Customer included in an SMR filing and the account is
+placed on enhanced monitoring without deactivation after review.
+● High-Risk Politically Exposed Person HRPEP: The customer,, beneficial owner, or the
+person on whose behalf the customer (such as a beneficiary of a trust or foreign equivalent) is
+identified as a confirmed high-risk PEP.
+● High-Risk Jurisdiction: Square data indicates that the customer has geographic linkage to any
+of the high-risk countries listed in 2025 Country Risk Rating v1.0, which include the high-risk
+jurisdiction that Financial Action Task Force FATF has called for ECDD to be applied.
+2.2. ECDD Scenarios
+Square AU applies its ECDD measures in the below scenarios.
+2.2.1. Sanctions
+If Square AU identifies that an individual, beneficial owner, or the business has sanction-related
+concerns, but decides to maintain the relationship after a review and evaluation of risk-appetite, the
+customer will be subject to an ECDD review as laid out in the ECDD Review Procedures.
+3
+
+2.2.2. Suspicious Matter Report SMR
+When the SMR obligation arises, in addition to submitting the SMR by following the SMR procedures,
+Square AU will also determine whether to continue the business relationship with the customer
+depending on the ML/TF risk. During this process, Square AU will ensure that a “Tipping offˮ offence
+is not committed.
+If Square AU discontinues the relationship, Square AU will close the customerʼs accounts. If Square
+AU continues the relationship, Square AU will:
+● Follow the review process in ECDD Review Procedures for initial review;
+● Monitor the customerʼs future activities and examine the customerʼs account(s)s, subject to the
+Transaction Monitoring Program; and
+● Monitor the customerʼs future activities and examine the customerʼs account(s) at least yearly,
+according to the ECDD Program and subject to ECDD review following ECDD review
+procedures.
+2.2.3. High-Risk Politically Exposed Person HRPEP
+If a customer, a beneficial owner of a customer or the person on whose behalf the customer is
+determined to be a high ML/TF risk PEP or the individual is a foreign PEP, Square AU will follow the
+review process outlined in the ECDD Review Procedures to determine whether to continue the
+business relationship with the customer.
+If Square AU discontinues the relationship, Square AU will:
+● Close the customerʼs account(s); and
+● Consider whether a SMR should be submitted.
+If Square AU continues the relationship, Square AU will:
+● Establish on reasonable grounds the source of funds and source of wealth;
+● Obtain explicit approval from the Square AU CCO;
+● Monitor the customerʼs future activity and examine the customerʼs account(s), subject to the
+Transaction Monitoring Program; and
+● Monitor the customerʼs future activities and examine the customerʼs account(s) at least yearly,
+according to the ECDD Program and subject the account(s) to ECDD review following ECDD
+review procedures.
+4
+
+2.2.4. High-Risk Jurisdiction
+If Square AU data indicates that the customer has geographic linkage to any countries identified as
+high risk in 2025 Country Risk Rating v1.0, according to Blockʼs 2024 Global Geographic Risk Ratings
+Methodology & Program, Square AU will subject the customer to an ECDD review as laid out in the
+ECDD Review Procedures.
+2.2.5. High ML/TF Risk Customers Eligible for Review
+When circumstances arise, Square AU will perform an ECDD review following the ECDD Review
+Procedures. During initial onboarding and throughout ongoing CDD, including KYC updates and
+re-verification, Square AU must identify, document, and maintain the customerʼs source of funds and
+source of wealth when this information is relevant to the customerʼs high ML/TF risk.
+2.3. ECDD Measures
+The Square AU Compliance Analyst reviews alerts based on ECDD Review Procedures that are
+routinely reviewed and updated to align with regulatory requirements. In general, the ECDD
+measures used must be appropriate to the situation, and informed by the reason why the customer
+was identified as high ML/TF risk and designed to manage and mitigate the ML/TF risk. ECDD
+measures including a range of measures below:
+● Obtain additional information, for example the reason for certain transactions;
+● More detailed analysis of customer information;
+● Collect, verify or re-verify more KYC information about the customer
+● Collect and/or verify information about the customer or beneficial ownerʼs source of funds
+and/or source of wealth;
+● More detailed analysis and monitoring of transactions;
+● Take additional measures to better understand the background, ownership (if relevant) and
+financial situation of the customer, and other parties to the transaction;
+● Cease providing designated service where this falls out of Square AUʼs risk appetite;
+● Escalate and get approval from senior management.
+2.4. Additional Requirements
+Square AU may apply additional ECDD measures in additional circumstances, for example under the
+requirement from Acquirers and Payment Networks, following ECDD Review Procedures.
+5
+
+2.5. Record keeping Requirements
+The Square AU Compliance Analyst must keep clear, accurate records of any enhanced CDD applied
+to a customer, including the reasons for its application, the information collected and verified, any
+analysis, ML/TF risk assessments, and any resulting decision or actions taken to manage or mitigate
+risk. This may include:
+● The circumstances that required the conduct of ECDD;
+● The reasons for applying specific ECDD measures;
+● Any additional information collected from the customer and the methods used to verify such
+information;
+● Decision to apply additional measures to mitigate and manage ML/TF risk, or to cease
+providing a designated service due to unacceptable risk.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities
+● Square Australia (“AUˮ) Chief Compliance Officer (“CCOˮ):
+○ Acts as the designated Senior Manager for approvals required under the AML and
+CTF Act and Rules, including approving the Enhanced Customer Due Diligence
+Program and any material updates to it.
+● Square AU Regulatory Program Manager:
+○ Act as the AML/CTF Compliance Officer to oversee and coordinate the operational
+functions of the Enhanced Customer Due Diligence Program in compliance with
+local regulatory requirements, ensures that all due diligence processes, including
+onboarding, screening, and ongoing checks, are implemented effectively and
+consistently, and is responsible for reporting.
+● Square AU Compliance Operations Lead:
+○ Manages the operational team responsible for reviewing compliance alerts;
+provides guidance, training and acts as an escalation point in addition to managing
+SLAs.
+● Square AU Compliance Analyst (“The Analystˮ):
+○ Monitors and acts upon ECDD alerts, including reviewing and escalating potentially
+suspicious activity accordingly.
+● Square AU Compliance team :
+○ Responsible for developing, implementing and maintaining an adequate compliance
+program.
+● Square Compliance Quality Assurance team:
+6
+
+○ Performs Quality Assurance by reviewing decisions made by analysts during ECDD
+alerts review and filing; provides feedback on decision-making, observations, and
+insights into trends, processes, and procedures; highlights opportunities for
+consistency and efficiency; and reports the results of the reviews to individual team
+members, their leads and senior management and supports regulatory and audit
+requirements.
+● Square AUʼs Board (“The Boardˮ):
+○ Responsible for providing governance and oversight by ensuring Square AU
+implements an effective AML/CTF program, manages risks, and complies with
+reporting obligations.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+7
+
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Square | Anti-Money Laundering & Counter-Terrorism Financing Program
+● Block | Activation Customer Risk Rating Program
+● Square | Continuous Customer Risk Rating Program
+● Square | Financial Crimes Transaction Monitoring Program
+● 2024 Global Geographic Risk Ratings Methodology & Program | Block
+● Square AU ECDD Procedures
+● AU Suspicious Matter Report Procedure
+● 2025 Country Risk Rating
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+JING WANG Square AU Creation January 31,
+Compliance 2020
+Program
+Manager
+Ying Li Square AU CCO Initial Appr… January 31,
+2020
+Ying Li Square AU CCO Material Ch… April 15, 2020
+Lance Howard Square AU CCO Scheduled … Updated scoring time May 7, 2020
+from 1 business day to
+2 business days.
+8
+
+Lance Howard Square AU CCO Scheduled … May 7, 2021
+Lance Howard Square AU CCO Scheduled … May 13, 2022
+Lance Howard Square AU CCO Material Ch… Updated and included June 28, 2022
+summary on Activation
+Customer Risk Rating
+Model.
+Sydney Nam Block Policy Immaterial … Migrated document to December 16,
+Governance new template and 2022
+Coordinator made immaterial
+updates to document.
+Lance Howard Square AU CCO Immaterial … January 5,
+2023
+JING WANG Square AU Scheduled … Update the program to June 19,
+Compliance consume the new
+Program Customer Risk Scoring
+Manager Program
+Lance Howard Square AU CCO Material Ch… June 19, 2023
+JING WANG Square AU Scheduled … Annual review of November 17,
+Compliance document. 2023
+Program
+Manager
+Lance Howard AML/CTF Scheduled … Annual review of November 23,
+Compliance document. 2023
+Officer
+JING WANG Square AU Scheduled … Minor update to May 21, 2024
+Compliance remove sole prop
+Program charities section
+Manager
+JING WANG Square AU Scheduled … Annual review of Dec 11, 2024
+Compliance document
+Program ● Added in ECDD
+Manager measures required
+Lance Howard Square AU CCO Scheduled … ● Updated High risk Dec 11, 2024
+countries in
+Intrinsic rule and
+using Block Global
+Risk Rating
+9
+
+Scorecard to
+identify high risk
+country
+JING WANG Square AU Scheduled … Annual review of March 24,
+Regulatory document 2026
+Program ● Update about
+Manager treatment on
+high risk PEP
+● Update about
+ECDD
+Lance Howard Square AU CCO Material Ch… March 25, 2026
+measures
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Financial Crimes
+Document Owner Compliance AU Program Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+10

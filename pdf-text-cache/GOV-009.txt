@@ -1,0 +1,357 @@
+Custody and Liquidity Management Policy
+Block Inc.
+Last Approved: Mar 25, 2026
+Effective Date: Mar 25, 2026
+1. Overview
+Introduction and Purpose: This Policy outlines the principles and practices for the custody and
+liquidity management of Supported Digital Assets at Block, Inc. ("Block"). The implementation of
+these principles and practices ensure that Block both abides by the laws and regulations that its
+Supported Digital Assets products are subject to and adopts industry-leading standards and best
+practices. The development, approval, implementation and ownership of these principles and
+practices are primarily the responsibility of the Supported Digital Assets Platform Team (“BitPlatˮ
+Team).
+The core standards and best practices are anchored in five key areas: Infrastructure, Security,
+Trading, Operations and Integrity. Each area is managed by dedicated teams with specialized
+expertise in their respective domains.
+In collaboration with the BitPlat Team and Business Partners, the Block Risk and Controls Team has
+memorialized the principles and practices documented in this Policy.
+Block is required to conduct business in compliance with all applicable laws and regulations. The
+purpose of this Policy is to document Blockʼs principles and practices so as to evidence
+compliance with such applicable laws, regulations, industry standards and agreed upon best
+practices.
+Scope: The Policy sets out Blockʼs approach for and is applicable to the custody and liquidity
+management of Supported Digital Assets.
+1
+
+Definitions:
+Terminology Definition
+Cold Storage Cold Wallets are self-custodial and used to store digital assets offline.
+Also known as
+Cold Wallets)
+Custody The act of safeguarding digital assets.
+Gateway Wallet Gateway Wallet is a hot wallet that we refer to as “gatewayˮ because it's only
+used for transfer out of Cold Storage. The wallet is used by Treasury to
+interimly hold funds with the intention of eventually moving some or all funds
+to the Hot Wallet.
+Hot Storage Hot Wallets are connected to the internet and are used to store, send and
+Also known as receive digital assets.
+Hot Wallet)
+Joiners, Movers A process that manages the entire lifecycle of an organizationʼs employee.
+and Leavers This consists of new hires Joiners), internal transitions Movers and
+(“JMLˮ) departures Leavers).
+Staff Members An employee or external worker (e.g., contingent labor, contractors) hired
+Also referred as by Block, Inc. who supports the operations covered by this Policy.
+Staff)
+Supported Supported Digital Assets are limited to cryptocurrencies that are supported
+Digital Asset and operationally managed by Blockʼs Bitcoin Platform Team in coordination
+with its partners.
+2. Policy Requirements
+2.1. Custody Management
+In accordance with relevant laws and regulations; Block is responsible for deploying technology
+infrastructure, security and operational mechanisms that ensure responsible processing, handling
+and safekeeping of information within its ecosystem. Processing, handling and safekeeping of
+Supported Digital Assets, within Blockʼs ecosystem, is managed with technology components,
+security prevention and detection methods and operational support and enforcement.
+2
+
+2.1.1 Infrastructure
+Technology infrastructure, which is composed of hardware, software and networks, enables
+systems, staff and customers to perform operational actions across Blockʼs ecosystem.
+The Platform Engineering Team designs and implements the necessary infrastructure to participate
+across both Block and Supported Digital Assetsʼs ecosystems collaboratively and responsibly. The
+teamʼs remit includes the following:
+● Build, implementation and maintenance of infrastructure in accordance with policies and
+standards;
+● Build, implementation and maintenance of Supported Digital Assets storage options: Cold
+Storage, Gateway Wallet and Hot Storage;
+● Development, implementation and maintenance of code, which enforces business logic
+rules regarding:
+○ Asset Segregation
+○ Custody, withdrawal and transfer
+○ Settlement
+○ Reconciliation
+○ Liquidity Management and;
+● Ensures the availability and reliability of the infrastructureʼs components.
+2.1.2 Security Engineering
+Cybersecurity teams are responsible for protecting Blockʼs technology ecosystem and the
+sensitive data that it intakes, processes and stores. This is accomplished by implementing security
+measures that ensure technical and operational standards and practices are in place to
+immediately mitigate potential breaches to Blockʼs infrastructure.
+The Security Engineering Team designs, implements and maintains safeguards, specific to Blockʼs
+Supported Digital Assets products, that mitigates potential breaches and suspicious activity. At
+times, the Security Engineering Team relies on or collaborates with other internal cybersecurity
+teams to design, implement and maintain security measures. The team is responsible for:
+● The creating, storing and management of cryptographic keys;
+● Designing, implementing and maintaining code that enforces business logic for user roles
+and their access;
+● Continuous monitoring of infrastructure to identify potential security threats, unusual
+behaviors and/or unauthorized access and;
+● Penetration Testing; which allows Block to proactively find and fix security issues before
+malicious attacks can occur.
+2.1.3 Custody Operations
+The Business Operations Teams, at Block, manage the day-to-day operations of their assigned
+remit. These teams are typically responsible for developing and operationalizing processes that
+3
+
+support, enforce and maintain adherence to relevant laws and regulations, Blockʼs Policies and
+Standards and business goals.
+The Custody Operations Team is responsible for the operational handling of Supported Digital
+Assets stored and transferred across Blockʼs ecosystem. This includes:
+● Develop processes and business rules that support and enforce the operational handling of
+Supported Digital Assets; including storage and transfer of Supported Digital Assets across
+wallets and Service Level Agreements SLAs;
+● Ensure wallets maintain a sufficient amount of Supported Digital Assets, as identified in
+documented policies, procedures and/or processes;
+● Identify, train and monitor Operators;
+● Manage notifications, to relevant teams, of Leavers, Joiners and Movers JML)and;
+● Lead engagement of internal and external auditors and compliance professionals.
+2.2. Liquidity Management
+Supported Digital Assets trading involves the buying and selling of cryptocurrency. Assets
+allocated for buying and selling activities are stored in Blockʼs hot wallets. These wallets are
+constantly connected to the internet and are primarily used for quick access; which makes it ideal
+for frequent trading and everyday transactions.
+The Trading Operations Team is responsible for monitoring buy and sell activities. By monitoring
+these activities, it allows the team to ensure hot wallets have sufficient liquidity to accommodate
+both Blockʼs and its customerʼs trading activities. In partnership with Blockʼs Treasury Team, the
+Trading Team is responsible for ensuring hot walletsʼ liquidity by developing and maintaining
+processes and procedures that:
+● Identify and facilitate onboarding of liquidity providers. These partners are engaged so that
+Block can buy and sell Supported Digital Assets. Liquidity partners typically are OTC desks,
+market makers or prime brokers;
+● Ensure sufficient liquidity is maintained in the hot wallets;
+● Ensure trades are settled in a timely fashion;
+● Document audit and reconciliation activities and reporting of Block and customer owned
+Supported Digital Assets and;
+● Mitigate pricing risks.
+2.3. Business Partners
+In order to satisfy the requirements documented in this Policy, some reliance may be placed on
+other internal Block teams to support and enforce the operational activities, continuity and
+availability of Blockʼs Supported Digital Assets ecosystem.
+4
+
+2.3.1 Funding
+The Treasury Team supports the processing of transfers, withdrawals and both the reconciliation
+and settlement of funds. Operational support comes in the form of funding wallets, reconciliation
+and settlement activities. The roles, responsibilities and support activities are documented in
+Treasuryʼs policies, processes and procedures. The Supported Digital Assets operational support
+that falls in Treasuryʼs remit includes:
+● Wallet funding and funding management protocols and enforcement;
+● Reconciliation of wallet and ledger balances and;
+● Settlement of transactions with liquidity providers.
+2.3.2 Continuity and Reliability
+To ensure both operational continuity and the reliability of infrastructure components, in addition to
+complying with Blockʼs obligations under Title 23 of the New York Codes, Rules and Regulations
+(“NYCRRˮ) 200.17, operational and technical teams are required to participate in annual business
+impact analysis BIA processes; owned by Blockʼs Global Business Resilience Team. These
+assessments are a key input into providing assurances that Block has the necessary capabilities to
+recover in cases of disruption.
+Blockʼs Supported Digital Assets core and support teams adhere to the policies, processes and
+procedures set forth by Blockʼs Business Resilience teams, which provide assurance of operational
+continuity and disaster recovery capabilities; in cases of operational disruption. Related policies
+include, but are not limited to Blockʼs Disaster Recovery Policy and Blockʼs Global Business
+Resilience Policy.
+2.3.2.1 Business Continuity
+To ensure operational continuity; operational functions across Block are required to participate in
+the Business Impact Assessment BIA process. The process, which is documented and owned by
+the Business Continuity Team, assesses operational teamsʼ capabilities to continue in event of
+disruption. Blockʼs operational teams participation frequency, assessment and documentation of
+risks, gaps and responses are owned and driven by the Business Continuity Team. The output of
+the participation, commonly known as the Business Continuity Plan BCP, is created and owned
+by the Global Business Continuity Team. The BCP is shared with the operational teams and serves
+as a requirement; in cases of operational disruption.
+2.3.2.2 Disaster Recovery
+To ensure the reliability of technical infrastructure, in cases of disruption that impacts
+infrastructure components, Blockʼs technical teams are required to adhere to the requirements
+listed in Blockʼs Global Disaster Recovery Policy. The Policy details requirements that must be
+considered when responding and recovering from significant events or disasters impacting
+technology components. The Policy requirements, identified below, speak to technology
+assessments that are performed as necessary inputs into disaster planning:
+5
+
+● Inventory Assessment
+● Risk Assessment
+● Business Impact Assessment
+The output from the assessment, commonly known as the Disaster Recovery Plan, is shared with
+the technical teams and serves as a requirement; in cases of disruption.
+2.4. Risk Management
+Risk Management of the Supported Digital Assets ecosystem is jointly owned by Business,
+Operational, Legal, Regulatory, Risk and Audit Teams. These teams, in partnership, ensure the
+soundness and effectiveness of the ecosystem. The key risk management inputs used to measure
+and ensure ecosystem soundness and effectiveness are Governance, Oversight and Assurance.
+2.4.1 Governance
+Proper governance ensures that risk-based frameworks and standards are in place; so that work
+being performed is in alignment with strategic, legal and regulatory objectives. These frameworks
+and standards also identify Directly Responsible Individuals DRIs who are accountable for
+ensuring that the requirements documented in governance documents are executed accordingly.
+Currently, Governance is the shared responsibility of the Business, Operations and Risk Teams.
+Each team is entrusted to design bespoke frameworks that guide decision making and
+implementation and/or standards that define specific measurable requirements.
+Supported Digital Assets specific frameworks and standards are limited to the following teams and
+are designed within the constraints of Blockʼs global policies:
+● Product Management ensures that products and services are developed in a structured
+process, resulting in products that both meet customer needs and achieve Blockʼs strategic
+goals;
+● Platform Integrity ensures the Bitplat platform is operating ethically, securely and is in line
+with its intended purpose and;
+● Risk and Compliance Teams set the overall approach of how risk will be managed.
+2.4.1.1 Regulatory and Legal Advisory
+The governance teams engage with Blockʼs Legal and Regulatory Foundational teams, when
+appropriate, to seek guidance as it relates to laws and regulations that impact how governance is
+exercised.
+2.4.2 Oversight
+Risk and Compliance Teams provide oversight by designing and implementing processes that
+monitor and ensure compliance with global policies, bespoke risk management frameworks and
+standards.
+6
+
+Compliance with these policies, frameworks and standards are reported to the Audit, Risk and
+Compliance Committee ARC.
+2.4.3 Assurance
+Internal Audit, External Auditors and/or Risk Management teams provide confidence, also referred
+to as Assurance, that the business controls in place enforcing operational requirements are
+adequately designed and operating effectively.
+Assurance is acquired primarily through control testing. Control testing results are shared with the
+business, risk partners and ARC. Control testing reporting highlights the effectiveness or
+ineffectiveness of the businessʼs control environment.
+2.5. Document Owner
+This document is owned by the Business Product Compliance and Partnerships, Bitcoin Lead.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Audit, Risk and Compliance Committee ARC
+○ A committee, comprised of senior leaders at Block that is responsible for regulatory
+compliance, risk management and internal controls oversight.
+● Bitcoin Platform Team Also known as the BitPlat Team)
+○ The BitPlat Team consists of: Custody Operations, Operators, Platform Integrityand
+Trading Operations. Collaboratively, these teams are responsible for the operational
+capabilities that support the custody and liquidity management of Supported Digital
+Assets at Block.
+● Bitcoin Engineering Team Also known as BitPlat Engineering)
+○ Responsible for providing technical infrastructure that supports custody and
+trading operational activities.
+● Business Partners
+○ The Bitcoin Platform Team collaborates with several internal Block teams to execute
+operational activities, ensure ecosystem resiliency, and implement effective and
+compliant risk management practices. These teams include: Global Business
+Resilience, Global Disaster Recovery, Regulatory, Counsel, Risk and Compliance
+and Treasury Operations.
+● Custody Operations Team
+○ Responsible for the operational handling of Blockʼs supported digital assets.
+● Global Business Resilience Team
+7
+
+○ Responsible for ensuring that Block Product and Functional teams are able to
+continue operations in the event of an operational disruption through the
+development of Business Continuity Plans BCPs based on product level business
+impact analysis BIAs.
+● Global Disaster Recovery Team DR Team)
+○ Responsible for ensuring a structured approach for planning, responding to, and
+recovering from significant events or disasters impacting systems and applications
+that disrupt business operations.
+● Operators
+○ Certain internal Block Staff Members responsible for providing authorized,
+in-person, multi-signature transfer of Supported Digital Assets between the Cold
+Wallets and Gateway Wallets.
+● Platform Integrity Team
+○ Responsible for designing, implementing and maintaining preventive and detective
+measures that ensure the security, reliability and trustworthiness of the Supported
+Digital Assets platform.
+● Regulatory and Counsel Teams
+○ Responsible for providing advisory services and guidance to teams that support
+Blockʼs Supported Digital Assets product offerings and supporting processes and
+technologies.
+● Risk and Compliance Teams
+○ Responsible for managing Blockʼs governance, risk and compliance efforts.
+● Security Engineering Team
+○ Primarily responsible for designing and implementing code that protects Block
+systems and the customers that use its systems from external attackers and
+internal compromise.
+● Trading Operations Team
+○ Responsible for both identifying and evaluating banking and liquidity partners,
+trade execution and managing liquidity for hot wallets.
+● Treasury Operations Team
+○ Responsible for the withdrawals and settlement of all digital assets and related USD
+transactions.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+8
+
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+Review related documents:
+● Block Disaster Recovery Policy
+● Block Global Business Resiliency Policy
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+9
+
+Approval History:
+Approver Title Type Description Date
+Tina Brister Risk and Controls, Creation Initial creation of February 10, 2025
+Program Manager document
+Laurence Ad… Head, BitPlat Initial Appro… Initial creation of March 20, 2025
+Platform document
+Kelly Zigaitis Head of Initial Appro… Initial creation of March 20, 2025
+Compliance, document
+Emerging
+Business
+Compliance Committee Initial Appro… Initial creation of April 1, 2025
+Policy document
+Committee
+Compliance Compliance Scheduled R… Non - material March 25, 2026
+Policy Policy Committee changes to
+Committee provide clarity;
+changed
+document
+co-ownership
+from Kelly
+Zigaitis and
+Laurence Ad…
+to Liat Shetret ;
+updated Support
+Digital Asset
+definition from
+Bitcoin only to be
+inclusive of all
+cryptocurrencies
+that are
+supported and
+operationally;
+managed by
+BitPlat;
+Document Details:
+Business Block
+Scope Global
+Compliance Domain Governance
+10
+
+Document Owner Business Product Compliance and Partnerships, Bitcoin
+Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+11

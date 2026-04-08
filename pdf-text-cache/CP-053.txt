@@ -1,0 +1,557 @@
+○
+Complaints Standard
+Cash App (U.S) | Block, Inc.
+January 2025
+LastApprovalDate
+
+Confidential
+Table of Contents
+TableofContents 2
+Definitions 3
+1.Introduction 6
+2.Purpose 6
+3.Scope 6
+4.StandardRequirements 6
+4.1GeneralPrinciples 6
+4.2ComplaintIdentification,ResponseandResolution 7
+4.3ComplaintTrackingandLoggingProcess 8
+4.3.1ComplaintLogs 8
+4.3.2ComplaintTiering 9
+4.3.3LegalTagging 9
+4.4ComplaintTrendReporting 13
+4.5RootCauseAnalysis 13
+5.RiskManagementControls 13
+6.QualityManagement(“QM”) 14
+7.DocumentManagement 15
+7.1DocumentOwner 15
+7.2ReviewandApproval 15
+8.Training 15
+8.1CustomerOperationsTraining 15
+8.2CCOTComplaintServicingTraining 16
+8.3CCOTOngoingComplaintServicingTraining 16
+9.StandardMonitoringandReporting 16
+10.Exceptions 16
+11.RecordRetention 16
+12.RelatedDocumentationorReferences 17
+13.RevisionandApprovalHistory 17
+14.DocumentDetails 17
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+2
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+BankingPartner CashAppengageswithbankpartnersandotherthirdpartiestoofferproducts
+andservicesandmayhavecontractualobligationssetbythosepartnerswith
+whichCashAppmustcomply.
+Complaint Anexpressionofdissatisfactionorgrievance(oralorwritten)byanindividual,
+businessentity,orsomeoneauthorizedtoactontheirbehalf,withaCashApp
+product,process,service,decision,vendor,orinteraction,regardlessofthevalidity.
+Complaintsaremorethanjustthe‘words’butalsoareidentifiedbythetoneofand
+intentionbehindthecustomeroutreach,aswellassentimentsofabreachinthe
+business’responsibilities.ComplaintsmayalsoincludeallegationsthatCashApp
+engagedinwrongfulorunfairconduct.
+AComplaintdoesnotinclude:
+● AnexpressionofdissatisfactionwithrespecttomattersotherthanCash
+App’sproductsorservices;
+● Anexpressionofdissatisfactioncommunicatedwithinsurveyresponses;
+● Anexpressionofdissatisfactioncommunicatedviaautomatedaccount
+reviewandcommunicationmechanisms;
+● Disputesofauthorizedorerroneouselectronicfundstransfers,whichare
+handledthroughadistinctprocessaccordingtorelevantpoliciesand
+procedures;
+● ThirdpartiesnotinpurviewofCashApp.
+Consumer Consumerreferstoanindividualwhoisanaturalpersonwhoobtainsorhas
+obtainedafinancialproductorservicefromCashAppforpersonaluse.
+ConsumerHarm AnyactualorpotentiallossorinjurytoaConsumer,whetherfinancialor
+non-financial,thatmaybecausedbytheviolationoffederalorstateConsumer
+protectionlawsorregulations,orbyweaknessesinthecompliancemanagement
+system.
+Dispute AConsumer’sclaimthatanelectronicfundstransferfromtheiraccountwas
+unauthorized,incorrect,ornotexecutedasintended,ADisputeisoutsidethe
+scopeofthedefinitionofComplaint.
+EarlyResolution Grievancesthatcanbeaddressedswiftlyandefficientlywithminimaladditional
+Complaints evidenceorinformationfromthecustomer.TheseComplaintsaretypically
+resolvedthroughquickactions,suchasbillingadjustmentsorcredits,aimedat
+enhancingcustomersatisfactionandgoodwill.
+FormalComplaint Astructuredapproachtoaddressingcustomergrievancesthatcannotberesolved
+Response throughearlyresolution.TheseComplaintsarehandledpromptlyandcourteously,
+withconsiderationgiventotheirseveritytier.Theprocessinvolvesathorough
+investigationanddocumentation,ensuringacomprehensiveandfairresponse.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+3
+
+Confidential
+LegalTag AclassificationusedtoidentifyandcategorizeComplaintsthatinvolvepotential
+legalissuesorhavelegalimplications.
+ServiceLevel Themaximumallottedtimeforintake-to-resolutionofConsumerComplaints.SLAs
+Agreement(“SLA”) aremeasuredinbusinessdays,unlessotherwisedeterminedbyathirdparty.
+Unfair,Deceptiveor ThestandardoffairnesspursuanttotheDodd-FrankActthatprotectsConsumers
+AbusiveActsor fromunfair,deceptive,orabusiveactsorpracticesthatcancausesignificant
+Practices(“UDAAP”) financialinjurytoConsumers,erodeConsumerconfidence,andunderminethe
+financialmarketplace.ConsumerComplaintsplayakeyroleindetectingUDAAP
+violations.
+RolesandResponsibilities
+Role Responsibility
+CashAppCustomer TeamswithinCashAppthatoverseeallcustomersupportfunctions,including
+Operations(“CCO”) engagingdirectlywithConsumerstoprovideservice,solutions,andsecurity.
+TheseteamsmayalsoserviceComplaintsviaEarlyResolution.
+CashComplaint AteamwithinCustomerOperationsthatdirectlyservicesinternalandexternal
+OperationsTeam CashAppComplaintsandcustomersupportescalationviaFormalComplaint
+(“CCOT”) Response.
+CashAppConsumer Responsiblefor:
+ProtectionCompliance ● EnsuringthisStandardanditsaccompanyingProgramreflectindustry
+ProgramLead bestpracticesandapplicableregulatoryguidance;
+● Ensuringregulatoryrisksareidentifiedindocumentation;
+● Providingandcommunicatingrolesandresponsibilitiestorelevant
+stakeholdersincludingbusinesspartners;
+● Provideoversightandguidancetobusinessunitsinimplementing
+Standardrequirements;
+● Conductingperiodicreview(s)oftheStandard;and
+● Delegatingandoverseeingdocumentationrequirements,asneeded.
+CashAppConsumer Responsiblefor:
+ProtectionCompliance ● Servingasasubjectmatterexpertforcontentrelevanttothis
+ProgramManager(s) Standard;
+● Provideoversightandguidancetobusinessunitsinimplementing
+Standardrequirements;and
+● ConductingperiodicreviewsoftheStandard.
+CashAppHeadof Responsiblefor:
+Compliance ● Ensuringappropriateresourcesandsupportareavailabletoimplement
+thisStandard;
+● ServesasanescalationpointformattersrelatedtothisStandard;
+● EnsuringthatappropriateWorkforcearetrainedonrelevanttopicsfrom
+thisStandardatleastannuallycommensuratewiththeirroles
+andresponsibilities.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+4
+
+Confidential
+● Asappropriate,theHeadofCompliancemaydelegatetheabove
+responsibilitiestorelevantSeniorManagement,theCashApp
+ConsumerProtectionComplianceProgramLeadorComplianceStaffwh
+informandescalatekeyrisksandIssuestotheHeadofCompliance.
+CashApp CashAppRepresentativesinteractdirectlywithaCashcustomerviathe
+Representative company’sofficialchannelstohandleandresolveComplaints.Representatives
+areabletoresolveTier3Complaints,andescalateTier2and1Complaints.
+Counsel CashApp’slegalcounselprovidesinterpretativeadviceandcounselregarding
+theapplicabilityandapplicationoftherequirementsofthisStandardtoCash
+App’sbusinessandoperationalactivities.
+ManagerEscalation ManagerEscalationTeamSpecialistsareresponsibleforresolvingTier2
+Team(“MET”) ComplaintsandapprovingtheescalationofTier1Complaints.METalso
+investigatesreopenedComplaints.
+QualityManagement TeamthatreportsinternallyandexternallyonthehealthandqualityofCustome
+(“QM”) Operationsbusinessunitsusingacoresetofmetricsandmeasurements.
+Workforce Responsiblefor:
+● Conductingday-to-dayproceduresandexecutingComplaint
+managementproceduresincludingComplaintintake,investigation,
+andresolution.
+● Understandingandcomplyingwithapplicablelawsandregulationsfor
+thisStandard;
+● Completinganyrequiredcompliancetraininginatimelymanner;and
+● Promptlyreportingactualorsuspectedviolationsoflawsorother
+requirements.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+5
+
+Confidential
+1. Introduction
+This Complaints Standard (“Standard”) outlines the overall strategy and approach that Cash App, a line of
+business under Block, Inc.(“Block”),takestotheintake,investigationandresolutionofComplaints.TheCash
+AppConsumerProtectionLeadisresponsibleformanagementofthisStandard.
+2.Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Standard is to further Cash App’s framework for the intake, investigation and resolution of Complaints in a
+fair and consistent manner. Following the expectations of Block’s Global Complaint Program Standard, the
+maintenance of this Standard proactively complies with legal, regulatory, and contractual requirements
+governingComplaintmanagement.
+3.Scope
+This Standard is established for Cash App, a line of business under Block,andisapplicabletomanagement
+of Complaints alleged against Cash App received both internally and externally. ExclusionstothisStandard
+include Complaints received for Cash App’s investment services; Cash App’s lending products andservices;
+Cash App Taxes product or services; initial service Disputes, including chargebacks or allegations of
+unauthorized transactions; and Complaints received concerning Block, Inc. and its other subsidiaries. Cash
+App has protocols and procedures designed to ensure the detection and appropriate resolution of
+Complaintsfortheseexclusions.
+4.Standard Requirements
+This Standard provides the strategy and approach for Complaint management at Cash App which aligns to
+the Block GlobalComplaintProgramStandardandBlockGlobalComplaintPolicy.ThisStandardoutlinesthe
+governance,intake,andComplaintclassificationandcategorizationforCashApprelatedComplaints.
+4.1 General Principles
+Cash App receives Consumer Complaints from various sources and in various forms with respect to its
+services and ensures that Consumersaretreatedfairly,respectfully,andconsistently.ConsumerComplaints
+may help Cash App detect any Unfair, Deceptive, or Abusive Acts or Practices (“UDAAP”) as documentedin
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+6
+
+Confidential
+sections 1031 and 1036 of the Dodd-Frank Act, which can result in Consumer Harm. Consumer Harm is any
+actual or potentiallossorinjurytoaConsumer,whetherfinancialornon-financial,thatmaybecausedbythe
+violation of federal or state Consumer protection laws or regulations, or by weaknesses in the compliance
+managementsystem.
+ComplaintsmayassistCashAppindetecting:
+● Violations of law including, but not limited to federal and state privacy laws (as applicable) and
+Consumerprotectionlaws(asapplicable).
+● Potential violations of statutes, rules, guidance, and principles established byrelevantagencies,
+such as the US state financial regulators, the Federal Trade Commission (“FTC”), and the
+ConsumerFinancialProtectionBureau(“CFPB”).
+4.2 Complaint Identification, Response and Resolution
+CashAppmayreceiveConsumerComplaintsfromvarioussourcesincluding,butnotlimitedto:
+● Consumers who contact Cash App customer service directly via email, social media, written
+correspondence,chat,orphone.
+● NotificationsofcustomerComplaintsfromaregulatororotherapprovedthird-party.
+Consumer Complaints that Cash App receives will be directed to a trained customer service representative
+for resolutionandresponse.CashAppwilltakereasonablestepstoidentifyandresolvetheComplaintbased
+on information available within the appropriate SLA. External Consumer agency and regulator Complaints
+willadheretoSLAexpectationsestablishedbytherelevantagencyorregulator.
+Cash App’s Banking Partners may receive Complaints directly in relation to the Banking Partner products,
+andCashAppwillmonitorandrespondtotheseComplaintswithintheappropriateSLA.
+The appropriate Workforce will be charged with investigating and addressing each Complaint, as well as
+providing responses to Consumers and regulators as appropriate, pursuant to Cash App’s established
+procedures. Cash App Complaints Leadership is responsible for the management of and/or overseeing this
+process, in line with roles and responsibilities outlined in procedures. This includes appropriate escalation
+and tracking as addressed below.AllComplaintsmustberespondedtopromptly,consideringtheseverityof
+theComplaintandtheextentofinvestigationrequiredtoprovideasufficientresponse.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+7
+
+Confidential
+4.3 Complaint Tracking and Logging Process
+Cash App reviews, addresses and responds to eachComplaintappropriatelyconsideringthecomplexityand
+urgency of each Complaint. In order to ensure compliance with that objective, Cash App implements a
+tracking and monitoring procedure designed to capture each Complaint, the resolution of each Complaint
+andthetimerequiredforresolutionofeachComplaint.
+4.3.1ComplaintLogs
+CashAppmaintainsalogofallComplaints,whichcontains,atminimum,containsthefollowing:
+● HighlevelcategorizationofproducttypeandprimaryissueraisedineachConsumerComplaint;
+● ThecurrentstatusoftheConsumerComplaint;
+● The severity of the Consumer Complaint, which will consist of a tier designation (Tier 1, Tier 2,
+Tier3);
+● Ifclosed,acategorizationoftheresolutionforeachConsumerComplaintreceived;
+● For each resolved Complaint, sufficient information to determine the number of business days
+requiredforclosure;
+● ThedatetheComplaintwasreceivedandclosed;
+● Intakechannel;
+● Complaintinvestigator;
+● Stateandcountry/jurisdiction;and
+● LegalTag.
+For Complaints that receive a formal investigation, acknowledgement, and response, the Complaint Log
+includes:
+● ThedatetheComplaintwasformallyacknowledged;
+● ThepreliminarycategorizationofthecauseoftheComplaint;
+● Rootcausecategorization;
+● WhethertheComplaintwasescalatedtolegal/compliance,andifso,thedateofthatescalation;
+● If closed, high level descriptionandcategorizationoftheresolutionofeachConsumerComplaint
+received.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+8
+
+Confidential
+4.3.2ComplaintTiering
+Complaints are classified in Tiers, in alignment with the Block Global Complaint Program Standard, as
+follows:
+Terminology Definition
+● SourceoftheComplaintorcorrespondenceisaGovernmentOfficial,
+GovernmentAttorney,orAttorneyrepresentingtheConsumer;
+● SourceoftheComplaintisaRegulator,ComplaintAuthority,or
+ConsumerAdvocacyAgency;
+● Complaintsenttothelegalentityforthebusinessunit,boardmember,
+CEO/Executive,orSeniorLeader;
+Tier1
+● Complaintallegesviolationofalaworregulation,includingprivacy
+(HighRisk)
+violationsorallegationsofunfair,deceptive,abusive,ordiscriminatory
+treatment(asdefinedbyUDAAPandFairLendingregulationswhere
+theseregulationsareapplicable);
+● ComplaintallegesIPinfringement;
+● Complaintpresentsareputational,systematicrisk,highrisk,orhighly
+complexissuerequiringspecializedreview1.
+● ComplaintisareopenedComplaint(sameorrelatedissuetoaprior
+Tier2
+Complaint);
+(MediumRisk)
+● Complaintsescalatedtoasuperior.
+Tier3 ● Complaintsthatdonotrequireescalationorspecializedsupportto
+close.
+(LowRisk)
+4.3.3LegalTagging
+The list of applicable Legal Tags, which identify and categorize Complaints that involve potential legal
+issuesorhavelegalimplications,isasfollows:
+1 Specialized review within the context of the Standard will be applicable to Complaintsinwhichanescalatedsupportor
+specializedknowledge(Legal,Compliance,Risk)isrequiredtoproperlyrespondtoorresolvetheComplaint.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+9
+
+Confidential
+LegalTagging Description
+AbusiveCustomer AConsumerwhoseComplaintinvolvesracialandethnicslurs,homophobic
+languageandslurs,sexistlanguage,harassinglanguage(suchassexual
+harassment),orthreatsofharmorabusetothemselvesorourWorkforce.
+Dispute AConsumer’sclaimthatanelectronicfundstransferfromtheiraccountwas
+unauthorized,incorrect,ornotexecutedasintended,ADisputeisoutsidethe
+scopeofthedefinitionofComplaint.
+Pleasenote:ThistagshouldbeusedwhenConsumersarealleging
+dissatisfactionorissueswiththeDisputeprocess,notmerelyfilingaDispute
+itself.
+Fraud/IDTheft Wrongfulordeceptiveactivityintendedtounlawfullyobtainmoneyorother
+valuablesortheunauthorizeduseofpersonalinformationforfinancialgain.
+● Fraud:Intentionaldeceptionormisrepresentationbyapersonorentity
+togainunfairadvantageforfinancialgain.Inthesecases,itis
+commonthattheConsumerhasneverhadarelationshipwiththe
+receiverofthefunds.
+● IDTheft:Unauthorizedacquisitionofaperson'sindividualinformation,
+suchasname,SSN,orfinancialinformationinordertocommitfraud
+orothercriminalactivities.
+IntellectualProperty Intellectualproperty(“IP”)InfringementiswhenaworkprotectedbyIPlawsis
+(“IP”)Infringement used,copied,orotherwiseexploitedwithouttheproperpermissionfroma
+personwhoownsthoserights.
+LitigationThreat Amateriallitigationthreatisastatementbyapartythattheyintendtotake
+legalactionthatmustbeaccompaniedbyanattorney'snameorcontact
+information,courtdocuments,orarealisticclaimthatthey'vefiledalawsuit.
+NoLegalTag NotallComplaintswillhaveaLegalTag.ThisoptionisusedwhennoLegal
+Tagisrequired.Itiscommonlyusedforexpressionsofdissatisfactionwhen
+nootherLegalTagisappropriate.
+Other
+Usedforanyotherlegalorregulatoryissuenotexplicitlycoveredbyanother
+Legal/Regulatory
+LegalTag.
+Issue
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+10
+
+Confidential
+LegalTagging Description
+PrivacyViolation Theuseorexposureofsomeone’spersonalinformationwithouttheirexpress
+permission,andcanincludethehandling,storage,orsharingofaConsumer’s
+personalinformation.
+ReputationRisk Thepotentialharmtoacompany'sreputationthatmayoccurwhenitsactions,
+decisions,orthebehaviorofitsWorkforceorproductsareperceived
+negativelybythepublic,customers,orstakeholders.
+Asreputationriskisabroadcategory,thistagisusedonlyifamorespecific
+issue(Fraud/IDTheft,IntellectualPropertyInfringement,LitigationThreat,
+PrivacyViolation,UDAAP,FairLending)doesnotapply.
+TheReputationRisktagonlyappliesiftheConsumerreferencesanexisting
+publishedreportwiththepotentialtoharmthecompany’sreputation.Itdoes
+notapplytoreferencestopostsonsocialmedia,nordoesitapplytothreats
+madebytheConsumerbeforeorduringtheinteractiontoharmthereputation
+ofthecompanybypostingonsocialmediaorcontactingamediaorganization.
+SystematicRisk Usedtoidentifyandmanageriskimplicationsassociatedwithhigh-severity
+(“SEV”)incidentsandwidespreadsystemfailuresthatposeasignificantrisk
+toanorganization'soperations,stakeholders,customersorthebroader
+market.Thistagisappliedtoincidentsthathavethepotentialtocause
+disruptionsthataffectentiresystemsorprocesses.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+11
+
+Confidential
+LegalTagging Description
+UDAAP Unfair,Deceptive,orAbusiveActsorPractices(“UDAAP”)isthestandardof
+fairnesspursuanttotheDodd-FrankActthatprotectsConsumersfromunfair,
+deceptive,orabusiveactsorpracticesthatcancausesignificantfinancial
+injurytoConsumers,erodeConsumerconfidence,andunderminethe
+financialmarketplace.ConsumerComplaintsplayakeyroleindetecting
+UDAAPviolations.
+ForthepurposesofidentifyingaUDAAPclaim,lookforsituationswhere
+customersclaimed:
+● Thattheywereharmed(eithermonetarilyorotherwise)inawaythat
+theycouldnotavoid,anditwasCashApp’sfault;and/or
+● TheConsumerclaimstheywereprovidedwithincorrectinformation
+(e.g.misled,tricked,deceived,liedto,etc.)whichharmedthem;and/or
+● CashApprepresentativesorproductstookadvantageoftheirlackof
+understandingorintentionallypreventedthemfromgettingthe
+informationtheyneededtomakeaninformeddecision.
+Forthepurposesofthistag,UDAAPalsocoversclaimsofdiscriminationfor
+non-lendingproducts.
+● DiscriminationclaimsinComplaintscanoccuratanypointinthe
+life-cycle(including,butnotlimitedto:advertising,marketing,
+application,servicing,orcollection)ofacredittransactionbasedon
+oneormoreofthefollowingprotectedclasses:
+● RaceorColor;
+● Religion;
+● Nationalorigin;
+● Sex;
+● Maritalstatus;
+● Age,aslongastheapplicantisabletoenterintoacontract;
+● Receiptofincomefromapublicassistanceprogram;
+● ExercisingrightsundertheConsumerCreditProtectionActingood
+faith;
+● Gender/genderidentity/genderexpression;
+● Sexualorientation;
+● Veteran/servicememberstatus;
+● Disability;
+● Pregnancy;
+● HIVStatus;
+● Ancestry;
+● ImmigrationStatus;or
+● AnyotherfactorunrelatedtotheConsumer'screditworthiness.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+12
+
+Confidential
+4.4 Complaint Trend Reporting
+Complaint trend reporting is an important process to understand the health of Cash App’s business, the
+strength of its Compliance program, and to identify opportunities to better serve Consumers and maintain
+compliance with applicable law. Cash App has documentation that outlines the reporting processes and
+analysis conducted on Complaint data, which is provided tostakeholderswithinCashAppinadherencewith
+theGlobalComplaintProgramStandardkeymetricsandrequirements.
+● The Complaint Insights function supports themonthlyreportingfortheCashAppU.S.Complaint
+Program. This reporting covers key metrics such as received and closed volumes, SLA
+adherence,andnotabletrendsinConsumerComplaints.
+● The monthly reports allow for analysis of emerging and existing trends; outline incoming and
+closed Complaint volumes; detail key risk metrics and performance indicators; and serve as a
+foundationforrootcauseanalysis.
+● Standardized reporting processes provide for consistent analysis and transparent data
+presentationtoenhancestrategydevelopmentandhighlightpotentialprocessimprovements.
+● The scope of this reporting includes all Complaint intake channels, product types, and locales
+within the jurisdiction of this Standard. The Cash App business may separate this monthly
+reporting into multiple reports for a given business, product type, or market, based onaudience
+and risk appetite. These reports are intended to provide information to the Global Complaint
+Program and stakeholders within Cash App, but may be used for a broader audience as
+necessary.
+4.5 Root Cause Analysis
+The Complaint Insights Team conducts analysis on trends, identifying pain points that drive Consumer
+Complaints. By sampling Complaints based on severity and risk, they uncover potential gaps in Cash App’s
+products, services, or support processes. These gaps are escalated to a cross-functional group for
+discussion and prioritization. Material failures aredocumentedandremediatedpertheCustomerOperations
+IssueManagementProgram.
+5.Risk Management Controls
+Cash Appiscommittedtomaintainingthehigheststandardsofcomplianceandriskmanagementinhandling
+Cash App Complaints. To ensure the integrity and effectiveness of this Standard, Cash App maintains a
+comprehensive suite of risk management controls designed to identify, assess, and mitigate potentialrisks.
+Thesecontrolsincludebutarenotlimitedtothefollowing:
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+13
+
+Confidential
+● Data Privacy and Security: Sensitive Consumer information is safeguarded through
+measures that prevent unauthorized access andensurecompliancewithprivacyregulations,
+maintainingtheintegrityofConsumerdata.
+● Access and Authorization: Access to Complaint handling tools and systems is managed
+through role-based permissions and regular reviews, ensuring only authorized Workforce
+haveaccess.
+● Training and Competency Controls: The Workforce receives training on Complaint
+standards,regulations,andbestpractices,withregularevaluationstoensurecomplianceand
+continuousskillimprovement.
+● Quality Assurance and Oversight Controls: Assessments, including case reviews and trend
+analysis, ensure Complaint resolutions are accurate, complete, and compliant, fostering
+continuousimprovement.
+● Escalation andExceptionManagementControls:Structuredprotocolsguidethehandlingof
+complex Complaints and exceptions, ensuring they aredocumented,justified,andcompliant
+withguidelines.
+● Reimbursement and Financial Controls: Reimbursement processes involvetieredreviewsto
+ensureaccurateandaccountablehandlingofeligiblecases,reducingfinancialrisks.
+● Regulatory Compliance Controls: Compliance with regulations is maintained through
+monitored timelines, compliant communications, and collaboration with Counsel to minimize
+regulatoryrisks.
+● Continuous Improvement and Feedback Controls: Regular feedback, retrospectives, and
+gap analysis drive process enhancements, aligning operations with evolving standards and
+expectations.
+By maintaining a robust Complaint control inventory, Cash App supports compliant, secure, and
+Consumer-focusedComplaintmanagement.
+6.Quality Management (“QM”)
+The QM team reports internally and externally on the health and quality of Customer Operations business
+units, including Complaints Operations, using a core set of metrics and measurements. The QM team
+providesscoring,calibrationandre-reviewsasrequested.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+14
+
+Confidential
+7. Document Management
+7.1 Document Owner
+ThisdocumentisownedbytheCashAppConsumerProtectionComplianceProgramLeadortheirdesignee.
+7.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis inaccordancewith
+theComplianceDocumentApprovalMatrix.
+8.Training
+All relevant Workforce will receive training at leastannuallycoveringapplicablerequirementsandguidance
+toimplementthisStandardeffectively.
+Comprehensive training ensures compliant and consistentComplaintmanagementinordertobestservethe
+needs of Cash App Consumers. Cross-functional knowledge and experience is essential for a well-rounded
+Workforce and maintaining continuity. Trainingmaterialsanddocumentationaredevelopedandmanagedby
+Customer Operations Learning and Development (“L&D”), with inputfromapplicableSubjectMatterExperts
+(“SMEs”). Complaint training for Customer Operations and CCOT Workforce who support Complaints is
+typically administered at two occasions: during the onboarding process and on an annual basis. The
+onboarding and annual Complaints training is outlined below. Training functions to teach or refresh
+Complaints knowledge and requirements for Workforce who support Complaints, increasing adherence to
+ComplaintStandards.
+8.1 Customer Operations Training
+All Complaint facing and Complaint-adjacent workforce under Customer Operations are required to take
+Complaint training. This training covers elements of the Global Complaint Program including details on
+identifying and escalating Complaints. New members oftheworkforcearerequiredtocompletethetraining
+within 30 days of their hire date, or annually for existing workforce. Customer Operations workforce must
+meet minimum scoring requirements for all training. Training records are maintained in CashApp’slearning
+management tool Customer Operations Grow and monitored by Customer Operations and applicable
+businesses.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+15
+
+Confidential
+8.2 CCOT Complaint Servicing Training
+CCOT new hire training covers all areas of Complaint processes and procedures specific to their function.
+The training provides the processes to intake, investigate and resolve theComplaint.CCOTWorkforcemust
+meet minimum scoring requirements for all training and if not achieved, remediation is provided prior to
+servicing Complaints. All training attendance and assessment scores are documented in the CCOTTraining
+Bank or Looker for Customer Operations Grow data. Existing Workforce seeking to take on additional
+responsibilities may be required to complete additional training courses to serve as a cross functional or
+back-upresource.
+8.3 CCOT Ongoing Complaint Servicing Training
+CCOT conducts ongoing training for new and updated CCOT processes and procedures. Ongoing training
+varies based on the complexity of the change. Regardless of the complexity, all changes to processes and
+proceduresarecommunicatedtoexistingworkforcetomaintaincompetency.
+9.Standard Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related activities to
+evaluateadherencetotheStandardanddeterminewhetheroutputsadheretoestablishedobjectives.
+10. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Standard exceptionrequestsmustbedocumentedinwriting,includeareasonforarequest,and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Standard Governance
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicablecommittees,asneeded,ofexceptions.
+11. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordancewithregulatoryguidance-whicheverislonger.
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+16
+
+Confidential
+12. Related Documentation or References
+RelatedDocuments:
+RelatedStandard BlockGlobalComplaintProgramStandard
+RelatedPolicy BlockGlobalComplaintPolicy
+RelatedReferences:
+TheDoddFrankAct APA.Copy.124Stat.1376
+RegulationB,ECOA 12CFRpart1002
+13. Revision and Approval History
+StakeholderReviewTracking
+Approver TeamRepresented StakeholderStatus Date
+Amanda Florez CashComplaint Reviewed/Approv… Jan 6, 2025
+Operations
+Seyi Iwarere RegulatoryCounsel Reviewed/Approv… Dec 20, 2024
+ApprovalHistory
+Approver Title Type Description Date
+Brian Kollmeyer Consumer Creation Dec 18, 2024
+Protection
+Program
+ComplianceLead
+Jason Liberman InterimHeadof Initial Appro… Dec 31, 2024
+Compliance,Cash
+App
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+17
+
+Confidential
+14. Document Details
+Business CashApp
+Scope U.S.
+ComplianceDomain Consumer Protection
+DocumentOwner CashAppConsumerProtectionComplianceLead
+LastApprovalDate December31,2024
+EffectiveDate December31,2024
+ApprovedBy InterimHeadofCompliance,Cash
+App
+DocumentReviewSchedule Annually
+ComplaintsStandard|CashApp(U.S.)|Block,Inc.
+18

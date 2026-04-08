@@ -1,0 +1,280 @@
+Regulatory Change Management Standard
+Square | Square AU Pty Ltd
+Last Approved: Mar 29, 2026
+Effective Date: Mar 29, 2026
+1. Overview
+Introduction and Purpose: The landscape of the regulatory environment governing financial
+institutions in Australia is continually evolving. The ability to effectively navigate and promptly
+adapt to these regulatory changes is a critical requirement for Square AU Pty Ltd (“Square AUˮ) to
+mitigate associated legal, operational, and regulatory risks.
+The Regulatory Change Management Standard (the “Standardˮ) is designed to create a robust
+system for proactive monitoring, interpretation, and effective responses to changes in regulations.
+This Standard encompasses critical assessments, planning, implementation and monitoring
+processes to ensure Square AU is aligned with all relevant regulatory requirements. It also covers
+key elements such as identifying business stakeholders, assessing the impact of a regulatory
+change, developing plans to address changes, and actively monitoring these plans to ensure
+ongoing effectiveness.
+Scope: This Standard is established by Square AU and applicable to Covered Products offered by
+Square AU. This Standard is managed and maintained by the Square AU Compliance team and sets
+out the approach to design and execution Square AUʼs Regulatory Change Management Standard.
+The Standard also applies to material third-party vendors or fintech partners where regulatory
+change affects their activity on behalf of Square AU.
+Definitions:
+Terminology Definition
+Anti-Money A set of regulatory rules and investigative techniques aimed at preventing
+Laundering and combating various illegal activities related to the financial system
+(“AMLˮ)
+Counter-Terrorist A set of regulatory rules and investigative techniques designed to detect,
+Financing prevent and disrupt the flow of funds of terrorist organisations and activities.
+(“CTFˮ)
+1
+
+Counter- A set of regulatory rules and preventive measures designed to detect,
+Proliferation prevent and disrupt the flow of funds that could contribute to the
+Financing development, acquisition or transfer of nuclear, chemical or biological
+weapons and their means of delivery, in breach of international sanctions or
+United Nations Security Council resolutions.
+The Anti-Money As part of its broader regulatory compliance obligations, Square AU Pty Ltd
+Laundering and (“Square AUˮ) is required to comply with the AML/CTF Act 2006 Cth, as
+Counter-Terroris amended from time to time. The AML/CTF Act is designed to deter, detect
+m Financing Act and disrupt money laundering and terrorism financing.
+2006 (“AML/CTF
+Actˮ)
+AUSTRAC The Australian Transaction Reports and Analysis Centre (‘AUSTRACʼ)
+performs a dual role as AML and CTF regulator and financial intelligence unit.
+ASIC Australian Securities & Investments Commission (‘ASICʼ) is Australiaʼs
+integrated corporate, markets, financial services and consumer credit
+regulator. It is an independent body set up under the Australian Securities
+and Investments Commission Act 2001 ASIC Act) and carries out most of
+the work under the Corporations Act.
+ASO The Australian Sanctions Office (‘ASOʼ) is the Australian Governmentʼs
+sanction regulator.
+DFAT The Department of Foreign Affairs and Trade (‘DFATʼ) promotes and protects
+Australiaʼs international interests to support Australiaʼs security and
+prosperity.
+Covered Includes all products and services offered by Square AU Pty Ltd that require
+Products a financial services licence or registration to offer and must comply with local
+laws. Certain other products may also be considered Covered Products, such
+as where required under partner bank expectation and/or contractual
+obligation.
+2. Standard Requirements
+2.1. Regulatory Landscape
+Regulatory requirements may change in the future given the dynamic nature of the financial services
+industry and potential to expand Square AUʼs product offerings. While Square AU operates under
+Block Inc., responsibility for managing regulatory changes within the Australian jurisdiction rests
+exclusively with the Square AU Team. Australiaʼs key regulators and bodies for the financial
+2
+
+services industry, some of whom we actively monitor for regulatory change, are shown in the below
+table:
+Regulator Description
+ASIC Australian Security and Australiaʼs integrated corporate, markets, financial services and
+Investments Commission) consumer credit regulator. ASIC administers and enforces a range of
+legislation.
+AUSTRAC Australian AML/CTF regulator and FIU; administers the AML/CTF Act 2006,
+Transaction Reports and enforces reporting obligations TTR, IFTI, SMR, and AML program
+Analysis Centre) compliance.
+ASO Australian Sanctions Australian Governmentʼs sanctions regulator1, which sits within DFATʼs
+Office) Department of Foreign Affairs and Trade) Regulatory Legal Division in
+the Security, Legal and Consular Group. ASO works to ensure the
+efficient administration of Australian sanctions laws, consistent with
+Australiaʼs international obligations and foreign policy objectives.
+AFCA Australian Financial External dispute resolution scheme for financial services; decisions
+Complaints Authority) and determinations can create precedent and operational change
+requirements.
+ACCC Australian Competition Enforces the Competition and Consumer Act 2010, including the
+and Consumer Commission) Australian Consumer Law; regulates fair trading, surcharging rules,
+and anti-competitive conduct.
+2.2. The Regulatory Change Management Process
+Regulatory changes that may impact Square AU, including but not limited to those relating to
+AML/CTF or counter-proliferation financing, AFSL and licensing obligations, financial services or
+payments regulation or consumer protection, are actively monitored through trusted external
+sources such as the the federal register of legislation, ASIC newsletter and AUSTRAC InBrief
+Newsletter. The Square AU Team, including but not limited to Compliance, Legal and Risk
+areresponsible for monitoring the changes and documenting the changes in AU Regulatory Change
+Tracking and Management.
+A comprehensive register is maintained for:
+● All considered regulatory changes (including those deemed not applicable)
+● Dates of change, source, impact assessment, status, action owner, SLA for completion, and
+closure
+1 Any update to Australian sanctions laws is managed by Blockʼs third party screening vendors LexisNexis, and not tracked through
+the local regulatory change management process.
+3
+
+● Mapping of regulatory requirements to each Covered Product is maintained and reviewed
+semi-annually.
+Additionally, the Square AU Regulatory Program Manager, in conjunction with internal Legal Counsel,
+conducts a preliminary assessment to ascertain whether the regulatory change is relevant. Where
+applicable, an impact assessment will be undertaken, followed by a decision-making process to
+determine if modifications to existing programs and procedures are necessary. Where required,
+external Legal advice may be sought to ensure that the organisationʼs interpretation of regulatory
+requirements is accurate and that all proposed changes are both adequate and compliant with
+applicable laws and regulations.
+2.2.1 Actioning AUSTRAC guidance
+In particular, under AML/CTF regulations, Square AUʼs AML/CTF compliance officer must conduct a
+review of its risk assessment if AUSTRAC communicates information to Square AU or to its sector
+more broadly - including through published AUSTRAC guidance, that identifies or assess risk
+associated with the provision of Square AUʼs designated services.
+The risk assessment must be reviewed as soon as practicable after AUSTRAC communicates the
+relevant information. Any updates resulting from the review must be made as soon as practicable
+after the review is completed. Where updates are required, they must be approved by Square AU
+CCO.
+Square AUʼs AML/CTF compliance officer must notify the board in writing as soon as practicable
+after making any update to the risk assessment.
+Following the review of the risk assessment, Square AUʼs AML/CTF compliance officer must also
+review and, if necessary, update its AML/CTF policies as soon as practicable. Any updates must be
+documented in Square AUʼs AML/CTF Program, including the date the updates were made, within 14
+days of the update being implemented.
+The Square AU CCO is ultimately accountable for the management and oversight of the Regulatory
+Change Management Standard.
+2.3 Communication and Training
+When any regulatory change is confirmed to be applicable to Square AU and required updates to any
+relevant program and/or procedure have been implemented, the Square AU CCO and delegates are
+responsible for communicating the change to the organisation and its stakeholders. Training is
+provided on a risk based approach and subject to the nature of the regulatory changes.
+4
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Square Australia (“AUˮ) Chief Compliance Officer (“CCOˮ):
+○ Oversees the operational functions of the Regulatory Change Management
+Program (the “Programˮ) in compliance with the local regulatory requirements and
+is responsible for monitoring and reporting on compliance with this Program.
+○ The Square AU CCO may delegate to others the authority to adopt, develop and
+implement procedures and reporting that support this Program.
+○ The Square AU CCO is also responsible for approving and signing off on each
+regulatory change within the register.
+○ Reports on regulatory change to global and local governance committees as
+appropriate and based on risk.
+● Square AU Regulatory Counsel:
+○ Provide specialist legal insight and support in the assessment and interpretation of
+new or amended regulatory requirements.
+○ Works closely with the Regulatory Program Manager to conduct preliminary impact
+assessments of regulatory changes, determine their applicability to Square AUʼs
+operations, and ensure that the organisationʼs response is aligned with applicable
+laws.
+● Square AU AML/CTF Officer :
+○ Review and update the ML/TF risk assessment where AUSTRAC communication
+identifies or assess relevant risks.
+○ Notified the Board in writing of any updates to the risk assessment.
+○ Review and update AML/CTF policies as necessary following the risk assessment
+review.
+● Square AU Regulatory Program Manager:
+○ Oversees the Regulatory Change Management Program to ensure compliance with
+local regulatory requirements, including monitoring and documenting regulatory
+changes, conducting impact assessments, managing program or procedural
+updates, maintaining the Regulatory Change Register, and providing stakeholder
+training.
+○ Manage and implement changes to the program and/or procedure, and where
+needed, delegate to relevant team members/stakeholders the responsibility of
+implementation when enhanced control is required.
+○ Provide guidance to relevant stakeholders where required regarding program
+updates.
+● Square AU Front line teams:
+○ Update procedures and/or assign to team members if additional control is needed;
+○ Assist the Square AU Regulatory Program Manager in the change analysis in
+respect of Square AU Compliance Operations;
+○ Provide training where appropriate regarding procedural updates.
+3.2. Assurance and Oversight
+5
+
+Monitoring
+Program Managers and AML/CTF Compliance officer will monitor regulatory change activities on
+an ongoing basis to ensure effective implementation and compliance with requirements. Updates,
+progress, and supporting evidence will be recorded in the regulatory change register to maintain
+visibility and accountability.
+Testing
+Square AU Compliance will periodically (at least annually) perform a review over the regulatory
+change register. The detail review procedure is documented in the operating procedure
+documented within the regulatory change register. Each review will be documented with an audit
+trail, including the supporting assessment materials and review outcomes, recorded within the
+audit component of the register.
+Auditing
+Internal audit will periodically perform an effectiveness review and/or targeted testing to verify that
+implemented regulatory changes are operating as intended and remain effective. Each review will
+be documented with an audit trail, including the supporting assessment materials and review
+outcomes.
+Reporting
+Regulatory change updates and outcomes will be reported to relevant global and local governance
+committees on a regular basis, with the frequency and level of detail proportional to the nature and
+risk of the change. High-impact or material regulatory developments will be escalated promptly to
+senior management and the appropriate governance bodies to ensure timely visibility, discussion
+and decision-making.
+3.3. Escalation and Breach Management
+A missed, delayed, or incomplete implementation of a regulatory change may constitute a breach
+of this Policy. Where such issues are identified, they must be promptly escalated to the Regulatory
+Program Manager and the Chief Compliance Officer for assessment. The incident will be reviewed
+to determine whether a reportable breach has occurred, in line with Square AUʼs Breach Reporting
+Policy and ASIC Regulatory Guide 78.
+All confirmed breaches will be documented, investigated, and remediated appropriately. Root
+cause analysis should be undertaken to prevent recurrence, and corrective actions tracked to
+completion. Where the breach is determined to be reportable, Square AU will notify ASIC within the
+required statutory timeframe.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+6
+
+3.5. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● AU Regulatory Change Tracking and Management
+● Square AU Breach Reporting Policy
+● Square AU Compliance Management Policy
+Review related references:
+● Anti-Money Laundering and Counter-Terrorism Financing Act 2006
+● Australian Securities and Investments Commission Act 2001
+● Regulatory Guide 78 Breach Reporting by AFS Licensees and Credit Licensees
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+JING WANG Square AU Creation Oct 1, 2023
+Compliance First issuance of
+7
+
+Program Manager this document
+Lance Howard Square AU CCO Initial Appro… Oct 10, 2023
+JING WANG Square AU Scheduled R… Annual review of Nov 25, 2024
+Compliance document
+Program Manager - Update
+Monitoring and
+Lance Howard Square AU CCO Scheduled R… reporting Dec 6, 2024
+requirement
+(annual review)
+following Audit
+Observation
+Kathryn Bolt… Square AU Annual review of Dec 7, 2025
+Regulatory document
+Program Manager - Update
+audit trail
+Lance Howard Square AU CCO Scheduled R… process Date
+for annual
+review
+JING WANG Square AU Scheduled R… Update Mar 25, 2026
+Regulatory requirement on
+Program Manager actioning Austrac
+Guidance,
+Lance Howard Square AU CCO Material Cha… following Mar 29, 2026
+AML/CTF reform
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Governance
+Document Owner Square AU Regulatory Program Manager
+Approved By Square AU CCO
+Document Tier Tier 3
+8

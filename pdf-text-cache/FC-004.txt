@@ -1,0 +1,442 @@
+AML/CTF Program
+Part B - Customer
+Identification and
+Verification
+Afterpay | Afterpay Australia Pty Limited
+16 June 2025
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 2
+
+Confidential
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Overview 7
+3. Customer Identification and Verification Procedures 7
+3.1 Timing of Customer identification and verification 7
+3.2 Customer types 7
+3.3 Customers that cannot provide satisfactory evidence of identity 7
+4. Verification Methods 8
+4.1 Verification from electronic data 8
+4.2 Verification from documentation 9
+4.3 Support by external service provider 9
+5. Collection and Verification of Additional KYC Information 9
+6. Politically Exposed Persons 10
+6.1 Customer is a PEP 10
+7. Discrepancy Management 11
+SCHEDULE 1 - ACIP Individual 12
+Individual Customer (Medium or Low ML/TF Customer risk) 12
+Individual Customer (High ML/TF Customer risk) 12
+SCHEDULE 2 - Electronic Verification 13
+SCHEDULE 3 - Approved Databases 14
+8. Document Management 16
+8.1 Document Owner 16
+8.2 Review and Approval 16
+8.3 Exceptions 16
+8.4 Related Documents 16
+8.5 Revision & Approval History 16
+8.6 Document Details 18
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 3
+
+Confidential
+1. Definitions
+Term Meaning
+ACIP applicable customer identification procedures.
+Afterpay Afterpay Australia Pty Ltd (ABN 15 169 342 947).
+Afterpay’s a standalone document which outlines Afterpay’s assessment of underlying
+Assessment
+approved electronic databases against Section 4.10.21 criteria.
+of Electronic
+Databases
+AML/CTF anti-money laundering and terrorism financing.
+AML/CTF Act the Anti Money Laundering and Counter-Terrorism Financing Act 2006 (Cth).
+AML/CTF the Anti Money Laundering and Counter-Terrorism Financing Rules
+Rules
+Instrument 2007 (No. 1).
+AML/CTF the AML/CTF Act and any regulations or rules made pursuant to that Act, as
+Laws
+amended from time to time.
+Beneficial 1. of a person who is a Reporting Entity, means an individual who owns or
+Owner or
+controls (directly or indirectly) the reporting entity;
+Beneficial
+Ownership 2. of a person who is a Customer of a Reporting Entity, means an individual
+who ultimately owns or controls (directly or indirectly) the Customer;
+In this definition: ‘control’ includes control as a result of, or by means of, trusts,
+agreements, arrangements, understandings and practices, whether or not
+having legal or equitable force and whether or not based on legal or equitable
+rights, and includes exercising control through the capacity to determine
+decisions about financial and operating policies; and
+In this definition: ‘owns’ means ownership (either directly or indirectly) of 25%
+or more of a person.
+Board Board of Directors of Afterpay Australia Pty Ltd
+1 AML CTF Rules 4.10.2
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 4
+
+Confidential
+Customer a person to whom Afterpay provides (or is asked to provide) a Designated
+Service (i.e. Australian individuals). Since Afterpay customers are individuals
+only, Customer and the Beneficial Owner are the one and the same, unless
+there is reasonable grounds to consider otherwise.
+Designated the Designated Services in Table 1, Section 6 of the AML/CTF Act.
+Services
+dIDV documentation-based identification verification.
+DOB date of birth.
+Domestic a PEP of an Australian government body.
+Politically
+Exposed
+Person
+ECDD enhanced customer due diligence.
+eIDV electronic-based identification verification.
+Foreign a PEP of a government body of a foreign country.
+Politically
+Exposed
+Person
+KYC “Know Your Customer”.
+KYC has the meaning given to it in the AML/CTF Rules.
+Information
+ML/TF Risk the risk that Afterpay may reasonably face that its provision of Designated
+Services may involve or facilitate money laundering or terrorism financing.
+Politically an individual:
+Exposed
+1. who holds a prominent public position or function in a government
+Person (PEP)
+body or an international organisation, including:
+a. Head of State or head of a country or government; or
+b. government minister or equivalent senior politician; or
+c. senior government official; or
+d. Judge of the High Court of Australia, the Federal Court of
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 5
+
+Confidential
+Australia or a Supreme Court of a State or Territory, or a Judge of
+a court of equivalent seniority in a foreign country or
+international organisation; or
+e. governor of a central bank or any other position that has
+comparable influence to the Governor of the Reserve Bank of
+Australia; or
+f. senior foreign representative, ambassador, or high
+commissioner; or
+g. high-ranking member of the armed forces; or
+h. board chair, chief executive, or chief financial officer of, or any
+other position that has comparable influence in, any State
+enterprise or international organisation; and
+2. who is an immediate family member of a person referred to in
+paragraph 1), including:
+a. a spouse; or
+b. a de facto partner; or
+c. a child and a child's spouse or de facto partner; or
+d. a parent; and
+3. who is a close associate of a person referred to in paragraph 1), which
+means any individual who is known (having regard to information that
+is public or readily available) to have:
+a. joint Beneficial Ownership of a legal entity or legal arrangement
+with a person referred to in paragraph 1); or
+b. sole Beneficial Ownership of a legal entity or legal arrangement
+that is known to exist for the benefit of a person described in
+paragraph 1).
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 6
+
+Confidential
+2. Overview
+This document sets out Afterpay’s Part B of the Anti-Money Laundering and Counter-Terrorism
+Financing Program for the purposes of section 84 of the Anti-Money Laundering and
+Counter-Terrorism Financing Act 2006.
+The Customer identification and verification procedures specified in this Part B (including all of its
+Schedules) outline how Afterpay collects and verifies KYC Information (as that term is defined in the
+AML/CTF Rules) about Customers so that Afterpay can be reasonably satisfied that the Customer
+exists and is who they claim to be.
+This document includes references to Afterpay’s Anti-Money Laundering and Counter-Terrorism
+Financing Program Part A.
+3. Customer Identification and Verification Procedures
+3.1 Timing of Customer identification and verification
+Afterpay performs the ACIP in respect of each Customer in accordance with this Part B before
+providing any of the Designated Services to a Customer for the first time, and in any other
+circumstances required by the AML/CTF Laws or this AML/CTF Program.
+3.2 Customer types
+Afterpay’s Customers fall into only one category , which are domestic individuals.2
+Afterpay will amend this Part B if it decides to provide Designated Services to other Customer types
+in the future.
+3.3 Customers that cannot provide satisfactory evidence of identity
+A. Where a Customer cannot provide satisfactory evidence of identity, in accordance with this
+AML/CTF Program, due to exceptional circumstances, the matter will be referred to the
+AML/CTF Compliance Officer (or delegate) to determine whether the Customer may be able
+2 Afterpay assumes that the Customer and the Beneficial Owner are one and the same, unless there
+is reasonable grounds to consider otherwise (Rule 4.12.2 of the AML/CTF Rules).
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 7
+
+Confidential
+to provide alternative documents to establish proof of identity in accordance with the
+exception process in Part A of Afterpay’s AML/CTF Program.
+B. The exceptional circumstances referred to in (a) above include, but are not limited to:
+i. individuals whose birth was not registered;
+ii. undocumented arrivals in Australia;
+iii. people living in remote areas;
+iv. people who are transgender or intersex;
+v. people affected by natural disasters;
+vi. people with limited access to identity documents (for example because they were
+raised in institutional or foster care); and
+vii. people over 18 who have not established a ‘social footprint’ in the community.
+C. Afterpay will not rely on alternative documents to establish proof of identity if it knows or
+has reason to believe that it is incorrect or misleading.
+4. Verification Methods
+4.1 Verification from electronic data
+A. Afterpay primarily uses electronic data to verify information about Customers and
+determines the verification procedures using electronic data to be reliable and
+independent, considering the following factors:
+i. the accuracy of the data;
+ii. how secure the data is;
+iii. how the data is kept up-to-date;
+iv. how comprehensive the data is;
+v. whether the data has been verified from a reliable and independent source;
+vi. whether the data is maintained by a government body or pursuant to legislation; and
+vii. whether the electronic data can be additionally authenticated.
+B. Verification of information collected in accordance with the Schedules to this Part B will, as
+far as possible, be based on reliable and independent electronic data.
+C. Afterpay has assessed:
+i. what reliable and independent electronic data it will use for the purpose of verification;
+ii. its predefined tolerance levels for matches and errors; and
+iii. whether, and how, to confirm information collected about a Customer by
+independently initiating contact with the person the Customer claims to be.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 8
+
+Confidential
+D. Afterpay has determined the electronic data contained in Schedule 3 of this Part B to be
+reliable and independent in accordance with the provisions set out in Section 4.10.2(1) of the
+AML/CFT Rules. Further details of the assessment and results can be found in Afterpay’s
+Assessment of Electronic Databases.
+4.2 Verification from documentation
+Afterpay currently doesn’t use dIDV. If Afterpay decides to introduce dIDV, this Part B will be
+updated.
+4.3 Support by external service provider
+Afterpay has appointed ID verification service providers to assist with the provision of electronic
+identity verification (see section 10 of Part A of this AML/CTF Program).
+5. Collection and Verification of Additional KYC
+Information
+Afterpay employs the risk-based systems and controls to enable it to determine in what
+circumstances additional KYC information should be collected or verified in respect of Consumers.
+If Afterpay is not reasonably confident that a Consumer is who they claim to be, or a material
+discrepancy arises in the course of verifying information from a Consumer, Afterpay may take any of
+the following actions as required to be reasonably satisfied that the Consumer is who they claim to
+be:
+● seek additional KYC information or clarification from or about the Consumer;
+● undertake further verification of the additional KYC information or clarification received
+from the Consumer; or
+● elect to not engage in a Customer relationship, or to discontinue the provision of services
+to a Consumer based on the noted discrepancy.
+A discrepancy in Customer data may also trigger a suspicious matter reporting obligation which will
+be managed in accordance with Section 6.2 of Part A of this AML/CTF Program.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 9
+
+Confidential
+6. Politically Exposed Persons
+Afterpay implements risk-based procedures to determine whether an individual Customer is a PEP,
+or an associate of a PEP. This occurs before the provision of the Designated Services to the Customer
+or as soon as practicable after the Designated Services have been provided, as required by the
+AML/CTF Laws.
+Afterpay uses a third-party vendor to screen the full name collected from an individual Customer
+against PEP lists to determine whether a Customer is a PEP. Potential matches are reviewed
+manually by trained Afterpay AML Analysts.
+If Afterpay proposes to alter this policy for a Customer, any alteration must be escalated to the
+AML/CTF Compliance Officer and senior management for review and ML/TF risk assessment in
+accordance with the exception process in section 5.6 of Part A of Afterpay’s AML/CTF Program.
+6.1 Customer is a PEP
+Afterpay does not on-board any Customers who are themselves PEPs, without following the
+processes set out below.
+For a domestic PEP, Afterpay must determine whether the person is of a high ML/TF risk. If
+Afterpay’s third party vendor returns a potential domestic PEP match, Afterpay will consider the
+factors set out in its SOP’s in order to determine whether the potential domestic PEP is of a high
+ML/TF risk.
+If the Customer is a foreign PEP or a high ML/TF risk domestic PEP, Afterpay will undertake
+Enhanced Customer Due Diligence as set out in Part A of Afterpay’s AML/CTF Program.
+7. Discrepancy Management
+Afterpay has implemented an approach to deal with minor discrepancies in the eIDV process (as
+outlined in Schedule 2 of this Program). Overall, First Name, Last Name and Date of Birth require
+exact matches between tier 1 and tier 2 verification flows, and only allow for minor variations, such as:
+● First name is abbreviated, e.g. Mike vs. Michael
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 10
+
+Confidential
+● Customer has made a simple spelling error, specifically single letter typos and adjacent
+letter transpositions
+● First and middle name combinations
+● Addition of middle name if missed during registration
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 11
+
+Confidential
+SCHEDULE 1 - ACIP Individual
+Individual Customer (Medium or Low ML/TF Customer risk3)
+KYC information to Collection method KYC information to be Verification method
+be collected verified
+Full name of the Collect from the Full name of the Customer Information is verified
+Customer Customer via Afterpay’s using reliable and
+online/app sign-up flow independent electronic
+Date of Birth ○ Customer’s date of birth; OR
+data
+○ Customer’s residential
+Residential Address
+address.
+Individual Customer (High ML/TF Customer risk)
+ECDD applies in addition to the above. Additional information regarding ECDD is outlined in Part A
+of Afterpay’s AML/CTF Program.
+3 Customer risk rating is determined in alignment with Part A of this Program.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 12
+
+Confidential
+SCHEDULE 2 - Electronic Verification
+This schedule outlines the tiered electronic verification process. The tiered verification process is split
+into three sub-components. The stages increase the level of engagement, information and strength
+of identity verification required from the Customer.
+Tier 1
+Afterpay will attempt to verify a Customer’s full name and either residential address or DOB based
+on reliable and independent electronic data provided by the appointed ID verification service.
+Afterpay will attempt verification by accessing at least two approved electronic databases.
+If Afterpay cannot verify the Customer’s identity by matching the Customer’s full name and either
+residential address or DOB against two electronic data sources, it will then attempt to verify the
+Customer’s identity using a Hard ID check.
+Tier 2
+If Tier 1 flow fails, Afterpay will collect an additional Government-issued identifier and attempt to
+verify a Customer’s full name and DOB using reliable and independent electronic data accessed
+through the Government’s Document Verification Service (DVS). Afterpay will collect the
+Government issued identifier through the Customer’s online/app sign-on portal and the identifier
+must be either:
+a. Medicare card details; or
+b. Australian-issued Driver’s Licence details; or
+c. Passport.
+If Afterpay cannot verify the Customer’s identity using DVS, either because the verification fails or the
+Customer cannot provide additional Government-issued identifier as outlined above , Afterpay will
+attempt to verify the Customer’s identity using the tier 3 flow.
+Tier 3
+At this step, the Customer is provided the option to upload a copy of the drivers licence, medicare,
+passport or other form of identity and Afterpay’s Customer service agents will use that document as
+a basis to perform the identity verification check through DVS.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 13
+
+Confidential
+SCHEDULE 3 - Approved Databases
+Afterpay has assessed4 the underlying databases that it proposes to use for identity verification
+purposes and has concluded that they are independent and reliable in accordance with the
+provisions set out in Section 4.10.2(1) of the AML/CTF Rules. The databases that Afterpay has selected
+to use for its electronic verification process are listed below. If new electronic data sources are
+approved, the below list will be updated as a non-material change to this Part B Program.
+● DVS Australian Electoral Roll
+● DVS Drivers Licence
+● DVS Medicare
+● DVS Australian Visa
+● DVS Australian Travel documents
+● Australian Tenancy File
+● Data Co-Op
+● FCS Public Number Directory
+● Illion green ID Credit Header Data
+● Experian Credit Header Data
+● Equifax Consumer Credit Header
+● SuperChoice Single Touch Payroll (STP) Data
+● SuperChoice Superannuation Data
+● Australian Claims Database5
+4 This assessment sits within Afterpay’s Assessment of Electronic Databases.
+5 Australian Claims Database will cease to exist on 24 March 2025.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 14
+
+Confidential
+8. Document Management
+8.1 Document Owner
+This document is owned by the AML/CTF Compliance Officer or their designee. For any questions
+arising from this AML/CTF Program, please contact the AML/CTF Compliance Officer.
+8.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with Part A of this AML/CTF Program.
+8.3 Exceptions
+Exceptions to this Program are not permitted.
+8.4 Related Documents
+Related Programme Afterpay Australia Pty Ltd | Anti Money Laundering and
+Counter Terrorism Financing Program
+Related Assessment Afterpay Australia Pty Ltd | Assessment of Electronic
+Databases
+8.5 Revision & Approval History
+Version Approver Approval Type Reason for Issue Date
+2.0 Board Material C… New AML/CTF Program 26 July 2019
+structure and updates to
+Merchant and Consumer IDV
+practices
+3.0 Board Material C… Updates to Merchant and 13 November
+Consumer IDV practices 2019
+4.0 Board Material C… Changes to arising from 22 November
+removal designated service – 2019
+Item 8 from Part A AML/CTF
+Program
+5.0 Board Material C… Changes arising in relation 26 February
+to treatment of foreign PEPs 2020
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 15
+
+Confidential
+6.0 AML/CTF Immateria… Adoption of new branding 24 September
+Compliance template and other minor 2020
+Officer & Chief updates.
+Enterprise
+Risk Officer
+6.1 AML/CTF Material C… Change to reference to new 5 May 2021
+Compliance Schedule 4, including details
+Officer of Afterpay’s tiered ID
+verification process,
+approved databases and
+Electronic Verification
+Reliable and Independent
+Assessment
+6.2 AML/CTF Immateria… Update of approved 18 August 2021
+Compliance databases and Electronic
+Officer Verification Reliable and
+Independent Assessment
+6.3 AML/CTF Material C… Update to Schedule 1 and 4, 20 October 2021
+Compliance largely including an
+Officer additional Applicable
+Customer Identity Procedure
+using a Customer Risk
+Assessment Model (RAM).
+6.4 AML/CTF Material C… Update to Schedule 1 and 4, 09 December
+Compliance removing additional 2022
+Officer Applicable Customer Identity
+Procedure using a Customer
+Risk Assessment Model
+(RAM).
+6.4 N/A Immateria… New template only 31 August 2023
+7.0 AML/CTF Material C… Removal of Merchant related 9 November
+Compliance language and clarification on 2023
+Officer document based verification
+method. Streamlining
+Board Material C… structure of the document 7 December
+and removing reliable and 2023
+independent assessment of
+electronic data into a
+standalone document.
+Added key terms to the
+document.
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 16
+
+Confidential
+7.1 AML/CTF Scheduled… Annual review with minor 12 November
+Compliance administrative updates 2024
+Officer
+Martina Ka…
+Board 11 December
+2024
+7.2 AML/CTF Immateria… Minor updates to Schedule 3 19 March 2025
+Compliance and Section 5.
+Officer
+7.3 AML/CTF Immateria… Minor updates to Schedule 3 16 June 2025
+Compliance to correct databases listed
+Officer
+8.6 Document Details
+Business Afterpay
+Scope Regional (Australia)
+Compliance Domain Financial Crimes
+Document Owner AML/CTF Compliance Officer
+Last Approval Date 16 June 2025
+Effective Date 17 June, 2025
+Approved By AML/CTF Compliance Officer
+Document Review Schedule Annually [December 2025]
+Part B - Customer Identification and Verification | Afterpay Australia Pty Limited 17

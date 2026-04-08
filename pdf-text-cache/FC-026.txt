@@ -1,0 +1,467 @@
+Cash App Sanctions
+Compliance Standard
+Cash App
+May 2025
+Last Approval Date
+
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Cash App Sanctions Compliance Standard | Cash App 2
+
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Standard Requirements 8
+4.1 Product Controls 8
+4.2 Sanctions Screening 9
+4.3 Customer Screening 9
+4.4 Employee Screening 10
+4.5 External Workforce Screening 10
+4.6 Vendor Screening 10
+4.7 Beneficial Owner Screening 10
+4.8 Transaction Screening 11
+4.9 Bitcoin Transfer Screening 11
+4.10 Additional Controls 12
+5. Partner Due Diligence & Oversight 12
+6. Procedures and Guidance 12
+7. New Product Launches 13
+8. Risk Assessment 13
+9. Testing & Monitoring 13
+10. Issue Management 13
+11. Training 14
+12. Document Management 14
+12.1 Document Owner 14
+12.2 Review and Approval 14
+13. Exceptions 14
+14. Record Retention 14
+15. Related Documents 14
+16. Revision and Approval History 15
+17. Document Details 16
+Cash App Sanctions Compliance Standard | Cash App 3
+
+Definitions
+Terminology Definition
+Applicable Sanctions Bodies responsible for administering, implementing, and enforcing
+Administrators sanctions within their jurisdiction.
+Applicable Sanctions Administrators are those in the jurisdictions in
+which Block operates, include, but are not limited to: OFAC, United
+Nations, His Majesty’s Treasury, European Union, Bermuda, Canada
+Special Economic Measures, and Australia Department of Foreign
+Trade and Affairs.
+BadActors Internal data aggregator service that supports regulatory and
+contractually required screens on all of Block’s customers. It is owned
+by the Foundational Compliance Engineering and Technology Team.
+Blocked Property Accounts, funds, or other economic resources that must be frozen in
+accordance with regulatory requirements.
+Chainalysis Third party vendor that provides a blockchain data analytics software
+platform that powers cryptocurrency investigations and compliance.
+Computer Services, Inc. Secondary screening vendor.
+(“CSI”)
+Customer Parties with direct relationships with Block who use financial
+products/services offered by Block.
+Economic Sanctions Term used to describe policy tools used by national governments and
+international and regional bodies to deter or change behavior and
+advance policy goals.
+Elliptic Third party vendor that provides a blockchain data analytics software
+platform that powers cryptocurrency investigations and compliance.
+Issue An Issue is defined as a deficiency gap, or weakness in the design,
+performance, or operating effectiveness.
+TRM Labs Third party vendor that provides a blockchain data analytics software
+platform that powers cryptocurrency investigations and compliance.
+LexisNexis Primary screening vendor who manages sanctions watchlists and
+leverages Personally Identifiable Information (“PII”) matching logic.
+This includes World Compliance and World Compliance Plus.
+Lightning Network “Layer 2" payment protocol built on the Bitcoin blockchain intended to
+enable fast transactions among participating nodes (independently run
+members of the network)
+Notary Internal case management system.
+Office of Foreign Assets OFAC is an agency of the US Treasury Department that administers
+Control (“OFAC”) and enforces economic sanctions in support of US national security
+and foreign policy objectives.
+On-chain Transactions Deposits or withdrawals that settle on the bitcoin blockchain.
+Cash App Sanctions Compliance Standard | Cash App 4
+
+Regulator Internal case management system.
+Sanctioned party General term used to refer to individuals or entities that are subject to
+economic sanctions.
+Staff Members (“Staff”) Refer to all employees and fixed-term and contingent workers who
+support the operations and/or subsidiaries covered by this Program,
+and include interns, temporary workers, consultants, vendors,
+third-party providers, and contractors.
+Travel Rule Bank Secrecy Act (“BSA”) regulation that requires financial institutions
+to pass on certain information to the next financial institution, in
+certain funds transmittals ($3k or more) involving more than one
+financial institution/Virtual Asset Service Providers.
+Roles and Responsibilities
+Role Responsibility
+Sanctions Compliance Triages Sanctions alerts, investigates potential matches and escalates
+Specialist alerts that are not able to be cleared as false positives.
+Sanctions Quality Control Conducts review of Customer and transaction screening and writes
+Analyst monthly Quality Control (“QC”) reports. Meets with analysts
+periodically to review cases and identify room for improvement and
+discuss disagreements in decision making.
+Cash Sanctions Program Responsible for maintaining the health of sanctions controls and
+Manager monitoring, updating program documents, providing regulatory
+advisory guidance to Cash App compliance and product teams, and
+escalating issues.
+Cash Operations Program Responsible for implementing and maintaining the operational
+Manager elements required for the program. Examples include but are not
+limited to monitoring queue logic/builds, case/alert design, and
+improving efficiencies in investigations.
+Sanctions Compliance Responsible for managing sanctions daily operations (ensuring SLAs
+Operations Lead are maintained and that sanctions matters are escalated to leadership),
+maintaining Cash App sanctions procedures, approving program
+revision documents, reviewing and approving monthly QC reports,as
+well as any program remediation.
+Global Head of Sanctions The Global Head of Sanctions is responsible for oversight and
+day-to-day operation of the Block Global Sanctions compliance
+programs, including:
+● Providing updates on the health and status of the global
+sanctions compliance program to senior management
+● Setting Policy Requirements
+● Approving sanctions screening configurations; and
+● Approving policy exceptions
+Block Global Sanctions The Global Sanctions Team is responsible for:
+Team
+Cash App Sanctions Compliance Standard | Cash App 5
+
+● Updating and maintaining sanctions policy related
+documentation;
+● Performing biweekly list validation reviews;
+● Performing annual watchlist sufficiency reviews;
+● Reviewing and advising on escalations from Businesses;
+● Reviewing new products and recommending controls;
+● Providing quarterly training to the Business Sanctions Teams;
+● Providing operational support where not otherwise available;
+● Sanctions regulatory reporting; and
+● Facilitating the Sanctions Governance Forum.
+Cash App Investing Coordinates with DriveWealth Compliance Team to initiate the blocking
+Compliance Team of securities and notifies Global Sanctions Team once securities have
+been blocked.
+Country Compliance Lead Reviews escalations from the Sanctions Compliance Lead, where
+applicable. Works with the Global Sanctions Team to confirm actions
+to be taken when a true positive match or prohibited activity is
+identified, if applicable.
+Cash Compliance Lead Responsible for reviewing and approving any changes to the Cash
+Sanctions Program.
+Cash App Sanctions Compliance Standard | Cash App 6
+
+1. Introduction
+Block, Inc., including its subsidiaries (herein referred to as “Block” or “Company”), has an obligation to ensure
+it is operating in accordance with the economic Sanctions laws and regulations of the jurisdictions in which it
+operates, including those administered by applicable Sanctions Administrators. Economic Sanctions is a
+broad term describing a foreign policy toolbox used to coerce, constrain, and signal bad behavior.
+Governments enact a myriad of Sanctions regimes through individual asset freezes, travel bans, export and
+import restrictions, financial prohibitions, and technical assistance prohibitions. Although the requirements
+of each Sanctions-related regulatory program is unique, regulations generally prohibit transacting with any
+embargoed or Sanctioned jurisdiction, individual, group, or entity.
+This Program is established by Cash App (herein referred to as “Cash”) and is applicable to Cash App Staff.
+2. Purpose
+In accordance with Block’s Global Sanctions Compliance Policy, Cash’s Sanctions Compliance Program
+(“Program”) has been established to detect and prevent prohibited individuals and entities from establishing
+an account with Cash and to timely identify, action, and escalate to Block Global Sanctions Team for
+reporting to relevant regulatory agencies (where required) prohibited dealings with Sanctioned parties or
+jurisdictions.
+3. Scope
+All Cash Compliance personnel should be knowledgeable in Program content and are responsible for
+compliance with this Program in their related business activities. Cash Staff should have access to policies
+that affect their jobs and understand their responsibilities to perform their work in an ethical and legally
+compliant manner.
+Businesses engaged in the development of new products and services, whether resulting from internal
+product development or merger and acquisition activities, must consider this Program. It is recommended
+that business leads engage with the Sanctions Program Managers to understand Program applicability and
+requirements.
+Cash App Sanctions Compliance Standard | Cash App 7
+
+4. Standard Requirements
+An effective Sanctions compliance program requires collaboration between the business and compliance,
+with product controls implemented to prevent activities from Sanctioned countries and additional
+compliance controls to detect and monitor for activities that may have a potential Sanctions nexus.
+4.1 Product Controls
+The business implements multiple upfront controls during the account creation process to ensure adherence
+to the Cash App Terms of Service1 and regulatory requirements. These controls also bolster Sanctions
+compliance and have a direct impact on the Sanctions program. The controls include:
+Geolocation Controls2:
+● IP Address Blocking: The Block ecosystem implements IP address blocking for Sanctioned
+countries at the edge of the Block network, leveraging an IP data intelligence vendor to identify
+Sanctioned IP addresses and block access requests to the Block ecosystem. Additional blocking
+based on IP address occurs at other points in the Cash network3 and risk evaluations performed
+during account creation will block account creation if the IP address is associated with a country
+in which Cash does not do business.
+● Mobile Device Restrictions: Mobile device data (SIM cards) evaluations are used to prevent
+access to the platform based on the SIM card information available in the device request to
+access Cash. Additional risk rules also prevent account creation and login activity if the device
+SIM card is associated with a Sanctioned country. During account creation, a Customer is eligible
+to create an account by registering and verifying a phone number. Cash does not accept phone
+numbers with country codes located in Sanctioned countries as well as blocking Voice over
+Internet Protocol (“VOIPs”)4 and emulators commonly used as a synthetic phone number.
+● Customer Address: During Customer onboarding, Customers will be asked to provide an
+address and postal code. Only postal codes that are valid in the areas Cash does business are
+accepted.
+● Email Address: When linking an email address to an account, email addresses with a top-level
+domain from a Sanctioned country are not accepted.
+● Instrument Linking: In order to add money to a Cash account, a Customer must link a financial
+instrument. The country code associated with a Customer’s instrument used during a link attempt
+1 Cash App Terms of Service
+2 The blocked countries for IP and SIM include Cuba, North Korea, Iran, Syria, Russia, Ukraine, and Sudan
+3 Different datacenter edges exist where IP blocking also exists using IP intelligence data
+4 Voice-over Internet Protocol phone
+Cash App Sanctions Compliance Standard | Cash App 8
+
+must match the region of the Customer (determined by Customer phone number, IP
+address/device location).
+Additional Controls:
+● Legal Name Collection: When an account is created, Customers are asked for their full legal
+name. This legal name provides better quality data to be used in Cash’s Sanctions compliance
+processes.
+● Profile Restrictions: While Cash does collect a legal name during the account creation process,
+Customers are allowed the opportunity to choose a name for the profile. To help enforce
+adherence to terms of service, certain terms and names are prohibited from use as a display
+name. These display names include display names that are likely to be impersonating deceased
+or well-known Sanctioned individuals/entities.
+4.2 Sanctions Screening
+Sanctions screening helps Block detect, prevent, and mitigate Sanctions risk. Block takes a risk-based
+approach to Sanctions screening. Cash implements Screening controls in a manner commensurate with the
+inherent risk of the particular product/service offerings.
+4.3 Customer Screening
+Sanctions screening occurs at new account setup5 , following successful identity verification (IDV) (with the
+provision of a full legal name) or their business6, and when the recipient7 information is collected for an
+international money remittance.
+Cash’s Customer screening is conducted on an automated basis via the internal data aggregation service,
+BadActors, which integrates with Block’s third party screening vendor8 LexisNexis. Pursuant to Block’s
+Global Sanctions Policy, initial screening occurs within 24 hours of the Customer onboarding, and
+re-screening occurs at least every 24 hours thereafter9 . Cash Customers who alert as a potential match
+during this screening have a transacting restriction placed on the account until a false positive10
+determination has been made. The Global Sanctions team makes the ultimate determination on whether
+5 Screening trigger based on legal name collection during account setup is agnostic to account type; includes restricted and teen
+accounts
+6 Individual information and business information (name, address, dba, etc) are screened for business accounts
+7 Recipients of international money remittances do not have a Cash App account
+8 CSI Watchdog is a screening vendor leveraged as a fallback and for ad hoc screen requests
+9 Although re-screening occurs at least every 24 hours, an alert may not be generated upon subsequent screens if a customer has
+been added to the accept list.
+10 Confirmed false positives are added to an accept list to prevent future alerting against the same potential match
+Cash App Sanctions Compliance Standard | Cash App 9
+
+regulatory reporting/asset blocking is required as a result of Customer screening. Any exceptions that do
+not meet the minimal standards outlined for the relevant jurisdiction must be documented and approved by
+the Head of Global Sanctions.
+4.4 Employee Screening
+Block mandates all Cash Staff11 must undergo Sanctions screening prior to the commencement of their
+employment with Block12. Additionally, all Block Staff are subject to a monthly Sanctions compliance review
+throughout the course of their employment with Block. Appropriate actions, including termination, are taken
+if any true Sanctions matches are identified.
+4.5 External Workforce Screening
+External workers must clear background checks in their country of hire before they begin working or receive
+access to Block systems, buildings or information13.
+In addition, external workers are subject to a monthly Sanctions compliance review throughout the course of
+their employment with Block. Appropriate actions, including termination, are taken if any true Sanctions
+matches are identified.
+4.6 Vendor Screening
+Block mandates all vendors must undergo Sanctions screening prior to the outset of the vendor’s
+engagement with Block. In addition, vendors must be subject to ongoing Sanctions screening on a monthly
+basis throughout the engagement with Block until the time they are offboarded or terminated. Appropriate
+actions, including termination of the contract with the vendors, are taken if the screening reveals any true
+Sanctions hits. This also applies to Cash’s vendor relationships.
+4.7 Beneficial Owner Screening
+During the onboarding of Cash Business accounts, beneficial owners are subject to Sanctions screening.
+Beneficial owners can be the individual creating the business account for sole proprietorships and single
+member LLCs, or individuals with ownership or control for non-profit organizations (“NPOs”) who are
+identified as part of an enhanced due diligence (“EDD”) review.
+11 Also includes interns and contractor conversions
+12 All Block temporary workers must clear a background check before receiving access to Block information
+13 Background checks are not required for independent contractors when independent contractors do not receive Block systems access,
+or IT equipment
+Cash App Sanctions Compliance Standard | Cash App 10
+
+4.8 Transaction Screening
+In addition to the screening of Customer information, Cash also screens at the transaction14 level for a
+potential Sanctions nexus. Transactions that include a ‘memo line’15 or equivalent fields are subject to
+keyword screening. The Global Sanctions team makes final determination as to whether regulatory
+reporting/asset blocking is required. Exceptions to memo line screening of transactions must be
+documented and approved by the Head of Global Sanctions.
+Peer-to-Peer Screening
+For peer-to-peer (“P2P”) transactions, the Customer has the option to provide a description of the
+transaction. This field is screened against a list of keywords that indicate a potential Sanctions nexus. Cash
+uses internal tools to screen both Fiat and Bitcoin Lightning transactions against this list and any matches
+will result in alerts that require further review. Depending on the risk, Cash screens these transactions either
+in real-time (before the transaction is completed), or after the transaction has been completed. Fiat P2P
+transactions that fail for non-sanctions reasons are also screened against the Sanctions keyword list..
+Customers with transactions that have been identified as prohibited during P2P screening16, can be subject
+to additional monitoring via periodic reviews.
+4.9 Bitcoin Transfer Screening
+Cash Customers have the ability to send or receive Bitcoin from wallet addresses outside of the Block
+ecosystem. To screen these transfers, Cash leverages multiple blockchain analytics vendors17 as well as an
+internal list of wallet addresses to identify if there is a Sanctions nexus via automated screening. Cash’s
+internal risk evaluation system performs a real time analysis and will prevent the completion of these
+transfers and alert for review if a Sanctions related risk label is identified.
+Chainalysis is additionally used to monitor transfers on a continuous basis and generate alerts after the
+transfer has occurred to monitor and manage Sanctions risk since blockchain analytics can identify
+additional wallet addresses under control of Sanctioned entities after a transfer has occurred.
+14 Keyword screening of transactions applies to fiat P2P, BTC Lightning Network, Remote Check Deposit, International Money
+Remittances
+15 Internally, the memo line is referred to as an initiator note
+16 The Sanctions Operations Team has discretion to denylist customer accounts for a prohibited transaction. If deemed necessary, the
+customer account can be denylisted after identification of a single prohibited transaction, or repeated prohibited transactions.
+17 Vendors include TRM Labs, Chainalysis, and Elliptic (in the process of deprecating this vendor)
+Cash App Sanctions Compliance Standard | Cash App 11
+
+To comply with the Travel Rule, Cash App will receive identifying information of counterparties beyond wallet
+address for bitcoin transactions with Virtual Asset Service Providers (“VASP”) that are valued over $3,000.
+This identifying information is also Sanction screened.
+4.10 Additional Controls
+Block implements enterprise-wide internal controls to prevent the use of Block products and services in
+Sanctioned countries/territories or by Sanctioned parties, and third party partners Cash has a relationship
+with also supplement Cash’s controls by performing their own Sanctions checks. A more comprehensive list
+of Cash controls can be found in Cash App’s Controls Library.
+5. Partner Due Diligence & Oversight
+In some instances, Cash may need to rely, or make business decisions to rely upon controls implemented and
+maintained by an entity in which Cash (or Block) maintains a third-party partner relationship. Block develops
+and maintains partner due diligence standards to review and provide oversight to partners’ Sanctions
+compliance practices to ensure the practices satisfy the Sanctions standards and Block Global Sanctions
+Policy. Additionally, Cash will consult the Block Global Sanctions team in the event that a decision needs to
+be made to rely on controls implemented by a third-party partner.
+6. Procedures and Guidance
+The Cash Customer Onboarding Management (“COM”) Sanctions Operations Team is responsible for
+maintaining the Sanctions Standard Operating Procedure (“SOP”). The SOP must, at a minimum, detail the
+following:
+● The information needed to determine whether there is a potential match;
+● The steps to take if additional information is needed in order to determine whether there is a
+potential match;
+● The escalation path and process for complex or challenging cases; and
+● The escalation path and process for confirmed true positive matches, including escalation to
+the Global Sanctions Team and in-country Chief Compliance Officer (“CCO”), or Cash App
+Investing Compliance; where applicable.
+Cash COM Sanctions Operations Team is also responsible for maintaining User Guides that outline the
+specific steps for performing their day-to-day functions, including how to view and action alerts.
+Cash App Sanctions Compliance Standard | Cash App 12
+
+7. New Product Launches
+The Cash Sanctions Program Manager is responsible for providing an advisory function as well as engaging
+the Global Sanctions Team on new product launches, including the launch of existing products into new
+geographies. The Global Sanctions Team is responsible for providing guidance on the enterprise-wide
+Sanctions controls that are required in order to proceed with a new product launch. The Global Sanctions
+Team will also provide support/guidance to the Cash Sanctions Team when dealing with Cash specific
+controls.
+8. Risk Assessment
+Block’s Global Anti-Money Laundering (“AML”) and Sanctions Risk Assessments are completed annually by
+the Compliance Governance Team with input/feedback from the Global Sanctions Risk Manager and Cash
+Sanctions Team. The risk assessments are reviewed and approved by the Block CCO or applicable in-country
+CCO. Risk assessments may also occur off-cycle as a result of international expansion, the introduction of
+new products or services, material changes to existing products or services, or new or material changes to
+regulatory requirements. Further detail can be found in the Global AML and Sanctions Risk Assessment
+Framework.
+9. Testing & Monitoring
+Compliance controls are monitored and tested by Cash Compliance. Identified issues are tracked and
+reported to Management.
+Block’s Internal Audit Team also conducts independent periodic risk-based assessments on the overall
+adequacy and effectiveness of Cash’s Sanctions Compliance Program. This includes testing of applicable
+controls and program requirements of relevant regulations, policy, and supporting procedures.
+10. Issue Management
+Sanctions Issues are managed in accordance with Block’s Issue Management Standard. The Block Global
+Head of Sanctions serves as the Issue Approver for all self-identified Cash Sanctions issues. In the event an
+Issue has a sanctions touchpoint but the Global Head of Sanctions has not been identified as the Issue
+Approver, the Global Head of Sanctions must be added as an additional stakeholder to be informed.
+Please refer to Block’s Issue Management Standard for more information.
+Cash App Sanctions Compliance Standard | Cash App 13
+
+11. Training
+All full-time Block employees and contractors receive BSA/AML and OFAC training at least once per
+calendar year.
+Upon onboarding newly hired Sanctions Operations Analysts are provided role specific training relating to
+alert review and proper manager escalations as outlined in the Sanctions SOPs. Ongoing training
+requirements are set by the Business Unit Sanctions Lead and may be deemed necessary based on
+performance, changes to processes, or the implementation of new processes or products. The Global
+Sanctions Team may also request and/or provide additional training as a result of new or amended Sanctions
+regulations.
+12. Document Management
+12.1 Document Owner
+This document is owned by the Cash Sanctions Program Manager or their designee.
+12.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad-hoc basis in accordance with
+the Compliance Document Approval Matrix.
+13. Exceptions
+Exceptions to the requirements, strategies, or procedures established by this document must be
+pre-approved by the Cash Sanctions Program Manager, COM Lead, or their designee.
+14. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+15. Related Documents
+Related Policy Global Sanctions Compliance Policy
+Cash App Sanctions Compliance Standard | Cash App 14
+
+Related Policy Cash Know your Customer Policy
+Related Programs Global SanctionsCompliance Program
+Related Programs Bitcoin Travel Rule Program
+Related Programs Cash Know your Customer Program
+Related Programs Cash Know your Business Standard
+Related Programs Identity Verification Standard
+Related Procedure Sanctions Standard Operating Procedure
+Other Cash Sanctions Internal Controls and Monitoring Playbook
+Other Sanctions Keyword List
+16. Revision and Approval History
+Approver Title Type Description Date
+Sanctions Discovery and
+Harrison Fink Creation October 8, 2022
+Program Manager Draft
+Adrian Gardner Cash COM Lead Scheduled Review May 3, 2023
+Adrian Gardner Cash COM Lead Initial Approval May 3, 2023
+Sanctions Material Change Addition to reflect
+Harrison Fink March 12,2024
+Program Manager Approval program changes
+Program Manager
+Anjali Khullar Scheduled Review April 2, 2024
+Lead
+Sanctions Addition of new
+Program Manager product, controls,
+Material Change Testing/Monitorin
+Harrison Fink April 11, 2024
+Approval g, and detail
+surrounding
+action/response
+Addition of
+footnote providing
+Immaterial
+Harrison Fink definitions and April 17, 2024
+Change Approval
+hyperlinks to
+referenced docs
+Cash App Sanctions Compliance Standard | Cash App 15
+
+Material Change
+Anjali Khullar April 23, 2024
+Approval
+Cash COM Lead Immaterial
+Adrian Gardner April 19, 2024
+Change Approval
+Cash Sanctions Scheduled R… Addition of new
+Harrison Fink May 2, 2025
+Program Manager controls and
+sections for issue
+Cash COM Lead Scheduled R… management,
+partner oversight,
+and external
+workforce;
+Removal of
+references to
+Adrian Gardner May 6, 2025
+deprecated
+products, the
+appendix, and
+sections owned by
+the operations
+team.
+17. Document Details
+Business Cash App
+Scope Global
+Compliance Domain Anti-Financial Crimes
+Document Owner Cash Sanctions Program Manager
+Last Approval Date May 6, 2025
+Effective Date May 6, 2025
+Approved By Customer Onboarding and Management Lead
+Document Review Schedule Annually [May 2026]
+Cash App Sanctions Compliance Standard | Cash App 16

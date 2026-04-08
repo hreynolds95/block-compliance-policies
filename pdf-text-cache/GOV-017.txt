@@ -1,0 +1,431 @@
+Breach Reporting Policy
+Square | Square AU Pty Ltd
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: Square AU Pty Ltd (“Square AUˮ) is an Australian Financial Services
+License AFSL holder License Number: 513929. This Breach Reporting Policy (“Policyˮ) outlines
+Square AUʼs approach to reporting a breach. The Chief Compliance Officer (“CCOˮ) Square AU is
+responsible for management of this Policy.
+This Policy is reviewed at least annually, and after any major regulatory change or incidents, by the
+Square AU Compliance team and approved by the Square AU Board. The Policy applies to all
+Square AU operations, Employees, and relevant third party service providers.
+In accordance with ASIC's Regulatory Guide 78 RG 78 and Square AU Pty Ltd's obligations under
+the Corporations Act, this Breach Reporting Policy outlines the framework for identifying,
+assessing, escalating, and reporting breaches within the organisation. As an Australian Financial
+Services AFS licensee, Square AU is mandated to report certain incidents, known as "Reportable
+Situations," to ASIC. This policy details the roles and responsibilities across the organisation,
+providing clear guidance on breach significance, timing, documentation and escalation to ensure
+compliance and protect stakeholders.
+Square AU conducts business in compliance with all applicable laws and regulations. The purpose
+of this Policy is to further Square AUʼs Breach reporting practices by providing for processes and
+guidelines to manage breaches within Square AU.
+Scope: This Policy, which sets out Square AUʼs approach to breach reporting under the Australian
+Financial Services Regime, is established by Square AU and is applicable to the Employees of
+Square AU.
+It also applies to:
+● All persons engaged by Square AU (whether permanent, contract, or via third-party service
+providers),
+
+● All relevant breaches affecting Square AUʼs regulated product or service footprint in
+Australia, and
+● Any reporting required by contractual obligation to banking or business partners where
+regulatory breach reporting is specified.
+Definitions:
+Terminology Definition
+Reportable A ‘Reportable Situationʼ can fall into two categories:
+Situation ● Category 1 A ‘Core Reportable Situationʼ arises in any of the
+following scenarios:
+○ Square Au Pty. Ltd. (“Square AUˮ) has breached a ‘Core
+Obligationʼ and the breach is ‘Significantʼ;
+○ Square AU is no longer able to comply with a ‘Core Obligationʼ
+and the breach, if it occurs, will be ‘Significantʼ;
+○ Square AU conducts an ‘Investigationʼ1 into whether there is a
+Reportable Situation, and the Investigation continues for more
+than 30 days2; or
+○ an Investigation discloses there is no Reportable Situation
+● Category 2 Gross negligence or fraud: A Category 2 Reportable
+Situation may arise if:
+○ in the course of providing a financial service, Square AU has
+engaged in conduct constituting gross negligence;
+○ Square AU has committed serious fraud3; or
+○ any other circumstances prescribed by the regulations for the
+purposes of this paragraph (none are prescribed).
+Core Obligation ‘Core Obligationsʼ mean the obligations imposed on Square AU as an AFS
+licensee in ss 912A and 912B of the Corporations Act4
+Investigation Square AU conducts an ‘Investigationʼ5 if:
+● there has been some information gathering or human effort applied
+by Square AU to determine whether a breach has occurred or will
+1 The term ‘Investigationʼ is not defined in the legislation and has its ordinary meaning. What constitutes an Investigation is
+likely to vary significantly depending on the size of the licenseeʼs business, their internal systems and processes, and the
+type of breach ((para 11.43 of the Explanatory Memorandum to the Financial Sector Reform Hayne Royal Commission
+Response) Bill 2020 EM.
+2 While Investigations about the additional Reportable Situations are not expressly required to be reported to Australian
+Investments and Securities Commission (“ASICˮ) as part of the additional Reportable Situations, they may still need to be
+reported if they amount to a Core Reportable Situation. That is, if the Investigation can be characterised as an Investigation
+conducted by Square AU into whether there has been or will be a Significant Breach of a Core Obligation, and the
+Investigation continues for more than 30 calendar days (para 11.54 of EM.
+3 ‘Serious fraudʼ is defined in s 9 of the Corporations Act to mean an offence involving fraud or dishonesty, against any law,
+that is punishable by imprisonment for a period of at least 3 months.
+4 In respect of the obligation under paragraph 912A1c, so far as it relates to provisions of the Corporations Act or the
+ASIC Act referred to in paragraph (a), (b), (ba), and (c) of the definition of ‘financial services lawʼ in section 761A. Therefore,
+in relation to financial services, it is broad enough to capture obligations under Chapter 7 of the Corporations Act and
+Division 2 of Part 2 of the Australian Securities and Investments Commission Act 2001 Cth ASIC Act).
+5 Even where Square AU does not conduct an Investigation, there may still be a Reportable Situation if Square AU has
+reasonable grounds to believe that they have breached, or will breach a Core Obligation and the breach is or will be
+Significant. In other words, there may be circumstances where a Significant and reportable breach should be clear to a
+licensee, even without an Investigation being conducted (para 11.49 of the EM.
+
+occur such as:
+○ communicating with representatives or staff of Square AU
+who may have been involved in the relevant conduct;
+○ communicating with potentially affected clients; or
+○ seeking specialist or technical advice6; or
+● Square AU outsources the Investigation, or if a related entity (eg
+Square Inc) conducts the Investigation
+Note: Merely entering a suspected compliance issue into a risk management
+system is unlikely to amount to an Investigation, although this will depend on
+the circumstances in each case.
+We consider the time at which an Investigation commences is at the time the
+matter is raised or identified by Square AU.
+Significant A breach of a ‘Core Obligationʼ will be ‘Significantʼ if it falls into one of these
+Breach two categories:
+● Category 1 Deemed significance: A breach of a ‘Core Obligationʼ is
+taken to be ‘Significantʼ if:
+○ the breach is constituted by the commission of an offence
+under any law and the commission of the offence is
+punishable on conviction by a penalty that may include
+imprisonment for a maximum period of:
+○ If the offence involves dishonesty – 3 months or more; or
+○ in any other case – 12 months of more;
+○ the breach is constituted by the contravention of a civil
+penalty provision under any law, other than a civil penalty
+provision prescribed by the regulations for the purposes of
+this paragraph; or
+○ the breach is constituted by a contravention of subsection
+1041H1 of this Act or subsection 12DA1 of the ASIC Act
+(misleading or deceptive conduct in relation to a financial
+product or a financial service); or
+○ the breach results, or is likely to result, in material ‘loss or
+damageʼ to Square AUʼs clients (which includes both retail
+and wholesale clients);
+○ any other circumstances prescribed by the regulations (none
+are prescribed).
+● Category 2 Significant based on factors: A breach of a ‘Core
+Obligationʼ is ‘Significantʼ having regard to the following:
+○ the number or frequency of similar previous breaches;
+○ the impact of the breach or likely breach on Square AUʼs
+ability to provide financial services covered by the AFS
+licence;
+○ the extent to which the breach or likely breach indicates that
+Square AUʼs arrangements to ensure compliance with those
+obligations as a licensee are inadequate.
+Examples of breaches that may be Significant:
+● Failure to maintain professional indemnity PI insurance or an
+6 Para 11.4411.45 of the EM.
+
+appropriate level of PI cover.
+● Failure to prepare cash flow projections.
+● Previously undetected breach of s 912A or 912B of the Corporations
+Act.
+● Representatives give inappropriate advice (occurred with sufficient
+degree of regularity).
+● Representatives operating outside the scope of Australian Financial
+Services License (“AFSLˮ) authorisations.
+For breaches that arise from data security breaches or service failures,
+Square AU will participate in the steps set out in Block, Inc.ʼs Incident
+Response Plan (“IRPˮ). The determination of whether such breaches of
+‘Core Obligationsʼ occurred and whether it is Significant according to the
+above factors, will be made by the persons outlined in the IRP. Any
+reportable breaches will be reported to ASIC in accordance with the IRP and
+consistent with this Policy.
+Incident An incident refers to any unplanned event or occurrence that results in, or
+has the potential to result in, harm, disruption, non-compliance, or loss to
+Square AU, its customers, employees, or other stakeholders.
+Employees (also All full-time and part-time employees and fixed-term and contingent workers
+referred as Staff) including interns, temps, consultants, vendors, third-party providers, and
+contractors.
+2. Policy Requirements
+2.1. Obligation to report to ASIC
+If there are ‘reasonable grounds to believeʼ that a ‘Reportable Situationʼ has arisen, Square AU must
+lodge a report with ASIC within the mandated timeframe, as outlined in section 2.3.
+‘Reasonable grounds to believeʼ ensures the breach reporting obligation is clearly objective. There
+will be reasonable grounds to believe a Reportable Situation has arisen if there are facts and/or
+evidence to induce, in a reasonable person, a belief that a Reportable Situation has arisen.
+Square AU will treat each Reportable Situation as separate from one another7. This means, for
+example, that there will be two separate obligations to lodge a report with ASIC if Square AU is no
+longer able to comply with a Core Obligation and the breach will be Significant if it occurs8, and that
+later eventuates into a Significant Breach of a Core Obligation9.
+7 Refers to the test described at RG 78.113 to help licensees identify the circumstances in which multiple Reportable
+Situations may be grouped together in a single report
+8 As this is a Reportable Situation under section 912D1b of the Corporations Act
+9 Which is a Reportable Situation under section 912D1a of the Corporations Act
+
+If a breach is not a Reportable Situation, Square AU will take risk-based mitigation approaches to
+such breach, even though it may not report it to ASIC.
+All Employees of Square AU are trained upon onboarding and on an ongoing basis on awareness of
+breaches and breach reporting processes.
+2.2. Incident Review and Escalation Process
+The Compliance Team team will conduct a thorough assessment of each reported incident to
+determine the root cause, evaluate the effectiveness of the response, and identify opportunities for
+improvement. Feedback and lessons learned will be documented and used to update security
+policies, training, and preventive measures, ensuring continuous enhancement of our breach
+response capabilities.
+Escalation of Incidents and Breaches
+To ensure the Compliance Officer is notified of any potentially ‘Reportable Situationsʼ as soon as
+possible, Square AU has implemented the following escalation processes for all Square AU
+employees:
+● All Square AU employees are provided training on the Block go/ethics process for reporting
+potential breaches for review.
+● The Square AU Compliance Notion page has a link to the Breach Management page, which
+includes a link to the form to lodge an incident for review.
+● All Square AU Employees have direct access to contact the Compliance Officer via email
+and Slack (a third-party secure intercompany communications software), and have been
+trained to report any breaches or incidents.
+● In the event the Compliance Officer is not immediately available, any breaches or likely
+breaches may be referred immediately to any of the Square AU Compliance Team, Senior
+Management or the Counsel Team, who will endeavour to resolve and/or mitigate the
+breach in accordance with this Policy.
+● The Compliance Officer monitors raised incidents including the severity incident program
+SEV and Detection and Response engineering Requests DART. These teams provide
+24/7 coverage for data security breaches and performance failures and are monitored by
+Square AU.
+
+Notwithstanding the above, for breaches that arise from data security or service failures, Square AU
+will participate in the steps set forth in Block, Inc.ʼs Incident Response Plan. In addition, if such a
+breach is determined to be a ‘Reportable Situationʼ according to IRP and the above factors, it will be
+reported to ASIC in accordance with this Policy.
+Incident Review
+If an incident that may result in a breach (or likely breach) is identified by a representative other than
+the Compliance Officer , they must inform the Compliance Officer, or delegate, as soon as possible
+of identifying the breach (or likely breach).
+Upon becoming aware of an incident or potential breach breach (or likely breach), Square AUʼs
+Compliance Officer, upon discussion with and advice of the Counsel Team, will decide whether there
+are reasonable grounds to believe that the incident or potential breach (or likely breach) has given
+rise to a Reportable Situation.
+The incident review is undertaken by a Compliance Officer, with oversight by the CCO and Legal
+Counsel. The review process encompasses a review of the scope and impact of the incident and an
+assessment is made as to whether or not the situation is deemed Reportable to ASIC.
+2.3. Reporting Timeframe
+The report must be submitted to ASIC within 30 calendar days from the time Square AU becomes
+aware, or is reckless in not being aware, that there are reasonable grounds to believe a ‘Reportable
+Situationʼ has occurred.
+Square AU is considered to know that reasonable grounds exist to believe a Reportable Situation has
+arisen if it is aware of facts or evidence that would lead a reasonable person to conclude that such a
+situation has occurred.
+Square AU may legally be considered “recklessˮ if it does not actually know that reasonable grounds
+exist, but:
+● it is aware of a substantial risk that reasonable grounds may exist; and
+● given the circumstances known to Square AU, taking that risk would be unjustifiable.
+2.4. Form of Reporting
+
+The report must be lodged online via ASICʼs Regulatory Portal, which is available at:
+https://regulatoryportal.asic.gov.au/. The information to be included in the report to ASIC will be
+sourced from the breach register.
+All reports must contain the prescribed fields required by ASIC, including (where applicable):
+- The affected obligation(s) and relevant legislative reference
+- Nature and root cause of the breach/incident
+- Actions taken to rectify or remediate impact to clients, controls or systems
+- Steps to prevent recurrence
+A copy of the report is retained as part of the Breach Register for not less than 7 years.
+2.5. Breaches Register
+Square AU will maintain a register of breaches (or likely breaches) in the form set out in Annexure A
+with respect to these regulated products.
+For breaches that arise from data security breaches or service failures, Square AU will participate in
+the steps set forth in Block, Inc.ʼs Incident Response Plan. Such breaches that are identified as
+‘Reportable Situationsʼ will be added to the breach register by the Compliance Officer and reported
+to ASIC in accordance with this Policy.
+The Square AU Breach Register captures all reasonable steps, the investigation date, determination
+date, and notification date. It is maintained on a regular basis by the CCO or Compliance Team, with
+root cause trends elevated to the Risk Committee or Board on a quarterly basis. All confirmed
+breaches are reported to the Board through the quarterly board reporting process. Access to the
+Register is restricted and is monitored for unauthorised access or changes
+2.6. Whistleblower Program
+Employees must report suspected or actual breaches without fear of reprisal. Information about
+breaches, investigations, and reports is confidential and protected in accordance with the Block Inc.
+Data Classification & Handling Policy and Square AU Whistleblower Policy.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+
+● Board of Directors of Square AU Pty Ltd (“Boardˮ):
+○ Primary Role:
+■ Approve policy creation and amendments.
+○ Responsibilities:
+■ Review and authorize changes to the breach reporting policy based on
+regulatory updates.
+● Chief Compliance Officer - Square AU (“CCO Square AUˮ):
+○ Primary Role:
+■ Oversee breach identification, decision-making, and reporting.
+○ Responsibilities:
+■ Identify breaches or likely breaches within 48 hours upon notification.
+■ Document evidence, determine reportability to ASIC, and maintain the
+breach register.
+■ Oversee reporting to ASIC within 30 days if a Reportable Situation arises.
+■ Monitor incidents via data security and detection response programs for
+potential breaches.
+■ Own and maintain the breach reporting policy document; Schedule reviews
+as per compliance matrix and implement necessary ad-hoc updates.
+■ Approve any policy exceptions requested by employees.
+■ Reports at least quarterly to the Board on breach trends, overdue reports,
+systemic issues, training status, and regulatory feedback.
+● Square AU Core Group Hybrid GRC/ExCo)
+○ Primary Role:
+■ Provide cross-functional oversight and governance of breach reporting,
+ensuring timely escalation, assessment, and remediation of incidents across
+Square AU.
+○ Responsibilities:
+■ Review and monitor breach reporting activities
+■ Support the CCO and Responsible Managers in assessing reportability
+under ASIC RG 78 and ensuring consistent application of criteria across
+business areas.
+■ Oversee remediation actions and control improvements arising from
+breaches or incidents.
+■ Ensure alignment between operational, legal, risk, and compliance
+functions on breach handling and escalation processes.
+■ Endorse updates to breach reporting procedures, templates, and escalation
+pathways as part of ongoing compliance framework enhancement.
+● Responsible Managers:
+○ Primary Role:
+■ Support Compliance Officer in breach reporting when an immediate
+response is needed.
+○ Responsibilities:
+■ Step in during the Compliance Officerʼs absence to assess and manage
+breaches.
+■ Provide guidance on breach significance and assist in completing
+documentation.
+
+■ Collaborate in decision-making processes.
+● Counsel Team:
+○ Primary Role:
+■ Provide advice on breach significance and interpretation
+○ Responsibilities:
+■ Provide advice on breach significance and assist in completing
+documentation.
+■ Consult on the legal interpretation of obligations.
+■ Responsible for the formal notification to ASIC of any reportable breaches.
+● Employees (also referred as Staff):
+○ Primary Role:
+■ Initial breach identification and notification.
+○ Responsibilities:
+■ Report any breaches or likely breaches immediately to the Compliance
+Officer or Responsible Managers.
+■ Responsible for escalating all possible breaches, including near-misses and
+incidents for assessment.
+● Data Security and Detection Teams (e.g., severity incident program (“SEVˮ) and
+Detection and Response engineering Requests (“DARTˮ)):
+○ Primary Role:
+■ Detect and report on potential data breaches or performance failures.
+○ Responsibilities:
+■ Provide 24/7 monitoring and alerts to the Compliance Officer on detected
+incidents as appropriate.
+■ Collaborate on the steps set forth in the Incident Response Plan to assess
+breach significance.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+Breach reporting statistics are collated quarterly and shared with executive management/Board.
+
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively.
+All new hires must complete training within one month of commencement, including training on the
+Block Inc go/ethics process of notifying the appropriate teams of potential incidents and breaches
+Training on Breach reporting is also provided on an annual basis to appropriate teams. All training
+related activities are monitored by the Compliance Team and are outlined in the Compliance Training
+Program.
+3.4. Record Retention
+All Breach related documents (including registers, supporting evidence, reports, internal messages,
+training records, and notifications) are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related references:
+● RG 78 Breach reporting by AFS licensees and credit licensees
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square AU Pty Not Applicable Creation Approved the September 11,
+Ltd Board creation of the 2019
+document
+Square AU Pty Not Applicable Scheduled R… Approved minor December 10,
+Ltd Board changes to the 2020
+document
+Square AU Pty Not Applicable Scheduled R… Approved minor December 9, 2021
+Ltd Board changes to the
+document
+Square AU Pty Not Applicable Material Cha… Approved December 8,
+Ltd Board changes and 2022
+updated to
+manage changes
+in regulatory
+guidance.
+Square AU Pty Not Applicable Immaterial C… Approved December 8,
+Ltd Board changes and 2022
+updated to
+manage changes
+in regulatory
+guidance.
+Square AU Pty Not Applicable Scheduled R… Approved December 13,
+Ltd Board changes and 2023
+updated to
+manage changes
+in regulatory
+guidance.
+Square AU Pty Not Applicable Scheduled R… Approved minor December 13,
+Ltd Board changes to the 2023
+document and
+new template
+Lance Howard CCO Square AU Scheduled R… Updated to new November 18,
+template and 2024
+
+consolidated
+Square AU Pty Not Applicable Scheduled R… Updated to new December 11,
+Ltd Board template and 2024
+consolidated
+Square AU Pty Not Applicable Scheduled R… Update to align December 18,
+Ltd Board with processes 2025
+and annual review
+Document Details:
+Business Square
+Scope Regional AU
+Compliance Domain Governance
+Document Owner CCO Square AU
+Approved By Square AU Board
+Document Tier Tier 2
+Annexure A
+# Approver Date of Description Signific How was How Whether Was the Date the Future
+breach of the ant? the long and how breach a breach compliance
+(or breach breach did the the ‘Reportabl was (steps that
+likely identified breach breach e rectified have been
+breach) ? last? has Situationʼ? and how or will be
+been If yes, was taken to
+rectified it reported ensure
+to ASIC future
+and on compliance)
+what date?
+1
+2
+3

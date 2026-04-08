@@ -1,0 +1,710 @@
+Fitness and Probity Policy
+Square | Squareup International Limited
+Last Approved: Mar 24, 2026
+Effective Date: Mar 24, 2026
+1. Overview
+Introduction and Purpose: Squareup International Limited (“SILˮ or referred to as “the Companyˮ)
+is authorised by the Central Bank of Ireland (the “CBI ˮ) as an e-money institution (“EMoney Firmˮ)
+pursuant to Regulation 9 of the European Communities Electronic Money) Regulations 2011 (as
+amended) (the “EMoney Regulationsˮ). The Company was incorporated on 26 May 2016 under
+registration number 583287 and was authorised as an EMoney Firm by the CBI on 18 June 2020
+(with CBI reference number: C184117. In 2010, the Central Bank Reform Act 2010 (as amended)
+(the “Actˮ) created a new unified structure for financial regulation within Ireland and established
+the CBI as a single fully integrated structure with a unitary board – the CBI Commission.
+The Act enhances the system of regulatory control and confers additional powers on the CBI and
+its Governor to support the stability of the financial system and to protect users of financial
+services. As part of this, the Act harmonised a statutory system for the regulation of persons
+performing CFs or PCFs in regulated financial service providers. This allowed the CBI to introduce
+their F & P Regime. This regime has been enhanced by the Central Bank Individual Accountability
+Framework) Act 2023 (the “IAFˮ).
+The core aim of the F & P Regime is to ensure that persons in senior positions within firms are
+competent and capable, honest, ethical and of integrity, and also financially sound.
+As a regulated EMoney Firm, the Company is subject to the F & P Regime and the provisions of
+the Act.
+The purpose of this Policy is to facilitate the Companyʼs compliance with its obligations under the
+Act. This Policy also provides an explanation of the F & P Regime and the relevant requirements the
+Company must adhere to, in order to ensure CFs and PCFs are competent and capable, honest,
+ethical, of integrity and financially sound.
+1
+
+This Policy should be read in conjunction with the Companyʼs Fitness and Probity procedures and
+F & P Framework. The Companyʼs HR can be contacted to obtain a copy of any of these
+documents, if needed.
+Scope: This Policy is established by SIL and is applicable to persons that hold CF or PCF roles
+within SIL and persons that perform CF or PCF roles on behalf of SIL.
+Definitions:
+Terminology Definition
+Controlled A CF is a function performed with respect to a regulated financial service
+Functions provider, like Squareup International Limited (“SILˮ), which is prescribed by
+(“CFsˮ) the Central Bank of Ireland (“CBIˮ) as a CF. A full list of CBI-prescribed CFs
+can be found in the CBIʼs Guidance on the Fitness and Probity Standards.The
+designation as a CF is dependent on the functions performed by the
+individual rather than their job title or physical location in the organisation
+structure.
+CF1 A CF that has the ability to exercise significant influence on the conduct of
+the affairs of a regulated financial service provider, such as SIL
+CF2 A CF that ensures, controls or monitors compliance by a regulated financial
+service provider with its relevant obligations
+Pre-Approval A PCF is a Pre-Approval Controlled Function and is a subset of CFs. PCFs are
+Controlled key roles within a firm and by virtue of the nature of the role, require
+Functions pre-approval from the CBI.
+(“PCFs)ˮ
+2. Policy Requirements
+2.1. The Fitness and Probity Regime
+Description of Controlled Functions
+Controlled Functions (“CFˮ)
+The CFs and PCFs that are relevant to the Company and the holders of those functions are set out in
+the Companyʼs PCF and CF registers. The Companyʼs CF and PCF Registers are maintained by the
+Companyʼs HR.
+Outsourced Functions
+If PCF and CF roles are outsourced to an ‘unregulated entityʼ (like Block, Inc.), certain conditions
+must be met under the F & P regime and prior CBI approval is required for any PCF role that is
+2
+
+outsourced to an ‘unregulated entityʼ. In all cases, the relevant persons performing the outsourced
+role must comply with the applicable F & P Standards.
+The following requirements will apply when the Company is outsourcing a PCF or CF role to an
+“unregulated entityˮ:
+Outsourcing PCFs
+The outsourcing agreement must identify the person who will perform the outsourced PCF function.
+The Company will obtain the CBIʼs prior written approval for the appointment of that person to the
+PCF. Any outsourcing arrangement must also identify the person in the Company who is responsible
+for the performance of the PCF. The Company will complete the certification of the compliance
+process in respect of each PCF.
+Outsourcing CFs
+SIL will put a written agreement/contract in place between it and the outsourced service provider
+that performs CFs., It is not necessary to identify and list in writing each person performing the CF in
+that agreement. The outsourced service provider should incorporate the F & P Standards into its own
+HR process. The outsourced service provider must: (i) be able to identify the persons who will
+perform the CFs and assess whether those persons are compliant with the F & P Standards; and (ii)
+assess whether the CFs are compliant with the F & P standards and (iii) obtain those personsʼ
+agreement to abide by the F & P Standards.
+The outsourced service provider should, if requested, provide written confirmation to the Company
+that the persons performing CFs are compliant with the F & P Standards and have agreed to abide by
+them.
+The Company remains responsible for satisfying itself on reasonable grounds that persons
+performing CFs comply with the F & P Standards and that those persons have agreed to abide by the
+F & P Standards the Company remains responsible for the certification of compliance process in
+respect of each CF.
+2.2. The Fitness and Probity Standards (“F & P Standardsˮ)
+The F & P Standards set the benchmark for considering the fitness, probity and financial soundness
+of people appointed to a PCF or a CF and may form the basis for refusing to approve the
+appointment of a person to a PCF or for removing or prohibiting someone from a CF if they do not
+meet those standards. The F & P Standards require PCFs and CFs to:
+● Be competent and capable;
+● Act honestly, ethically and with integrity; and
+● Be financially sound.
+The Company undertakes appropriate due diligence to satisfy itself on reasonable grounds that its
+PCFs and CFs comply with the F & P Standards and be in a position to certify this. To satisfy the
+reasonable grounds test, the Company undertakes the required due diligence, prior to appointment,
+as set out in the sections below.
+3
+
+Compliance with this requirement is a continuing obligation and is not a one-off obligation that is
+discharged once due diligence has been undertaken prior to the appointment of the CF or PCF. The
+Company will conduct due diligence on persons in CF and PCF roles on an on-going basis. Please
+see further information on this in the on-going compliance section. The majority of due diligence will
+be assessed by the Company itself in the case of PCFs and CF1CF2.
+The Company cannot permit a person to perform a CF or PCF role, or allow them to continue in such
+a role, unless it is satisfied that the person meets the F & P standards as set out in Appendix 1, a
+certificate of compliance with the F & P standards is in force in relation to the person; and the person
+has agreed in writing to comply with any such standards.
+Certain CF roles may be exempt from the application of these F&P Standards. This does not mean
+these roles are exempt from the F&P Regime in full i.e. they will remain subject to Part 3 of the Act
+(e.g. the powers of investigation, suspension and prohibition) and the Conduct Standards within the
+IAF (“the Conduct Standardsˮ).
+Appropriate Level of Due Diligence When Assessing Fitness
+Persons performing a PCF or a CF must be competent and capable. The Company will determine
+the particular demands of a CF or a PCF, i.e., what qualifications, experience, and knowledge are
+commensurate with the requirements of the role and other relevant factors will make a person fit to
+perform that function and meet the responsibilities of the role. The inherent responsibilities of certain
+PCF roles have been set out in the CBI Guidance on the Fitness and Probity Standards (“the
+GuidanceˮThe due diligence considered suitable to determine a personʼs fitness to perform a CF or
+a PCF includes the following measures:
+● Evidence of professional qualification(s), where relevant (to be performed as part of initial
+due diligence and on an ongoing basis, if applicable);
+● Professional body checks, where relevant, (to be performed as part of initial due diligence
+and on an ongoing basis, if applicable;
+● Evidence of CPD, where relevant (to be performed as part of initial due diligence and on an
+ongoing basis, if applicable);
+● Record of interview and application, where applicable;
+● References (to be performed as part of initial due diligence);
+● Record of previous experience. If the level of experience and knowledge set out in the
+Guidance is met or exceeded, it can be presumed that the individual has sufficient
+experience/knowledge unless there is an indication to the contrary. An individual who does
+not hold the years of experience set out could still be considered fit and proper where the
+Company can justify this;
+● Record of experience gained outside of Ireland, where relevant (to be performed as part of
+initial due diligence); and
+● Concurrent responsibilities (to be performed as part of initial due diligence and on an
+ongoing basis, if applicable). Time commitments must be assessed, which take account of
+the nature, scale and complexity of the Company, and the individualʼs other mandates such
+as directorships, other CF/PCF roles. Individuals holding multiple CF roles must
+demonstrate competency for each,sufficient capacity and the absence of unmanageable
+4
+
+conflicts of interest. If a conflict of interest exists, its materiality is to be evaluated and it is
+to be assessed whether it can be adequately mitigated or managed.
+The level of due diligence expected to be undertaken will vary depending on the role. The Additional
+Due Diligence in Relation to Persons Conducting Specific PCFs and CFs section sets out the
+additional level of due diligence required for specific PCFs and CFs
+Appropriate Level of Due Diligence When Assessing Probity
+Much of an assessment of a personʼs character, in terms of their probity, can only be undertaken in
+the case of exceptions, i.e., it is only when evidence is available to suggest that a person might not
+comply with the standard of probity required of them that the Company must investigate thoroughly.
+The principle of proportionality cannot be applied in relation to probity.
+The due diligence to be employed to determine a personʼs probity to perform a CF or a PCF should
+include the following measures:
+● Obtain signed written agreement from the PCF or CF on an annual basis in relation to their
+ongoing compliance with the F & P Standards and confirming whether or not any of the
+circumstances set out in the F & P Standards apply to them (the “ F & P Agreementˮ);
+● Assess and document whether any exceptional matter is material to the relevant function
+based on the evidence received (e.g. underlying documentation which the person should
+be required to furnish such as reports/decisions);
+● If the exceptional matter is considered material, the Company should make all reasonable
+enquiries arising because of the information provided by the person, such as, where
+relevant, contacting third parties for further information, e.g. former employers, regulatory
+authorities, etc.;
+● Investigate any evidence suggesting an individual may not be able to comply with the
+probity standards. If the matter is relevant (such as disciplinary proceedings for a serious
+matter), this should be considered in conjunction with other relevant matters;
+● Individual matters regarding Fitness and Probity may not be significant in isolation, their
+cumulative effect must be considered. The cumulative effect might determine whether the
+individual is fit and proper to perform, or continue to perform, the CF.
+● The Company is not required to remove or suspend a person from acting in a CF/PCF
+solely on the basis that one or more of the circumstances listed in F & P Standards may
+have occurred.
+The Companyʼs HR will:
+● Undertake appropriate due diligence including all checks and searches deemed
+appropriate and prudent in order to satisfy the Company, on reasonable grounds, that a
+PCF/CF is in compliance with the F & P Standards;
+● Revert to the individual concerned to identify other possible avenues of inquiry, where
+reasonable efforts have been made to contact third parties and no response or insufficient
+detail has been received.
+● Obtain all necessary information required under the F & P Standards;
+5
+
+● Seek to ensure that each CF and PCF shall have the qualifications, experience,
+competence and capacity appropriate to the relevant function; and
+● Review the above information collated and if satisfied on reasonable grounds that the
+person performing the CF or PCF role is fit and proper, certify the person complies with the
+F & P Standards. See section on Certification Process for more details.
+The Company will ensure the person is honest, diligent, and independent-minded and must act
+ethically and with integrity. To do so, the Company will seek written confirmations to certain
+questions through the Companyʼs Fitness and Probity questionnaire form. Where the person
+confirms one or more of the circumstances set out in the Companyʼs Fitness and Probity
+questionnaire apply, the person must be in a position to demonstrate that their ability to perform the
+CF or PCF is not adversely affected to a material degree by that matter. Board members are also
+required to be independent - minded1, ensuring that independent judgement is exercised. The
+Fitness and Probity procedures set out the considerations to be taken into account when making this
+assessment.
+Additional Due Diligence in Relation to Persons Conducting Specific PCFs and CFs
+The Company undertakes the following minimum additional due diligence in relation to persons
+performing specific PCFs/CFs:
+● For PCFs, CF1 and CF2 Check against publicly available sources to determine whether a
+judgement debt has been registered against a person (including in jurisdictions where the
+person has lived for more than 6 months in the previous 5 years (to be performed as part of
+initial due diligence and ongoing));
+● For PCFs, CF1 and CF2 Refer to the CBI ʼs website and those of other regulatory authorities
+(where available) to confirm for their own records that the person has not been the subject
+of sanction, or other regulatory action (to be performed as part of initial due diligence and
+ongoing);
+● For PCFs, CF1 and CF2 Check the Companies Registration Office records for restrictions or
+disqualifications from acting as a company director and any other equivalent registers in
+another relevant jurisdiction (e.g., where the PCF/CF1/CF2 has lived/worked in that
+jurisdiction for more than 6 months in the previous 5 years (to be performed as part of
+initial due diligence and ongoing));
+● For PCFs, CF1 and CF2 The Company requires those performing PCFs/CF1s/CF2s to
+confirm whether, to the best of their knowledge, the circumstances they, or any business
+where they held a position of responsibility or influence at the relevant time, have been
+subject to an investigation, disciplinary action or criticism (to be performed as part of initial
+due diligence and ongoing);
+● For PCFs, CF1 and CF2 Conduct adverse media checks in respect of each person and
+previous employers;
+● If any matter/adverse result is returned in respect of any person and is deemed material,
+make reasonable enquiries, for instance contacting third parties such as former employers
+or regulatory authorities for further information; and
+1 The fact that a Board member is considered as "being independent" does not mean that the member of the board should
+automatically be deemed to be "independent of mind" and the individualʼs independence of mind should be assessed.
+6
+
+● For all PCFs and CFs: The Company requires those performing the roles to confirm
+whether they have ever in any jurisdiction been convicted of a criminal offence or been
+subject to any criminal investigation and/or proceedings or civil proceedings. The
+Company will consider the impact of the criminal convictions (involving dishonesty, fraud,
+financial service, insolvency, consumer, insurance, market manipulation, insider dealing or
+revenue law) on a personʼs ability to perform a relevant function having regard, for
+instance, to the circumstances of the conviction and its relevance to the performance of
+the function, the length of time since the conviction, the explanation offered by the
+convicted person and evidence of their rehabilitation.
+2.3. Certification Process
+Where HR is satisfied on reasonable grounds that a person performing a CF/PCF, or proposing to
+perform a CF/PCF complies with any F & P Standards applicable to that person, and they agree in
+writing to comply with these standards, HR must issue a certificate of compliance in respect of that
+person.
+The certificate will be issued with respect to each CF/PCF prior to the appointment of a person to
+perform that CF/PCF, and on an annual basis. In regard to PCFs, a certificate of compliance should
+be issued before the submission of a CBI Individual Questionnaire application.
+Where a certificate has been issued with respect to a person , and the person is proposed to
+perform one or more further CF/PCF roles, the certificate is to be updated.
+In order to issue a certificate, HR must identify and maintain a record of:
+● The particular controlled function(s) performed by the CF/PCF;
+● The aspects of the affairs of SIL in which a person performing CF/PCF will be involved;
+● The basis on which SIL is satisfied that the person performing the CF/PCF meets any F & P
+Standards applicable to them; and
+● Whether the role is outsourced to an unregulated entity.
+A certificate of compliance is valid for a period of 12 months beginning from the date of issue and
+must be renewed by HR at least annually, where appropriate to do so.
+2.4. Ongoing Regulatory Responsibilities
+Responsibilities of the Company
+The Companyʼs HR is responsible for:
+● Identifying and maintaining a record of persons performing a PCF or CF;
+● Documenting the due diligence carried out on CFs and PCFs to ensure adherence to the F
+& P Standards;
+7
+
+● Making the above records available to the CBI upon request.
+● Issuing a certificate of compliance with respect to each person holding or proposing to
+hold a CF/PCF, when satisfied the persons comply with the F & P Standards; and
+● Making the above records available to the CBI upon request.
+The Companyʼs Chief Compliance Officer is responsible for:
+● Maintaining the record of persons performing a PCF on the CBIʼs (‘Portalʼ) ; and
+● Maintaining a record of PCF IQ forms and the annual PCF confirmation and CF certification
+returns, submitted to the CBI and the respective CBIʼs approval and CBI receipt
+confirmations.
+Fitness and Probity Agreement
+The Company will satisfy itself on reasonable grounds that CFs/PCFs are fit and proper at the point
+of taking on their role as well as on a continual basis. As part of this ongoing obligation, the F & P
+Standards will be brought to the attention of every person performing a CF/PCF on the Companyʼs
+behalf and a signed Annual F & P Agreement to this effect must be obtained. The Company will not
+permit a person to perform a CF/PCF role or continue to perform a CF or PCF role, if they have not
+agreed in writing to abide by the F & P standards.
+Any proposed new appointment of a PCF will be made in accordance with the requirements, and
+with the approval of the CBI and the Board of the Company, with the Board to approve the proposed
+appointment prior to any application being made to the CBI. The Board is to receive a statement of
+suitability regarding the proposed candidate to assist its consideration of the appointment. Similarly,
+any resignation of a PCF will be effected in accordance with the requirements of the CBI.
+A person who has not been pre-approved by the CBI is not eligible to be elected as chair of the
+Companyʼs board, until pre-approval from the CBI is received.
+All PCFs/CFs are required to notify the Companyʼs HR of any changes to their circumstances which
+might be material to their fitness and probity. Where appropriate, the Company will assess if that
+person still satisfies their obligations under the F & P Standards.
+In order to ensure that the Company complies with its ongoing obligations under the F & P Standards,
+IAF and the Act, the Companyʼs HR will each year:
+● Obtain a signed copy of the annual F & P Agreement and questionnaire form from all PCFs
+and CFs;
+● Conduct ongoing due diligence, including refreshing checks and searches where deemed
+appropriate and prudent on an ad hoc basis, for each PCF/CF holder;
+● Confirm there is a valid certificate of compliance with respect to each person holding PCFs
+and CFs roles; and
+● Upon request, provide to the Chief Compliance Officer and/or CEO, copies of the signed
+annual F & P agreement and questionnaire form obtained from all PCFs and CFs, together
+with an update regarding any due diligence or refresher checks and searches that are
+undertaken.
+8
+
+The Companyʼs HR will provide to the Board a summary of the steps taken by them as part of the
+ongoing review, at the Q4 Board meeting, together with an annual confirmation which will be
+recorded in the minutes of the meeting:
+● That the F & P Standards have been brought to the attention of all persons performing
+PCFs/CFs in the Company and that the Company is satisfied on reasonable grounds that all
+persons performing PCFs/CFs in or on behalf of the Company are compliant with the
+Standards;
+● That the Company is satisfied on reasonable grounds that the Annual F & P Agreement and
+Certification Form of each person performing a PCF/CF has been obtained;
+● That due diligence has been undertaken to evidence compliance of each person
+performing a PCF/CF with the F & P Standards; and
+● That concerns regarding the fitness and probity of each person performing a PCF/CF will
+be investigated and appropriate action will be taken and any relevant notifications made to
+the CBI without delay.
+● A valid certificate of compliance has been issued with respect to each person holding PCFs
+and CFs roles; and
+● The Company cannot permit a person to perform or continue to perform a CF/PCF unless
+the person has agreed to abide by the F & P Standards.
+On foot of this confirmation to the Board, the CEO confirms in writing to the EU Compliance team,
+that all necessary due diligence has occurred, that all PCF holders continue to agree to comply with
+the F & P Standards and that the Company will take appropriate action in relation to any fitness and
+probity concerns. This written confirmation is needed to facilitate the EU CCO or their delegates in
+filing an annual PCF confirmation and CF certification return to the CBI via the Portal. The annual
+PCF confirmation and CF certificate return confirms that each active PCF holder is compliant with
+the F & P Standards, that they continue to agree to abide by those standards and that the
+certification process for each PCF has been completed. The annual PCF confirmation return sets out
+a list of all persons performing a PCF in or on behalf of the Company and must be confirmed as
+correct as per the deadline in the Portal.
+In circumstances where SIL has revoked, or decided not to renew a certificate of compliance, in
+whole or in part, because the certificate of compliance requirements have not been met, SIL must
+notify the CBI of this.
+If any circumstances arise, whereby SIL cannot complete the annual CFl certification return (for
+example, where a person in a CF role has yet to complete the continuing professional development
+(“CPDˮ) hours but is scheduled to do so within a reasonable timeframe) HR is to reach out to the EU
+Compliance team or EU Regulatory Counsel to assess the materiality of the situation, determine any
+impact on the certification of the person, and record the rationale for this and the timeframe within
+which it will be remedied and if appropriate confirm that the the overall certification process has
+otherwise been completed.
+2.5. An assessment of the initial and ongoing collective suitability of the Board must also be
+conducted.2.5 CBIʼs Approval Process for PCFs
+9
+
+The IQ forms part of the CBIʼs F & P assessment for PCFs and it covers reference checks, requests
+for additional information in some instances, and if necessary, interviews with proposed PCFs.
+A PCF applicant completes an online declaration as to the accuracy and veracity of the information
+provided. The Company completes an online declaration confirming that appropriate due diligence
+and checks of the PCF applicant were undertaken by the Company and confirming that the Company
+is satisfied that the proposed holder of the PCF is fit and proper.
+If an individual is proposed for more than one PCF role, the individual must be approved by the CBI
+in respect of the performance of each PCF role.
+Failure by a candidate to satisfy the CBI as to their ability to comply with the F & P Standards may
+lead to approval being refused. Where the CBI considers it necessary, it may conduct an interview
+with a PCF applicant before deciding whether or not to approve an application.
+There are also additional requirements applicable to PCFs of an EMoney Firm and therefore, the
+Company must comply with all of the requirements of Guideline 16 of the “EBA Guidelines on the
+information to be provided for the authorisation of payment institutions and e-money institutions and
+for the registration of account information service providersˮ (the “EBA Guidelinesˮ) which relates to
+the “identity and suitability assessment of directors and persons responsible for the management of
+the payment institution or electronic money institutionˮ.
+Accordingly, a number of amendments have been made to the Fitness and Probity Individual
+Questionnaire application to reflect the EBA Guidelines. The CBI has issued guidance to EMoney
+Firms in relation to the requirements of the EMoney Regulations and the EBA Guidelines and this
+guidance sets out the additional questions and additional information to be provided for PCFs of
+EMoney Firms, to include an objectively reliable source of information concerning the absence of
+criminal conviction, investigations and proceedings, such as a testimony made by a lawyer
+established in the European Union. CBI approval usually takes up to six weeks. It should be noted
+that where the CBI approves a proposed appointment to a PCF that, in itself, is not a certification of
+the PCFʼs compliance with the F & P Regime. The Company remains bound to satisfy itself, in
+accordance with section 21 of the Act on reasonable grounds that the applicable PCF is compliant
+with the F & P Regime.
+The Company may inform a prospective PCF of its intention to make an offer of employment subject
+to receiving the CBIʼs prior approval in writing. Any such statement of intention should include
+specific language to be provided by the Companyʼs Employment Counsel.
+The Board will minute that the Company has conducted the required F & P checks on any
+prospective PCF (including appropriate due diligence) and that it is satisfied that the person meets
+the F & P Standards, and that the person will be appointed to the role subject to CBI approval and will
+take effect from the date that this approval is received.
+Any offer of employment made by the Company in contravention of the Act does not create any
+contractual obligations between the Company and the prospective employee. Accordingly, any offer
+of employment in respect of a PCF role is subject to receipt by the Company of the CBIʼs prior
+10
+
+approval in writing. The Companyʼs Employment Counsel is responsible for ensuring that any offer
+letters for any PCF roles take account of these requirements.
+2.6. Pre-Approval Controlled Function Training
+PCFs receive training and information updates on a periodic basis on matters relating to the
+Company. Each PCF is aware of the framework within which the Company operates, its relevant
+policies and procedures and the reporting applicable to it, so as to provide for the proper discharge
+of their responsibilities as a PCF. Specific training on the F & P regime and requirements is to be
+provided to PCFs every one to two years.
+2.7. Performing a PCF role on a Temporary Basis
+SIL may appoint a ‘Temporary Officerʼ to fill a vacant PCF role for up to six months, provided they
+comply with the F&P Standards and both the Common and Additional Conduct Standards within the
+IAF. The Company must certify that the appointee meets the F&P Standards and has agreed to
+comply with them. The Company must also get prior written agreement from the CBI regarding this
+appointment. Details of the written notification to the CBI are contained in the SILʼs PCF approval
+process document. for roles exercising significant influence, the CBI will likely require a full PCF
+application regardless of the temporary nature.
+If a Temporary Officer is filling a permanently vacated PCF role, a PCF application must be submitted
+to the CBI within three months of the appointment. Failure to do so causes the CBI agreement to
+lapse three months after the date of the agreement, and the Temporary Officer will no longer be
+permitted to fill the role, save in exceptional circumstances. If submitted timely, the Temporary
+Officer may remain in the role until a decision is made, within the six-month limit.
+If the original role holder returns from a temporary absence, their PCF approval remains valid and no
+new application is required.
+2.8. Sharing of PCF roles
+Sharing a single PCF role is prohibited except in cases of formal job sharing 2 or where a role
+spans multiple distinct business lines. To determine if an arrangement is permissible, the
+Company must conduct a case-by-case assessment considering PCF role type, the business
+model,industry standards, the rationale and the specific role details.
+2.9. Changes to Roles
+When EU Compliance is notified of a change to an existing PCF holder e.g. resignation or removal of
+a PCF holder, the EU CCO must notify the CBI of the change via the CBI portal without delay.
+2 Employment arrangement where two people are employed on a parttime or reduced-time basis to perform a job normally
+fulfilled by one person)
+11
+
+It is therefore very important that the EU CCO is notified of any changes as soon as possible, for
+onward reporting to the Board and notification to the CBI.
+The Company has and maintains succession plans to ensure it is prepared to meet its F & P
+obligations going forward, as required.
+2.10. Non-Compliance
+Where evidence is available to suggest that a CF or PCF might not comply with the F & P Standards,
+the Board must investigate this thoroughly. A breach of the F & P Standards could, depending on the
+nature of the breach, constitute “gross misconductˮ and may result in disciplinary sanction(s) up to
+and including dismissal.
+While there is no exhaustive list of the types of action that must be notified to the CBI these would
+include, for example, the issuing of a formal written warning, suspending/dismissing a person or
+reducing/recovering some of their remuneration as a result of issues relating to fitness and/or
+probity. Such action may necessitate the removal or non-renewal of the personʼs status as certified
+(at the time of annual review).
+Where appropriate, the EU CCO will notify the CBI of any compliance issues without delay. The
+Company may do so by emailing FitnessAndProbity@centralbank.ie.
+The CBI may investigate a person who:
+● performs a CF or PCF role;
+● SIL proposes, or is considering, to appoint to carry out a CF (other than a PCF
+● who formerly performed a CF or PCF role provided that they performed that role within the
+shorter of the following periods: (a) the period since 19 April 2023 and (b) the 6 years
+before the date the investigation commenced
+Where a person is or has been the subject of an F & P investigation by the CBI, the Company may
+have to:
+● Comply with a suspension notice;
+● Comply with an evidentiary notice; or
+● Comply with a prohibition notice.
+If any of the circumstances set out above arise, please refer to the following and seek guidance from
+Regulatory Legal Counsel: Central Bank Reform Act 2010 Procedures Governing the Conduct of
+Investigations) Regulations 2023 and the Fitness and Probity Investigations, Suspensions and
+Prohibitions: Guidance April 2023.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+12
+
+● SIL Board of Directors (the “Boardˮ):
+○ Ultimately responsible for the Companyʼs compliance with the Act and the Central
+Bank of Irelandʼs Fitness and Probity Regime (“F & P Regimeˮ). However, from an
+operational perspective, responsibility for the day-to-day implementation of the
+Policy is delegated to the functions and individual role holders detailed in this
+section. For the Board to have effective and efficient oversight, it needs to have the
+right composition, adequate collective knowledge, and diversity of perspective,
+knowledge, skills and experiences to understand the Companyʼs activities, risks,
+broader financial context and to fulfil its responsibilities.
+○ Board memberʼs required knowledge, skills and experience must be kept up to date.
+This also includes an appropriate understanding of those areas for which an
+individual member is not directly responsible, but still is collectively accountable for
+together with the other members of the board.
+○ The role and the responsibilities of the board are clearly documented, and
+directors must have a full understanding of their individual direct and indirect
+responsibilities and collective responsibilities, enabling the Board to take
+appropriate decisions collectively.
+● Human Resources (“HRˮ):
+○ Responsible for:
+■ Ensuring the Fitness and Probity (“F & Pˮ) framework and related
+procedures are executed;
+■ Issuing a certificate of compliance with respect to each person holding or
+proposing to hold a CF/PCF, when satisfied on reasonable grounds that the
+person performing the CF or PCF role is fit and proper. See section on
+Certification Requirements for more details);
+■ Making the above records available to the CBI upon request; and
+■ Assisting the Board in relation to its compliance with the Act.
+● EU Chief Executive Officer:
+○ Responsible and accountable for the certificate of compliance process
+● EU Chief Compliance Officer (“EU CCOˮ):
+○ Responsible for:
+■ Coordinating the completion of the Individual Questionnaire (“IQˮ) form with
+the relevant PCF and submitting it to the CBI.
+■ Maintaining the record of persons performing a PCF on the CBIʼs Reporting
+System (‘Portalʼ) ; and
+■ Maintaining a record of PCF IQ forms and the annual PCF confirmation and
+CF certification returns, submitted to the CBI and the respective CBIʼs
+approval and CBI receipt confirmations.
+● EU Employment Counsel:
+○ Responsible for ensuring that there is a letter of appointment in place with each
+CF/PCF which sets out the terms of their appointment and the time they commit to
+the role they assume.
+● EU Regulatory Counsel:
+○ Responsible for updating the Board and HR as to any changes in law or guidance
+from the CBI in relation to the Act and/or the F & P Regime on an ongoing basis.
+13
+
+● CF and PCFs:
+○ Responsible for:
+■ Completing documentation relating to their fitness and probity truthfully and
+honestly, confirming that they are aware of the F & P Standards and agree
+to abide by those Standards; and
+■ Notifying the Companyʼs HR of any changes to their circumstances which
+might be material to their fitness and probity.
+■ Being available and accessible to the CBI
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+The Company will maintain all information collected in compliance with its obligations under the Act
+and its obligations with respect to the certification process under IAF, for the duration during which
+the person performs the CF or PCF. The Company will maintain information collected in compliance
+with the Act for a minimum of 6 years after that person has ceased to perform the function on behalf
+of the Company in accordance with the requirements of the CBI. With respect to the certification
+process, the Company will maintain all information and documentation relied upon in relation to
+certificates of compliance for a minimum of 6 years after that person has ceased to perform a PCF
+or a CF.
+SIL should have regard to its obligations under the General Data Protection Regulation in holding the
+information referenced above including ensuring that the information is held securely and in an
+appropriate manner.
+All Documents are retained according to the longer of:
+14
+
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● F&P procedure
+● Conduct Standards Policy
+● Conduct Standards procedure
+● PCF approval process
+Review related references:
+● Fitness and Probity Standards 2025
+● Guidance on Fitness and Probity Standards 2025
+● Central Bank Reform Act 2010 (as amended)
+● S.I. No. 2/2024 Central Bank Reform Act 2010 Section 21 6 Regulations 2024
+● Central Bank Individual Accountability Framework) Act 2023
+● Fitness and Probity Investigations, Suspensions and Prohibitions Guidance April 2023
+● Guidance on PI and EMI Specific Requirements
+● IAF guidance 2023
+● PCF Annual Confirmation and CF Certification Guidance
+15
+
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Danielle EU Regulatory Material Cha… Inclusion of new March 25, 2024
+Carmody Program Manager Certificate of
+Compliance
+requirements
+Updating the
+Elizabeth Henry EU CCO Material Cha… timing of when February 22,
+various due 2024
+diligence checks
+are to be
+performed, as per
+new CBI guidance
+SIL Board SIL Board Material Cha… March 25, 2024
+Updates to
+legislative and
+regulatory
+references
+Danielle EU Regulatory Scheduled R… New template, January 21, 2025
+Carmody Program Manager streamlined
+sections + New
+text regarding:
+Steps to take in
+advance of
+Elizabeth Henry EU CCO Scheduled R… February 27, 2025
+annual PCF
+confirmation and
+CF certification
+return being filed,
+as per new CBI
+SIL Board SIL Board Scheduled R… March 24, 2025
+guidance;
+PCF roles held on
+a temporary basis
+Elizabeth Henry EU CCO Scheduled R… New template; March 10, 2026
+Updated to align
+with new Fitness
+and Probity
+Guidance.
+16
+
+SIL Board Scheduled R… March 24, 2026
+Document Details:
+Business Square
+Scope Regional EU
+Compliance Domain Ethics & Employee Conduct
+Document Owner EU CCO
+Approved By SIL Board
+Document Tier Tier 2
+17
+
+Appendix 1 The F & P Standards
+Conduct to be competent and capable
+● A person shall have the qualifications, experience, competence and capacity appropriate to
+the relevant function.
+● A person must be able to demonstrate that they:
+○ have professional or other qualifications and capability appropriate to the relevant
+function;
+○ have obtained the competence and skills appropriate to the relevant function,
+whether through training or experience gained in an employment context; and
+○ have shown the competence and proficiency to undertake the relevant function
+through the performance of previous functions, which, if carried out at present
+would be subject to these F & P Standards, or current controlled functions, or
+performance by the person of any role similar or equivalent to the functions that are
+covered by these F & P Standards. If the person performed a function in a regulated
+financial service provider, which, if performed at present would be subject to these
+F & P Standards, and that regulated financial service provider received state
+financial support, consideration shall be given to the competence and skills
+demonstrated by that person in that function and to the extent, if any, to which the
+performance of their function may have contributed to the necessity for such state
+financial support.
+Conduct to be honest, ethical and to act with integrity
+A person must be able to demonstrate that their ability to perform the relevant function is not
+adversely affected to a material degree where one or more of the following may be applicable:
+● the person is or was a sole trader or a director or partner in a legal entity, which has in any
+jurisdiction, been refused, prohibited, restricted or suspended from the right to carry on
+any trade, business or profession for which a licence, registration or other authorisation is
+required by the law, in that jurisdiction or has had had any such registration, authorisation,
+membership or licence revoked, otherwise than on a voluntary basis;
+● the person has been the subject of any complaint made to the CBI, the Financial Services
+Ombudsman or any equivalent body, reasonably and in good faith, relating to activities
+regulated by the CBI or regulated by an equivalent authority in any jurisdiction. In
+considering whether the complaint adversely affects the personʼs ability to carry out a
+relevant function, consideration shall be given to the outcome of any inquiry or
+investigation or any similar process into that complaint if same has been concluded;
+● the person is or has been, in any jurisdiction, subject to any disciplinary proceedings or has
+been issued a warning, reprimand or other administrative sanction or its equivalent, by the
+CBI, or an equivalent measure issued by any other regulatory authority, (including any
+previous regulator), any clearing house and exchanges, any professional body, government
+body or agency;
+18
+
+● the person has been, in any jurisdiction, dismissed, or asked to resign and did resign, from
+any profession, vocation, office or employment or from any position of trust or fiduciary
+appointment, whether or not remunerated;
+● the person has, in any jurisdiction, been a director, of a company that was struck off the
+register of companies (or its equivalent) by the Registrar of Companies (or its equivalent)
+on an involuntary basis;
+● the person has been disqualified or restricted from acting as a director in any jurisdiction or
+has been disqualified from acting in any managerial capacity;
+● the person has, in any jurisdiction:
+○ been convicted of an offence either of money laundering or terrorist financing (or
+their equivalents);
+○ been convicted of an offence which could be relevant to that personʼs ability to
+perform the relevant function; or
+○ had a finding, judgement or order made against him/her involving fraud,
+misrepresentation, dishonesty or breach of trust or where the person is subject to
+any current proceedings for fraud, misrepresentation, dishonesty or breach of trust.
+○ the person has been the subject of any civil penalty enforcement action taken by a
+regulatory authority under any law in any jurisdiction;
+○ the person has been untruthful or provided false or misleading information to the
+CBI or been uncooperative in any dealings with the CBI ;
+○ the person, or any business with which the person held a position of responsibility
+or influence, has been or is being, in any jurisdiction, investigated, disciplined,
+censured, suspended or criticised by a regulatory or professional body, a court or
+tribunal or any similar body, whether publicly or privately; or
+○ the person has, in any jurisdiction, been found by the CBI or any other regulatory
+authority to have perpetrated or participated in any negligent, deceitful or otherwise
+discreditable business or professional practice.
+Financial Soundness
+A person shall manage their affairs in a sound and prudent manner.
+A person must be able to demonstrate that their role in a relevant function is not adversely affected
+to a material degree by the fact that one or more of the following may be applicable:
+● the person has defaulted upon any payment due arising from a compromise or scheme of
+arrangement with their creditors or made an assignment for the benefit of their creditors;
+● the person is subject to a judgement debt which is unsatisfied, either in whole or in part,
+whether in the Ireland or elsewhere;
+● the person is or has been the subject of a bankruptcy petition, whether in Ireland or
+elsewhere;
+● the person has been adjudicated a bankrupt and the bankruptcy is undischarged, whether
+in the Ireland or elsewhere; or
+● a person was a director of an entity which has been the subject of insolvency.
+19

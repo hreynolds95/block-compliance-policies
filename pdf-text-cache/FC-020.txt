@@ -1,0 +1,1398 @@
+Anti-Money Laundering & Anti- Terrorist
+Financing Policy
+Square | Square Canada, Inc.
+Last Approved: Mar 11, 2026
+Effective Date: Mar 11, 2026
+1. Overview
+Introduction and Purpose: Square Canada, Inc. (“Square Canadaˮ or “the Companyˮ) is a wholly
+owned subsidiary of Block, Inc., a Delaware corporation, which is a merchant services aggregator
+and mobile payments company in San Francisco, California. Square Canada is a money services
+business MSB offering payment processing solutions which allow customers (“Sellersˮ) to accept
+credit, debit and gift card payments in exchange for goods and services (“Managed Payments
+Service"). Square Canadaʼs Managed Payments Service includes a variety of product features,
+each of which is ancillary to the payment card processing solution1. Included within Square
+Canadaʼs Managed Payments Service are “crowdfunding platform servicesˮ, as defined under the
+PCMLTFA, which allow Sellers to raise funds from their respective customers. Crowdfunding
+platform services may only be used by Sellers to raise funds on their own behalf, and cannot be
+used to raise funds on behalf of persons or entities specified by them. Square Canada also offers
+prepaid business expense cards (where the source of funds is derived exclusively from payment
+processing activities accessed via Managed Payments Service), commercial loans, and merchant
+cash advances (collectively, “Financial Servicesˮ).
+Square Canada is committed to preventing its services from being used for illicit purposes such as
+money laundering and terrorist financing activities. Square Canada has established an anti-money
+laundering (“AMLˮ) and anti-terrorist financing (“ATFˮ) compliance program (“AML/ATF Programˮ)
+to ensure compliance with applicable AML and ATF laws and regulations. Accordingly, Square
+Canada has adopted this Anti-Money Laundering and Counter Terrorist Financing Policy
+(“AML/ATF Policyˮ, “this Policyˮ) and will conduct business activities in compliance with the
+principles found herein.
+1 Managed Payments Service features include, but are not limited to: (i) Point of Sale; (ii) Invoices; (iii) Virtual Terminal; (iv)
+eCommerce; (v) Funds transfers to a sellerʼs external linked bank account; (vi) crowdfunding platform services; and (vii)
+Square Gift Cards.
+1
+
+Scope: This Policy is established by Square Canada and is applicable to Square Canadaʼs activities
+within Canada.
+Definitions:
+Terminology Definition
+Anti-money Implementing controls and measures to stop criminals and terrorists from
+laundering abusing the financial system for the purposes of money laundering.
+(“AMLˮ)
+Customer Verifying the identity of the customer using independent and reliable
+due-diligence documentation, data or information.
+(“CDDˮ)
+Anti-terrorist Implementing controls and measures to stop criminals and terrorists from
+financing (“ATFˮ) abusing the financial system for the purposes of financing terrorism or
+terrorist acts.
+Crowdfunding A website or an application or other software that is used to raise funds or
+Platform virtual currency through donations.
+Crowdfunding The provision and maintenance of a crowdfunding platform for use by other
+Platform persons or entities to raise funds or virtual currency for themselves or for the
+Services persons or entities specified by them.
+Enhanced Collecting and/or verifying additional information or documentation about the
+due-diligence customerʼs identity including, but not limited to: source of funds and source
+(“EDDˮ) of wealth.
+Electronic funds The transmission - by any electronic, magnetic or optical means - of
+transfer instructions for the transfer of funds, including a transmission of instructions
+(“EFTˮ) that is initiated and finally received by the same person or entity. It does not
+include a transmission or instructions for the transfer of funds: (i) that
+involves the beneficiary withdrawing cash from their account; (ii) that is
+carried out by means of a direct deposit or pre-authorized debit; (iii) that is
+carried out by cheque imaging and presentment; (iv) that is both initiated and
+finally received by persons or entities that are acting to clear or settle
+payment obligations between themselves; or (v) that is initiated or finally
+received by a person or entity referred to in paragraphs 5(a) to (h.1) of the
+PCMLTFA for the purposes of internal treasury management of their financial
+assets and liabilities, if one of the parties to the transaction is a subsidiary of
+the other or if they are subsidiaries of the same corporation.
+Financial Canadaʼs financial intelligence unit
+Transactions and
+Reports Analysis
+Centre of
+Canada
+2
+
+(“FINTRACˮ)
+Head of an A person who, at a given time, holds - or has held within 5 years before that
+international time - the office or position of head of: (i) an international organization that is
+organization established by the governments of states; (ii) an institution of an organization
+(“HIOˮ) referred to in paragraph (i); or (iii) an international sports organization.
+Know your The process of identifying customers and verifying customer information in
+customer accordance with regulations and guidance aimed at preventing criminals
+(“KYCˮ) from accessing the financial system.
+Money An act, or attempted act, to disguise the source of money or assets derived
+Laundering from criminal activity. Money laundering is the process whereby “dirty
+(“MLˮ) moneyˮ – value produced through criminal activity – is transformed into
+“clean moneyˮ. There are three recognized stages of money laundering: (i)
+Placement: placing the proceeds of crime into the financial system; (ii)
+Layering: converting the proceeds of crime into another form and creating
+complex layers of financial transactions to disguise the trail and the source
+and ownership of funds; and (iii) Integration: integrating the laundered
+proceeds back into the economy to create the perception of legitimacy.
+Proceeds of An act to facilitate combatting the laundering of proceeds of crime and
+Crime Money combating the financing of terrorist activities; and to establish the Financial
+Laundering) and Transactions and Reports Analysis Centre of Canada.
+Terrorist
+Financing Act
+(“PCMLTFAˮ)
+Politically A person who, by nature of their being entrusted with a prominent public
+exposed person function or position of influence, is more susceptible to bribery or corruption.
+(“PEPˮ)
+Reasonable Steps taken to achieve a desired outcome, even if they do not result in the
+Measures desired outcome. Reasonable measures include, but are not limited to: (i)
+asking the customer; (ii) conducting open source searches; or (iii) consulting
+commercially available information.
+Regulations Regulations Implementing the United Nations Resolutions on the Suppression
+Implementing of Terrorism
+the United
+Nations
+Resolutions on
+the Suppression
+of Terrorism
+(“RIUNRSTˮ)
+Suspicious A type of report that must be submitted to FINTRAC by a reporting entity if
+transaction there are reasonable grounds to suspect that a financial transaction that
+report (“STRˮ) occurs or is attempted in the course of its business activities is related to the
+commission or the attempted commission of a ML/TF offence.
+3
+
+Terrorist The use of funds, property or other services to encourage, plan, assist or
+financing (“TFˮ) engage in acts of terrorism, where the primary motivation is not financial
+gain.
+Listed Person or A type of report that must be submitted to FINTRAC by a reporting entity if it
+Entity Property has property in its possession or control that it knows or believes is owned or
+Report controlled by or on behalf of a terrorist or a terrorist group or it knows or
+(“TPRˮ) believes that the property is owned or controlled by or on behalf of a listed
+person or entity.
+Virtual currency Virtual currency means (i) a digital representation of value that can be used
+(“VCˮ) for payment or investment purposes that is not a fiat currency and that can
+be readily exchanged for funds or for another virtual currency that can be
+readily exchanged for funds; or (ii) a private key of a cryptographic system
+that enables a person or entity to have access to a digital representation of
+value referred to in paragraph (i).
+2. Policy Requirements
+2.1. Key Concepts
+2.1.1. Money Laundering
+Money laundering is an act, or attempted act, to disguise the source of money or assets derived
+from criminal activity. Money laundering is the process whereby “dirty moneyˮ, or money generated
+through criminal activity (the proceeds of crime), is transformed into “clean moneyˮ, the source of
+which is difficult to trace or verify. Criminals aim to convert the proceeds of crime into a form which
+appears to have a legitimate source; and if carried out successfully, money laundering allows
+criminals to maintain control of their proceeds of crime while concealing the true origin.
+There are three primary stages to money laundering:
+1. Placement: the placing of the proceeds of crime into the financial system;
+2. Layering: converting the proceeds of crime into another form of value and creating
+complex layers of financial transactions to disguise the audit trail, source and true
+ownership of the proceeds of crime; and
+3. Integration: integrating the proceeds of crime back into the economy in such a way so as to
+create the perception of legitimacy.
+A money laundering offence generally requires that an individual knows or believes that the
+proceeds of crime was obtained or derived from the commission of another offence, known as a
+predicate offence. Predicate offences include a variety of crimes including drug dealing, theft,
+bribery, smuggling, corruption, fraud, embezzlement, counterfeiting, arson, extortion or murder.
+2.1.2. Terrorist Financing
+4
+
+Terrorist financing is knowingly collecting or giving property (such as money) to carry out terrorist
+activities. This includes the use and possession of any property to help carry out terrorist activities.
+With terrorist financing, using funds to carry out a terrorist act is the ultimate goal as opposed to
+acquiring funds alone. Similar to money laundering, terrorist financing activity is intended to evade
+detection by authorities and protect the identity of the sponsors and ultimate beneficiaries of the
+funds. However, unlike money laundering, the funds used for terrorist financing activity may
+originate from legitimate sources, such as charitable donations.
+2.2. Regulatory Framework
+As a reporting entity under Canadaʼs national AML/ATF framework, Square Canada remains subject
+to a variety of laws and regulations (legislation).
+2.2.1. Criminal Code
+Money laundering and the financing of terrorism are criminal offences under the Criminal Code of
+Canada Criminal Code). Under section 354 1 of the Criminal Code, it as an offence to be in the
+possession of any property or any proceeds of any property, knowing that all or part of it was
+obtained or derived from an indictable offence in Canada or an act or omission anywhere that, if it
+had occurred in Canada, would have been an indictable offence2.
+Under section 462.31 1 of the Criminal Code, it is an offence to use, transfer the possession of,
+send or deliver to any person or place, transport, transmit, alter, dispose of or otherwise deal with, in
+any manner and by any means, any property or any proceeds of any property with intent to conceal
+or convert that property or those proceeds, knowing or believing that, or being reckless to whether,
+all or a part of that property of those proceeds was obtained or derived directly or indirectly as a
+result of a designated offence in Canada or an act or omission anywhere that, if it had occurred in
+Canada, would have been a designated offence3.
+A designated offence under section 462.3 1 of the Criminal Code is any offence that may be
+prosecuted as an indictable offence under this or any other Act of Parliament, other than an
+indictable offence prescribed by regulation. Conspiracy or an attempt to commit, being an accessory
+after the fact in relation to, or any counselling in relation to an indictable offence is also a designated
+offence4.
+2.2.2. Proceeds of Crime Money Laundering) and Terrorist Financing Act
+The Proceeds of Crime Money Laundering) and Terrorist Financing Act PCMLTFA and its
+accompanying regulations implement specific measures to detect, deter, investigate and prosecute
+2 https://laws-lois.justice.gc.ca/eng/acts/c-46/
+3 https://laws-lois.justice.gc.ca/eng/acts/c-46/
+4 https://laws-lois.justice.gc.ca/eng/acts/c-46/
+5
+
+money laundering and terrorist financing offences in Canada. The PCMLTFA makes it mandatory for
+certain individuals and entities (reporting entities) to implement a compliance program that meets the
+requirements as set out in the legislation.
+The PCMLTFA has as its primary objective:
+● To implement specific measures to detect and deter money laundering and the financing of
+terrorist activities to facilitate the investigation or prosecution of money laundering and
+terrorist financing offences, including:
+○ Establishing the record keeping and customer identification requirements for
+financial services providers and other persons that engage in businesses,
+professions or activities that are susceptible to being used for money laundering,
+and the financing of terrorist activities;
+○ Requiring the reporting of suspicious financial transactions and of cross-border
+movements of currency and monetary instruments; and
+● Establishing an agency that is responsible for dealing with reported and other information;
+● To respond to the threat posed by organized crime by providing law enforcement officials
+with the information they need to investigate and prosecute money laundering or terrorist
+financing offences, while ensuring that appropriate safeguards are put in place to protect
+the privacy of persons with respect to personal information about themselves; and
+● To assist in fulfilling Canadaʼs international commitments to participate in the fight against
+transnational crime, particularly money laundering and the fight against terrorist activities.
+There are five regulations under the PCMLTFA
+1. Proceeds of Crime Money Laundering) and Terrorist Financing Regulations
+2. Proceeds of Crime Money Laundering) and Terrorist Financing Suspicious Transaction
+Reporting Regulations
+3. Cross-Border Currency and Monetary Instruments Reporting Regulations
+4. Proceeds of Crime Money Laundering) and Terrorist Financing Registration Regulations
+5. Proceeds of Crime Money Laundering) and Terrorist Financing Administrative Monetary
+Penalties Regulations
+2.2.3. Proceeds of Crime Money Laundering) and Terrorist Financing Act
+The Financial Transactions and Reports Analysis Centre of Canada (“FINTRACˮ) is Canadaʼs financial
+intelligence unit (“FIUˮ). In this capacity, FINTRAC has as its mandate to facilitate the detection,
+prevention and deterrence of money laundering and the financing of terrorist activities, while
+ensuring the protection of personal information under its control. FINTRAC is further responsible for
+ensuring the compliance of reporting entities subject to the PCMLTFA and its accompanying
+regulations.
+6
+
+For the purposes of assessing compliance, FINTRAC has the authority to inquire into the business
+and affairs of an entity covered under the PCMLTFA. To this end, FINTRAC undertakes on-site and
+desk examinations, and employs a risk-based approach to select reporting entities for compliance
+examinations. A FINTRAC compliance examination will assess whether an entity is meeting its
+obligations under the legislation, and areas of focus commonly include:
+● Implementation of a compliance program including:
+○ The appointment of a compliance officer responsible for the implementation and
+oversight of the compliance program;
+○ Written policies and procedures that are kept up to date and approved by a senior
+officer;
+○ Risk assessment of the business to assess the risk of a money laundering offence
+or terrorist financing offence occurring in the course its activities;
+○ Implementation of a written, ongoing training program and plan; and
+○ implementing and documenting a plan for a review of the compliance program to
+test its effectiveness every two-years at a minimum;
+● Reporting: all required reports are being sent to FINTRAC;
+● Recordkeeping: all required records are being collected and retained;
+● Implementation of a customer identification program; and
+● Implementation of policies and procedures to ensure compliance with applicable travel rule
+and ministerial directives.
+Under the Proceeds of Crime Money Laundering) and Terrorist Financing Administrative Monetary
+Penalties Regulations, FINTRAC has the authority to impose administrative monetary penalties when
+it has reasonable grounds to believe that a reporting entity has violated the PCMLTFA and its
+accompanying regulations. Administrative monetary penalties imposed can be as high as $500,000
+per violation based on the severity of the failure; and for criminal non-compliance offences under the
+PCMLTFA, penalties may include potential fines as high as $2,000,000 and/or imprisonment for a
+term of not more than five years.
+2.2.4. Economic Sanctions Laws and Regulations
+Canada has restrictions and measures in place against a number of countries, as well as sanctions
+against specific individuals and entities. Sanctions imposed by Canada on specific countries,
+organizations or individuals can encompass a variety of measures including restricting or prohibiting
+trade, financial transactions or other economic activity between Canada and the target country; or
+the seizure or freezing of property located in Canada.
+Canadaʼs sanctions are imposed under a range of statutes and regulations including: the Criminal
+Code; the United Nations Act (“UN Actˮ), including the suppression of terrorism regulations; the
+Special Economic Measures Act (“SEMAˮ); the Freezing Assets of Corrupt Foreign Officials Act
+(“FACFO Actˮ); and the Justice for Victims of Corrupt Foreign Officials Act Sergei Magnitsky law).
+Square may use third party service providers, agents or affiliates (“Service Providersˮ) to facilitate
+use of the Managed Payments Service and that these Service Providers, if based outside of Canada,
+7
+
+are subject to the laws of foreign jurisdictions where those entities are located. In the event that such
+Service Providers cannot process any transaction referred to it by Square in connection with the
+Managed Payments Service, by reason that such Service Providers may, by doing so, violate any
+law, regulation, rule or internal policy applicable to it if it completes such transaction, then such
+transaction will not be completed and any funds associated with such transactions may be blocked
+and/or held indefinitely by Squareʼs Service Providers. In the event this occurs, Square may suspend
+or terminate a Sellerʼs Square Account.
+2.3. Policy Statement
+2.3.1. Compliance with AML/ATF Laws and Regulations
+The purpose of this policy is to demonstrate Square Canadaʼs commitment to comply with Canadaʼs
+AML and ATF framework and Block Inc.ʼs Global Sanctions Compliance Policy. Square Canada is
+strongly committed to fostering a culture of compliance. Square Canada will not knowingly
+participate in activity that is suspected to be related to the commission of a money laundering or
+terrorist offence; and the company is committed to preventing, detecting and reporting any such
+activity.
+Square Canadaʼs policy is to comply with all requirements under the PCMLTFA, its accompanying
+regulations, the Criminal Code, the UN Act, SEMA, the FACFO Act and the Sergei Magnitsky law.
+Accordingly, Square Canada has implemented a comprehensive AML/ATF compliance program
+through which are applied risk-based measures to mitigate the risk of ML or TF activities occurring
+in its business activities. Square Canada has implemented a customer identification program and
+maintains additional compliance systems designed to ensure compliance with all applicable record
+keeping, reporting, and compliance program requirements. This AML/ATF Policy is accompanied by
+AML/ATF Procedures.
+This AML/ATF Policy establishes that Square Canadaʼs Chief Compliance Officer (“CCOˮ) and
+Regional AML Compliance Officer (“RAMLOˮ) is responsible for the administration of this AML/ATF
+Policy. This AML/ATF Policy will be reviewed by the CCO and approved by the Square Head of
+Compliance and Square Canada Board of Directors on no less than an annual basis. The procedures,
+standards and guidelines that provide additional detail on the application and interpretation of the
+AML/ATF Policy will also be reviewed by the CCO on no less than an annual basis.
+2.3.2. Compliance with AML/ATF Laws and Regulations
+This AML/ATF Policy applies to all staff of Square Canada including all employees of the larger Block
+Inc. organization that provide shared services to Square Canada. In the event of an instance of
+non-compliance with this AML/ATF Policy, Square Canada may take action(s) including:
+● Provide feedback to address errors, mistakes or areas where improvement is required;
+● Deliver additional targeted training;
+● Issue formal verbal and/or written warnings;
+● Schedule a performance improvement plan; or
+● Termination of employment.
+8
+
+2.4. AML/ATF Compliance Program
+Square Canada is considered a Money Services Business MSB in Canada because the company is
+engaged in the following activities MSB services):
+● Remitting and transmitting funds5; and
+● Crowdfunding platform services6.
+As an MSB, Square Canada has implemented an AML/ATF Program designed to satisfy all
+requirements under the PCMLTFA and its accompanying regulations. The AML/ATF Program further
+takes into consideration requirements arising from banking and payment network relationships. The
+AML/ATF Program is written, monitored on an ongoing basis and kept up to date.
+2.4.1. MSB Registration
+Square Canada registered with FINTRAC as an MSB on June 9, 2022 (registration number
+M22983585; expiry date October 25, 2026. In the event of changes to information previously
+submitted, Square Canada will update its registration information by notifying FINTRAC of the update
+within 30-days. Square Canada will renew its MSB registration before the expiry date and no less
+than every two years. Square Canada will respond to any clarification request received from
+FINTRAC in respect of its MSB registration within 30-days by either making the necessary changes
+to its registration or by confirming the information already included is correct. In the event Square
+Canada ceases to meet the definition of an MSB, registration will be cancelled by submitting the
+cancellation form to FINTRAC within 30-days of the date on which Square Canada ceases or stops
+offering MSB services.
+2.4.2. Appointment of a Compliance Officer
+Square Canada has appointed a Chief Compliance Officer CCO responsible for the implementation,
+oversight and ongoing maintenance of the AML/ATF Program. The CCO will not be involved directly
+in the receipt, transfer or payment of funds. The CCO will have independent oversight of the
+program and be able to communicate directly with the senior management and board of directors of
+Square Canada.
+In consideration of their responsibility for the implementation of the AML/ATF Compliance Program,
+the CCO will:
+5 Remitting or transmitting from one person or entity to another using an electronic funds transfer network or any other
+method
+6 The provision and maintenance of a website or application or other software that is used by other persons or entities to
+raise funds or virtual currency for themselves or for persons or entities specified by them
+9
+
+● Have the necessary authority and access to resources in order to implement an effective
+AML/ATF compliance program and make any desired changes;
+● Have knowledge of Square Canadaʼs business functions and structure;
+● Have knowledge of Square Canadaʼs ML/TF risks and vulnerabilities as well as ML/TF
+trends and typologies; and
+● Understand Square Canadaʼs requirements as an MSB under the PCMLTFA and its
+accompanying regulations.
+Under the Square Canada AML/ATF Program, the CCO may delegate certain duties to other
+employees; however, the CCO remains ultimately responsible for the implementation of the AML/ATF
+Program. The appointment of the CCO will be approved by the board of directors of Square Canada;
+and the CCO will provide quarterly reporting to the board of directors in respect of:
+● High-risk clients and/or activities;
+● Reporting and operational metrics;
+● Incidents of non-compliance (if applicable); and
+● Significant changes to the AML/ATF Program and/or changes to the ML/TF risks identified
+in the business of Square Canada.
+2.4.3. Compliance Policies and Procedures
+Square Canadaʼs AML/ATF Policy and AML/ATF Procedures set forth the risk-based systems,
+processes and controls used to ensure compliance with the companyʼs obligations as under the
+PCMLTFA and its accompanying regulations. Square Canadaʼs AML/ATF Policy and AML/ATF
+Procedures are made available to all persons authorized to act on behalf of Square Canada including
+employees, agents and any other individuals that interact with clients, transactions or other business
+activities.
+Square Canadaʼs AML/ATF Policy and AML/ATF Procedures are:
+● Written and maintained in a format that is accessible to all relevant persons;
+● Kept up to date (including changes to legislation or internal processes, as well as any other
+changes that would require and update); and
+● Approved by a senior officer.
+Square Canadaʼs AML/ATF Policy and AML/ATF Procedures will at a minimum contain information in
+respect of the following requirements:
+● Appointment of a compliance officer;
+● Risk assessment;
+● Ongoing compliance training program and plan;
+● Independent effectiveness review and plan;
+● Customer identity verification;
+● Politically exposed persons PEP and heads of international organizations HIO;
+● Beneficial ownership;
+10
+
+● Third-party determination;
+● Business relationship and ongoing monitoring;
+● Recordkeeping;
+● Reporting;
+● Training;
+● Travel rule; and
+● Ministerial directives.
+Square Canadaʼs AML/ATF Policy and AML/ATF Procedures will include a description of the
+processes and controls in place to meet its requirements including:
+● When the obligation is triggered;
+● The information that must be reported, recorded or considered;
+● The procedures created to ensure a requirement is fulfilled;
+● The timelines associated with requirements and methods of reporting; and
+● The steps taken for all obligations that require Square Canada take reasonable measures.
+2.4.4. Risk Assessment
+Business Risk Assessment
+Square Canada maintains an AML/ATF and sanctions risk assessment AML/ATF Risk Assessment)
+that is used to assess the ML and TF risks relevant to its business activities. The Square Canada
+AML/ATF Risk Assessment takes into consideration the following:
+● Customers and business relationships, including their activity patterns and geographic
+locations;
+● The products, services and delivery channels offered;
+● The geographic locations at which business activities are conducted;
+● The risks resulting from new developments or new technologies that Square Canada
+intends to carry out or introduce, before doing so, that may have an impact on customers,
+business relationships, products and services or delivery channels, or the geographic
+location of its activities; and
+● Any other relevant factor affecting the business of Square Canada including, but not limited
+to:
+● Reliance on related entities and/or outsourced service providers;
+● Employee turnover; and
+● Industry rules and regulations.
+11
+
+Square Canada will ensure the AML/ATF Risk Assessment is conducted on no less than an annual
+basis; and the results will be communicated to both the Square Head of Compliance and the board of
+directors. Recommendations arising from the AML/ATF Risk Assessment will be incorporated into the
+larger AML/ATF Program to ensure Square Canada maintains an appropriate risk-based approach to
+the mitigation of ML/TF risks.
+Customer Risk Assessment
+Square Canada also maintains a customer risk assessment which is applied to all customers on an
+ongoing basis. The customer risk assessment serves to determine whether the customer presents a
+high, medium or low risk of ML or TF by taking into consideration a variety of risk factors including,
+but not limited to:
+● The combination of products, services and delivery channels used by the customer;
+● The geographical location of the customer and their transactions;
+● The new technologies and developments made available to customers; and
+● Customer characteristics and patterns of activity and transactions.
+Enhanced Measures
+In the event Square Canada considers the risk of an ML or TF offence to be high, enhanced
+measures will be taken. Enhanced measures are the additional controls and processes in place to
+manage and reduce the risks associated with high-risk customers and business activities. Square
+Canada policies and procedures for enhanced measures include:
+● The additional steps, based on assessment of the risk, that will be taken to verify the
+identity of a person or entity; and
+● Any other additional steps taken to mitigate the risks including, but not limited to, the
+additional steps to:
+○ Ensure customer identification and beneficial ownership information is updated at a
+frequency that is appropriate to the level of risk; and
+○ Conduct ongoing monitoring of business relationships at a frequency that is
+appropriate for the level or risk.
+Enhanced measures may include, but are not limited to:
+● Obtaining additional information about a customer;
+● Obtaining information on the customerʼs source of funds or source of wealth;
+● Obtaining supporting documentation that can be used to verify information about the
+customer or the transactions they conduct;
+● Obtaining information on the reasons for attempted or conducted transactions; or
+● Any other measures deemed appropriate according to the risks involved.
+12
+
+Square Canada will keep records of the measures it takes and of the information obtained from the
+ongoing monitoring of customers with whom it has a business relationship. This includes:
+● The processes in place to perform ongoing monitoring;
+● The processes in place to perform the enhanced ongoing monitoring of high-risk clients;
+● The processes for recording the information obtained as a result of the ongoing monitoring;
+● The processes for recording the information obtained as a result of enhanced ongoing
+monitoring of high-risk clients; and
+● The information obtained as a result of ongoing monitoring and enhanced ongoing
+monitoring of high-risk clients
+2.4.5. Training Program and Plan
+Square Canada maintains a written, ongoing compliance training program to ensure that employees,
+officers, agents or other individuals acting on behalf of Square Canada, or authorized to act on
+behalf of Square Canada, as well as the Board of Directors, are sufficiently trained with respect to
+the risks of ML and TF. In addition to foundational global AML/ATF training for all employees,
+employees engaged in any of the following activities (as well as the Square Canada Board of
+Directors and senior management) are required to participate in a specialized Canada-specific
+compliance training program:
+● Contacting customers directly;
+● Assisting in the processing or monitoring of customer transactions;
+● Assisting in the processing or transfer of customer funds in any way;
+● Are responsible for executing AML/ATF Procedures; and/or
+● Are responsible for implementing or overseeing the AML/ATF Program.
+Training program content is designed to ensure employees and all members of senior management
+and the Board of Directors are aware of their responsibilities under the AML/ATF Program and to
+communicate what they need to know and understand in respect of:
+● Square Canadaʼs requirements under the PCMLTFA and its accompanying regulations;
+● Background information on ML and TF, such as the definition of ML/TF and the methods of
+ML/TF;
+● Who is FINTRAC;
+● What is a MSB;
+● How the business of Square Canada could be vulnerable to ML/TF activities, including
+suspicious indicators and red flags;
+● The responsibilities of Square Canada;
+● The compliance policies and procedures (including the risk assessment) developed by
+Square Canada to help meet its requirements under the PCMLTFA and its accompanying
+regulations for preventing and detecting ML/TF, including reporting, recordkeeping and
+know your customer requirements; and
+● The roles and responsibilities in detecting and deterring ML/TF activities, and when dealing
+with potentially suspicious activities or transactions.
+13
+
+Square Canada has further implemented and documented a plan for the ongoing compliance training
+program and for delivering the training. The compliance training plan covers how the ongoing
+compliance training program will be implemented and its delivery method. The training plan also
+includes details on the steps taken to ensure all relevant employees and others receive an
+appropriate level of training relevant to their duties and position, on an ongoing basis. Specifically,
+the training plan is used to define the following:
+● Training recipients;
+● Training topics and materials;
+● Training methods for delivery; and
+● Training frequency.
+New hires will receive training within their first 30 days on the job, as well as specific role based
+training, which includes AML and ATF components, prior to dealing with customers or customer
+funds independently. Anyone that is on a leave of absence that causes them to miss regularly
+scheduled training will receive training within 30 days of their return to work.
+2.4.6. Independent Effectiveness Review
+Square Canada is committed to ensuring an independent effectiveness review of its AML/ATF
+Program is conducted at a minimum of every two years; and that such reviews begin within two
+years of the start date of the previous review. The purpose of an independent effectiveness review is
+to determine whether the AML/ATF Program has gaps or weaknesses that may prevent Square
+Canada from effectively detecting and preventing ML and TF related activities. The results of the
+independent effectiveness review can be used to determine whether:
+● Business practices reflect what is written in AML/ATF Program documentation and whether
+Square Canada is meeting its obligations under the PCMLTFA and its accompanying
+regulations; and
+● The AML/ATF Risk Assessment is effective at identifying and mitigating the ML and TF risks
+related to customers, products, services, delivery channels, new developments or
+technology, and geographic locations where business activities are conducted.
+Independent effectiveness reviews will be conducted by an external auditor that is familiar with
+Square Canadaʼs obligations as an MSB. The results of the independent effectiveness review will be
+reported to a senior officer, in writing, no more than thirty-days after the completion of the
+effectiveness review; and such report will include the following:
+● The results of the review (deficiencies, recommendations and action plans);
+● Any updates made to the policies and procedures during the reporting period (the period
+covered by the two-year review) that were not made as a result of the review itself; and
+● The status of the implementation of the updates made to the policies and procedures.
+Square Canada also maintains a documented plan for the independent effectiveness review which
+not only describes the scope of the review, but also defines the breadth and depth of review of each
+14
+
+element of the AML/ATF Program. The plan further describes the rationale that supports the areas of
+focus, the time period that will be reviewed, the anticipated evaluation methods and sample sizes.
+The following additional details are also documented within the independent effectiveness review:
+● The date the review was conducted, the period that was covered by the review and the
+person or entity who performed the review;
+● The results of the tests that were performed; and
+● The conclusions, including deficiencies, recommendations and action plans, if any.
+2.4.7. Client Identity Verification and Know Your Client
+Square Canada identifies all customers and enters into a service agreement with all customers prior
+to offering MSB services. The method used to verify identity depends upon the type of customer
+applying for MSB services: sole-proprietor (individuals) or business entity7 (corporation, partnership,
+not-for-profit, other entity type).
+For sole-proprietors (individuals), all customers are not physically present for the identity verification
+process; and Square Canada uses the following methods to verify identity:
+● Government-issued photo identification method;
+● Credit File method; and/or
+● Dual-Process method.
+For legal-entity customers, Square Canada uses the confirmation of existence method to verify
+identity.
+For additional detail in respect of the identity verification methods used for sole-proprietors
+(individuals) and legal entities, please refer to Square Canadaʼs AML/ATF Procedures.
+Where the client is deemed to present a high risk of ML/TF, enhanced measures will be taken to
+verify the customerʼs identity. Enhanced measures to mitigate increased risk of ML/TF include, but
+are not limited to, the following:
+● Obtaining additional information on a Seller based on Internet research and/or public
+databases;
+● Obtaining information on a Sellerʼs source of funds and/or source of wealth;
+● Obtaining additional information on a Sellerʼs purpose for attempted or completed
+transactions; and
+● Any other measures deemed appropriate in consideration of the Sellerʼs circumstances.
+7 Square Canada is not required to verify identity if the entity is either of the following: (i) a Public Body; (ii) a corporation or
+trust that has minimum net assets of $75 million on its last audited balance sheet, whose shares or units are traded on a
+Canadian stock exchange designated under subsection 2621 of the Income Tax Act and that operates in a country that is a
+member of the Financial Action Task Force; or (iii) a subsidiary of a public body or corporation or trust, whose financial
+statements are consolidated with the financial statements of the public body, corporation or trust.
+15
+
+Once a customer has had their identity verified in accordance with one of the methods above, their
+identity will not be verified again for subsequent transactions or activities. However, if there are
+doubts about the information used to verify the identity of a customer, that customer will have their
+identity verified again.
+In addition to verifying identity, Square Canada collects additional know-your-customer KYC
+information from customers including, but not limited to, the purpose and intended nature of the
+business relationship with Square Canada.
+2.4.8. Ongoing Monitoring and Business Relationships
+In order to best protect Square Canada from being used for ML or TF purposes, the Company is
+committed to maintaining an ongoing monitoring program in order to:
+● Detect any suspicious transactions that must be reported to FINTRAC;
+● Keep client identification information, beneficial ownership information, and the purpose
+and intended nature of the business relationship record up to date;
+● Reassess the level of risk associated with the customerʼs transactions and activities; and
+● Determine whether transactions or activities are consistent with the client information
+obtained and the risk assessment of the customer.
+Square Canada uses a risk-based approach to periodic ongoing monitoring whereby customers
+deemed of higher risk are subject to more frequent KYC review. Square Canada is required to
+engage in ongoing monitoring of all business relationships. Square Canada is deemed to enter into a
+business relationship with a customer where Square Canada enters into a service agreement with
+that customer. For each business relationship, Square Canada will determine and keep a record of
+the purpose and intended nature of the business relationship. The purpose and intended nature of a
+business relationship with a customer is information that should allow Square Canada to anticipate
+the transactions and activities of the customer and best describes the dealings with the customer. A
+business relationship continues for a period of at least five years since the day of the last transaction
+entered into with a customer. As such, Square Canada will continue ongoing monitoring in respect
+of detecting suspicious transactions that must be reported to FINTRAC even after the customer is no
+longer active with Square Canada.
+All customers deemed of high-risk according to the Square Canada customer risk assessment are
+subject to enhanced ongoing monitoring which may include, but is not limited to:
+● Reviewing transactions on a more frequent basis;
+● Developing and reviewing reports of high-risk transactions on a more frequent basis;
+● Flagging transactions that either deviate from expected activity or otherwise raise
+concerns;
+● Establishing limits or other parameters which if exceeded would trigger additional review;
+and
+● Reviewing transactions more frequently against suspicious transaction indicators that are
+specific to business relationships.
+16
+
+2.4.9. Beneficial Ownership
+Beneficial owners are the individuals who, directly or indirectly, own or control 25% or more of a
+corporation or an entity other than a corporation. In the case of a trust, beneficial owners include the
+trustees, the known beneficiaries and settlors of the trust. If the trust is a widely held trust or a
+publicly traded trust, beneficial owners include the trustees and all persons who own or control,
+directly or indirectly, 25% or more of the units of the trust.
+Beneficial owners cannot be other corporations, trusts or other entities, and beneficial owners only
+include the individuals who are the owners or controllers of an entity. Complex beneficial ownership
+structures are commonly used for concealing the true nature of beneficial ownership, and can be
+used to allow criminals to continue controlling their assets on an indirect basis via different legal
+entities. In some instances, beneficial ownership will need to be determined by looking through
+multiple layers of ownership held through different legal entities and jurisdictions.
+As part of the identity verification process for legal-entity customers, Square Canada collects, and
+takes reasonable measures to confirm the accuracy of beneficial ownership information. In the case
+of not-for-profit organizations, Square Canada will further determine whether the entity is:
+● a charity registered with the Canada Revenue Agency CRA under the Income Tax Act; or
+● an organization, other than a charity registered with the CRA under the Income Tax Act,
+that solicits charitable donations from the public.
+At a minimum, the following beneficial ownership information is collected according to entity-type:
+● Corporations: Names of all directors of the corporation; name and address of all individuals
+who, directly or indirectly, own or control 25% or more of the corporation;
+● Entities other than Corporations: name and address of all individuals who, directly or
+indirectly, own or control 25% or the entity;
+● Trusts: name and address of all trustees and all known beneficiaries and settlors of the
+trust;
+● Widely held trust or a publicly traded trust: name of all trustees and the name and address
+of all persons who own or control, directly or indirectly, 25% or more of the units of the
+trust; and
+● All entity types: information establishing the ownership, control and structure of the entity.
+Square Canada takes reasonable measures to confirm the accuracy of beneficial ownership
+information at onboarding and in the course of conducting periodic ongoing monitoring of the
+business relationships held with customers.
+Where beneficial ownership information cannot be collected, cannot be kept up to date in the course
+of ongoing monitoring or its accuracy cannot be confirmed (either when it is first obtained or in the
+course of ongoing monitoring), Square Canada will:
+17
+
+● Take reasonable measures to verify the identity of the entityʼs chief executive officer or the
+person who performs that function8;
+● Conduct enhanced measures to verify the identity of that individual; and
+● Conduct enhanced ongoing monitoring of the business relationship.
+Where discrepancies are observed in the beneficial ownership information of a high-risk Seller,
+either at the time itʼs originally collected or in the course of ongoing monitoring thereafter, Square
+Canada will report such discrepancies to Corporations Canada within 30-days.
+2.4.10. Third Party Determination
+A third-party is the person or entity that instructs another person or entity to conduct a transaction
+or activity on their behalf. As such, the third party is the instructing party to the transaction or
+activity, and is understood to be the “on behalf of '' or “for benefit ofˮ party. Third-party transactions
+are commonly used to conceal the true identity of the person or entity on whose behalf, and for
+whose benefit, the activity is being conducted.
+The terms of service which govern Square Canadaʼs Managed Payments Service prohibit third party
+transactions, as such transactions fall outside the risk appetite of the Company. Square Canada
+further monitors customer transactions on an ongoing basis for the specific purpose of identifying
+potential third-party transactions. Where a customer is found to be conducting third-party
+transactions in contravention of the framework terms of service, Square Canada will advise the
+customer of the terms of service violation and the business relationship will be exited. Where this
+occurs, Square Canada keeps a record of the reason(s) why the customer was suspected of acting
+on behalf of a third party; and where applicable, the activity will be escalated for potential suspicious
+transaction reporting purposes.
+2.4.11. Politically Exposed Persons and Heads of International Organizations
+Generally speaking, a politically exposed person (“PEPˮ) or head of an international organization
+(“HIOˮ) is someone who, by nature of their being entrusted with a prominent public function or
+position of influence, is more susceptible to bribery or corruption. For this reason, PEPs and HIOs are
+usually considered to be of heightened risk.
+Domestic PEP
+A domestic PEP is a person who currently holds or has held within the last 5 years, a specific office
+or position in or on behalf of the Canadian federal government, a Canadian provincial (or territorial)
+government, or a Canadian municipal government. Specifically, the person has held the office or
+position of:
+● Governor General, lieutenant governor or head of government;
+● Member of the Senate or House of Commons or member of the legislature;
+● Deputy minister or equivalent rank;
+8 For the purposes of taking reasonable measures to verify the identity of the chief executive officer or person who
+performs that function, Square Canada will use the prescribed identity verification methods which apply to Sole-Proprietors
+(individuals)
+18
+
+● ambassador, or attaché or counsellor of an ambassador;
+● Military officer with a rank of general or above;
+● President of a corporation that is wholly owned directly by Her Majesty in right of Canada
+or a province;
+● Head of a government agency;
+● Judge of an appellate court in a province, the Federal Court of Appeal or the Supreme
+Court of Canada;
+● Leader or president of a political party represented in a legislature; or
+● Mayor, reeve or other similar chief officer of a municipal or local government9.
+A person ceases to be a domestic PEP five years after they have left office or five years after they
+are deceased.
+Foreign PEP
+A foreign PEP is a person who holds or has held one of the following offices or positions in or on
+behalf of a foreign state (regardless citizenship, residence status or birthplace):
+● Head of state of head of government;
+● Member of the executive council of government or member of a legislature;
+● Deputy minister or equivalent rank;
+● Ambassador, or attaché or counsellor of an ambassador;
+● Military officer with a rank of general or above;
+● President of a state-owned company or a state-owned bank;
+● Head of a government agency;
+● Judge of a supreme court, constitutional court or other court of last resort; or
+● Leader or president of a political party represented in a legislature.
+Once a determination has been made that a person is a foreign PEP, they remain a foreign PEP
+forever (including deceased foreign PEPs). There is no need to determine whether such persons are
+a foreign PEP again.
+Head of an International Organization
+An HIO is a person who currently holds or has held within the last five years the specific office or
+position of head of an international organization and the international organization that they head or
+were head of is either:
+● An international organization established by the government of states;
+● An institution of an organization referred to in 1 above; or
+● An international sports organization.
+An institution established by an international organization does not have to operate internationally
+and it is possible that an institution only operates domestically, or in one jurisdiction. The HIO is the
+primary person who leads the organization, such as the president or chief executive officer. A
+9 Municipal governments include cities, towns, villages and rural (county) or metropolitan municipalities. As such, a mayor is
+the head of a city, town, village and rural or metropolitan municipality, regardless of the size of the population.
+19
+
+person ceases to be a HIO five years after they are no longer the head of the organization or
+institution or five years after they are deceased.
+An international organization is set up by the governments of more than one member country, has
+activities in several countries, and is bound by a formal agreement among member countries. An
+international organization has its own legal status, and it is an entity that is distinct from the member
+countries. International organizations are recognized by their member countries, but they are not
+resident organizations of any country.
+Family Members of PEPs and HIOs
+If a person is a PEP or HIO, the following family members are considered family members of PEPs or
+HIOs:
+● Their spouse or common-law partner;
+● Their biological or adoptive children;
+● Their mother(s) or father(s);
+● The mother(s) or father(s) of their spouse or common-law partner (mother-in-law or
+father-in-law); and
+● The child(ren) of their mother or father (sibling(s)).
+Once a determination has been made that a person is a family member of a foreign PEP (including a
+deceased foreign PEP, they remain a family member of a foreign PEP forever. Once a determination
+has been made that a person is a family member of a domestic PEP or HIO, they remain a family
+member of a domestic PEP or HIO until five years after the PEP or HIO has left office. In the case of
+a deceased domestic PEP or HIO, persons that are their family members remain a family member of
+a domestic PEP or HIO for five years after the domestic PEP or HIO ceases to be a domestic PEP or
+HIO.
+If a person is the ex-spouse or partner of a foreign PEP, they are considered a family member of a
+foreign PEP forever; and If a person is the ex-spouse or partner of a domestic PEP or HIO, they are
+considered a family member of a domestic PEP or HIO until the domestic PEP or HIO ceases to be a
+domestic PEP or HIO. A step family relationship does not fall under the definition of a family member
+unless a child is legally adopted. Similarly, if a marriage includes step-siblings, these step-siblings
+are not considered family members if they are not legally adopted by the stepparent. The niece and
+nephew of a PEP or HIO is not considered a family member of a PEP or HIO.
+Close Associates of PEPs and HIOs
+A close associate of a PEP or HIO is a person who is connected to a PEP or HIO for personal or
+business reasons. Relationships that could indicate that someone is a close associate of a PEP or
+HIO could include, but are not limited to, persons who:
+● Are the business partners of, or who beneficially own or control a business with, a PEP or
+HIO;
+● Are in a romantic relationship with a PEP or HIO;
+● Are involved in financial transactions with the PEP or HIO;
+20
+
+● Serve as prominent members of the same political party or union as a PEP or HIO;
+● Serve as a member of the same board as a PEP or HIO;
+● Carry out charitable works closely with a PEP or HIO; or
+● Are listed as joint on a policy where one of the holders may be a PEP or HIO.
+A person who is a close associate of a PEP or HIO remains a close associate until they lose that
+connection.
+PEP and HIO Determination
+Square Canada will take reasonable measures to make a PEP, HIO, family member or close associate
+determination at the following times:
+● When entering into a new business relationship with a customer;
+● When conducting ongoing periodic monitoring of the business relationships held with
+customers; and
+● Upon detecting a fact about an existing business relationship that indicates a PEP or HIO
+connection.
+Under the PCMLTFA, there are additional transaction-related PEP and HIO determinations that must
+be made by an MSB when conducting specific transactions involving cash, international electronic
+funds transfers EFT and/or virtual currency VC. None of these products or transaction types are
+offered by Square Canada; however, in the event the business activities of Square Canada eventually
+extend to include these transaction types, such PEP and HIO determinations will be implemented.
+Foreign PEPs
+In the event Square Canada enters into a business relationship, conducts periodic ongoing
+monitoring of its business relationships, or detects a fact about an existing business relationship, and
+the determination is made that a person is a foreign PEP or family member or close associate of a
+foreign PEP, Square Canada will:
+● Take reasonable measures to establish the person's source of wealth; and
+● Take enhanced measures to verify the person's identity, conduct enhanced ongoing
+monitoring of the business relationship, and take any other enhanced measures to mitigate
+the risks posed by the person.
+Domestic PEPs or HIOs
+In the event Square Canada enters into a business relationship, conducts periodic ongoing
+monitoring of its business relationships, or detects a fact about an existing business relationship, and
+the determination is made that a person is a domestic PEP, HIO or family member of a domestic PEP
+or HIO, and based on Square Canadaʼs internal PEP/HIO risk assessment, the domestic PEP or HIO is
+deemed to present a high risk of ML or TF, Square Canada will:
+● Take reasonable measures to establish the personʼs source of wealth; and
+21
+
+● Take enhanced measures to verify the person's identity, conduct enhanced ongoing
+monitoring of the business relationship, and take any other enhanced measures to mitigate
+the risks posed by the person.
+In the event Square Canada detects a fact about an existing business relationship, and the
+determination is made that a person is a close associate of a domestic PEP or HIO, and based on
+Square Canadaʼs internal risk assessment, the domestic PEP or HIO is deemed to present a high risk
+of ML or TF, Square Canada will:
+● Take reasonable measures to establish the personʼs source of wealth; and
+● Take enhanced measures to verify the person's identity, conduct enhanced ongoing
+monitoring of the business relationship, and take any other enhanced measures to mitigate
+the risks posed by the person.
+Timing for taking measures
+In the event Square Canada enters into a business relationship with, or detects a fact about a PEP,
+HIO or family member or close associate of one of these persons, Square Canada will within 30-days
+after the day on which the business relationship is entered or a fact detected, take reasonable
+measures to establish the source of a personʼs wealth, if applicable.
+2.4.12. Prohibited Customers
+Customers engaged in the following business activities fall outside the risk tolerance of Square
+Canada and are prohibited from using the Companyʼs Managed Payments Service:
+● Any illegal activity or goods;
+● Paraphernalia that may be used for illegal activity;
+● Buyers or membership clubs, including dues associated with such clubs;
+● Credit counselling or credit repair agencies;
+● Credit protection or identity theft protection services;
+● Direct marketing or subscription services;
+● Infomercial sales;
+● internet/mail order/telephone order pharmacies or pharmacy referral services (where
+fulfilment of medication is performed with an internet or telephone consultation, absent a
+physical visit, including re-importation of pharmaceuticals from foreign countries);
+● Unauthorized multi-level marketing businesses;
+● Inbound or outbound telemarketers;
+● Prepaid phone cards or phone services;
+● Rebate-based businesses;
+● Up-sell merchants;
+● Bill payment services;
+● Betting, including lottery tickets, sports related gambling, casino gaming chips, off-track
+betting, and wagers at races;
+● Manual or automated cash disbursements;
+22
+
+● Prepaid cards, cheques, insurance or other financial merchandise or services;
+● Sales of money orders or foreign currency;
+● Wire transfer money orders;
+● Telemarketing sales;
+● Automated fuel dispensers;
+● Adult entertainment oriented products or services (in any medium, including internet,
+telephone, or printed material);
+● Sales of: (i) firearms, firearm parts or hardware, and ammunition; or (ii) weapons and other
+devices designed to cause physical injury;
+● internet/mail order/telephone order of age restricted products;
+● Cigarettes or tobacco;
+● Occult materials;
+● Hate or harmful products;
+● Escort services;
+● Bankruptcy lawyers or collection agencies engaged in the collection of debt; or
+● Travel agency services.
+2.5. Reporting
+Under the PCMLTFA, Square Canada has obligations to report certain transactions to FINTRAC and
+other agencies. Such transactions are reported using the following types of reports.
+2.5.1. Suspicious Transaction Report
+A suspicious transaction report STR is a type of report that must be submitted to FINTRAC in the
+event Square Canada has reasonable grounds to suspect that a financial transaction that occurs or is
+attempted in the course of its business activities is related to the commission or the attempted
+commission of an ML/TF or Sanctions Evasion (“SEˮ) offence10.
+Square Canada takes specific measures to enable the Company to establish there are reasonable
+grounds to suspect the transaction is related to the commission of an ML/TF/SE offence. These
+measures include:
+● Screening for an identifying suspicious transactions;
+● Assessing the facts and context surrounding the suspicious transaction;
+● Linking ML/TF/SE indicators to an assessment of the facts and context; and
+● Explaining the grounds for suspicion in an STR, where Square Canada has articulated how
+the facts, context and ML/TF/SE indicators allowed the Company to reach reasonable
+grounds for suspicion.
+10 Sanctions evasion offence means an offence arising from the contravention of a restriction or prohibition established by
+an order or a regulation made under the United Nations Act, the Special Economic Measures Act or the Justice for Victims
+of Corrupt Foreign Officials Act.
+23
+
+If Square Canada is in receipt of a production order from law enforcement or the Canada Revenue
+Agency CRA or receives negative media from a reputable source in respect of a customer, Square
+Canada will perform an assessment of the facts, context, and indicators to determine whether it has
+reasonable grounds to suspect that a particular transaction is related to the commission of money
+laundering and/or terrorist financing. Production orders will be escalated and reviewed by the
+RAMLO as necessary.
+Square Canada will submit STRs to FINTRAC as soon as practicable after completing the measures
+required to establish reasonable grounds to suspect that a transaction is related to the commission
+of an ML/TF/SE offence. As soon as practicable means that once the reasonable grounds to suspect
+threshold has been reached, Square Canada will prioritize the development and submission of the
+STR to FINTRAC. Square Canada will not give unreasonable priority to other transaction monitoring
+activities such that the submission of STRs is delayed.
+STRs will be filed whether or not the transaction or activity is completed. There is no dollar threshold
+for filing a STR and this reporting requirement applies in respect of all financial transactions that
+occur or are attempted in the course of Square Canadaʼs activities even if the transaction does not
+constitute money services business activity.
+It is important not to let the customer know that Square Canada is filing an STR. It is against the law
+to deliberately “tip offˮ a customer about a potential investigation. When Square Canada files an STR
+in respect of a customer, Square Canada will treat that customer as high risk and will apply the
+enhanced risk-mitigation measures set out in this Policy. The RAMLO will also consider whether
+maintaining the relationship with such customers falls within Square Canadaʼs established
+risk-tolerance level. It is important to note that where Square Canada files an STR in respect of a
+customer, it is required to continue to file STRs on all customer transactions unless the facts that
+gave rise to the suspicion no longer exist.
+2.5.2. Listed Person or Entity Property Report
+Listed person or entity property reporting requirements under the PCMLTFA and associated
+regulations pertain to the reporting of terrorist or sanctioned property. A Listed Person or Entity
+Property Report LPEPR will be submitted to FINTRAC immediately in the event Square Canada is
+required to make a disclosure under:
+● Section 83.1 of the Criminal Code
+● An order or regulation made under the United Nations Act
+● An order or regulation made under the Special Economic Measures Act
+● Section 72 of the Justice for Victims of Corrupt Foreign Officials Act Sergei Magnitsky
+Law)
+Property is anything owned or controlled by a person or entity, whether tangible or intangible. It
+includes real and personal property, as well as deeds and instruments that give a title or right to
+property, or to receive money or goods. It also includes any property that has been converted or
+exchanged, or acquired from any conversion or exchange.
+24
+
+It is common for sanctions regulations to prohibit or restrict dealings with certain persons (both
+individuals and entities). In such cases, the relevant sanctions regulation will refer to “listed,ˮ
+“named,ˮ or “designatedˮ persons. These terms are often used interchangeably when discussing
+sanctions, although regulations are specific in their usage of the terms.
+A listed person or entity is defined as follows11:
+● a terrorist group under the Criminal Code
+● a person or entity that is the subject of an order or regulation made under the United
+Nations Act
+● a person or entity that is the subject of an order or regulation made under the Special
+Economic Measures Act
+● a foreign state that is the subject of an order or regulation made under the Special
+Economic Measures Act or the United Nations Act
+● a person who is the subject of an order or regulation made under section 4 of the Justice
+for Victims of Corrupt Foreign Officials Act Sergei Magnitsky Law)
+Definition of a terrorist group under the Criminal Code
+A listed person or entity includes a terrorist group, as defined in subsection 83.011 of the Criminal
+Code:
+● An entity that has as one of its purposes or activities facilitating or carrying out any terrorist
+activity
+● A listed entity
+● An association of such entities
+A listed entity is one that appears on a list established under section 83.05 of the Criminal Code. This
+list is a public means of identifying a group or individuals as being associated with terrorist activity.
+Definition of a foreign state, that is the subject of an order or regulation made under the Special
+Economic Measures Act or the United Nations Act
+Listed entities include a foreign state that is the subject of an order or regulation made under the
+United Nations Act or the Special Economic Measures Act.
+According to section 2 of the Special Economic Measures Act, a foreign state is a country other than
+Canada and includes:
+● any political subdivision of a foreign state
+● the government and any department of a foreign state or of a political subdivision thereof
+● any agency of a foreign state or of a political subdivision thereof
+In addition to the submission of a LPEPR to FINTRAC, Square Canada will further disclose without
+delay to the Commissioner of the Royal Canadian Mounted Police or to the Director of the Canadian
+Security Intelligence Service information on the following:
+11 A person or entity could include an individual, group, corporation, trust, partnership or fund, or an unincorporated
+association or organization
+25
+
+Justice for Victims of Corrupt Foreign Officials Act
+● Under subsection 72 of the Justice for Victims of Corrupt Foreign Officials Act, the
+existence of property in Squareʼs possession or control that Square has reason to believe is
+owned, held or controlled by or on behalf of a foreign national who is the subject of an
+order or regulation made under section 4
+In addition, Square will disclose information about a transaction or proposed transaction in respect of
+such property.
+United Nations Act
+● In accordance with the duty to disclose under an order or regulation made under the United
+Nations Act, the existence of property in Squareʼs possession or control that Square has
+reason to believe is owned, held or controlled by or on behalf of a designated person
+● Compliance partners with the Global Sanctions Team to ensure familiarity with the
+disclosure thresholds provided for in each order or regulation, as they may vary depending
+on the particular order or regulation, including any changes to existing ones or the
+introduction of new ones as they come into force
+In addition, Square will disclose information about a transaction or proposed transaction in respect of
+such property.
+Special Economic Measures Act
+● In accordance with the duty to disclose under an order or regulation made under the
+Special Economic Measures Act, the existence of property in Squareʼs possession or
+control that Square has reason to believe is owned, held or controlled by or on behalf of a
+listed person
+● Compliance partners with the Global Sanctions Team to ensure familiarity with the
+disclosure thresholds provided for in each order or regulation, as they may vary depending
+on the particular order or regulation, including any changes to existing ones or the
+introduction of new ones as they come into force
+In addition, Square will disclose information about a transaction or proposed transaction in respect of
+such property.
+Obligation to Freeze Property/File an STR
+If Square Canada believes that a transaction is related to property owned or controlled by or on
+behalf of a terrorist or a terrorist group, Square Canada will not complete the transaction and will
+notify the RAMLO immediately. Such property will be frozen and Square Canada will be prohibited
+from entering into any further transactions with the customer. In the event that Square Canada is
+unsure whether it is dealing with a terrorist but suspects such is the case, Square Canada will file an
+STR in respect of the customer and the transaction.
+26
+
+Penalties for Non-Compliance
+Failure to submit a LPEPR or comply with these obligations may result in penalties as outlined in the
+PCMLTFA and associated regulations.
+2.5.3. Other Reports
+Under the PCMLTFA, there are additional transaction reports that must be submitted to FINTRAC by
+an MSB when conducting specific transactions involving cash, international electronic funds
+transfers and/or virtual currency. None of these products or transaction types are offered by Square
+Canada; however, in the event the business activities of Square Canada eventually extend to include
+these transaction types, such additional transaction reporting will be implemented.
+These additional reports include:
+● Large Cash Transaction Report (“LCTRˮ): applicable when a reporting entity receives an
+amount of $10,000 or more in cash in the course of a single transaction; or a reporting
+entity receives two or more cash amounts of less than $10,000 each that total $10,00 or
+more and the transactions were made within 24 consecutive hours of each other by or on
+behalf of the same individual or entity. LCTRs must be submitted to FINTRAC within 15
+calendar days of the transaction(s).
+● Large Virtual Currency Transaction Report (“LVCTRˮ): applicable when a reporting entity
+receives virtual currency in an amount equivalent to $10,000 or more in a single
+transaction; or a reporting entity receives two or more amounts of virtual currency that total
+$10,000 or more within 24 consecutive hours of each other by or on behalf of the same
+individual or entity or for the same beneficiary. LVCTRs must be submitted to FINTRAC
+within five working days of the transaction(s).
+● International Electronic Funds Transfer Report (“EFTRˮ): applicable when a reporting entity
+either:
+○ Is the final recipient of an international EFT of $10,000 or more in a single
+transaction; or is the final recipient of two or more international EFTs that total
+$10,000 or more within 24 consecutive hours of each other and the transactions
+are conducted by or on behalf of the same individual or entity or for the same
+beneficiary; or
+○ Initiates an international EFT of $10,000 or more in a single transaction; or initiates
+two or more international EFTs that total $10,000 or more within 24 consecutive
+hours of each other and the transactions are conducted by or on behalf of the same
+individual or entity or for the same beneficiary.
+2.6. Record Keeping
+27
+
+Square Canada will keep all records in such a manner that they can be provided to FINTRAC within
+30-days of a request. Records will be kept in machine-readable or electronic form such that a paper
+copy can easily be produced upon request. In accordance with regulations under the PCMLTFA,
+Square Canada will retain records for a minimum period of either: (i) five-years from the date of the
+last transaction conducted by the customer in respect of records relating to confirmation of an
+entityʼs existence, information records (as defined below), PEP records, beneficial ownership
+records, and service agreement records (as set out below); and (ii) five-years from the date the
+record was created, in all other cases.
+Square Canada is required to retain the following records:
+● A copy of every report submitted to FINTRAC
+○ Suspicious Transaction Report
+○ Listed Person or Entity Property Report
+○ Large Cash Transaction Report12
+○ Large Virtual Currency Transaction Report13
+○ Electronic Funds Transfer Report14
+● Large cash transaction records15
+● Large virtual currency transaction records16
+● Records of transactions of transactions of $3,000 or more
+○ Issuance of travellerʼs cheques, money orders or other similar negotiable
+instruments17
+○ Redemption of money orders18
+● Records of remitting and transmitting $1,000 or more in funds by means other than an
+electronic funds transfer
+○ When Square Canada transmits $1,000 or more in funds at the request of a person
+or an entity by means other than an electronic funds transfer, the following records
+will be retained:
+■ The date of the transmission;
+■ The type and amount of each fund involved in the transmission;
+■ If the customer is a person, their name, address, telephone number, date of
+birth and their occupation, or in the case of a sole-proprietor, the nature of
+their principal business;
+■ If the customer is an entity, their name, address, telephone number and the
+nature of their principal business;
+■ The exchange rates used and their source;
+■ The name and address of each beneficiary;
+■ The number of every account involved in the transaction; and
+12 Not applicable as the business activities of Square Canada do not involve transactions conducted in cash.
+13 Not applicable as the business activities of Square Canada do not involve transactions conducted in virtual currency.
+14 Not applicable as the business activities of Square Canada do not involve international electronic funds transfers.
+15 Not applicable as the business activities of Square Canada do not involve transactions conducted in cash.
+16 Not applicable as the business activities of Square Canada do not involve transactions conducted in virtual currency.
+17 Not applicable as the business activities of Square Canada do not involve transactions for the issuance of travellerʼs
+cheques, money orders or other similar negotiable instruments.
+18 Not applicable as the business activities of Square Canada do not involve transactions for the redemption of money
+orders.
+28
+
+■ Every reference number related to the transaction that is meant to be similar
+to an account number.
+○ When Square Canada remits $1,000 or more in funds to a beneficiary at the request
+of a person or an entity by means other than an electronic funds transfer, the
+following records will be retained:
+■ The date of the remittance;
+■ The type and amount of each fund involved in the remittance;
+■ The exchange rates used for the remittance and their source;
+■ The name of the person or entity who requested the remittance;
+■ The name, address, telephone number, date of birth and occupation, or in
+the case of a sole-proprietor, the nature of their principal business of each
+person who is a beneficiary;
+■ The name, address, telephone number and the nature of their principal
+business of each entity that is a beneficiary;
+■ The number of every account involved in the transaction; and
+■ Every reference number related to the transaction that is meant to be similar
+to an account number.
+● Records of electronic funds transfers of $1,000 or more
+○ When Square Canada initiates, at the request of a person or entity, an electronic
+funds transfer of $1,000 or more, the following records will be retained:
+■ The date the EFT was initiated;
+■ The amount and type of funds involved in the initiation;
+■ If the customer is a person, their name, address, telephone number, date of
+birth and their occupation, or in the case of a sole-proprietor, the nature of
+their principal business;
+■ If the customer is an entity, their name, address, telephone number and the
+nature of their principal business;
+■ The exchange rates used and their source;
+■ The name and address of each beneficiary;
+■ If an account is involved in the initiation:
+● The account number and account type; and
+● The name of each account holder;
+■ Every reference number related to the transaction that is meant to be similar
+to an account number; and
+■ The number of every account that is involved in the EFT, other than those
+involved in the initiation.
+○ Sending an international electronic funds transfer of $1,000 or more19
+○ Final receipt of an international electronic funds transfer of $1,000 or more20
+● Records of virtual currency transfers in amounts equivalent to $1,000 or more
+○ Virtual currency transfer in an amount equivalent to $1,00021
+○ Receipt of virtual currency in an amount equivalent to $1,000 or more for
+remittances to a beneficiary22
+19 Not applicable as the business activities of Square Canada do not involve international electronic funds transfers.
+20 Not applicable as the business activities of Square Canada do not involve international electronic funds transfers.
+21 Not applicable as the business activities of Square Canada do not involve transactions conducted in virtual currency.
+22 Not applicable as the business activities of Square Canada do not involve transactions conducted in virtual currency.
+29
+
+● Foreign currency exchange transaction tickets23
+● Virtual currency exchange tickets24
+● Crowdfunding platform services records
+○ As an MSB that provides crowdfunding platform services to persons and entities in
+Canada, Square Canada retains the following records:
+■ An information records about the person or entity that Square Canada is
+providing those services for;
+■ A record of the purpose for which funds are being raised; and
+■ If the funds are being raised for a person or entity other than the person or
+entity setting up the fundraiser:
+● A record of their name;
+● Reasonable measures will be taken to obtain their address, nature of
+their principal business or occupation, their date of birth (in the case
+of a person) and a record of the information obtained will be
+retained
+● Created or received internal memorandums about MSB services
+○ Square Canada will retain a record of every internal memorandum that is created or
+received in the normal course of business regarding MSB services offered to
+clients.
+● Service agreement records
+○ When Square Canada enters into an agreement with a person or entity to provide
+an MSB service under section 5(h) of the PCMLTFA, the following records will be
+retained:
+■ The name, address, date of birth, and occupation or in the case of a
+sole-proprietor, the nature of their principal business, of every person who
+signs the agreement on behalf of the entity;
+■ An information record about the entity, which must include:
+● Name and address of the entity; and
+● The nature of the entityʼs principal business;
+■ If the entity is a corporation, a copy of the part of its official records that
+contains provisions relating to the power to bind the corporation in respect
+of transactions with the MSB;
+■ A list that includes the name, address and date of birth of each of the
+entityʼs employees who are authorized to order a transaction under the
+agreement;
+● Third party determination records;
+● Reasonable measures records;
+● Client identification records;
+● Beneficial ownership records;
+● Records in respect of the nature of the business relationship between Square and Sellers,
+respectively;
+● PEP records; and
+23 Not applicable as the business activities of Square Canada do not involve foreign currency exchange transactions.
+24 Not applicable as the business activities of Square Canada do not involve transactions conducted in virtual currency.
+30
+
+● Records in respect of conducted ongoing monitoring: ongoing monitoring measures taken,
+the process in place to record the information obtained from ongoing monitoring, and the
+information obtained as a result of ongoing monitoring.
+2.7. The Travel Rule
+The travel rule is the requirement to ensure that specific information is included with the information
+sent or received in an EFT or a VC transfer. Information received under the travel rule cannot be
+removed from a transfer.
+Square Canada will include the following travel rule information when it initiates an EFT for which an
+EFT record must be kept:
+● The name, address and account number or other reference number (if any) of the person
+or entity who requested the transfer (originator information);
+● The name and address of the beneficiary; and
+● If applicable, the beneficiary's account number or other reference number.
+Square Canada will take reasonable measures to ensure that travel rule information is included when
+it receives an EFT, either as an intermediary or as the final recipient. When sending an incoming or
+outgoing EFT (after receiving it as an intermediary), Square Canada will include the travel rule
+information it received or obtained through reasonable measures.
+In the event Square Canada receives an EFT that should include the travel rule information but does
+not, reasonable measures will be taken to obtain that information. And if after taking reasonable
+measures, Square Canada is unable to obtain the travel rule information:
+● Square Canada will continue to allow the EFT to be processed; or
+● If the EFT has been deemed unusual for any reason, Square Canada will suspend or reject
+the transaction and request additional information from all persons involved in the EFT.
+As at the time of writing, Square Canadaʼs Managed Payments Service does not facilitate the
+prescribed EFTs25 to which the Travel Rule applies. Square Canada settles its payment obligations
+with merchants using low-value domestic rails; and Square Canada does not conduct either
+international EFTs or EFTs within Canada that are sent via SWIFT MT103 message or equivalent.
+2.8. Ministerial Directives
+Under the PCMLTFA, the Minister of Finance may:
+25 International EFTs and EFTs within Canada sent via SWIFT MT103 message or its equivalent.
+31
+
+● Issue directives that require reporting entities to apply countermeasures to transactions
+coming from or going to designated foreign jurisdictions or entities; and
+● Recommend the introduction of regulations to restrict reporting entities from entering into a
+financial transaction coming from or going to designated foreign jurisdictions or entities.
+These authorities are intended to allow the Minister of Finance to take steps to protect Canadaʼs
+financial system from foreign jurisdictions and foreign entities that are considered to present high
+risks for facilitating money laundering and terrorist financing. Failure to comply with a directive could
+result in an administrative monetary penalty.
+Although issued by the Minister of Finance, FINTRAC will inform reporting entities that a directive
+has been issued. Each directive will be listed on FINTRACʼs website and will include an outline of
+countermeasures that are limited to the same activities for which reporting entities already have
+obligations. The countermeasures will enhance or add to these obligations. Directives will specify
+the date they came into force and will remain in force until officially revoked, suspended or amended.
+Directives will be reviewed every three years from the day they take effect.
+Square Canadaʼs CCO will take the following steps in the event a Ministerial Directive is issued:
+● Review the directive;
+● Determine the impact of the directive on Square Canadaʼs AML/ATF risk assessment; and
+● Where the ministerial directive impacts operations, update the AML/ATF Program and
+ensure the countermeasures specified in the directive are implemented.
+There are currently three directives issued by the Minister of Finance: 1 Ministerial Directive on the
+Democratic Peopleʼs Republic of Korea (also known as North Korea or DPRK issued on December 9,
+2017 (the North Korea Directive); 2 Ministerial Directive on the Islamic Republic of Iran issued on
+July 25, 2020 (the Iran Directive) and updated on February 24, 2024; and 3 Ministerial Directive on
+Financial Transactions Associated with Russia issued on February 24, 2024.
+The North Korea Directive requires that all transactions originating from, or destined to, North Korea
+be considered high risk.
+The Iran Directive requires Square Canada to:
+● treat every financial transaction originating from or bound for Iran, regardless of its amount,
+as a high-risk transaction;
+● verify the identity of any individual or entity requesting or benefiting from such a
+transaction in accordance with the identification methods described in the Square Canada
+AML/ATF Procedures;
+● exercise customer due diligence, including ascertaining the source of funds in any such
+transaction, the purpose of the transaction and, where applicable, the beneficial ownership
+or control of any entity requesting or benefiting from the transaction;
+● keep and retain a record of any such transaction, in accordance with this Policy; and
+● report all such transactions to FINTRAC.
+The Russia Directive requires Square Canada to:
+32
+
+● treat every financial transaction originating from or bound for Russia, regardless of its
+amount, as a high-risk transaction;
+● verify the identity of any individual or entity requesting or benefiting from such a
+transaction in accordance with the identification methods described in the Square Canada
+AML/ATF Procedures;
+● exercise customer due diligence, including ascertaining the source of funds in any such
+transaction, the purpose of the transaction and, where applicable, the beneficial ownership
+or control of any entity requesting or benefiting from the transaction; and
+● keep and maintain a record of any such transaction, in accordance with this Policy,
+regardless of any monetary thresholds.
+2.9. Cooperation with Law Enforcement
+Square Canadaʼs Law Enforcement team maintains controls and procedures by which to respond to
+law enforcement requests and subpoenas. All such requests are managed in accordance with local
+laws and regulations. The receipt of a law enforcement request for information will at a minimum
+trigger review of the customer; and may further prompt the filing of an STR (where warranted) and
+escalation to senior compliance management for re-assessment of the customer risk and overall
+relationship.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+All employees have a role to play in protecting Square Canada from being used for the commission
+of a money laundering or terrorist financing offence. The information below identifies some of the
+important responsibilities held by different stakeholders in respect of the ongoing management of
+Square Canadaʼs AML/ATF compliance program.
+● Square Canada Inc. Board of Directors:
+○ Maintain ultimate responsibility for the AML/ATF Program and influence over the
+accepted risk tolerance of Square Canada
+○ Promote a culture of compliance by way of appointing a compliance officer and
+reviewing Square Canadaʼs Risk Assessment and the results of the independent
+effectiveness review
+○ Ensure senior management is provided with adequate resources to implement
+controls and measures designed to mitigate ML/TF risk
+○ Approval of framework AML/ATF Policy and Procedures
+● Square Canada Chief Compliance Officer and Regional Anti-Money Laundering
+Compliance Officer (“RAMLOˮ):
+○ Act as the administrator of the Square Canada AML/ATF Policy and Program
+33
+
+○ Coordinate, manage, and monitor Square Canadaʼs AML/ATF program
+○ Review and update Square Canada AML/ATF Policy and Program documents
+annually and upon any material change
+○ Oversight responsibility of the Square Canada AML KYC, including CDD and EDD
+programs, monitoring programs, risk-based approach, and training.
+● Square Global Head of Compliance:
+○ Assist in coordinating, managing, and monitoring Square Canadaʼs AML/ATF
+program
+○ Approve Square Canadaʼs AML/ATF Policy and Program documents annually and
+upon any material change
+● Square Compliance Operations Team:
+○ Executes the Square Canada AML/ATF mandate
+○ Support the RAMLOʼs mandate for Square Canada AML/ATF program content,
+design, and implementation, and facilitates regular reporting to Senior Management
+and the Board with pertinent information regarding the AML/ATF Program
+effectiveness and adequacy
+○ Work with the Square Canada RAMLO to implement programmatic changes as
+necessary
+○ Responsible for managing transaction monitoring solutions, including developing
+new rules, the modification and maintenance of existing rules
+○ Conducts identification, investigation (including EDD and ongoing transaction and
+sanction monitoring and supports management of high risk clients based on
+approved methodologies by the RAMLO
+● Global Compliance Governance Team:
+○ Executes the Square Canada AML/ATF Risk Assessment Program
+○ Oversee the management of AML/ATF independent effectiveness reviews
+○ Supports the execution of Square Canadaʼs AML/ATF training program
+○ Works with the Square Canada RAMLO to implement programmatic changes as
+necessary
+● Square Partner Risk Compliance Team:
+○ Work with the RAMLO to ensure effective oversight and challenge over outsourced
+AML/ATF compliance functions
+○ Work with the Square Canada RAMLO to implement programmatic changes as
+necessary
+○ Work with RAMLO to manage and implement payment card network operator or
+banking partner requirements (where applicable)
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+34
+
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.4. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.5. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Square Canada | AML/ATF Procedures
+● Square Canada | AML/ATF Risk Assessment
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+35
+
+Approval History:
+Approver Title Type Description Date
+Jeff White Square Canada Creation Initial creation of April 18, 2023
+RAMLO document
+Laura Square Head of Initial Approval April 19, 2023
+Fragomeni Compliance
+Square Canada Initial Approval June 15, 2023
+Inc. Board of
+Directors
+Jeff White Square Canada Scheduled R… Annual Review February 15, 2024
+RAMLO and Approval
+Laura Square Head of Scheduled R… March 15, 2024
+Fragomeni Compliance
+Square Canada Scheduled R… March 20, 2024
+Inc. Board of
+Directors
+Jeff White Square Canada Scheduled R… Annual Review February 15, 2025
+RAMLO and Approval
+Tyler Hand Square Head of Scheduled R… February 20,
+Compliance 2025
+(designate)
+Square Canada Scheduled R… March 12, 2025
+Inc. Board of
+Directors
+Jeff White Square Canada Scheduled R… Annual Review February 6, 2026
+RAMLO and Approval
+Safiya Square Head of Scheduled R… February 10, 2026
+Adenekan Compliance
+(designate)
+Square Canada Scheduled R… March 11, 2026
+Inc. Board of
+Directors
+Document Details:
+Business Square
+36
+
+Scope Regional Canada
+Compliance Domain Financial Crimes
+Document Owner Square Head of Compliance (designate)
+Approved By Square Canada Board of Directors
+Document Tier Tier 1
+37

@@ -1,0 +1,752 @@
+Cash App Financial Crime Program
+Squareup Europe Limited SEL
+Last Approved: September 29, 2025
+Effective Date: September 29, 2025
+1. Overview
+Introduction and Purpose: Squareup Europe Limited (“SELˮ) is an authorised Electronic Money
+Institution, regulated and supervised by the Financial Conduct Authority (“FCAˮ) in the United
+Kingdom UK, under Firm Reference Number 900846. The direct parent company is Squareup
+International Limited, registered in the Republic of Ireland; both companies are wholly owned
+subsidiaries of Block, Inc.
+SELʼs two key product offerings are (i) Square Managed Payments and (ii) Cash App (in Winddown
+since October 2024. Further information on the products and services offered by SEL in the UK
+are located in Appendix 1. This Program document relates to the Cash App business.
+Block, Inc.
+Block, Inc., a Delaware corporation, is a merchant services aggregator and mobile payments
+company based in San Francisco, California in the United States of America. It is registered as a
+Money Services Business with the Financial Crimes Enforcement Network (“FinCENˮ).
+SELʼs primary Cash App product offering is a peer-to-peer money transfer service, allowing
+individuals, through a mobile software application, to transfer funds via stored balance or from a
+debit card issued by a UK-based financial institution to another individualʼs Cash App account. A
+feature of Cash App is the ability to make cross-currency transactions (send and receive funds
+from other jurisdictions where Cash App is available). This feature enables individual Cash App
+users to transfer funds between Cash App accounts e.g., a US individual Cash App customer can
+transfer US dollars from their stored value balance or linked debit card to a UK individual
+customerʼs Cash App account where it will appear in her GBP stored value balance, and vice versa.
+Scope: This Financial Crime Program document applies to Cash App products available in the UK.
+
+Definitions:
+Terminology Definition
+Money Laundering Money Laundering is the process by which individuals or organisations
+conceal the origins of illegally obtained funds, making them appear
+legitimate. In the context of SEL, Money Laundering typically involves
+disguising the proceeds of crime through legitimate payment
+channels, including merchant transactions and card processing
+services. Criminals may attempt to exploit financial institutions to
+move, layer or integrate illicit funds into the financial system. As a
+regulated entity under the UK Money Laundering Regulations, SEL has
+a legal and ethical responsibility to detect and prevent such activities
+by implementing robust Anti-Money Laundering (“AMLˮ) controls,
+including customer due diligence (“CDDˮ), transaction monitoring and
+the reporting of suspicious activity.
+Terrorist Financing Terrorist Financing involves the collection or provision of funds with
+the intention or knowledge that they will be used to support terrorist
+acts, individuals or organisations. Unlike Money Laundering, the origin
+of the funds used for terrorist financing may be legitimate or illicit,
+making detection more complex. For SEL, there is a heightened risk
+that payment processing services could be misused to raise, move or
+store funds that support terrorism, often through seemingly legitimate
+merchants or transactions. Under the Terrorism Act 2000 (“TACTˮ)
+and related UK regulations, SEL must implement effective controls to
+identify and report suspicious activity, conduct enhanced due
+diligence (“EDDˮ) where necessary and ensure systems are in place to
+prevent its services from being exploited for terrorist financing
+purposes.
+Proliferation Financing Proliferation Financing refers to the act of providing funds or financial
+services that are used to support the development, acquisition or
+transfer of weapons of mass destruction (“WMDsˮ), including nuclear,
+chemical or biological weapons. This type of financing is often linked
+to sanctioned individuals, entities or countries and may involve
+complex networks designed to evade international controls. For SEL,
+the risk lies in unintentionally facilitating transactions that contribute to
+proliferation activities through merchant relationships or payment
+processing. Under UK regulations and international obligations such as
+UN and UK sanctions regimes, SEL is required to implement robust
+screening, due diligence and monitoring systems to detect and
+prevent any involvement in Proliferation Financing, ensuring
+compliance with all applicable sanctions and export control laws.
+
+Financial Crime A written document that sets out the primary components the
+Program company uses to identify, mitigate, and manage potential risks of its
+products or services being misused to facilitate ML, TF or PF. The
+components of the program and documentation must be developed
+and implemented and proactively maintained.
+Beneficial Owner Refers to the natural person(s) who ultimately owns or controls a
+customer or the natural person on whose behalf a transaction is being
+conducted. It also includes those persons who exercise ultimate
+effective control over a legal person or arrangement.
+Customers An individual or company that uses products and services offered by
+SEL.
+Host Country A country where a company that is based in another country has
+business activities.
+Merchant A business that offers products and services related to SELʼs primary
+product - Square Managed Payments.
+Suspicious Activity A document that a financial institution must file with the relevant
+Report SAR Financial Intelligence Unit following a suspected incident of ML, TF, PF
+or fraud.
+Staff/Employee All full-time employees, fixed-term employees, outsourced employees
+and contingent workers including interns, temps, consultants, vendors,
+third-party providers, and contractors.
+2. Legal & Regulatory Framework
+The UK Money Laundering Regulations, applying to financial institutions, date from 1993, the
+current Regulations being the Money Laundering, Terrorist Financing and Transfer of Funds
+Information on the Payer) Regulations 2017 (as amended) Money Laundering Regulations 2017.
+The offence of Money Laundering was contained in various acts of parliament (such as the
+Criminal Justice Act 1988 and the Drug Trafficking Offences Act 1986. The Proceeds of Crime Act
+2002 (“POCAˮ) consolidated, updated and reformed the law relating to money laundering to
+include any dealing in criminal property. Specific obligations to combat terrorist financing were set
+out in the Terrorism Act 2000.
+SEL takes into account legislation such as the Proceeds of Crime Act 2002, the Money Laundering,
+Terrorist Financing and Transfer of Funds Information on the Payer) Regulations 2017 (as
+amended) , the Counter Terrorism Act 2008, the Electronic Money Regulations 2011 and the
+Payment Services Regulations 2017. As an e-money institution, SEL must also comply with the
+relevant parts of the FCA handbook for firms and take into account the FCAʼs Approach Document.
+
+SELʼs business is subject to a wide range of laws and regulations within the UK and the US,
+including Anti-Money Laundering and Counter Terrorist Financing and and Counter Proliferation
+Financing AML/CTF/CPF legislation as well as US Treasury Departmentʼs Office of Foreign Assets
+Control (“OFACˮ) and US sanctions requirements. SEL also follows the international framework
+proposed by the Financial Conduct Authority (“FCAˮ), Financial Action Task Force (“FATFˮ) and
+guidance produced by Joint Money Laundering Steering Group (“JMLSGˮ) in the UK.
+3. Financial Crime Program Summary
+This document outlines SELʼs comprehensive Financial Crime Program, which is designed to
+identify, assess and mitigate risks related to Financial Crime. It encompasses the key components
+of SELʼs framework to prevent and detect Money Laundering (“MLˮ), Terrorist Financing (“TFˮ) and
+Proliferation Financing (“PFˮ).
+SEL is committed to developing, implementing, and maintaining an effective, risk based Financial
+Crime Program, which is reasonably designed to prevent Cash App from being used to facilitate
+ML, TF or PF activities.
+This Financial Crime Program document applies to all the Cash App products available in the UK.
+The objectives of this Financial Crime program for the UK are:
+● To develop and implement a risk-based Financial Crime program for all Cash App activities;
+● To develop risk-based AML/CTF/CPF control procedures for all Cash App activities;
+● To promote awareness of applicable AML/CTF/CPF laws and regulations;
+● To detect, prevent, monitor, and report any suspicious activity and TFtransactions; and
+● Fully cooperate with all law enforcement, regulatory agencies, and financial intelligence
+units to the extent required and permitted under applicable law.
+It is vital that all SEL personnel1 are aware of and committed to achieving compliance with all
+applicable requirements of the Financial Crime program, laws, and regulations. All SEL employees
+and support staff, including employees of other Block entities who support Cash App in the UK,
+are expected to follow the protocols and processes outlined in this Program document, as well as
+any related procedures, to ensure compliance with all related legal and regulatory requirements.
+4. Governance and Oversight
+Board of Directors and Senior Management
+Senior Management of SEL, including the Board of Directors (the Board), have responsibility for
+managing identified ML, TF and PF risks by demonstrating active engagement in SELʼs approach to
+effectively mitigating such risks. The Board meets quarterly and follows a terms of reference which
+details information including the Boardʼs role, its standing agenda, and its decision making process.
+This Financial Crime Program and any changes to it must be approved, in the first instance, by the
+Money Laundering Reporting Officer (“MLROˮ) who has been appointed by the Board of SEL to
+coordinate and manage SELʼs Financial Crime Program and secondly, by the Board itself. The
+document is updated as needed and at least on an annual basis and reaffirmed by SELʼs senior
+1 These requirements extend to personnel working on behalf of SEL through outsourcing arrangements.
+
+management and the Board of Directors. The Financial Crime Program is not a static document. It
+may be amended between the review periods if the MLRO believes that such a change is
+necessary. This may occur, for example, if:
+● There are material changes to the AML/CTF/CPF legislation or guidance;
+● SEL offers new or additional Cash App related products and services or makes material
+changes to existing products or services;
+● SEL expands its business in the future and the processes outlined in this Financial Crime
+Program are no longer sufficient to guard against ML/TF/PF risks posed by the new
+business;
+● The MLRO believes a change in the ML, TF and PF risk posed by the products and services
+offered justifies a change to the Financial Crime Program; or
+● Changes are recommended as a result of internal/external audit and/or testing &
+monitoring.
+Regulatory Governance Committee
+SEL has established a Regulatory Governance Committee (“RGCˮ) which is a senior management
+committee with a terms of reference that details information including its role, its standing agenda
+and its composition. SELʼs Regulatory Governance Committee and Board ensures that the
+ML/TF/PF risk management measures adopted are risk-based and proportionate, informed by
+SELʼs business risk assessment.
+Governance and Oversight of ML/TF/PF
+● SEL senior management reviews and approves the business risk assessment methodology
+at the RGC and at the Board.
+● SEL senior management reviews and approves the business risk assessment at least
+annually.
+● SEL senior management reviews and approves policies and procedures.
+● SEL senior management has appointed a MLRO who is supported by a team that is
+adequate given the risks faced and the outsourcing model in place.
+● SEL senior management maintains minutes from meetings where ML/TF/PF matters are
+discussed (e.g., RGC and Board meetings).
+● SEL maintains evidence of Politically Exposed Person (“PEPˮ) approvals.
+5. Risk assessment and Management
+Regulation 18 and 18A of the Money Laundering Regulations 2017 requires firms to Identify and
+assess the ML/TF/PF risks to which its firm is subject to and should apply a risk-based approach
+when applying AML/CTF/CPF compliance measures. SEL assesses ML/TF/PF risk which it is
+exposed to resulting from the nature and complexity of the business.
+In order to develop appropriate systems and controls, SEL assesses AML/CTF/CPF risks, both
+specific and general, that arise in relation to the customers, products and services, delivery
+channels, geography and other risks as identified by the national risk assessment, and risks
+identified by SEL but not contained in the above categories. SEL also recognises other significant
+risks identified by the JMLSG, FATF, FCA and other relevant government agencies such as
+sanctions, bribery, corruption, and fraud.
+
+SEL implements a risk-based approach to focus effort where it is needed and where it will be most
+effective in countering the risks posed to SEL and the ecosystem in which it operates. Risk
+assessment and management is an ongoing process conducted locally and at a global level. It is
+continuously evaluated so that the greatest resources are assigned appropriately to those areas
+that pose the greatest risk.
+The Risk Assessment Program incorporates identification of gaps and weaknesses, developing
+action plans, and tracking those action plans to completion. Cash Appʼs risk assessment team in
+collaboration with the MLRO, will track enhancements and formalise the changes required into an
+action plan. As new risks are identified or presented, consideration will be given to the
+modification of the program and strategies to execute upon the program.
+Before new products or services are launched, the business must review the product or service for
+potential ML/TF/PF risks and ensure appropriate controls are implemented if such risks exist.
+The UK MLRO
+● Conducts and documents a risk assessment and analysis for ML, TF and PF risks related to
+the products and services offered. A risk assessment and analysis is required no less than
+annually and may be conducted more frequently, if required.
+● Presents results of the risk assessment to the Board of Directors annually.
+● Incorporates recommendations from the results of the risk assessment into this Financial
+Crime Program and, where applicable, controls into the relevant products or services.
+6. Know your Customer
+Regulation 27 & 28 of the Money Laundering Regulations 2017 require firms to determine the level
+of CDD to be applied on a risk based approach. SEL uses a formal process to obtain information
+on its customers to reasonably assess their identity and legitimacy, as required by law and in line
+with SELʼs risk based approach.
+The nature of Cash Appʼs businesses is that customers send and receive P2P payments. The due
+diligence checks and processes are built into the onboarding process that a customer completes
+to sign up and use the Cash App product and its services. The verification of a customerʼs identity
+is conducted at the start of the business relationship through a third party tool for identification and
+verification (“IDVˮ) purposes.
+A risk profile is assigned to the customer at onboarding to allow for greater attention to certain risk
+levels to ensure appropriate due diligence is carried out.
+If adverse information is found on an individual during the onboarding process, the Compliance
+Team reviews all information available and makes a determination as to whether such information
+precludes an approval, based on Cash Appʼs Terms of Service and its Financial Crime Program.
+Following the review, a decision to approve or decline the customer is made, along with the
+documented rationale.SEL maintains KYC processes and procedures in line with this Financial
+Crime Program.
+
+7. Customer Risk Rating Model
+The cornerstone of a strong AML compliance program is the adoption and implementation of
+risk-based due diligence policies and procedures for all customers, particularly those that present
+a higher risk for ML,TF and PF. In order to achieve this, SEL has designed and implemented a CRR
+program that assesses a customer's profile and assigns risk rating and monitors the risk levels of
+the customers.
+The CRR program enables SEL to apply the appropriate risk-based controls to mitigate exposure to
+money launderers, terrorist financing, and financial crime. Improper assessment of a customerʼs
+risk can have a cascading effect, creating deficiencies in multiple areas of internal controls and
+resulting in an overall weakened AML compliance program.
+8. Politically Exposed Persons
+A Politically Exposed Person (‘PEPʼ) is defined in Regulation 3512a & 14 of the Money
+Laundering Regulations 2017 as an individual who is or has been entrusted with prominent public
+functions, other than as a middle-ranking or more junior official. This includes both domestic and
+non-domestic PEPs. It also includes their family and known close associates.
+Family includes:
+● Spouse or partner of the person;
+● Children of the person, their spouses or partners; and
+● Parents of that person.
+A known close associate is an individual:
+● Known to have joint beneficial ownership of a legal entity or legal arrangement or any other
+close business relations with a PEP; or
+● Who has sole beneficial ownership of a legal entity or a legal arrangement which is known
+to have been set up for the benefit of a PEP.
+SEL is not precluded from establishing business relationships with PEPs, but it recognises that
+PEPs potentially pose a higher ML and TF risk because individuals holding such positions may
+misuse their power or influence for personal gain or advantage. PEPs may also use family or close
+associates to hide funds or assets obtained through the abuse of their position or bribery and
+corruption. SEL is aligned with the FCA guidance of the definition of a PEP and who should be
+treated as a PEP
+9. Sanctions
+SEL screens all customers against the Office of Financial Sanctions Implementation (“OFSIˮ)2 list
+as well as the financial sanctions imposed by the United Nations, European Union Consolidated
+Sanctions List and the US Department of the Treasury- OFAC Sanctions List.
+2 OFSI FAQ https://www.gov.uk/government/publications/financial-sanctions-faqs
+
+Customers are screened at onboarding and daily thereafter. It is worth noting also that sanction
+screening of staff occurs at onboarding and on a quarterly basis thereafter.
+10. Negative News
+SEL conducts negative news screening, where warranted, on its customers. If adverse information
+is found on a customer, the case is escalated to the MLRO/Deputy Money Laundering Reporting
+Officer (“DMLROˮ) to review all the information available and make a determination as to whether
+the information is detrimental to the potential customer and to subsequently make a decision to
+approve or decline the business relationship and document the rationale used.
+11. Vendor Support
+SEL has contracted with well known, highly respected vendors to assist with the following
+functions - due diligence, verification checks, PEP screening, and sanction screening. A short
+overview of the different vendors utilised by SELʼs Compliance Team is located in the Third Party
+Register. New vendors must pass the products due diligence screening prior to being onboarded.
+12. Enhanced Due Diligence
+SEL has designed an EDD monitoring process as part of its KYC Program and inline with the
+requirements detailed in Regulation 33 of the Money Laundering Regulations 2017. Customers
+identified that could potentially pose an ML/TF/PF or other financial crime risk undergo EDDe,
+meaning the accounts are reviewed with additional scrutiny and frequency once the risk is
+identified. Customers are identified primarily through the CRR model.
+An EDD review will be triggered if an account meets one or more of the below criteria or direction
+is received from the MLRO/DMLRO
+● Accounts with confirmed Law enforcement hits;
+● Accounts with confirmed negative news hits;
+● Accounts with confirmed PEP/RCA Relative or Close Associate) hits;
+● Customers identified through the CRR; or
+● A Customer or transactions present a higher risk of ML/TF/PF.
+The MLRO/DMLRO reserves the right to mandate EDD at any point during the customer
+relationship, regardless of whether a trigger event has occurred. This discretionary authority
+allows the MLRO/DMLRO to respond dynamically to emerging risks, intelligence or regulatory
+requirements.
+The analyst reviews all information available, as part of the EDD review and on completing their
+review, escalates all EDD cases where enforcement hits or PEP hits are confirmed, and all EDD
+cases where suspicious activity has been detected, to the MLRO/DMLRO for approval. The MLROʼs
+decision to approve or decline the customer is then made, along with the documented rationale.
+
+13. Monitoring Program
+SEL monitors the activity of customers to identify any transactions, patterns, or behaviours which
+appear to be potentially suspicious and related to ML/TF/PF. SEL uses a combination of analytic
+models, in-house front-end software applications, vendor supported analytics,3 and manual
+analysis to review activity on an ongoing basis from the beginning to the end of the business
+relationship.
+The analytic models apply a set of curated algorithms to run against the transaction data set and
+populate a set of review queues. The Risk Management Team reviews possible fraud related
+activity via their independent queues, with escalation of ML to the Compliance Team. The analytic
+models employ a dynamic, risk-based approach taking into account a number of factors unique to
+the customer base. The Compliance Team reviews the algorithms using ongoing analysis of
+transaction data, information from the risk assessment, and takes into account the type of product
+and service in use.
+The risks factor include, but are not limited to:
+● Any transaction that appears to have no apparent economic or visible lawful purpose;
+● Any unusual patterns of transactions that have no apparent economic or visible lawful
+purpose;
+● Any unusual patterns of transaction involving linked customers, assets, or information;
+● Payment instrument diversity in the transaction mix for the customer;
+● Multiple payments from the same card or large payments;
+● Personal identification provided by the customer is the same as that submitted by other
+persons opening an account or other customers;
+● Discrepancies in the provided personal identifying information when compared against
+external information sources used by the SEL; and
+● Personal identifying information provided is of a type commonly associated with fraudulent
+activity as indicated by internal or third-party sources used by SEL;
+The output from the analytic models are reviewed using a set of factors to determine whether the
+activity is potentially suspicious.The baseline factors are a set of common red flag indicators
+based on AML laws and best practices.
+The factors include, but are not limited to:
+● Customers who exhibit an unusual amount of concern regarding SELʼs KYC procedures and
+reporting requirements, particularly if they demonstrate reluctance to reveal their identity
+or provide relevant documentation about their business or transactions;
+● Customers who engage in transactions inconsistent with their anticipated activity or stated
+business type (for example: unsubstantiated velocity of transactions, irregular transaction
+amounts, times, and locations);
+● individuals who engage in inconsistent transaction patterns or activity (for example:
+unsubstantiated velocity of transactions, irregular transaction amounts, times, and
+locations);
+3 Web Crawling, Web Indexing
+
+● Customers who provide false, misleading, or substantially incorrect information;
+● Repeated attempts where an individual is unable to match identification data points;
+● Customers who have questionable backgrounds, or are the subject of negative news
+reports and/or publicly available information indicating possible criminal, civil, or regulatory
+enforcement or violations;
+● Customers who engage in transactions structured to evade amounts just below reportable
+or other thresholds, if applicable; and
+● Customers who for no apparent reason have multiple accounts under a single name or
+multiple names, or multiple accounts sharing the same identity and/or bank account.
+In addition to red flag indicators, the Compliance Analyst evaluating the activity associated with a
+given Customerʼs account will use a set of positive and negative indicators as part of the
+decision-making process, on a risk based approach.
+Ongoing monitoring of SELʼs Square customers is conducted to manage and mitigate risks that
+could arise during the business relationship, for example where:
+● The customer is a PEP or a family member or close associate of a PEP;
+● A single transaction or multiple transactions occur where the activity relates to a high risk
+jurisdiction or is complex, unusual, or appears to have no economic or legal purpose;
+● There is a higher risk of ML, TF or PF due to other factors (e.g., business type according to
+Merchant Category Code);
+● False or misleading information is identified during a review; or
+● False or misleading information is identified through the CRR model.
+The output of this ongoing monitoring may require the EDD process to be followed, the details of
+which are contained in the EDD process document. The process is in line with Part 3, Chapter 2 of
+the Money Laundering Regulations 2017.
+It is important to ensure that SEL keeps abreast of new typologies and changes to typologies (e.g.
+new corridors of activity, new thresholds etc.). The compliance teams ensure that the transaction
+monitoring program reflects the risk in the activities of its customers.
+In addition, SEL reflects the nature of the regulated area in which it operates, in this case the
+National Risk Assessments, updates from Regulators and Law Enforcement and trade
+organisations also inform the risk based approach of SEL. The teams carrying out transaction
+monitoring must therefore be trained on a regular basis to ensure that their knowledge is up to date
+and reflects the risk in the market. This training is done by a member of the SEL Compliance Team
+on at least an annual basis.
+14. Reporting Suspicious Activity
+The purpose of this section is to define the responsibilities and legal obligations for identifying and
+reporting of suspicious activity in compliance with;
+● Proceeds of Crime Act 2002 POCA;
+● Terrorism Act 2000;
+
+● Money Laundering, Terrorist Financing and Transfer of Funds Information on the Payer)
+Regulations 2017;
+● FCA Handbook SYSC 6.3.7; and
+● National Crime Agency (“NCAˮ) SARs Regime guidance
+s330 POCA requires SEL to report potentially suspicious transactions or activity by completing a
+suspicious activity or transaction report, within the relevant timeframe, and to collect and maintain
+supporting documentation in accordance with the record retention requirements.
+SEL files a suspicious activity report and notifies law enforcement of all customers, transactions,
+and activity that raise an identifiable suspicion of criminal, terrorist, fraudulent, or corrupt activity
+via the SAR filing process, including tax evasion.
+Where such suspicions arise, Staff must promptly submit an Internal SAR to the MLRO/DMLRO as
+soon as practicable. This is known as internal escalation and the report must be completed using
+the SEL designated internal escalation SAR process.
+The MLRO/DMLRO upon receipt of such an internal report will evaluate whether the suspicion
+meets the legal threshold for filing a SAR with the UK Financial Intelligence Unit (“UKFIUˮ), which
+forms part of the NCA.
+Failure to comply with these reporting obligations may constitute a criminal offence, including
+under Section 330 of POCA, which pertains to the failure to disclose.
+Once this reporting has been completed by the employee, contractor, director, officer, or agent,
+they have discharged their personal obligation in this respect and the MLRO/DMLRO is to
+acknowledge receipt of such reporting. SEL maintains SAR processes and procedures in line with
+this Financial Crime Program.
+The MLRO/DMLRO is responsible for maintaining a secure and auditable log of all internal reports,
+external SARs Submissions to the NCA and related documentation. This includes any
+communications with NCA, Law enforcement agencies or regulators. Records must be retained for
+a minimum period of five years following the end of the business relationship or the date of the
+report, whichever is later. These records must be readily available for inspection by the FCA or
+other competent authorities upon request.
+14.1 Internal Escalations
+Internal escalation of suspicious activity or transactions can be reported to the MLRO through
+SELʼs in-house monitoring system (“Regulatorˮ) by using the ‘Escalate to SAR Teamʼ functionality,
+which is monitored by the Compliance and Risk Management Teams. If the reporter does not have
+access to ‘Regulatorʼ, then the suspicious activity report can be raised via Go/UKMLRO and
+following the steps on raising a SAR. In the event that the suspicion requires urgent attention or all
+other methods have been exhausted, employees can reach out directly to the UK MLRO
+(Rgoldstone@squareup.com)/ UK Deputy MLRO (Dedgell@squareup.com) to raise the concerns.
+
+14.2 Regulatory Reporting
+SEL complies with all regulatory requirements as applicable on the required frequency or on
+request.
+14.3 Confidentially & Tipping Off
+According to section 333A POCA Section, and section 21D of the Terrorism Act 2000 and
+Proceeds of Crime Act 2002 Amendment) Regulations 2007, SEL can commit a tipping-off offence
+if it does anything that may tip off another person that a suspicion has been raised, discloses to a
+third person that a SAR has been filed, or discloses that an investigation into an offence is being
+contemplated or carried out if SELʼs disclosure is likely to prejudice any criminal investigation.
+Accordingly, all SARs must be kept confidential. Confidential information also includes any
+documentation stating that a SAR was or was not filed and the basis on which the decision was
+made.
+All SAR contemplation, resulting in filing to the NCA or a no-SAR decision SAR recorded internally
+only), must not be disclosed or even hinted to the Customer as well as all other subjects of the
+SAR, or anyone within SEL, SELʼs parent company, or any of its affiliated companies that does not
+have a need to know of such actions.
+SEL holds SARs and any supporting documentation in a confidential folder. SEL does not inform
+anyone outside of a law enforcement or regulatory agency about the details of a SAR. In addition,
+the details of a SAR filings and copies of supporting documentation are segregated from other SEL
+records to avoid disclosing SAR details.
+14.4 Law Enforcement & Regulatory Bodies
+SEL responds to any law enforcement, regulatory bodies, government agency, and other financial
+institution requests for documentation on customers by searching its records to determine
+whether it has engaged in any transaction with the individual or entity named in the request. If a
+match is found, it is reported to the appropriate authority. If the search does not uncover a match,
+then SEL will reply in accordance with local laws and regulations.
+SEL does not disclose the fact that there has been a request to any customers, except to the extent
+necessary to comply with the information request from a law enforcement or regulatory body.
+SELʼs Compliance function does not use information provided for any purpose other than 1 to
+report to appropriate law enforcement or government agency; 2 to determine whether to
+establish or maintain a relationship; or 3 to assist SEL in complying with any information sharing
+regulatory requirements.
+The MLRO regularly reviews the content of such reports to:
+● Determine whether SARS are warranted to be submitted to the NCA;
+● Consider whether the monitoring program for SEL needs refinement, in the light of the
+intelligence from these requests; and
+● Report to the Board of Directors and senior management on the nature of such activity
+occurring utilising SELʼs infrastructure.
+
+15. Data protection
+SEL gathers all required customer personal information as applicable to the products and services
+utilised by the customer. The personal information gathered for the KYC requirements are used
+only for that purpose and consent to use this data is obtained from the customer in a formal
+process when the customer signs up for the specific product or service. SEL complies with
+personal identification requirements as required by in-country laws where they are stricter than
+SELʼs own policy.
+The following information is required and obtained:
+● For Customers; Full Legal Name, Residential Address and Date of Birth of an Individual,
+Account Holder, Beneficial Owner, as applicable;
+● Individual/Account Holder Phone Number, as applicable;
+● Individual/Account Holder Email Address, as applicable;
+● Customerʼs Bank Account or Card information, as applicable; and
+● Due Diligence verification on data and information provided per the Third Party Vendors.
+16. Quality Control
+A quality control process exists as a process to review the quality of investigative research,
+actions, documentation, and the associated outcomes. It reviews actions taken by the Transaction
+Monitoring team for consistency with established procedures and to provide reporting for
+management and senior leadership teams and the MLRO on the results of the reviews.
+The results identify opportunities for training and development, as well as continuous improvement
+for the local compliance team and the Financial Crime Program overall. The process includes
+discussing with the analyst any concerns noted during the quality assurance review, re-training,
+and providing corrective actions for issues noted, as applicable.
+17. Outsourcing Arrangements
+17.1 Governance
+SEL acknowledges that the majority of AML/CTF/CPF and screening operational activity is
+outsourced to Block, Inc and Squareup International Limited. SEL maintains oversight of these
+activities through the use of robust SLAs, regular engagement, and oversight through service
+standards reviews and assurance testing conducted by the Compliance Team and the monitoring
+and testing group functions.
+SEL has in place an outsourcing framework to ensure a structured oversight. The program is
+established in line with the European Banking Authority (“EBAˮ) and it will also be mindful of any
+outsourcing guidelines issued by the FCA in the development of and implementation of its
+outsourcing program.
+SELʼs Outsourcing Policy outlines roles and responsibilities and arrangements for oversight of any
+outsourced service.
+
+The Board of Directors retains the ultimate responsibility for effective oversight of outsourcing.SEL
+keeps records of all the outsourcing arrangements including the intra-group, third parties, and
+critical and non-critical functions.
+SEL performs the same level of due diligence on intra-group outsourcing arrangements and third
+party outsourcing arrangements. SEL keeps an up to date Outsourcing Register and utilises the
+Outsourcing Oversight Committee to monitor and oversee its outsourcing arrangements.
+17.2 Enhanced Risk Management and Controls
+Risk assessments are conducted before entering an outsourcing arrangement. SEL has an
+Outsourcing Oversight Committee deliberating on a monthly basis and considerations of
+outsourcing arrangements are evidenced by records of discussions and decisions;
+AML functions outsourced intra-group, including KYC, IDV, CDD, Transaction Monitoring, Sanctions
+Screening, Suspicious Activity Investigation and Customer Complaints, are overseen by the UK
+Head of Compliance/MLRO.
+18. Regular Independent Assessment
+SELʼs Financial Crime Program is assessed for effectiveness through regulatory examinations,
+audits, and independent reviews, as required. The MLRO will assign the audit responsibility to a
+person who is both independent and has the experience and skill to conduct a thorough and
+effective independent review. The reviewer can be a member of SEL or Block, Inc. Staff with audit
+or internal control experience, an outside auditor, or some other independent professional.
+Currently, the MLRO has assigned the responsibility to SELʼs Internal Audit team who in turn have
+contracted with one of the Big 4 External Auditing firms4 to conduct the annual assessment.
+The MLRO, senior management, and the Board of Directors will receive a written summary of the
+results of the audit, recommending corrective action, and monitoring compliance with those
+recommendations. The Board of Directors shall hold the Head of Compliance/MLRO and senior
+management accountable for the existence of any deficiencies and prompt resolution of such
+deficiencies identified in the audit report.
+19. Compliance
+19.1 Roles and Responsibilities
+● Money Laundering Reporting Officer: SELʼs Board has appointed a MLRO, who leads the
+compliance effort and has overall responsibility for the execution of the Financial Crime
+Program in the UK. The MLRO has the full authorisation and approval from the Board of
+Directors and senior management of SEL to act independently of them to fulfil the role. The
+MLRO has sufficient and appropriate AML/CTF/CPF knowledge and expertise. The MLRO
+has autonomy and has the ability to escalate matters to the Board if required.
+The MLRO is principally responsible for:
+4 Deloitte LLC
+
+○ Receiving reports of potentially suspicious activity from any employee of, or officer
+in, SEL or from external sources such as law enforcement and considering all alerts
+and evaluating whether there is, (or seems to be), any evidence of ML, TF, PF or
+other financial crime;
+○ Reporting any suspicious activity or transaction to the relevant local government or
+law enforcement agency by completing and submitting a suspicious activity report
+(“SARˮ);
+○ Ensuring that there are the appropriate systems and processes in place to respond
+fully and rapidly to enquiries by law enforcement agencies including the Serious
+Fraud Office (“SFOˮ), National Crime Agency (“NCAˮ), and the FCA;
+○ Ensuring AML procedures and controls are in place and operating efficiently;
+○ Implementing a program to monitor any situations of higher risk of ML,TF or PF;
+○ Ensuring that a risk assessment of ML, TF, PF or other financial crime is carried out
+and presented to Senior Management and the Board;.
+○ Confirming adequacy of procedures for record keeping in relation to financial
+crime;
+○ Training employees and the Board of Directors on the prevention of ML, TF and PF;
+○ Designating appropriate responsibilities and actions to other key individuals and
+team members, who possess the requisite skills and knowledge to execute such
+tasks;
+○ The approval of outsourcing compliance activity, to include outsourcing
+intra-group, in line with global and local outsourcing policies and applicable
+regulatory requirements;
+○ Informing in a regular and timely manner senior management and members of the
+Board of Directors on material compliance matters, key program updates, and key
+risk indicators and metrics through the quarterly updates to the Board and annual
+MLRO reports; and
+○ Producing an MLRO Report annually, taking guidance from the JMLSG.
+● Three Lines of Defence: SEL has adopted a three lines of defence model that ensures the
+following:
+○ There is adequate coordination between the first line business/operational teams
+and control functions such as Risk, Compliance, and Internal Audit, to ensure
+effective oversight and effective coordination of resources to manage overlap in
+areas of review;
+○ Second and third line work plans are risk-based with all risks and controls,
+including AML/CTF/CPF risks and controls, reviewed on a regular basis
+commensurate with the risk;
+○ The MLRO is involved in the planning of the scheduled second line of defence
+reviews and in the closing of the findings arising from second line and third line of
+defence reviews of the Financial Crime program;
+○ All issues are effectively tracked and managed to resolution;
+○ Risk, Compliance, and Internal Audit teams are independent and resourced with
+Staff knowledgeable of AML/CTF/CPF.
+
+● Back Office Operations Teams Block, Inc. & AML RightSource):These teams provide first
+line processing of alerts for:
+○ Transaction Monitoring;
+○ Sanctions and PEP screening and Adverse Media;
+○ Know Your Customer (“KYCˮ), Customer Risk Rating (“CRRˮ), EDD; and
+○ SAR reporting.
+Note: All decisioning on these processes is ultimately the responsibility of the MLRO or
+their designee)
+● Project Management, Independent Testing and Monitoring, Internal Audit Regulatory
+Counsel, Product Compliance, Risk: These teams provide support to the MLRO in carrying
+out various functions associated with the role, such as:
+○ Designing, implementing, and maintaining system-based compliance controls;
+○ Carrying out independent testing and monitoring and audits;
+○ Managing the timely delivery of key projects;
+○ Providing regulatory and technical advice and counsel; and
+○ Investigating and preventing fraud, including referral to the Operations teams for
+SAR filing.
+● Head of Governance, Compliance Block This individual provides oversight of key
+support functions related to compliance governance such as:
+○ Policies, compliance training, and board and management reporting;
+○ Testing and monitoring of compliance controls across all SEL products;
+○ Risk assessment and analysis, change management, audit and exam management,
+and issue management;
+○ Program-and policy-level work, as well as understanding compliance risk with
+regard to our partners; and
+○ Due diligence and monitoring programs for both upstream partners, such as the
+payment networks and partner banks, and our downstream partners, such as third
+party vendors.
+19.2 Training
+New Hire Training
+At a company-wide level, all new employees receive AML/CTF/CPF training, through an online
+based interactive training course. The online based interactive training has a comprehensive
+assessment at the end of the course. The AML/CTF/CPF training course is updated at a minimum
+annually.
+Refresher Training
+All employees are required to take refresher training on an annual basis. The AML/CTF/CPF
+training is designed to enable the employees to understand:
+● What activities amount to ML,TF and PF and how they should be reported;
+● Key elements of the AML/CTF/CPF laws including coverage of;
+
+○ developing and maintaining a Financial Crime Program and the key features of
+such;
+○ SELʼs KYC obligations;
+○ SELʼs reporting obligations; and
+○ record keeping and retention obligations.
+● The type of ML/TF/PF risks that we might face and how employees are able to spot these
+risks; and
+● The consequences of non-compliance with the AML/CTF/CPF laws, on SEL and its
+employees; and
+● The effect on society of the failure to implement good Financial Crime Programs.
+Targeted AML/CTF/CPF
+SEL provides more in-depth AML training programs to:
+● Local or non local Customer Success teams;
+● Business, operations, marketing and product teams;
+● Board of Directors, in person/via video conference (on annual basis);
+● Compliance personnel whereby a training program is tailored to their compliance role and
+regulatory issues and risk specific to their region. Training may include:
+○ Webinars provided by established AML organisations such as Association of
+Certified Anti-Money Laundering Specialists ACAMS or the International
+Compliance Association ICA;
+○ government entities;
+○ Distribution of written materials;
+○ AML conferences;
+○ Department meetings; or
+○ Other internally developed training sessions.
+Additionally, processes are thoroughly documented enabling new employees to quickly and
+effectively learn and perform their core job functions.
+19.3 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+Additionally, SELʼs policy is to maintain for at least five years from the end of the business
+relationship all necessary records, as it relates to Customers, but not limited to the following:
+● Electronic record of, a copy or extract of the records as it relates to the KYC program;
+● Supporting documentation as it relates to the customer transaction activity; and
+● Monitoring and reporting of potentially suspicious activity.
+SEL considers the end of the business relationship to occur when the final transaction is
+processed or when the customer terminates its business relationship with SEL.
+
+In addition SEL will maintain for at least five years, the following information as it relates to the SEL
+business:
+● Employee training records;
+● Financial Crime Program documentation and supporting material; and
+● Reports under the supervision of the MLRO (for example, reporting to the senior
+management, Board of Directors, and FCA.
+When applicable, SEL maintains records in compliance with regulations where retention
+requirements are longer than SEL's own policies. The MLRO will be responsible for ensuring that
+the appropriate records are maintained.
+19.4 Exceptions
+The Program Owner or designee will have authority to approve exceptions and/or exemptions to
+this Policy, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that the Company will implement to mitigate risks
+associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+19.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+20. Questions & Contact Information
+Questions: For questions or clarifications about this Program, please contact the Program Owner.
+21. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Compliance, Legal
+and Senior
+Management
+Initial Approval
+Approval. November , 2016
+
+Approver Title Type Description Date
+Board of Directors
+Approval. December, 2016
+Updated to
+reflect the new
+Compliance Officer product.
+UK Reviewed by
+Compliance
+Officer UK July, 2017
+Scheduled
+Review Updated to
+reflect
+integrated Web
+Compliance Officer
+Crawling vendor
+UK
+tools. Reviewed
+by Compliance
+Officer UK November , 2017
+Chief Compliance Annual Review
+Officer, Square Inc February, 2018
+Board of Directors September, 2018
+Compliance Officer Annual Review
+and Board of
+Directors
+Approved
+April, 2020
+Compliance Updated to
+Officer UK and address Annual
+Board of Directors External
+Approved Auditorʼs
+Observations December, 2020
+MLRO UK Split UK and
+IE/EU Seller and
+Cash Financial
+Crime Program
+AML/CTF
+Program. May, 2021
+MLRO UK Split Cash and
+Seller Financial
+Crime
+ProgramAML/CT
+F Program.
+Reviewed by
+MLRO UK and
+approved April, 2022
+
+Approver Title Type Description Date
+Elizabeth Henry EU CCO Interim Material
+Head of Changes
+New Document
+Compliance UK May, 2023
+created
+SEL Board June, 2023
+Elizabeth Henry EU CCO Interim Annual Review Updated
+Head of template
+Compliance UK June, 2024
+SEL Board June, 2024
+MLRO UK Annual Review Addition of September 2,
+Ryan Goldstone
+Proliferation 2025
+Financing and
+minor update to September 29,
+SEL Board wording 2025
+throughout
+Document Details:
+Business Square
+Scope UK
+Compliance Domain Financial Crimes
+Document Owner MLRO UK
+Approved By SEL Board
+Document Tier Tier 2

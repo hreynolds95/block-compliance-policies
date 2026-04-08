@@ -1,0 +1,1279 @@
+UK Anti-Money Laundering, Counter-Terrorist
+Financing, Counter-Proliferation Financing, and
+Sanctions Policy
+Clearpay Finance Limited
+Last Approved: Dec 11, 2025
+Effective Date: Dec 11, 2025
+1. Overview
+This Policy establishes Clearpay Finance Limited's framework for Anti-Money Laundering,
+Counter-Terrorist Financing, Counter-Proliferation Financing and financial sanctions compliance.
+The Policy applies to all Clearpay products, Personnel, and operations, and reflects Clearpay's
+commitment to compliance with UK legal and regulatory requirements for anti-money laundering,
+counter-terrorist financing, and counter-proliferation financing.
+Clearpay adopts a risk-based approach to managing financial crime risks, applying measures that
+are proportionate to the risks identified through comprehensive risk assessments. The Board of
+Directors and senior management provide governance oversight of the framework and are
+responsible for ensuring its effectiveness.
+2. Definitions
+The following terms are used throughout this policy:
+Terminology Definition
+AML Anti-Money Laundering. Measures and controls designed to prevent, detect, and report
+ML as required by Regulation 19 of the MLRs.
+Block Block, Inc. NYSE SQ and its direct and indirect subsidiaries.
+BNPL Buy Now Pay Later. Clearpayʼs lending product as defined in 5.1 Products.
+CDD Customer Due Diligence. The process of identifying and verifying customer identity,
+understanding the purpose and intended nature of business relationships, and assessing
+money laundering, terrorist financing, and proliferation financing risks in accordance with
+the Regulations 27 to 30 of the MLRs.
+Clearpay or CFL Clearpay Finance Limited
+
+Confidential and Not for Distribution
+Terminology Definition
+Consumer An individual who is an actual or prospective customer for Clearpay's BNPL loans.
+CTF Counter-Terrorist Financing. Measures to prevent, detect, and disrupt terrorist financing
+activities, including systems and controls to identify and report suspicious activity related
+to TF, as required under TACT and the MLRs.
+CPF Counter-Proliferation Financing. Measures to prevent, detect, and disrupt the financing
+of the proliferation of weapons of mass destruction and their means of delivery, as
+required by Regulation 19A of the MLRs.
+Customer A Consumer, Direct Merchant, or PSP.
+DAML Defence Against Money Laundering. Consent obtained from the NCA to proceed with a
+transaction or activity that would otherwise constitute a ML or TF, as provided for by
+sections 335 and 336 of POCA and section 21D of TACT.
+Direct Merchant An individual or entity in receipt of Clearpay's Merchant Services Direct product to
+enable BNPL as a payment method for sales they make to Consumers. The term also
+refers to prospective Direct Merchants.
+EDD Enhanced Due Diligence. Additional due diligence measures and enhanced ongoing
+monitoring applied when the CDD process identifies elevated ML, TF, or PF risks,
+required for PEPs, high-risk jurisdictions, and other elevated-risk scenarios, as defined in
+the Regulations 33 to 35 of the MLRs.
+FCA The Financial Conduct Authority. The UK's financial services regulator established
+under the Financial Services and Markets Act 2000, which supervises and enforces
+compliance with financial crime requirements, including AML/CTF/CPF obligations under
+the MLRs.
+Merchant A Direct Merchant, PSP Sub-merchant, or SUP Merchant.
+Merchant As defined in section 5.1 Products.
+Services
+Direct
+Merchant As defined in section 5.1 Products.
+Services PSPs
+Merchant As defined in section 5.1 Products.
+Services SUP
+ML Money Laundering. The concealing, disguising, converting, transferring, or removing
+criminal property or entering into an arrangement concerning criminal property, as
+defined in sections 327, 328 and 34011 of POCA.
+MLRs The Money Laundering, Terrorist Financing and Transfer of Funds Information on the
+Payer) Regulations 2017 SI 2017/692, as amended. The regulations that set out the UK's
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Terminology Definition
+regulatory requirements for preventing and detecting money laundering, terrorist
+financing, and proliferation financing.
+MLRO Money Laundering Reporting Officer. The individual who is appointed as nominated
+officer and senior manager responsible for compliance with the MLRs, as required by
+Regulation 21 of the MLRs.
+NCA The National Crime Agency. The UK law enforcement agency who performs the
+functions of the financial intelligence unit and to whom SARs are submitted under POCA
+and TACT obligations.
+OFSI The Office of Financial Sanctions Implementation. The UK Treasury office responsible
+for implementing and enforcing financial sanctions regimes under the Sanctions and
+Anti-Money Laundering Act 2018.
+PEP Politically Exposed Person. An individual entrusted with prominent public functions
+(other than as a middle-ranking or more junior official), including their family members
+(spouse, civil partner, children and their spouses/civil partners, and parents) and known
+close associates (individuals with joint beneficial ownership or close business relations
+with a PEP, or sole beneficial ownership of entities set up for the benefit of a PEP, as
+defined in MLR 2017, Regulation 3512.
+Personnel All individuals whose work is relevant to Clearpay's compliance with AML/CTF/CPF
+requirements or is otherwise capable of contributing to the identification or mitigation of
+money laundering, terrorist financing, or proliferation financing risks, or the prevention or
+detection of such activities. This includes employees, contractors, agency workers, and
+individuals working for Clearpay, Block, third-party service providers or agents who
+perform functions on behalf of Clearpay.
+PF Proliferation Financing. The provision of funds or financial services for use in
+connection with chemical, biological, radiological or nuclear weapons, their means of
+delivery, and related goods and technology, in contravention of a relevant financial
+sanctions obligation, as defined in the MLRs, Regulation 16A9.
+POCA The Proceeds of Crime Act 2002 UK legislation creating criminal offences for money
+laundering activities and establishing obligations for reporting suspicious activity, with
+tipping-off prohibitions protecting investigation integrity
+PSP Payment Service Provider. A merchant acquirer in receipt of Clearpay's Merchant
+Services PSPs product to enable BNPL as a payment option for their own merchant
+customers. The term also refers to prospective PSPs.
+PSP A merchant that a PSP has enabled to offer BNPL as a payment option using the
+Sub-merchant Merchant Services PSP product. The term also refers to prospective PSP
+Sub-merchants.
+SAR Suspicious Activity Report. A report filed with the NCA regarding suspicious activity that
+may indicate ML, TF, or other financial crime, as required under POCA and TACT.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Terminology Definition
+SUP Merchant A merchant that Clearpay has enabled Consumers to shop at via the Merchant Services
+SUP product. The term also refers to prospective SUP Merchants.
+TACT The Terrorism Act 2000. The UK legislation that addresses terrorist financing offences
+and reporting requirements, establishing obligations for reporting suspicious activity that
+may indicate terrorist financing.
+TF Terrorist Financing. The provision, collection, or use of funds or other property with the
+intention, or reasonable cause to suspect, that they will be used for the purposes of
+terrorism, as criminalised under sections 15 to 18 of TACT.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+3. Introduction and Purpose
+3.1 Policy Purpose and Scope
+Clearpay Finance Limited Firm Reference Number is 826341 is a wholly owned subsidiary of
+Block, Inc NYSE XYZ. This Policy sets out Clearpay's strategic approach, governance structures,
+and high-level mechanisms for compliance with applicable legal and regulatory obligations related
+to AML/CTF/CPF and financial sanctions
+This Policy applies to all Clearpay products, including BNPL, Merchant Services Direct, Merchant
+Services PSPs, and Merchant Services SUP. The Policy applies to all Personnel and is
+supported by detailed standards, procedures, and guidance documents that provide operational
+detail for implementing the framework. Together, these documents enable Clearpay to meet its
+regulatory obligations under the MLRs, POCA, TACT, and financial sanctions legislation.
+3.2 Key Policy Principles
+Clearpay's AML/CTF/CPF framework is guided by the following principles:
+Risk-based approach: Clearpay applies measures that are proportionate to the ML, TF, and PF
+risks identified through comprehensive risk assessments. Higher-risk customers and relationships
+are subject to enhanced due diligence and monitoring.
+Compliance with regulatory requirements: Clearpay meets all applicable legal and regulatory
+obligations under the MLRs, POCA, TACT, and sanctions legislation, and has regard to guidance
+issued by the FCA, JMLSG, and OFSI.
+Governance and accountability: Clear ownership and oversight of the AML/CTF/CPF framework
+exists at all levels of the organisation, from the Board of Directors to operational teams, with
+defined responsibilities and escalation pathways.
+Continuous improvement: Clearpay regularly assesses, tests, and enhances the framework to
+ensure its effectiveness in light of evolving risks, regulatory requirements, and industry best
+practices.
+Training and awareness: All Personnel understand their obligations under this Policy and receive
+training appropriate to their roles, enabling them to recognise and report suspicious activity.
+Cooperation with law enforcement: Clearpay responds to requests from law enforcement and
+regulatory authorities in a timely and complete manner, supporting efforts to combat financial
+crime.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+4. Regulatory Framework & Legal Obligation
+4.1 Applicable Legislation
+The MLRs establish requirements for customer due diligence, ongoing monitoring, record-keeping,
+risk assessment, and governance. These regulations set out the framework for preventing and
+detecting money laundering, terrorist financing, and proliferation financing in the UK.
+POCA creates criminal offences for money laundering and establishes obligations for reporting
+suspicious activity to the NCA. POCA also includes tipping-off prohibitions that protect the integrity
+of investigations by preventing disclosure of suspicious activity reports or related investigations.
+TACT creates criminal offences for terrorist financing and establishes obligations for reporting
+suspicious activity related to terrorism. The reporting and tipping-off provisions under TACT
+operate in parallel to those under POCA.
+The Sanctions and Anti-Money Laundering Act 2018 and related regulations establish financial
+sanctions obligations, including prohibitions on dealing with designated persons and entities and
+requirements to freeze assets and report breaches to OFSI.
+Other relevant legislation includes the Criminal Finances Act 2017, which creates corporate criminal
+offences for failure to prevent the facilitation of tax evasion.
+4.2 Regulatory Guidance
+Clearpay has regard to guidance issued by the FCA on financial crime systems and controls,
+including expectations for firms' AML/CTF/CPF frameworks. The FCA provides guidance on risk
+assessment, customer due diligence, ongoing monitoring, and the treatment of politically exposed
+persons. Clearpay also has regard to guidance issued by the Joint Money Laundering Steering
+Group JMLSG, which represents industry best practice for implementing the MLRs. JMLSG
+guidance is applied where relevant and appropriate to Clearpay's business model and risk profile.
+OFSI provides guidance on compliance with UK financial sanctions regimes, including guidance on
+asset freezing, licensing, and reporting obligations. Clearpay monitors and applies OFSI guidance
+to ensure effective sanctions compliance.
+Clearpay monitors regulatory guidance and updates its AML/CTF/CPF framework to reflect
+changes in regulatory expectations, emerging risks, and industry best practices.
+4.3 Regulatory Status
+Clearpay is an Annex 1 financial institution under the MLRs by virtue of carrying out the consumer
+credit listed activity, and therefore subject to the requirements of the MLRs applicable to relevant
+persons.
+Clearpay's Firm Reference Number is 826341. Clearpay is supervised by the FCA for compliance
+with the MLRs and is subject to the FCA's supervisory oversight and enforcement powers.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+5. Scope & Applicability
+5.1 Products
+This policy applies to all of Clearpayʼs products. Clearpayʼs products are as described below:
+Product Definition
+BNPL The Buy Now Pay Later loan product that Clearpay offers to Consumers that
+enables them to purchase retail goods and services from merchants and
+repay the cost in installments repaid over 6 weeks.
+Merchant Services Direct The product that enables Direct Merchants to integrate Clearpay as a
+payment option on their websites or in-store point-of-sale systems. Clearpay
+provides Direct Merchants with technology integration, transaction
+processing, and settlement services. Direct Merchants contract directly with
+Clearpay for this service and agree to Clearpay's Merchant Scheme Rules.
+Merchant Services PSPs The product that enables PSPs to offer Clearpay as a payment option to their
+own merchant customers. PSPs integrate Clearpay into their payment
+gateway offerings and manage the relationships with PSP Sub-merchants.
+PSPs contract directly with Clearpay, while PSP Sub-merchants agree to the
+PSP's network rules which incorporate Clearpay's Merchant Scheme Rules.
+Merchant Services SUP The product whereby Clearpay enables BNPL as payment option on a
+merchantʼs website, utilising single-use payment (“SUPˮ) card details in
+Clearpay's name. Consumers utilise these card details in the merchant's
+standard card payment facility to complete purchases. Clearpay does not
+enter into a business relationship with SUP Merchants for the provision of
+Clearpay as a payment option, though Clearpay may receive referral
+payments from SUP Merchants through affiliate programs.
+5.2 Customer & Relationship Categories
+Customers comprise Consumers, Direct Merchants, and PSPs. Consumers are customers under
+the MLRs as recipients of Clearpay's lending activity, which is a listed activity under the MLRs.
+Direct Merchants and PSPs are not customers under the MLRs because the services they receive
+from Clearpay are not listed activities under the MLRs. Nevertheless, Clearpay applies equivalent
+standards to Direct Merchants and PSPs to mitigate the risk of regulatory challenge, meet broader
+financial crime obligations, and ensure comprehensive risk management.
+Clearpay applies different treatment approaches based on the nature of each relationship and the
+risks it presents. Consumers receive standard customer due diligence as customers receiving the
+BNPL lending product.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Direct Merchants receive customer-standard treatment, with due diligence measures equivalent to
+those applied to customers. PSPs receive customer-standard treatment with enhanced measures
+given their role in facilitating relationships with PSP Sub-merchants.
+PSP Sub-merchants are not customers under the MLRs and Clearpay does not conduct customer
+due diligence on them directly. Risk arising from PSP Sub-merchants is managed through the
+PSP's own oversight of PSP Sub-merchants, which Clearpay assesses as part of enhanced due
+diligence on PSPs.
+SUP Merchants are not customers under the MLRs as Clearpay does not enter into a business
+relationship with them for the provision of Clearpay as a payment option. Clearpay applies controls
+to SUP Merchants that are appropriate to the risk they present and the nature of the relationship.
+5.3 Geographic Scope
+Clearpay's geographic scope encompasses UK operations under FCA supervision whilst
+addressing cross-border considerations. These cross-border considerations include cross-border
+purchases and sales with Afterpay consumers and merchants based in other low-risk jurisdictions,
+Direct Merchant onboarding in select jurisdictions outside the UK, and activities performed for
+Clearpay by Block.
+Geographic risk is considered in the Business-Wide Risk Assessment and in risk assessments of
+customers, transactions, and business relationships. Clearpay assesses the jurisdictions in which
+customers are located, where transactions occur, and where merchants operate to identify and
+mitigate geographic risks associated with money laundering, terrorist financing, and proliferation
+financing.
+Clearpay complies with UK legal and regulatory requirements for all operations, regardless of
+where customers or merchants are located or where transactions occur.
+5.4 Personnel Scope
+The Policy applies to all Personnel, which includes individuals whose work is relevant to Clearpay's
+compliance with AML/CTF/CPF requirements or is otherwise capable of contributing to the
+identification or mitigation of money laundering, terrorist financing, or proliferation financing risks,
+or the prevention or detection of such activities. This includes employees, contractors, agency
+workers, and individuals working for Clearpay, Block, third-party service providers or agents who
+perform functions on behalf of Clearpay.
+All Personnel are obligated to understand and comply with this Policy and the supporting
+standards, procedures, and guidance documents that implement the AML/CTF/CPF framework.
+Personnel must complete mandatory training on their obligations and are accountable for
+compliance with the requirements applicable to their roles.
+Failure to comply with this Policy may result in disciplinary action in accordance with Block's Code
+of Business Conduct & Ethics.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+6. Governance & Accountability
+6.1 Governance Framework
+Clearpay operates a three lines of defence model to ensure effective governance and oversight of
+the AML/CTF/CPF framework. The first line comprises business units that are responsible for
+identifying and managing risks in their day-to-day operations. First line teams implement controls,
+execute processes, and escalate issues in accordance with this Policy and supporting procedures.
+The second line comprises the Compliance function, which provides oversight, challenge, and
+guidance to the first line. The Compliance function monitors the effectiveness of controls,
+identifies emerging risks, and advises on regulatory requirements and best practices. The third line
+comprises Internal Audit, which provides independent assurance on the effectiveness of risk
+governance, risk management, and internal controls. Internal Audit conducts independent testing
+of the AML/CTF/CPF framework and reports findings to senior management and the Board.
+Clear allocation of responsibilities exists across the organisation, with defined escalation pathways
+and reporting lines to ensure that issues are identified, escalated, and resolved appropriately.
+6.2 Board Of Directors
+The Board of Directors has ultimate responsibility for AML/CTF/CPF compliance and oversight of
+the effectiveness of the AML/CTF/CPF framework. The Board ensures that Clearpay maintains
+adequate systems, controls, and resources to prevent and detect money laundering, terrorist
+financing, and proliferation financing.
+The Board approves this Policy and the Business-Wide Risk Assessment. The Board reviews and
+approves material changes to the Policy and the risk assessment to ensure they remain
+appropriate and effective.
+The Board receives regular reports on compliance with this Policy, the effectiveness of the
+AML/CTF/CPF framework, emerging risks, and issues requiring Board attention. These reports
+enable the Board to exercise informed oversight and challenge management on the adequacy of
+controls and resources.
+The Board is responsible for ensuring that adequate resources are allocated to the AML/CTF/CPF
+framework, including appropriate staffing, systems, and budget to enable effective implementation
+and ongoing operation of controls.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+6.3 Executive Committee
+The Executive Committee is responsible for implementing the Board-approved AML/CTF/CPF
+framework and ensuring its effective operation across Clearpay's business. The Executive
+Committee translates the Board's strategic direction into operational policies, procedures, and
+controls.
+The Executive Committee provides oversight of operational compliance with this Policy and the
+supporting framework. The Executive Committee reviews management information on the
+performance of controls, emerging risks, and compliance issues to ensure timely identification and
+resolution of matters requiring executive attention.
+The Executive Committee reviews escalated matters including significant compliance issues,
+control deficiencies, and proposed remediation plans. The Executive Committee ensures that
+appropriate action is taken to address issues and that lessons learned are incorporated into the
+framework.
+The Executive Committee approves certain high-risk customer relationships in accordance with the
+escalation criteria set out in this Policy. This approval process ensures that senior management
+exercises informed judgment on relationships that present elevated risks to Clearpay.
+6.4 Money Laundering Reporting Officer MLRO & Nominated Officer
+The MLRO is appointed as the senior manager responsible for AML/CTF/CPF compliance under
+the MLRs. The MLRO has overall responsibility for establishing, maintaining, and overseeing the
+implementation of Clearpay's AML/CTF/CPF framework.
+The MLRO serves as the nominated officer under POCA and TACT, responsible for receiving and
+evaluating internal suspicious activity reports and determining whether suspicious activity reports
+should be submitted to the NCA. The MLRO is accountable for the submission of SARs to the NCA
+where the threshold for reporting is met.
+The MLRO oversees the implementation of this Policy and the supporting framework across
+Clearpay's business. The MLRO monitors compliance with regulatory requirements, identifies
+emerging risks, and ensures that controls remain effective and appropriate to Clearpay's risk
+profile.
+The MLRO reports to the Board and Executive Committee on the effectiveness of the
+AML/CTF/CPF framework, compliance with this Policy, emerging risks, and issues requiring senior
+management attention. The MLRO has direct access to the Board and Executive Committee to
+escalate concerns.
+The MLRO is responsible for Clearpay's regulatory relationships with the FCA and other authorities
+on AML/CTF/CPF matters. The MLRO responds to FCA inquiries, coordinates regulatory
+examinations, and ensures that Clearpay meets its regulatory reporting obligations.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+The MLRO operates independently of the business and has adequate resources, including
+appropriate staff, systems, and budget, to fulfill the responsibilities of the role effectively.
+7. Risk Assessment Framework
+7.1 Business-Wide Risk Assessment
+Clearpay conducts and maintains a comprehensive Business-Wide Risk Assessment that identifies
+and assesses the money laundering, terrorist financing, proliferation financing, and sanctions risks
+arising from Clearpay's business. The BWRA considers products, services, customers, geographic
+exposure, and delivery channels to provide a holistic view of the risks Clearpay faces.
+The BWRA assesses the inherent risks associated with each of Clearpay's products, including the
+BNPL product and the three Merchant Services products. The assessment considers how each
+product could be used or exploited for financial crime purposes and the vulnerabilities that may
+exist.
+The BWRA assesses geographic risks based on the locations of Customers and Merchants, the
+jurisdictions in which transactions occur, and cross-border elements of Clearpay's business. The
+assessment considers country risk ratings, financial sanctions regimes, and the prevalence of
+financial crime in relevant jurisdictions. The BWRA assesses transaction risks based on the size,
+frequency, and patterns of transactions processed through Clearpay's products. The assessment
+considers typical transaction profiles and circumstances that may indicate elevated risk. The
+BWRA assesses delivery channel risks associated with Clearpay's online and in-store channels.
+The assessment considers the controls inherent in each channel and vulnerabilities that may exist
+in how customers access and use Clearpay's products. The BWRA informs the design of policies,
+controls, and procedures to ensure that Clearpay's AML/CTF/CPF framework is calibrated to the
+risks identified. The BWRA is documented and kept up to date to reflect changes in Clearpay's
+business, risk profile, and the external environment.
+The BWRA is made available to the FCA upon request. The BWRA is reviewed at least annually and
+when material changes occur to Clearpay's business, products, customers, or operating
+environment. The Board approves the BWRA and material updates to ensure informed oversight of
+Clearpay's risk profile.
+Clearpay is supported with the design and execution of Clearpayʼs BWRA by the Block Global
+Compliance Risk Standards & Assessment Team, in line with the Block Anti-Money Laundering,
+Countering the Financing of Terrorism & Sanctions Annual Risk Assessment Standard.
+7.2 Customer Risk Assessment
+Clearpay assesses the ML, TF, and PF risk presented by each Customer and relationship. Risk
+assessments are conducted before or during the establishment of a business relationship to inform
+the level of CDD and ongoing monitoring applied.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Risk factors considered in Customer risk assessments include Customer type, behavior,
+transaction patterns, and geographic connections. The assessment considers the nature of the
+Customer's business or activities, the purpose of the relationship with Clearpay, and any
+circumstances that may indicate elevated risk.
+Customer risk assessments inform whether standard CDD or EDD is applied. Higher-risk
+Customers are subject to EDD measures and enhanced ongoing monitoring to mitigate the risks
+they present.
+Risk assessments are documented to provide a clear record of the factors considered and the risk
+rating assigned. Risk assessments are kept up to date through periodic reviews and are updated
+when trigger events occur that may affect the Customer's risk profile.
+7.3 Risk Rating Methodology
+Clearpay uses a risk rating methodology to categorise Customers and relationships based on their
+assessed ML, TF, and PF risk. Risk categories such as low, medium, and high determine the level
+of due diligence and ongoing monitoring applied to each Customer.
+The methodology considers multiple risk factors including Customer type, geographic location,
+transaction patterns, business activities, and the results of watchlist screening.
+Risk ratings for Direct Merchants and PSPs are reviewed periodically to ensure they remain
+accurate and appropriate. Risk ratings for all Customers are also reviewed when trigger events
+occur that may affect the Customer's risk profile.
+The rationale for risk ratings is documented to provide a clear record of the assessment and to
+support oversight and quality assurance activities.
+8. Customer Due Diligence CDD
+8.1 CDD Framework
+Clearpay conducts CDD when establishing a business relationship with a Customer, carrying out
+occasional transactions above regulatory thresholds (not generally supported by Clearpay's
+products), or when there is suspicion of ML or TF. CDD is required to identify and verify the
+Customer's identity, understand the purpose and intended nature of the business relationship, and
+assess the ML, TF, and PF risks presented by the Customer.
+CDD comprises identifying the Customer, verifying the Customer's identity using reliable and
+independent sources, understanding the purpose and intended nature of the business relationship,
+and conducting ongoing monitoring of the relationship. These elements work together to provide
+Clearpay with sufficient knowledge of its Customers to identify and manage financial crime risks.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+CDD measures are applied on a risk-sensitive basis. Standard CDD is applied to Customers
+presenting standard risk, while EDD is applied to higher-risk Customers. The level of CDD applied
+is informed by the Customer risk assessment.
+CDD is completed before establishing the business relationship or conducting transactions, subject
+to limited exceptions. Where exceptions apply, CDD is completed as soon as practicable and the
+relationship is terminated if CDD cannot be completed.
+Clearpay does not rely on third parties to conduct CDD on its behalf in accordance with Regulation
+39 of the MLRs.
+8.2 CDD Measures for Customers
+Clearpay applies CDD to all Customers, comprising Consumers, Direct Merchants, and PSPs. CDD
+includes identifying and verifying Customer identity using reliable and independent sources,
+understanding the purpose and intended nature of the business relationship, conducting watchlist
+screening, assessing ML, TF, and PF risk, and applying appropriate due diligence measures.
+For Consumers, Clearpay collects name, date of birth, address, and phone number. Verification is
+conducted using electronic verification methods or document verification where electronic
+verification is not successful. The sole purpose of the business relationship with Consumers is a
+BNPL loan for the purchase of retail goods and services at Clearpay Merchants.
+For Direct Merchants and PSPs, Clearpay identifies and verifies the entity, whether a company,
+partnership, or sole trader. Clearpay collects business registration details, ownership structure,
+and information about business activities. Verification is conducted using official registries,
+databases, and documentation.
+For Direct Merchants, the purpose of the business relationship is to enable Clearpay as a payment
+option at checkout or online. Clearpay understands the nature of the business relationship by
+understanding the merchant's business model, the goods and services they sell, and their
+transaction profile.
+For PSPs, the purpose of the business relationship is to enable Clearpay as a payment option at
+checkout or online for sub-merchants. Clearpay understands the nature of the business
+relationship by understanding the PSP's business model, risk management framework, and PSP
+Sub-merchant onboarding processes.
+Watchlist screening is conducted as part of CDD. Consumers are screened against PEP databases
+and sanctions lists. Direct Merchants, PSPs, and their beneficial owners are screened against PEP
+databases, sanctions lists, and adverse media sources.
+Clearpay assesses ML, TF, and PF risk based on Customer risk factors, incorporating the results of
+watchlist screening. Standard CDD measures are applied to standard-risk Customers. Customers
+identified as higher risk, including all PEPs and PSPs, are escalated to EDD as described in Section
+9.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+8.3 Beneficial Ownership
+Clearpay identifies and verifies the beneficial owners of corporate, partnership and trust
+Customers. Beneficial ownership requirements apply to Direct Merchants and PSPs, but not to
+Consumers who are natural persons. Beneficial ownership is defined as ownership or control of
+25% or more of the Customer entity. Clearpay takes reasonable measures to identify beneficial
+owners, including obtaining information from the Customer and consulting official registries such
+as Companies House.
+Clearpay verifies the identity of beneficial owners using reliable and independent sources.
+Verification methods include electronic verification, document verification, and registry checks.
+Clearpay documents the beneficial ownership structure of Customer entities to provide a clear
+record of ownership and control. This documentation is maintained as part of the Customer's CDD
+file and is kept up to date through ongoing monitoring and periodic reviews. Material changes in
+beneficial ownership trigger a reassessment of the Customer's risk rating and may require updated
+verification of new beneficial owners.
+Where Clearpay identifies discrepancies between beneficial ownership information obtained
+during CDD and information held on the Companies House register, Clearpay reports these
+discrepancies to Companies House in accordance with Regulation 30A of the MLRs.
+8.4 Timing Of CDD
+CDD is completed before establishing the business relationship or conducting the transaction. This
+ensures that Clearpay has sufficient knowledge of the Customer to assess and manage ML, TF,
+and PF risks before entering into the relationship.
+Limited exceptions exist where CDD may be completed during the establishment of the business
+relationship if this is necessary not to interrupt the normal conduct of business and the ML and TF
+risk is assessed as low. These exceptions are not applied in high-risk scenarios. Clearpay utilises
+timing exceptions only with respect to Direct Merchants, and not with respect to Consumers or
+PSPs. Where timing exceptions are applied, CDD is completed as soon as practicable after initial
+contact.
+Where CDD cannot be completed, the business relationship is not established or is terminated.
+Clearpay does not conduct transactions where CDD has not been completed, subject to limited
+exceptions permitted by the MLRs.
+8.5 Simplified Due Diligence SDD
+SDD may be applied where Clearpay has established that the Customer or transaction presents a
+low risk of ML or TF. SDD involves reduced or simplified CDD measures that are proportionate to
+the lower risk identified.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+The decision to apply SDD is documented and justified based on the Customer risk assessment.
+The documentation sets out the factors considered in determining that the Customer or transaction
+presents low risk and the specific simplifications applied.
+SDD is not applied where there is suspicion of ML or TF, or in high-risk scenarios. Where
+circumstances change such that the Customer no longer presents low risk, standard CDD or EDD
+is applied as appropriate.
+Ongoing monitoring continues even where SDD is applied. Clearpay maintains sufficient
+knowledge of the Customer and the business relationship to identify unusual or suspicious activity.
+8.6 CDD Failure
+Where CDD cannot be completed, Clearpay does not establish the business relationship or
+terminates the existing relationship. Clearpay does not conduct transactions where CDD has not
+been completed, subject to limited exceptions permitted by the MLRs. The CDD failure and the
+decision-making process are documented, including the reasons why CDD could not be completed
+and the actions taken in response. This documentation supports oversight and regulatory
+accountability.
+Clearpay considers whether the failure to complete CDD gives rise to knowledge or suspicion of
+ML or TF that requires a SAR to be submitted to the NCA. The circumstances that prevented
+completion of CDD are evaluated to determine whether they indicate potential financial crime.
+Where a SAR is submitted in connection with a CDD failure, Clearpay does not tip off the Customer
+about the SAR submission. Personnel are trained on tipping-off prohibitions to ensure that
+disclosures are not made that could prejudice an investigation.
+8.7 Due Diligence On SUP Merchants
+Before a SUP Merchant is enabled for Consumer transactions, Clearpay conducts watchlist
+screening against sanctions lists and adverse media sources and performs a website review to
+assess the suitability and risk of the goods and services the SUP Merchant sells.
+Clearpay conducts a risk assessment of the SUP Merchant based on the results of watchlist
+screening, the website review, and other relevant risk factors. This assessment determines
+whether the SUP Merchant's business activities present elevated ML, TF, or PF risks or fall outside
+Clearpay's risk appetite.
+Higher-risk SUP Merchants require approval from the MLRO or delegate before being enabled for
+Consumer transactions.
+8.8 Outsourcing & Third-Party Service Providers
+Clearpay may utilise third-party tools, systems, and service providers to support the performance
+of AML/CTF/CPF and financial sanctions processes. Clearpay retains full responsibility for
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+compliance with the MLRs and all outsourced activities are subject to Clearpay's oversight and
+control.
+Third-party tools and systems may be used to support CDD processes, including sanctions, PEP,
+and adverse media screening, and identity verification. Clearpay determines the configuration of
+these tools and systems and validates their performance through model validation reviews where
+relevant. All third-party service providers are assessed as reputable and competent before their
+services are utilised. The MLRO approves all systems and controls utilised for AML/CTF/CPF and
+financial sanctions purposes, including those provided by third-party vendors. The MLRO
+maintains oversight of the performance and effectiveness of outsourced activities.
+CDD measures may be performed by a combination of Clearpay employees, internally outsourced
+support from employees of other entities within the Block Group, and agency workers employed by
+external third-party service providers.
+Activities that may be performed by Clearpay employees and internally outsourced staff include
+the review and resolution of watchlist screening alerts, transaction monitoring alerts, ongoing
+monitoring and periodic reviews, and AML/CTF/CPF investigation and the escalation of SARs.
+Internal outsourcing is conducted following Clearpay procedures and under the supervision of the
+MLRO.
+Clearpay may engage external third-party service providers to support specific operational
+activities. These may include customer support functions that involve manual identity verification
+of Consumers. These activities are performed following Clearpay procedures without the exercise
+of discretion by the service provider and are subject to quality assurance.
+Clearpay maintains oversight of outsourced activities through prescribing the procedures to be
+followed, monitoring performance against service level requirements, conducting quality
+assurance reviews, performing data-driven monitoring of process adherence and timeliness, and
+conducting testing and periodic internal audits.
+9. Enhanced Due Diligence EDD
+9.1 EDD Framework
+Clearpay applies EDD in high-risk scenarios where standard CDD is not sufficient to understand
+and manage the risks presented by the Customer or relationship. EDD comprises additional
+measures beyond standard CDD to obtain greater understanding of the Customer, the business
+relationship, and the specific risks identified.
+EDD includes enhanced ongoing monitoring to ensure that Clearpay maintains current knowledge
+of higher-risk Customers and can identify unusual or suspicious activity that may indicate ML, TF,
+or PF.
+Scenarios requiring EDD include PEP Customers, Customers connected to high-risk third
+countries, PSPs, and other high-risk situations identified through the Customer risk assessment or
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+the BWRA. The specific EDD measures applied are tailored to the risks identified and are
+proportionate to the level of risk.
+9.2 Politically Exposed Persons PEPs
+Clearpay has appropriate risk-based procedures to determine whether a Customer or beneficial
+owner is a PEP. These procedures are achieved through watchlist screening at onboarding and
+periodically thereafter to identify PEPs, their family members, and their known close associates.
+Enhanced measures are applied to PEPs, including senior management approval to establish or
+continue the business relationship, establishing the source of wealth and source of funds at
+onboarding and on an ongoing basis, and enhanced ongoing monitoring of the relationship and
+transactions.
+Enhanced measures are applied to PEPs based on risk. The level of enhanced measures reflects
+the specific risks presented by the PEP's position, jurisdiction, and connection to Clearpay.
+Family members and known close associates of PEPs are considered in the application of
+enhanced measures. Clearpay assesses whether these individuals present similar risks to the PEP
+and applies appropriate measures.
+Enhanced measures continue for at least 12 months after the individual ceases to hold a prominent
+public function. This period recognises that risks associated with PEP status may persist after the
+individual leaves office.
+Foreign PEPs are not permitted as Customers for the BNPL product. This restriction reflects
+Clearpay's risk appetite for Consumer relationships and the challenges of effectively managing
+foreign PEP risk in the BNPL context.
+9.3 High-Risk Third Countries
+Clearpay applies EDD where the Customer or transaction involves a high-risk third country.
+High-risk third countries are those prescribed under the MLRs by HM Treasury, generally following
+FATF's international assessment as having strategic deficiencies in their AML/CTF regimes or
+presenting elevated financial crime risks.
+Enhanced measures are proportionate to the nature and level of risk presented by the connection
+to the high-risk third country. Clearpay considers the extent and nature of the Customer's
+connection to the high-risk country and the rationale for that connection.
+The specific EDD measures applied are tailored to the risks identified and may include additional
+verification of identity, enhanced scrutiny of the business relationship and transactions, and
+obtaining additional information about the source of funds or wealth.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+9.4 High-Risk Customer Categories
+Clearpay applies EDD to Customer categories identified as high-risk in the BWRA or through
+individual Customer risk assessments. These categories present elevated ML, TF, or PF risks that
+require additional measures beyond standard CDD.
+Examples of high-risk indicators include complex ownership structures, high-risk geographies,
+unusual transaction patterns, and high-risk nature of business such as Merchants selling
+higher-risk goods or services. All PSPs are treated as high-risk given their role in facilitating
+relationships with PSP Sub-merchants.
+The EDD measures applied are tailored to the specific risks identified. Clearpay designs EDD
+measures to address the particular vulnerabilities or risk factors presented by the Customer, rather
+than applying a uniform set of enhanced measures to all high-risk categories.
+The EDD measures applied and the rationale for those measures are documented. This
+documentation supports oversight, quality assurance, and regulatory accountability for Clearpay's
+risk-based approach.
+9.5 Enhanced Due Diligence On PSPs
+Clearpay applies enhanced due diligence measures to all PSPs given their role in facilitating
+relationships with PSP Sub-merchants. Clearpay's exposure to PSP Sub-merchants on whom
+Clearpay does not complete CDD heightens risk by placing reliance on PSPs to maintain controls
+to mitigate the risk they pose.
+Enhanced measures applied to PSPs include collection of regulatory authorisation details and
+information about business activities. Clearpay verifies the PSP's regulatory status and reviews
+regulatory enforcement actions if identified during initial screening or ongoing monitoring.
+Clearpay assesses the PSP's own AML/CTF/CPF controls and compliance framework. This
+assessment provides Clearpay with understanding of how the PSP identifies, assesses, and
+mitigates ML, TF, and PF risks in its sub-merchant portfolio.
+Clearpay obtains understanding of the PSP's risk management framework and sub-merchant
+onboarding processes. This understanding enables Clearpay to assess whether the PSP applies
+appropriate standards in selecting and monitoring PSP Sub-merchants.
+PSPs are subject to senior management approval during onboarding and to continue the
+relationship following periodic reviews. This approval ensures that senior management exercises
+informed judgment on the risks presented by PSP relationships.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+9.6 MLRO Approval For High-Risk Relationships
+The MLRO or delegate must approve high-risk business relationships before they are established
+or continued. This approval requirement ensures that senior oversight is applied to relationships
+that present elevated ML, TF, or PF risks.
+The approval process includes review of the Customer risk assessment, the results of CDD and
+EDD, and proposed mitigation measures. The MLRO or delegate evaluates whether the risks are
+understood and whether the proposed measures are sufficient to manage those risks effectively.
+The approval decision and any conditions imposed on the relationship are documented. This
+documentation provides a clear record of the decision-making process and the basis for approving
+the relationship.
+Exceptionally high-risk relationships are escalated to the Executive Committee or Board for
+approval. This escalation ensures that the most significant risk decisions receive appropriate
+senior management and Board oversight.
+High-risk relationships are subject to ongoing oversight to ensure that risks remain within
+Clearpay's risk appetite and that mitigation measures remain effective.
+10. Ongoing Monitoring
+10.1 Ongoing Monitoring Framework
+Clearpay conducts ongoing monitoring of all Consumers, Direct Merchants, SUP Merchants, PSPs,
+and their PSP Sub-merchants. Ongoing monitoring ensures that Clearpay maintains current
+knowledge of its Customers and relationships and can identify unusual or suspicious activity
+across its products.
+Ongoing monitoring includes scrutiny of transactions to identify activity that is inconsistent with
+Clearpay's knowledge of the Customer and their expected transaction profile. Ongoing monitoring
+also includes keeping CDD information of Customers up to date through periodic reviews and
+event-driven updates.
+Ongoing monitoring ensures that transactions are consistent with Clearpay's knowledge of
+Customers and their risk profiles. Where transactions or activity appear unusual or inconsistent,
+Clearpay investigates to determine whether there is a reasonable explanation or whether the
+activity may indicate ML, TF, or PF.
+Ongoing monitoring is conducted on a risk-sensitive basis, with enhanced monitoring reviews
+conducted for higher-risk Customers. The frequency and intensity of monitoring is calibrated to
+the risk presented by each Customer and relationship.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+10.2 Transaction Monitoring
+Clearpay monitors the transactions of all Customers and Merchants to identify unusual or
+suspicious activity that may indicate ML, TF, or PF. Transaction monitoring is a key component of
+ongoing monitoring and enables Clearpay to detect activity that warrants further investigation.
+Clearpay uses automated transaction monitoring systems with rules and scenarios calibrated to
+Clearpay's risk profile. These systems generate alerts when transactions or patterns of activity
+meet defined criteria that may indicate elevated risk or suspicious behavior. Alerts generated by
+transaction monitoring are investigated to determine whether there is a reasonable explanation for
+the activity or whether the activity may indicate financial crime. Investigations are documented to
+provide a clear record of the analysis conducted and the conclusions reached. Suspicious activity
+identified through transaction monitoring is escalated to the MLRO or delegate for review before a
+SAR is filed. This escalation ensures that the MLRO exercises oversight of suspicious activity
+reporting and that decisions to file SARs are appropriately considered. The monitoring,
+investigations, and outcomes are documented. This documentation supports oversight, quality
+assurance, and regulatory accountability for Clearpay's transaction monitoring program.
+10.3 Periodic Reviews
+Clearpay conducts periodic reviews of Direct Merchant and PSP relationships to ensure that CDD
+information remains current and accurate. Periodic reviews enable Clearpay to maintain up-to-date
+knowledge of these Customers and to identify changes that may affect their risk profiles.
+Periodic reviews include updating Customer information, reassessing risk based on current
+circumstances, and refreshing verification where appropriate. The scope of each periodic review
+is determined by the Customer's risk rating and any changes identified since the last review.
+Trigger events prompt ad hoc reviews outside of the scheduled periodic review cycle. Trigger
+events include adverse media, changes in ownership or control, and other circumstances that may
+indicate a change in the Customer's risk profile.
+Periodic reviews and ad hoc reviews are documented. This documentation provides a clear record
+of the review conducted, the information updated, any changes to the risk assessment, and the
+conclusions reached.
+10.4 Sanctions, PEP & Adverse Media Screening
+Clearpay conducts ongoing screening of Customers on a cadence of at least quarterly or more
+frequently. Ongoing screening ensures that Clearpay identifies Customers and related parties who
+become subject to financial sanctions, are identified as PEPs, or are the subject of adverse media
+after the initial onboarding screening.
+Consumers are screened against sanctions lists and PEP databases. Direct Merchants, PSPs, and
+their beneficial owners are screened against sanctions lists, PEP databases, and adverse media
+sources. SUP Merchants are screened against sanctions lists and adverse media sources.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Screening is conducted at onboarding and on an ongoing basis using automated screening tools.
+These tools compare Customer and related party information against relevant watchlists and
+databases and generate alerts where potential matches are identified.
+Screening matches are investigated and resolved to determine whether they are true matches or
+false positives. Investigations consider the quality of the match, additional information about the
+individual or entity, and other relevant factors.
+Confirmed matches identifying elevated ML, TF, or PF risk are escalated to the MLRO with a
+recommendation. The MLRO approves the appropriate response, which may include enhanced
+monitoring, filing a SAR, or terminating the relationship.
+Screening and match resolution are documented. This documentation provides a clear record of
+the screening conducted, matches identified, investigations performed, and outcomes.
+11. Sanctions Compliance
+11.1 Sanctions Framework
+Clearpay is committed to compliance with UK financial sanctions regimes, as well as regimes
+maintained by the United States (including the US Treasury Departmentʼs Office of Foreign Assets
+Control, OFAC, the European Union, and the United Nations. Clearpay prohibits dealing with
+designated persons or entities, or in relation to sanctioned jurisdictions or activities, in accordance
+with applicable sanctions requirements.
+OFSI is responsible for implementing and enforcing UK financial sanctions regimes under the
+Sanctions and Anti-Money Laundering Act 2018. OFSI maintains lists of designated persons and
+entities, issues guidance on sanctions compliance, and has powers to impose civil monetary
+penalties for sanctions breaches.
+Financial sanctions compliance is integrated into Clearpay's AML/CTF/CPF framework. Sanctions
+screening, monitoring, and controls operate alongside AML/CTF/CPF measures to provide
+comprehensive management of both risks.
+Clearpay is supported with the ongoing maintenance and management of Clearpayʼs Sanctions
+Framework by the Block Global Sanctions Compliance Team, in line with the Block Global
+Sanctions Compliance Program Standard.
+11.2 Sanctions Screening Requirements
+Clearpay screens Customers, their beneficial owners, and SUP Merchants against applicable
+sanctions lists. Screening ensures that Clearpay identifies designated persons and entities and
+does not deal with them in contravention of financial sanctions regulations.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Initial screening is conducted at onboarding. For Consumers, initial screening is conducted on a
+D1 basis. For Direct Merchants, PSPs, and SUP Merchants, initial screening is conducted before
+they are enabled to transact. Ongoing screening is conducted on a cadence of at least quarterly or
+more frequently. Ongoing screening identifies Customers and related parties who become
+designated after initial onboarding screening.
+Clearpay uses automated screening tools with appropriate matching logic to compare Customer
+and related party information against sanctions lists. These tools generate alerts where potential
+matches are identified, which are then investigated to determine whether they are true matches or
+false positives.
+Coverage includes all relevant sanctions lists maintained by OFSI, OFAC, and other applicable
+authorities. Clearpay monitors updates to sanctions lists and ensures that screening tools are
+updated promptly to reflect new designations.
+11.3 Match Resolution & Response
+Potential sanctions matches are investigated to determine whether they are true matches or false
+positives. Investigations consider the quality of the match, additional identifying information, and
+other relevant factors to reach a determination.
+Potential true matches are escalated to the MLRO immediately. The MLRO reviews the investigation
+and determines whether the match is confirmed and what action is required under applicable
+sanctions regulations. Clearpay prohibits proceeding with transactions or relationships involving
+confirmed sanctions matches. Where a confirmed match is identified, Clearpay takes immediate
+action to prevent further dealings with the designated person or entity.
+Where required by financial sanctions regulations, Clearpay freezes assets held by or on behalf of
+designated persons. Asset freezes are implemented immediately upon identification of a
+confirmed match and are maintained until the designation is lifted or OFSI issues a license
+permitting release. Sanctions breaches or asset freezes are reported to OFSI in accordance with
+regulatory requirements. Clearpay provides OFSI with full details of the circumstances and
+cooperates with any subsequent investigation.
+Clearpay and the MLRO are supported with the determination and management of true matches by
+the Block Global Sanctions Compliance Team.
+11.4 Sanctions Breach Management
+Clearpay has procedures for identifying and escalating potential sanctions breaches. Personnel
+who identify potential breaches escalate them immediately to the MLRO for investigation and
+determination of whether a breach has occurred.
+Potential breaches are investigated to establish the facts, determine whether a breach has
+occurred, and assess the cause and severity of the breach. Investigations are documented to
+provide a clear record of the circumstances and the conclusions reached.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Where a breach has occurred or is suspected, Clearpay reports to OFSI in accordance with
+regulatory requirements. Reports to OFSI include full details of the breach, the circumstances that
+led to it, and the actions taken in response.
+Clearpay implements remediation and corrective actions to prevent recurrence of breaches.
+Remediation may include enhancements to screening processes, additional training, system
+improvements, or changes to procedures.
+Breaches, investigations, and remediation are documented. This documentation supports
+oversight, regulatory accountability, and continuous improvement of Clearpay's financial sanctions
+compliance framework.
+12. Suspicious Activity Reporting
+12.1 Legal Framework
+POCA and TACT create legal obligations to report knowledge, suspicion, or reasonable grounds for
+suspicion of ML or TF to the NCA. These reporting obligations apply to all Personnel.
+Failure to report knowledge or suspicion of ML or TF when required is a criminal offence under
+POCA and TACT. The offences carry penalties including imprisonment and fines.
+Personnel who make reports in good faith are protected from liability for breach of confidentiality
+or other restrictions on disclosure. This protection encourages reporting and ensures that
+Personnel are not deterred from fulfilling their legal obligations.
+12.2 Suspicious Activity Identification
+Clearpay trains Personnel to recognise indicators of suspicious activity, commonly referred to as
+red flags, related to ML, TF, and PF. These indicators include unusual transaction patterns,
+inconsistencies in Customer information, attempts to avoid reporting thresholds, and other
+circumstances that may suggest financial crime.
+Personnel are required to be alert to suspicious activity in the course of their duties. Vigilance for
+suspicious activity is an ongoing responsibility that applies to all Personnel in their interactions with
+Customers and in their review of transactions and Customer information.
+Training on recognising and reporting suspicious activity is provided to all Personnel at induction
+and on an ongoing basis. Training ensures that Personnel understand what constitutes suspicious
+activity and how to report it.
+Clearpay encourages Personnel to report anything unusual as well as anything suspicious.
+Personnel are not required to determine whether activity is definitively criminal before reporting;
+the threshold for reporting is knowledge, suspicion, or reasonable grounds for suspicion.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Clearpay fosters a culture of reporting without fear of reprisal. Personnel who report suspicious or
+unusual activity in good faith are protected and supported, regardless of whether the report results
+in a SAR being filed with the NCA.
+12.3 Internal Suspicious And Unusual Activity Reporting
+Personnel are required to report suspicions to the MLRO as soon as practicable. Prompt reporting
+ensures that the MLRO can evaluate the suspicion and determine whether a SAR should be filed
+with the NCA within required timeframes.
+Unusual Activity Reports and Internal SARs are made via a reporting form accessible at
+go/cpukuarform or by submitting a report to Block's Ethics Line, which facilitates anonymous
+reporting in accordance with Block's Code of Business Conduct & Ethics. Internal reports
+differentiate between Unusual Activity Reports and Internal SARs, include Customer details where
+relevant, and include a suspicion rationale where an internal suspicion has been formed.
+The MLRO, as nominated officer, is accountable for receiving, evaluating, and documenting
+internal reports. The MLRO assesses whether the suspicion meets the threshold for external
+reporting to the NCA. The MLRO may delegate responsibility for these activities but remains
+personally accountable for the effectiveness of the system.
+Feedback may be provided to reporting Personnel on the outcome of their reports where possible
+without tipping off. This feedback supports learning and reinforces the importance of reporting,
+while respecting confidentiality requirements and tipping-off prohibitions.
+12.4 External Suspicious Activity Reporting
+The MLRO is accountable for the submission of SARs to the NCA where the threshold for reporting
+is met. The MLRO may delegate responsibility for this activity but remains personally accountable
+for the submission of SARs.
+SARs are submitted as soon as practicable after the MLRO forms knowledge or suspicion of ML or
+TF. Timely submission ensures compliance with legal obligations and supports law enforcement
+investigations. SARs contain detailed information about the suspicion, the Customer, and the
+transactions or activity that gave rise to the suspicion. The level of detail provided enables the NCA
+to assess the report and determine whether further investigation is warranted.
+Clearpay uses the NCA's online reporting system to submit SARs. The system provides a secure
+and standardised method for submitting reports and receiving responses from the NCA.
+SARs submitted are tracked and documented. This documentation provides a clear record of
+reports made, the basis for the suspicion, and any responses received from the NCA.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+12.5 Defence Against Money Laundering DAML
+Clearpay seeks DAML consent from the NCA before proceeding with a transaction or activity that
+would otherwise constitute a ML or TF offence. DAML consent provides a defence against
+prosecution for ML or TF offences where the transaction is conducted with the NCA's consent.
+A DAML request is required where funds in question exceed £3,000 and there is knowledge or
+suspicion that proceeding with the transaction would constitute a ML or TF offence. DAML
+requests are submitted as part of a SAR to the NCA.
+The NCA has 7 working days to provide an initial response to a DAML request. If the NCA refuses
+consent, a moratorium period of 31 calendar days applies during which Clearpay must not proceed
+with the transaction. If the NCA grants consent or the moratorium expires without further action,
+Clearpay may proceed.
+Clearpay does not proceed with transactions requiring DAML consent until consent is granted or
+the moratorium period expires. Proceeding without consent or before the moratorium expires
+would constitute a criminal offence.
+DAML requests and responses are documented. This documentation provides a clear record of
+requests made, the NCA's responses, and the actions taken.
+12.6 Tipping Off Prohibitions
+Clearpay and its Personnel are prohibited from disclosing to the Customer or persons outside the
+firm that a SAR has been made or that an investigation is underway. Disclosure that could prejudice
+an investigation constitutes the criminal offence of tipping off under POCA and TACT.
+Tipping off is a criminal offence carrying penalties including imprisonment and fines. The offence
+applies to any disclosure that is likely to prejudice an investigation, whether or not the person
+making the disclosure intended to tip off the subject.
+Limited exceptions to tipping-off prohibitions exist for disclosures within Clearpay on a
+need-to-know basis and for disclosures to legal advisers for the purpose of obtaining legal advice.
+These exceptions enable Clearpay to manage SARs and investigations appropriately while
+protecting the integrity of law enforcement investigations.
+Personnel receive training on tipping-off prohibitions and practical scenarios to ensure they
+understand what constitutes tipping off and how to avoid it. Training emphasises the importance of
+maintaining confidentiality and the consequences of tipping off.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+12.7 SAR Confidentiality & Record-Keeping
+SARs and related information are treated as highly confidential. The confidential nature of SARs
+protects the integrity of investigations and ensures compliance with tipping-off prohibitions.
+Access to SAR information is restricted to those with a legitimate need to know. Access controls
+ensure that only Personnel who require SAR information to perform their duties can access it,
+minimising the risk of unauthorised disclosure.
+Records of internal and external SARs are maintained securely. Security measures protect SAR
+records from unauthorised access, loss, or destruction and ensure their availability for regulatory
+and law enforcement purposes.
+SAR records are retained in accordance with legal requirements for at least five years. Retention
+ensures that records are available to support regulatory examinations, law enforcement
+investigations, and internal oversight activities.
+13. Record-Keeping
+13.1 Record-Keeping Framework
+Clearpay maintains records of CDD, transactions, and other relevant information in accordance
+with the MLRs. Record-keeping requirements ensure that Clearpay can demonstrate compliance
+with its obligations and support regulatory examinations and law enforcement investigations.
+Records are sufficient to enable reconstruction of transactions and to demonstrate compliance
+with the MLRs and this Policy. The level of detail maintained enables Clearpay and regulatory
+authorities to understand the nature of transactions, the parties involved, and the controls applied.
+Records are maintained in a form that enables timely retrieval and provision to authorities.
+Clearpay's record-keeping systems and processes ensure that records can be located and
+produced promptly when required for compliance, audit, regulatory, or law enforcement purposes.
+13.2 Retention Periods
+CDD records are retained for at least five years after the business relationship ends. This retention
+period ensures that records remain available to support investigations of activity that occurred
+during the relationship. Transaction records are retained for at least five years after the transaction
+is completed. This retention period ensures that records of individual transactions remain available
+for the period during which investigations are most likely to occur. SAR records are retained for at
+least five years after the SAR is submitted. This retention period ensures that records of suspicious
+activity reporting remain available to support ongoing investigations and regulatory oversight.
+Other compliance records are retained in accordance with regulatory requirements and business
+needs. These records include policies, procedures, training records, audit reports, and regulatory
+correspondence.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Longer retention periods are applied where required by other legal obligations or where ongoing
+investigations require continued retention. Clearpay considers whether records are subject to
+litigation holds or other requirements that extend retention beyond the standard periods.
+13.3 Record Categories
+CDD records include customer identification and verification, beneficial ownership information,
+and risk assessments. These records document the due diligence conducted on each Customer
+and the basis for the risk rating assigned.
+Transaction records include details of transactions, monitoring alerts generated, and investigations
+conducted. These records document the transactions processed and the monitoring and
+investigation activities performed.
+UAR and SAR records include internal reports received from Personnel, external SARs submitted to
+the NCA, and DAML requests and responses. These records document unusual and suspicious
+activity identified and reported.
+Compliance records include policies, procedures, training records, audit reports, and regulatory
+correspondence. These records document the AML/CTF/CPF framework and its implementation.
+Other records include risk assessments, Board and committee papers, and management
+information. These records document governance oversight and strategic decision-making related
+to AML/CTF/CPF compliance.
+13.4 Record Storage, Security & Retrieval
+Records are stored securely with appropriate access controls. Access controls ensure that only
+authorised Personnel can access records and that access is logged for audit purposes.
+Electronic records are backed up and protected against loss or corruption. Backup and recovery
+procedures ensure that records remain available even in the event of system failures or other
+incidents.
+Records are retrievable promptly when required for compliance, audit, or regulatory purposes.
+Clearpay's systems and processes enable efficient search and retrieval of records to meet internal
+and external requests.
+Procedures are in place for responding to requests for records from law enforcement or regulators.
+These procedures ensure that requests are handled promptly, completely, and in accordance with
+legal requirements.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+13.5 Law Enforcement Enquiry Response
+Clearpay has systems and processes to respond to enquiries from law enforcement and regulatory
+authorities. These ensure that enquiries are identified, routed to appropriate Personnel, and
+responded to in accordance with legal requirements and timeframes.
+Designated Personnel are responsible for coordinating responses to law enforcement and
+regulatory enquiries. These Personnel ensure that responses are complete, accurate, and provided
+within required timeframes.
+Information and records are provided to authorities in a timely and complete manner. Clearpay
+cooperates fully with law enforcement and regulatory enquiries and provides all information and
+records requested.
+Clearpay cooperates with investigations and examinations conducted by law enforcement and
+regulatory authorities. This cooperation includes providing access to Personnel, systems, and
+premises as required.
+Enquiries and responses are documented. This documentation provides a clear record of requests
+received, the information provided, and the actions taken in response.
+14. Training & Awareness
+14.1 Training Framework
+Clearpay provides AML/CTF/CPF training to all relevant Personnel. Training ensures that Personnel
+understand their UK legal obligations, Clearpay's policies and procedures, and how to recognise
+and report suspicious activity.
+Training is delivered on a risk-sensitive basis, with enhanced training provided to Personnel in
+higher-risk roles. The level and content of training is tailored to the responsibilities of each role and
+the risks to which Clearpay and Personnel are exposed.
+Training is provided at induction and on an ongoing basis. Induction training ensures that new
+Personnel understand their obligations before they begin performing their duties. Ongoing training
+ensures that Personnel remain current on regulatory requirements, emerging risks, and changes to
+Clearpay's framework.
+14.2 Mandatory Training
+All Personnel who are employees, contractors, agency workers, and individuals working for
+Clearpay or Block, are assigned AML/CTF/CPF training within 7 days of commencing employment
+and must complete it within 7 days of assignment. All other Personnel must adhere to the same
+requirement, or not begin work that is relevant to Clearpay's compliance with AML/CTF/CPF
+requirements or is otherwise capable of contributing to the identification or mitigation of money
+laundering, terrorist financing, or proliferation financing risks, or the prevention or detection of
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+such activities until training is complete. This timing ensures that Personnel understand their
+obligations before they begin performing duties that may expose them to financial crime risks.
+Refresher training must be completed at least annually. Annual refresher training ensures that
+Personnel remain current on their obligations and are reminded of key requirements and
+procedures.
+The application of training requirements to all Personnel ensures that all relevant individuals
+understand and comply with Clearpay's AML/CTF/CPF framework regardless of employment
+status.
+Board members must also receive AML/CTF/CPF training as soon as practicable after appointment
+and at least annually.
+Mandatory training covers legal obligations, policy overview, suspicious activity indicators,
+reporting procedures, and tipping-off prohibitions. This content ensures that Personnel understand
+both what they must do and what they must not do.
+Completion of training is tracked and monitored. Tracking ensures that Clearpay can demonstrate
+compliance with training requirements and identify Personnel who have not completed required
+training.
+There are consequences for failure to complete mandatory training in line with Block standards.
+These consequences reinforce the importance of training and ensure accountability for
+compliance.
+14.3 Role-Specific Training
+Enhanced training is provided to Personnel in higher-risk roles, including those performing
+customer onboarding, transaction monitoring, and compliance functions. Enhanced training
+reflects the greater exposure to financial crime risks and the more detailed knowledge required to
+perform these roles effectively.
+Role-specific training covers detailed procedures, tools and systems, and practical scenarios
+relevant to the role. This training goes beyond the mandatory training to provide the specific
+knowledge and skills required for each role.
+The MLRO and compliance team receive training and development on regulatory developments
+and best practices. This ensures that the compliance function remains current on evolving
+regulatory expectations and can provide informed guidance to the business.
+The Board receives training on governance and oversight responsibilities. This training ensures
+that they understand their roles in overseeing the AML/CTF/CPF framework and can exercise
+effective oversight.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+14.4 Training Effectiveness
+Training effectiveness is assessed through monitoring of compliance with policies and procedures.
+Clearpay evaluates whether Personnel apply their training in practice and whether training gaps
+contribute to compliance issues.
+Training content is reviewed and updated regularly to reflect regulatory changes, emerging risks,
+and lessons learned from compliance issues or incidents. This ensures that training remains
+current and relevant to the risks Clearpay faces.
+Training completion rates are tracked and follow-up is conducted for non-completion. Tracking
+and follow-up ensure that all Personnel complete required training and that non-completion is
+addressed promptly.
+15. Employee Screening
+Clearpay screens employees to ensure they have the skills, knowledge, and expertise to carry out
+their functions effectively. Employee screening supports the integrity of Clearpay's AML/CTF/CPF
+framework by ensuring that employees are fit and proper for their roles.
+All employment offers are contingent upon satisfactory employee due diligence prior to starting
+employment and during the course of employment. This ensures that Clearpay identifies any
+issues that may affect an individual's suitability before they join the firm and throughout their
+employment.
+Screening includes at minimum financial sanctions, PEP, and adverse media screening,
+background checks, employment verification, ID verification, and verification of their right to work
+in the UK. These checks provide assurance that employees do not present financial crime or
+reputational risks.
+Enhanced screening is conducted for roles with access to sensitive information or systems.
+Enhanced screening reflects the greater risk presented by these roles and may include additional
+checks such as credit checks or enhanced background verification.
+Screening results and decisions are documented. This documentation provides a clear record of
+the screening conducted and the basis for employment decisions.
+16. Compliance Monitoring & Independent Testing
+16.1 Compliance Monitoring & Testing
+The Compliance function conducts ongoing monitoring and testing of compliance with the
+AML/CTF/CPF framework. Compliance monitoring and testing provide assurance that controls are
+operating effectively and identify issues requiring remediation. These activities are supported by
+Blockʼs Global Compliance Monitoring & Testing Team.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Compliance monitoring and testing activities identify compliance issues and weaknesses in the
+design or operation of controls. Issues identified are escalated and tracked to ensure appropriate
+remediation.
+Monitoring and testing results are reported to the MLRO, Executive Committee, and Board. These
+reports provide visibility of compliance performance and enable informed oversight of the
+framework.
+Remediation actions are tracked to ensure that issues are resolved in a timely manner. Tracking
+provides accountability for remediation and enables Clearpay to demonstrate that issues have
+been addressed.
+16.2 Independent Testing
+Independent testing of the AML/CTF/CPF framework is required under the MLRs. Independent
+testing provides assurance that the framework is designed and operating effectively and identifies
+opportunities for improvement.
+Independent testing is conducted by Block Internal Audit or external third parties. The
+independence of the testing function ensures objectivity and credibility of the findings.
+Testing assesses the design and operating effectiveness of policies, controls, and procedures.
+Design effectiveness considers whether controls are appropriately designed to mitigate risks.
+Operating effectiveness considers whether controls are functioning as intended in practice.
+Testing is risk-based and covers all elements of the framework over a defined cycle. Risk-based
+testing ensures that higher-risk areas receive more frequent and detailed testing, while all
+elements are tested over time.
+Testing results are reported to the MLRO, Executive Committee, and the Board. These reports
+provide visibility of the effectiveness of the framework and enable informed oversight.
+Management provides responses to testing findings and develops action plans for remediation.
+Management responses demonstrate accountability for addressing findings and improving the
+framework.
+16.3 Issue Remediation
+Clearpay has processes for identifying, escalating, and remediating compliance issues. These
+processes ensure that issues are addressed promptly and that root causes are understood and
+corrected.
+Root cause analysis is conducted to understand the underlying causes of issues. Root cause
+analysis goes beyond the immediate symptoms to identify systemic factors that contributed to the
+issue, enabling more effective remediation.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Corrective action plans are developed and implemented to address issues and prevent recurrence.
+Action plans specify the actions to be taken, the Personnel responsible, and the timelines for
+completion.
+Remediation progress is tracked and the effectiveness of corrective actions is validated. Tracking
+ensures that action plans are completed as intended and validation confirms that the actions have
+resolved the issue.
+Significant or persistent issues are escalated to the Executive Committee and the Board. Escalation
+ensures that senior management is aware of material issues and can provide oversight and
+direction for remediation.
+Clearpay considers whether issues require regulatory reporting. Material breaches or compliance
+failures may require notification to the FCA in accordance with regulatory requirements.
+17. Compliance & Enforcement
+17.1 Compliance Accountability & Consequences
+All Personnel are accountable for compliance with this Policy. Compliance is a fundamental
+responsibility of all Personnel and is essential to Clearpay's ability to prevent and detect financial
+crime.
+The MLRO is responsible for monitoring compliance with the Policy. On an ongoing basis, the
+MLRO monitors Policy-related activities to evaluate adherence to the Policy and determine whether
+outputs adhere to established objectives.
+Personnel who fail, without reasonable justification, to comply with any system, control, or
+procedure established under this Policy will be required to undertake refresher training and may be
+subject to disciplinary action in accordance with Block's Code of Business Conduct & Ethics. All
+breaches are recorded and material breaches are reported to senior management.
+Personnel who report concerns in good faith are protected under whistleblowing protections.
+Clearpay does not tolerate retaliation against Personnel who raise concerns about potential
+compliance issues or violations of this Policy.
+17.2 Investigation & Regulatory Reporting
+Clearpay investigates policy breaches or compliance failures. Investigations establish the facts,
+determine whether a breach has occurred, and assess the cause and severity of the breach.
+Investigations are escalated to appropriate levels of management based on the nature and severity
+of the potential breach. Escalation ensures that senior management is informed of material issues
+and can provide oversight of the investigation and response.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Clearpay considers whether breaches constitute criminal offences requiring reporting to law
+enforcement. Where breaches may constitute criminal offences, Clearpay consults with legal
+advisers and reports to law enforcement as appropriate.
+Clearpay considers whether significant breaches or compliance failures should be reported to the
+FCA in accordance with regulatory requirements. Material breaches or failures that meet FCA
+notification thresholds are reported promptly.
+Clearpay cooperates with regulatory investigations and examinations. Cooperation includes
+providing access to information, records, Personnel, and premises as required by regulatory
+authorities.
+Investigations and outcomes are documented. This documentation provides a clear record of the
+investigation conducted, the findings, and the actions taken in response.
+17.3 Exceptions
+In exceptional circumstances and on a case by case basis, a waiver or exception may be granted
+to this Policy.
+All requests for a waiver or exception in respect of this Policy must be discussed with the MLRO.
+Requests should be forwarded to the MLRO with a supporting, detailed business/operational
+justification endorsed by a member of senior management requesting the waiver or exception. The
+MLRO will consider the request and advise the outcome. The MLRO will report on waivers or
+exemptions granted or refused to senior management.
+17.4 Confidentiality
+This document is confidential and should only be accessed by employees.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+18. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Related documentation at time of publication is listed below.
+Related Standards:
+● Clearpay UK Consumer Due Diligence Program
+● Clearpay UK Merchant Due Diligence Program
+● Clearpay UK PSP Due Diligence Standard
+Related Procedures:
+● Clearpay UK Merchant Periodic Review Procedure
+● Clearpay UK Enhanced Ongoing Monitoring Procedure
+● Clearpay UK TM, UAR and SAR Procedure
+● Clearpay UK Lexis Nexis Bridger Procedure
+● Clearpay UK Quality Control Procedure
+● Clearpay UK Quality Assurance Procedure
+● Clearpay Merchant Onboarding Quality Assurance Procedure
+● Clearpay Gift Card Retailer Onboarding Procedure
+Other:
+● GB Afterpay Transaction Monitoring Rulebook
+19. Document Details & Revisions
+Review and Approval:
+The MLRO reviews this Policy at least annually. The annual review assesses whether the Policy
+remains appropriate, effective, and compliant with regulatory requirements.
+The review considers changes in Clearpay's business, risk profile, regulatory requirements, and
+industry best practices. This ensures that the Policy evolves to reflect changes in Clearpay's
+operating environment and regulatory expectations.
+Triggers for ad hoc review include material business changes, regulatory changes, significant
+compliance issues, or FCA feedback. Ad hoc reviews ensure that the Policy is updated promptly
+when circumstances require changes outside the annual review cycle.
+The Board approves policy updates. Board approval ensures that the Board exercises oversight of
+material changes to the AML/CTF/CPF framework.
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Approval History:
+Approver Title Type Description Date
+Kevin Benson Creation V1.0 New document. 18 February 2020
+Richard Ellison Initial Approval 18 February 2020
+and Daniel
+Doherty
+Anu Putrevu Head of Material Change Approval v2.0 New MLRO details, 21 September 2020
+Compliance addition of merchant due
+diligence process,
+CFL Board of UK Board Material Change Approval addition of section 8.1,
+Directors minor changes to the
+structure of the
+document, updated to
+new brand template.
+Anu Putrevu Head of Scheduled Review v3.0 Annual refresh of the 1 September 2021
+Compliance policy. Updated to align
+with Global AML/CTF
+CFL Board of Board Scheduled Review policy, update of risk
+Directors assessment, update of
+training and awareness
+section.
+Anu Putrevu Head of Material Change Approval v3.1 Changes arising from 30 July 2022
+Compliance Block acquisition of
+Afterpay; removal of local
+CFL Board of Board Material Change Approval summary Risk Assessment,
+Directors to highlight adoption of
+Global ML/TF and Sanctions
+Risk Assessment.
+Matt Wigens MLRO Scheduled Review v3.2 Annual refresh of the 15 December 2022
+policy. Key changes listed.
+CFL Board of Board Scheduled Review Additions: Changes to the
+Directors Policy, Employee Due
+Diligence. Updates:
+Legislation, Guidance,
+controls for PEPs, definitions
+of ML and TF, Suspicious
+Activity Training and
+Awareness.
+Matt Wigens MLRO Material Change Approval v3.2.1 Changes to 25 April 2023
+incorporate Single-Use
+Payment product launch for
+out of network merchants.
+Matt Wigens MLRO Scheduled Review v4.0 Annual refresh of the 27 August 2024
+policy. Incorporation of
+CFL Board of Board updated AML/CTF and 29 August 2024
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd
+
+Confidential and Not for Distribution
+Approver Title Type Description Date
+Directors Sanctions risk assessment.
+Removal of reference to
+active 3rd party reliance.
+Incorporation of applicable
+Block standards. Reflection
+of subordinate program
+documentation and control
+changes.
+Matt Wigens MLRO Scheduled Review Annual refresh of the 2 October 2025
+policy. Updated to align
+CFL Board of Board with rebranding template 14 October 2025
+Directors changes, new DAML
+threshold increase and
+updated related
+procedures.
+Matt Wigens MLRO Material Change Approval Policy re-write to include 25 November 2025
+Counter-Proliferation
+CFL Board of Board Financing CPF, enhanced 11 December 2025
+Directors product definitions BNPL,
+Merchant Services
+Direct/PSPs/SUP,
+strengthened governance
+framework, expanded
+sanctions compliance
+section, enhanced
+CDD/EDD, and
+comprehensive
+restructuring to align
+language with regulatory
+requirements and improve
+clarity throughout.
+Document Details:
+Business Clearpay
+Scope UK
+Compliance Domain Anti-Financial Crimes
+Document Owner MLRO
+Approved By CFL Board of Directors
+Document Tier Tier 2
+UK Anti-Money Laundering, Counter-Terrorist Financing, Counter-Proliferation Financing & Sanctions Policy | Clearpay Finance Ltd

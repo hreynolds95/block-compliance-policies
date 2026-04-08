@@ -1,0 +1,514 @@
+U.S. Know Your Customer Standard
+Square | US
+Last Approved: Jan 6, 2026
+Effective Date: Jan 6, 2026
+1. Overview
+Introduction and Purpose: The U.S. Know Your Customer ("KYC") Standard ("Standard") outlines
+Square's KYC Program ("KYC Program") to ensure the business reasonably knows its customers
+and the associated risks of conducting business with its customers. The KYC Program Lead is
+responsible for managing this Standard, in accordance with Block, Inc.'s Bank Secrecy Act
+("BSA")/Anti-Money Laundering ("AML") Program. Square is committed to maintaining full
+compliance with the laws and regulations that govern its business.
+The U.S. KYC Standard covers Square's approach to Customer Identification, Customer Due
+Diligence ("CDD"), and Enhanced Due Diligence ("EDD"). The Standard is committed to identifying
+customers who may present a higher risk for money laundering, terrorist financing, identity theft,
+reputational risk, or other types of illegal activity.
+Square's U.S. KYC Program Standard enables the business to:
+● Know and verify the identity of its customers;
+● Understand the nature and purpose of customers' account activity and apply a Customer
+Risk Rating (“CRRˮ) score;
+● Apply enhanced due diligence to higher risk customers;
+● Understand the customer's business and expected transactions for each customers'
+profile; and
+● Conduct ongoing customer due diligence ("OCDD") to confirm if customerʼs information is
+accurate.
+Square conducts business in compliance with all applicable laws and regulations, in addition to
+network, partnership requirements and Square's Terms of Service and Payment Terms. The
+purpose of the U.S. KYC Standard is to ensure that Square reasonably knows its customers and
+the associated risks of conducting business with its customers and adheres to the Block AML &
+CTF Policy and related Standard.
+Scope: This Standard is established by Block, Inc. and is applicable to Square's U.S. products and
+services. Square uses risk-based controls to evaluate a broad range of customers, which are
+
+businesses. This includes sellers that use Square for merchant payment services, including,
+e-commerce, inventory, appointments, invoicing, customer messaging, and products offered in
+conjunction with banks such as Square Checking and Square Card.
+Definitions:
+Terminology Definition
+Activation Customer Risk A customer's initial risk rating, which is assigned to new accounts
+Rating ("aCRR") during onboarding.
+Appeals The process for reviewing and potentially reactivating accounts
+that have been frozen or deactivated.
+Continuous Customer Risk A customer's ongoing risk rating, which is based on a range of
+Rating ("cCRR") factors including the customer's transacting activity, location,
+onboarding attributes, connection to other Square accounts, linked
+instruments and evaluated on a daily basis.
+Customer Due Diligence The process through which Square reviews seller accounts to
+("CDD") understand the nature and purpose of the customer's account
+activity. CDD reviews include a customer's onboarding information,
+transactional behavior, linked accounts, web presence, etc.
+Customer Identification Identity verification ("IDV") via the collection and verification of
+Program ("CIP") customer information (i.e., name, DOB, address, SSN/TIN, etc).
+Customer Risk Rating The methodology, created by the Machine Learning ("ML") team,
+("CRR") used to assess a customer's profile and assign a risk rating.
+Declined- Unverified The status assigned to customers when Square is unable to verify
+Identity their identity.
+Enhanced Due Diligence EDD reviews are thorough assessments of high-risk customer
+("EDD") accounts, which were identified by their CRR or other risk factors.
+Escalations The process of referring cases to other Square teams under
+specific circumstances.
+
+Terminology Definition
+Hardblock An automated way of blocking previously deactivated customers
+from creating new unit-level accounts.
+Know Your Customer Processes and procedures to reasonably know and understand
+("KYC") Program Square customers, their business activities, and associated risks.
+This includes CIP, CDD and EDD, as described below. The term
+KYC may also be referred to as Know Your Business KYB when
+dealing with non-individual entities or business customers.
+Identity Verification ("IDV") This refers to the procedures Square uses to verify the identity of a
+customer.
+Merchant Category Code This code classifies a business by the types of goods or services it
+("MCC") provides and assigns a 4-digit number based on the primary
+offering.
+Ongoing Customer Due OCDD Reviews are performed at a frequency determined by the
+Diligence ("OCDD") seller's risk level or triggered by other specific events.
+Politically Exposed Persons Politically Exposed Persons are individuals who hold or have held
+("PEPs") prominent public positions, and, therefore, have a higher risk for
+money laundering, corruption, bribery, and terrorist financing.
+Quality Control & The process of reviewing decisions made by an analyst during
+Assurance CDD and EDD reviews based on procedural guidance and
+processes applicable to the review and reporting the results to
+senior leadership.
+Square Secure Profile A secure question sent to customers to request additional
+("SSP") information and/or documentation.
+Terms of Service Violations To violate Square's Terms of Service, or engage in business
+("TOSV") activities prohibited by Square's network partners.
+
+2. Program Requirements
+2.1 Overview
+The U.S. Square KYC Program Standard applies to customers using various Square payments as
+either an Individual operating a business, or a Business entity.
+The following compliance controls are used to know and verify the identity of its customers,
+inclusive of beneficial owners, including but not limited to:
+● Customer Identification Program ("CIP")
+○ Identity Verification ("IDV")
+■ Electronic Identity Verification ("eIDV") for Individuals
+■ Documentary Identity Verification ("dIDV") for Individuals
+■ Know You Business (“KYBˮ) Entity Verification
+● Manual “EIN Onboardingˮ process is used in limited circumstances,
+generally for large, enterprise merchants that are onboarded via
+Square Sales channels. Company documentation and information is
+collected by the Square Sales representatives and sent to
+Compliance Operations for manual review, verification, and
+onboarding.
+● Due Diligence Reviews
+○ CDD
+○ Adverse Media
+○ EDD
+○ Ongoing Customer Due Diligence ("OCDD")
+● Sanctions Screening
+2.2 Customer Identification Program ("CIP") and Customer Due Diligence
+("CDD")
+CIP enables financial institutions to form a reasonable belief that the institution has established the
+identity of its customers. During onboarding in the U.S., Square provides all customers with
+adequate notice of its customer identity verification procedures in the Terms of Service. Square
+uses electronic and/or documentary IDV procedures to verify the identity of each customer.
+Square may find it necessary, using a risk-based approach, to implement additional measures for
+verifying the identity of a customer, or its associated business or business owners, utilizing
+document-based identity verification and business account verification procedures.
+2.2.1 Customer Identification
+Square's customers create accounts online using an electronic, self-sign up process. Customers
+provide key information Identity Collection) that is then instantly assessed against third party
+vendor databases Identity Verification) to ensure Square can reasonably verify the identity of its
+customers.
+
+For sole proprietorships, this process is often referred to as Know Your Customer ("KYC"). The key
+information collected and verified is:
+● Individual's full name;
+● Physical residential address;
+● Social Security Number ("SSN") or Individual Taxpayer Identification Number ("TIN"); and
+● Date of birth.
+For entities, this process is often referred to as Know Your Business ("KYB"). The key information
+collected and verified is:
+● Legal business name;
+● Registered business address;
+● Entity type;
+● Employer Identification Number ("EIN");
+● Trading name or doing business as ("DBA") name; and
+● Personal information for relevant Beneficial Owners, Directors or Account Holders per the
+KYC flow above.
+If an individual in the sole proprietorship flow, or individuals attached to an entity, fails electronic
+verification, they are offered a documentary verification flow. An entity is subject to business
+verification in addition to the verification of the individuals listed on the business. Also see the
+“EIN Onboardingˮ process referenced above.)
+When a customer's identity is satisfactorily verified, multiple additional screenings occur (e.g.,
+evaluation under the Activation Customer Risk Rating model and sanctions screening is conducted)
+and information is collected about the business they will operate on Square to complete
+onboarding. Only verified customers can access payments and other products to transfer money.
+A customer that wishes to only use the Payroll (or Staff) product has separate entity onboarding. A
+full description of the Customer Identification Program is outlined in the Identity Verification Policy.
+2.2.2 Customer Due Diligence
+Customers provide information about the business they will operate on Square during the
+onboarding phase to complete Customer Due Diligence. For both individuals and entities, email
+address, phone number, website (if available) and business type (i.e. products or services offered
+and against which the Merchant Category Code is assigned), and business structure (i.e.
+sole-proprietorship, LLC, corporation, etc.) are collected. For individuals, the business name,
+business address, EIN if available and business type (i.e. products or services offered and against
+which the Merchant Category Code is assigned) are also collected. This information helps in
+understanding the nature of the business relationship with Square and the expected behavior of
+our customers. Square may collect additional information about a customer throughout the
+lifecycle of the customer's account and during manual review.
+A customer may operate more than one Square account, based on their unique business structure.
+The primary customer account is classified as a merchant account, which serves as the main
+location for the business. Square verifies a customer's identity at the merchant account level.
+
+Customers can add additional locations to their primary account. Alternatively, a customer may
+have more than one merchant level account, each functioning independently, but identifiable within
+the Square system based on matching attributes such as SSN, EIN, and bank account.
+2.2.3 Special Circumstances
+Under certain circumstances, Square allows a Point of Sale ("POS") customer to transfer account
+ownership to another individual, who is also subject to identity verification prior to the new owners'
+use of the account.
+If Square is unable to verify a customer's identity, the customer will be declined use of payments
+processing.
+2.2.4 Preventative Controls
+Square uses declines and Hardblocks as preventative controls. These measures protect the
+Square payment infrastructure from use by anonymous individuals or customers who have
+previously been denied access to its system.
+Declined - Unverified Identity
+If Square is unable to verify the identity of a customer, the customer's account will not be activated
+for payment processing. The customer may be able to use non-payments related products (i.e.
+software products) but will not be able to move money without successful identity verification and
+activation.
+Age Restrictions
+Square customers must be at least 18 years of age. Customers that attempt to onboard that have
+not reached 18 years of age will be declined access.
+Hardblock
+Square uses Hardblock as an automated way to block previously deactivated customers from
+creating new accounts. Hardblock is a service run after a customer completes the identification
+verification process or any time a customer adds or changes their connected bank account.
+Hardblocking can be triggered when one of the following attributes entered during onboarding
+matches a previously deactivated account:
+● SSN;
+● Bank account number;
+● Debit card or instant deposit card number; and
+● A combination of account holder identifiers, such as:
+○ Name
+○ Date of Birth
+○ Residential Address
+○ Phone Number
+
+○ Document Identifier, such as a driver's license or passport.
+If a customer's attributes listed above match those assets stored in the Hardblock tables, the
+account will be deactivated. There are limited circumstances where Compliance will manually
+review an account that has been subject to Hardblock. Compliance may reactivate an account, if
+there is sufficient disposition of any risks related to the customer re-entering the platform. For
+example, if the customer was previously deactivated for a TOSV that has since been removed as a
+violation (i.e., CBD, or firearms in allowable states, etc), they would be eligible for reactivation or
+re-entering the platform with a new account.
+2.3 Screenings
+Sanctions screening is conducted after identity verification and on a daily basis thereafter during
+the duration of the customer's relationship with Square. For more information about sanctions
+screenings, refer to the Global Sanctions Compliance Program document. A risk-based approach
+is taken to screening for Adverse Media during manual CDD/EDD reviews.
+2.4 Customer Risk Rating Methodology
+To assess a customer's profile and assign a risk rating, Square relies on the CRR methodology,
+which was created by the Machine Learning ("ML") team in partnership with KYC Program
+Managers. The Customer Risk Rating model has two components, an Activation Customer Risk
+Rating ("aCRR") model and a Continuous Customer Risk Rating ("cCRR") model that allocates a
+model score (empirical risk, machine learning) and evaluates intrinsic risk factors.
+After identity verification, customers are evaluated under the aCRR model and are allocated a
+score. Once transactions start, the customer is evaluated in real-time via the cCRR model
+leveraging a number of signals and is evaluated ongoing daily. These scores translate to whether
+the customer is rated high, moderate or low risk.
+Square uses a customer's cCRR score to determine which customers require EDD review and the
+frequency of OCDD.
+For more information, refer to Block Activation Customer Risk Rating Program and Square
+Continuous Customer Risk Rating Program.
+2.5 Due Diligence Reviews
+Due diligence reviews allow Square to:
+● Ensure the identity of the customer and the business are known;
+● Understand the nature and purpose of a customer's business and the products sold;
+● Review transaction patterns and trends of the customer and their business profile; and
+● Identify any red flags related to financial crimes or Terms of Service Violations.
+
+During a manual review, a KYC Analyst assesses the customer's attributes, transactional behavior
+patterns and activity, linked accounts, and web presence. An Analyst may also take a variety of
+actions, such as:
+● Requesting more information from the customer, including information about the customer
+and/or their business, linked bank account owner relationship, specific transaction(s),;
+● Reviewing business documentation;
+● Warning against potential TOSVs;
+● Reviewing and updating the customer's MCC, if necessary; and
+● Freezing access to funds or deactivating the customer's account, if necessary.
+Freezing or deactivating a customer's account occurs if the individual or the business meets any
+of the following criteria:
+● Considered too high-risk to continue the relationship with Square;
+● Ownership cannot be successfully determined;
+● Business nature or transaction purpose cannot be confirmed; or
+● Poses other risks, such as terms of service violations, sanctions or suspicious activity.
+The Analyst can then take action to exit the relationship by deactivating the seller's ability to
+process payments or escalate for further review, as outlined in procedures.
+2.5.1 Customer Due Diligence Reviews
+During a CDD review, an Analyst can review a customer's onboarding information, transactional
+behavior patterns and activity, linked accounts, web presence, and/or information focused on the
+triggering activity. Additionally, an Analyst reviews CIP information and documentation using open
+source searches about the customer. To obtain updated information from a customer, an Analyst
+may also send a manual SSP.
+CDD reviews can be triggered by TOSV escalations, alerts, or other non-CRR queues, and could
+result in account deactivation.
+2.5.2 Enhanced Due Diligence Reviews
+EDD reviews are performed on accounts classified as high risk by their CRR or accounts with other
+risk factors.
+EDD reviews enable Square to understand the nature and purpose of a customer's account activity
+to:
+● Mitigate risk exposure associated with high-risk accounts and relationships;
+● Evaluate whether a customer relationship should be retained, of if the account should be
+deactivated; and
+● Determine the required measures to appropriately manage the risk.
+
+When applicable, EDD reviews are completed within a reasonable timeframe after customer
+onboarding and on an ongoing basis. During an EDD review, the customer is evaluated using the
+following criteria:
+● CIP information or documentation (an OCDD review);
+● Transactional behavior patterns and activity;
+● Linked Square accounts;
+● Account documentation;
+● Web presence;
+● Relevant negative news or adverse media; and
+● Bank accounts.
+2.5.3 Ongoing Customer Due Diligence Reviews
+Square also conducts OCDD reviews, also referred to as KYC Refresh, which are performed at a
+frequency determined by the seller's risk level or triggered by other specific events. During these
+reviews, sellers are asked to confirm or update their CIP information and if deemed necessary,
+they may also undergo a manual CDD review.
+2.6 Compliance Actions
+The following actions can be taken to ensure compliance with regulatory requirements, including
+but not limited to:
+● Requests for information via SSP questions;
+● Escalations;
+● Deactivations; and
+● Appeals and Reactivations.
+2.6.1 Square Secure Profile Questions
+When additional information is needed from the customer, a request is sent to the customer via a
+SSP question. The customer is notified of the SSP via email, text message, in-app, or dashboard
+notifications. In most cases, the merchant is given seven days to respond to an SSP request or
+their account will automatically be frozen. Frozen accounts can still process card payments, but
+cannot withdraw funds from their balance.
+2.6.2 Merchant Category Code
+KYC Analysts may review and update the customer's Merchant Category Code ("MCC") if they
+determine the customer's primary business is more suited to a different code than the one
+assigned at onboarding.
+2.6.3 Deactivations
+KYC Analysts deactivate (and escalate to the SAR investigations team where directed by
+procedures) an account if they suspect TOSVs, money laundering, sanctions violations, terrorist
+
+financing, or suspicious or illegal activity. This action removes the ability for the customer to
+process card payments. Deactivations can happen immediately upon identifying the activity or
+after a warning period, depending on the severity of the case. At the time of deactivation, the KYC
+Analyst will select whether to also apply Hardblock to the account, based on the risk presented by
+the customer and current procedures.
+2.6.4 Escalations
+KYC Analysts are responsible for escalating cases to other Square teams as needed. Escalations
+may be sent to the following groups or teams under specific circumstances:
+● Sanctions: when possible activity related to a sanctioned country is identified;
+● Financial Crimes ("FinCrimes"), including Transaction Monitoring or Suspicious Activity
+Reporting ("SAR"): when possible money laundering or other activity that may require SAR
+reporting is identified;
+● Brand & Reputational Risk Committee: when action against a seller may be controversial or
+bring criticism against Square; and
+● Risk: when possible high risk behavior is identified as defined by the credit risk or Risk
+team.
+2.6.5 Appeals
+Frozen or deactivated accounts are escalated to the Compliance team when the seller calls
+support and believes that their account activity has been misinterpreted, or if they intend to not
+transact the prohibited item or service in the future. In these cases, the Customer Success ("CS")
+advocate escalates the seller to compliance in Regulator, an internal platform. If deemed
+appropriate, a request to appeal the deactivation may be reviewed, and the account may be
+reactivated.
+2.7 KYC Program Design
+2.7.1 Model Governance and Queue Parameters
+Square utilizes various heuristics, signals, ML and manual Escalations to create cases for the KYC
+teams to review. This includes automated case queues and periodic manual reports for review.
+Square's U.S. KYC team queues are established and maintained by the KYC Program Management
+and Partnership teams. Any new queues or recommended changes to the existing queue models
+are reviewed and approved using the Compliance Model Change Management Process.
+The complete list of queues is outlined in the Square - US CDD/KYC/EDD Rulebook.
+2.7.2 Systems
+Square uses an internal case management system to house and monitor customer data across all
+Square products. Third party vendor tools are used to supplement reviews and include but are not
+
+limited to TLO, TransUnion, LegitScript, and Emailage. Some of these tools are integrated within
+Regulator.
+2.7.3 Quality Management
+The Quality Control and Quality Assurance teams review decisions made by Analysts during CDD,
+EDD reviews for adherence to procedures and evaluation of the program. The outcomes of these
+reviews are reported to senior leadership teams. Further details of this program are outlined in the
+Square Compliance Quality Management Handbook.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● KYC Analysts:
+○ Conduct due diligence reviews on customers in accordance with documented
+procedures, user guides, and checklists
+○ Document findings in case notes/comments in Regulator, Square's case
+management system
+○ Review Escalations and cases to evaluate potential TOSV
+○ Escalate cases to the appropriate teams if suspicious or potentially illegal activity is
+detected
+○ May be Block employees or employees of third party vendor systems
+● KYC Leads/Managers:
+○ Review escalated cases, Appeals, high value deactivations
+○ Queue management and team oversight
+○ Draft and maintain policies and procedures documentation
+● KYC Program Managers:
+○ Make recommendations for and assist in executing process improvements and
+procedure updates
+○ Draft and maintain relevant documentation and content for changes to the Standard
+in accordance with regulatory updates, new products, and overall Compliance team
+policies and procedures
+○ Communicate the progress of and oversee the end-to-end implementation of each
+operational change to leadership and relevant stakeholders
+3.2 Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Program effectively.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+this Standard, provided that the proposed exception or exemption does not violate applicable laws
+and regulations. Standard exception requests must be documented in writing, include a reason for
+a request, and provide a description of the controls that the Company will implement to mitigate
+risks associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.6 Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block,
+Inc. and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+Review related documents:
+● Block BSA/AML Program
+● Block Global Sanctions Compliance Program
+● Square Terms of Service Program
+● Block Activation Customer Risk Rating Program
+
+● Compliance Model Change Management Process
+● Square's Payment Terms
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Abby Haefner KYC Program Creation Initial creation November 12,
+Manager Lead 2020
+Abby Haefner KYC Program Initial Approval Approved by March 18, 2022
+Manager Lead Compliance
+Operations Lead
+Abby Haefner KYC Program Scheduled Annual updates October 9, 2023
+Manager Lead Review
+Melissa Benjamin Square Material Changed scope July 30, 2024
+Compliance Change from global to
+Program, Quality, Approval US, new
+Training Lead template
+updates, and
+content updates.
+Square Scheduled Jul 23, 2025
+Compliance Review
+Program &
+Quality Lead
+Adrian Gardner Customer Immateria… Correct CRR January 6, 2026
+Onboarding and section to refer
+Appeals Program to ML CRR
+Lead
+Methodology.
+Re-organize
+
+Approver Title Type Description Date
+sections to
+follow flow of
+onboarding to
+Compliance
+review. Update
+outdated
+sections. Added
+Appendix A
+which speaks to
+the KYC Refresh
+process.
+Document Details:
+Business Square
+Scope US
+Compliance Domain Financial Crimes
+Document Owner Customer Onboarding and Appeals, Merchant Onboarding
+Program Manager
+Approved By Customer Onboarding and Appeals Program
+Lead
+Document Tier Tier 3
+
+Appendix A1
+1. KYC Refresh
+The KYC Refresh ("Refresh") process enables Square to maintain updated information in support
+of holistic and comprehensive ongoing monitoring of Square customers. The Refresh may take
+place as part of a time-bound (scheduled) periodic review, as a result of a specified event, or
+under special circumstances and at the discretion of business or Compliance leadership. The
+customer's risk rating (through the cCRR determines the cadence and nature of the Refresh
+requirements. Refresh processes involve automated and manual diligence to ensure updated
+information and documentation has been obtained, verification of the customer has been
+refreshed (as needed), and a due diligence review has been conducted. Certain populations may
+be exempt from part or all of the KYC Refresh processes as determined by the business or
+Compliance leadership and in accordance with the policy exemption process.
+1.1 Documentation Refresh & Updated Verification
+Identification documentation that was valid at the time of onboarding, or at the time that the
+documentation was subsequently obtained, does not need to be updated upon expiration, unless
+there has been a change to the customerʼs identification information (i.e., legal name) to .
+Additional information and documentation in the customer's profile may require refresh during the
+scheduled periodic review. During this review, customer information such as legal name and
+address should be confirmed as current and accurate. A change, such as a legal name change, will
+require a refresh of the customer's identity verification.
+1.3 Verification Process
+A verification refresh is required when Square becomes aware of a customer's legal name change.
+Additionally, verification refresh may be required when there is reason to believe that the identity
+credentials on file are inaccurate or invalid, at the direction of Compliance leadership, or in
+accordance with regulatory requirements. This refresh process is not required at any set cadence
+for customers who have verified through electronic methods.
+1.4 Due Diligence Review Refresh
+A periodic due diligence review is triggered if an account meets the below criteria:
+● The account is an active account with a high risk rating, and a compliance review has not
+been conducted within 1 year;
+● The account is an active account with a medium risk rating, and a compliance review has
+not been conducted within 3 years; or,
+1 The Appendix provides guidance on the KYC Refresh process, which will be incorporated into the core document during
+the next comprehensive update.
+
+● The account is an active account with a low risk rating, and a compliance review has not
+been conducted within 5 years.
+The scope of the due diligence review is dependent upon the risk rating. During review, specialists
+assess customer specific attributes and data, transactional behavior patterns and activity, linked
+financial instrument activity, and web presence to better understand the nature and purpose of the
+account, as well as expected account activity.
+High Risk Accounts:
+● Receive enhanced due diligence
+● Include manual negative news Google search
+● Holistic review of customer's identity and behavior patterns
+● Transaction blocking enforced if information refresh not completed within timeframe
+Medium and Low Risk Reviews:
+● Include diligence on updated identity documentation
+● Negative news search
+During periodic due diligence, updated information, documentation, and verification should be
+reviewed for completeness and consistency.

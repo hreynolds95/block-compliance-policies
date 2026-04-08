@@ -1,0 +1,739 @@
+Consumer Protection Policy
+Square | Squareup International Limited
+Last Approved: Mar 30, 2026
+Effective Date: Mar 30, 2026
+1. Overview
+Introduction and Purpose: The Consumer Protection Policy (“Policyˮ) was established by
+Squareup International Limited (“SILˮ) as part of its duties as a regulated electronic money
+institution authorised by the Central Bank of Ireland (“CBIˮ). The primary purpose of the Policy is to
+facilitate the SIL Board (“the Boardˮ) dissemination of its responsibilities and controls with a view
+to mitigating Consumer Protection Risk, to ensure Consumersʼ interests are protected within the
+boundaries of SILʼs risk appetite and to align with regulatory guidance. The objectives of the Policy
+is to disseminate consumer protection principles throughout SIL, outline responsibilities for
+consumer protection, and promote a consumer-centric culture. This Policy is an integral part of
+SILʼs risk management framework.
+Scope: This Policy is established by SIL and is applicable to all SIL Staff and to outsourced service
+providers as listed in SILʼs Third Party Service Register. It is vital that all those in scope are aware
+of, and are committed to complying with the requirements set out in this Policy and the applicable
+Consumer Protection laws and regulations.
+Definitions:
+Terminology Definition
+Complaint An expression of dissatisfaction by an individual, business entity, or
+someone authorised to act on their behalf, with a SIL product, process,
+service, decision, or interaction in which a response or resolution is explicitly
+or implicitly requested. Complaints may also include allegations that SIL
+engaged in wrongful or suspicious conduct.
+Note: Potential Consumers can make a complaint to SIL.
+Conflicts of A Conflict of Interest is a situation where one or more persons or entities
+Interest have competing interests and the serving of one interest may involve
+detriment to another.
+1
+
+A Conflict of Interest includes both an actual Conflict of Interest (i.e. a
+Conflict of Interest that has arisen) and a potential Conflict of Interest (i.e. a
+Conflict of Interest that may arise given particular facts and circumstances).
+It also includes a perceived Conflict of Interest (i.e. a situation which may
+give rise to the perception of a Conflict of Interest), even where a Conflict of
+Interest may not in fact exist.
+Consumer(s), or For the purposes of this Policy Consumer(s) are defined as SIL Square
+Squareup merchants that are receiving regulated services (i.e. payment processing) in
+International Ireland, including where appropriate former and potential consumers 1 2
+Limited SILʼs
+Consumer(s)
+Consumer A mistake caused by a person, system issue or process gap that has
+Impacting Errors impacted or may potentially impact negatively on the SIL Consumer. It can
+(“Errorsˮ) also result in either a financial or reputational loss for the Company.
+Consumer The risk SIL poses to its SIL Consumers through its direct interaction with
+Protection Risk them as well as the risk posed to SIL Consumers stemming from SILʼs
+strategy, business model, culture, governance, internal structures, systems
+and processes and behaviours.
+First Line of First Line of Defence (“1LODˮ): Departmental management and staff
+Defence responsible for identifying and managing consumer protection risk within
+their areas of accountability. Controls ensure that risk management and
+compliance are embedded in all relevant decisions and operations.This
+includes such functions as Marketing, Sales, Customer Success, Compliance
+Operations, Credit and Fraud Risk Operations and and Complaints
+Management.
+Record A Record means any document, file or information (whether stored
+electronically or otherwise) and which is capable of being reproduced in a
+legible form.
+Second Line of Second Line of Defence (“2LODˮ): The Risk and Compliance teams develop
+Defence and monitor the implementation of the ERMF. They support the first line of
+defence in executing risk management
+responsibilities, ensuring consistency in risk application and measurement.
+Staff All full-time and part-time employees and fixed-term and contingent workers
+including interns, temps, consultants, vendors, third-party providers, and
+contractors.
+Consumer in A consumer that is a natural person and whose personal circumstances,
+Vulnerable whether permanent or temporary, make that consumer especially
+Circumstances susceptible to harm, particularly where a regulated entity is not acting with
+1 A cohort of SILʼs Square merchants in Spain that receive regulated services in Spain are afforded certain consumer
+protection rights. Please see Appendix A Squareup International Spanish Consumer Protection Requirements for further
+details.
+2 SILʼs Square merchants in France do not fall under the definition of Consumer and therefore this Policy
+does not apply to merchants based in France.
+2
+
+the appropriate levels of care. Vulnerable circumstances means the personal
+circumstances that make someone vulnerable, as described above.
+2. Policy Requirements
+2.1. Regulatory Requirements
+The following is an overview of the key conduct and consumer protection related regulations and
+guidance applicable to SIL.
+Consumer Protection Code 2025 (‘the Codeʼ)
+The Code consists of the two regulations: the Standards for Business Regulations, which set out key
+principles that govern the Code; and the Consumer Protection Regulations, which set out detailed
+conduct of business rules. SIL must follow the applicable requirements within the Code when
+providing financial products and services to Consumers in Ireland. In general, these consumer
+protection requirements should be applied proportionately, with a focus on delivering fair Consumer
+outcomes.
+Guidance to Support the Implementation of the CodeThere are three sets of CBI guidance
+documents to support the implementation of the Codeʼs requirements.
+1. Guidance on Securing Consumersʼ Interests sets out what SIL needs to consider, the
+actions to be taken and importantly the mindset SIL should have towards our Consumers,
+to effectively comply with our obligations under the Standards for Business to secure
+consumersʼ interests.
+2. Guidance on Protecting Consumers in Vulnerable Circumstances sets out the approach to
+vulnerability under the Code, and expectations as to how to meet the relevant obligations
+under the Code. It acts as a support to firms in adopting the right mindset and culture to
+effectively support Consumers in Vulnerable Circumstances.
+3. General Code Guidance helps in the implementation of the broader requirements of the
+Code.
+Consumer Protection Risk Assessment (‘CPRAʼ)
+The PRA model is used by the CBI to assess how firms are managing the risks they pose to
+Consumers and to ensure firms have appropriate risk management frameworks to deliver the right
+Consumer outcomes. The CPRA model also forms the basis of SILʼs Consumer Protection Risk
+Management Framework.
+Payment Services Directive
+Council Directive 2015/2366/EC, the Payment Services Directive 2 (“PSD2ˮ) is an EU Directive,
+administered by the European Commission to regulate payment services throughout the European
+Union and European Economic Area. The conduct rules set out in PSD2 include transparency of
+3
+
+conditions and information requirements. Such requirements are designed to ensure that payment
+service providers provide merchants with clear information that is proportionate to their needs to
+enable them to make well informed choices within the payment services market. PSD2 also sets out
+the rights and obligations in relation to the provision and use of payment services. It regulates the
+authorisation and execution of payment transactions, the ability to impose charges, requirements
+relating to refunds, and requirements relating to non-execution or defective or late execution of
+payment transactions as well as complaints requirements.
+2.2. Elements of SILʼs Consumer Protection Risk Management Framework
+SILʼs framework for consumer protection risk management, available here, is designed to mitigate
+consumer protection risk in line with SILʼs Risk Appetite Statement. It is a living document and should
+be reviewed periodically. An image depicting the framework is below.
+2.3. Standards for Business - Key Principles
+SIL must at all times:
+(a) secure its Consumersʼ interests. This applies to SIL in its overall conduct of its affairs, and is
+central to its relationship with its Consumers. Read here for more details;
+4
+
+(b) act honestly and with integrity. For example SIL must appropriately manage Conflicts of Interest
+as per Blockʼs Global Code of Business Conduct and Ethics and SILʼs Conflict of Interest Policy; allow
+Consumers to make free informed decisions without pressure; Staff must operate without bias and
+must protect SILʼs and its Consumersʼ assets and information from misuse.
+(c) act with due skill, care and diligence. For example Leads and managers must have appropriate
+knowledge of activities for which they are responsible and the associated risks; SIL must comply
+with all applicable financial services legislation.
+(d) act in the best interests of Consumers and treat them fairly and professionally. This means SIL
+must provide clear, relevant information to Consumers in a timely manner; gather necessary
+Consumer information and assess their needs and circumstances; be transparent about the
+advantages and disadvantages of SILʼs offerings; unfair treatment must be avoided; and maintain
+reasonable access by Consumers to our services.
+(e) inform Consumers effectively. For example material features of SILʼs regulated services must be
+reasonably understandable and key information must be brought to the Consumersʼ attention, such
+as our fees. SILʼs approach to communication should be less about simply providing information to
+meet SILʼs regulatory disclosure obligations and more about seeking to support practical
+understanding by the Consumer. See here for more details;
+(f) implement reasonable systems and controls to protect Consumers SIL is contracted with, from
+financial abuse.SIL has a suite of fraud controls to counter financial abuse to include fraud detection
+and prevention programs, fraud risk policy and procedures, automated learning models, account
+take over procedures and ongoing account monitoring program. Protection of SIL Consumersʼ from
+financial abuse is also achieved by: appropriately monitoring financial abuse trends affecting SILʼs
+Consumers and SILʼs sector, which SIL engages industry bodies to understand industry trends and
+has internal dashboards and monitoring systems in place to track abuse trends relevant to SILʼs
+Consumers; monitoring potential service/channel vulnerabilities and having escalation processes for
+heightened risk; promptly notifying Consumers of any known digital frauds or deception schemes
+affecting SIL or its sector, for example in the case of buyer fraud; clearly communicating available
+support options and steps for Consumers experiencing financial abuse directly connected to SILʼs
+affairs. SIL has processes in place for communicating with and providing guidance to its Consumers
+when chargebacks are received or where they are victims of buyer fraud.
+(g) control and manage its affairs and systems sustainably, responsibly and in a sound and prudent
+manner. For example, SIL is to have appropriate resources and controls to meet its regulatory
+requirements; Staff must be trained on relevant legal and regulatory requirements; tasks must be
+properly delegated with effective oversight within the firm; there must be effective management of
+outsourcing risks; and Consumersʼ funds must be adequately safeguarded.
+(h) maintain adequate financial resources; For example SIL must establish and implement systems
+and controls, processes, policies and procedures for the purpose of ensuring that it maintains
+adequate financial resources.
+(i) engage and cooperate with the CBI and other competent authorities in good faith and without
+delay. This includes promptly notifying the CBI of matters it would reasonably expect to be disclosed
+5
+
+e.g. information relevant to the commission of an offence or any breach of financial services
+legislation by SIL or a person performing a controlled function in relation to SIL. A non-exhaustive
+list of matters to be disclosed to the CBI can be found at Appendix B. SIL must facilitate appropriate
+reporting to SIL management and to the CBI of such matters as well as any matter that adversely
+affects the activities or interests of SIL, our Consumers, or the financial services system.
+Securing Consumersʼ Interests
+SIL secures its Consumersʼ interest by:
+(a) ensuring all business operations (including culture, strategy, business model, decisionmaking,
+systems, and controls) take into account its Consumersʼ interests;
+(b) acting in ways that Consumers would reasonably expect;
+(c) considering Consumersʼ interests when designing financial services, and delivery methods,
+including how any innovations or commercial decisions might affect Consumers;
+(d) not designing its financial services to unfairly exploit Consumersʼ behaviours, habits, preferences
+or biases leading to Consumer detriment. For example, SIL should: respond appropriately to
+Consumersʼ behaviour patterns; use technology to benefit, not exploit its Consumersʼ interest or
+increase an imbalance between SIL and its Consumers. The unfair exploitation of one cohort of
+Consumers cannot be justified by securing the interests of another cohort.
+(e) handle all Consumer complaints efficiently, fairly and promptly;
+(f) resolving errors and mistakes affecting Consumers efficiently, fairly and promptly and disclosing
+errors and mistakes to Consumers affected in a timely manner;
+(g) ensuring errors and mistakes identified for one Consumer that may reasonably have affected
+other Consumers are resolved for all affected Consumers efficiently, fairly and in a timely manner;
+(h) making clear distinctions between regulated and unregulated financial activities (if and when SIL
+provides any unregulated financial services), ensuring Consumers understand which protections
+apply to different services.
+(i) delivering fair outcomes for Consumers.
+2.4. Overview of Consumer Protection Requirements
+Contacting Consumers
+Contacting SIL Consumers is a key part of SIL's business model. SIL has aCustomer Communication
+Standard ( see go/policy ) and procedures in place that Staff must follow throughout the sale and
+post sale process when contacting SIL Consumers. SILʼs data protection statement also plays a key
+role in ensuring compliance with contact requirements.
+6
+
+Sales Process
+SIL Consumers are provided with clear information and be kept appropriately informed before,
+during and after the point of sale of a regulated service to them. Sales aids, training and procedures
+support appropriate sales practices and ensure key product and service features are clearly
+explained, enabling SILʼs Consumers to make informed decisions.
+Protecting Consumers in Vulnerable Circumstances
+SIL is not expected to identify all Consumers in Vulnerable Circumstances, or to categorise or label
+Consumers as such. SIL is expected to understand and take account of the drivers of vulnerability
+that are relevant to its business, and design systems, processes, procedures and safeguards to
+support and protect Consumers in Vulnerable Circumstances from poor outcomes e.g. staff are
+trained to identify and understand those circumstances relevant to SILʼs business that may make
+consumers vulnerable.
+SIL understands, supports, and protects Consumers in Vulnerable Circumstances in the responsible
+delivery of its products and services. In doing so SIL has regard to the needs of its Consumer base
+and the nature and scale of characteristics of vulnerabilities that may arise within it. SIL recognises
+that vulnerability can be temporary, permanent or fluctuating. When Consumer facing staff become
+aware that a Consumer is in a vulnerable circumstance, they will respond appropriately to the
+Consumerʼs needs, by providing reasonable arrangements or assistance, in order to treat them fairly.
+All Consumers are at risk of becoming vulnerable and this risk is increased by characteristics of
+vulnerability related to four key drivers.
+SIL has “Assisting Customers in Vulnerable Circumstancesˮ processes and related procedures in
+place which provide more information to include examples of the types of circumstances and
+characteristics under these four drivers, and guidance on how to identify vulnerable circumstances.
+If Staff are experiencing difficulties in accessing, recording, or supporting Consumers in Vulnerable
+Circumstances, they must contact their Leads in the first instance. Leads can reach out to their local
+compliance team for additional support.
+7
+
+Product and Service Design:
+SILʼs Consumer, including those in vulnerable circumstances , is considered at stages of the product
+and service design, including decisions on mode of delivery, idea generation, assessment of
+suitability, development, testing, launch and review, to make sure products and services meet their
+needs.
+SIL does not design its financial services in a way that exploits consumer behaviours, habits,
+preferences or biases or leads to Consumer detriment. SIL does not take advantage of any
+imbalance of information, expertise or time between it and its Consumers, where this could result in
+poor Consumer outcomes.
+Material changes to SILʼs products, services or delivery channels are subject to appropriate review,
+including consideration of the impact on Consumer outcomes. Consumers and in particular
+Consumers in Vulnerable Circumstances, are supported through these changes, with clear and
+effective communication and appropriate processes. SIL applies internal product governance and
+approval to support these requirements.
+Informing Effectively:
+SIL ensures that Consumer communications enable Consumers to reasonably understand the
+material features of its financial services and support informed decision-making. Communications
+are tailored, where appropriate, to the needs and characteristics of the target audience, and are
+clear, accurate, up to date and written in plain language, avoiding unnecessary technical terms. Key
+information is clearly highlighted and brought to the Consumerʼs attention. Information is provided
+through appropriate channels and at relevant points in the Consumer and product lifecycle, including
+where changes occur. SIL tests and reviews its communications to ensure they remain effective.
+Further detail is set out in the SIL Customer Communication Standard.
+Digitalisation
+SILʼs digital platforms (i.e. website and Square app) must be designed to be easy to use, understand
+and navigate, and are tested to ensure this is the case. SIL Provides guidance on how to use and
+navigate the onboarding flow to include details where further support and assistance can be found.
+As with all delivery methods, SIL ensures that the use of technology is not applied in a way that
+would seek to exploit the behaviours, habits, preferences or biases of Consumers where it has the
+potential to cause them detriment. When Consumer specific information is only accessible through
+SIL provided systems, SIL must notify Consumers at least 15 business days before withdrawing
+Consumersʼ access to these systems. The notification should state when and how the relevant
+information can be retained by the Consumer prior to the withdrawal of access.
+Post Sales Handling
+SIL Consumers do not face unreasonable post-sale barriers in making a complaint or switching
+provider. This outcome is achieved through:
+● Adequately training of Consumer facing staff;
+8
+
+● Monitoring of post sales activities to identify any potential unsuitable product or service or
+unfair Consumer outcomes, via monitoring;
+● SILʼs complaints management program and reporting; and
+● Seller Support Centre and squareup.com provides guidance and updates for SIL
+Consumers. Front line advocates are updated on recent product changes, incidents
+(internally referred to as SEVs), policy changes, etc to ensure that the correct and up to
+date information is provided when interacting with SIL Consumers.
+Consumer Complaints
+It is SILʼs policy to ensure all Complaints are identified and resolved in an effective manner including
+complaints which are handled by outsourced service providers in the first instance, for example
+through Business Process Outsourcing (“BPOˮ) services. Additionally, SIL complies with legal,
+regulatory, and contractual requirements governing the handling of SIL Consumer complaints arising
+from the financial products and services offered by SIL.
+Block has implemented a Global Complaints Program to establish a standardised complaint
+management framework in support of the Global Complaint Policy. This program provides guiding
+principles for the development and management of the first line of defence complaint programs.
+This section of this Policy sets out the local regulatory requirements to be adhered to with respect to
+Complaints, which supplements the Block Global Complaints Program and the Block Global
+Complaints Policy.
+These local regulatory requirements only apply to complaints about regulated products and services
+provided or offered by SIL and complaints about the failure or refusal of SIL to provide such products
+or services to a SIL Consumer (collectively described as “Regulated Complaintsˮ). Regulated
+Complaints involve issues concerning or relating to financial services (i.e. payments processing). For
+Square, Regulated Complaints could involve issues like deactivation of accounts, frozen funds,
+fraud, or anything else to do with the processing, settlement of or access to sellerʼs funds. Other
+examples of Regulated Complaints are complaints about the marketing and sale of, provision of
+information about or the Consumer service relating to payment processing.
+All other complaints should be handled in accordance withBlockʼsGlobal Complaints Program and
+Policy.
+Complaints about regulated products and services “Regulated Complaintsˮ
+First and foremost, SIL must seek to resolve any Regulated Complaint with its SIL Consumers.
+If an oral or written Regulated Complaint has been resolved to the complainantʼs satisfaction within
+five business days, the below requirements do not apply. A record of such a complaint must be kept
+e.g. the date the complaint was made, the date the complaint was resolved, summary details of the
+Regulatory Complaint and root cause of the Regulatory Complaint.
+When SIL receives an oral or a written Regulated Complaint, which cannot be resolved within five
+business days, SIL offers the SIL Consumer the opportunity to have this handled in accordance with
+SILʼs complaints process.
+9
+
+SILʼs Complaints process includes a documented procedure for the proper handling of Regulated
+Complaints. At a minimum this procedure must provide that SIL must::
+● Acknowledge each Regulated Complaint in writing (paper or other durable medium) within
+five business days of receipt.
+● Provide the complainant with the name of one or more individuals who will act as their point
+of contact until the complaint is resolved or can no longer be progressed.
+● Provide details of the complaints procedure, when the complaint may be referred to the
+relevant ombudsman, and the ombudsman’s contact details in the acknowledgement.
+● Issue a final response within 15 business days of receipt. In exceptional circumstances, this
+may be extended to 35 business days (or 30 business days for Spanish Complaints — see
+Appendix A). If the 35-business-day timeline is exceeded, SIL must seek to investigate and
+resolve the complaint within 40 business days of receipt.
+● Within five business days of the completion of the investigation of a Regulated Complaint,
+issue a final response.
+The content of the final response (to be issued within five business days of completing the
+investigation)must include:
+● The outcome of the investigation.
+● Where applicable, details of any offer or settlement.
+● Confirmation that the SIL Consumer may refer the matter to the relevant ombudsman (Irish
+or Spanish, as applicable; no French ombudsman applies) and provide ombudsman contact
+details.
+SIL maintains an up-to-date log of all Regulated Complaints from SIL Consumers subject to the
+complaints procedure. This log must contain:
+● Details of each Regulatory Complaint;
+● The date the Regulatory Complaint was received;
+● A summary of the regulated entityʼs response(s) including dates;
+● Details of any other relevant correspondence or Records;
+● The action taken to resolve each Regulatory Complaint;
+● The date the Regulatory Complaint was resolved; and
+● Where relevant, the current status of the Regulatory Complaint which has been referred to
+the relevant ombudsman.
+SIL maintains up to date and comprehensive Records for each Regulatory Complaint received from a
+SIL Consumer.
+SIL undertakes an appropriate analysis of the rate of occurrence and the patterns of Regulated
+Complaints from SIL Consumers on a regular basis (at least every six months) including investigating
+whether Regulated Complaints indicate an isolated issue or a more widespread issue for SIL
+Consumers. This analysis of SIL Consumer Regulated Complaints must be escalated to the
+Compliance function and Senior Management as well as the Board of Directors.
+Consumer Impacting Errors
+10
+
+All Staff are encouraged to report issues that fall within the SIL Consumer Impacting Error (“Errorsˮ)
+definition set out in this Policy. The reporting of Errors is seen as an opportunity to improve SILʼs
+processes and controls and is used as a learning experience across SIL.
+SIL has embedded a programme of activities and a culture that seeks to identify, control, mitigate
+against, monitor and report on Errors. When Errors occur, SIL remediates and rectifies the Error
+without delay. SIL ensures that SIL Consumers are treated fairly and are put back in the position they
+would have been had the Error not occurred. SIL takes responsibility for all Errors that occur
+throughout the course of its business with SIL Consumers. To achieve these requirements, SIL has
+governance arrangements in place for the appropriate and effective handling of Errors.
+These arrangements include the provision for:
+● Proper identification of all Errors;
+● Identification of the potential impact of the Error on Consumers and the number of all
+potentially affected Consumers; ;
+● Identification and documentation of the root cause;
+● Proper control of the correction process;
+● Timely escalation of Errors to Compliance/Enterprise Risk functions and Senior
+Management.
+● Proper oversight of the handling of Errors; and
+● Timely detection, classification and escalation of significant Errors to the Board of Directors
+(i.e.Errors of such scale, significance and nature that the Board ought to be made aware of)
+SIL undertakes an appropriate analysis of the rate of occurrence, aggregated information on the
+volume of errors handled and resolved and the patterns of Errors on a regular basis (at least every
+six months) including investigating the causes.This analysis must be escalated to the Compliance
+function and Senior Management as well as the Board of Directors.
+All Errors must be resolved speedily and no later than 6 months after the Error was first
+discovered.A resolution plan must be in place to resolve the Error within this timeframe ensuring that:
+● System failures are corrected and implemented;
+● Preventative controls are in place to ensure non-recurrence;
+● Refunds are paid back to Consumers (if the Error relates to overcharging);
+● All affected Consumers (both current and former) are promptly notified of the Error and
+resolution;
+● If reasonable refund attempts are exhausted but unsuccessful, SIL must not benefit from
+the refund amount and shall pay the amount plus appropriate interest when the Consumer
+claims it;
+● A central repository of all Errors must be in place and monitored on a regular basis; and
+● A record of steps taken to refund and to resolve Errors is to be kept to include steps taken
+when Consumers are dissatisfied with the outcome, there are difficulties contacting
+affecting Consumers, and when the refund could not be repaid.
+Advertising to SIL Consumers
+11
+
+SIL produces advertising that is ‘clear, fair, accurate and not misleadingʼ as this is one of the
+overarching principles of the advertising requirements of the Code. Appropriate governance of all
+aspects of product development, promotion, distribution and post-sale services is undertaken to
+ensure SIL Consumers are protected and that there is full compliance with the letter and spirit of
+applicable rules. SIL ensures marketing and advertisements describe the product or service in a
+clear, fair and not-misleading way.
+Conflicts of Interest
+SIL is committed to maintaining the highest standards of conduct in all aspects of its business and
+aims to treat Consumers fairly at all times. SIL has aConflicts of Interest policy in place, which
+provides a clear statement of the standards around identifying, documenting, escalating and
+managing or preventing Conflicts of Interest.
+As a member of the Block Inc. Group, SIL is subject to the Block, Inc. Global Code of Business
+Conduct and Ethics (“the Code of Business Conductˮ). This Policy and SILʼs Conflicts of Interest
+Policy should be read in connection with the Code of Business Conduct and Global Policy and if
+there is any conflict between the Code of Business Conduct, the Global Policy and applicable local
+law, the most restrictive requirement must be followed. Conflicts of Interest can be disclosed via
+go/disclose.
+Disclosure Statements
+SIL is required to set out its regulatory disclosure statement in communications regarding its
+regulated activity on all business stationary, advertisements, sections of the website/app that relate
+to the regulated activity and electronic communications.
+For the avoidance of doubt “regulated activitiesˮ are defined under the Code as the provision of
+products or services that are provided in Ireland by SIL and which are subject to the regulation of the
+CBI i.e payment processing.
+Regulated firms must differentiate between their regulated activities and unregulated financial
+activities. This requirement does not apply to SIL, as SIL does not provide unregulated financial
+services. Nevertheless, in keeping with the spirit of Code, and to enhance Consumersʼ
+understanding, SIL maintains its standard regulatory disclosure statement and it is to be
+supplemented by an additional disclosure statement regarding SILʼs unregulated non-financial
+activities. This additional disclosure statement is to be included in communications that relate to SILʼs
+regulated activities, on all business stationary, sections of the website/app and electronic
+communications.
+No regulatory disclosure statement is required in SMS messages where the content does not provide
+details of our regulated activities.
+12
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● SILʼs Board of Directors (“SIL Boardˮ):
+○ Promotes the culture of compliance, positive SIL Consumer outcomes and provides
+challenge and direction to SIL, on the delivery of the Consumer strategy and the
+management of Consumer Protection Risk.
+● SILʼs Regulatory Governance Committee:
+○ Reviews any escalated Consumer Protection Risk concerns, and consumer
+protection key risk indicators and management information.
+● Outsourcing & Resilience Oversight Committee (“OROCˮ):
+○ Oversees all outsourcing services provided to SIL (including intragroup and
+third-party arrangements) to include call centres, communication facilities, and
+complaints handling. The committee escalates relevant matters to the Regulatory
+Governance Committee on a monthly basis.
+● Chief Operations Officer (“COOˮ):
+○ Leads the consumer protection effort and has overall responsibility for the
+execution of the Consumer Protection Policy. The COO has the ability to escalate
+matters to the Regulatory Governance Committee and the Board if required.
+○ The COO is responsible for:
+■ Ensuring all aspects of the Consumer Protection Policy are implemented within
+SIL;
+■ Overseeing the management and mitigation of Consumer Protection Risk;
+■ Reporting material risk to Senior Management and the Board;
+■ and,
+■ Ensuring a culture of compliance is promoted across SILʼs business.
+● SILʼs Senior Management:
+○ Have responsibility for:
+■ Effectively identifying Consumer Protection Risk in their respective areas and
+engaging in mitigating such risks.
+■ Informing Compliance, Enterprise Risk and Internal Audit of any concerns
+regarding consumer protection that are relevant to these functions in
+performing their duties.
+■ Understanding consumer protection and embedding and maintaining business
+processes and controls in the daily operations of the business.
+■ Assisting the business with promoting and embedding a Consumer centric
+culture.
+■ Tracking and understanding SIL Consumer feedback relating to their
+■ function and taking appropriate action on same;
+■ Ensuring that there is an appropriate and complete resolution of Consumer
+Impacting Errors and complaints relating to their function.
+● Staff:
+○ Are responsible for complying with this Consumer Protection Policy in their relevant
+business activities, ensuring that SIL Consumers are adequately protected and that
+13
+
+any concerns in relation to consumer protection are identified, managed, and
+reported.
+● Compliance:
+○ Has oversight of this Policy and is responsible for monitoring compliance with it.
+Compliance provides independent challenge on Consumer Protection Risk issues.
+Compliance challenges, supports and guides the business in the identification of
+Consumer Protection Risk issues.
+● Enterprise Risk:
+○ Responsible for the assessment, monitoring and reporting on regulatory risk, to
+include Consumer Protection Risk, on a quarterly basis. The output of such a
+review is the Quarterly Risk Register, which is reported to the SIL Board on the
+same cadence.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance
+provides regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements, to include applicable data protection laws
+3.5. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+14
+
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy] Owner.
+Review related documents:
+● Helping Vulnerable Consumers Process
+● SILʼs Conflicts of Interest Policy
+● Block, Inc. Global Code of Business Conduct and Ethics
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+NA Cash Direct Creation Initial Draft August 2021
+Customer
+Success Lead;
+CS operations
+Lead;
+Seller Complaints
+Management
+Lead;
+Sales Lead;
+Head of Account
+Management
+Marketing Lead;
+International Cash
+15
+
+Product Manager
+International
+Seller Product
+Manager
+Hardware)
+NA SIL Board Initial Appro… Initial Draft December 16,
+2021
+Derek Corcoran EU Chief Scheduled R… Ownership October 2022
+Operations changed and
+Officer narrowed to EU
+COO
+NA SIL Board Scheduled R… Ownership December 13,
+changed and 2022
+narrowed to EU
+COO
+Elizabeth He… EU Chief Scheduled R… Ownership November 7,
+Compliance changed to EU 2023
+Officer CCO
+Amalgamation of
+this policy and
+SILʼs Consumer
+Protection
+Framework
+Expansion of
+Vulnerable
+Customer and
+Complaints
+section, to be
+more granular in
+detail.
+Format more
+aligned with the
+CRPA model.
+NA SIL Board Scheduled R… Ownership December 7,
+changed to EU 2023
+CCO
+Amalgamation of
+this policy and
+SILʼs Consumer
+Protection
+Framework
+Expansion of
+16
+
+Vulnerable
+Customer and
+Complaints
+section, to be
+more granular in
+detail.
+Format more
+aligned with the
+CRPA model.
+Elizabeth He… EU Chief Scheduled R… No material November 12,
+Compliance changes made. 2024
+Officer Terms and
+phrases updated
+to ensure
+consistency of
+use throughout
+the document.
+NA SIL Board Scheduled R… No material December 11,
+changes made. 2024
+Terms and
+phrases updated
+to ensure
+consistency of
+use throughout
+the document.
+Elizabeth He… EU Chief Scheduled R… New policy March 12, 2026
+Compliance template;
+Officer Update
+definitions and
+governance
+references;
+Inclusion of
+Standards for
+Business
+(introduced by
+new CPC;
+Updates and
+references to
+newly created
+policies,
+procedures,
+programs etc, in
+the areas of:
+Consumer
+Protection Risk
+Management
+Framework,
+Consumers in
+17
+
+vulnerable
+circumstances,
+and
+Product and
+Service Design;
+New sections on
+Informing
+effectively and
+Digitalisation
+Enhancements to
+Complaints,
+Errors, and
+Disclosure
+Statement
+sections
+N/A SIL Board Scheduled R… Scheduled review Mar 30, 2026
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner EU Chief Compliance Officer
+Approved By SIL Board
+Document Tier Tier 2
+18
+
+Appendix A
+Squareup International Spanish Consumer Protection Requirements
+1 BACKGROUND AND PURPOSE
+Squareup International Limited (herein referred to as SIL is a regulated electronic money institution
+authorised by the Central Bank of Ireland (“CBIˮ). Council Directive 2015/2366/EC, the Payment
+Services Directive 2 (“PSD2ˮ) set out the principle of a single authorisation for payment
+institutions.
+This provides that a firm may provide the services for which it is authorised in its Home State (i.e.
+Ireland in the case of SIL throughout the EU through the free provision of services on a cross
+border basis (i.e. without establishing a permanent presence).
+SIL is so authorised, and it can provide the services for which it is authorised by the CBI, to Square
+merchants in Spain. The CBI is responsible for regulating SILʼs activity in both Ireland and Spain,
+however it is the Spanish, as opposed to the Irish, consumer protection requirements that apply to
+SILʼs Spanish merchants.
+The purpose of this appendix is to give an overview of the Spanish specific consumer protection
+requirements relevant to SIL (see Regulatory Requirements Section below).
+2 REGULATORY REQUIREMENTS
+The following is an overview of the key Spanish conduct and consumer protection related
+regulations applicable to SIL.
+Law 3/1991 of 10 January on Unfair Competition ("LUC") sets out prohibited practices including
+misleading publicity, unfair comparative publicity, deception, confusion, aggressive practices
+(including aggressive publicity), denigration, imitation, violation of secrets and in general any
+action that is not carried out in good faith.
+In general, any behaviour that is objectively contrary to the requirements of good faith is
+considered unfair. Unfair practices include any commercial practice, including comparative
+advertising, which overall give rise to confusion, including the risk of association, with any goods
+or services, trademarks, trade names or other distinguishing marks of a competitor, and they are
+liable to affect the economic behaviour of consumers and users.
+The regulatory requirements pertaining to the handling of consumer complaints are the same in
+Ireland and in Spain, with two exceptions. Order ECO/734/2004, of March 11 on Departments and
+Customer Complaint Services sets out that a Spanish complainant must be made aware of their
+19
+
+right to make a complaint to the Spanish ombudsman (as opposed to the Irish ombudsman). Also
+the final complaint response must be provided no later than 30 business days after the complaint is
+received (as opposed to 35 business days for an Irish complaint) .
+Order ECE/1263/2019 sets out the transparency obligations related to the pre-contractual,
+contractual and post-contractual information to be provided to applicable SILʼs Spanish merchants.
+These requirements do not represent net new requirements for SIL over and above the Irish and EU
+requirements applicable to SIL.
+3 APPLICATION
+The above mentioned regulatory requirements apply to both consumers and micro-enterprise.
+SILʼs Square Merchants do not fall under the definition of consumer*.
+However, a significant cohort of SILʼs Square Merchants do fall under the definition of a “micro -
+enterprisesˮ. A "micro-enterprise" is defined as an enterprise, being both a natural person
+engaged in a trade or business and a legal person, which at the date of conclusion of the payment
+service contract employs fewer than ten persons and whose annual turnover or annual balance
+sheet total does not exceed EUR 2 million.
+Consumer is defined as a natural person who in the context of the payment service is acting for
+purposes other than his or her trade, business or profession.
+Appendix B
+Below are examples of information the CBI would reasonably expect notice of:
+Information relevant to, or giving rise to a suspicion or expectation of, any of the following:
+i. commission of an offence by the regulated firm or a person performing a controlled function in
+relation to it;
+ii. commission of a prescribed contravention or any other breach of obligations under financial
+services legislation by the regulated financial service provider or a person performing a controlled
+function in relation to it;
+iii. Concealment or deliberate destruction of evidence relating to a matter referred to in
+subparagraph (i) or (ii);
+iv. provision of false or misleading information to the Bank relating to a matter referred to in
+subparagraph (i) or (ii);
+20
+
+v. obstruction or impeding of an investigation relating to a matter referred to in subparagraph (i) or
+(ii);
+vi. commencement of legal proceedings by or against the regulated financial service provider
+arising from its obligations under financial services legislation;
+vii. commencement of legal proceedings against the regulated financial service provider which
+may impact on its ability to continue to trade;
+viii. anything that may otherwise interfere significantly with the operation of the regulated financial
+service provider or its compliance with its obligations under financial services legislation;
+ix. a decision by the regulated financial service provider to cease to provide financial services of a
+particular description.
+21

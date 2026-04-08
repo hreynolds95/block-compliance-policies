@@ -1,0 +1,428 @@
+Red Flags Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: October 3, 2025
+Effective Date: October 3, 2025
+1. Overview
+Introduction and Purpose: This Red Flags Policy ("Policy") outlines Square Capital, LLC's ("Square
+Capital" or the "Company") approach to compliance with the Red Flags provision of the Fair and
+Accurate Credit Transactions Act ("FACTA"). The Chief Compliance Officer ("CCO") oversees the
+development and implementation of this Policy and has delegated ownership of this Policy to the
+Head of Business Product Compliance and Partnerships or Lending Product Compliance Lead as
+designee.
+This Policy is designed to effectively detect, prevent and mitigate Identity Theft pursuant to the
+rules and regulations established under FACTA known as the "Red Flag Rules." It applies to all
+customer accounts owned or maintained by Square Capital.
+Scope: This Policy is established by Square Capital and is applicable to Square Capital, specific to
+the credit card product. This Policy applies to Square Capital's lending products and associated
+activities, whether conducted by the Company's employees or through outsourced service
+providers, including when Square Capital acts as a service provider for a Bank Partner that
+originates lending products.
+Definitions:
+Terminology Definition
+Covered An account that a creditor offers or maintains for which there is a reasonably
+Account foreseeable risk to customers or to the safety and soundness of the creditor
+from Identity Theft, including financial, operational, compliance, reputation,
+or litigation risk.
+Identity Theft Fraud committed or attempted using one or more pieces of identifying
+information of another person without authority. Identifying information
+means any name or number that may be used, alone or in conjunction with
+
+any other information, to identify a specific person, including, but not limited
+to, any name, social security number, or date of birth.
+Red Flag A pattern, practice, or specific activity that indicates the possible existence
+of Identity Theft.
+Staff Member(s) All employees and fixed-term and contingent workers who support the
+operations and/or subsidiaries covered by this Policy, and includes interns,
+temporary workers, consultants, vendors, third-party providers and
+contractors.
+2. Policy Requirements
+2.1. Background
+Identity Theft is a problem for consumers who must contend with their identities being used to
+engage in unauthorized or fraudulent activities including illegitimate credit transactions and the
+negative impact that usage can render to a person's consumer credit score, and for creditors, who
+must absorb or otherwise write off transactions that result from stolen identities which can affect
+liquidity and material operations. Because Identity Theft is so closely linked to consumer credit
+reports, FACTA was passed as an amendment to the Fair Credit Reporting Act ("FCRA"). FACTA
+primarily addresses:
+● Identity Theft Prevention and Credit History Restoration;
+● Improvements in Use of and Consumer Access to Credit Information;
+● Enhancing the Accuracy of Consumer Report Information;
+● Limiting the Use and Sharing of Medical Information in the Financial System;
+● Financial Literacy and Education Improvement; and
+● Protecting Employee Misconduct Investigations.
+The regulatory guidance for Identity Theft prevention suggests using 26 specific criteria that are
+either linked to consumer credit reports or that are normally associated with credit applications.
+Triggering one or more of those criteria in a credit transaction, regardless of whether a consumer
+credit report is used or not, is a "Red Flag" that the identity being used in the transaction may be
+compromised which then requires the creditor to determine an appropriate course of action. This is
+why the term "Red Flag" is used to describe a creditor's program that seeks to prevent the usage of
+stolen identities. Usage of the 26 Red Flags is not required, but if not used it is expected that a
+creditor explain in their program why one or more of the Red Flags have not been used. It is further
+
+required that creditors add to their Red Flag program any new criteria that are self-identified as
+helping to prevent Identity Theft.
+Due to the complexity required to implement a robust Red Flags program, the Red Flags Program
+requirements are contained fully within this Policy. The remainder of FACTA does not apply to Square
+Capital's lending operations either because it is not applicable to a commercial lending program or
+because consumer credit reports are not currently used by this program. It should be noted that
+instances of stolen identity used to gain access to the Square Credit Card product are exceedingly
+unlikely to occur. This is because in order to access the Square Credit Card product, a customer
+must first be onboarded as a seller and must have sufficient payment processing volume to qualify
+for the product.
+FACTA Red Flags should not be confused with Bank Secrecy Act Red Flags which are associated
+with identifying money laundering risks, not with preventing Identity Theft.
+2.2. Identification of Red Flags
+Square Capital identifies which Red Flags, singly or in combination, are relevant to detecting the
+possible risk of Identity Theft to customers or the safety and soundness of Square Capital. When
+identifying relevant Red Flags for Covered Accounts, Square Capital includes relevant Red Flags
+from the following categories, as appropriate, and documents which are not used along with a
+justification:
+● Alerts, notifications, or other warnings received from consumer reporting agencies or
+service providers, such as fraud detection services, including third party vendors used for
+fraud monitoring;
+● The presentation of suspicious documents;
+● The presentation of suspicious personal identifying information;
+● The unusual use of, or other suspicious activity related to, a Covered Account; and
+● Notice from customers, victims of Identity Theft, law enforcement authorities, or other
+persons regarding possible Identity Theft in connection with Covered Accounts.
+Square Capital considers the following risk factors in identifying relevant Red Flags for Covered
+Accounts:
+● The types of Covered Accounts offered or maintained;
+● The methods provided to open Covered Accounts;
+● The methods provided to access Covered Accounts; and
+
+● Its previous experience with Identity Theft.
+Square Capital adds relevant Red Flags from sources such as:
+● Incidents of Identity Theft previously experienced;
+● Methods of Identity Theft that reflect changes in risk; and
+● Applicable supervisory guidance.
+The list of Red Flags Square Capital considers and their applicability to Square Credit Card are
+detailed in Appendix I.
+2.2.1. Detection of Red Flags
+Square Capital addresses the detection of Red Flags in connection with the opening of Covered
+Accounts and existing Covered Accounts, by:
+● Obtaining identifying information about, and verifying the identity of, a person opening a
+Covered Account; and
+● Authenticating customers, monitoring transactions, and verifying the validity of change of
+address requests in the case of existing Covered Accounts.
+2.2.2. Response
+Square Capital provides appropriate responses to detected Red Flags. The response is
+commensurate with the degree of risk posed. Appropriate responses may include:
+● Monitoring a Covered Account for evidence of Identity Theft;
+● Contacting the customer;
+● Changing any passwords, security codes or other security devices that permit access to a
+Covered Account;
+● Reopening a Covered Account with a new account number;
+● Not opening a new Covered Account;
+● Closing an existing Covered Account;
+● Notifying law enforcement proactively on a case-by-case basis;
+● Determining no response is warranted under the particular circumstances;
+● Requiring the customer to pass identity verification questions; and
+● Requiring the customer to provide documentary identification, such as a driverʼs license,
+state ID, or passport.
+
+In addition, pursuant to Section 609(e) of the Fair Credit Reporting Act, Square Capital will, upon
+notice from a customer regarding possible Identity Theft and appropriate written request, provide the
+customer (and law enforcement if requested by the customer) with copies of transaction records
+relating to the theft of his or her identity within 30 days of receiving the written request to the
+following address:
+Square, Inc.
+Attention: Square Capital LLC
+1955 Broadway, Suite 600, Oakland, CA 94612
+Incidents of ID theft are verified, tracked and communicated/responded to pursuant to the process
+defined in the Square Capital Credit Card Closure SOP. Square Capital may request of a customer
+claiming an instance of ID theft 1.) proof of identity, including a copy of a driverʼs license,
+government-issued ID card or other identification document and 2.) proof of the claim of ID theft,
+including a police report regarding the ID theft or completed and signed FTC Identity Theft Report or
+other affidavit of fact detailing the claim of ID theft. Law enforcement requests for records related to
+incidents of identity theft are handled pursuant to the requirements set forth in the Credit Card
+Privacy Policy.
+2.2.3. Service Providers
+Square Capital maintains oversight of service providers that perform activities related to identity
+verification, fraud detection, or customer authentication. Contracts require service providers to have
+policies and procedures in place to detect, prevent, and mitigate Identity Theft, consistent with
+Square Capitalʼs Red Flags Program.
+2.2.4. Updating the Program
+Square Capitalʼs Red Flag Program is updated periodically to reflect changes in risks to customers or
+to the safety and soundness of the organization from Identity Theft based on factors such as:
+● The experiences of the organization with Identity Theft;
+● Changes in methods of Identity Theft;
+● Changes in methods to detect, prevent and mitigate Identity Theft; and
+● Changes in the types of Covered Accounts that the organization offers or maintains; and
+● Changes in the business arrangements of the organization, including mergers, acquisitions,
+alliances, joint ventures and service provider arrangements.
+
+2.2.5. Reports
+Reports are prepared as follows:
+● Staff Members responsible for development, implementation and administration of the
+Program report to the Square Capital Board of Managers (“SCBMˮ) at least annually on the
+Company's compliance with the Program.
+● The report will address material matters related to the Program and evaluate issues such
+as:
+○ The effectiveness of the policies and procedures in addressing the risk of Identity
+Theft in connection with the opening of Covered Accounts and to existing Covered
+Accounts;
+○ Service provider agreements;
+○ Significant incidents involving Identity Theft and managementʼs response; and
+○ Recommendations for material changes to the Program.
+● Annually, a risk assessment is performed and the summary of this risk assessment can be
+used to comply with the reporting requirement.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Compliance Policy Committee:
+○ Approves the adoption of this Policy on an annual basis
+● Chief Compliance Officer ("CCO"):
+○ Provides assistance and support in implementing this Policy across the organization
+○ Responsible for establishing appropriate practices to ensure Company operations
+reflect commitment to compliance
+○ Responsible for monitoring and reporting on compliance with this Policy
+○ May delegate authority to adopt, develop, and implement procedures and reporting
+● Counsel:
+○ Provides interpretative advice and counsel regarding Policy requirements
+○ Advises on applicability to business and operational activities
+● Head of Business Product Compliance and Partnerships or Lending Product Compliance
+Lead:
+○ Owns this Policy document
+○ Reviews and approves requested exceptions
+○ Designated as the Red Flags Program Administrator
+○ Responsible for implementing, reviewing, and updating the Identity Theft Prevention
+Program
+
+○ Ensures responses to Red Flags are carried out
+○ Coordinates with internal teams and external service providers as necessary.
+3.2. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance and
+objective achievement. As outlined in the Compliance Management System Policy, Compliance will
+provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+Square Capital will maintain records of this Policy in accordance with Square Capital's document
+retention guidelines. As it relates to this Policy, Square Capital retains consumer report records for
+two 2 years if for employment purposes and for six 6 months if for other purposes. The reports
+are required to be destroyed when the retention period is satisfied. Records relating to Red Flag
+events (e.g. decisions to open or decline accounts involving Red Flags) are retained for twenty-five
+25 months.
+3.4.1. Disposal
+Square Capital will dispose of all consumer reports, information derived from consumer reports, and
+personal and financial information in compliance with the FACTA Disposal Rule. Consumer
+information in hard copy form will be shredded and properly disposed. Consumer information
+retained in electronic files will be erased or destroyed so the information cannot be read or
+reconstructed.
+3.4.2. Credit prescreened retention requirements from Reg B
+Any solicitations resulting from credit prescreening must retain the creditworthiness criteria used to
+determine qualification for each unsolicited offer for not less than 25 months 12 for business credit)
+from the date of each initial solicitation pursuant to the record retention requirements in Reg B.
+
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Capital, LLC and on a need-to-know basis.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Global Complaints Policy
+● Document Management Policy
+● Credit Card Privacy Policy
+● Credit Card Closure SOP
+● Identity Theft Red Flags and Address Discrepancies under FACTA
+● Interagency Guidelines on Identity Theft Detection, Prevention, and Mitigation
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+N/A Creation New Policy June 2021
+created from
+former Square
+Capital Policy for
+
+credit card
+product
+Amelia Child… Global Chief Scheduled R… Scheduled March 2022
+Compliance Review
+Officer
+Square Capital Square Capital Scheduled R… Annual Review November 30,
+Board of Board of 2023
+Managers Managers
+Square Capital Square Capital Scheduled R… Annual Review July 2, 2024
+Board of Board of
+Managers Managers
+Square Capital Square Capital Immaterial C… Revised following October 10, 2024
+Board of Board of third party audit
+Managers Managers
+Compliance Compliance Scheduled R… Scheduled October 3, 2025
+Policy Policy Committee Review; Minor
+Committee Enhancements
+Document Details:
+Business Square
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+
+Appendix I - Red Flag Indicators
+Red Flag Description Applicability to Square Credit Card
+A fraud or active duty alert is Not applicable as Square Capital does not make use of consumer
+included with a consumer credit reports in relation to the Square Credit Card product.
+report. Square Capital evaluates alternative identity and fraud signals to
+satisfy the underlying intent of this control.
+A consumer reporting agency Not applicable as Square Capital does not make use of consumer
+provides a notice of a credit credit reports in relation to the Square Credit Card product.
+freeze in response to a request Square Capital evaluates alternative identity and fraud signals to
+for a consumer report. satisfy the underlying intent of this control.
+A notice of address or other Not applicable as Square Capital does not make use of consumer
+discrepancy is provided by a credit reports in relation to the Square Credit Card product.
+consumer credit reporting Square Capital evaluates alternative identity and fraud signals to
+agency. satisfy the underlying intent of this control.
+A consumer credit report Not applicable as Square Capital does not make use of consumer
+shows a pattern inconsistent credit reports in relation to the Square Credit Card product.
+with the personʼs history, such Square Capital evaluates alternative identity and fraud signals to
+as a big increase in the volume satisfy the underlying intent of this control.
+of inquiries or use of credit,
+especially on new Covered
+Accounts; an unusual number
+of recently established credit
+relationships; or a Covered
+Account closed because of an
+abuse of account privileges.
+Identification presented looks If documentation appears to be altered or forged, an application
+altered or forged. will be declined and escalated to the appropriate Compliance
+team.
+The identification presenter Not applicable as the application process for Square Credit Card
+does not look like the is online-only and does not involve in-person interaction.
+identificationʼs photograph or
+physical description.
+Other information on the If the provided information is inconsistent, the application will be
+identification is not consistent declined.
+with information provided by
+the person opening a new
+Covered Account or customer
+presenting the identification.
+Information on the If a name different from the owner on the account is provided in
+identification does not match the application, the application will fail and trigger manual review.
+other information our firm has
+on file for the presenter, like
+
+the original Covered Account
+application, signature card or a
+recent check.
+The Covered Account Not applicable as the application process is online only.
+application looks like it has
+been altered, forged or torn up
+and reassembled.
+Inconsistencies exist between If an SSN appears invalid for any reason the application will be
+the information presented and declined.
+other things we know about
+the presenter or can find out
+by checking readily available
+external sources, such as an
+address that does not match a
+consumer credit report, or the
+Social Security Number SSN
+has not been issued or is listed
+on the Social Security
+Administration's SSAʼs Death
+Master File.
+Inconsistencies exist in the If an SSN appears invalid for any reason the application will be
+information that the customer declined.
+gives us, such as a date of
+birth that does not fall within
+the number range on the SSAʼs
+issuance tables.
+Personal identifying Not used as a red flag indicator; no process as yet to detect this.
+information presented has
+been used on an account our
+firm knows was fraudulent.
+Personal identifying Use of a fictitious address will result in a declined application, P.O.
+information presented Boxes are not accepted as valid addresses. Phone numbers are
+suggests fraud, such as an not validated in the application process or used as a red flag
+address that is fictitious, a mail indicator.
+drop, or a prison; or a phone
+number is invalid, or is for a
+pager or answering service.
+The SSN presented was used Not used as a red flag indicator; no process as yet to detect this.
+by someone else opening an
+account or other customers.
+The address or telephone Not used as a red flag indicator; no process as yet to detect this.
+number presented has been
+used by many other people
+opening accounts or other
+customers.
+
+A person who omits required If all required information is not provided, the application would be
+information on an application canceled.
+or other form does not provide
+it when told it is incomplete.
+Inconsistencies exist between If inconsistencies exist between what is provided in the
+what is presented and what application and what is on file, the application would be declined.
+our firm has on file.
+A person making a Covered Not applicable as challenge questions are not utilized; a valid SSN
+Account application or seeking is required
+access cannot provide
+authenticating information
+beyond what would be found
+in a wallet or consumer credit
+report, or cannot answer a
+challenge question.
+Soon after our firm gets a Not applicable as no alternate means of access or authorized
+change of address request for users exist within the product currently.
+a Covered Account, we are
+asked to add additional access
+means (such as debit cards or
+checks) or authorized users
+for the account.
+A new Covered Account Cash advances are not applicable to the product. Fraud indicators
+exhibits fraud patterns, such are reviewed by third party vendor i2c and actioned and reported
+as where a first payment is not to Square Capital. Any concerns identified in the reports may be
+made or only the first payment escalated through Risk.
+is made, or the use of credit
+for cash advances and
+securities easily converted into
+cash.
+A Covered Account develops Not used as a red flag; no process as yet to detect this.
+new patterns of activity, such
+as nonpayment inconsistent
+with prior history, a material
+increase in credit use, or a
+material change in spending or
+electronic fund transfers.
+A Covered Account that is Not used as a red flag; no process as yet to detect this.
+inactive for a long time is
+suddenly used again.
+Mail our firm sends to a Physical mail is not utilized other than mailing the card itself; card
+customer is returned returned as undeliverable is not used as a red flag indicator.
+repeatedly as undeliverable
+even though the Covered
+Account remains active.
+
+We learn that a customer is not Not applicable as paper statements are not utilized.
+getting his or her paper
+account statements.
+We are notified that there are Unauthorized charges or transactions would go through the
+unauthorized charges or dispute or claims process which triggers an account review by
+transactions to the Covered Risk for potential closure.
+Account.
+We are told that a Covered A report of fraud or ID theft would trigger an account review by
+Account has been opened or Risk for potential closure.
+used fraudulently by a
+customer, an identity theft
+victim, or law enforcement.

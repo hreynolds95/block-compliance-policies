@@ -1,0 +1,282 @@
+Denylist Appeals Policy
+Cash App | U.S.
+August 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+Denylist Appeals Policy | Cash App
+2
+
+Confidential
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Policy Requirements 7
+4.1 Denylisting Appeals 7
+4.2 Eligible Denylist Appeals 8
+4.3 Sponsored Accounts 8
+4.4 Re-review of Dispute Claims Policy 8
+4.5 Monitoring and Oversight 8
+4.6 Internal Policies, Procedures, and Controls 9
+5. Document Management 9
+5.1 Document Owner 9
+5.2 Review and Approval 9
+6. Training 9
+7. Exceptions 9
+8. Record Retention 10
+9. Implementation Date and Transition Period 10
+10. Related Documentation or References 10
+11. Revision and Approval History 10
+12. Document Details 11
+Denylist Appeals Policy | Cash App
+3
+
+Confidential
+Definitions
+Terminology Definition
+Appeal A review conducted at the request of a Customer to have a previously imposed
+Adverse Action reversed or rescinded.
+Adverse Action An action taken to limit a Customer’s access to, or ability to transact on, Cash
+App following a determination that the Customer has engaged in Prohibited
+Activity.
+Business Day All days of the week except Saturdays, Sundays, and federal holidays.
+Customer Refers to any individual, entity, or organization that has engaged in a
+transaction, purchased goods or services, or interacted with Cash App in a
+manner that establishes a direct relationship or affiliation. This also
+encompasses individuals who may not have directly interacted with Cash App
+products or services but inform of grievances on behalf of another with a
+direct relationship.
+Denylisting The process by which Cash App accounts are restricted and prevented from
+continued use, with the exception of liquidating assets and withdrawing funds
+after a determination or suspicion of involvement in prohibited, fraudulent or
+illegal activity on Cash App.
+Dispute The act of alleging an error regarding a transaction. In many scenarios, the
+process for reviewing disputes is governed by regulatory requirements.
+Identity Verification The process of verifying a Customer's identity, which may be triggered by a
+(“IDV”) number of actions including but not limited to ordering a Cash Card, exceeding
+peer-to-peer sending and receiving limits, buying bitcoin or enabling bitcoin
+withdrawals and deposits, signing up for a Cash Card Investing account, and
+sending from a stored balance. This occurs via our eIDV, or electronic Identity
+Verification via third party vendor(s), or dIDV processes, where the customer
+manually uploads images of their government issued Identification Document.
+Intake of Appeal Intake of a Denylist Appeal review begins upon the Block’s recording of a
+review Denylist Appeal Review being requested by the Customer.
+Legitimate Customer Uses their Cash App for legitimate activity that is not a violation of the Cash
+App Terms of Service or for a Prohibited Activity.
+Prohibited Activity Activity conducted by a Customer that is a violation of the Cash App Terms of
+Service, violation of internal policies, or that is otherwise prohibited by law
+Denylist Appeals Policy | Cash App
+4
+
+Confidential
+such as: sending payments for terrorist financing, child exploitation, elder
+financial exploitation, etc.
+Resolution of Appeal Communication of the Appeals review outcome being sent to the Customer.
+review
+Service Level The maximum allotted time for intake to resolution of an Adverse Action
+Agreement (“SLA”) Appeals review. SLAs are measured in business days unless otherwise
+determined by a third party. Denylist Appeals reviews are conducted within a
+ten (10) Business Day SLA.
+Sponsor Account A parent or guardian who holds a Cash App account and provides authorization
+and sponsorship of a Cash App account for an individual age 13-17 for which
+they are a parent or guardian.
+Sponsored Account Accounts operated by individuals between the age of 13-17 years old that
+require authorization and sponsorship from their parent or guardian through a
+Sponsor Account.
+Unfair, Deceptive or The standard of fairness pursuant to the Dodd-Frank Act that protects
+Abusive Acts or Customers from unfair, deceptive, or abusive acts or practices that can cause
+Practices (“UDAAP”) significant financial injury to Customers, erode Customer confidence, and
+undermine the financial marketplace.
+Roles and Responsibilities
+Role Responsibility
+Compliance Reviews the Customer's request for an Adverse Actions Appeals review
+Operations Appeals relating to a compliance denylist, including the Customer's narrative as well as
+Customer transactional behavior and profile to determine if a revocation of the
+denylist action is warranted
+Head of Consumer As the owner of this Policy, the Head of Consumer Protection or their designee
+Protection is responsible for:
+● Developing the Policy to meet regulatory expectations,
+● Ensuring regulatory requirements are included in documentation,
+● Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners,
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy, and
+Denylist Appeals Policy | Cash App
+5
+
+Confidential
+● Delegating and overseeing documentation requirements, as needed.
+Legal Counsel Provides interpretative advice and counsel regarding the applicability and
+application of the requirements of this Policy to Cash App’s business and
+operational activities.
+Risk Machine Maintains and supports models that apply Adverse Actions based on
+Learning Customer transactional behavior and high risk behaviors.
+Risk Operations Reviews the Customer’s request for an Adverse Actions Appeals review
+Appeals including the Customer’s narrative as well as Customer transactional behavior
+and profile to determine if a revocation of the denylist action is warranted.
+Staff Members Responsible for:
+● Understanding and complying with applicable laws and regulations for
+this Policy;
+● Completing any required compliance training in a timely manner; and
+● Promptly reporting actual or suspected violations of this Policy.
+Denylist Appeals Policy | Cash App
+6
+
+Confidential
+1. Introduction
+This Policy explains how Cash App supports Customer appeals when their accounts are denylisted
+(blocked), except where prohibited by law. The process ensures compliance with consumer protection laws
+(UDAAP) under the Dodd-Frank Act while maintaining Cash App's commitment to trust. The Head of
+Consumer Protection owns this Policy.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. Its commitment to the
+prevention of UDAAP-related violations requires transparency, truthfulness, suitability, and fairness in
+dealings with all Customers. Cash App executes on this commitment to maintain a safe and trusted platform
+which results in Cash App taking Adverse Action, including Denylisting or applying certain limits on a
+Customer and their Cash App account(s) when there is a suspected or confirmed violation of Cash App’s
+Terms of Service, internal policies, or the Customer is engaging Prohibited Activities. The purpose of this
+Policy is to provide the principles and framework that governs how Cash App operates as it pertains to
+Customer Appeals related to Denylisting. Compliance with this Policy and the associated laws and
+regulations is to be achieved through the implementation of risk-based compliance and risk procedures. This
+Policy is intended to be supplemented by additional documentation, as necessary.
+3. Scope
+This Policy is established by Cash App, U.S., a Line of Business under Block, Inc. and is applicable to
+Denylisting, a specific type of Adverse Action except where prohibited by law, taken on a Cash App Customer
+and their account(s).
+4. Policy Requirements
+4.1 Denylisting Appeals
+Cash App aims to execute Denylisting, a specific type of Adverse Action, except where prohibited by law, on
+a Customer and their Cash App account(s) in a targeted and accurate manner to protect Customers and Cash
+Denylist Appeals Policy | Cash App
+7
+
+Confidential
+App from Prohibited Activity . Cash App maintains an Appeals process specifically for Denylisting actions to
+ensure Legitimate Customers have an avenue to request review. Cash App adheres to a ten (10) Business
+Day SLA for Appeals reviews, with intake beginning upon Block's recording of an Appeal Review being
+requested by the customer and ending with the communication of the Appeals review outcome being sent to
+the Customer.
+4.2 Eligible Denylist Appeals
+The Cash App Denylist Appeals program is designed to establish a consistent, fair and transparent process
+for handling a Denylist Appeals review resulting from a Denylisting, a specific type of Adverse Action taken
+on a Customer and their account(s). There may be circumstances where both Risk and Compliance have
+denylisted a Customer and their account(s); in these instances, Risk or Compliance Appeals operations
+teams will review the Customer’s account, including connected user accounts and related denylist reasons,
+when making a decision to overturn or uphold the denylist.Where Cash App determines the Customer’s
+activity to be legitimate through the review, Cash App will reinstate any eligible account or assets that had
+been previously denylisted.
+4.3 Sponsored Accounts
+In order to prevent any potential UDAAP violations, Customers with Sponsored Accounts that are requesting
+a Denylist Appeals review will be eligible to request such a review and this review from intake to resolution
+will occur within the ten (10) Business Day SLA.
+4.4 Re-review of Dispute Claims Policy
+Cash App customers who have a successful Denylist Appeal which results in their Cash App account being
+reinstated but had a Dispute denied while the account was denylisted are eligible for a re-review of their
+Dispute(s) made during the time period the account was denylisted. The Dispute re-review will occur within
+45 calendar days of the account reinstatement date and is conducted by the Dispute Operations team.
+4.5 Monitoring and Oversight
+This Policy requires the use of a Quality Control (“QC”) program to ensure adherence to this Denylist Appeals
+Policy and associated procedures. Essential functions of QC include creating a feedback loop for the
+Denylist Appeals Policy | Cash App
+8
+
+Confidential
+Appeals team to continuously identify opportunities for improvement, evaluate for adherence to SLAs, and
+assess potential operational gaps to remediate deficiencies.
+The Policy also requires the establishment of reporting to enable management to effectively identify,
+monitor, and appropriately manage risk associated with Denylist Appeals in a timely manner.
+Additionally, reporting on Denylist Appeals reviews should include visibility into programmatic and individual
+specialists’ performance, as well as status of the key performance indicators (“KPIs”).
+4.6 Internal Policies, Procedures, and Controls
+The Policy requires the creation and ongoing maintenance of associated procedures, controls, reporting, and
+systems reasonably designed to ensure compliance with the Policy by conducting appropriate, consistent
+and timely reviews of Denylist Appeals requests made by Customers.
+5. Document Managemen t
+5.1 Document Owner
+This document is owned by the Head of Consumer Protection or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix .
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively.
+7. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws, regulations or other
+Denylist Appeals Policy | Cash App
+9
+
+Confidential
+requirements. Policy exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated with the
+exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Policy Governance Team
+at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and applicable
+committees, as needed, of exceptions.
+8. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+9. Implementation Date and Transition Period
+Cash App and all applicable subsidiaries are expected to be in full compliance with requirements of this
+document no later than six (6) months after the approval date of this document.
+10. Related Documentation or References
+Related Documents:
+Related Policy Risk and Compliance Adverse Actions Policy
+Related Procedure Compliance Denylist Appeals Procedure
+Related Procedure Risk Denylist Appeals Procedure
+Related References:
+Regulation Name The Dodd-Frank Act
+Regulation Name The Federal Trade Commission Act
+11. Revision and Approval History
+Stakeholder Review Tracking
+Denylist Appeals Policy | Cash App
+10
+
+Confidential
+Approver Team Represented Stakeholder Status Date
+Michael Carrah Counsel Reviewed/Approv… 5/21/25
+Approval History
+Approver Title Type Description Date
+Lee Buchmann Consumer Creation Apr 14, 2025
+Protection
+Compliance
+Program Lead
+Brian Kollmeyer Head of Initial Appro… Initial Approval May 6, 2025
+Consumer
+Protection
+Adrian Gardner Customer Reviewed/A… Initial Approval Apr 24, 2025
+Onboarding and
+Appeals Lead
+Anisha Sakariy… Risk Operations Reviewed/A… Initial Approval Apr 22, 2025
+Compliance Policy Compliance Policy Initial Appro… Approval Jun 6, 2025
+Committee Committee
+Brian Kollmeyer Consumer Immaterial C… Non-material Aug 14, 2025
+Protection changes made to
+Compliance document the ten
+Program Lead (10) business day
+SLA and to
+document the
+intake and
+resolution for the
+appeals review.
+12. Document Details
+Business Cash App
+Scope Regional [US]
+Denylist Appeals Policy | Cash App
+11
+
+Confidential
+Compliance Domain Consumer Protection
+Document Owner Head of Consumer Protection
+Last Approval Date August 14, 2025
+Effective Date August 14, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+Denylist Appeals Policy | Cash App
+12

@@ -1,0 +1,131 @@
+Business Activity Monitoring Policy
+Block, Inc. | Cash App
+Last Approved: Aug 12, 2025
+Effective Date: Aug 12, 2025
+1. Overview
+Introduction and Purpose: The Business Activity Monitoring Policy (“Policyˮ) defines Cash App's
+approach to identifying business activity conducted in Personal Accounts, along with
+corresponding action taken. This Policy is critical to ensuring our customers are using the correct
+account type based on their intended use of Cash App. The Cash App Product team is responsible
+for complying with this Policy.
+Scope: This Policy is established by Cash App and is applicable to all Block entities used for the
+Cash App business. Cash App facilitates peer-to-peer ("P2P") payments, enabling customers to
+send fiat currency from one account to another. Payments can be funded by the customerʼs Cash
+App balance or linked instruments, such as debit or credit cards. Cash App accounts can generally
+be used for either personal or business use. To remain compliant with this Policy, customers must
+use the appropriate account type based on the nature of their transactions. This is critical to
+ensuring we are able to continuously and effectively monitor customer accounts and transactions,
+understand our relationship with our customers, and ensure we are able to maintain compliance
+with relevant tax reporting obligations. Personal accounts are for personal, non-commercial use,
+while payments for goods and services require a C4B account.
+Definitions:
+Terminology Definition
+Business BAM is a process designed to monitor, detect, and if necessary action
+Activity personal accounts operating as a Business.
+Monitoring
+(“BAMˮ)
+BAM Team Employee(s), which includes Engineering, Product, Compliance, Legal,
+Design, and Risk Machine Learning, who support the BAM program.
+
+Business A Business is generally defined as an individual or entity accepting payments
+for goods and services.
+Cash App for A C4B account is designed to support certain types of businesses providing
+Business goods or services to their consumers. In order to open a C4B account, users
+(“C4Bˮ) are required to provide certain information about the business in order to
+Account verify the identity of the business.
+Personal A Personal Account is designed to allow Cash App customers to send or
+Account receive funds for personal, non-commercial purposes.
+2. Policy Requirements
+2.1. Cash for Business Accounts
+Generally, a Business can be defined as an individual or entity providing a good or service to
+consumers in exchange for money. On Cash App, if a customer uses their account for selling
+goods or services, they must create a C4B account. In order to open a C4B account, a user is
+required to provide certain information about themselves and their Business in order to verify and
+open the account.
+To mitigate the risk of customers using their personal account for business activity, Cash App has
+established a Business Activity Monitoring (“BAMˮ) system.
+2.2. BAM System
+The BAM system is a coordinated effort across Product, Engineering, Design, Risk and Compliance
+designed to monitor, detect, and if necessary, take action on personal accounts primarily being
+used for business purposes. This approach may leverage a combination of machine learning
+models, heuristics, and/or other data intelligence to identify suspected business operating
+personal accounts and take action commensurate with the level of confidence in the underlying
+accountʼs activity. The outcome of these detections may result in directing potentially
+non-compliant personal accounts toward C4B onboarding, provided their business activities are
+legally permissible and do not fall within Section “4. Unsupported Industries" of the Cash For
+Business Payment Terms.
+2.3. Implementation Date and Transition Period
+To enforce this policy, Cash App has developed a risk-based Business Account Migration BAM
+system with the requirements outlined in this Policy effective September 2025.
+
+All Block entities used for the Cash App Business are expected to be in full compliance with
+requirements of this document no later than six 6 months after the approval date of this
+document.
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+● Product Counsel
+○ Product Counsel provides legal advice to Product teams building, designing and
+implementing BAM. Additionally, Product Counsel provides interpretative advice
+and counsel regarding the applicability and application of the requirements of this
+Policy to Cash Appʼs business.
+● Business Product Compliance
+○ Business Product Compliance provides Compliance advisory support to enable
+BAM, inclusive of potential regulatory, operational, and/or consumer protection
+implications. Business Product Compliance owns the Policy and ensures
+adherence.
+● Product Manager
+○ The Product Manager is responsible for ensuring Cash Appʼs BAM process is
+designed and implemented to abide by the Policy described within.
+3.2. Monitoring and Reporting
+On an ad hoc basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+3.3. Training
+While no explicit training is required to relevant BAM personnel for the implementation of this
+system, outside of their usual business training considerations, Product Compliance will provide an
+annual notification to the BAM Team to review the Business Activity System Policy and verify the
+BAM System is adhering to the Policy.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+Blockʼs Data Classification & Handling Policy
+Applicable regulatory requirements
+
+3.5. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+3.6. Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Definition of Business Activity
+● Business Activity Risk Program Overview Doc
+● Cash App | Know Your Business Standard
+● Cash App | Know Your Customer Standard
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ronnie Was… BAM Product Initial Appro… Document May 7, 2025
+Manager Creation
+
+Megan Gon… Head of Financial Initial Appro… Initial Approval Jun 23, 2025
+Crimes
+Jason Liber… Head of Product Initial Appro… Initial Approval Jun 20, 2025
+Compliance
+Compliance Compliance Policy Initial Appro… Initial Approval Aug 12, 2025
+Policy Committee
+Committee
+Document Details:
+Business Block
+Scope Regional - US
+Compliance Domain Governance
+Document Owner Head of Business Product Compliance & Partnerships
+Approved By Compliance Policy Committee
+Document Tier Tier 2

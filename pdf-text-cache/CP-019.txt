@@ -1,0 +1,247 @@
+Lending Identity Theft Prevention/Red Flags
+Standard
+Cash App, US Consumer Lending
+Last Approved: October 30, 2025
+Effective Date: October 30, 2025
+1. Overview
+Introduction and Purpose: This Lending Identity Theft Prevention/Red Flags Standard (the
+“Standardˮ) describes the principles, practices, and guidelines for the management and oversight
+of identity theft compliance risk for Cash Appʼs US Consumer Lending products (“Consumer
+Lendingˮ).
+This Standard is designed to ensure that elements of an effective Identity Theft Prevention
+Program (“Programˮ) are met, and that the Program is appropriate for the size and complexity of
+Cash App and the nature and scope of the Consumer Lending activities.
+Scope: This Standard applies to all consumer-purpose Credit Products offered by Cash App.
+Definitions:
+Terminology Definition
+Account A continuing relationship established by a person with a financial institution
+or creditor to obtain a product or service for personal, family, household or
+business purposes.
+Board of In the case of a branch or agency of a foreign bank, the managing official in
+Directors charge of the branch or agency; and in the case of any other creditor that
+does not have a board of directors, a designated employee at the level of
+senior management.
+Covered An account that a financial institution or creditor offers or maintains, primarily
+Account for personal, family, or household purposes, that involves or is designed to
+permit multiple payments or transactions, such as a credit card account,
+mortgage loan, automobile loan, general consumer loan, margin account, cell
+1
+
+phone account, utility account, checking account, or savings account; and
+any other account that the financial institution or creditor offers or maintains
+for which there is a reasonably foreseeable risk to customers or to the safety
+and soundness of the financial institution or creditor from identity theft,
+including financial, operational, compliance, reputation, or litigation risks.
+Credit Products Cash App-branded consumer loan products for personal, family, or
+household purposes (including, but not limited to, Cash App Borrow, Cash
+App Afterpay Pay Over Time, Afterpay on Cash Card, Afterpay Pay-in-4,
+Afterpay Pay Monthly).
+Customer A person that has a covered account with a financial institution or creditor.
+Identity Theft Fraud committed or attempted fraud using one or more pieces of identifying
+information of another person without authority. Identifying information
+means any name or number that may be used, alone or in conjunction with
+any other information, to identify a specific person, including, but not limited
+to, any name, social security number, or date of birth.
+Red Flag A pattern, practice, or specific activity that indicates the possible existence
+of identity theft.
+Service Provider The entity or business that provides a service directly to the financial
+institution or creditor.
+2. Cash App Requirements
+2.1. Identity Theft Prevention Program Administration
+In order to mitigate Identity Theft, Cash App will establish a Program that 1 receives initial approval
+from either the Board of Directors, or an appropriate governing committee; 2 involves a designated
+employee in the oversight, development, implementation and administration of the Program; 3
+trains employees, as necessary, to effectively implement the Program; and 4 ensures appropriate
+and effective oversight of Service Providers. Cash App must also periodically conduct a risk
+assessment to determine whether it offers or maintains Covered Accounts that would be subject to
+the Programʼs oversight.
+An adequate Program ensures that relevant Identity Theft Red Flags are detected, appropriately
+responded to, and periodic reviews are conducted such that changing risks and/or market conditions
+are appropriately accounted for.
+2
+
+2.2. Identification of Red Flags
+Where applicable, Cash App has opted to include the five categories noted below that the Federal
+Trade Commission (“FTCˮ) has identified as part of its efforts to identify relevant Identity Theft Red
+Flags and mitigate Identity Theft of its Consumer Lending Customers:
+● Alerts, notifications, or warnings from a Credit Reporting Agency (“CRAˮ), which includes
+fraud or credit alerts, credit freezes, address discrepancies, and/or pattern of activity
+inconsistent with the history and usual Account activity of the Customer
+● Suspicious documents, such as altered or forged documents or identification;
+● Suspicious personal identifying information, such as a social security number provided in
+an application that matches the social security number of other applicants or Customers;
+● Suspicious Account activity; or
+● Notices from Customers, victims of Identity Theft, law enforcement authorities, or other
+persons regarding possible Identity Theft in connection with Accounts held by Cash App.
+2.3. Detection of Red Flags
+For the Consumer Lending products, Cash App will address the detection of Red Flags in connection
+with the opening of new Accounts and existing Accounts by:
+● Obtaining identifying information about, and verifying the identity of, a person opening an
+Account; and,
+● Authenticating Customers, monitoring transactions, and verifying the validity of change of
+address requests, in the case of existing Accounts.
+2.4. Mitigation of Identity Theft
+Cash App is to provide responses to Red Flags detected that are commensurate with the degree of
+risk posed for the Consumer Lending products. In determining an appropriate response, Cash App is
+to consider factors that may heighten the risk of Identity Theft, such as a data security incident, or
+notice that a Customer has provided verified fraudulent information. Cash App may incorporate, as
+appropriate, its existing policies, procedures, and other arrangements that reasonably control
+foreseeable risks to Customers or to the safety and soundness of Cash App from Identity Theft.
+Appropriate responses may include:
+● Monitoring an Account for evidence of Identity Theft;
+● Contacting the Customer;
+3
+
+● Not allowing a new Account to be opened;
+● Changing any passwords, security codes, or other security devices that permit access to a
+Covered Account;
+● Closing an existing Account;
+● Filing a Questionable or Suspicious Activity Report in accordance with applicable law and
+regulation; or,
+● Determining that no response is warranted under the particular circumstance.
+2.5. Alerts, Notifications, or Warnings from a Consumer Reporting Agency
+For instances where Cash App uses Consumer Reports to establish its Covered Accounts, it will
+consider applicable alerts, notifications, and warnings that may indicate Identity Theft, such as a
+fraud alerts or active duty alerts.
+2.6. Potentially Suspicious Activity & Documentation
+Cash App considers indicators of suspicious documents provided by potential lending Customers.
+Indicators of suspicious documentation may include, but are not limited to:
+● Potentially altered or forged documents;
+● Inconsistent photographs or physical descriptions;
+● Inconsistent information related to financial institutions or creditors;
+● Suspicious personal identifying information; or,
+● Other information that is inconsistent with previously provided information.
+Cash App also considers indicators of suspicious activity related to lending Customers. Suspicious
+activity may include:
+● A new Covered Account being used in a manner commonly associated with known
+patterns of fraud; or,
+● A Covered Account being used in a manner that is not consistent with established patterns
+of activity on the Account. For example:
+○ Nonpayment when there is no history of late or missed payments;
+○ A material increase in the use of available credit; or
+○ A material change in purchasing or spending patterns.
+● A Covered Account that has been inactive for a reasonably lengthy period of time being
+used; or,
+4
+
+● Cash App is notified of unauthorized activity, or transactions in connection with a
+Customer's Covered Account.
+Cash App intends to maintain compliance with all applicable Red Flag guidelines for its Lending
+products, including the alerts identified above, by adopting and maintaining procedures to ensure
+compliance. Cash App will:
+● Provide a copy of the application and any transaction records available, free of charge,
+upon receipt of a written claim of Identity Theft that resulted in fraudulent transactions,
+provided Cash App can confirm the victimʼs allegation(s) are true after the Identity Theft
+victim:
+○ Provides proof of positive identification in the form of a government-issued
+identification card; and
+○ Provides proof of the Identity Theft claim in the form of an Identity Theft affidavit
+and a copy of a police report; and
+● Not sell, transfer, or place in collection a debt that has resulted from Identity Theft.
+○ In instances where Cash App engages a third-party debt collector in order to
+perform collection activities on Consumers who are victims of Identity Theft, in its
+own name, on behalf of Cash App, Cash App must ensure that the third-party debt
+collector notifies Consumers that the information may be fraudulent or the result of
+Identity Theft.
+2.7. Account Takeover (“ATOˮ)
+Account takeover occurs when an unauthorized person has gained access to the Customerʼs
+Account, allowing the unauthorized person to make unauthorized transactions from their own
+device. This means that any activity initiated by the unauthorized personʼs device will be reflected on
+the Customer's Account and device. An example of unauthorized activity is applying for a loan from
+someone else's account with no intention of repaying it. When a Customer alleges ATO, Cash App
+will take the necessary steps to 1 correctly identify the ATO victim; 2 identify any unauthorized
+transactions; and 3 take the necessary precautions to ensure that the fraudulent activity does not
+continue.
+5
+
+3. Compliance & Enforcement
+3.1. Roles and Responsibilities:
+Block, Inc. Roles:
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of this Standard and is responsible for
+reviewing and approving this Standard annually to ensure alignment with regulatory
+requirements and expectations
+○ Providing guidance on significant policy matters related to this Standard
+● Block Inc, Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Standard across the
+organization
+○ Establishes appropriate practices designed to ensure Company operations reflect
+Block's commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this the requirements detailed in this
+Standard
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Standard
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates annual reviews and updates
+○ Manages the process related to any exceptions
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Standard
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+○ Maintain awareness of updates and changes to requirements
+3.2. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+6
+
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3.3. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement the Standard requirements. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+3.4. Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5. Exceptions
+The Standard Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance Leadership
+and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Standard, please contact the Standard Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an ad
+hoc basis in accordance with the Compliance Document Approval Matrix.
+7
+
+Approval History:
+Approver Title Type Description Date
+Amanda Chr… Regulatory Initial Appro… Attestation to Oct 29, 2025
+Counsel Document
+Contents
+Compliance Compliance Initial Appro… Approval of Oct 30, 2025
+Policy Policy Committee up-leveled Block,
+Committee Inc. Document to
+include coverage
+for Block, Inc. and
+applicable
+brands.
+Document Details:
+Business Cash App - Consumer Lending products only
+Scope US
+Compliance Domain Consumer Protection
+Document Owner Business Product Compliance Lead, Lending & Credit
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+8

@@ -1,0 +1,3072 @@
+Anti-Money Laundering & Counter-Terrorism
+Financing Program
+Square | Square AU Pty Ltd
+Last Approved: Mar 30, 2026
+Effective Date: Mar 30, 2026
+2069011825
+
+Revision and approval history
+Ver Approver Type Description Date
+Senior Creation Initial Creation of document August 21, 2015
+Managemen
+t
+The Board Initial Approval September 15,
+2015
+The Board Material Written resolution to appoint a new July 6, 2016
+Change
+AML/CTF Compliance Officer.
+Approval
+Square Material Updated for risk assessment, new August 2017
+Australia Change Customer types, and list of
+AML/CTF Approval products and services.
+Compliance
+Officer
+The Board Material August 30, 2017
+Change
+Approval
+Square Material Updated for AML/CTF risk November, 2018
+Australia Change awareness
+AML/CTF Approval
+training, employee due diligence,
+Compliance
+Officer AUSTRAC guidance, regular
+independent review, list of products
+The Board Material December 6, 2018
+and services, and external
+Change
+providers.
+Approval
+Square Material Updated AML/CTF risk assessment, May 2020
+Australia Change
+employee due diligence, regular
+Approval
+AML/CTF
+independent review, verification
+Compliance methods, and Beneficial Owners.
+Officer Added sections on sanctions, new
+Customer types, and roles and
+The Board Material June 17, 2020
+responsibilities.
+Change
+Approval
+Square Scheduled Updated risk assessment, November 1, 2021
+Australia Review designated services, contractor
+obligations, organisational
+AML/CTF
+structure, roles and responsibilities,
+Compliance employee due diligence
+requirements, and Square Inc to
+Officer
+Block Inc.
+The Board Material December 9, 2021
+Added information on business loan
+Change
+products.
+Approval
+
+Ver Approver Type Description Date
+Square Immaterial Updating Employee Due Diligence
+Australia Change
+Program Requirements
+Approval
+AML/CTF
+Compliance
+Officer
+The Board Material June 23, 2022
+Change
+Approval
+Square Scheduled Update risk assessment ratings, May 1, 2023
+Australia Review Update agency workers audit
+requirements, Updated
+AML/CTF
+Organisational Structure, Removed
+Compliance Sanction Country List to be more
+flexible with changes in the
+Officer
+Sanctions Regime.
+The Board Immaterial December 8, 2022
+Change
+Approval
+Square Scheduled Migrated document to new template March 6, 2023
+Australia Review and updated External Service
+Providers section.
+AML/CTF
+Compliance
+Officer
+Square AU Scheduled Merged Customer November 21, 2023
+Review Identification and Verification
+Compliance
+Program into Part B
+Program
+Manager
+The Board Scheduled Update the AML CTF risk December 13, 2023
+Review assessment results.
+● Migrated document to
+Square AU Scheduled November 18, 2024
+new template,
+Review
+Compliance
+● Added in Risk-based
+Program Approach,
+Manager ● Minor update to
+Employee Due
+Diligence section
+
+Ver Approver Type Description Date
+following updated EDD
+Square AU Scheduled November 18, 2024
+Program
+Review
+Compliance
+Program
+Manager
+Square AU Scheduled December 12, 2024
+Review
+Compliance
+Program
+Manager
+Square AU Scheduled Redrafted the program to AML/CTF March 30, 2026
+Review Policies to comply with updated
+AML/CTF
+AML/CTF Laws.
+Compliance
+Officer
+The Square Material
+AU Board Change
+and the Approval
+Senior
+Manager
+Questions
+Any questions arising from these AML/CTF Policies, please contact the AML/CTF Compliance Officer
+or a Senior Manager.
+
+Part A
+Overview of the Square AU AML/CTF Program
+1. Overview of the AML/CTF Program
+1.1 About Square AU
+Square AU Pty Ltd ACN 167 106 176 (Square AU, we, or us) is a Reporting Entity enrolled on the
+Reporting Entity Roll, and to be registered on the Remittance Sector Register managed by the
+Australian Transaction Reports and Analysis Centre (AUSTRAC) for the purposes of AML/CTF Laws.
+Square AU is a wholly owned subsidiary of Block, Inc (Block). Square AU is the provider of a
+managed payments business and the issuer of business loans to Australian Customers. This
+document is the AML/CTF Policies for Square AU and applies to all areas of Square AUʼs business
+relating to the provision of the Designated Services.
+We recognise that there is a risk that our services may be used to facilitate money laundering,
+terrorism and proliferation financing. The Square AU ML/TF Risk Assessment is summarised in
+Schedule 1.
+By having procedures to more effectively identify the Customers of our Designated Services, and
+policies to manage and mitigate ML/TF/PF risk, we provide both a deterrent to persons considering
+the misuse of our services but also generate records that provide an audit trail that may be relied
+upon by law enforcement agencies entitled to access the information.
+Square AU acknowledges that from 31 March 2026, Reporting Entities must demonstrate compliance
+with the updated CDD, SCDD, ECDD, sanctions, outsourcing and proliferation finance prevention
+requirements introduced under the AML/CTF Acts and associated AML/CTF Rules. This AML/CTF
+Program incorporates those expanded obligations.
+1.2 Square AU AML/CTF Program
+The Square AU AML/CTF Program comprises:
+● the ML/TF Risk Assessment of Square AU,1 as summarised in Schedule 1; and
+● these AML/CTF Policies. These AML/CTF Policies have been designed to:
+o appropriately manage and mitigate the risks of ML/TF/PF that Square AU may
+reasonably face in providing its Designated Services. Each Designated Service
+that Square AU provides (or may provide) to Customers are set out in Schedule
+2;2
+o ensure that Square AU complies with the obligations imposed by the AML/CTF
+Laws;3 and
+o be appropriate to the nature, size and complexity of the Square AU business.4
+1 AML/CTF Act, ss 26C – 26E.
+2 AML/CTF Act, s 26F(1)(a).
+3 AML/CTF Act, s 26F(1)(b).
+4 AML/CTF Act, s 26F(1)(c). AML/CTF Act, s 26F(1)(d) also requires the Reporting Entity to develop and maintain AML/CTF Policies that deal
+with certain matters in respect of transfer of value. The Designated Services we provide do not trigger this obligation.
+1
+
+Square AU must comply with these AML/CTF Policies.5
+1.3 Application of these AML/CTF Policies
+The previous version of the Square AU AML/CTF Program was formally approved and adopted by the
+Governing Body (i.e. the board of directors of Square AU on 11 December 2024. This version is
+approved and adopted by the Governing Body and a Senior Manager on 30 March 2026.
+The full amendment and approval history of these AML/CTF Policies can be found at the beginning of
+this document. Square AU keeps a record of these approvals.
+The Designated Services provided by Square AU are listed in Schedule 2.
+1.4 Enrolment and registration with AUSTRAC
+Square AU is required to enrol with AUSTRAC no later than 28 days after commencing to provide a
+Designated Service as a Reporting Entity.6 Square AU will be registered with AUSTRAC as described
+in section 31.
+As a Reporting Entity enrolled with AUSTRAC, we will advise the AUSTRAC CEO of any changes to the
+enrolment details which were provided to AUSTRAC when we are enrolled as a Reporting Entity.7 This
+includes information about our Designated Services,8 and information relating to us.9 It also includes
+updating our annual earnings where earnings of $100 million or more occur.10
+As an independent remittance provider registered with AUSTRAC, we will advise the AUSTRAC CEO
+of any change in circumstances that could materially affect our registration,11 and changes12 to our
+registrable details, changes to criminal or civil proceedings relating to us or our key personnel,
+changes to information regarding other person assisting, changes to foreign country registrations or
+licences, us ceasing to provide registrable services, changes to the details of Beneficiary Owners,
+and changes to persons located in foreign countries.13
+The AML/CTF Compliance Officer will ensure that the AUSTRAC CEO is notified of any changes to the
+above enrolment or registration details within 14 days of the change occurring.14
+2. Updates to the AML/CTF Program
+2.1 Updates to the ML/TF Risk Assessment
+The ML/TF Risk Assessment will be kept under review and updated from time to time as described in
+Part C of these AML/CTF Policies.
+Updates to the ML/TF Risk Assessment:
+● may be made with the approval of a Senior Manager with authority to do so. Senior
+Managers with such authority are specified in Schedule 3; 15
+● must be notified, in writing, to the Governing Body of Square AU as soon as practicable
+after the update is made; and16
+● will result in a review and update of these AML/CTF Policies where required in
+accordance with section 2.3.17
+5 AML/CTF Act, ss 26G(1).
+6 AML/CTF Act section 51B.
+7 AML/CTF Act, s 51F.
+8 AML/CTF Rules, r 3-9(1) which specifies information in r 3-2.
+9 AML/CTF Rules, r 3-9(1) which specifies information in r 3-3.
+10 AML/CTF Rules, r 3-9(2) which specifies information in r 3-4(2).
+11 AML/CTF Act, s 75M(1)(d).
+12 AML/CTF Act, s 75M(1)(e).
+13 AML/CTF Rules, r 4-34.
+14 AML/CTF Act, ss 51F(2)(a) and 75M(4)(a).
+15 AML/CTF Act, s 26P(1)
+16 AML/CTF Act, s 26P(2)
+17 AML/CTF Act, s 26F(3)(c)(i).
+2
+
+2.2 Updates to AML/CTF Policies
+These AML/CTF Policies will be kept under review and updated from time to time including:
+● as a result of any need identified as part of the AML/CTF Compliance Officerʼs review as
+described in section 2.3;
+● in response to AUSTRAC feedback and guidance as described in section 3;
+● following an independent evaluation as described in section 4; and
+● in response to a review of the ML/TF Risk Assessment as described in section 9.
+Changes to the AML/CTF Policies must be approved by a Senior Manager with authority to do so.
+Senior Managers with such authority are specified in Schedule 3. 18
+2.3 AML/CTF Compliance Officer review
+The AML/CTF Compliance Officer will ensure that a review of the AML/CTF Policies is conducted at
+least annually.19 This review will cover:
+● our compliance with these AML/CTF Policies;
+● the extent to which our AML/CTF Policies are appropriately managing and mitigating the
+ML/TF/PF risk that we may reasonably face in providing our designated services; and
+● our compliance with the AML/CTF Laws.20
+Following this review, the AML/CTF Compliance Officer must report to the Governing Body on the
+findings of this review in accordance with section 5.3.
+2.4 Documenting updates to the AML/CTF Program
+If we update the AML/CTF Program (including these AML/CTF Policies or the ML/TF Risk
+Assessment), we must document the AML/CTF Program (as updated) within 14 days after the update
+occurs.21
+2.5 Role of supporting systems and processes
+These AML/CTF Policies will be supported by internal procedures, systems and controls to ensure
+that Square AU implements its obligations consistently with these AML/CTF Policies. These
+supporting arrangements include but are not limited to:
+● Square AUʼs Activation Customer Risk Rating (aCRR) and Continuous Customer Risk
+Rating (cCRR) models
+● Block - Anti-Money laundering & Counter Financing of Terrorism Policy
+● Square AU - Anti-Money Laundering & Counter-Terrorism Risk Awareness Training
+Program
+● Square AU - Politically Exposed Person Watchlist Program
+● Square AU – Enhanced Customer Due Diligence Program
+● Square AU – Suspicious Matter Report Program
+● Square AU – Third Party Risk Management Policy
+The governance of changes to those supporting internal procedures, systems and controls will be
+documented in those materials.
+Provided that the supporting internal procedures, systems and controls operate consistently with
+these AML/CTF Policies, changes to those processes, systems and controls may not require the
+approval of a Senior Manager. For the avoidance of doubt, we will ensure that any material changes to
+our policies, procedures, systems and controls to manage the ML/TF Risk in our business will be
+approved by a Senior Manager and the Square AU AML/CTF Compliance Officer.
+18 AML/CTF Act, s 26P(1)
+19 AML/CTF Act, s 26F(3)(d).
+20 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5 – 7.
+21 AML/CTF Act, s 26N(1); AML/CTF Rules, r 5-15(2).
+3
+
+3. AUSTRAC feedback and guidance
+3.1 Incorporation of AUSTRAC feedback and guidance
+Our AML/CTF Policies have been developed and are updated taking into account:
+● any applicable guidance material publicly disseminated or published by AUSTRAC; and
+● any feedback we receive from AUSTRAC in respect of our own business or the industry
+we operate in,
+that is relevant to the identification, mitigation and management of ML/TF/PF risk arising from our
+provision of Designated Services. We do this by following the process set out below in section 3.2.
+3.2 Actioning AUSTRAC feedback and guidance
+Following receipt of direct AUSTRAC feedback (either written or oral) or becoming aware of
+applicable AUSTRAC guidance, a Senior Manager and/or the AML/CTF Compliance Officer (as
+appropriate) will consider the AUSTRAC feedback or guidance and any necessary action.
+Where it is appropriate to do so, the AML/CTF Compliance Officer may inform AUSTRAC of any action
+we have taken (or have decided to take), including but not limited to updating the AML/CTF Program,
+in relation to the AUSTRAC feedback or guidance, according to Square AUʼs Regulatory Change
+Management Program.
+4. Independent evaluations
+4.1 Frequency of independent evaluations
+We will conduct independent evaluations of the AML/CTF Program including both the ML/TF Risk
+Assessment and the AML/CTF Policies every 2 years (or more frequently if warranted by risk, material
+changes, or AUSTRAC feedback.22
+4.2 Conducting an independent evaluation
+As part of the conduct of an independent evaluation, we will ensure the independent evaluation
+involves:23
+(a) evaluation of the steps taken by the Reporting Entity when undertaking or reviewing the
+Reporting Entityʼs ML/TF risk assessment, against the requirements of the Act, the
+regulations and the AML/CTF Rules;
+(b) evaluation of the design of the Reporting Entityʼs AML/CTF policies, against the
+requirements of the Act, the regulations and the AML/CTF Rules;
+(c) testing and evaluation of the compliance of the Reporting Entity with the Reporting
+Entityʼs AML/CTF policies;
+(d) testing and evaluation of whether the Reporting Entity is appropriately identifying,
+assessing, managing and mitigating the risks of money laundering, financing of terrorism
+and proliferation financing that the Reporting Entity may reasonably face in providing its
+designated services;
+(e) production of a written report (an independent evaluation report) containing findings on
+the matters mentioned in paragraphs (a) to (d); and
+22 AML/CTF Act, s 26F(4)(f).
+23 AML/CTF Rules, r 5-10(2).
+4
+
+(f) delivery of the independent evaluation report to the Governing body of the Reporting
+Entity and to any Senior Manager responsible for approvals of the AML/CTF Program as
+described in section 6.3.
+4.3 Choosing appropriate third parties for independent evaluations
+Square AU will determine the suitability, independence, requisite knowledge and experience of any
+third-party firm being engaged to conduct independent evaluation and by considering whether they:
+● are able to form an appropriate understanding of Square AUʼs business including its
+products and services, and the ML/TF/PF risks associated;
+● are able to form an appropriate understanding of Square AUʼs AML/CTF obligations;
+● have not been involved in designing, implementing or maintaining of the AML/CTF
+Program, including the ML/TF Risk Assessment and AML/CTF Policies, or any related
+systems and controls;
+● have not been involved in undertaking any of the functions or measures being reviewed;
+and
+● have appropriate experience, seniority and authority, including relevant industry
+expertise.
+4.4 Response to independent evaluations
+We will respond to an independent evaluation report by considering whether it has any adverse
+findings in relation to our AML/CTF Policies.24
+If an independent evaluation report contains adverse findings in relation to our AML/CTF Policies we
+will:
+● as soon as practicable review the relevant AML/CTF Policies as set out in Section 9.2;25
+and
+● update any AML/CTF Policies as soon as practicable to address the adverse findings.26
+24 AML/CTF Rules, r 5-10.
+25 AML/CTF Rules, rr 5-1(2) and 5-4.
+26 AML/CTF Rules, r 5-4.
+5
+
+Part B
+Governance
+5. Governing body
+5.1 Responsibilities of Governing Bodies
+The Governing Body will exercise appropriate ongoing oversight of:
+● our identification and assessment of the risk for the purposes of our ML/TF Risk
+Assessment; and
+● our compliance with our AML/CTF Policies and the AML/CTF Laws.27
+The Governing Body will take reasonable steps to ensure that we are:
+● appropriately identifying, assessing, managing and mitigating the risks of ML/TF/ PF that
+that we may reasonably face in providing designated services; and
+● otherwise complying with these AML/CTF Policies and the AML/CTF Laws.28
+5.2 Governing Body remaining informed
+The Governing Body will keep informed through:
+● the ongoing reporting by the AML/CTF Compliance Officer, as described in section 5.3;
+● updates provided from Senior Managers, including as part of updating the Governing
+Body as part of updates to the ML/TF Risk Assessment described in section 9.3; and
+● ongoing training provided to the Governing Body, as described in section 29. Training for
+the Governing Body will be appropriately tailored for the roles and responsibilities of the
+Governing Body and will occur at least annually.
+5.3 AML/CTF Compliance Officer reporting to Governing Body
+The Governing Body will receive reports from the AML/CTF Compliance Officer in accordance with
+the following:29
+No. Frequency Content
+1. At least every 12 months The AML/CTF Compliance Officer will report to the Governing
+Body on the outcome of the annual review undertaken as
+described in section 2.3. The report to the Governing Body will
+cover:
+● our compliance with these AML/CTF Policies;
+● the extent to which our AML/CTF Policies are
+appropriately managing and mitigating the risks of
+ML/TF/PF that we may reasonably face in
+providing our designated services; and
+● our compliance with the AML/CTF Laws; and30
+● reviews of the AML/CTF framework including
+identification of, and progress in relation to,
+AML/CTF processes, systems and controls or
+27 AML/CTF Act, s 26H(1)(a).
+28 AML/CTF Act, s 26H(1)(b),
+29 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5 – 7.
+30 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5 – 7.
+6
+
+No. Frequency Content
+other aspects of AML/CTF compliance requiring
+uplift.
+2. Quarterly The AML/CTF Compliance Officer will provide periodic updates
+covering the following, to the extent relevant to the reporting
+period:
+● reports of, or the results from, independent
+reviews, internal reviews or compliance
+assessments, or other assessments as to our
+current state of compliance with the AML/CTF
+Laws;
+● AUSTRAC feedback, the management of
+AUSTRAC feedback and information provided to
+AUSTRAC (such as AML/CTF compliance reports
+or responses to notices) in accordance with
+section 3;
+● relevant business trends which may include
+operational metrics (for example, SMRs);
+● relevant regulatory changes, market
+developments or identification of new risk
+typologies;
+● identification of breaches of AML/CTF Laws in
+accordance with section 30 and how relevant
+incidents are being remediated and monitored;
+and
+● any other subject matter that the AML/CTF
+Compliance Officer considers appropriate to bring
+to the Governing Bodyʼs attention.
+3. Following an independent The AML/CTF Compliance Officer will report to the Governing
+evaluation Body on the outcome of an independent evaluation undertaken
+in accordance with section 4.2 in the quarterly report of the
+quarter in which the independent evaluation report is received.
+4. Ad hoc at the request of Any updates otherwise contemplated under rows 1, 2 or 3
+the AML/CTF Compliance above in this table outside the scheduled reporting periods as
+Officer, a Senior Manager identified by the AML/CTF Compliance Officer, a Senior
+or the Governing Body. Manager or the Governing Body as being necessary or
+appropriate in the circumstances.
+All reports from the AML/CTF Compliance Officer will be provided with sufficient detail to enable the
+Governing Body to engage with the information and enable the Governing Body to understand
+ML/TF/PF risks and existing or developing compliance considerations.
+7
+
+6. Senior Managers
+6.1 Overview of Senior Managers
+We have identified Senior Managers with responsibility for making approvals of certain matters.
+These Senior Managers have been identified as individuals who make, or participate in making,
+decisions that affect the whole, or a substantial part, of the business of Square AU.
+Square AU will have one or more Senior Managers designated to it. The roles and responsibilities of
+each Senior Manager may differ. The names of the Senior Managers, and their approval authorities,
+are set out in Schedule 3.
+6.2 Designation of Senior Managers for approving AML/CTF Program
+Our ML/TF Risk Assessment and AML/CTF Policies, including any updates to either, must be
+approved by a Senior Manager.
+Senior Managers will be responsible for approving:
+● the AML/CTF Policies (including any updates to these); and
+● the ML/TF Risk Assessment (including any updates to these),31
+are specified in Schedule 3.
+6.3 Ongoing matters requiring approval of Senior Manager
+The approval of a Senior Manager will be obtained before we do any of the following:
+● commence to provide a Designated Service to a Customer, we have established on
+reasonable grounds that the Customer, any Beneficial Owner of the Customer or any
+person on whose behalf the Customer is receiving the service is a Foreign PEP;
+● commence to provide a Designated Service to a Customer, if:
+o we have established on reasonable grounds that the Customer, any Beneficial
+Owner of the Customer or any person on whose behalf the Customer is
+receiving the service is a Domestic PEP; and
+o the ML/TF Customer Risk Rating of the Customer is high;
+● commence to provide a Designated Service to a Customer, if:
+o we have established on reasonable grounds that the Customer, any Beneficial
+Owner of the Customer or any person on whose behalf the Customer is
+receiving the service is an International Organisation PEP; and
+o the ML/TF Customer Risk Rating of the Customer is high;
+● continue a business relationship with a Customer if we have established on reasonable
+grounds that the Customer, any Beneficial Owner of the Customer or any person on
+whose behalf the Customer is receiving the Designated Service:
+o has become a Foreign PEP; or
+o has become a Domestic PEP, or an International Organisation PEP, in
+circumstances where the ML/TF Customer Risk Rating of the Customer is high;
+or
+● enter into an agreement or arrangement of the kind referred to in paragraph 37A1a of
+the AML/CTF Act as the first entity.32
+Senior Managers with authority to give this approval are specified in Schedule 3.
+31 AML/CTF Act, ss 26F(4)(c) and 26P(1).
+32 AML/CTF Act, s 26F(3)(e); AML/CTF Rules, r 5- 5. AML/CTF Act, s 37A(1)(a): This is where there is a reliance arrangement between 2
+reporting entities and the first reporting entity is seeking to rely on the CDD undertaken by the other entity. For the purposes of this section,
+a foreign PEP is taken to be a domestic PEP of (a) and (b) in Rule 5-5(2).
+8
+
+If we determine that a person was previously a PEP, we will treat then in accordance with the same
+controls as an ongoing Politically Exposed Person if we consider it appropriate to do so having regard
+to:
+● whether the person still has influence over public policy or expenditure decisions;
+● the time that has elapsed since the person was a Politically Exposed Person;
+● whether the person is still prominent and politically connected; and
+● any other information that suggests the person may still have a high ML/TF risk because
+of their former status as a PEP.33
+6.4 AML/CTF Training for Senior Manager(s)
+To ensure that our Senior Managers have the necessary knowledge and skills to carry out their
+approval functions, they will receive AML/CTF training as referred to in section 29.
+7. AML/CTF Compliance Officer
+7.1 Designation of AML/CTF Compliance Officer
+We must designate an AML/CTF Compliance Officer34 no later than 28 days after the day on which we
+commence to provide a designated service.35
+The AML/CTF Compliance Officer we appoint will be:
+● a person employed or otherwise engaged by Square AU at a management level;36
+● a person with sufficient authority, independence and access to resources and
+information to ensure the individual can perform the functions of an AML/CTF
+Compliance Officer effectively;37
+● a resident of Australia (if we provide designated services at or through a permanent
+establishment in Australia);38 and
+● a fit and proper person.39
+The AML/CTF Compliance Officer will be appointed by the Governing Body.
+7.2 Fit and proper requirement
+To determine if an individual is a fit and proper person to be an AML/CTF Compliance Officer we will
+have regard to:
+● whether the individual possesses the necessary competence, skills, knowledge,
+diligence, expertise and soundness of judgement to properly perform the duties of the
+AML/CTF Compliance Officer for Square AU (having regard to the nature, size and
+complexity of Square AU;
+● whether the individual has the attributes of good character, honesty and integrity;
+● whether the individual has been convicted of a serious offence;40
+● whether the individual has been the subject of civil or criminal proceedings, or a
+regulatory or disciplinary process in Australia or a foreign country that:
+o related to the management of an entity, or commercial or professional activity;
+and
+33 AML/CTF Rules, r 5-5(5).
+34 AML/CTF Act, ss 26J(1) and 26F(4)(b).
+35 AML/CTF Act, s 26K(2).
+36 AML/CTF Act, s 26J(2)(a).
+37 AML/CTF Act, s 26J(2)(b).
+38 AML/CTF Act, s 26J(3)(a).
+39 AML/CTF Act, s 26J(3)(b).
+40 This does not affect the operation of Part VIIC of the Crimes Act 1914 (which includes provisions that, in certain circumstances relieve
+persons from the requirement to disclose spent convictions and require persons aware of such convictions to disregard them).
+9
+
+o involved an adverse finding as to the individualʼs competence, diligence,
+judgement, honesty or integrity;
+● whether the individual is an undischarged bankrupt under the law of Australia or a
+foreign country;
+● whether the individual has executed a personal insolvency agreement under Part X of
+the Bankruptcy Act 1966 Cth or a similar law of a foreign country; and
+● whether the individual has a conflict of interest that will create a material risk that the
+individual will fail to properly perform the duties of the AML/CTF Compliance Officer for
+Square AU.41
+7.3 Functions of the AML/CTF Compliance Officer
+The AML/CTF Compliance Officer will:
+● oversee and coordinate our day-to-day compliance with the AML/CTF Laws;
+● oversee and coordinate the effective operation of and compliance with our AML/CTF
+Policies;
+● communicate, on behalf of us with AUSTRAC; and
+● do anything incidental to or conducive to the performance of any of the above
+functions.42
+7.4 AML/CTF Compliance Officer reporting to Governing Body
+The Governing Body will receive reports from the AML/CTF Compliance Officer as described in
+section 5.3.43
+7.5 Delegation of duties
+The AML/CTF Compliance Officer may delegate any of their duties to appropriately trained and skilled
+Square Personnel as they see fit and if appropriate, in the context of Square AUʼs business operations
+and AML/CTF compliance.
+In addition to delegating to Square Personnel, the AML/CTF Compliance Officer may also delegate in
+accordance with Outsourced Services Provider delegations.
+The responsibility for oversight of all AML/CTF matters resides with the AML/CTF Compliance Officer.
+The AML/CTF Compliance Officer will also retain overall responsibility for their role even where some
+compliance functions are delegated.
+7.6 AML/CTF Training for the AML/CTF Compliance Officer
+To ensure that our AML/CTF Compliance Officer has the necessary knowledge and skills to carry out
+their functions, they will receive AML/CTF training as referred to in section 29.
+7.7 Notifying AUSTRAC of the AML/CTF Compliance Officer
+We will notify AUSTRAC of the individual who is designated as our AML/CTF Compliance Officer
+within 14 days after the individual is designated as the AML/CTF Compliance Officer.44
+We will ensure this notice is in the approved form and contains the information and is accompanied by
+such documents, as is required by the approved form.45
+41 AML/CTF Act, s 26J(3)(c). AML/CTF Rules, r 5-14(1).
+42 AML/CTF Act, s 26L.
+43 AML/CTF Act, s 26F(4)(g); AML/CTF Rules, r 5-7.
+44 AML/CTF Act, s 26M(1).
+45 AML/CTF Act, s 26M(2).
+10
+
+Part C
+ML/TF Risk Assessment
+8. ML/TF Risk Assessment
+8.1 Overview of Square AU ML/TF Risk Assessment
+Square AU has undertaken an ML/TF Risk Assessment - 2025 AML/CTF and Sanctions Risk
+Assessment, Square AU Pty Ltd Sep 2025. In undertaking this ML/TF Risk Assessment, we have had
+regard to the nature, size and complexity of Square AUʼs business.46
+We have had regard to the following matters in undertaking the ML/TF Risk Assessment where we
+provide Designated Services at or through a permanent establishment in Australia:
+● the kinds of Designated Services provided (including any new or emerging technologies
+relating to those services);
+● the kinds of Customers to whom Designated Services are or will be provided;
+● the delivery channels (including any new or emerging technologies relating to those
+delivery channels);
+● the countries in which we deal/will deal, including the possible applicability of Australian
+sanctions; and
+● any information communicated directly or indirectly by AUSTRAC that identifies /
+assesses the risks associated with our provision of Designated Services.47
+8.2 Square AU ML/TF Risk Assessment
+Square AU will not provide any Designated Services without an ML/TF Risk Assessment being in
+place and kept up to date in accordance with these AML/CTF Policies.
+A summary of our ML/TF Risk Assessment is set out in Schedule 1
+9. Reviewing the ML/TF Risk Assessment
+9.1 Ongoing review of ML/TF Risk Assessment
+The AML/CTF Compliance Officer is responsible for ensuring that the ML/TF Risk Assessment is
+subject to ongoing review for the purpose of identifying and assessing any new risks or changes to
+previously assessed ML/TF/PF risk.48 This ongoing review will be undertaken in a manner that is
+appropriate to Square AUʼs nature, size and complexity.
+On an ongoing basis, the AML/CTF Compliance Officer will consider whether there has been a
+significant change to any of the matters listed in in section 8.1.49 If there has been a significant change
+to one of these matters, the process as set out in section 9.2 below will be followed.
+This ongoing consideration of matters will form part of the AML/CTF Compliance Officerʼs periodic
+(but no less than annual) review. The results and any recommendations will be reported to the
+Governing Body annually, and earlier if a significant change is identified in any of the matters. The
+consideration and outcomes will be documented in the ML/TF Risk Assessment and AML/CTF
+governance records and retained in the Compliance records repository.
+46 AML/CTF Act, s 26C(2).
+47 AML/CTF Act, s 26C(3).
+48 AML/CTF Act, s 26D(1).
+49 AML/CTF Act, s 26F(3)(a).
+11
+
+9.2 Triggers and timing
+A review of the ML/TF Risk Assessment (Review) must be undertaken if any of the following events
+(Review Trigger Events) occur:
+Review Trigger Event Timing for Review and updates
+There is a significant change to the matters Within control of Square AU
+listed in section 8.150 ● If the change is within the control
+of Square AU, the Review must be
+undertaken before the significant
+change occurs.
+● Any updates required to the ML/TF
+Risk Assessment to address any
+issues identified in the Review must
+be made before the significant
+change occurs.
+Not within control of Square AU
+● If the change is not within the
+control of Square AU, the Review
+must be undertaken as soon as
+practicable after the significant
+change occurs.51
+● Any updates required to the ML/TF
+Risk Assessment to address any
+issues identified in the Review must
+be made as soon as practicable
+after the Review is completed.
+● The Review must be undertaken as
+AUSTRAC communicates information that
+soon as practicable after the
+identifies or assesses risks associated with
+information is communicated.53
+Square AUʼs provision of designated
+services.52 ● Any updates required to the ML/TF
+Risk Assessment to address any
+issues identified in the Review must
+be made as soon as practicable
+after the Review is completed.
+● The Review must be undertaken as
+An independent evaluation report contains
+soon as practicable after the
+adverse findings in relation to the ML/TF Risk
+Governing Body receives the
+Assessment.54
+independent evaluation report, in
+accordance with section 5.3.55
+● Any updates required to the ML/TF
+Risk Assessment to address any
+issues identified in the Review must
+50 AML/CTF Act, s 26D(1)(a)(i).
+51 AML/CTF Act, s 26D(2)(a) – (b).
+52 AML/CTF Act, s 26D(1)(a)(ii).
+53 AML/CTF Act, s 26D(2)(c).
+54 AML/CTF Act, s Section 26D(1)(a)(iii); AML/CTF Rules, r 5-1(1).
+55 AML/CTF Act, s 26D(2)(d). AML/CTF Rules, r 5-1(2).
+12
+
+Review Trigger Event Timing for Review and updates
+be made as soon as practicable
+after the Review is completed56.
+In addition, the ML/TF Risk Assessment must be reviewed by the AML/CTF Compliance Officer at
+least annually (whether or not any of the above events occur).57
+Any updates required to the ML/TF Risk Assessment to address any issues identified in the Review
+must be made as soon as practicable after the Review is completed58 and according to the Issue
+Management Program.
+9.3 Oversight of updates to the ML/TF Risk Assessment following Review
+The updated ML/TF Risk Assessment must be approved by a Senior Manager in accordance with
+section 2.1. The change must be notified to the Governing Body as practicable after the update in
+accordance with section 2.1.
+9.4 Exception – PF Risk Assessment
+As set out in the summary of the ML/TF Risk Assessment in Schedule 1 we have assessed the PF risk
+we may reasonably face as Low, according to Block - 2025 Annual Risks & Controls Assessment -
+Square AU Pty. Ltd. Our residual PF risk, after considering the effectiveness of controls and
+operational limitations, was also assessed as Low.
+We have assessed that our risk of PF can be appropriately managed and mitigated by our policies,
+procedures, systems and controls that we have in place to manage and mitigate ML or TF risks as
+detailed in these AML/CTF Policies.59
+The PF risk we reasonably face when providing Designated Services is kept under review in
+accordance with this section 9.
+56 AML/CTF Act, s 26D(4)(b).
+57 AML/CTF Act, s 26D(1)(b).
+58 AML/CTF Act, s 26D(4).
+59 AML/CTF Act, s 26F(11).
+13
+
+Part D
+Customer Due Diligence policies
+10. Overview of Customer Due Diligence
+Our approach to Customer Due Diligence is set out in this Part D of these AML/CTF Policies. This Part
+D sets out:
+Overview Detail Note
+The Customer Types that we ordinarily provide Section 11 Effective from 31
+Designated Services to. March 2026
+How we assess ML/TF/PF risk in connection with Section 12 Effective from 31
+Customers and how this is used in providing March 2026
+Designated Services.
+Election to apply applicable Customer identification Section 13 Effective from 31
+procedures March 2026 until 30
+March 2029, or an
+earlier date as
+determined by us
+How we undertake Initial Customer Due Diligence Sections 14 and 15 Delayed until 31
+including where we may delay and otherwise modify March 2029, or an
+undertaking Initial Due Diligence. earlier date as
+determined by us
+The circumstances where we may apply Simplified Sections 16 and 17 Delayed until 31
+Customer Due Diligence and must apply Enhanced March 2029, or an
+Customer Due Diligence as part of Initial Customer earlier date as
+Due Diligence. determined by us
+How we determine and assess PEPs Section 18 Delayed until 31
+March 2029, or an
+earlier date as
+determined by us
+How we determine Beneficial Owners Section 19 Delayed until 31
+March 2029, or an
+earlier date as
+determined by us
+How we verify KYC Information as part of Customer Section 20 Delayed until 31
+Due Diligence March 2029, or an
+earlier date as
+determined by us
+How we undertake Ongoing Customer Due Diligence Sections 21 to 25 Effective from 31
+including the monitoring of Customers and how we: March 2026
+● monitor for unusual transactions and
+behaviours;
+14
+
+Overview Detail Note
+● review and update ML/TF Customer Risk;
+and
+● review and update of KYC Information
+relating to a Customer.
+11. Customer Types
+11.1 Customer Types
+Whenever we receive a request for the provision of a Designated Service from a prospective
+Customer, we must first establish the Customer Type. Ordinarily, we provide Designated Services at
+general availability to the following Customer Types:
+● individuals (including sole traders);
+● body corporates;
+● unincorporated partnerships and associations;
+● government bodies;
+● trusts or foreign equivalents.
+Where relevant, we will also establish which of the above Customer Types an Associated Person is, in
+accordance with the Initial Customer Due Diligence Procedure.
+11.2 New Customer Types
+The AML/CTF Compliance Officer may decide that it is appropriate for us to provide Designated
+Services to a Customer Type to whom we do not ordinarily provide Designated Services. In doing so,
+the AML/CTF Compliance Officer must have regard to the relevant ML/TF Customer Risk Rating of the
+prospective Customer.
+We will amend these AML/CTF Policies if we decide to provide Designated Services to a new
+Customer Type on a regular or continual basis and consider whether any changes are required to the
+ML/TF Risk Assessment in accordance with section 8.
+12. Assessing the ML/TF/PF risk of our Customers
+12.1 How we assess the ML/TF/PF risk of our Customers
+Before we provide a Designated Service to a Customer, we will assess the ML/TF/PF risk we may
+reasonably face in providing a Designated Service to the Customer.60 We will conduct this assessment
+using the KYC Information reasonably available to us prior to onboarding, together with empirical and
+behavioural indicators generated through Square AUʼs Activation Customer Risk Rating (aCRR) and
+Continuous Customer Risk Rating (cCRR) models, which support the identification of potential
+ML/TF/PF risk.61
+Square AUʼs machine-learning models operate under Squareʼs model governance, validation and
+change-management processes to ensure they remain appropriate, reliable, and consistent with our
+AML/CTF obligations.
+The ML/TF Customer Risk Rating assigned to a Customer is dynamic and may change as we
+undertake Customer Due Diligence in connection with the Customer.
+60 AML/CTF Act, s 28(3)(b). AML/CTF Act, s 5: ML/TF risk a Customer means the risks of money laundering, financing of terrorism and
+proliferation financing that a reporting entity may reasonably face in providing the designated service, or designated services, to the
+Customer.
+61 AML/CTF Act, s 28(3)(b).
+15
+
+12.2 Assessing ML/TF Customer Risk
+We will take into account the following matters when assessing the ML/TF Customer Risk of a
+Customer:
+● our ML/TF Risk Assessment;
+● the Customer Type;
+● the kinds of Designated Service provided, or proposed to be provided, by us to the
+Customer;
+● the delivery channels through which we will provide the Designated Service, including
+remote digital onboarding and verification processes to the Customer;
+● the countries with which we deal, or will deal, in providing the Designated Service to the
+Customer, including the possible applicability of Australian sanctions;
+● empirical indicators of ML/TF/PF risk identified by Square AUʼs CRR Program, including
+activation-time identity, device, network-linkage and email authenticity signals (aCRR),
+and ongoing behavioural, transactional and account-usage indicators (cCRR); and
+● any matters prescribed by the AML/CTF Rules, to be kept under review on an ongoing
+basis.62
+These factors ensure that our assessment incorporates both KYC information and risk-relevant
+behaviour that may indicate elevated ML/TF/PF exposure.
+12.3 Our ML/TF Customer Risk Rating scale
+Based on our assessment of the ML/TF Customer Risk, we will assign to a Customer a ML/TF
+Customer Risk Rating of:
+● low;
+● medium; or
+● high.
+The ML/TF Customer Risk Rating will impact:
+● how we carry out Customer Due Diligence; and
+● when we are required to collect and/or verify additional KYC Information when carrying
+out Customer Due Diligence.
+13. Election to apply applicable Customer identification procedures
+13.1 Undertaking applicable Customer identification procedures
+Important note: AUSTRAC is currently working on a transitional provision for the delay of new Initial
+Customer Due Diligence obligations until 31 March 2029.63 The ICDD transitional rules will apply to
+existing Reporting Entities. During the transition period existing Reporting Entities may choose either
+to:
+● continue to use their existing Applicable Customer Identification Procedures ACIP when
+onboarding a new Customer for a period of up to 3 years; or
+● transition to the reformed ICDD obligations at any time from 31 March 2026 to 30 March
+2029.
+Square AU has opted to:
+● continue to carry on ACIP; and
+62 AML/CTF Act, s 28(4). There are no additional matters currently prescribed by the AML/CTF Rules.
+63 See AUSTRAC’s media release at:
+https://www.austrac.gov.au/reforms/amlctf-transitional-rules-update#Transitional%20period%20for%20initial%20Customer%20due%20
+diligence%20(CDD), accessed 5 Feb 2026.
+16
+
+● apply ACIP to all Customers to whom the Square AU commences to provide a
+Designated Service at or through a permanent establishment in Australia,
+until the new ICDD procedures (set out in sections 14 to 20 are fully implemented by Square AU,
+which must occur on or before 31 March 2029.
+14. Square AUʼs “Future Stateˮ Initial Customer Due Diligence
+Procedures
+14.1 Undertaking Initial Customer Due Diligence
+Square AUʼs “Future Stateˮ Initial Customer Due Diligence Procedures (effective from 31 March
+2029 or on the date Square AU fully implements the ICDD procedures, whichever occurs first)
+Subject to modifications described in these AML/CTF Policies, we must not commence to provide a
+Designated Service to a Customer until we have established on reasonable grounds the following
+matters:64
+● the identity of the Customer;
+● the identity of any Associated Persons;
+● the authority to act of any person acting on behalf of the Customer;
+● whether the Customer or any Associated Person, is:
+o a PEP; or
+o a person designated for Targeted Financial Sanctions;
+● the nature and purpose of the business relationship or occasional transaction; and
+● any other matter relating to the Customer that is specified by the AML/CTF Rules from
+time to time.65
+In establishing these matters on reasonable grounds, we must demonstrate the following matters:
+● if the Customer is an individual, that we have taken reasonable steps to establish that the
+Customer is who they claim to be;
+● that we have identified the ML/TF Customer Risk of the Customer based on KYC
+Information reasonably available to us before commencing to provide the Designated
+Service;
+● that we have collected KYC Information about the Customer that is appropriate to the
+ML/TF Customer Risk; and
+● that we have verified such KYC Information using Reliable and Independent Data that is
+appropriate to the ML/TF Customer Risk Rating. See section 20.66
+We satisfy our obligation to establish the matters set out above about our Customers on reasonable
+grounds, and demonstrate the matters in the points above, by carrying out the Initial Customer Due
+Diligence Procedures.
+14.2 Carrying out Initial Customer Due Diligence
+As part of our Initial Customer Due Diligence Procedure:
+● where triggered, we must undertake Enhanced Customer Due Diligence in accordance
+with section 17;67 and
+● we will modify how we ordinarily carry out the Initial Customer Due Diligence Procedures
+in certain circumstances described in section 15.
+64 AML/CTF Act, s 28(1).
+65 AML/CTF Act, s 28(2).
+66 AML/CTF Act, s 28(3).
+67 AML/CTF Act, s 32.
+17
+
+The Initial Customer Due Diligence Procedures detail the KYC Information we will collect and verify
+about a Customer. More detailed KYC Information may be collected and verified depending on KYC
+Information collected about the Customer and the relevant circumstances. Instances where additional
+KYC Information will be collected and verified when undertaking Initial Customer Due Diligence are
+described in the Initial Customer Due Diligence Procedures.
+14.3 Additional KYC Information that we may collect and/or verify
+The additional KYC Information we collect and/or verify will depend on:
+● the circumstances we consider trigger our obligation to collect and/or verify additional
+KYC Information; and
+● if applicable, what additional KYC Information we consider to be appropriate to collect
+and/or verify in those circumstances having regard to the ML/TF Customer Risk Rating of
+the Customer.
+However, additional KYC Information we may consider as appropriate to collect and/or verify in those
+circumstances may include (if we have not already collected it):
+● formal confirmation of the Customerʼs purpose and intention in requesting the relevant
+Designated Service including where appropriate the purpose of specific transactions, or
+the expected nature and level of transactions to be undertaken by the Customer;
+● if we have not already collected it, any other name the Customer is known by (other than
+that already provided);
+● the Customerʼs financial position and other information regarding the income or assets
+available to the Customer;
+● the Customerʼs source of funds, including where appropriate, confirmation of the origin
+of funds;
+● the beneficial ownership of the funds used by the Customer with respect to the
+Designated Service;
+● confirmation of the intended beneficiaries of the proposed transactions including, where
+appropriate, the destination of funds; and
+● where the Customer is not a natural person, further particulars relevant to the identity of
+natural persons who exercise ultimate control over the affairs of the Customer.
+15. Circumstances where we modify how we undertake Initial
+Customer Due Diligence
+15.1 Circumstances where we may delay the verification of KYC Information we
+collect
+We may provide a Designated Service prior to establishing on reasonable grounds all the matters
+about our Customer in accordance with the applicable Initial Customer Due Diligence Procedure if:
+● we have determined on reasonable grounds that commencing to provide the Designated
+Service before we have carried out Initial Customer Due Diligence in relation to the
+Customer is essential to avoid interrupting the ordinary course of business;
+● we are able to carry out Initial Customer Due Diligence in relation to the Customer within
+the time period specified in the table below after commencing to provide the Designated
+Service:
+● we have determined on reasonable grounds that any additional risk ML/TF/PF associated
+with carrying out Initial Customer Due Diligence after we have commenced to provide the
+Designated Service to be low;68 and
+68 AML/CTF Act, s 29.
+18
+
+● we have complied with the following:69
+Square AU generally undertakes identity verification at the point of onboarding and
+does not ordinarily delay verification of Customer KYC Information. To mitigate risks
+associated with delayed verification, we generally only allow it where Beneficial
+Owner information is outstanding (not completed through automatic verification)
+and where the conditions for delayed verification under AML/CTF Laws are strictly
+satisfied; and
+● the provision of the Designated Service occurs in one of the circumstances specified in
+the table below:
+Circumstance70 Requirements Time period for
+carrying out Initial
+Customer Due
+Diligence
+Designated Services Where we are providing a Designated Service As soon as reasonably
+provided in Australia71 at or through a permanent establishment of practicable, and no
+ours in Australia, we may delay verification of more than 20 business
+the KYC Information we have collected days, after commencing
+provided that: to provide the
+● if the Customer is an individual, Designated Service.
+we have taken reasonable steps
+to establish the Customer is who
+they claim to be;
+● we have assigned the Customer
+an ML/TF Customer Risk Rating
+based on the KYC Information
+that is reasonably available to us;
+● we have collected KYC
+Information about the Customer
+in accordance with the applicable
+Initial Customer Due Diligence
+Procedure that is appropriate to
+the ML/TF Risk Customer Rating,
+other than source of wealth or
+source of funds, to the extent
+otherwise required;
+● we have established the identity
+of the Customer on reasonable
+grounds in accordance with the
+applicable Initial Customer Due
+Diligence Procedure;
+● we have established the identity
+and the authority to act of any
+person acting on the Customerʼs
+behalf in accordance with the
+69 AML/TF Act, s 29(e).
+70 This does not include all circumstances prescribed. We have only included those circumstances that may be relevant to the Reporting
+Entity’s designated services.
+71 AML/CTF Rules, r 6-12.
+19
+
+Circumstance70 Requirements Time period for
+carrying out Initial
+Customer Due
+Diligence
+applicable Customer Due
+Diligence Procedure; and
+● we will not:72
+o transfer, or allow or
+facilitate the transfer of,
+money, property or
+virtual assets for or on
+behalf of the Customer;
+or
+o otherwise make money,
+property or virtual
+assets available to the
+Customer (other than
+the holding of the
+money, property or
+virtual assets in the
+account or otherwise on
+deposit from the
+Customer),
+before satisfying our obligation to
+undertake Initial Customer Due Diligence
+in respect of the Customer.
+In the capacity of Where we provide an item 1 Designated As soon as reasonably
+account provider, Service (see Schedule 2, or another practicable after
+opening an account in Designated Service reasonably incidental to commencing to provide
+certain the provision of an item 1 Designated Service, the Designated Service.
+circumstances73 we may delay verification of the KYC
+Information we collect provided that:
+● the Designated Service is
+provided at or through a
+permanent establishment of ours
+in Australia; and
+● we will not:74
+o transfer, or allow or
+facilitate the transfer of,
+money, property or
+virtual asset for or on
+behalf of the Customer;
+or
+o otherwise make money,
+property or virtual
+72 For the avoidance of doubt, we will not allow any of those activities unless we have established on reasonable grounds all the relevant
+matters set out in the applicable Customer Due Diligence Procedure.
+73 AML/CTF Rules, r 6-13.
+74 For the avoidance of doubt, we will not allow any of those activities unless we have established on reasonable grounds all the relevant
+matters set out in the applicable Customer Due Diligence Procedure.
+20
+
+Circumstance70 Requirements Time period for
+carrying out Initial
+Customer Due
+Diligence
+assets available to the
+Customer (other than
+holding the money,
+property or virtual
+assets in an account or
+otherwise on deposit
+from the Customer),
+before satisfying our obligation to
+undertake Initial Customer Due Diligence
+in respect of the Customer.
+15.2 Circumstances where we will be deemed to have carried out Initial Customer
+Due Diligence (previous carrying out of applicable Customer identification
+procedure)
+We will be taken to have established on reasonable grounds each of the matters set out in the
+Customer Due Diligence Procedure about a Customer if:
+● we had, before 31 March 2026, carried out the applicable Customer identification
+procedure within the meaning of the AML/CTF Act in force immediately before that date
+in respect of the Customer or in respect of the trustee of the Customer;75 or
+● we:
+o are proposing to provide a Designated Service to our Customer at or through a
+permanent establishment of us in a foreign country; and
+o had, before 31 March 2026, complied with the laws of that foreign country
+giving effect to the FATF Recommendations relating to Customer Due Diligence
+and record-keeping in relation to that Customer.76
+16. Simplified Customer Due Diligence
+Square AU currently applies a single Initial Customer Due Diligence onboarding process for
+Customers assessed as having a low or medium ML/T Customer Risk Rating. Simplified Customer Due
+Diligence is not implemented as a separate operational process at this time. Enhanced Customer Due
+Diligence is applied where a Customer is assessed as having a high ML/TF Customer Risk Rating.
+17. Enhanced Customer Due Diligence when undertaking Initial
+Customer Due Diligence
+Where Enhanced Customer Due Diligence applies as part of Initial Customer Due Diligence, we will
+apply the Enhanced Customer Due Diligence processes as described in section 22.
+75 AML/CTF Rules, r 6-42.
+76 AML/CTF Rules, r 6-43.
+21
+
+18. Politically Exposed Persons
+18.1 Approach to determining Politically Exposed Persons
+We establish on reasonable grounds whether a Customer or an Associated Person is a PEP by
+following the applicable Initial Customer Due Diligence Procedure prior to the provision of the
+Designated Services to our Customers.
+Any potential matches are reviewed to determine whether the match for the Customer or Associated
+Person is confirmed. This may include conducting further checks where appropriate. Possible
+additional checks include confirming that the date of birth or country of the person matches with that
+of the potentially matched PEP.
+18.2 Approach to Politically Exposed Persons
+If during Initial Customer Due Diligence we establish on reasonable grounds that:
+● a Customer, a Beneficial Owner or any person on whose behalf the Customer is receiving
+the Designated Service is a Foreign Politically Exposed Person:
+o the Customer will be assigned a ML/TF Customer Risk Rating of high;
+o Enhanced Customer Due Diligence must be applied to the Customer
+relationship; and
+o the approval of the Senior Manager must be obtained in accordance with
+section 6.3 prior to the provision of the Designated Service;
+● a person acting on behalf of the Customer is a Foreign PEP
+o Enhanced Customer Due Diligence must be applied to the Customer
+relationship; and
+o the ML/TF Customer Risk Rating will be considered having regard to the status
+of the person acting on behalf of the Customer; and
+● a Customer, a Beneficial Owner or any person on whose behalf the Customer is receiving
+the Designated Service is a Domestic PEP or International Organisation PEP
+o the ML/TF Customer Risk Rating will be considered having regard to the status
+of the person; and
+o the approval of the Senior Manager must be obtained in accordance with
+section 6.3 prior to the provision of the Designated Service if the ML/TF
+Customer Risk Rating is high;
+● a person acting on behalf of the Customer is a Domestic PEP or International
+Organisation PEP the ML/TF Customer Risk Rating will be considered having regard to
+the status of the person acting on behalf of the Customer;
+18.3 Initial Customer Due Diligence and Politically Exposed Persons
+We are also required to establish certain additional matters on reasonable grounds in relation to a
+Customer during Initial Customer Due Diligence in connection with Politically Exposed Persons.77
+The circumstances triggering this obligation and the matters we must establish in those
+circumstances is set out in the table below.
+Circumstance triggering obligation Prescribed Matters
+We have established on reasonable grounds that the We must establish the following matters
+Customer, any Beneficial Owner of the Customer or any on reasonable grounds during Initial
+person on whose behalf the Customer is receiving the Customer Due Diligence, as described
+Designated Service is a Foreign PEP. in the Initial Customer Due Diligence
+Procedure:
+77 AML/CTF Rules, r 6-23.
+22
+
+Circumstance triggering obligation Prescribed Matters
+● source of the PEPʼs wealth;
+Note: We will treat a Foreign PEP as a Domestic PEP in
+and
+these circumstances if:
+● source of the PEPʼs funds.
+● we are to provide the Designated Service
+to the Customer at or through a permanent
+establishment of ours in a foreign country;
+and
+● the Foreign PEP has that status because of
+their connection to the same foreign
+country.78
+We have:
+● established on reasonable grounds that the
+Customer, any Beneficial Owner of the
+Customer or any person on whose behalf
+the Customer is receiving the designated
+service is a Domestic PEP; and
+● assigned a ML/TF Customer Risk Rating of
+high.
+We have:
+● established on reasonable grounds that the
+Customer, any Beneficial Owner of the
+Customer or any person on whose behalf
+the Customer is receiving the Designated
+Service is an International Organisation
+PEP; and
+● assigned a ML/TF Customer Risk Rating of
+high.
+19. Beneficial Owners
+19.1 Approach to determining Beneficial Owners
+We determine the Beneficial Owners of our Customers by following the applicable Initial Customer
+Due Diligence Procedure.
+A Beneficial Owner is an individual who ultimately owns or controls an entity. ‘Ownsʼ in this case
+means owning 25% or more of the entity. This can be directly (such as through shareholdings) or
+indirectly (such as through another companyʼs ownership or through a bank or broker). ‘Controlʼ in
+this case means having the power to make decisions about the entityʼs finances and operations. They
+may exert control through trusts, agreements, arrangements, understandings, policies or practices.
+19.2 What we do when we cannot identify the Beneficial Owners of our Customer
+Where we have taken all reasonable steps to establish the identity of the Beneficial Owners of our
+Customers but have been unable to do so, we will be taken to have established on reasonable
+grounds the identity of any Beneficial Owners of the Customer if:
+● our Customer is a body corporate, partnership or unincorporated association;
+78 AML/CTF Rules, r 6-23(3).
+23
+
+● we have recorded the steps we have taken and any difficulties encountered in attempting
+to establish the identity of any beneficial owners of our Customer;
+● we have collected information about the identity of the individual who is the executive
+officer (or equivalent) of the Customer;
+● we have assessed that there are no specific financial sanctions risks in relation to the
+Customer; and
+● we have verified, using reliable and independent data, such information as is appropriate
+to the ML/TF Customer Risk Rating.79
+The applicable Initial Customer Due Diligence Procedure sets out the KYC Information we collect and
+verify in these circumstances.
+19.3 What we do when we establish that there are no Beneficial Owners of a
+Customer
+Where we have established on reasonable grounds that our Customer does not have any Beneficial
+Owners, we will establish certain additional matters on reasonable grounds when carrying out Initial
+Customer Due Diligence.80
+Circumstance Prescribed Matters
+● We have established on ● We must establish the identity of the
+reasonable grounds that the individual who is the chief executive
+Customer does not have any officer (or equivalent) of the Customer.
+Beneficial Owners; and ● The applicable Initial Customer Due
+● Our Customer is a body Diligence Procedure sets out the KYC
+corporate, partnership or Information we collect and verify in
+unincorporated association. these circumstances.
+20. Verifying KYC Information
+20.1 How we verify KYC Information we collect
+We ordinarily verify the KYC Information we collect using the Reliable and Independent Data.
+The Initial Customer Due Diligence Procedures describe the data we consider to be Reliable and
+Independent Data to verify the KYC Information we collect. We have determined this data to be
+Reliable and Independent Data having regard to:
+● the ML/TF Customer Risk Rating;
+● the accuracy and security of the data;
+● how comprehensive the data is;
+● the verifiability of the data;
+● who is responsible for maintaining the data and the sources of the data;
+● whether the data is able to be additionally authenticated.
+The Initial Customer Due Diligence Procedures allow the Square AU Analyst to determine source
+information to be Reliable and Independent and used for verification in the circumstances. In making
+this determination the AML/CTF Compliance Officer must have regard to the above factors.
+79 AML/CTF Act, s 6-8(1).
+80 AML/CTF Act, ss 6-8(2) – 6-8(3).
+24
+
+20.2 How we verify KYC Information when there is lack of satisfactory evidence of
+identity
+We may verify KYC Information collected about a Customer or an Associated Person, who is an
+individual using data that is sources that are not described in the Initial Customer Due Diligence
+Procedures (Alternative Measures) if that individual is unable to provide satisfactory evidence of
+identity because:
+● the individual is unable to obtain the information or evidence; or
+● the Individual is unable to access the information or evidence due to circumstances
+beyond their control.81
+We may only use Alternative Measures to verify KYC Information collected about the individual if we
+have:
+● taken reasonable steps to establish that the individual is who they claim to be in
+accordance with the Initial Customer Due Diligence Procedure; and
+● if the individual is our Customer:
+o identified the ML/TF Customer Risk, based on the KYC Information about the
+Customer that is reasonably available to us prior to providing the Designated
+Service;
+o collected KYC Information about the Customer that is appropriate to the ML/TF
+Customer Risk Rating;
+o taken reasonable steps to verify the KYC Information collected about the
+Customer using data reasonably available to us that is appropriate to the ML/TF
+Customer Risk Rating of the Customer;82 and
+● we have complied with section 19.3.83
+20.3 Managing ML/TF/PF risk arising due because of lack of satisfactory evidence
+of identity
+We may verify KYC Information using Alternative Measures under section 20 in accordance with the
+following:
+● if the individual cannot provide satisfactory evidence of identity in accordance with the
+Initial Customer Due Diligence Procedures, the matter will be referred to the Operations
+Lead who will determine whether it is appropriate having regard to the ML/TF Risk arising
+as a result of the lack of information or evidence to verify the KYC Information collected
+about the Customer in accordance with section 20.1;
+● we will not rely on data that is reasonably available to us if we know or have reason to
+believe that data is misleading or incorrect; and
+● we will only verify the KYC Information collected about the Customer or Associated
+Person in accordance with section 20.2 in exceptional circumstances which may include,
+but are not limited to:
+o people who are Aboriginal or Torres Strait Islander;
+o people experiencing family and domestic violence;
+o people experiencing periods of homelessness;
+o people who have experienced recent periods of incarceration;
+o people who are a refugees, asylum seekers or recent migrants to Australia
+(including from culturally and linguistically diverse backgrounds);
+o people who are transgender, intersex or gender diverse;
+o people who did not have their birth registered;
+81 AML/CTF Rules, rr 6-10(a) – 6-10(b).
+82 AML/CTF Rules, rr 6-10(c) – 6-10(d)(i) – (iii).
+83 AML/CTF Rules, r 6-10(e).
+25
+
+o young people who have not established a social footprint in the community; and
+o people in less developed jurisdictions with limited access to formal evidence of
+identity.
+21. Overview of Ongoing Customer Due Diligence
+We monitor our Customers in relation to the provision of our Designated Services to appropriately
+identify, assess, manage and mitigate the risks of ML/TF/PF that we may reasonably face in providing
+our Designated Services.84
+We do this by following the systems and controls:
+● we administer a Customer Monitoring Program in accordance with section 23 to monitor
+for unusual transactions and behaviours of Customers that may give rise to a suspicious
+matter reporting obligation;85
+● we administer a ML/TF Customer Risk Rating Refresh Process in accordance with
+section 24;86 and
+● we administer a KYC Refresh Process in accordance with section 25.87
+22. Enhanced Customer Due Diligence when undertaking Ongoing
+Customer Due Diligence
+22.1 When must we carry out Enhanced Customer Due Diligence
+We must undertake Enhanced Customer Due Diligence in relation to a Customer if one or more of the
+following circumstances apply to the Customer when we undertake Customer Due Diligence:
+● where we assign a ML/TF Customer Risk Rating of high to a Customer;
+● if:
+o a suspicious matter reporting obligation arises for us in relation to the Customer;
+and
+o we propose to continue to provide a Designated Service to the Customer;
+● the Customer or any Associated Person of a Customer, is a Foreign Politically Exposed
+Person;
+● the Customer has requested a provision of a Designated Service that:
+o has no apparent economic or legal purpose;
+o would involve unusually complex or large transactions; or
+o would have an unusual pattern of transactions.88
+22.2 Prohibition on providing Designated Services to anyone in sanctioned
+jurisdictions
+We will not commence to provide, or continue to provide any Designated Service to a person, a
+Customer, or any Associated Person of the person or Customer, if we identify any of them to be:
+● an individual who is physically present in a high risk jurisdiction for which FATF has
+called for enhanced due diligence to be applied or a jurisdiction that is the subject of
+Australian sanctions; or
+84 AML/CTF Rules, ss 30(1).
+85 AML/CTF Act, s 30(2)(a).
+86 AML/CTF Act, s 30(2)(b)
+87 AML/CTF Act, s 30(2)(c).
+88 AML/CTF Rules, r 6-20.
+26
+
+● a body corporate or legal arrangement that was formed in a high risk jurisdiction for
+which FATF as called for enhanced due diligence to be applied or a jurisdiction that is the
+subject of Australian sanctions,89
+The person, Customer or Associated Person of the person or Customer will not be subject to
+Enhanced Customer Due Diligence.
+22.3 Enhanced Customer Due Diligence requiring source of wealth or source of
+funds information
+When Enhanced Customer Due Diligence is triggered as part of Ongoing Customer Due Diligence we
+will ensure that we hold the following KYC Information if the circumstances triggering ECDD require it.
+Circumstance triggering ECDD Information we must hold
+A ML/TF Customer Risk Rating of high is assigned to If the matter is relevant to the nature of
+the Customer. the ML/TF/PF risk of the Customer, we
+must hold information about the
+A suspicious matter reporting obligation arises for us in
+following matters:
+relation to the Customer in accordance with section 35
+● source of the Customerʼs
+of these Policies and we propose to continue to provide
+wealth; and
+a Designated Service to the Customer.
+● source of the Customerʼs
+funds.
+We will also consider whether any additional KYC Information should be obtained in respect of any
+particular Customer, having regard to the considerations described in section 22.4.
+22.4 Measures we may take as part of Enhanced Customer Due Diligence
+When Enhanced Customer Due Diligence is triggered, we will undertake measures appropriate to the
+particular Customer that is being considered having regard to the context of the Customer, the
+transaction and the Designated Service to be provided, the Customer Type and the nature of the
+ML/TF Customer Risk.
+Measures we undertake may include (without limitation):
+● seeking information from the Customer or from third party sources in order to undertake
+one or more of the following:
+o clarify or update KYC Information already collected from the Customer;
+o clarify or update Associated Person information already collected;
+o extend ownership reviews where risk indicators or red flags are identified. In
+such cases, additional due diligence will be undertaken on the Customerʼs
+ownership and control structure, having regard to financial sanctions and
+financial crime risks
+o clarify the nature of the Customerʼs ongoing business with us;
+● undertake more detailed analysis of the Customerʼs KYC Information including, where
+appropriate, taking reasonable measures to identify:
+o the source of the Customerʼs wealth; and/or
+o the source of the Customerʼs funds;
+● verify or re-verify KYC Information in accordance with the applicable Customer Due
+Diligence procedures. Where Enhanced Due Diligence Procedures are undertaken as
+part of Ongoing Customer Due Diligence, we will consider what KYC Information is
+89 AML/CTF Act, s 32.
+27
+
+relevant to the circumstances in determining what KYC Information will be verified or
+re-verified;
+● undertake more detailed analysis and monitoring of the Customerʼs transactions – both
+past and future, including, but not limited to:
+o the purpose, reasons for, or nature of specific transactions; or
+o the expected nature and level of transaction behaviour, including future
+transactions;
+● seek AML/CTF Compliance Officer or Senior Manager approval for:
+o continuing the business relationship with a Customer; and
+o whether a Designated Service should continue to be provided to the Customer;
+and
+● consider whether a transaction or particular transactions should be processed.
+23. Customer Monitoring Program
+23.1 Monitoring Customers
+We monitor our Customers in relation to the provision of our Designated Services to identify, assess,
+manage and mitigate the risks of ML/TF/ PF that we may reasonably face in providing the Designated
+Services.90
+In order to monitor our Customers, we will:
+● monitor for ‘unusual transactions and behavioursʼ of Customers that may give rise to a
+suspicious matter reporting obligation, as described in sections 23.2 - 23.4;
+● review and, where appropriate, update our identification and assessment of the ML/TF
+Customer Risk in accordance with the ML/TF Customer Risk Rating Refresh Process as
+described in section 24;
+● review and, where appropriate, update and reverify KYC information relating to the
+Customer at a frequency appropriate to the ML/TF Customer Risk, in accordance with
+the KYC Refresh Process described in section 25;91 and
+● regularly screen Customers and Associated Persons against updated lists of entities and
+persons subject to Targeted Financial Sanctions in accordance with the sanction
+screening procedures as described in section 26.2.
+23.2 Unusual transactions and behaviours
+As part of monitoring our Customers on an ongoing basis, we will monitor for activity or behaviour
+that may give rise to a suspicious matter reporting obligation or other abnormal or atypical activity.
+We have adopted transaction monitoring procedures as described in section 23.4 for this purpose.
+This may include activity or behaviour that may be suggestive of any of the following:
+● circumstances that indicate the Customer may not be who they initially had claimed to
+be;
+● circumstances that indicate the Customer may be seeking the delivery of Designated
+Services:
+o in connection with the commission of a ML, PF or TF offence; or
+o in connection with the commission of any other offence against any laws of the
+Commonwealth, States or Territories of Australia;
+‘Unusual transactions and behavioursʼ of a Customer include:
+● unusually large or complex transactions relating to the Customer;
+90 AML/CTF Act, s 30(1).
+91 AML/CTF Act, s 30(2). Also AML/CTF Rules, rr 6-21 and 6-22.
+28
+
+● transactions and behaviours that are part of an unusual pattern of transactions and
+behaviours relating to the Customer;
+● transactions and behaviours that that may involve any payment or asset being made
+available to a third party other than the Customer or to a country that is the subject of
+Australian sanctions;
+● transactions and behaviours that have no apparent economic or lawful purpose; and
+● transactions and behaviours that are inconsistent with what we reasonably knows about
+any of the following:
+o the Customer;
+o the nature and purpose of the business relationship;
+o the ML/TF Customer Risk;
+o where relevant, the Customerʼs source of funds or source of wealth.92
+23.3 Relevant factors to be considered
+We will have regard to the following (without limitation to other factors that we may consider relevant
+in the circumstances):
+● complex or unusually large transactions;
+● transactions that exceed our internal thresholds and triggers;
+● changes in levels of trading or financial activity that are inconsistent with the size of past
+activities;
+● irregular or unusual patterns of account activity that are characteristic of money
+laundering or terrorism financing or otherwise have no apparent economic or visible
+purpose; and
+● unusual patterns of repayment behaviour or transactions (or both).
+Following review of information in these reports, escalate the matter to Square AUʼs ECDD team or
+SMR team for further review and investigation.
+23.4 Monitoring procedures
+Customers that are subject to Customer Monitoring may:
+● be required to provide additional KYC information;
+● be subject to Enhanced Customer Due Diligence;
+● result in a suspicious matter report being filed; and/or
+● be subject to termination of the Customerʼs relationship.
+23.5 Ongoing Customer Due Diligence and PEP
+If, as part of undertaking Ongoing Customer Due Diligence we identify certain matters in connection
+with PEPs, we will take the steps as described in the table below.93 94
+Circumstance triggering obligation What we must do
+The Customer, Beneficial Owner or person on We must review, and where appropriate, update
+whose behalf the Customer is receiving the and reverify KYC Information relating to the
+Designated Service, becomes a Foreign PEP. Customer.
+Note: We will treat a Foreign PEP as a Domestic
+PEP in these circumstances if:
+● we are to provide the Designated
+Service to the Customer at or
+92 AML/CTF Act, s 30(5).
+93 AML/CTF Rules, r 6-24.
+94 AML/CTF Act, s 30(2)(c).
+29
+
+Circumstance triggering obligation What we must do
+through a permanent
+establishment of ours in a foreign
+country; and
+● the Foreign PEP has that status
+because of their connection to the
+same foreign country.95
+We have:
+● established on reasonable grounds
+that the Customer, or Associated
+Person has become a Domestic
+PEP; and
+● we have assigned a ML/TF
+Customer Risk Rating of high to
+the Customer.
+We have:
+● established on reasonable grounds
+that the Customer, or Associated
+Person has become an
+International Organisation PEP; and
+● we have assigned a ML/TF
+Customer Risk Rating of high to
+the Customer.
+24. ML/TF Customer Risk Rating Refresh Process
+24.1 When will we administer the ML/TF Customer Risk Rating Refresh
+If we have an ongoing business relationship with a Customer, we will review and, where appropriate,
+update the ML/TF Customer Risk Rating of the Customer where:96
+(a) there is a significant change to one or more of the following matters in relation to the
+Customer:
+o our ML/TF Risk Assessment;
+o the Customer Type;
+o the kinds of Designated Service provided, or proposed to be provided, by us to
+the Customer;
+o the delivery channels by which we will provide the Designated Service to the
+Customer;
+o the countries with which we deal, or will deal, in providing the Designated
+Service to the Customer, including the possible applicability of Australian
+sanctions;
+o any matters prescribed by the AML/CTF Rules;97
+(b) the empirical and behavioural indicators generated through Square AUʼs Activation
+Customer Risk Rating (aCRR) and Continuous Customer Risk Rating (cCRR) models
+indicate a change is appropriate; or
+95 AML/CTF Rules, r 6-24(2).
+96 AML/CTF Act, s 30(2)(b).
+97 AML/CTF Act, s 28(4). There are no additional matters currently prescribed by the AML/CTF Rules.
+30
+
+(c) we have identified unusual transactions and behaviours in relation to the Customer that
+may give rise to a Suspicious Matter Reporting Obligation in accordance with our
+Customer Monitoring Program.
+24.2 Process for reviewing and updating the ML/TF Customer Risk Rating of a
+Customer
+The ML/TF Customer Risk Rating review will involve reviewing the ML/TF Customer Risk Rating of the
+Customer and whether it remains appropriate and accurate having regard to:
+● the significant change that has occurred that triggered our obligation to administer the
+ML/TF Customer Risk Rating Refresh Process as described in 24.1(a);98
+● the indicators generated by aCRR and cCRR; and
+● the unusual transactions and behaviours in relation to the Customer that triggered our
+obligation to administer the ML/TF Customer Risk Rating Refresh Process as described in
+24.1 (c).
+If following that review we consider that the ML/TF Customer Risk Rating of the Customer is no longer
+appropriate, we will update the ML/TF Customer Risk Rating accordingly. We may increase or
+decrease the ML/TF Customer Risk Rating following a review under this section.
+24.3 Collection and verification of additional KYC Information where we update
+the ML/TF Customer Risk Rating
+Where the ML/TF Customer Risk Rating is updated (e.g., from low or medium to high), we will review
+and, where appropriate, update and reverify KYC information relating to the Customer having regard
+to the applicable Customer Due Diligence Procedure in accordance with the Customerʼs updated
+ML/TF Customer Risk Rating.
+This may require us to collect and verify additional KYC Information about or in relation to the
+Customer. Having regard to the significance of the changes or the nature of the unusual transactions
+that triggered our obligation to administer the ML/TF Customer Risk Rating Refresh Process, we may
+also elect to re-verify information we have already collected about the Customer.
+25. KYC Refresh Process
+25.1 Overview of KYC Refresh Process
+We will review, and where appropriate, update and reverify KYC Information relating to a Customer: 99
+● on a periodic basis appropriate to the ML/TF Customer Risk Rating, as described in
+section 25.2; and
+● on the basis of triggers, as described in section 25.3.
+25.2 When will we administer the KYC Refresh Process
+If we have an ongoing business relationship a Customer, we will review and, where appropriate,
+update and reverify KYC Information relating to the Customer at the following intervals:
+Customer ML/TF Customer Risk Rating Interval
+High Every two years
+Medium Nil
+Low Nil
+98 AML/CTF Act, s 30(2).
+99 AML/CTF Act, s 30(2)(c).
+31
+
+25.3 Trigger based KYC Refresh Process
+If we have an ongoing business relationship a Customer, we will review and, where appropriate,
+update and reverify KYC Information relating to the Customer:
+● if we have doubts about the adequacy or veracity of the KYC Information relating to the
+Customer; and
+● if our obligation to administer our KYC Refresh Process is triggered in connection with a
+Politically Exposed Person (see section 23.5;100
+● material profile changes (e.g., legal name, address, ownership/control, etc.);
+● regulatory/Rule changes impacting KYC requirements; and
+● unusual activity or risk re-rating.
+25.4 Process for administering KYC Refresh Process
+The KYC Refresh Process will involve reviewing KYC Information we have collected and verified in
+relation to a Customer for consistency, accuracy and discrepancies. We will follow the process in
+section 25.5 if we identify a potential material inconsistency, inaccuracy or discrepancy during this
+review.
+25.5 Collection and verification of additional KYC Information where we identify
+potential material inconsistency, inaccuracy or discrepancy
+Where the KYC Information is determined to require updating because a potential material
+inconsistency, inaccuracy or discrepancy has been identified, we will collect additional KYC
+Information in relation to a Customer that is required to address the potential material inconsistency,
+inaccuracy or material discrepancy.
+We will verify the additional KYC Information collected for the purposes of addressing the potential
+material inconsistency, inaccuracy or discrepancy on the following basis:
+● if we administer the KYC Refresh Process because we have reasonable doubts about the
+adequacy or veracity of the KYC Information relation to the Customer, we will verify the
+KYC Information required for us to be reasonably satisfied that we have addressed the
+potential inconsistency, inaccuracy or material discrepancy identified;
+● if we administer the KYC Refresh Process because our obligation to administer our KYC
+Refresh Process is triggered in connection with a Politically Exposed Person, we will
+verify the KYC Information required for us to be reasonably satisfied that we have
+addressed the potential inconsistency, inaccuracy or material discrepancy identified;
+● where the Customer has advised us of the change to the Customerʼs profile or we are
+administering the KYC Refresh Process because a trigger in relation to the Customer has
+occurred, we will not verify the information collected unless the ML/TF Customer Risk
+Rating of the Customer is high; and
+● if we administer the KYC Refresh Process because of a periodic review of a Customer,
+we will verify the information collected according to Square AU's ECDD program.
+In accordance with our approach to verification in paragraphs (a) and (d) above, we may also elect to
+re-verify information we have already collected about the Customer.
+We have determined that a material inconsistency, inaccuracy or discrepancy would include, for
+example, where a Customer has provided an ABN with multiple digits that do not match. A material
+inconsistency, inaccuracy or discrepancy would not arise due to, for example, abbreviations (i.e.,
+“streetˮ and “Stˮ).
+100 AML/CTF Act, ss 30(2)(c)(i) – 30(2)(c)(ii); AML/CTF Rules, r 6-24.
+32
+
+25.6 What we do when we are unable to address an identified material
+inconsistency, inaccuracy or discrepancy
+If we are still unable to address the potential material inconsistency, inaccuracy or discrepancy, the
+Customer will be referred to our ECDD team for further assessment. The ECDD team will determine
+what additional KYC Information will be collected and/or verified to continue the Customer
+relationship.
+If we are still unable to establish that the Customer is who they claim to be, the ECDD team may
+determine to terminate the business relationship with the Customer and prohibit the further provision
+of Designated Services to the Customer. The ECDD team may also refer the Customer to the SMR
+team for further assessment.
+33
+
+Part E
+Financial sanctions
+26. Financial sanctions
+26.1 Our obligations in connection with financial sanctions
+When providing Designated Services, we must ensure that we do not:
+● make any assets available to, or available for the benefit of a person designated for
+Targeted Financial Sanctions, in contravention of the Autonomous Sanctions Act 2011 or
+the Charter of the United Nations Act 1945; and
+● use or deal with or allow or facilitate the use of or dealing with, any assets owned or
+controlled (directly or indirectly) by a person designated for Targeted Financial
+Sanctions, in contravention of the Autonomous Sanctions Act 2011 or the Charter of the
+United Nations Act 1945.101
+26.2 Approach to financial sanctions
+We implement the following procedures to ensure that we do not take any action that would result in
+us breaching our obligations in connection with Targeted Financial Sanctions in providing Designated
+Services:
+Square AU must align its sanctions controls with DAFT / UN requirements and Blockʼs Global
+Sanctions Compliance Policy.
+A Beneficial Owner is an individual who ultimately owns or controls an entity. ‘Ownsʼ in this case
+means owning 25% or more of the entity. This can be directly (such as through shareholdings) or
+indirectly (such as through another companyʼs ownership or through a bank or broker). ‘Controlʼ in
+this case means having the power to make decisions about the entityʼs finances and operations. They
+may exert control through trusts, agreements, arrangements, understandings, policies or practices.
+Risk assessment
+● Our procedures are informed by our ML/TF Risk Assessment, as set out in section 8 and
+9. Any changes to the ML/TF Risk Assessment will consider whether any updates are
+needed to our procedures for managing financial sanctions.
+● Our procedures in relation to any outsourced or third-party providers will consider
+financial sanctions risks in accordance with section 36.
+Due Diligence, screening and monitoring
+● (In relation to Customers and any Associated Persons) we conduct sanctions screening
+against all of our Customers and any Associated Person of a Customer in accordance
+with the applicable Customer Due Diligence procedure.
+Governance and oversight over screening results
+● We maintain a process flow to govern how any possible matches in sanctions screening
+are to be addressed, including how to resolve any ‘false positivesʼ or otherwise
+determine whether to freeze any asset that is owned or controlled by a designated
+person and to notify the Australian Sanctions Office and Australian Federal Police. Any
+101 AML/CTF Act, s 26F(3)(e); AML/CTF Rules r 5 – 3.
+34
+
+updates to the process flow will be approved by the Senior Manager and/or AML/CTF
+Compliance Officer, with notification to the Governing Body (i.e. the board)/senior
+management as appropriate.
+Monitoring
+● Sanctions screening forms part of our Ongoing Customer Due Diligence by conducting
+ongoing screening of Customers, Beneficial Owners and relevant counterparties against
+applicable sanctions lists, supported by transaction screening and geoblocking controls
+in accordance with Square AUʼs AML/CTF Policies and the Block Global Sanctions
+Compliance Policy.
+Record keeping
+● Records are kept in accordance with section 39.1, including in relation to sanctions
+screening.
+Training
+● Training of Personnel addresses financial sanctions risks in accordance with section 29.
+35
+
+Part F
+Personnel and service providers
+27. Personnel due diligence
+27.1 Overview of undertaking Personnel due diligence for new Square Personnel
+As part of Blockʼs global approach to hiring, all employment and engagement offers are contingent
+upon satisfactory due diligence checks, using a risk‑based approach.
+Square AUʼs Employee and Personnel Due Diligence Program EDDP outlines the risk‑based
+approach, systems, and controls used by Square AU to screen prospective and existing Square
+Personnel based on the roles they perform. In general, roles with increased levels of risk associated
+with them are subject to more stringent screening requirements. This detailed approach is
+documented in the Square AUʼs Employee and Personnel Due Diligence Program, which has been
+approved by the AML/CTF Compliance Officer and/or Chief Compliance Officer of Square AU.
+27.2 Square Personnel Subject to Due Diligence
+The following individuals are subject to Square Personnel due diligence:
+● Square Personnel, who carry out functions connected with the Designated Services
+Square AU provides as defined in the AML/CTF Act;
+● All members of the Governing Body (i.e. board); and
+● When a contractor converts to a Square AU permanent role, Square AU conducts its own
+due diligence in line with the EDDP.
+Square Personnel are required to adhere to all applicable internal controls, policies, procedures, and
+systems relevant to their role, including those established under the AML/CTF framework.
+Compliance with these requirements forms part of each employeeʼs ongoing employment obligations.
+27.3 Managing Square Personnel Who Fail to Meet Appropriate Standards
+Where a Square Personnel fails to meet these standards without a reasonable explanation, Square AU
+may take proportionate and lawful management action having regard to the nature, frequency, and
+seriousness of the conduct. Such actions may include, but are not limited to:
+● the provision of corrective feedback or coaching;
+● the requirement to complete additional or targeted training;
+● the issuing of formal warnings;
+● the implementation of a performance management process; and
+● termination of employment or engagement where warranted.
+All management actions will be applied in accordance with applicable employment laws, internal
+governance frameworks, and procedural fairness principles.
+27.4 Service Provider Personnel due diligence
+Before engaging any Outsourced Service Provider that supports Square AU in the delivery of
+Designated Services, Square AU undertakes a risk-based due diligence assessment to determine the
+suitability and reliability of the provider (see Compliance Vendors - Square AU. This due diligence is
+conducted in accordance with Square AUʼs TPRM Policy and is proportionate to the nature of the
+services being provided. This assessment may include, without limitation:
+● obtaining and reviewing corporate, ownership, and operational information relating to the
+Outsourced Service Provider;
+36
+
+● conducting electronic and independent verification of the Outsourced Service Providerʼs
+business details; and
+● assessing the Outsourced Service Providerʼs regulatory status and its ability to meet
+applicable legal and compliance obligations relevant to the services performed.
+The outcomes of this due diligence are considered as part of the onboarding and ongoing oversight
+of the Outsourced Service Provider.
+Square Personnel due diligence framework does not extend to Service Provider Personnel, on the
+basis that the Outsourced Service Provider has conducted pre-engagement screening, including
+background and integrity checks, in accordance with its contractual obligations to Square AU. Square
+AU retains oversight through its contractual audit and assurance rights and may review the adequacy
+of those screening processes at any time. Where deficiencies are identified, Square AU may require
+corrective action, including enhanced controls or amendments to contractual arrangements.
+28. Breaches by Personnel
+28.1 Monitoring of compliance
+The AML/CTF Compliance Officer must monitor and immediately report to the Governing Body:
+● any breaches or non-compliance with these AML/CTF Policies by any Square Personnel;
+● any breaches or non-compliance with the obligations by Outsourcing Service Providers
+or the associated Service Provider Personnel in connection with these AML/CTF Policies
+and the agreement between the parties.
+28.2 Consequences of non-compliance for Square Personnel
+Breaches or suspected breaches of these AML/CTF Policies by Square AU Personnel are managed in
+accordance with Square AU Breach Reporting Policy Clean Version Breach Reporting Policy | Square |
+Square AU. Consequences may include remediation actions, training interventions, access
+restrictions, contractual enforcement actions, or disciplinary outcomes, depending on the nature and
+severity of the breach.
+If any Square Personnel fails without reasonable excuse to comply with any system control or
+procedure contained in these AML/CTF Policies, Square AU may take the one or more of the following
+steps, depending on the scale and seriousness of the violation:
+● we will deliver individual feedback to address the errors, mistakes, or areas of
+improvement;
+● the Square Personnel will be required to attend a relevant training program;
+● we will issue formal verbal and/or written warnings;
+● schedule performance improvement plan; and
+● the Governing Body will consider whether any disciplinary action is appropriate having
+regard to the breach or failure to comply and the Square Personnelʼs history of
+compliance with these AML/CTF Policies.
+28.3 Consequences of non-compliance for Service Provider Personnel
+Where an Outsourcing Service Provider fails to meet its AML/CTF obligations or breaches these
+AML/CTF Policies, the matter will be assessed and escalated in accordance with the Square AU
+Breach Reporting Policy. Square AU will consider whether it is appropriate to continue the ongoing
+engagement of that Outsourcing Service Provider and otherwise consider appropriate action to
+respond to this non-compliance.
+37
+
+28.4 Record keeping
+All breaches or non-compliance with these AML/CTF Policies must be recorded and periodically
+reviewed in accordance with section 30.
+29. Personnel training
+29.1 Overview
+Square AU maintains a standalone training framework that governs the delivery, tracking, and
+oversight of employee training (see Square AU Training Program). AML/CTF-specific training is
+delivered as part of that framework and is designed to ensure that Square Personnel understand:
+● the ML/TF/PF risks relevant to Square AUʼs business;
+● Square AUʼs obligations under AML/CTF Laws, including financial sanctions; and
+● their role-specific responsibilities under these AML/CTF Policies.
+29.2 Square Personnel Subject to Training and Frequency
+Square AU ensures all Square Personnel involved in the provision or oversight of Designated
+Services, and the Governing Body (i.e. the board) will be receiving AML/CTF risk awareness training.
+The AML/CTF risk awareness training is provided to:
+● any new Square AU employees involved in the provision of the Designated Services
+within 30 days of their start dates;
+● annual refresher to current Square Personnel;
+● the board annually; and
+● ad‑hoc updates upon material changes (e.g., law, products, risk, procedures).
+29.3 Training of Square Personnel
+We will provide training to Square Personnel in relation to:
+● the ML/TF/PF risk that we may reasonably face in providing our Designated Services;
+and
+● the obligations imposed on us by the AML/CTF Laws, including our obligations in relation
+to financial sanctions.102
+We will each ensure that the Square Personnel directly involved in the provision of a Designated
+Service receive appropriate AML/CTF training at least once a year. This may include a mixture of
+delivery methods.
+The extent and frequency of the training will vary according to the personʼs involvement in or
+influence over the delivery of Designated Services.
+Our Square Personnel training will be developed by the AML/CTF Compliance Officer and/or a global
+team in the Block Business Group in order to provide Square Personnel appropriate training in relation
+to identifying transactions or investors or borrowers which may be using our Designated Services to
+launder money or finance terrorism or undertaking proliferation financing.
+We will ensure that the training provided to a person:103
+● is appropriate having regard to:
+o the particular function performed by the person;
+o the particular risks of ML/TF/PF that are relevant to the personʼs function; and
+o the particular responsibilities of the person under these AML/CTF policies; and
+● is readily understandable by the person.
+102 AML/CTF Act, s 26F(4)(e).
+103 AML/CTF Rules, r 5-9(3).
+38
+
+29.4 Content of Square Personnel training
+Having regard to the ML/TF/PF risk we face, the Square Personnel training we provide must (where
+relevant) give Square Personnel training at appropriate intervals including for:
+● for new Square Personnel upon induction;
+● when an existing Square Personnelʼs ML/TF risk profile changes as a result of the taking
+on a new role or new duty that may expose them to other ML/TF risks and AML/CTF
+functions; and
+● for all other Square Personnel at least annually.
+Under the training program, Square Personnel need to be made aware of:
+● our obligations as a Reporting Entity under the AML/CTF Laws including, but not limited
+to, the requirement to report suspicious matters, threshold transactions and other
+compliance matters, including our obligations to comply with financial sanctions;
+● procedures and processes which must be carried out by the Square Personnel in
+accordance with these AML/CTF Policies including, but not limited to the Initial Customer
+Due Diligence Procedures and Ongoing Customer Due Diligence;
+● the consequences of non-compliance with these AML/CTF Policies; and
+● the type of ML/TF/PF risks that we face and the consequences of failing to address
+these risks.
+29.5 Tailoring Square Personnel Training
+We acknowledge that Square Personnel have roles with different AML/CTF functions and varied
+ML/TF/PF risk levels, we will tailor appropriate training for Square Personnel exposed to these
+different risks.
+Some roles may need technical training while others may only need general awareness. For example:
+● all personnel in Customer-facing roles need an awareness of indicators of suspicious
+activity and reporting procedures.
+● Square Personnel responsible for undertaking enhanced Customer Due Diligence and
+investigating suspicious matters need a deeper understanding of the ML/TF risks that
+our business faces and procedures they must follow.
+When tailoring AML/CTF training, we will have regard to our operation training policy.
+29.6 Change to our ML/TF Risk Assessment
+If our ML/TF Risk Assessment materially changes or new designated services or delivering methods
+are implemented, updated training may be required to address this.
+The training required will depend on the scope of a Square Personnelʼs role and the level of
+responsibility they have been given which puts them on the front line of ML/TF/PF risk detection.
+29.7 Training for high-risk Square Personnel
+If the Square Personnelʼs role within Square AU is one which has been assigned a high risk according
+to Employee and Personnel Due Diligence Program, then, in addition to the training outlined in
+section 29.4 above, that Square Personnel must be given further training as appropriate.
+Part of the training that we will provide to Square Personnel must include extra training to help Square
+Personnel detect the likely occurrence of ML/TF/PF activity.
+Under the training program, we will provide ongoing training at intervals in accordance with
+section 29.4 and ensure Square Personnel are fulfilling their training obligations.
+39
+
+29.8 Updating the Square Personnel training program
+Square AU must keep a training register which records all relevant training undertaken by Square
+Personnel, the relevant date the training was undertaken and track when further training is due.
+We will amend the training program where appropriate to ensure updated information relevant to that
+training (including as determined via awareness of information provided through the AUSTRAC
+website) is taken into account. AUSTRAC may, for example, provide updates on the type of
+transactions requiring extra checks or monitoring if industry practice shows evidence of a higher risk
+for certain transactions over other transactions.
+The AML/CTF Compliance Officer should also check the AUSTRAC website regularly for case
+scenarios that have been provided which assist in explaining the requirements that we, as a Reporting
+Entity, must follow in order to ensure that our risk awareness training program is compliant.
+29.9 Breaches and non-compliance in connection with Square Personnel training
+The AML/CTF Compliance Officer will regularly check that Square Personnel are attending all required
+training sessions. The AML/CTF Compliance Officer must report to the Governing Body all instances
+of non-compliance with our Square Personnel training and any failures by Square Personnel to
+undertake training at appropriate times.
+Those Square Personnel who fail to attend training sessions must attend the next available training
+session. The AML/CTF Compliance Officer will be responsible for ensuring all Square Personnel
+attend all required training.
+Any ongoing failures of Square Personnel to undertake required training will be considered in
+accordance with section 28.2.
+29.10 Service Provider Personnel Training
+Where the Outsourced Service Provider arrangement will involve Service Provider Personnel, we will
+ensure AML/CTF training is delivered to all the Service Provider Personnel who perform, or will
+perform AML/CTF functions for Square AU.
+29.11 Maintaining training program database
+Both Square AU and its Outsourced Services Providers will be required to maintain a database which
+records all AML/CTF training and development undertaken by their Personnel, including:
+● name of Personnel member;
+● details of training undertaken;
+● completion status; and
+● date completed.
+30. Breach escalation procedures
+30.1 Breach reporting process
+Breaches (or apparent breaches) of the AML/CTF Laws or these AML/CTF Policies must be reported
+to the AML/CTF Compliance Officer.
+30.2 Escalation of AML/CTF breaches
+Where there has been a failure to comply with any system, control or procedure established in
+accordance with these AML/CTF Policies that:
+● has not been, or is incapable of being, fully remedied within a timeframe that is
+reasonable having regard to the nature, severity, and impact of the breach; or
+● the AML/CTF Compliance Officer otherwise considers to be significant,
+40
+
+the AML/CTF Compliance Officer must notify a Senior Manager and follow relevant breach reporting
+procedures.
+30.3 Addressing AML/CTF breaches
+The Senior Manager(s) will work with the AML/CTF Compliance Officer to consider the breach and
+prepare a plan of action to address the breach (including, where relevant, the causes of the breach).
+This may include one or more of the following:
+● preparation of a targeted project plan to remedy the breach;
+● creation of a timeline for further review of any relevant parts of these AML/CTF Policies;
+● updates or amendments to these AML/CTF Policies or any applicable underlying policies
+and procedures;
+● alterations to particular products or services, or our business model; or
+● any other actions that a Senior Manager or the Governing Body considers is appropriate.
+If appropriate, a Senior Manager will approve a plan of action.
+Where a Senior Manager and the AML/CTF Compliance Officer consider it is appropriate to do so, the
+details of the breach and the plan of action may then be presented to the Governing Body by the
+AML/CTF Compliance Officer. Where this occurs, the Governing Body will review the information
+provided by the AML/CTF Compliance Officer and will take the action that the Governing Body
+determines is necessary after considering the breach and any other matters that it considers to be
+relevant.
+30.4 Breaches register
+Square AU will maintain a breach register which contains details of any breaches or failure to comply
+with the procedures set out in this AML/CTF Program. On an annual basis, the AML/CTF Compliance
+Officer must review the breaches register and consider whether the breaches or non-compliance
+which occurred during the relevant period indicate any systemic deficiencies in the AML/CTF
+Program and recommend to the Governing Body how these deficiencies ought to be rectified. Square
+AU will also provide periodic (at least quarterly) summary reporting of breaches and remediation
+status to the Governing Body (or delegated committee) and incorporate root‑cause insights into
+training, and program improvements. Records are retained in accordance with section 39 Record
+keeping).
+41
+
+Part G
+Registration and Travel Rule
+31. Registration as a remittance provider
+Square AU provides the Designated Services set out in Schedule 2 of these AML/CTF Policies. As
+these Designated Services include a Beneficiary Institution Value Transfer Service, the service will
+constitute a ‘registrable remittance serviceʼ under the AML/CTF Act.104
+Square AU must not provide a registrable remittance service, unless it is registered as:
+● a registered independent remittance provider; or
+● a registered remittance affiliate of a registered remittance network provider,
+before it provides the relevant service.105
+Square AU will be registered as a registered independent remittance provider on the Remittance
+Sector Register.
+32. Application of the Travel Rule
+As the provider of a:
+● Ordering Institution Value Transfer Service in relation to refunds of merchant payments,
+Square AU is subject to the Travel Rule as an Ordering Institution; and
+● Beneficiary Institution Value Transfer Service in relation to merchant payments, Square
+AU is subject to the Travel Rule as a Beneficiary Institution.106
+33. Travel Rule for Ordering Instructions
+When Square AU is acting as an Ordering Institution to provide an Ordering Institution Value Transfer
+Service, it must comply with the Travel Rule as applicable to an Ordering Institution. For refunds of
+Merchant Payments, this requires Square AU to pass on prescribed information.
+Square AU may provide Ordering Institution Value Transfer Services relating to refunds of Merchant
+Payments. Square AUʼs policies for meeting its Travel Rule obligations in providing an Ordering
+Institution Value Transfer Service are described in this section 33 and further detailed in Schedule 4.
+33.1 Accepting instruction from a payer
+When Square AU provides an Ordering Institution Value Transfer Service, the service will commence
+with Square AU accepting a transfer instruction from a Customer (payer). This instruction may be:
+● verbal;
+● written; or
+● implicit under a standing arrangement.
+The instruction may be provided directly or indirectly.
+The instruction will describe who the value is being transferred to (payee).
+104 AML/CTF Act, s 5.
+105 AML/CTF Act, ss 74(1A) and (1B).
+106 AML/CTF Act, ss 64 and 65.
+42
+
+33.2 Value Transfer is a refund of Merchant Payment
+Square AU will provide an Ordering Institution Value Transfer Service relating only to refunds of
+Merchant Payments. For refunds of Merchant Payments:
+● we are not required to collect or verify any information.107 However, we may have
+collected information on the payer as part of our Customer Due Diligence; and
+● we are required to pass on the card number of the card (including a tokenised reference)
+108 that the payer used in relation to the refund of Merchant Payment. 109
+33.3 Timing to pass on information
+If the Transfer Message for the Value Transfer does not give effect to the Value Transfer then, the
+Transfer Message must be passed on before, or at the same time as, the Ordering Institution gives
+effect to the Value Transfer.
+33.4 Request to provide information
+As an Ordering Institution, Square AU must pass on the information set out in section 33.2 to the next
+institution in the Value Transfer Chain:
+● as soon as practicable after receiving a request from the institution; and110
+● in any case, within 3 business days after receiving sufficient information from the other
+institution to process the request.111
+If:
+● the Value Transfer is a refund of Merchant Payment; and
+● Square AU provides an item 29 Designated Services as an Ordering Institution at or
+through a permanent establishment in Australia,
+we must provide Square AUʼs full name and the permanent establishment at or through which we
+provided the Designated Service to another institution in the Value Transfer Chain within 3 business
+days after receiving a request from the institution for that information. 112
+33.5 Exemption from the Travel Rule
+Travel rule obligations under the AML/CTF Laws do not apply to transfers of money or property within
+a single overseas country or within the European Economic Area if the:
+● foreign country where the Value Transfer Designated Service is being provided has
+implemented laws relating to the Travel Rule; and
+● Value Transfer service complies with these foreign Travel Rule laws. 113
+However, while the Travel Rule under the AML/CTF Laws do not apply, these services are still
+Designated Services. We must still comply with other AML/CTF obligations that apply to Designated
+Services through foreign branches and subsidiaries, such as Customer Due Diligence.
+34. Travel rule for Beneficiary Institutions
+34.1 Value Transfers undertaken by Square AU
+Square AU will provide a Beneficiary Institution Value Transfer Service relating only to Merchant
+Payments.
+107 AML/CTF Act, ss 64(2)(a) and 64(2)(b); AML/CTF Rules, r 8-8(5).
+108 AML/CTF Rules, r 1-4.
+109 AML/CTF Rules, r 8-3.
+110 AML/CTF Act, s64(5).
+111 AML/CTF Rules, r 5-17(2) and (3).
+112 AML/CTF Rules, r 5-17(4) and (5).
+113 AML/CTF Rules, r 8-7.
+43
+
+Square AUʼs policies for meeting its Travel Rule obligations in providing a Beneficiary Institution Value
+Transfer Service are described in this section 34 and further detailed in Schedule 4.
+34.2 Measures to monitor for receipt of information
+As Square AU will only provide Value Transfer services relating to Merchant Payments, we will
+monitor for receipt of the card number of the card (including tokenised card number) the payer used
+in relation to the Merchant Payment or Merchant Payment that is refunded.114
+We will take reasonable steps to monitor Transfer Messages for missing or inaccurate card
+numbers.115 We do this by taking a risk-based approach. For example, we may conduct:
+● post-event monitoring;
+● real-time monitoring;
+● sampling transfer messages and/or
+● completing other assurance activities.
+34.3 Inaccurate or missing information
+We will take reasonable steps to monitor whether we have received the card number for the Value
+Transfer, and whether the information is accurate.116
+If we detect that a Transfer Message contains inaccurate card number, or is missing the card number,
+we must adopt one or more of the following measures:
+● refuse to make the transferred value available to the payee;
+● request further information from another institution in the Value Transfer Chain;
+● if possible, otherwise obtain the full and accurate card number; and
+● take any other risk-based actions to reduce risk. 117
+34.4 Request to provide information
+If:
+● the Value Transfer relates to a Merchant Payment; and
+● Square AU provides a Beneficiary Institution Value Transfer Service at or through a
+permanent establishment in Australia,
+we must provide Square AUʼs full name and the permanent establishment at or through which we
+provided the Designated Service to another institution in the Value Transfer Chain within 3 business
+days after receiving a request from the institution for that information.118
+114 AML/CTF Act, r 8-4.
+115 AML/CTF Act, s 65(2).
+116 AML/CTF Act, s 65(2); AML/CTF Rules, r 5-18(2)
+117 AML/CTF Act, s 65(3); AML/CTF Rules, r 5-18(2).
+118 AML/CTF Rules, r 5-18(4) and (5).
+44
+
+Part H
+Reporting
+35. Reporting obligations
+35.1 Suspicious matter reports
+Reporting requirement Reporting Timeframe
+Suspicious Matter Reports
+Section 41 of the AML/CTF Act requires a Reporting Entity to report various matters to AUSTRAC
+when it forms a suspicion (Suspicion) on reasonable grounds about those matters.
+By approving these AML/CTF Policies, the Governing Body and Senior Managers confirm and
+approve the following protocol regarding authorisation to form a Suspicion on our behalf:
+● Only the AML/CTF Compliance Officer or an Authorised Person may form a Suspicion
+and/or file a SMR on behalf of us (because these individuals have the expertise and
+have received relevant training required to perform this role).
+Appropriate systems, controls and procedures have been designed to ensure we comply with our
+obligations in relation to SMRs. These include:
+● UARs: Personnel can submit a UAR in accordance with section 36.2 of these AML/CTF
+Policies.
+● Training: all Personnel receive appropriate training in accordance with section 29 of
+these AML/CTF Policies, which includes training designed to ensure we do not warn or
+‘tip offʼ Customers in relation to whom a Suspicion has arisen or a SMR has been
+lodged, or tip off any other person in connection with that Suspicion, and training to
+enable them to identify potential suspicious activity that may warrant a UAR; and
+● Authorisation: only the AML/CTF Compliance Officer or an Authorised Person has
+authority to form a Suspicion on reasonable grounds and submit SMRs to AUSTRAC.
+These persons receive appropriate training to identify whether activity in a UAR may
+give rise to a Suspicion and to complete SMRs in accordance with the AML/CTF Laws.
+Requirement to submit SMRs If the Suspicion:
+A SMR must be given to AUSTRAC if we form a Suspicion. We will form a 1. relates to a
+Suspicion if: prescribed
+● we commence to provide, or propose to provide, a Financing of
+Designated Service to a person; Terrorism Offence
+within 24 hours;122
+● the person requests us to provide a Designated Service to
+and
+them and the Designated Service is of a kind we ordinarily
+provide; or 2. if 1 does not apply
+● the person inquires whether we would be willing to provide and the Reporting
+a Designated Service and the Designated Service is of a Entity reasonably
+kind we ordinarily provide,119 believes that some
+● suspect on reasonable grounds that any of the following is (but not all) of the
+satisfied: information may be
+privileged from
+119 AML/CTF Act, s 41(a) – (c).
+122 AML/CTF Act, s 41(2)(b).
+45
+
+Reporting requirement Reporting Timeframe
+being given on the
+1. the person, or a person acting as their agent, is not who they claim
+ground of legal
+to be; or
+professional
+2. information that we have concerning the provision or prospective
+privilege and the
+provision of a Designated Service may be:
+privilege belongs to
+o relevant to the investigation of, or prosecution of a another person
+person for, an evasion or attempted evasion of a other than the
+taxation law or any law of a State or Territory that Reporting Entity
+deals with taxation; then within 5
+business days;123 or
+o relevant to the investigation of, or prosecution of a
+person for, an offence against a law of the 3. if 1 and 2 both do
+Commonwealth or of a State or Territory; not apply then
+o of assistance to enforcement of the Proceeds of within 3 business
+Crime Act 2002 (Cth) or regulations under that days;124
+Act; or
+of forming the
+o may be of assistance in the enforcement of a law
+Suspicion.
+of a State or Territory law that corresponds to the
+Proceeds of Crime Act 2002 Cth or regulations
+under that Act; or
+3. that the provision, or prospective provision, of the Designated
+Service is preparatory to an offence within limbs (a), (b) or (c) of a
+Financing of Terrorism Offence,
+4. that information that we have concerning the provision or
+prospective provision of a Designated Service may be relevant to
+the investigation of, or prosecution of a person for, an offence
+within limbs (a), (b) or (c) of a Financing of Terrorism Offence,
+5. that the provision, or prospective provision, of the Designated
+Service is preparatory to an offence within limbs (a) or (b) of a
+Money Laundering Offence,
+6. that information that we have concerning the provision or
+prospective provision of a Designated Service may be relevant to
+the investigation of, or prosecution of a person for, an offence
+within limbs (a) or (b) of a Money Laundering Offence.120
+SMRs must be lodged even if the Designated Service does not
+proceed.121
+Process for forming Suspicions
+We form a Suspicion and report to AUSTRAC using the following
+process:
+1. If a member of our staff identifies a transaction or behaviour that is:
+o unusual; or
+120 AML/CTF Act, s 49(1)(d) – (j).
+121 AML/CTF Act, s 41(1).
+123 AML/CTF Act, s 41(2)(aa).
+124 AML/CTF Act, s 41(2)(a).
+46
+
+Reporting requirement Reporting Timeframe
+o which gives rise to questions relevant to any
+matters specified in paragraphs 1 to 6 under
+section 35.1 above,
+that Personnel must report what they have identified to the
+AML/CTF Compliance Officer or an Authorised Person as a UAR
+(see section 36.2 for further detail on how Personnel may lodge an
+UAR.
+There are three broad channels through which a member of staff
+and/or Square AU Compliance Team may become aware of activity
+requiring further investigation to determine if it warrants a SMR
+submission. These channels include:
+• Automated account monitoring that has been established to
+identify potentially suspicious activity.
+• Internal referrals from Block staff members (e.g., Compliance,
+Risk, Capital Operations, Afterpay or Customer Success teams)
+• External referrals from third parties (e.g., banking partners, other
+financial institutions, law firms, law enforcement or government
+agencies)
+2. The AML/CTF Compliance Officer or Authorised Person must
+assess the UAR and may on the basis of that assessment form a
+Suspicion on reasonable grounds. The assessment will be
+conducted within a time frame set internally by Square AU. An
+internal tracking system is set up to ensure the time frame is strictly
+followed.
+As part of the assessment of the UAR, the AML/CTF Compliance Officer
+or an Authorised Person must commence undertaking one or more of
+the following actions as required:
+● investigate the issue in order to decide whether or not a
+SMR obligation has been triggered within the meaning of
+the AML/CTF Act and AML/CTF Rules;
+● consider whether it is appropriate to make the Customer
+subject to the Enhanced Customer Due Diligence; and
+● keep a written record of any review and investigation
+undertaken.
+In undertaking this assessment, the AML/CTF Compliance must ensure
+that the review and enquiries are:
+● conducted in a prudent manner using common sense, tact
+and discretion; and
+● do not give rise to a ‘tipping offʼ offence (see section 37.1
+for further details);
+Immediately upon the AML/CTF Compliance Officer or an Authorised
+Person determining that a SMR obligation has arisen, the AML/CTF
+Compliance Officer or an Authorised Person must give a written report
+to AUSTRAC regarding the matter in the relevant Reporting Timeframe.
+47
+
+Reporting requirement Reporting Timeframe
+A Suspicious Matter report must be submitted in the form prescribed by
+AUSTRAC from time to time (as accessible on AUSTRACʼs website).
+Legal professional privilege
+We may refuse to give AUSTRAC a SMR if we reasonably believe that all
+of the information compromising the grounds on which we hold the
+relevant Suspicion is privileged from being given on grounds of legal
+professional privilege.
+If we reasonably believe that some (but not all) of the information
+required to be contained in the SMR is privileged from being given on
+the ground of legal professional privileged, we will accompany the SMR
+form with an LPP form in relation to the information.
+35.2 Threshold Transaction Reports
+Threshold Transaction Reports
+Section 43 of the AML/CTF Act requires Reporting Entities that provide threshold transactions to
+lodge a TTR with AUSTRAC within ten 10 business days of the transaction taking place. Threshold
+transactions are transactions involving the movement of physical currency or to the value of
+$10,000 or more (or the foreign currency equivalent). Note: this may constitute one or more related
+transactions). They do not include transactions conducted by way of electronic bank transfer.
+Any Personnel who handle a Threshold Transaction must notify the AML/CTF Compliance Officer of
+that fact. The AML/CTF Compliance Officer must:
+● report all Threshold Transactions to the AUSTRAC CEO within ten Business Days after
+the transaction takes place using the AUSTRAC prescribed form; and
+● reporting to the Governing Body at the next scheduled board meeting that a Threshold
+Transaction has occurred.
+We must report all transactions involving the movement of physical Within ten 10 business
+currency or to a value of $10,000 or more (or the foreign currency days of the transaction
+equivalent). taking place.
+However, as we do not accept or handle any physical currency, TTR
+obligations do not apply to us.
+35.3 Value Transfer Service reporting
+International Value Transfer Services IVTSs
+Section 46 of the AML/CTF Act requires Reporting Entities that provide IVTSs lodge an IVTS report
+with AUSTRAC within ten 10 business days of the transfer message for the transfer of value being
+passed on or received (as appropriate). Certain other reports must be made under section 46A in
+connection with transfer of value involving virtual assets.
+Square AU provides Designated Services that may involve IVTSs. We will assess and seek
+compliance with the IVTS reporting obligations in accordance with the transitional rules to be
+published by AUSTRAC.
+48
+
+35.4 AML compliance reports
+AML Compliance Reports
+Section 47 of the AML/CTF Act requires us to lodge annual compliance reports with AUSTRAC, in
+an approved form and containing such information as is required, in accordance with the AML/CTF
+Rules.
+We are required to lodge annual compliance reports with AUSTRAC Annually.
+each calendar year.
+The lodgement period is
+The AML/CTF Compliance Officer will consult with the Senior between 1 January and
+Managers, other management and other relevant Personnel to prepare 31 March or as
+and submit the annual AUSTRAC compliance reports in the first quarter otherwise advised by
+of each calendar year in respect of activities undertaken in the previous AUSTRAC.
+calendar year and will lodge these with AUSTRAC as required. These
+will be lodged via AUSTRACʼs electronic portal.
+The AML/CTF Compliance Officer must provide confirmation to the
+Governing Body that the AML/CTF compliance report has been
+submitted to AUSTRAC, including a summary of its contents and any
+matters relevant for noting as soon as possible after the report has been
+lodged with AUSTRAC.
+Square AUʼs AML/CTF compliance report must be lodged online at
+https://online.austrac.gov.au.
+35.5 AML/CTF Compliance Officer reporting responsibilities
+The AML/CTF Compliance Officer will be responsible for:
+● overseeing Personnel compliance with our reporting obligations under sections 35.1 and
+35.2;
+● overseeing training provided to Personnel in relation to our reporting obligations under
+sections 35.1 and 35.2 that is arranged and delivered by our global team in the Block
+Business Group;
+36. Assessment of unusual matters
+36.1 What is an assessment of potential suspicious matters
+An Unusual Activity Report or UAR is a report used to summarise information about behaviour or
+circumstances that are potentially suspicious and which therefore requires further investigation.
+A UAR may be prepared in the form of an email to the AML/CTF Compliance Officer or an Authorised
+Person who is authorised to form Suspicions and file SMRs on our behalf. Notwithstanding this
+section, a UAR does not need to take a specific verbal or written form, or be described in its title as an
+UAR.
+36.2 Who can submit a UAR?
+A UAR may be submitted by any Personnel, staff member or executive who encounters unusual
+behaviour or who receives information from a law enforcement agency or authority.
+49
+
+36.3 Assessing UAR
+If relevant, we categorise and prioritise the UARs to ensure that the cases with potentially higher
+levels of ML/TF/PF risk are considered before those with lower levels of ML/TF risk.
+We will review UARs in the following order:
+● any UARs that might relate toa Financing of Terrorism Offence (see section 35.1; and then
+● all other UARs.
+A UARs is assessed in the following manner:
+● analysis of the transactions against the Customer profile to determine whether
+transactions are complex, unusually large for that Customer, or display unusual patterns
+of transactions, and in either case are transactions which have no apparent economic or
+visible lawful purpose;
+● where appropriate, allocation of a higher ML/TF/TF risk level to the Customer;
+● collection of additional KYC Information as required; and
+● application of the ECDD procedures set out in section 17.
+36.4 Forming a Suspicion from a UAR
+Each UAR will be assessed on a case-by-case basis to determine if the potentially suspicious activity
+gives rise to a Suspicion on reasonable grounds in accordance with our process for reporting
+suspicious matters set out in section 35.1.
+36.5 Law enforcement and government agencies
+Where we assess a UAR that is associated with an enquiry from law enforcement or other
+government agencies or authorities about a particular Customer or transaction, we must also apply
+the principles set out in section 35.1 to decide if the matter needs to be the subject of a SMR may be
+submitted.
+Law enforcement agencies or authorities can request information when a complaint is received from a
+Customer, which may or may not be related to a fraud event. We may not be aware of the reasons
+that a law enforcement agency or authority is requesting information.
+36.6 Ongoing review of UAR process
+The AML/CTF Compliance Officer is responsible for conducting ongoing review of the UAR process to
+ensure:
+● materials required by the AML/CTF Compliance Officer or Authorised Persons to conduct
+an assessment of the UAR are available on a timely basis; and
+● UARs are being assessed and a determination is being made as soon as practicable as to
+whether a SMR must be filed in accordance with section 32.1.
+To the extent that these standards are not being satisfied, the AML/CTF Compliance Officer will
+identify improvements required to the process supporting section 35.1 and escalate this to the
+Governing Body.
+37. Preventing tipping off
+37.1 Tipping off offence
+Subject to certain limited exceptions, it is an offence under section 131 of the AML/CTF Act to disclose
+Restricted Information to anyone outside of AUSTRAC, if the disclosure of the Restricted Information
+would, or could reasonably be expected to, prejudice an investigation (whether or not such an
+investigation has commenced):
+50
+
+● of an offence against a law of the Commonwealth or of a State or Territory;
+● for the purposes of the Proceeds of Crime Act 2002 Cth or regulations under that Act;
+or
+● for the purposes of a law of a State or Territory law that corresponds to the Proceeds of
+Crime Act 2002 Cth or regulations under that Act.
+This is known as the “tipping offˮ offence. The tipping off offence may be committed by the following
+persons (current or former):
+● a Reporting Entity;
+● an officer, employee or agent of a Reporting Entity;
+● a person that has been required to give information or produce documents under
+section 491 or section 49B1 of the AML/CTF Act.
+37.2 Exceptions
+The tipping off offence does not apply if the disclosure is made to another Reporting Entity and the
+disclosure is made for the purpose of detecting, deterring or disrupting ML/TF/PF or other serious
+crimes, subject to conditions which may be prescribed in the AML/CTF Rules being satisfied.125
+Square AU will only rely on this exception with prior approval from Square AU Legal General Counsel)
+and the AML/CTF Compliance Officer, and with a documented rationale and scope-limited disclosure.
+37.3 Controls to manage tipping off risk
+We have established safeguards to prevent the contravention of the tipping off offence by us or our
+officers, employees or agents.
+We implement the following protocols that reduce the risk of tipping off:
+● only the AML/CTF Compliance Officer or Authorised Person may form a Suspicion or file
+a SMR;
+● information regarding SMRs is not readily accessible on the Customerʼs file and is only to
+be provided to persons within our organisation, other than the AML/CTF Compliance
+Officer and Authorised Persons, where it is determined that they need to know that
+Restricted Information to fulfil the requirements of their role;
+● no Restricted Information described above is to be provided to any third party unless the
+Square AU Legal General Counsel) has first confirmed that it is permissible under one of
+the exemptions under subsections 1234 to 6 of the AML/CTF Act;
+● our Personnel must not do anything that would lead a Customer or anyone else (other
+than AUSTRAC to believe that a Suspicion has been formed or that Restricted
+Information has been communicated to AUSTRAC;126
+● all Personnel receive training regarding tipping off as part of the AML/CTF training set
+out in section 29;127
+● when discussing trends and insights, disclose generally identified patterns of behaviour
+rather than mentioning specific Customers or transactions;
+● implement and review audit trails of who accesses Information and when;
+● use a legally enforceable undertaking to ensure that Information is kept confidential by
+employees and any third parties we engage;
+● maintain good security practices such as secure electronic document storage, password
+protection of documents, secure document destruction of physical copies;
+● SMR/UAR content is restricted in case management systems to the AML/CTF
+Compliance Officer, Authorised Persons, and Square AU Legal General Counsel).
+125 AML/CTF Act, s 123(5).
+126 In some circumstances, ECDD procedures may lead a Customer to suspect that they are being investigated. It is AUSTRAC’s view that the
+mere act of asking a Customer for additional information about their identity or source or destination of their funds, for example, would not
+constitute an unlawful disclosure of information under the tipping off provisions of the Act.
+127 AML/CTF Rules, r 5-13.
+51
+
+Disclosures to Internal Audit or the Board/committee are aggregate or de‑identified
+unless a named case is required for oversight, and then only with AML/CTF Compliance
+Officer approval;
+● Operational teams use generic language when contacting Customers (e.g., “additional
+information requiredˮ or “account review in progressˮ) and must not reference SMRs,
+Suspicions, or AUSTRAC.
+● oversight reporting avoids sensitive operational details that could risk tipping off; where
+necessary, details are confined to closed sessions with Legal present to preserve
+privilege; and
+● when sharing Restricted Information with third parties, we will also consider adopting the
+following measures:
+o only disclose Restricted Information to people that have a genuine need to
+know;
+o consider what legal obligations apply to third parties in foreign countries that we
+are sharing Restricted Information with to ensure they are consistent with our
+obligations under the AML/CTF Act;
+o consider whether third parties we may share Restricted Information with have
+adopted suitable controls to prevent tipping off, such as those outlined above
+attach conditions to the further use of Restricted Information we provide to third
+parties to prevent the Restricted Information getting back to the subject.
+52
+
+Part I
+Outsourcing and record keeping
+38. Record keeping
+38.1 Retention of records
+In accordance with Part 10 of the AML/CTF Act, we will keep a record, or a copy or extract of the
+record of certain kinds of information. This includes (but is not limited to) information related to:
+● records pertaining to our completion of Customer Due Diligence;
+● the Designated Services we provide to a Customer including but not be limited to
+transactional records such as application forms, Customer instructions and payment
+receipts; and
+● the AML/CTF Program and records reasonably necessary to demonstrate our
+compliance obligations in connection with the establishment and maintenance of the
+AML/CTF Program under Part 1A of the AML/CTF Act.
+The table below sets out specific requirements that apply to certain kinds of information.
+Type of information Requirement Duration of retention of record
+Where we have commenced to Retain sufficient records.129 7 years after the record is
+provide or provide a made.130
+Designated Service to a
+Customer, sufficient records to
+allow the reconstruction of
+individual transactions relating
+to the provision of the
+Designated Service to the
+Customer.128
+A document relating to the Retain the document (or a 7 years after the giving of the
+provision (or prospective copy).132 document.133
+provision) of a Designated
+Service that is given to us by
+or on behalf of the Customer
+where we commence (or have
+commenced) to provide the
+Designated Service to the
+Customer.131
+Where we undertake Customer The records kept must include: Until the end of the 7 year
+Due Diligence in relation to a ● ∙ sufficient and period that begins:
+Customer to whom the accurate records ● when the business
+Reporting Entity provides a which relationship ends;
+Designated Service, or demonstrate the or
+128 AML/CTF Act, s 107(1).
+129 Ibid.
+130 AML/CTF Act, s 107(3).
+131 AML/CTF Act, s 108(1).
+132 AML/CTF Act, s 108(2).
+133 AML/CTF Act, s 108(2).
+53
+
+Type of information Requirement Duration of retention of record
+proposed or proposes to type and content ● when Square AU
+provide a Designated Service, of the data completes the
+we must retain records that collected by provision of the
+are: Square AU in occasional
+● reasonably relation to the transaction.136
+necessary to Customer for the
+demonstrate purposes of
+compliance with complying with
+the Reporting Customer Due
+Entityʼs obligations Diligence
+under Part 2 of the requirements; and
+AML/CTF Act; and ● records of our
+● are in the English analysis,
+language, or in a identification or
+form in which the assessment of
+records are readily ML/TF risk, or
+accessible and decision making,
+readily convertible undertaken by
+into writing in the Square AU in
+English relation to the
+language.134 Customer for the
+purposes of
+complying with
+Customer Due
+Diligence
+requirements.135
+Where a person (the first Retain the copy of the Until the end of the first 7-year
+person) carries out a record.138 period:
+procedure mentioned in ● that began at a
+section 37A1a or time after Part 2
+section 38(b) and in had that effect;
+connection with the initial and
+procedure, Part 2 has effect as
+● throughout the
+if a Reporting Entity had
+whole of which
+complied with
+the Reporting
+paragraph 283c or (d) in
+Entity did not
+respect of a Customer, and the
+provide any
+first person makes a record of
+Designated
+the initial procedure and gives
+Services to the
+a copy of the record to the
+Customer.139
+Reporting Entity.137
+134 AML/CTF Act, s 111(1).
+135 AML/CTF Act, s 111(3).
+136 AML/CTF Act, s 111(2).
+137 AML/CTF Act, s 114(1)(a) – (c).
+138 AML/CTF Act, s 114(1).
+139 AML/CTF Act, s 114(1)(d) – (e).
+54
+
+Type of information Requirement Duration of retention of record
+We must keep records that we Retain the record or a copy of 7 years after the completion of
+prepare under the record.141 the preparation of the
+paragraph 37B1c of the record.142
+AML/CTF Act.140
+We must keep records that are Retain records in the English The records must be kept
+reasonably necessary to language or are in a form throughout the period:
+demonstrate compliance with which the records are readily ● beginning at the
+our obligations under Part 1A accessible and readily time the record
+AML/CTF programs) of the convertible into writing in the was made; and
+AML/CTF Act.143 English language.144
+● ending 7 years
+after the record is
+no longer relevant
+to the Reporting
+Entityʼs
+compliance with
+its obligations
+under Part 1A of
+the AML/CTF Act.
+39. Outsourcing and third-party technology providers
+39.1 Engaging with Outsourced Services Providers
+With the written approval of a Senior Manager, we may appoint a third-party service provider (i.e.
+Outsourced Services Provider) to either:
+● perform any of our obligations under these AML/CTF Policies; or
+● to provide services for us to comply with parts of our AML/CTF obligations (e.g.,
+technology service providers).
+To the extent that Square AU appoints a service provider that is a related entity (i.e. is not a
+third-party), this section 39 does not apply to that engagement. However, Square AU will implement
+appropriate controls which may include measures set out in this section 39. Any such engagement
+will be subject to the oversight of the Senior Managers.
+39.2 Controls on engagement of Outsourced Services Providers
+Where the Square AU outsources any activities that may affect the ML/TF/PF risk faced by us or any
+of our AML/CTF obligations, we will:
+● have an agreement in place with the Outsourced Services Provider;
+● where relevant, require the Outsourced Services Provider to implement policies and
+procedures similar to those outlined in these AML/CTF Policies;
+● assess the ML/TF/PF risk associated with the outsourcing of the particular activity;
+● assess the Australian financial sanction risk associated with the outsourcing of the
+particular activity;
+140 AML/CTF Act, s 114A(1).
+141 Ibid.
+142 Ibid.
+143 AML/CTF Act, s 116(1)(a).
+144 AML/CTF Act, s 116(1)(b).
+55
+
+● conduct due diligence on the activities outsourced to determine whether outsourcing
+these activities and services will increase the ML/TF/PF risk faced by Square AU and
+implement appropriate measures to address the increased risk;
+● conduct due diligence on the Outsourced Services Provider to ensure that outsourcing
+activities to these parties is not increasing the ML/TF/PF risk faced by Square AU;
+● where appropriate, ensure the Outsourced Services Provider understand:
+o the obligations of Square AU under the AML/CTF Laws;
+o the consequences of non-compliance with the AML/CTF Laws;
+o take into account the consequences of non-compliance with the AML/CTF
+Laws;
+o the type of ML/TF/PF risk that Square AU might face and the potential
+consequences of such risk; and
+● those processes and procedures provided for by these AML/CTF Policies that are
+relevant to the work carried out by the party to whom activities are outsourced.
+39.3 Ongoing review and assessment of Outsourced Services Providers
+The Senior Manager / AML/CTF Compliance Officer must:
+● review the ML/TF/PF risks posed by the outsourcing arrangement and the controls
+regularly and in response to changes in ML/TF/PF risk;
+● monitor the performance of the outsourced activities against the key performance
+targets, taking into account the quality assurance testing at appropriate intervals;
+● ensure that any agreement under which a third party is authorised to collect or verify
+KYC information for AML/CTF Laws must ensure the adequacy of collection, verification
+and record retention obligations, and that AML/CTF Laws and enforcement agencies
+have reasonable access to any such KYC information; and
+● facilitate the oversight of a Senior Manager/the AML/CTF Compliance Officer over the
+outsourced activities in accordance with section.
+Except where the AML/CTF Laws expressly provides otherwise, liability for non-compliance remains
+with us.
+We will liaise with Outsourced Service Providers to ensure their obligations are met through
+adherence to contractual requirements, policies, procedures and business rules. This may include
+providing access to documentation held by Outsourced Service Providers, requiring regular reports in
+respect of AML/CTF matters and allowing access to Service Provider Personnel by us and our
+auditors.
+We will notify the Outsourced Service Provider of any relevant notice or feedback issued by
+AUSTRAC or other regulatory bodies relevant to the performance of the functions of the Outsourced
+Service Provider. We will oversee the response to the notice and implementation of any changes or
+recommendations to ensure our ongoing compliance with AML/CTF obligations (including a
+mechanism to incorporate any AUSTRAC feedback on performance in managing our ML/TF/PF risk).
+56
+
+Part J
+Definitions
+Term Meaning
+ACN Australian Company Number.
+Applicable Customer means:
+Identification ● the applicable Customer identification procedures; and
+Procedures or ACIP
+● the complementary provisions to the applicable Customer
+diligence procedures (such as enhanced Customer due
+diligence),
+set out in Anti-Money Laundering & Counter-Terrorism Financing
+Program, Square AU Pty Ltd December 2024.
+AML/CTF means anti-money laundering and counter-terrorism financing.
+AML/CTF Act Means the Anti-Money Laundering and Counter-Terrorism Financing Act
+2006 Cth
+AML/CTF Compliance means the individual designated as the AML/CTF compliance officer. The
+Officer name of each AML/CTF Compliance Officer is set out in Schedule 3;
+AML/CTF Laws means the following:
+● the AML/CTF Act
+● the AML/CTF Rules;
+● the Class Exemptions Rules;
+● and any other rules and regulations made under the
+AML/CTF Act from time to time.
+AML/CTF Program means the ML/TF Risk Assessment and these AML/CTF Policies.
+AML/CTF Rules means the Anti-Money Laundering and Counter-Terrorism Financing
+Rules 2025 Cth AML/CTF Rules).
+Associated Persons means:
+● person on whose behalf the Customer is receiving the
+Designated Service;
+● any person acting on behalf of the Customer; and
+if the Customer is not an individual – any Beneficial Owner of the
+Customer.
+AUSTRAC the Australian Transaction Reports and Analysis Centre, which is
+Australiaʼs anti-money laundering and counter-terrorism financing
+regulator and financial intelligence unit.
+Authorised Person means Square AU Compliance Investigation team, or the SMR team.
+Beneficiary Institution means a beneficiary institution as defined in section 63A of the AML/CTF
+Act and rule 82 of the AML/CTF Rules.
+57
+
+Term Meaning
+Beneficiary Institution means an item 30 Designated Service in table 1 of section 62 of the
+Value Transfer Service AML/CTF Act.
+Beneficial Owner of a Customer (other than individual) is a person who:
+● ultimately owns (either directly or indirectly) 25% or more of
+our Customer; or
+● Controls (directly or indirectly) our Customer.
+Business Group has the meaning in the AML/CTF Laws.
+Class Exemption Rules means the Anti-Money Laundering and Counter-Terrorism Financing
+Rules Class Exemptions and Other Matters) Rules 2007.
+Control Control, of a body corporate, is:
+● having the capacity to cast, or control the casting of, more
+than one half of the maximum number of votes that might be
+cast at a general meeting of the body corporate; or
+● directly or indirectly holding more than one half of the
+issued share capital of the body corporate (not including
+any part of the issued share capital that carries no right to
+participate beyond a specified amount in a distribution of
+either profits or capital, and not including mutual capital
+instruments within the meaning of section 167AD of the
+Corporations Act 2001; or
+● having the capacity to control the composition of the body
+corporateʼs board or governing body; or
+● having the capacity to determine the outcome of decisions
+about the body corporateʼs financial and operating policies,
+taking into account:
+o the practical influence that can be exerted (rather
+than the rights that can be enforced); and
+o any practice or pattern of behaviour affecting the
+body corporateʼs financial or operating policies
+(whether or not it involves a breach of an
+agreement or a breach of trust).
+● Control, of a person other than a body corporate, is:
+o having the capacity to control the composition of
+the personʼs board or governing body (if any); or
+o having the capacity to determine the outcome of
+decisions about the personʼs financial and
+operating policies, taking into account:
+o the practical influence that can be exerted (rather than the
+rights that can be enforced); and
+o any practice or pattern of behaviour affecting the personʼs
+financial or operating policies (whether or not it involves a
+breach of an agreement or a breach of trust).
+Customer means a person who has or intends to receive Designated Services from
+Square AU.
+58
+
+Term Meaning
+Customer Due means, as applicable, Applicable Customer Identification Procedures,
+Diligence Initial Customer Due Diligence and Ongoing Customer Due Diligence.
+Customer Monitoring has the meaning given to that term by section 22.
+Program
+Customer Type has the meaning given to that term by section 11.1.
+Designated Services the designated services in Schedule 2 to the AML/CTF Program.
+Domestic PEP means:
+(a) an individual who holds an office or position (whether or not in or for
+the Commonwealth) specified in the AML/CTF Rules; or
+(b) an individual who is a member of the legislature of the
+Commonwealth or of a State or Territory; or
+(c) a family member of an individual covered by paragraph (a) or (b); or
+(d) an individual who is known (having regard to information that is
+public or readily available) to have:
+o joint beneficial ownership of a body corporate or
+legal arrangement with an individual covered by
+paragraph (a) or (b); or
+o sole beneficial ownership of a body corporate or
+legal arrangement on behalf or for the benefit of an
+individual covered by paragraph (a) or (b); or
+o any other close business relations with an
+individual covered by paragraph (a) or (b).
+ECDD or Enhanced is the process set out in section 17 in accordance with section 31 of the
+Customer Due AML/CTF Act.
+Diligence
+FATF Financial Action Task Force.
+FATF the AML/CTF standard that is published by FATF.
+Recommendations
+Financing of Terrorism conduct that amounts to:
+Offence
+(a) an offence against section 102.6 or Division 103 of the Criminal
+Code; or
+(b) an offence against section 20 or 21 of the Charter of the United
+Nations Act 1945; or
+(c) an offence against a law of a State or Territory that corresponds to
+an offence referred to in paragraph (a) or(b); or
+(d) an offence against a law of a foreign country or a part of a foreign
+country that corresponds to an offence referred to in paragraph (a)
+or(b).
+Foreign PEP means:
+59
+
+Term Meaning
+(a) an individual who holds a prominent office or position or public
+function in or for the legislature, executive or judiciary of a foreign
+country, including an individual who holds any of the following
+offices or positions:
+o head of state or head of government;
+o member of the executive council of government;
+o member of a legislature;
+o minister, deputy minister or equivalent office or
+position;
+o judge of a supreme court, constitutional court or
+other court of general jurisdiction or last resort;
+o ambassador, high commissioner or charge
+dʼaffaires;
+o high ranking military officer;
+o head or board member of a government body;
+o head or board member of a state-owned company
+or a state-owned bank;
+o member of a governing body of a political party
+represented in a legislature;
+o an office or position prescribed in the AML/CTF
+Rules; or
+(b) a family member of an individual covered by paragraph (a); or
+(c) an individual who is known (having regard to information that is
+public or readily available) to have:
+o joint beneficial ownership of a body corporate or
+legal arrangement with an individual covered by
+paragraph (a); or
+o sole beneficial ownership of a body corporate or
+legal arrangement on behalf or for the benefit of an
+individual covered by paragraph (a); or
+o any other close business relations with an
+individual covered by paragraph (a).
+Governing Body The governing body of Square AU is the relevant group of individuals
+with primary responsibility for the governance and executive decisions of
+Square AU, i.e. its board of directors.
+Initial Customer Due means the processes set out in section 14 developed in accordance with
+Diligence section 28 of the AML/CTF Act.
+Initial Customer Due means the procedures we apply to carry out Initial Customer Due
+Diligence Procedures Diligence on our Customers, which is to be developed.
+International means:
+Organisation PEP
+(a) an individual who is entrusted with a prominent public function,
+position or office of a public international organisation, including a
+60
+
+Term Meaning
+head, deputy head or board member in a public international
+organisation;
+(b) a family member of an individual covered by (a);
+(c) an individual who is known (having regard to information that is
+public or readily available) to have:
+o joint beneficial ownership of a body corporate or
+legal arrangement with an individual covered by
+paragraph (a); or
+o sole beneficial ownership of a body corporate or
+legal arrangement on behalf or for the benefit of an
+individual covered by paragraph (a); or
+o any other close business relations with an
+individual covered by paragraph (a).
+KYC means “Know your Customerˮ.
+KYC Information means information about a Customer that:
+● provides reasonable grounds for us to establish the matters
+mentioned in section 282 of the AML/CTF Act; or
+● enables us to identity or assess the ML/TF Customer Risk.
+KYC Refresh Process has the meaning given to that term by section 25.
+Merchant Payment has the meaning given to the term in rule 14 of the AML/CTF Rules.
+ML/TF Customer Risk of a Customer, means the risk of ML/TF/PF that Square AU may
+reasonably face in providing its Designated Service, or Designated
+Services to the Customer.
+ML/TF Customer Risk means the ML/TF Customer Risk Rating given to a Customer as
+Rating described in section 12.
+ML/TF/PF money laundering ML and terrorism financing TF and proliferation
+financing PF.
+ML/TF Risk the assessment of the ML/TF/PF risk that Square AU reasonably faces in
+Assessment providing Designated Services.
+Money Laundering means conduct that amounts to:
+Offence
+(a) an offence against Division 400 of the Criminal Code; or
+(b) an offence against a law of a State or Territory that corresponds to
+an offence referred to in paragraph (a); or
+(c) an offence against a law of a foreign country or of a part of a foreign
+country that corresponds to an offence referred to in paragraph (a).
+OCDD or Ongoing means the processes set out in section 21 developed in accordance with
+Customer Due section 30 of the AML/CTF Act.
+Diligence
+Ordering Institution means an ordering institution as defined in section 63A of the AML/CTF
+Act and rule 81 of the AML/CTF Rules.
+61
+
+Term Meaning
+Ordering Institution means an item 29 Designated Service in table 1 of section 62 of the
+Value Transfer Service AML/CTF Act.
+Outsourced Service means any third party engaged by Square AU to provide services that
+Provider may be used in connection with these AML/CTF Policies as described in
+section 27.4.
+PEP or Politically means:
+Exposed Person ● a Domestic PEP; or
+● a Foreign PEP; or
+● an International Organisation PEP.
+Personnel means Square Personnel and Service Provider Personnel.
+Reliable and has the meaning given to that term by section 20.
+Independent Data
+Reporting Entity has the meaning given to it by section 5 of the AML/CTF Act as either:
+● a person who provides a designated service; or
+● the lead entity of a reporting group.
+Restricted Information means:
+● subject to certain limited exceptions, Square AU has given
+AUSTRAC, or is required to give to AUSTRAC, an SMR;
+● that an SMR has been given or prepared for AUSTRAC, or a
+copy of such report;
+● a document purporting to set out information (including the
+formation or existence of a submission) contained in an
+SMR;
+● that a person is or has been required to give information, or
+produce a document, to a person in response to a notice
+issued under section 49 of the AML/CTF Act, or that it has
+given the required information or document;
+● that a person is or has been required to give information, or
+produce a document, to a person in response to a notice
+issued under section 49B of the AML/CTF Act, or that it has
+given the required information or document; or
+● information referred to in paragraph 165Aa, (b), or (c) or
+5AAa or (b) of the Financial Transaction Reports Act
+1988, as in force immediately before its repeal.
+Review means a Review as defined in section 9.2.
+Senior Manager of a Reporting Entity, means an individual who makes, or participates in
+making, decisions that affect the whole, or a substantial part, of the
+business of the Reporting Entity.
+SCDD or Simplified means the simplified Customer Due Diligence measures described in
+Customer Due section 16 and forming part of the Customer Due Diligence procedures.
+Diligence
+62
+
+Term Meaning
+Service Provider means any persons employed or engaged by our Outsourced Service
+Personnel Provider and who perform, or will perform, functions relevant to our
+obligations under the AML/CTF Act.
+SMR or Suspicious a report of a Suspicion made in accordance with section 41 of the
+Matter Report AML/CTF Act.
+Square Personnel means any persons employed or engaged by us (e.g. deployed or
+seconded from another entity in Square AUʼs Business Group), and who
+perform, or will perform, functions relevant to our obligations under the
+AML/CTF Act.
+Standard Customer means the standard Customer Due Diligence measures applied to
+Due Diligence Customers, which is to be developed.
+Suspicion a Suspicion has the meaning given to that term in section 35.1.
+Targeted Financial by reference to a person designated for financial sanctions, means:
+Sanctions ● a designated person or entity (within the meaning of
+regulations made under the Charter of the United Nations
+Act 1945; or
+● a designated person or entity (within the meaning of the
+regulations made under the Autonomous Sanctions Act
+2011).
+Transfer Message has the meaning given to it by section 5 of the AML/CTF Act as, for a
+Transfer of Value, a message that contains information relating to the
+content of the payerʼs instruction for the Transfer of Value, but does not
+include a message of a kind specified in the AML/CTF Rules.
+Transfer of Value or has the meaning given to it by section 5 of the AML/CTF Act as a transfer
+Value Transfer of money, virtual assets or property, but does not include:
+● a transfer of physical currency or other tangible property; or
+● a transfer of a kind specified in the AML/CTF Rules.
+Travel Rule means the travel rule that apply to an Ordering Institution, Beneficiary
+Institution or intermediary institution that are set out in rules 83 to 85 of
+the AML/CTF Rules.
+TTR or Threshold a TTR or Threshold Transaction Report has the meaning given to that
+Transaction Report. term in section 35.2 .
+Unusual Activity has the meaning given to that term by section 36.1 .
+Report or UAR
+Value Transfer Chain has the meaning given to the term in section 63A11 of the AML/CTF Act.
+63
+
+Schedule 1 – ML/TF Risk Assessment – summary
+The Square AU - 2025 AML/CTF and Sanctions Risk Assessment, Square AU Pty Ltd Sep 2025
+(Risk Assessment) outlines the results of the Money Laundering and Terrorism Financing (ML/TF)
+and sanctions risk assessment conducted by Block, Inc. (Block), in conjunction with Square AU Pty.
+Ltd. (Square AU) covering the timeframe from January 2024 to December 2024.
+The 2025 annual Risk Assessment yielded an overall risk rating of Moderate for both ML/TF risks and
+sanctions risk, while proliferation financing risk assessed as low. This Risk Assessment considered
+both inherent risk and control effectiveness across Square AUʼs operations.
+The overall ML/TF results for Square AU are as follows:
+Table 1 ML/TF risk (excluding proliferation financing risk) summary
+Inherent Risk Degree of Mitigation Residual Risk
+Moderate Partially Mitigated Moderate
+The overall sanctions results for Square AU are as follows:
+Table 2 sanctions risk summary
+Inherent Risk Degree of Mitigation Residual Risk
+Moderate Partially Mitigated Moderate
+Summary of ML/TF and sanctions inherent risk:
+Table 3 inherent risk rating by risk category
+Inherent Risk Category ML/TF Risk Sanctions Risk
+Customer Moderate Moderate
+Distribution Channels Moderate Moderate
+Emerging Moderate Moderate
+Geographic Low Low
+Organizational High High
+Products and Services Moderate Moderate
+Summary of the control environment:
+Table 4 Distribution of Controls by Control Effectiveness Rating
+64
+
+Assessment Effective Needs Weak Control Gap
+Improvement
+AML/CTF 68% 20% 8% 4%
+Sanctions 47% 28% 13% 13%
+Summary of proliferation risk:
+Square AUʼs inherent proliferation financing risk was evaluated as Low due to its operational and
+structural limitations and the strong regulatory environment in which it operates, according to Block -
+2025 Annual Risks & Controls Assessment - Square AU Pty. Ltd.
+While Square AUʼs digital payment model, non-face-to-face onboarding, and exposure to industries
+that could involve dual-use goods create some theoretical inherent risk, the platform is an impractical
+vehicle for sophisticated proliferation financing. Such activities typically require high-value, complex,
+and opaque financial channels, which are incompatible with Square AUʼs $50,000 transaction limits,
+predominantly small-to-medium retail and hospitality merchant base, domestic-only Australian
+operations, transparent transaction flows, and multiple regulated intermediaries with compliance and
+monitoring obligations. Together with Australiaʼs strong export control and non-proliferation
+framework, these structural and regulatory factors make it highly unlikely that Square AU would be
+used for sophisticated proliferation-related activities.
+65
+
+– Designated Services
+Schedule 2
+No. Designated Services under section 6 of the AML/CTF Act
+Providing the Designated Service at or through a permanent establishment of Square AU in
+Australia
+1. Items 1 table 1 (opening an account as a credit card acquirer)
+2. Item 2, table 1 (allowing signatories in an account as a credit card acquirer)
+3. Item 3, table 1 (allowing transactions in an account as a credit card acquirer)
+4. Item 6, table 1 (making a loan)
+5. Item 7, table 1 (in the capacity of lender for a loan or assignee of the lender for a loan,
+allowing the borrower to conduct a transaction in relation to a loan)
+6. Item 29, table 1 (in the capacity of ordering institution, accepting an instruction for the
+transfer of value on behalf of a payer).
+7. Item 30, table 1 (in the capacity of beneficiary institution, in relation to a transfer of
+value, making the transferred value available to a payee).
+66
+
+– Square AU Senior Managers and AML/CTF
+Schedule 3
+Compliance Officer
+AML/CTF Compliance Officer
+1.
+Square AU has appointed the following person as the AML/CTF Compliance Officer:
+Jing WANG
+Senior Managers
+2.
+Square AU has appointed the following individuals to the role of Senior Manager with approval
+authorities set out below. Each Senior Manager may exercise their approval authority alone and does
+not need to obtain the authority of any other Senior Manager, provided the relevant approval is within
+the scope of their authority.
+Senior Manager Authority
+1. Lance Howard May approve:
+● the AML/CTF Policies;
+Chief Compliance Officer
+● the ML/TF Risk Assessment
+and changes to these.
+May approve any of the ongoing matters
+requiring approval as set out in section 6.3 of the
+AML/CTF Policies.
+67
+
+– Travel Rules
+Schedule 4
+Travel Rule: Key Implementation Considerations - Square AU - item 29 and 30
+This table summarises our understanding of the AU settlement process for Square payment services.
+Settlement Description Item 29 Travel Rule requirements - Item 30 Travel Rule requirements -
+process Information to be collected, verified, Information to monitor in respect of the
+passed on in the transfer message …. transfer message ….
+1. Australia Processing of the Rule 83, item 5 - refund of merchant Rule 84, items 4 - merchant payment
+Funds transaction: payment
+Flow -
+Current ● Card number of the card the Payer
+● Refer to Tab 3 Information to be collected/verified: N/A Sellerʼs customer] used in relation
+- ‘Australia to the merchant payment.
+Funds Flow -
+Currentʼ Information to be passed on:
+diagram The card number/PAN can be a tokenised
+● Square reference[See tab 2 - record keeping for
+receives the more information].
+● Card number of the card the Payer
+transaction
+Sellerʼs customer] used in relation
+details
+to the merchant payment that is
+including PAN refunded. Take reasonable steps to monitor that
+(card number) Square AU has received the card number.
+from the
+Square Seller
+The card number/PAN can be a tokenised
+[step 1
+reference See tab 2 - record keeping for
+more information].
+1
+
+Settlement Description Item 29 Travel Rule requirements - Item 30 Travel Rule requirements -
+process Information to be collected, verified, Information to monitor in respect of the
+passed on in the transfer message …. transfer message ….
+Square already receives transaction data Reject the transfer or apply AML/CTF
+including the PAN so it has the PAN to be policies if information is missing or
+able to pass on to the next institution in the inaccurate.
+chain (described below).
+Next institution: CUSCAL, AMEX Acquirer)
+Timing: Transfer message must be passed
+on before, or at the same time as, Square
+gives effect to the transfer of value (s
+643.
+2. Australia Processing of the As above for #1 except: ● As above for #1
+Funds transaction:
+Flow - Next institution: CUSCALAcquirer)
+NPP
+Instant ● Refer to Tab 4
+Deposits - ‘Australia
+only Funds Flow -
+NPP Instant
+Deposits onlyʼ
+diagram
+● Square
+receives the
+transaction
+details
+including PAN
+2
+
+Settlement Description Item 29 Travel Rule requirements - Item 30 Travel Rule requirements -
+process Information to be collected, verified, Information to monitor in respect of the
+passed on in the transfer message …. transfer message ….
+(card number)
+from the
+Square Seller
+[step 1.
+3. Australia Processing of the As above for #1 except: ● As above for #1
+Funds transaction:
+Flow - Next institution (eftpos):
+NPP + CUSCALAcquirer)
+Direct ● Refer to Tab 5
+acquirin - ‘Australia Next institution MC/Visa): Visa, MC
+g Funds Flow - Issuer
+NPP + Direct
+acquiringʼ
+diagram
+● Square
+receives the
+transaction
+details
+including PAN
+(card number)
+from the
+Square Seller
+[step 1.
+Record keeping
+3
+
+You must make and keep records of individual transactions related to the value transfer services you provide. You must also keep records of your
+AML/CTF policies and records that demonstrate you have met your travel rule obligations AML/CTF sections 107, 111 and 1163.
+https://www.austrac.gov.au/amlctf-reform/reforms-guidance/other-guidance/travel-rule-reform/travel-rule-obligations-ordering-institutions-reform
+#Record%20keeping
+Therefore, Square AU should keep records of how it has satisfied the travel rule requirements for each individual value transfer transaction - so all
+of the information it has collected, verified and passed on (as described in the first tab of this document) should be retained by way of transaction
+records in accordance with the requirements in the abovementioned sections and Square AUʼs AML/CTF Policies.
+Record keeping of PAN (card number):
+We understand from Juan Pablo Marzetti that we store first 6 and last 4 digits of a card in all payment records. We assume an issuer can find
+transactions with that information + date + amount.
+AUSTRAC suggests that for a merchant payment, it is typical for a tokenised reference to replace the card number, to allow the card issuer to trace
+the payment to the payerʼs card:
+If AUSTRACʼ expectation is that an ordering institution (or intermediary institution) is only required to pass on a tokenised reference, it would then
+undermine this position if a beneficiary institution were required to monitor for receipt a complete set of the card number. It makes sense for the
+beneficiary institution to treat the tokenised reference, or a shorter form of card number (which allows the ordering institution to trace back to the
+card) as complete information to be received under the travel rule, and to be held the on record in accordance with section 107.
+While the legal position is not entirely clear, we consider what you have suggested to be a reasonable position for Square AU to take.
+4
+
+https://www.austrac.gov.au/amlctf-reform/reforms-guidance/other-guidance/travel-rule-reform/travel-rule-overview-reform
+Aus Funds Flow - current
+5
+
+https://docs.google.com/presentation/d/1m_n9JWbNnpbIDBWLlxvH6dn3qvICL8WLMWX3gT1hBM/edit?slide=id.gfd807e95c3_0_50#slide=id.gfd8
+07e95c3_0_50
+6
+
+Aus Funds Flow - NPP Instant Deposits Only
+1
+
+https://docs.google.com/presentation/d/1m_n9JWbNnpbIDBWLlxvH6dn3qvICL8WLMWX3gT1hBM/edit?slide=id.gfd807e95c3_0_152#slide=id.gfd807e95
+c3_0_152
+Aus Funds Flow - NPP + Direct Acquiring
+2
+
+https://docs.google.com/presentation/d/1m_n9JWbNnpbIDBWLlxvH6dn3qvICL8WLMWX3gT1hBM/edit?slide=id.g100d573477b_0_36#slide=id.g100d573
+477b_0_36
+3

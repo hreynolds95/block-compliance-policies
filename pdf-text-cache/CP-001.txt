@@ -1,0 +1,222 @@
+Canada Accessibility Policy
+Afterpay
+Last Approved: Dec 8, 2025
+Effective Date: Dec 8, 2025
+1. Overview
+Introduction and Purpose: This Canada Accessibility Policy ("Policy") outlines Afterpay Canada
+Limited ("Afterpay Canada") approach to providing an inclusive and accessible environment for all
+Staff Members. This Policy outlines Afterpay Canada's commitment to ensuring accessibility in
+accordance with federal and provincial legislation in Canada. The Head of Compliance, Afterpay
+Canada is responsible for overseeing this Policy.
+Afterpay Canada conducts business in compliance with all applicable laws and regulations Please
+refer to the Section: Related Documentation or References of this Policy). The purpose of this
+Policy is to further Block's accessibility practices process by ensuring that Afterpay Canada
+provides an inclusive and accessible environment for all Staff Members. This Policy outlines
+Afterpay Canada's commitment to identifying, removing, and preventing barriers to accessibility in
+accordance with federal and provincial legislation in Canada.
+Scope: This Policy is established by Afterpay Canada and is applicable to all Afterpay Canada
+business lines, and jurisdictions within Canada. It outlines the standards and practices to ensure
+accessibility for all Staff Members.
+Specific Exclusions: This Policy does not apply to products or services distributed by third parties,
+external bank partners, or any subsidiaries operating outside of Canada.
+Definitions:
+Terminology Definition
+Staff Member(s) References to "Staff Member(s)" throughout this document shall refer to
+all full-time employees and fixed-term and contingent workers including
+interns, temporary workers, consultants, vendors, third-party providers,
+and contractors.
+
+2. Policy Requirements
+2.1 Commitment to Accessibility
+Afterpay Canada will perform the following on a continual basis:
+1. Identifying and Removing Barriers: Identifying barriers to accessibility and implementing
+measures to remove these barriers;
+2. Preventing Barriers: Proactively preventing the creation of new barriers to accessibility;
+3. Inclusive Environment: Ensuring Afterpay Canada's services, communications, and
+customer interactions are inclusive and accessible to all.
+2.2 Federal Legislation
+Accessible Canada Act, SC 2019, c 10
+The Accessible Canada Act (“ACAˮ) is a federal law that aims to make Canada barrier-free by
+2040. It requires organizations under federal jurisdiction to identify, remove, and prevent barriers
+in various areas, including information and communication technologies, the built environment, and
+the delivery of programs and services.
+2.3 Provincial and Territorial Regulations
+Ontario; Accessibility for Ontarians with Disabilities Act, 2005 (“AODAˮ)
+This Act aims to improve accessibility across Ontario. Afterpay Canada will ensure compliance with
+the following:
+● Accessible Feedback: Feedback processes must be accessible to persons with disabilities.
+Afterpay Canada will provide accessible formats and communication support upon request.
+Manitoba; The Accessibility for Manitobans Act, SM 2013, c 40 (“AMAˮ)
+This Act aims to eliminate barriers and improve accessibility in Manitoba. Afterpay Canada's
+compliance includes:
+● Accessible Feedback: Feedback processes will be accessible, with public notifications
+about these options provided on Afterpay Canada's website and feedback forms.
+● Accessible Communication Formats and Support: Afterpay Canada will provide accessible
+formats and communication supports promptly and without extra cost, after consulting with
+the requester.
+
+● Customer Service Standard: Implementing policies will ensure the dignity, independence,
+and integration of persons with disabilities in Afterpay Canada's service delivery, providing
+equal opportunities for access.
+Nova Scotia; Accessibility Act, 2017, SNS 2017, c 2
+This Act aims to make Nova Scotia accessible by 2030. Afterpay Canada will comply by providing:
+● Accessible Feedback: Ensuring feedback processes are accessible, with public
+notifications about these options provided on Afterpay Canada's website and feedback
+forms.
+● Accessible Communication Formats and Support: Providing or arranging for accessible
+formats and communication supports promptly and at no extra cost, after consulting with
+the individual.
+● Customer Service Standard: Developing policies that respect the dignity, independence,
+and integration of persons with disabilities, ensuring equal access to services.
+Quebec; Act to Secure Handicapped Persons in the Exercise of their Rights with a View to
+Achieving Social, School, and Workplace Integration, CQLR c E20.1
+This Act promotes the integration of persons with disabilities. Afterpay Canada will ensure
+compliance by providing:
+● Accessible Feedback: Making feedback processes accessible and notifying the public
+about these options on Afterpay Canada's website and feedback forms.
+● Accessible Communication Formats and Support: Providing accessible formats and
+communication supports promptly and without extra cost, after consulting with the
+requester.
+● Customer Service Standard: Developing and implementing policies that respect the dignity,
+independence, and integration of persons with disabilities, ensuring equal access to
+services.
+British Columbia; Accessible British Columbia Act, SBC 2021, c 19
+This Act aims to improve accessibility in British Columbia. Afterpay Canada will comply by:
+● Accessible Feedback: Ensuring feedback processes are accessible, with public
+notifications about these options provided on Afterpay Canada's website and feedback
+forms.
+● Accessible Communication Formats and Support: Providing or arranging for accessible
+formats and communication supports promptly and at no extra cost, after consulting with
+the individual.
+● Customer Service Standard: Developing and implementing policies that respect the dignity,
+independence, and integration of persons with disabilities, ensuring equal access to
+services.
+
+2.4 Web Accessibility
+Afterpay Canada is required to ensure its public websites and web content conforms with the Web
+Content Accessibility Guidelines (“WCAGˮ). This includes:
+● Conformance Requirements: Ensuring websites and web content meet WCAG 2.0 Level
+AA standards, except for criteria requiring live captions and pre-recorded audio
+descriptions.
+● Exemptions: This requirement does not apply to intranet websites, controlled extensions,
+content not directly controlled by Afterpay Canada, or situations where compliance is
+impracticable.
+2.5 Implementation and Training
+Where applicable, Afterpay Canada Compliance will:
+1. Training: Provide targeted accessibility training to relevant Staff Members on accessibility
+standards that are required and applicable to the respective business areas.
+2. Feedback Mechanism: Maintain an accessible feedback process and regularly review
+feedback to identify areas for improvement.
+3. Regular Audits: Support regular audits of Afterpay Canada's services, websites, and
+communication methods to ensure ongoing compliance with accessibility standards.
+4. Public Notification: Support internal teams required to notify the public about the
+availability of accessible formats and supports through Afterpay Canada's website and
+customer service channels.
+2.6 Conclusion
+Afterpay Canada is committed to creating an inclusive and accessible environment in compliance
+with applicable Canadian federal and provincial regulations. This Policy will be regularly reviewed
+and updated to ensure ongoing compliance and improvement in accessibility standards. For more
+information or to request accessible formats, please visit the "Accessibility" section on Afterpay
+Canada's website or contact the customer service team.
+2.7 Document Management
+Document Owner
+This Policy is owned by the Regulatory Program Manager, Afterpay Canada or their designee.
+
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+Block, Inc. Roles:
+● Head of Compliance:
+● Head of Compliance, Afterpay Canada, oversees implementation, ensures
+compliance, and reports to Block, Incʼs. executive leadership and Board.
+● Compliance Program Manager:
+● The Compliance Program Manager provides guidance and oversight on the
+applicability and implementation of this Policy to the Company's business and
+operational activities, ensuring that all relevant requirements are appropriately
+addressed and integrated into day-to-day operations.
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to
+evaluate adherence to this Policy and determine whether outputs adhere to established objectives.
+As outlined in the Afterpay Canada Marketing Policy, Head of Compliance, Afterpay Canada will
+provide regular updates to the Block, Inc. Board ("Board"). This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+3.3 Record Retention
+All Documents are retained according to the longer of:
+● Block's Data Classification & Handling Policy
+● Applicable regulatory requirements
+● Afterpay and Square Record Retention Policy
+
+3.4 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Afterpay Canada will implement to mitigate
+risks associated with the exception. Any approved exceptions must be documented in writing and
+retained with recordkeeping requirements. Any approved exceptions or exemptions should be
+submitted to the Policy Governance Team. The Policy Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+3.5 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy, please contact the Policy Owner.
+Review related documents:
+● Accessible Canada Act, SC 2019, c10 ACA
+● Accessibility for Ontarians with Disabilities Act, 2005 AODA
+● Accessibility for Manitobans Act, SM 2013, c40 Act, 2005 AMA
+● Accessible British Columbia Act, SBC 2021, c19 ABA
+● Web Content Accessibility Guidelines WCAG
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Ben Hollister Compliance Creation New Policy Sep 27, 2024
+Program
+Manager
+
+Approver Title Type Description Date
+Safiya Adenekan Head of Initial Approval New Policy Oct 21, 2024
+Compliance,
+Afterpay Canada
+Afterpay Canada Afterpay Canada Scheduled … Updated to new December 8,
+Board Board policy template; 2025
+Added clarifying
+notes on
+integration of
+Block-wide
+accessibility
+initiatives and
+continued
+alignment with
+federal and
+provincial
+accessibility
+legislation.
+Included
+commitment to
+enhanced
+accessibility
+training
+frequency and
+periodic website
+compliance
+audits WCAG 2.1
+AA readiness).
+Document Details:
+Business Afterpay Canada Limited
+Scope Regional
+Compliance Domain Consumer Protection
+
+Document Owner Regulatory Program Manager
+Approved By Afterpay Canada Board
+Document Tier Tier 2

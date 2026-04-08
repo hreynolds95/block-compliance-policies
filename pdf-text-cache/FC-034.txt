@@ -1,0 +1,351 @@
+l
+Unacceptable Use
+Monitoring Standard
+Cash App (U.S) | Block, Inc.
+December 2024
+LastApprovalDate
+
+Confidential and Not for Distribution
+Confidentiality
+ThisdocumentisconfidentialandshouldonlybeaccessedbydisclosedindividualswithinCashAppandon
+aneed-to-knowbasis.
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+TableofContents 3
+Definitions 4
+1.Introduction 6
+2.Purpose 6
+3.Scope 6
+4.StandardRequirements 7
+4.1UnacceptableUseControls 7
+4.2ProgramStructure 7
+4.2.1CustomerActivityMonitoring 8
+4.2.3ReferralofSuspiciousActivity 10
+4.2.4Denylisting 10
+4.2.5QualityControl 10
+5.DocumentManagement 11
+5.1DocumentOwner 11
+5.2ReviewandApproval 11
+6.Training 11
+7.MonitoringandReporting 11
+8.Exceptions 11
+9.RecordRetention 12
+10.RelatedDocumentationorReferences 12
+11.RevisionandApprovalHistory 12
+12.DocumentDetails 12
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 3
+
+Confidential and Not for Distribution
+Definitions
+Definitions
+Terminology Definition
+Account ThestructurethatisusedbyCashAppCustomerstologin,managetheir
+personalinformation,andsendorreceivemoneyorengageinother
+transactions
+CashforBusiness CashforBusiness Accountsare AccountsthataCashAppCustomercan
+(“C4B”) opentomanagetheirbusinessfundsandremainsseparatefromtheirpersonal
+Account
+Customer Anaturalorjuridicalpersonthatopensan AccountandreceivesCashApp
+productsandservices,orapersonopeninganew Accountforsomeonewho
+lacksthelegalcapacity.
+EnhancedDue Aprocessthatenablesdeeperunderstandingofhigh-riskCustomersand
+Diligence(“EDD”) implementationofriskmitigationprocesses.
+Denylisting TheprocessbywhichCashApp Accountsareclosedafteradeterminationor
+suspicionofharmful,fraudulent,orillegalactivityonCashApp.
+Gambling Theactofriskinganythingofvaluetogetsomethingofvaluebasedon a
+certainoutcome.Thisincludes,butisnotlimitedto,lotteries,bingo,raffles,
+sportsbetting,cardgamesandonlinearcade-stylegames.
+TermsofService AsetofrulesoutliningtherequirementsCustomersagreetoobserveinorder
+touseCashApp’splatforms.
+UnacceptableUse AnyuseofCashApp’splatformsthatisillegal,inviolationoftermsofservice,
+AcceptableUsePolicy,andanyotherpolicy,orisotherwiseprohibited.
+Warning/Strike AwarningthatactivityviolatesCashApp’stermsofService.Customersmay
+receiveuptothreewarningsforcertaintermsofserviceviolationtypes.
+RolesandResponsibilities
+Role Responsibility
+Compliance ProvidesoversightandguidancetoBusinessLinesinimplementingthe
+requirementsofthisStandard
+Compliance Compliance consists of multiple teams, but for the purpose of this Standard,
+Operations thefollowingteamsarebroadlyreferencedwithinthisStandard:
+● Customer Onboarding and Management (COM): review Accounts and
+Customer profile and associated transactions that may result in a
+determination of a terms of service violation,orhighriskbehavior(e.g.
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 4
+
+Confidential and Not for Distribution
+UUP concern) which may result in Denylisting or referral to another
+department,asapplicable.
+● Financial Crimes (FinCrimes): review Customer profile and associated
+transactions that may result in a determination of suspicious activity,
+whichmayresultinDenylistingandfilingSARsasapplicable.
+UnacceptableUse CashApp’sUUPteamispartofcomplianceoperations,andis responsiblefor:
+ProgramTeam ● Conductingcomplianceinvestigationson AccountsandCustomersin
+(“UUP”) accordancewithdocumentedprocedures,userguides,andguidance
+● Documentingconclusionsinamannerthatisclearandcomplete
+● Reviewingescalated AccountsandCustomerstodetermineifthe
+CustomerhasviolatedCashApp’sTermsofServiceorotherpolicies
+● Escalating AccountsandCustomerstotheFinancialCrimesteamthat
+havebeenidentifiedashavingpotentialunusualorsuspiciousactivity
+foradditionalinvestigation
+TheCashAppCustomerOnboarding&ManagementLeadisthedelegated
+ownerofthisStandardandassuchisresponsiblefor:
+● Servingatthethesubjectmatterexpertforcontentrelevanttothis
+CashAppCustomer Standard,
+Onboarding& ● EnsuringthisStandardanditsaccompanyingpoliciesandprocedures
+Management(“COM”) reflectindustrybestpracticesandapplicableregulatoryguidance
+Lead ● Providingandcommunicatingrolesandresponsibilitiestorelevant
+stakeholdersincludingbusinesspartners
+● Conductingperiodicreviews(s)oftheStandard,and
+● Delegatingandoverseeingdocumentationrequirements,asneeded
+UnacceptableUse ● ResponsibleforreviewingandapprovinganychangestotheUUP
+(“UUP”)Lead Program
+CashAppCOM/UUP CashAppCOMProgramManager(s),asdelegatedbytheLeadisresponsible
+ProgramManager for:
+● Overseeingthedocumentationofrequirements,
+● Servingasasubjectmatterexpertforcontentrelevanttothis
+Standard,
+● Ensuringregulatoryandpolicyrequirementsareincludedin
+documentation,and
+● ConductingperiodicreviewsoftheStandard
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 5
+
+Confidential and Not for Distribution
+1. Introduction
+This UUP Standard (“Standard”), established by Cash App, U.S., a Line of Business under Block, Inc.
+(“Block”), outlines Cash App’s approach to detecting and monitoring Accounts and Customers for
+prohibited activity, and Denylisting relationships that have been determined to be engaging in activitythat
+violates Cash App’s Terms of Service, and other policies, including the Acceptable UsePolicy.Arisk-based
+approach is used to ensure Customers whomeetalertingcriteriaaresubjectto Accountreviewsandthose
+posing a heightened risk are subject to an enhanced due diligence review. This allows the business to
+further understand the risks the Customer poses and establish processes to mitigate thoserisks.TheUUP
+Standard is a critical element within Cash App's compliance framework, designed to align with regulatory
+standards and enhance the integrity of the Cash App business ecosystem. This document delineates the
+comprehensiveUUPStandardtailoredforPersonal(P2P)andCashforBusiness(C4B)Customers.
+This Standard is established by Cash App Compliance. References to “staff members” throughout this
+document shall refer to all Cash App employees or external workers (e.g. contingent labor, contractors)
+hiredbyBlockwhosupportstheoperationscoveredbythisStandard.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Standard is to further Cash App’s UnacceptableUsePolicyprocessbyimplementingarisk-basedapproach
+towards preventing and reducing Unacceptable Use, a fundamental aspect of Cash App’s control
+framework. One way of executing this risk-based approach is through the assessment of prohibited and
+restricted activity associated with Customers, and applying a compliance reviewcommensuratewiththese
+identifiedrisks,andwhereappropriateDenylisting AccountsandCustomersengaginginprohibitedactivity.
+The UUP Standard captures due diligence to ensure Cash App has a clear understanding of its Customer
+base and continuously evaluates risks associated with violations of the Terms of Service Agreement,
+Acceptable Use Policy, andotherfinancialcrimes.TheUUPStandardalsoestablishesconsistentrisk-based
+monitoringcontrolsforprohibitedactivityontheplatform.
+3. Scope
+This Standard is established by Cash App and is applicable to the Cash App business or Cash App
+subsidiaries. It addresses requirements to assess risk, the UUP Team reviews Accountsthatalertfora
+compliance diligence (inclusive of transaction reviews) to activity that is prohibited because it is
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 6
+
+Confidential and Not for Distribution
+Unacceptable Use or through our contractual obligations establishedthroughacquirerrequirementsor
+networkrules.
+4. Standard Requirements
+4.1 Unacceptable Use Controls
+The Cash App Terms of Service (the “Cash App Terms”) is a legal agreement between the Customer
+(business or personal Accounts), as a current or prospective user of the Services, and Block , formerly
+known as "Square, Inc." (hereafter, “the Company,” “we,” “our” or us”), and governs the use of Cash App, a
+financial platform, which includes mobile applications,websites, software, cloud-based solutions,andother
+products and services (the “Service”), offered by the Company. The Unacceptable Use Program uses a
+risk-based approach to identify Accounts engagedinviolationsoftheTermsofService(“TOS”)Agreement
+or engaging in Unacceptable Use as stated in Cash App’s Acceptable Use Policy (e.g., Gambling, adult
+services,anddrugsamongotherslisted).
+Compliance conducts annual risk assessments to determine the quantity and quality of risk related to
+Unacceptable Use and to detect trends over time. A number of metrics are considered in order to
+determine high-risk, Unacceptable Use. Compliance documents the analysis and rationale of selected
+metrics. Based on these assessments, Compliance may adjust the approach to monitorandcontrolthe
+identifiedrisks.
+4.2 Program Structure
+All Customers are subject to Cash App’s Know Your Customer (“KYC”) processes, including the Customer
+Identification Program (“CIP”), Customer due diligence (“CDD”), and enhanced due diligence(“EDD”).While
+those programs and controls are designed to ensure Cash App’s compliance with anti-money laundering
+and counter-terrorist financing (“AML/CTF”) laws and regulations, Cash App also monitors activity on the
+platform for terms of services violations activities that are not allowed under its TOS and takes action to
+ensurethoseactivitiesdonotrepresentsignificantrisktoCashApp.
+To do so, Cash App monitors activity on its platforms through this Program, focusing on an activity
+monitoring component to identifypotentialUnacceptableUse,areviewcomponenttoconfirmtheactivityis
+indeed a breach of Cash App’s TOS, and a referral component to fulfill Cash App’s obligations under
+suspicious activity reporting laws and regulationswheretheunderlyingactivityissuspectedtobeillegalor
+potentiallysuspicious.
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 7
+
+Confidential and Not for Distribution
+4.2.1CustomerActivityMonitoring
+Cash App utilizes various proprietary algorithms to create cases for the UPP team to review. This includes
+automated case queues for review. Case queues are generated using machine-learning, heuristics, and
+manualmethodologies,suchasescalationsbyotherteamstoUUPforfurtherreview.
+Business and personal Accounts associated with Unacceptable Use may generate an automated and
+systemic alertwhenadefinedtriggeringeventoccurs,orbeescalatedmanually.Unacceptableuseincludes
+behavior that is against CashApp’sTOSorotherinternalpolicies,aswellassuspiciousorillegalactivity.An
+alerted Account is manually reviewed, or investigated, to confirm the activity is unacceptable and
+determine the appropriate action. Cash App’s UUP team queues areestablishedandmaintainedbyinternal
+Engineering team(s). Any new queues or recommended changes to the existing queue models fortheUUP
+teamarereviewedandapprovedbyProgramManagersandUnacceptableUseLeads.
+When an alert is generated due to a specified triggering event, or a manual escalation occurs, Customers
+associated with Unacceptable Use are investigated by a UUP Specialist. During the investigation,
+Specialists follow documented review procedures and user guides to ensure a consistent approach and
+final action is applied. During the investigation, analysts assess Customer-specific attributes, inclusive of
+Customer information collected at onboarding, device and other electronic data, transactional behavior
+patterns and activity, and publicly available information such as web presence linkedtotheCustomer.This
+helps analysts better understand the nature and purpose of the Account and confirm if the Customer is
+engaging in Unacceptable Use of the platform that warrants action being taken onthe Account.CashApp
+will occasionally determine that Unacceptable Use is not egregious and does not warrant Denylisting a
+Customer.
+An enhanced review process is conducted when high-risk Terms of Service and Acceptable Use Policy
+violations are detected during the alert reviewprocess.Tocombattheriskidentified,UUPconductsanEDD
+process that enables a holistic and comprehensive understanding of its Customers. These reviews are
+driven by severalkeyfactorsincluding,butnotlimitedtoriskratingsandongoingmonitoringandtriggering
+events.TheUUPTeammonitorsforthefollowingactivity:
+● PersonalAccountMonitoring
+Accounts and Customers that have behavior or activity that is prohibited, restricted, or that
+otherwise violates CashApp’sTermsofService,AcceptableUsePolicy,orotherinternalpolicies
+(“Unacceptable Use”) will be denylisted. Except where prohibited by law, Customers may not
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 8
+
+Confidential and Not for Distribution
+use, facilitate use of, or allow others to use, Cash App Services to engage in the following
+activities. The specific types ofuselistedbelowarerepresentative,butnotexhaustive.Byusing
+the Services, you acknowledge and agree that you will not use the Services to do any of the
+following: activity involving illegal or other related substances, allowing a minor to use Cash
+App, bullying and harassment, fraud and deceptive activity, Gambling, hacking and malicious
+activity, providing credit or financial services, select activity with certain countries and
+individuals, select memberships and subscriptions, selling adult content and services, selling
+counterfeit or stolen stuff, selling deceptive products or services, selling network marketing
+programs, selling risky products or services, selling tobacco, weapons, or other regulated
+products, selling unproven health products or services and/or using someone’s creative work
+withoutpermission.
+● BusinessAccountMonitoring
+Business Accounts that violate Cash App’s Terms of Service, Acceptable Use Policy will be
+denylisted. To ensure compliance, the UUP team will monitor business activities conducted by
+business Accounts. Specialists will look at the following Account indicatorstoassessifterms
+of service violation and prohibited business activity are present in business Accounts, and the
+extent of the business activity: transaction memo lines, $cashtag, display name, web presence
+associated with the Account holder’s PII, counterparty diversity, transaction patterns by
+frequency/amounts/timestamp. Behavior or activity that is high risk or concerning from a
+reputational risk or financial crimes perspective will be referred to the KYC (i.e. Enhanced Due
+Diligence) team or the Financial Crimes team for furtherinvestigation,anddenylisted.Business
+Accounts that are downgraded to personal Accounts but continue engaging in business
+activitieswillbeaddedtoadenylist.
+● CustomerInitiatedBlocks&Reports
+Customers who have been blocked and/or reported by an excessive number of distinct
+Accounts will be reviewed. Customer Accounts that violate Cash App’s Terms of Service,
+Acceptable Use Policy will be denylisted. Specialists will look at the following Account
+indicators to assess if terms of service violation is present, and the extent of the activity:
+transaction memo lines, $cashtag, display name, web presence associated with the Account
+holder’sPII,counterpartydiversity,transactionpatternsbyfrequency/amounts/timestamp.
+● AccountDisplayandCashtagNames
+Account Display and Cashtag Names on Customer Accounts that violate Cash App’s Terms of
+Service, Acceptable Use Policy will be denylisted. To ensure compliance, the UUP team will
+monitor activities conducted by Accounts with Account Display Names and Cashtags that
+match prohibited Account names. Specialists will look at the following Account indicators to
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 9
+
+Confidential and Not for Distribution
+assess if terms of service violation is present in Accounts, and the extent of the activity:
+transaction memo lines, $cashtag, display name, web presence associated with the Account
+holder’s PII, counterparty diversity, transaction patterns by frequency/amounts/timestamp.
+Behavior or activity that is high risk or concerning from a reputational risk or financial crimes
+perspective will be referred to the KYC (i.e. Enhanced Due Diligence) team or the Financial
+Crimesteamforfurtherinvestigation,anddenylisted.
+4.2.3ReferralofSuspiciousActivity
+During the course of the activity investigation, analysts may suspect that transactions areillegal,intended
+to hide illegal activity, or an attempt to evade anti-money laundering or counter-terrorist financing laws.
+When these transactions meet the requiredthresholds,theanalystisresponsibleforreferringthe Account
+to the Suspicious Activity Reporting (“SAR”) Team for additional review. When an Account or transaction
+has been referred to the SAR Team for review, an additional investigation is completed by a SAR analyst.
+SAR analysts file reports on suspicious activity in compliance with legal, regulatory, and business partner
+requirements.
+4.2.4Denylisting
+When a Customer is denylisted1, based on the severity of the activity (i.e., for terms of services violation,
+illegal, fraudulent, or other suspicious activity) their assets arealsodenylisted.WhentheSSNisdenylisted
+itisaddedtotheSSNdenylistwhichpreventsany AccountattemptingidentityverificationwiththatSSNto
+also be denylisted. Financial instruments that are denylisted are prevented from being linked to other
+Accounts. Denylisted devices are blocked from future sign-ups for nine months.Dependingontheseverity
+of thebadactor’sactivity,thisrulemightimpactanydevicethatloggedintothe Accountinthepastyear,or
+the most recent device. Phone numbers that are denylisted arepreventedfrombeinglinkedtoan Account
+for a rolling 270 day timeframe. Email addresses (including permutations) associated with a denylisted
+Accountarepreventedfrombeinglinkedtoanother Account.
+4.2.5QualityControl
+The Quality Control (“QC”) team recognizes the importance of ensuring that compliance programs are
+functioning optimally while assessing performance and enabling precise and accurate reviews, as well as
+appropriate risk based controls. The QC program is an independent team that ensures actions taken on
+individual Accounts are in line with review procedures, and are based on the overall reputational,
+operational, and regulatory risk posed. Essential functions of the QC process include creating a feedback
+1Customerscannotsend,requestorreceivefunds,useaCashCard,addfunds,buystockorbitcoin,ortakeloans.Additionally,
+thereisablockonlinkedinstrumentsforallfutureattempts.
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 10
+
+Confidential and Not for Distribution
+loop for the UUP team to continuously identify opportunities for improvement, assessing potential
+operationalgapstoremediatedeficiencies,anddevelopinganddisseminatingqualitycontrolreporting.
+5. Document Management
+5.1 Document Owner
+ThisdocumentisownedbytheUnacceptableUseProgramLeadortheirdesignee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually andonanadhocbasisinaccordancewith
+theComplianceDocumentApprovalMatrix.
+6. Training
+All relevant personnel receive training atleastannuallycoveringapplicablerequirementsandguidance
+to implementthisStandardeffectively.AlltrainingactivitiesaremonitoredbytheComplianceTeamand
+are outlined in the Compliance Training Program. Upon onboarding, newly hired UUP Operations
+Analysts are provided role specific training relating to alert review and proper manager escalations as
+outlined in UUP’s Standard Operating Procedures (“SOPs”). Ongoing training requirements are set by
+the Business Unit Lead andmaybedeemednecessarybasedonperformance,changestoprocesses,or
+theimplementationofnewprocesses.
+7. Monitoring and Reporting
+On an ongoing basis, the Standard Owner and/or their designee will monitor Standard related activities to
+evaluateadherencetotheStandardanddeterminewhetheroutputsadheretoestablishedobjectives.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this
+Standard, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Standard exception requests must be documented in writing, include a reason for a request,
+and provide a description of the controls that theCompanywillimplementtomitigaterisksassociatedwith
+the exception. Any approved exceptions must be documented in writing and retained with recordkeeping
+requirements. Any approved exceptions or exemptions should be submitted to the Standard Governance
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 11
+
+Confidential and Not for Distribution
+Team at go/policyhelp. The Document Owner and/or designee will inform Compliance Leadership and
+applicablecommittees,asneeded,ofexceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordancewithregulatoryguidance-whicheverislonger.
+10. Related Documentation or References
+RelatedDocuments:
+AcceptableUsePolicy CashAppAcceptableUsePolicy
+CashAppTermsofService CashAppTermsofServiceAgreement
+UnacceptableUseProgramProcedure Unacceptable Use Program (UUP) User Guid…
+11. Revision and Approval History
+Approver Title Type Description Date
+Xio Reyes UUPLead Scheduled R… Block performs May25,2023
+analysis of the
+need for the
+standard.
+Standard is
+drafted.
+Tamika Francis UUPLead Scheduled R… Minor formatting Dec13,2024
+andclarification
+Adrian Gardner Head ofCustomer Scheduled R… Annualreviewand Dec16,2024
+Onboarding and approval
+Management
+12. Document Details
+Business CashApp
+Scope Regional
+ComplianceDomain Anti-Financial Crimes
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 12
+
+Confidential and Not for Distribution
+DocumentOwner UnacceptableUseProgramLead
+LastApprovalDate December16,2024
+EffectiveDate March1,2021
+ApprovedBy Head of Cash App Customer Onboarding and
+Management
+DocumentReviewSchedule Annually
+UnacceptableUseProgramStandard|CashApp(U.S.)|Block,Inc. 13

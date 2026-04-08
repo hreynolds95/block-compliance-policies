@@ -1,0 +1,519 @@
+Afterpay Third Party Risk Management Policy
+Afterpay Canada Limited
+Last Approved: Aug 8, 2025
+Effective Date: Aug 8, 2025
+1. Overview
+Introduction and Purpose: This Afterpay Third Party Risk Management Policy ("Policy") outlines
+Afterpay Canada Limited's approach to managing third-party risks across its operations. Afterpay
+Canada Limited ("Afterpay") is a registered Payment Service Provider (“PSPˮ) operating under the
+Retail Payment Activities Act (“RPAAˮ) and regulated by the Bank of Canada. As part of its
+obligations under the RPAA, Afterpay must ensure that its third-party risk management practices
+are robust, proportionate to risk, and aligned with the expectations set forth under the RPAA. This
+policy establishes Afterpay's framework for identifying, assessing, managing, and monitoring risks
+associated with third-party vendors, with particular focus on Third-Party Service Providers
+(“TPSPsˮ) as defined under the RPAA. The purpose of this Policy is to establish a comprehensive
+framework for managing third-party risks across Afterpay's operations. It sets out the principles,
+responsibilities, and controls required to ensure that all TPSP arrangements are assessed and
+governed in a manner that is consistent with regulatory expectations and industry best practices.
+Scope: This document is established by Afterpay and is applicable globally across all business
+lines or functions that support Afterpay. References to "staff" throughout this document shall refer
+to all Afterpay full-time employees and fixed-term and contingent workers including interns, temps,
+consultants, vendor personnel, third-party provider personnel, and contractors. This document
+applies to all employees and affiliates acting for or on behalf of Afterpay, as well as to all functions
+that support Afterpay's operations.
+Definitions:
+Terminology Definition
+Afterpay The consumer-facing product provided by Afterpay
+Canada Ltd that offers, among other things, 'Buy Now
+Pay Later' functionality.
+
+Terminology Definition
+Bank of Canada Regulator responsible for administering and enforcing
+the RPAA, including registering PSPs and supervising
+their compliance with the legislation.
+Block, Inc. Block, Inc., a Delaware corporation and the ultimate
+parent of Afterpay.
+TPSP Service Services provided by a TPSP that impacts the provision,
+availability or performance of one or more of Afterpay's
+retail payment activities.
+Third Party Service Provider A TPSP is any external third party or intra-group entity
+(“TPSPˮ) that provides Afterpay with services supporting
+Afterpay's retail payment activities, as defined under the
+Retail Payment Activities Act.
+RPAA Retail Payment Activities Act
+Service Arrangements A contractual agreement between Afterpay and a
+third-party provider outlining the specific services,
+deliverables, and performance expectations for the
+service being provided.
+Third Party Vendors Afterpay Third Party Vendors are non-TPSPs that provide
+services which are unrelated to Afterpay's provision of
+retail payment services.
+TPSP Register A document that contains the risk profiles of each TPSP
+for Afterpay, including TPSP's inherent risks, controls,
+findings and ongoing monitoring and performance
+results.
+TPSP Determination Assessment An assessment tool used to determine applicability of
+third-party arrangements that support Afterpay's retail
+payment functions and operations.
+2. Policy/Program Requirements
+2.1 RPAA Obligations
+Under the RPAA, a TPSP means an individual or entity that, under a contract, provides a PSP with a
+service related to a payment function and that is not an employee or agent or mandatary of the
+payment service provider.
+
+If Afterpay receives services from a third party service provider, Afterpay must assess each
+third-party service provider supporting retail payment-related functions at least annually and prior
+to entering into, renewing, extending, or significantly amending any contract. These assessments
+must evaluate the provider's data protection capabilities, system connection security, operational
+risk management practices, change notification procedures, and performance monitoring
+mechanisms, including breach reporting protocols.
+Afterpay must maintain records of the scope, timing, and findings of these assessments.
+Responsibilities between Afterpay and each third-party service provider must be clearly defined,
+particularly regarding the ownership, confidentiality, integrity, and availability of data and
+information.
+2.2 Afterpay TPSP Arrangements
+TPSP arrangements may involve either external vendors or Afterpay affiliates that support
+payment-related functions. All third-party arrangements must first undergo an assessment to
+determine whether they meet the definition of a TPSP under the RPAA. If determined to be a TPSP,
+the arrangement will then be subject to applicable RPAA requirements. For all TPSPs, adherence to
+RPAA obligations must be maintained throughout the full lifecycle of the TPSP arrangement—from
+initial assessment and onboarding through to ongoing monitoring, renewal, and termination.
+This Policy describes Afterpay's standard requirements to manage the third party risks arising
+from TPSP activities, both to external third party vendors and Afterpay intra-group arrangements
+with Afterpay affiliates. Implementation of the standards laid out in this policy will ensure that
+Afterpay has a robust framework to ensure the following:
+● The Afterpay Board is responsible for overseeing the CCO and senior management in the
+execution of their responsibilities related to all third-party arrangements, associated risks,
+and activities. The Board also ensures that this Policy remains aligned with Afterpay's risk
+appetite and strategic objectives.
+● A risk management and internal control framework is embedded to enable effective
+oversight of TPSP activities by the CCO, who also serves as the Designated Senior Officer,
+along with other risk DRIs;
+● That the impact of any TPSP arrangement on Afterpay's retail payment activities is fully
+considered and understood; and that Afterpay retains the competence and ability to assess
+the TPSPs performance;
+● That all TPSP Arrangements are formalised in a TPSP Contract between Afterpay and the
+TPSP, that sets out all respective roles, responsibilities, rights, and obligations and meets
+the requirements set out in this Policy;
+● That the TPSP has adequate risk management and internal control systems in place, and
+that Afterpay incorporates the oversight of the TPSP's functions and activities into its own
+risk management framework;
+
+● That the TPSP has sufficient resources in place in terms of quality, quantity, and availability
+to perform the contracted functions and activities;
+● That the TPSP is compliant with relevant confidentiality and sensitive data provisions and
+has adequate contingency arrangements in place;
+● That Afterpay notify the relevant authorities, including the Bank of Canada (“BoCˮ) in a
+timely manner and in line with regulatory notification requirements of any major operational
+or security incidents involving the TPSP;
+● That Afterpay has access to perform audit and/or assurance reviews of the TPSP and the
+TPSP will be cooperative with this audit/assurance review; and
+● That retail payment related services provided by a TPSP do not undermine the continuous
+service to Afterpay end-users.
+2.3 Risk-Based Approach
+Afterpay adopts a risk-based approach to third-party risk management, ensuring that the depth
+and frequency of oversight is proportional to the level of risk of each arrangement and whether a
+third party vendor is a TPSP or not. All third-party services are assessed using relevant Afterpay
+and Block TPRM risk assessment methodologies. This includes but is not limited to evaluating the
+potential for operational risk, service disruption, reliance on subcontractors, the business
+continuity and disaster recovery plan of the provider, and alignment with regulatory requirements
+under the RPAA and other applicable regulatory requirements.
+TPSP determination assessments are conducted using an assessment tool to identify third-party
+arrangements that support Afterpay's retail payment activities and related operations. These
+assessments inform the classification of arrangements and the level of due diligence, monitoring,
+and contractual control required. Periodic reviews ensure reassessments remain current with the
+evolving operational risk landscape.
+2.4 TPRM Process
+2.4.1 TPSP Determination Assessment
+Not all Afterpay Third Party Vendors will be regarded as TPSPs that are subject to the RPAA
+requirements. To identify TPSPs that provide retail payment related services to Afterpay, Afterpay
+has developed a 'TPSP Determination Assessment Tool'. This tool is completed for any prospective
+third party vendor or intra-group arrangement at the initial onboarding stage and periodically. The
+Governance and Oversight Lead is responsible for initiating the TPSP Determination Assessment,
+which must be completed by the Service Recipient to assess whether a third party vendor meets
+the definition of a TPSP under this policy. The Service Recipient must complete the assessment
+and submit it for review and approval when:
+1. Entering into a Third Party Vendor or intra-group arrangement;
+2. Scheduled annual review of a TPSP occurs;
+
+3. Afterpay plans to make a substantive change to their use of a particular Third Party Vendor
+or a TPSP; or
+4. There is a change in service provision.
+The output of any TPSP Determination Assessment, once completed, is sent to the Afterpay
+Governance, Risk and Compliance Committee (“GRCˮ) and other relevant committees for review
+and approval.
+2.4.2 Due Diligence
+Before engaging any Third Party Vendor, Afterpay conducts a comprehensive due diligence review
+to assess the provider's capability, regulatory compliance framework, and risk controls. The due
+diligence evaluates both qualitative and quantitative factors, including business reputation,
+experience, regulatory compliance, cybersecurity frameworks, subcontracting practices, and
+operational and data security risk frameworks.
+Due diligence must be completed before contracting and must be refreshed periodically
+throughout the lifecycle of the arrangement – including based on the factors outlined below –
+particularly for TPSPs supporting Afterpay's retail payment activities. All due diligence findings are
+documented and reviewed by the Compliance, Legal and Risk DRIs, and any issues are escalated
+to the GRC Committee as appropriate. International third parties and TPSPs are subject to
+enhanced due diligence that considers jurisdictional risks.
+Service recipients must initiate a periodic review for all Service Arrangements in the following
+circumstances:
+● Periodic scheduled reviews, as described in the Ongoing Monitoring & Challenge section of
+this Policy;
+● Material changes (that cause noticeable change in operation) in the nature or extent of the
+Service Arrangement with the TPSP;
+● Where a material organisational change occurs at a TPSP or its subcontractors to Afterpay
+which can include a change of ownership or financial position;
+● Identification of deficiencies in the performance of the TPSP under the Service
+Arrangement, including any significant breaches of contract or other substantive issues
+that may affect Afterpay's ability to meet its regulatory or customer
+obligations—particularly those that could impact Afterpay's compliance with the RPAA.
+Note: Should such instances occur, they must be initially escalated to the Third Party Delivery
+Manager, who is responsible for promptly notifying the Afterpay Governance and Oversight
+Lead. The Governance and Oversight Lead will then determine and initiate the appropriate
+escalation pathway, which may include further escalation to the CCO or the relevant Afterpay
+governance committee(s), as required.
+2.4.3 Risk Assessment
+Afterpay recognizes that in order to effectively monitor, manage and mitigate Third Party risks, it
+must implement a robust TPRM framework, from the point an activity is proposed to be performed
+
+by a third party vendor or an Afterpay affiliate, and continues throughout the lifecycle of the
+arrangement.
+Particularly for all TPSPs, Afterpay must maintain an accurate view of risks associated with each
+TPSP Arrangement, including appropriate due diligence on TPSPs at onboarding and periodic
+reviews throughout the lifecycle of the relationship.
+Afterpay will maintain a TPSP Register that captures key risk information about each TPSP,
+including its risk profile, control framework, ongoing performance and inherent risks associated
+with the services provided. This TPSP Register serves as a central mechanism for maintaining
+oversight and informing Afterpay's risk-based decisions regarding TPSP arrangements. The TPSP
+Register is maintained by the Afterpay Governance and Oversight Lead, who is responsible for
+ensuring it remains accurate and up to date.
+2.4.2 Sub-contracting
+Afterpay recognizes that the use of subcontractors by TPSPs may introduce additional risk to
+service availability, continuity and accountability. As part of the Afterpay third party management
+process, all service providers will be required to disclose their material subcontracting
+arrangements, and, subject to any contractual limitations, Afterpay will review any proposed
+subcontractors that a TPSP intends to engage for the performance of services under the TPSP
+arrangement and propose any changes as needed, and/or develop compensating controls to
+address any potential, material risks associated with the subcontracting relationship.
+The TPSP must maintain robust third-party risk management programs for its subcontractors,
+aligned with Afterpay's regulatory obligations and standards. Contractual provisions will require
+disclosure of new or changed material subcontracting relationships, ongoing reporting, and audit
+rights for Afterpay. These provisions will ensure that subcontracting does not dilute Afterpay's
+oversight or the effectiveness of controls in place to safeguard retail payment operations.
+2.4.5 Contractual Requirements
+Third Party Vendor arrangements must be governed by a formal written agreement. The contract
+must clearly define the roles, responsibilities, rights, and obligations of both Afterpay and the third
+party vendor, and must be in place prior to the commencement of any services. It is the
+responsibility of the Owner, with support from Procurement, Legal, Compliance, and Risk, to
+ensure that:
+● A contract is fully executed in advance of service initiation;
+● The contract is reviewed and approved by Afterpay Legal; and
+● It is signed by an authorized signatory in accordance with the Block, Inc. Global Signature &
+Delegation of Authority Policy.
+The Owner is also responsible for:
+● Monitoring the Third Party Vendor's adherence to contractual obligations;
+● Scheduling and facilitating contract reviews; and
+● Ensuring that renewals are conducted in a timely manner to avoid disruption of services.
+
+Third Party Vendor Contracts must include, at a minimum:
+● Scope of services and nature of the relationship;
+● Performance expectations and Service Level Agreements (“SLAsˮ);
+● Measures around conformance with policies and procedures and compliance with
+applicable laws and regulations;
+● Roles and responsibilities of both Afterpay and the Third Party Vendor;
+● Data protection, privacy, and confidentiality provisions;
+● Requirements for business continuity, disaster recovery, and incident response;
+● Obligations to report material operational issues, breaches, or service deterioration
+including frequency of reporting;
+● Cyber and physical security obligations, including vulnerability management and access
+control;
+● Material subcontracting disclosure and approval requirements;
+● Notification obligations regarding any material changes to services, technology, or risk
+management processes;
+● Rights for Afterpay to audit or test the services and require remediation, including
+circumstances where third parties conducting audits on Afterpay require access, audit and
+testing of the Third Party Vendor.
+● Communications protocols for both day-to-day management and incident escalation;
+● Ownership of intellectual property and assets;
+● Dispute resolution mechanisms; and
+● Termination provisions, including notice periods and data handover requirements.
+Note: In its current form, and subject to any compliance holds, Afterpay does not perform the
+payment function of "holding funds" as funds of end-users are settled to external linked bank
+accounts. As a result, Afterpay's activities do not currently fall within the scope of safeguarding
+requirements and therefore TPSPs arrangements are not subject to safeguarding requirements at
+present. Should Afterpay perform the payment function of "holding funds" in the future, Afterpay
+would conduct a detailed review of its compliance program to ensure adherence to relevant
+requirements under the RPAA and other applicable regulatory requirements.
+For all TPSP Arrangements, additional regulatory provisions are required to meet RPAA compliance
+expectations. These include:
+● TPSP's obligations to assist Afterpay in meeting its RPAA regulatory obligations;
+● Clearly defined roles and allocation of responsibilities for data integrity, confidentiality, and
+service availability;
+● Specific obligations regarding subcontracting, notification of material changes, and TPSP
+performance monitoring;
+● Legal clauses that ensure compliance with Canadian data and privacy laws;
+● Ongoing reporting obligations to Afterpay, including performance reporting and breach
+notifications;
+● Provisions enabling Afterpay to meet Bank of Canada supervisory and access
+requirements;
+● Contractual language within the SLAs to enable Afterpay to notify Bank of Canada 5 days
+prior to significant changes; and.
+
+● Contractual language ensuring Afterpay Third Party Delivery Managers are notified of
+incidents immediately to enable reporting of identified material incidents to the Bank of
+Canada no later than 48 hours after the incident is identified and deemed material.
+Review and Update Requirements: Afterpay Legal must review and, where necessary, update
+contracts in accordance with this Policy, including:
+● During scheduled periodic reviews;
+● In response to material changes to the service or risk profile; and
+● When regulatory changes may impact contractual obligations.
+All contracts must be stored and retained in a central repository and be accessible for regulatory
+review if requested by supervisory authorities such as the BoC.
+2.4.6 Technology and Cyber Risk Management
+TPSPs that provide technology services or process sensitive data to Afterpay are expected to
+adhere to cybersecurity and data protection standards defined by Block. These include, but are
+not limited to, requirements for access controls, data segregation, encryption, vulnerability
+management, and secure development practices. If applicable, cloud service providers which are
+classified as TPSPs are expected to demonstrate portability of services and maintain robust
+backup, failover, and incident response capabilities.
+Technology-related risks are assessed during onboarding and as part of ongoing monitoring.
+Contracts with technology service providers are expected to define responsibilities for
+cybersecurity and resilience controls, in alignment with applicable Block security and risk
+management standards. Cybersecurity posture is monitored through methods such as audits,
+penetration tests, and independent certifications.
+2.4.7 Monitoring and Oversight
+Afterpay maintains a comprehensive and risk-based approach to monitoring all TPSP
+arrangements to ensure that services are delivered in accordance with contractual obligations and
+that risks remain within acceptable levels of established risk appetites throughout the life of the
+relationship. Monitoring activities may include:
+● Performance and service level SLA/KPI reviews;
+● Issue and incident tracking;
+● Periodic reassessments of compliance and operational risk; and
+● Independent audit reports, certifications, or on-site assessments (as appropriate).
+The Service Recipient/TPSP Owner/Third Party Delivery Manager is responsible for facilitating
+day-to-day monitoring of the arrangement. Oversight and challenge are provided by the Second
+Line of Defense (“2LODˮ), including Compliance, Risk, and Legal. Independent assurance may be
+conducted by the Third Line of Defense (“3LODˮ)Internal Audit.
+
+Where monitoring activities identify issues such as performance deficiencies, non-compliance, or
+material risks, the Service Recipient, in consultation with Global TPRM, Third Party Delivery
+Managers, Compliance, ERM, and Legal, must determine the appropriate response.
+Actions may include:
+● Developing and implementing a remediation plan with the TPSP;
+● Escalating the issue to the GRC Committee or Board; and
+● Triggering the termination clause if risks are deemed unmanageable.
+In addition to scheduled reviews, the Owner must promptly inform the Compliance Governance
+and Oversight Lead of any proposed or actual changes in the nature or scope of services provided
+by a TPSP. The Owner must provide sufficient detail to allow the Compliance team to reassess the
+arrangement and determine if further due diligence or regulatory notification is required.
+Monitoring outcomes, including identified issues and risk trends, are reported to the CCO, the GRC
+Committee, and escalated to senior management or the Board, as necessary.
+2.4.8 Incident Management
+Afterpay requires all TPSPs to maintain defined processes for identifying, managing, and reporting
+incidents. These processes will include root cause analysis, corrective actions, and timely
+communication protocols.
+Contracts will require TPSPs to provide immediate notification (as defined in the service agreement
+or incident management plan) to Afterpay of incidents that could impact the TPSP and Afterpay's
+retail payments activities' service delivery, data integrity, or compliance with Afterpay's obligations
+under the RPAA (including but not limited to incident reporting). Internal processes must ensure
+prompt escalation, documentation, and remediation of third party related incidents.
+For all TPSP Arrangements, Afterpay must be informed by the TPSP where incidents have
+occurred. Where identified, incidents and breaches must be assessed by the 2LoD to determine
+materiality. Afterpay has defined what constitutes a material event/breach in its Incident Response
+Management Plan. Afterpay maintains an incident register that tracks all incidents (including TPSP
+incidents), which contains information such as dates of when the incident occurred and specific
+steps to resolve these incidents.
+2.4.9 Reporting and Escalation to Management/Board
+The Governance and Oversight Lead is responsible for ensuring that relevant management
+information is provided to the CCO, as the designated Senior Officer under the RPAA, and, where
+appropriate, to the relevant Afterpay governance bodies such as the GRC, Executive Leadership,
+and the Board.
+This information must enable the CCO and the governance bodies to assess and challenge the
+management of Third Party Risk and make informed decisions regarding TPSP arrangements. The
+Governance and Oversight Lead in collaboration with Third Party Delivery Managers and Service
+
+Recipients, produces and escalates insights from ongoing monitoring of TPSP arrangements to
+support the CCO's effective oversight and decision-making.
+2.4.10 Regulatory Notification If required)
+Afterpay is required to make available to the BoC all information necessary to enable the BoC to
+execute the effective supervision of Afterpay, including where required, a copy of any relevant
+portions of TPSP Agreement(s) entered into by Afterpay.
+Afterpay is also required to notify the BoC of significant changes in its TPSP Arrangements, with
+information as requested, and therefore all documentation referenced in this Policy must be stored
+in such a manner that it is available on demand if requested.
+Afterpay must report to the BoC should material events occur in relation to TPSP's Arrangements
+that would give rise to a Significant Change or New Activity Report, Incident Report or any other
+regulatory reporting required pursuant to the RPAA.
+It is the responsibility of the Owner to identify these issues, and the CCO, in consultation with Legal
+will determine whether a notification to the BoC is required.
+2.4.11 Business Continuity and Exit Planning
+All TPSP arrangements must be supported by business continuity and disaster recovery plans that
+are tested at regular intervals. Plans must address severe and prolonged disruptions, including
+scenarios involving multiple concurrent failures.
+Exit plans must be documented and include both stressed and non-stressed scenarios. These
+plans must cover notification requirements, data return and transfer, interim service continuity, and
+cost considerations. Exit plans are reviewed regularly and tested as part of Afterpay's broader
+operational resilience strategy.
+2.4.12 Record Retention
+Afterpay will retain TPSP related records that support its compliance with this Policy and applicable
+obligations under the RPAA. These records include, but are not limited to, due diligence
+documentation, criticality assessments, and risk assessment outputs. Records must be stored in a
+manner that ensures prompt availability for review and retained in accordance with Afterpay's
+record retention practices. Appropriate safeguards will be implemented to prevent unauthorized
+deletion, destruction, or alteration of records, in line with RPAA requirements.
+Afterpay will also ensure that TPSPs maintain accurate and up-to-date records related to the
+services they provide. Measures will be in place to ensure these records are accessible to Afterpay
+and, where applicable, to regulators—enabling Afterpay to meet its ongoing regulatory obligations
+under the RPAA.
+
+2.4.13 Intra-Group Arrangements
+Outsourcing services provided by Block entities to Afterpay also fall in scope of this Policy
+("Intra-Group Outsourcing"). The Block entity will be regarded as a TPSP for the purpose of this
+Policy. Afterpay applies the same requirements to Intra-group Outsourcing as to arrangements with
+external third parties. Afterpay recognises that intra-group Outsourcing Arrangements can present
+unique risks. For Intra-group Outsourcing, Afterpay will ensure that the arrangement is organised
+on an 'arm's length' basis and the arrangement does not impair Afterpay's ability to comply with its
+regulatory obligations. Afterpay shall ensure that it is in a position to exert sufficient influence on
+the Intra-group arrangements and that any necessary remediation of outsourced services,
+processes, or activities that impacts on Afterpay are given appropriate prioritisation by Block.
+The outsourcing Owner shall engage with Afterpay Compliance Governance and Oversight Lead
+who will consult with relevant Afterpay stakeholders such as Compliance, Risk, Legal and the
+Business in accordance with this Policy and the Afterpay TPRM procedure. All sections of this
+Policy apply to all Intra-Group Outsourcing arrangements between Block and Afterpay that are
+deemed a TPSP.
+For all steps set out in this Policy, the Owner will be responsible for completing the Afterpay
+Checklist for Intra-Group Outsourcing arrangements (amended for each provider, as appropriate).
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Afterpay Governance, Risk and Compliance Committee GRC Committee: An internal
+governance committee made up of senior management responsible for the oversight of
+Afterpay's compliance with applicable laws and its key risks. The committee reviews and
+approves all new TPSP arrangements, evaluates ongoing performance, and escalates
+issues to the Afterpay Executive Leadership Team.
+● Afterpay Compliance Governance and Oversight Lead Third-Party Risk Manager): 2nd
+Line of Defence function responsible for supporting operational functions with compliance
+risk assessments, due diligence, and governance.
+● Bank of Canada: Responsible for administering and enforcing the RPAA, including
+registering PSPs and supervising their compliance with the legislation.
+● Board of Directors: Holds ultimate accountability for the oversight of third-party risk,
+ensuring the Policy aligns with Afterpay's risk appetite and strategic objectives. The Board
+delegates operational oversight to the Governance Risk and Compliance Committee GRC,
+which reviews TPSP risks and approves the Third-Party Risk Management Policy.
+● Chief Compliance Officer CCO The Afterpay Canada CCO serves as the Designated
+Senior Officer, as defined under the RPAA, and is responsible for ensuring Afterpay
+Canada's compliance with the RPAA and all other applicable regulatory requirements. The
+
+CCO is the owner of this Policy and is accountable for ensuring its alignment with
+applicable regulatory obligations.
+● Directly Responsible Individual DRI - also referred to in this document as Owner and/or
+Service Recipient): The owner of the Third Party arrangement, responsible for managing
+day-to-day vendor performance with responsibility for the function for which the third
+party is being engaged.
+● Enterprise Risk Management ERM Responsible for ensuring the development and
+implementation of the Risk Management Framework for Block and its subsidiaries including
+Afterpay.
+● Financial Operations FinOps Directly Responsible Individual DRI/Third Party Delivery
+Manager: Responsible for managing third party risks and ensuring effective delivery of
+services. It is the responsibility of the FinOps DRI to ensure that adequate risk-based
+management information relating to TPSP Arrangements and the TPSP framework,
+including the reporting of any TPSP control issues, breaches, or incidents, is provided to
+the GRC Committee.
+● Business Partnerships DRI/Third Party Delivery Manager: Responsible for managing
+third party risks and ensuring effective delivery of services. It is the responsibility of the
+Business Partnerships DRI to ensure that adequate risk-based management information
+relating to TPSP Arrangements and the TPSP framework, including the reporting of any
+TPSP control issues, breaches, or incidents, is provided to this GRC Committee.
+● Merchant Partnerships DRI/Third Party Delivery Manager: Responsible for managing
+third party risks and ensuring effective delivery of services. It is the responsibility of the
+Merchant Partnerships DRI to ensure that adequate risk-based management information
+relating to TPSP Arrangements and the TPSP framework, including the reporting of any
+TPSP control issues, breaches, or incidents, is provided to this GRC Committee.
+● Product Partnerships DRI/Third Party Delivery Manager: Responsible for managing third
+party risks and ensuring effective delivery of services. It is the responsibility of the Product
+Partnerships DRI to ensure that adequate risk-based management information relating to
+TPSP Arrangements and the TPSP framework, including the reporting of any TPSP control
+issues, breaches, or incidents, is provided to this GRC Committee.
+● Internal Audit: 3rd Line of Defence function that provides independent assurance over the
+effectiveness of the framework.
+● Legal Counsel: Responsible for ensuring that all TPSP contracts, and the overall third-party
+risk management program, comply with applicable regulatory requirements—including
+obligations under the Retail Payment Activities Act RPAA
+● Operations Committee: Responsible for 1st Line Of Defence operational risk and controls
+updates, third party/vendor updates, consumer metrics and commercial outcomes,
+consumer harm such as complaints and hardship data and so on.
+
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Compliance Management System Policy, Compliance
+will provide regular updates, as applicable, to the Block, Inc. Board and executive management.
+Reporting may cover specific information related to:
+● Policies and standards;
+● Procedures;
+● Audit/exam findings;
+● Issues management;
+● Training; and
+● Complaints.
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Compliance Training Program.
+Afterpay must ensure that all staff, senior management and the Board have sufficient knowledge
+and understanding of Third party risks. The Compliance Governance and Oversight Lead
+Third-Party Risk Manager), with oversight from the CCO, is responsible for the development and
+delivery of a risk-based TPRM training program in Afterpay. At a minimum, Afterpay shall provide
+tailored/specific training to the employees and departments based on their involvement in TPRM
+processes, and will provide refresher training on an annual basis.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements Including but not limited to the RPAA requirement to
+retain relevant records for at least five 5 years)
+3.5 Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this
+Policy, provided that the proposed exception or exemption does not violate applicable laws and
+regulations. Exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team. The Document Owner and/or designee will inform Compliance
+Leadership and applicable committees, as needed, of exceptions.
+
+Exceptions to this document must be pre-approved by the Chief Compliance Officer or their
+designee. Staff members may submit exception requests for review at go/policyhelp.
+3.6 Confidentiality
+This document is confidential and should only be accessed by employees.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy owner.
+Review related documents:
+● Block Third Party Risk Management Policy
+● Afterpay Canada Operational Risk Management Framework
+● Afterpay Register of Third Parties
+● Afterpay TPSP Periodic Review Checklist
+● Afterpay Canada - Checklist for Third Party Engagements
+● Afterpay CA TPSP Determination Assessment Tool.xlsx
+● 2025 Code of Business Conduct & Ethics _ Block.pdf
+● Afterpay Canada Incident Response Management Plan
+● Ex. 3_Global Signature Authority Policy - Block - 2024 Recommendations 1.pdf
+● Block Information Security Policy and Standards Library
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Rhoda Lalog Creation Jun 5, 2025
+Safiya Adenekan Head of Initial Approval Jun 30, 2025
+Canada
+Compliance
+
+Paulo Vargas, Scheduled Jun 30, 2025
+Shannon Gilham, Review
+Saleha Ali, Toni
+Kuyinu
+Afterpay Canada Board Approval New Document Aug 8, 2025
+Limited Board
+Document Details:
+Business Afterpay Canada Limited
+Scope Canada
+Compliance Domain Compliance Governance
+Document Owner Head of Canada Compliance
+Approved By Afterpay Canada Limited Board
+Document Tier Tier 2

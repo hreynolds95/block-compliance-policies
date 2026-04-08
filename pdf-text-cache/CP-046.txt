@@ -1,0 +1,353 @@
+UDAAP/UDAP Policy
+Square | Square Capital, LLC | Credit Card
+Last Approved: Feb 19, 2026
+Effective Date: Feb 19, 2026
+1. Overview
+Introduction and Purpose: This Policy communicates Square Capital, LLC's commitment to
+compliance with both consumer and commercial fairness requirements through:
+● The Unfair, Deceptive, or Abusive Acts or Practices (“UDAAPˮ) Standards contained in
+sections 1031 and 1036 of the Dodd-Frank Act
+● The Unfair or Deceptive Acts or Practices (“UDAPˮ) provisions in Section 5 of the Federal
+Trade Commission Act
+● State laws prohibiting similar acts or practices in both consumer and commercial contexts
+This Policy sets forth comprehensive guidelines governing Square Capital, LLC, ensuring
+consistent operations while maintaining appropriate flexibility to address unique business needs.
+Square Capital's prevention of UDAAP and UDAP violations requires transparency, truthfulness,
+suitability, and fairness across all transactions and dealings with both consumers and merchants.
+The distinction between UDAAP and UDAP requirements reflects the different contexts in which
+Square Capital, LLC operates:
+● Consumer financial products and services (subject to UDAAP under Dodd-Frank)
+● Commercial and merchant services (subject to UDAP under the FTC Act)
+● Products with potential dual consumer and commercial applications
+This comprehensive approach ensures appropriate protections while recognizing the different
+needs and sophistication levels of consumers and commercial customers.
+Scope: This Policy applies to Square Capital, LLC (collectively, "Square Capital").
+This policy does not apply to Square Financial Services (“SFSˮ), Block, Inc.ʼs Utah state-chartered
+Industrial Bank federally regulated by the Federal Deposit Insurance Corporation.
+
+Definitions:
+Terminology Definition
+Abusive An act or practice that: 1 materially interferes with the ability of a consumer
+to understand a term or condition of a consumer financial product or service;
+or 2 takes unreasonable advantage of: (a) a consumer's lack of
+understanding, (b) inability to protect their interests, or (c) reasonable
+reliance on a covered person. Applies only to consumer transactions]
+Commercial A business entity or individual obtaining products or services primarily for
+Consumer business, commercial, or agricultural purposes.
+Commercial A transaction primarily for business, commercial, or agricultural purposes,
+Transaction including merchant services and business lending products.
+Consumer An individual who is a natural person who obtains or has obtained a financial
+product or service that is used primarily for personal, family or household
+purposes.
+Deceptive A representation, omission, act or practice that: 1 misleads or is likely to
+mislead the consumer or merchant; 2 the consumer's or merchant's
+interpretation is reasonable under the circumstances; and 3 the misleading
+representation, omission, act or practice is material.
+Material Information that is likely to affect a consumer's or merchant's choice of, or
+Information conduct regarding, a product or service.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired by
+the Company who supports the operations covered by this Policy.
+Substantial Injury Financial or other harm that is more than trivial and may include monetary
+loss, unwarranted health and safety risks, and other forms of economic or
+social harm.
+Third-Party Any external entity that performs activities on behalf of Square Capital,
+Service Provider including vendors, contractors, and service providers who may interact with
+consumers or merchants.
+UDAAP Unfair, Deceptive, or Abusive Acts or Practices as prohibited by sections 1031
+and 1036 of the Dodd-Frank Act, which apply to consumer financial products
+and services.
+UDAP Unfair or Deceptive Acts or Practices as prohibited by Section 5 of the
+Federal Trade Commission Act, which apply to both consumer and
+commercial transactions.
+2
+
+Unfair An act or practice that: 1 causes or is likely to cause substantial injury to
+consumers or merchants; 2 cannot be reasonably avoided; and 3 is not
+outweighed by countervailing benefits to consumers/merchants or to
+competition.
+Policy Statement
+Square Capital is committed to offering both consumer and commercial products in a fair and
+responsible manner. For consumer financial products, Square Capital complies with UDAAP
+requirements under the Dodd-Frank Act. For commercial products, Square Capital complies with
+UDAP requirements under the FTC Act. Square Capital ensures that terms and conditions are
+communicated clearly and transparently to both consumers and commercial customers.
+Wherever state or local regulations overlap with, and are stricter than the requirements set out in
+this Policy, the more conservative or restrictive approach will be applied in those jurisdictions
+provided such approach is lawful. If any applicable laws conflict with this Policy, Square Capital will
+consult with appropriate Legal Counsel to resolve the conflict and adjust Square Capitalʼs policies
+and procedures to ensure compliance.
+2. Requirements
+2.1 General Standards
+2.1.1 UDAAP Standards
+Square Capital's commitment to preventing unfair, deceptive, or abusive acts or practices is
+demonstrated through comprehensive standards that apply across all entities and operations.
+These standards establish the foundation for fair treatment of consumers and merchants
+throughout their relationship with Square Capital.
+Unfair Acts or Practices: An act or practice is unfair where it causes or is likely to cause
+substantial injury to Consumers which cannot be reasonably avoided and the injury is not
+outweighed by countervailing benefits to Consumers or to competition. An act or practice that
+causes a small amount of harm to a large number of people may be deemed to cause substantial
+injury. However, an act or practice is not considered to be unfair if Consumers may reasonably
+avoid injury. Consumers cannot reasonably avoid injury if the act or practice interferes with their
+ability to make decisions or take action to avoid injury.
+Public policy, as established by statute, regulation, or judicial decisions, may be considered with
+other evidence to determine whether an act or practice is unfair and the particular facts in a case
+are crucial to the determination of unfairness.
+3
+
+Square Capital complies with the guidance that discrimination may be considered an unfair act or
+practice. As such, Square Capital will treat all applicants and Consumers equally, and will not
+discriminate during the stages of the product lifecycle, including marketing, account opening,
+servicing, or collections.
+Deceptive Acts or Practices:
+An act or practice is deceptive where there is representation omission, or practice that misleads or
+is likely to mislead Consumers; the Consumer's interpretation of the representation, omission, act
+or practice is reasonable under the circumstances; and the misleading representation, omission,
+act or practice is material.
+A deceptive representation may be an express or implied claim or promise and it may be written or
+oral. The omission of material information may be deceptive if disclosure of the omitted
+information is necessary to prevent a Consumer being misled. When representations or marketing
+practices are targeted to a specific audience, such as the elderly, young people, or financially
+unsophisticated, the standard is based upon the effects of the act or practice on a reasonable
+member of that group.
+Abusive Acts or Practices:
+An act or practice is abusive if it materially interferes with the ability of a Consumer to understand
+a term or condition of a product or service or takes unreasonable advantage of: (i) the lack of
+understanding on the part of the Consumer of the material risks, costs, or conditions in the product
+or service; (ii) the inability of the Consumer to protect their interests in selecting or using the
+financial product or service; or (iii) the reasonable reliance by the Consumer on a covered person
+to act in the interests of the Consumer.
+2.1.2 Consumer and Commercial Harm
+Any unfair, deceptive, or abusive act or practice can result in harm to consumers or merchants.
+Square Capital seeks to prevent harm through clear, transparent, and accurate delivery of products
+and services in accordance with applicable federal and state laws and regulations.
+For consumers, harm may include:
+● Actual or potential financial loss
+● Non-financial impacts
+● Violations of consumer protection laws
+● Impacts from compliance management weaknesses
+For commercial customers, harm may include:
+● Business losses or operational impacts
+● Disruption to merchant services
+● Financial impacts on business operations
+4
+
+● Reputational harm
+2.2 Product Design and Delivery
+2.2.1 Advertising, Marketing, and Disclosure Guidelines
+Square Capital maintains comprehensive standards for marketing, advertising, and sales materials
+across both consumer and commercial products. All communications must present information
+fairly, clearly, and accurately, with appropriate disclosures of terms, benefits, costs, risks, and
+material limitations of products or services being offered. This includes any related or optional
+products and services that may be available to customers.
+In developing marketing materials, Square Capital prohibits any intentional misrepresentation of
+terms, benefits, costs, risks, or material limitations, whether through direct statements or by
+omission. Headlines and promotional language must be truthful and supported by clear,
+conspicuous disclosures rather than relying on fine print or inconspicuous disclaimers to clarify
+potentially misleading statements. All representations made in communications must have a
+reasonable factual basis and be appropriately documented.
+Square Capital ensures that key terms and conditions are prominently displayed and easily
+understood, enabling customers to make informed decisions about products and services. This
+includes clear and timely disclosure of fees, penalties, or other charges, along with explanations of
+when and why such charges may be imposed. When contract terms permit changes to the
+agreement, these provisions are clearly communicated. In cases where approved account terms
+differ from advertised terms or previously disclosed information, these differences are prominently
+highlighted.
+When using terms such as "pre-approved" or "guaranteed," Square Capital clearly discloses any
+limitations, conditions, or restrictions that may apply. Marketing materials avoid claims,
+representations, or statements that could mislead the target audience about cost, value,
+availability, cost savings, benefits, or terms of the product or service. Additionally, Square Capital
+does not advertise services in connection with accounts unless there is both the intent and ability
+to provide and monitor such services for account holders.
+For commercial products and services, Square Capital ensures:
+● Fair representation of merchant terms and conditions
+● Clear disclosure of business obligations
+● Transparent presentation of processing requirements
+● Accurate representation of merchant benefits
+● Fair presentation of qualification criteria
+2.2.2 Marketing Review Process
+Square Capital implements a comprehensive marketing review process to ensure compliance with
+UDAAP and UDAP requirements while supporting business objectives. All marketing materials and
+5
+
+customer communications undergo review by Compliance and Legal teams prior to distribution to
+ensure fair representation of product features, terms, and conditions. Documentation of marketing
+review and approval processes is maintained for at least 25 months from public launch. Marketing
+teams engage with Product Compliance and Legal counsel during strategy development to prevent
+potential UDAAP, UDAP, or fair lending concerns.
+2.2.3 Collections and Communications Standards
+Square Capital's collection and communication practices comply with applicable federal and state
+requirements, including UDAAP/UDAP standards. Detailed requirements for collections and
+communications activities, including specific standards for consumer and commercial collections,
+are outlined in Block, Inc.'s Fair Debt Collection Practices Act FDCPA Policy.
+For matters not specifically addressed in the FDCPA Policy, Square Capital ensures all collections
+and communications practices align with this Policy's principles of fairness and transparency,
+whether dealing with consumers or merchants.
+2.3 Operations and Controls
+2.3.1 Compensation and Performance Evaluations
+When Square Capital or any third-party vendors provide support center servicing for consumers or
+merchants, which includes any servicing communications delivered via existing communication
+methods, Square Capital ensures that compensation and performance evaluations of internal
+employees and performance oversight of vendor advocates do not contribute to UDAAP or UDAP
+risk. This applies across both consumer financial services and merchant support operations,
+recognizing the different requirements for each customer type.
+Square Capital maintains relevant metrics and controls, which may include quality assurance and
+case monitoring, to ensure support operations promote fair treatment regardless of whether they
+serve consumers or commercial customers. Performance evaluations and incentive structures are
+designed to prevent practices that could harm either consumers or merchants while supporting
+compliant operations across all business lines.
+2.3.2 Servicing Guidelines
+Square Capital maintains comprehensive servicing standards that address both consumer financial
+services and merchant/commercial relationships. For third parties or service providers engaged in
+any form of servicing, whether consumer loan servicing or merchant support, relevant policies,
+procedures, programs, and communications are reviewed by Compliance prior to and during their
+use to ensure compliance with both UDAAP and UDAP requirements as applicable.
+For consumer financial services, Square Capital ensures servicing practices meet consumer
+protection requirements and prevent unfair, deceptive, or abusive practices. For merchant and
+commercial relationships, servicing standards focus on fair commercial practices and prevention
+of unfair or deceptive acts. Square Capital prohibits practices that could harm either consumers or
+6
+
+merchants, or damage Square Capital's reputation, whether conducted by Square Capital
+personnel or third-party service providers.
+2.3.3 Third-Party Risk Management Requirements
+Square Capital maintains oversight of Third-Party Service Providers who perform activities on
+Square Capital's behalf, whether serving consumers or merchants. All Third-Party Service
+Providers must comply with applicable UDAAP and UDAP requirements as outlined in their service
+agreements and the Block, Inc. Third-Party Risk Management Policy.
+Third-Party Service Providers that interact with consumers or merchants must adhere to the same
+standards of fairness and transparency that apply to Square Capital's direct operations. This
+includes customer service providers, collection agencies, marketing partners, and other vendors
+who may impact the customer experience. Square Capital ensures this compliance through service
+agreements that clearly establish UDAAP and UDAP requirements, ongoing monitoring of
+Third-Party Service Provider activities, and regular assessment of customer complaints regarding
+Third-Party Service Providers.
+Square Capital maintains ultimate responsibility for compliance with UDAAP and UDAP
+requirements, regardless of whether activities are performed internally or by Third-Party Service
+Providers. For detailed requirements regarding Third-Party Service Provider management, refer to
+the Block, Inc. Third-Party Risk Management Policy.
+2.4 Oversight Framework
+2.4.1 Complaints Management
+Both consumer and merchant complaints play a key role in detecting potential UDAAP/UDAP risk.
+Block, Inc.'s Global Complaints Policy and underlying Block, Inc. Global Complaints Standard
+include minimum requirements for Square Capital in relation to the identification, classification,
+treatment, and reporting of complaints from all customers.
+Block, Inc. maintains distinct procedures for:
+● Consumer complaints related to financial products and services
+● Merchant complaints regarding commercial products and services
+● Complaints involving dual-purpose products
+Square Capital complies with legal, regulatory, and contractual requirements governing the
+handling of all complaints arising from Square Capital's products and services, including specific
+requirements for different customer types and product categories.
+7
+
+2.4.2 Compliance Monitoring and Testing
+Square Capital maintains a comprehensive monitoring and testing program to ensure compliance
+with UDAAP and UDAP requirements across its consumer and commercial operations.
+2.4.3 Procedure Reviews
+Compliance will periodically review any business unit policies or procedures to ensure alignment
+with this Policy and all governing compliance policies.
+3. Compliance & Enforcement
+3.1 Roles and Responsibilities
+● Compliance Policy Committee (“CPCˮ):
+○ Provides oversight and governance of applicable Compliance Policies and is
+responsible for reviewing and approving this policy annually to ensure alignment
+with regulatory requirements and expectations
+○ Providing guidance on significant policy matters
+○ Ensuring consistency across Block, Inc.ʼs Compliance Policy Framework
+● Block, Inc. Chief Compliance Officer (“CCOˮ)
+○ Provides assistance and support in implementing this Policy
+○ Establishes appropriate practices designed to ensure Square Capitalʼs operations
+reflect Block, Inc.ʼs commitment to compliance
+○ Ensures all Employees are aware of their compliance responsibilities
+○ Monitors and reports on compliance with this Policy
+○ May delegate responsibilities to relevant Senior Management or Compliance
+Employees who inform and escalate key risks and issues to the CCO
+● Head of Consumer Protection
+○ Serves as the primary delegate for the CCO in matters relating to this Policy
+○ Oversees the development and maintenance of compliance procedures
+○ Coordinates policy reviews and updates
+○ Manages the policy exception process
+● Legal Counsel
+○ Provides approval and interpretative advice regarding the applicability and
+application of policy requirements
+○ Ensures legal compliance across all jurisdictions
+○ Provides guidance on complex compliance matters
+● Employees
+○ Understand and comply with all applicable requirements of this Policy
+○ Complete required compliance training in a timely manner
+○ Report actual or suspected violations of laws or other requirements
+○ Follow proper procedures for email communications
+8
+
+○ Maintain awareness of updates and changes to requirements
+Subsidiary Roles:
+● Square Capital Board of Managers
+○ Reviews and adopts this Policy following CPC approval
+○ Oversees implementation within Square Capital
+○ Receives regular reporting on compliance with this Policy
+○ Reviews and approves material changes affecting Square Capital, as needed
+3.2 Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee monitors activities for compliance
+and objective achievement. As outlined in the Square Capital, Inc. Compliance Management
+System Policy, Compliance will provide regular updates, as applicable, to the Square Capital, Inc.
+Board and executive management. Reporting may cover specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+See section 2.4 for further details.
+3.3 Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training related activities are monitored by the
+Compliance Team and are outlined in the Block, Inc. Compliance Training Program.
+3.4 Record Retention
+All Documents are retained according to the longer of:
+● Block, Inc. Data Classification & Handling Policy
+● Applicable regulatory requirements
+3.5 Exceptions
+The Head of Consumer Protection or designee will have authority to approve exceptions and/or
+exemptions to this Policy, provided that the proposed exception or exemption does not violate
+applicable laws and regulations. Exception requests must be documented in writing, include a
+reason for a request, and provide a description of the controls that the Company will implement to
+mitigate risks associated with the exception. Any approved exceptions must be documented in
+9
+
+writing and retained with recordkeeping requirements. Any approved exceptions or exemptions
+should be submitted to the Policy Governance Team. The Document Owner and/or designee will
+inform Compliance Leadership and applicable committees, as needed, of exceptions.
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Policy please contact the Policy Owner.
+5. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square Capital Square Capital Scheduled R… Scheduled July 2, 2024
+Board of Board of Review
+Managers Managers
+Square Capital Square Capital Scheduled R… Scheduled January 24, 2025
+Board of Board of review; immaterial
+Managers Managers change
+Compliance Compliance Scheduled R… Scheduled February 19, 2026
+Policy Policy Committee Review; updated
+Committee to new template.
+Enhancements
+completed to
+align existing
+Credit Card policy
+with Block, Inc.
+UDAAP/UDAP
+Policy
+Document Details:
+Business Square Capital
+Scope Regional
+10
+
+Compliance Domain Consumer Protection
+Document Owner Lending Product Compliance Lead
+Approved By Compliance Policy Committee
+Document Tier Tier 2
+11

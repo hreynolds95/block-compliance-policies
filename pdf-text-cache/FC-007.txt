@@ -1,0 +1,1716 @@
+New Zealand
+AML/CFT
+Programme
+Afterpay | Afterpay NZ Limited
+January 2026
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+NZ AML/CFT Programme | Afterpay NZ Limited 2
+
+Confidential
+Table of Contents
+This document is confidential and should only be accessed by individuals within Block,
+Inc. and on a need-to-know basis.
+2
+1. Introduction 10
+1.1 Afterpay NZ overview 10
+1.2 Designated business group 12
+1.3 Application of the AML/CFT Act to Afterpay NZ 13
+1.4 Purpose and coverage of this AML/CFT Programme 14
+1.5 Afterpay NZ’s AML/CFT Supervisor 15
+1.6 Definitions 15
+1.7 Roles & Appointment Dates 18
+2. Governance and Oversight 19
+2.1 Governance and oversight 19
+2.2 Appointment and role of AML/CFT Compliance Officer 20
+2.2.1 Appointment 20
+2.2.2 Role 21
+2.3 Independent audits 22
+2.4 DIA feedback 22
+3. Risk Assessment 22
+3.1 Introduction 22
+3.2 Summary of risk assessment result 23
+3.3 Ongoing risk assessment 23
+4. Reporting Obligations 25
+4.1 Annual AML/CFT reports 25
+4.2 Suspicious activity reporting 26
+4.3 Tipping off offence 27
+4.4 Ongoing due diligence in the event of a suspicious activity report 27
+5. Ongoing account monitoring and CDD 27
+5.1 Ongoing account monitoring 28
+5.1.1 Automated transaction monitoring program 29
+5.1.2 Manual transaction monitoring program 29
+5.2 Ongoing CDD 30
+6. Staff Training and Due Diligence Programme 31
+6.1 AML awareness training 31
+6.1.1 Onboarding training 32
+6.1.2 Refresher training 32
+6.2 Employee due diligence 32
+NZ AML/CFT Programme | Afterpay NZ Limited 3
+
+Confidential
+6.3 Employee management 33
+7. Customer Due Diligence 33
+7.1 Customer due diligence - Merchants 33
+7.1.1 Merchant type 34
+7.1.2 Beneficial owners 34
+7.1.3 Effective control 35
+7.1.4 Merchant identity verification - reliance on third parties 35
+7.1.5 Merchant risk assessment 36
+7.2 Customer due diligence - Consumers 37
+7.2.1 Collection of identity information 37
+7.2.2 Adoption of Electronic Verification Code of Practice 2013 38
+7.2.3 Additional measures 38
+7.2.4 Electronic Verification 39
+7.2.5 Alternative Method of Verification 41
+7.2.6 Exception handling process 42
+7.3 Politically exposed person 43
+7.4 Enhanced customer due diligence 43
+7.4.1 Enhanced customer due diligence - Merchants 43
+7.4.2 Enhanced customer due diligence - Consumers 44
+7.4.3 Process 45
+8. Record Keeping 46
+8.1 General record keeping obligations 46
+8.2 Suspicious activity records 47
+8.3 Other records 47
+8.4 Record keeping policy 48
+8.5 Destruction of records 48
+9. SCHEDULE 1 49
+Electronic Verification Standards 49
+9.1 Electronic verification services 49
+9.2 Databases used 50
+9.3 Discrepancy management 51
+9.3.1 Discrepancy management scoring 51
+10. SCHEDULE 2 54
+List of Authorised Trusted Referees 54
+Certification 54
+11. SCHEDULE 3 55
+Merchant CDD 55
+10.1 Risk assessment 55
+10.2 Merchant type 55
+10.3 Merchant identification requirements 55
+10.3.1 Sole Traders (Individuals) 56
+NZ AML/CFT Programme | Afterpay NZ Limited 4
+
+Confidential
+10.3.2 Companies 56
+10.3.3 Trusts 57
+10.3.4 Partnerships 58
+10.3.5 Listed issuers 59
+10.3.6 Association, Societies & Clubs 59
+10.4 Procedure for the collection and verification of Merchant identification information 60
+10.5 Reporting discrepancies 60
+10.6 Additional information requirements under Regulation 11 and 11A 60
+11. Document Management 61
+11.1 Document Owner 61
+11.2 Revision & Approval History 61
+11.3 Document Details 64
+NZ AML/CFT Programme | Afterpay NZ Limited 5
+
+Confidential
+Definitions
+Terminology Definition
+Afterpay NZ Afterpay NZ Limited NZBN 9429046246837
+Afterpay Touch Group DBG Afterpay NZ Limited, Afterpay Australia Pty Ltd (ACN 15 169
+342 942) and Afterpay Pty Ltd (ACN 30 618 280 649) are
+members of the Afterpay Touch Group Designated
+Business Group.
+AML/CFT Anti-Money Laundering & Countering Financing of
+Terrorism
+AML/CFT Act Anti-Money Laundering and Countering Financing of
+Terrorism Act 2009
+AML/CFT Programme or Afterpay NZ’s Anti-Money Laundering and Countering
+Programme Financing of Terrorism Programme
+Block Block, Inc., a Delaware, USA Corporation, with Delaware
+registration number: 4699855 and Afterpay NZ’s parent
+company.
+BNPL service offering interest free instalment payments over a short
+timeframe to Afterpay’s New Zealand consumers for the
+purchase of low value consumer goods and services from
+retail merchants, with a commitment to responsible
+lending.
+Board Afterpay NZ’s Board of Directors
+CDD Customer Due Diligence
+Consumer an individual end-consumer who utilises, or seeks to
+utilise, Afterpay’s NZ BNPL services.
+Customer a person to whom Afterpay NZ provides (or is asked to
+provide) a service. This may include both Consumers and
+Merchants.
+ECDD Enhanced Customer Due Diligence
+Employees The term “employees” will be construed broadly to include
+all permanent and temporary employees, and contractors
+and agents engaged on a full-time basis (but will not
+include employees of Probe).
+NZ AML/CFT Programme | Afterpay NZ Limited 6
+
+Confidential
+Terminology Definition
+The Financial Crime Operations The Financial Crime Operations (FCO) Team sits under
+(“FCO”) Team Cash Compliance and assists in the day to day operations
+of many of the processes underpinning this AML/CFT
+Programme.
+Frankie Frankie Financial Pty Ltd, an Australian based data
+aggregator, to provide access to underlying data vendors
+and sources.
+GMCP Global Merchant Category Policy
+IVCOP New Zealand Identity Verification Code of Practice 2013
+KYC Know Your Customer
+Merchant those individuals, partnerships, companies, associations,
+societies & clubs, and trusts with whom Afterpay NZ has
+an arrangement to pay the value of purchases made by a
+Consumer using Afterpay NZ’s “buy-now-pay-later”
+product and who offer goods or services for sale to
+Consumers.
+ML/TF Risk the risk that Afterpay NZ may reasonably face that its
+services may involve or facilitate money laundering or
+terrorism financing.
+MOJ New Zealand Ministry of Justice
+Money Laundering Money laundering is the concealment of money which
+was made by carrying out illegal activities. There are
+normally three steps in money laundering: placement,
+layering and integration.
+PEP or Politically Exposed a. an individual (Consumer or Merchant BO) who holds,
+Person (“PEP”) or has held at any time in the preceding 12 months, in
+any overseas country the prominent public function
+of –
+i. Head of State or head of a country or
+government, or
+ii. government minister or equivalent senior
+politician; or
+iii. Supreme Court Judge or equivalent senior
+Judge; or
+iv. governor of a central bank or any other position
+that has comparable influence to the Governor
+of Reserve Bank of New Zealand; or
+v. senior foreign representative, ambassador, or
+high commissioner; or
+NZ AML/CFT Programme | Afterpay NZ Limited 7
+
+Confidential
+Terminology Definition
+vi. high‑ranking member of the armed forces; or
+vii. board chair, chief executive, or chief financial
+officer of, or any other position that has
+comparable influence in, any State enterprise;
+and
+b. an immediate family member of a person referred to
+in paragraph (a), including‑
+i. a spouse; or
+ii. a partner, being a person who is considered by
+the relevant national law as equivalent to a
+spouse;
+iii. a child and a child’s spouse or partner; or
+iv. a parent; and
+c. having regard to information that is public or readily
+available,
+i. any individual who is known to have joint
+beneficial ownership of a legal entity or legal
+arrangement or any other close relationship,
+with a person referred to in paragraph (a); or
+ii. any individual who has sole beneficial
+ownership of a legal entity or legal
+arrangement that is known to exist for the
+benefit of a person described in paragraph (a).
+Reporting Entities providers of specific financial activities in relation to the
+customers, as defined by the AML/CFT Act.
+Risk Assessment Afterpay NZ ML/TF and Sanctions Risk Assessment,
+which is the assessment of the ML/TF risk that underpins
+the AML/CFT Programme.
+Senior Management / Senior includes a member of Afterpay’s Leadership Team or a
+Manager member of the Block Compliance Core organisation.
+SAR Suspicious Activity Report
+SOP Standard Operating Procedure
+Source of Funds (“SOF”) Source of Funds of a Customer refers to the means by
+which funds for a particular business relationship have
+been generated.
+Source of Wealth (“SOW”) Source of Wealth of a Customer refers to the activities
+that generate the total net worth of an individual or
+entity’s net assets and property.
+Terrorism Financing (“TF”) Terrorism financing involves the use of money raised from
+legitimate sources, such as donations and business
+profits as well as money from illegal sources to fund
+NZ AML/CFT Programme | Afterpay NZ Limited 8
+
+Confidential
+Terminology Definition
+terrorism. Those involved in terrorism financing often use
+techniques similar to money launderers.
+Unusual Activity Report (“UAR”) Unusual Activity Report. A UAR may be generated as a
+result of either the Automated Transaction Monitoring
+System or Manual Monitoring.
+NZ AML/CFT Programme | Afterpay NZ Limited 9
+
+Confidential
+1. Introduction
+Afterpay New Zealand Limited (“Afterpay NZ”) operates a technology driven buy now, pay later
+(“BNPL”) business and launched in New Zealand (“NZ”) in August 2017. It is a subsidiary of Afterpay
+Pty Ltd, an indirect wholly owned subsidiary of Block, Inc.1
+Afterpay NZ is registered as a Reporting Entity with the Department of Internal Affairs (“DIA”) and is
+a ‘non-bank, non-deposit taking lender (“NBNDTL”), i.e. a non-bank institution that lends to
+customers but does not take deposits from those applying for funds. Afterpay NZ is registered via the
+New Zealand Companies Office Financial Service Providers Register as a Financial Service Provider
+((“FSP”) Number: FSP570687; NZBN: 9429046246837).
+Afterpay NZ offers an alternative to high cost lending and traditional financial services (e.g., personal
+loans and in‑store lay buys), offering interest free instalment payments over a short timeframe to
+New Zealand customers (Consumers) for the purchase of low value consumer goods and services
+from retail merchants (Merchants), with a commitment to responsible lending (BNPL service).
+Afterpay NZ focuses on Merchants offering everyday lifestyle items, such as clothing, homewares,
+fashion accessories and general merchandise. Afterpay NZ integrates its proprietary technology
+platform directly onto a Merchant’s online store or in-store. Merchants offer their products to
+Consumers with a BNPL offer. Consumers purchase products using Afterpay NZ’s services and the
+Consumer repays Afterpay NZ over four instalments at no extra cost. Consumers fund the repayment
+of the instalments to Afterpay from debit or credit cards. Afterpay NZ pays the Merchant the
+purchase price of the goods (less a fee), and assumes all Consumer non-payment risk. Afterpay
+settles these funds to the Merchant’s nominated bank account by providing instructions to its local
+bank partner to make those payments.
+1.1 Afterpay NZ overview
+Afterpay NZ has only two types of customers: Merchants or Consumers.
+In determining whether to offer Afterpay NZ’s services to particular Merchants2, in addition to the
+considerations outlined in this Anti-Money Laundering and Countering Financing of Terrorism
+1 Since 1 February 2022.
+2 For avoidance of any doubt, Merchants must have an entity incorporated under New Zealand laws.
+NZ AML/CFT Programme | Afterpay NZ Limited 10
+
+Confidential
+(“AML/CFT”) Programme (“Programme”), Afterpay NZ follows the Global Merchant Category Policy
+(“GMCP”)3. The GMCP defines three levels of Merchant categories (i.e.,,Approved, Restricted and
+Prohibited) which relate to the types of products or services a Merchant may offer. For example,
+Afterpay NZ does not currently offer services to Merchants who sell (amongst other things)
+weapons, ammunition, gambling services and counterfeit goods as these fall under the prohibited
+category. Merchants must have a NZ bank account, hence services to Merchants are unavailable
+outside of NZ. All funds are paid to and from NZ bank accounts. Limited exceptions may be made to
+this requirement and would require escalation to the AML/CFT Compliance Officer.
+Consumer customers are individuals with a residential address in NZ. They must also have a NZ
+mobile telephone number and a current Visa or Mastercard credit or debit card which is issued by a
+NZ financial institution. These financial institutions are subject to the Anti-Money Laundering and
+Countering Financing of Terrorism Act of 2009 (AML/CFT Act) and relevant local regulatory
+supervision. Afterpay NZ does not accept consumer payments made from international cards. All
+Consumers are identified and verified in accordance with the requirements in this AML/CFT
+Programme, on account set up. Although identification is primarily based on NZ identification
+records, based on travel corridors between Australia and New Zealand, Afterpay NZexpects some
+Consumers to retain identification records associated with Australian Government agencies.
+Payments to fund purchases and settle funds to Merchants are conducted through payment
+services provided by Afterpay NZ’s local bank partner, the Bank of New Zealand. Payments from
+Consumers to Afterpay NZ are made via the Consumer’s debit or credit card via payment acquiring
+partners, mainly Adyen, Stripe and Worldpay. Afterpay also uses virtual cards to facilitate in-store
+BNPL for Consumers, which are issued to Afterpay NZ by Flexewallet NZ Ltd, who is a participant in
+the Visa payment scheme.
+Afterpay NZ has also entered a relationship with Apple Inc. and Google LLC that allows Consumers
+who operate an ApplePay/GooglePay wallet account as a mechanism to fund repayments to their
+Afterpay loan via their underlying debit or credit card and to store their Afterpay Card. Acting as a
+payment authentication service, the underlying funding instruments used to repay these loans
+continue to be NZ financial instruments. Afterpay NZ has conducted appropriate due diligence on
+3 The purpose of the GMCP is to define the categories or verticals of goods and services which may potentially
+introduce and expose Afterpay to certain risks and therefore allocates categories on whether certain types of
+Merchants should be prohibited, restricted or approved. The GMCP considers the following risk areas:
+Merchant/Financial, Consumer, Reputational, Compliance (inc. ML/TF) and Partners & Payments.
+NZ AML/CFT Programme | Afterpay NZ Limited 11
+
+Confidential
+the payment acquirers and intermediaries it uses and is satisfied that they have adequate processes
+in place to support Afterpay NZ in managing the risk of money laundering and terrorist financing
+(“ML/TF”) to its business.
+Afterpay allows a NZ Consumer to purchase goods and services from Merchants who are customers
+of Afterpay in other markets where Afterpay is located. For NZ Consumers, this is currently limited to
+Australia, Canada, the United Kingdom and the United States. Reciprocally, a NZ Merchant can sell
+goods and services to Consumers in those same markets. This payment mechanism is called Cross
+Border Trade.
+Afterpay NZ deals directly with Consumers or Merchants through electronic channels, i.e., mobile
+applications and online websites. As there is only a specific range of services provided, the purpose of
+the business relationship with Consumers or Merchants is usually clear. Afterpay does not conduct
+occasional transactions, wire transfers, cash transactions nor other transactions that would be
+subject to Prescribed Transaction Reporting obligations.
+1.2 Designated business group
+Afterpay NZ4, Afterpay Australia Pty Ltd (ACN 15 169 342 942)5 and Afterpay Pty Ltd (ACN 30 618 280
+649) are members of the Afterpay Touch Group Designated Business Group (Afterpay Touch Group
+DBG), which was initially established on 8 September 2017.
+Employees who are members of the Afterpay Touch Group DBG supporting the AML/CFT
+Programme and processes in NZ, are based in Australia.
+Additionally, there is currently an outsourcing arrangement with Probe Contact Solutions Australia
+Pty Ltd (Probe) that as an extension of Afterpay’s Customer Service function based in Australia,
+undertakes the ‘manual identification’ step of Afterpay’s customer identification program. Probe’s
+employees for the execution of this service are located in Manila, Philippines and are subject to
+employee vetting and training as per the standards set out in the outsourcing agreement. These
+standards for employee vetting and training are deemed appropriate for the roles that Probe’s
+4 Afterpay NZ is not a member of an Australian Designated Business Group.
+5 Afterpay Australia Pty Ltd is a Reporting Entity under the Australian AML/CTF Act and maintains an up to date
+AML/CTF Program.
+NZ AML/CFT Programme | Afterpay NZ Limited 12
+
+Confidential
+employees perform. For the purposes of this Programme, Probe employees are not considered as
+‘Employees’ of Afterpay NZ.
+1.3 Application of the AML/CFT Act to Afterpay NZ
+The AML/CFT Act imposes a number of obligations on ‘Reporting Entities’ to detect ML/TF, and to
+manage and mitigate the risk of ML/TF occurring. The AML/CFT Act applies to Afterpay NZ as a
+“Reporting Entity” because, in the ordinary course of business, Afterpay NZ carries on the following
+financial activities - listed in section 5 of the AML/CFT Act - in relation to its “Customers”:
+a. lending to or for a customer, including consumer credit (Consumers); and
+b. issuing or managing a means of payment (Merchants and Consumers).
+Afterpay NZ provides different payment solutions to its Merchants and its Consumers in the ordinary
+course of its business. The AML/CFT Act requires Afterpay NZ, as a Reporting Entity, to (amongst
+other things) conduct Customer Due Diligence (“CDD”) (obtain identity information and verify
+identity) before establishing a business relationship with a Customer6.
+A Business relationship is defined in the AML/CFT Act as a business, professional or commercial
+relationship between a Reporting Entity and a customer that has an element of duration or that is
+expected by the Reporting Entity, at the time when the contract was established, to have an element
+of duration.
+1.4 Purpose and coverage of this AML/CFT Programme
+This AML/CFT Programme applies to Afterpay NZ and sets out the internal policies, procedures and
+controls needed to detect ML/TF and to manage and mitigate the risk of it occurring.
+As a Reporting Entity, Afterpay NZ’s AML/CFT Programme must be based on its AML/CFT Risk
+Assessment (Risk Assessment), and must take into account the ML/TF risks that it can reasonably
+expect to face in its business and must otherwise meet the requirements of Section 57 of the
+AML/CFT Act. The policies, procedures and controls set out in its AML/CFT Programme must be
+adequate and effective to mitigate the risks of ML/TF when Afterpay NZ is conducting its business.
+6 Sections 16(3) and 24(3) of the AML/CFT Act allow verification of identity to be completed after the business
+relationship has been established if certain criteria are met.
+NZ AML/CFT Programme | Afterpay NZ Limited 13
+
+Confidential
+Afterpay NZ has the discretion to decide how to implement policies, procedures and controls that
+are suitable for its business. These must be sufficiently robust to address the risks outlined in its Risk
+Assessment.
+Afterpay NZ , in preparing its AML/CFT Programme, has considered the risks identified in its Risk
+Assessment in order to help identify appropriate procedures, policies and controls for the following
+matters:
+● Governance and oversight – Managing and mitigating the risks of ML/TF, appointment
+of an AML/CFT Compliance Officer and the ongoing maintenance, regular reviews and
+independent audits of this AML/CFT Programme and the Risk Assessment.
+● Reporting Obligations – Reporting of suspicious activities and annual AML/CFT reports.
+● On-going account monitoring – Monitoring accounts for ML/TF activities and to ensure
+that the business relationship and the transactions relating to that business relationship
+are consistent with Afterpay NZ’s knowledge about the Merchant or Consumer and the
+Merchant or Consumer’s business or risk profile (as applicable).
+● Employee training and due diligence – Vetting and training of Employee
+● Customer due diligence – Initial and ongoing CDD for Merchants and Consumers.
+● Record Keeping – Keeping transaction records, reports of suspicious activities, identify
+and verification records and other relevant records.
+Whilst the overall inherent sector risk for NBNDTLs (comprised of a diverse group of non-bank
+lenders) is medium7 and the BNPL industry’s inherent risk could, in Afterpay NZ’s opinion, be viewed
+as low, Afterpay NZ:
+a. considers that the built-in checks and balances within its business (which are described in
+this AML/CFT Programme and the accompanying Standard Operating Procedures) mean
+that Afterpay NZ presents a low ML/TF risk;
+b. has assessed residual risk ratings (the level of risk left over after inherent risk has been
+reduced by Afterpay NZ’s risk controls) for each of the risk categories in Afterpay NZ’s Risk
+Assessment. These risk ratings influence the level of ML/TF risk that relate to Afterpay NZ’s
+business which will help determine what level of CDD is appropriate, how regular
+ongoing CDD will occur and how closely transactions will be monitored; and
+c. has assessed its overall residual risk rating as low.
+7 Part 9, Financial Institutions Sector Risk Assessment, December 2019.
+NZ AML/CFT Programme | Afterpay NZ Limited 14
+
+Confidential
+This AML/CFT Programme applies to all senior managers and employees of Afterpay NZ and
+members of the Afterpay Touch Group DBG who provide services to Afterpay NZ to assist it to
+comply with its AML/CFT Act obligations. The term “employees” will be construed broadly to include
+all permanent and temporary employees, and contractors and agents engaged on a full-time basis
+(but will not include employees of Probe).
+This AML/CFT Programme uses the term “Customers” to refer to both Consumers and Merchants
+who establish a business relationship with Afterpay NZ.
+1.5 Afterpay NZ’s AML/CFT Supervisor
+The Department of Internal Affairs (DIA) is Afterpay NZ’s AML/CFT Supervisor.
+1.7 Roles & Appointment Dates
+Title Name Date of Appointment
+Afterpay NZ Company Director Jane Francis 16 April 2024
+Afterpay NZ Company Director Katrina Konstas 16 April 2024
+Afterpay NZ Company Director Lee Hatton 11 June 2025
+Global Chief Compliance Officer Tyler Hand 1 September 2024
+of Block
+AML/CFT Compliance Officer of Martina Kann 14 March 2023
+Afterpay NZ
+2. Governance and Oversight
+2.1 Governance and oversight
+This Programme must be approved by Afterpay NZ’s board of directors (Board). Refer to Section 1.7
+for details of appointed members of the Board.
+The mechanisms by which the AML/CFT Compliance Officer provides oversight to the Board are:
+NZ AML/CFT Programme | Afterpay NZ Limited 15
+
+Confidential
+A. annual report issued by the AML/CFT Compliance Officer to the Board / Senior
+Management for awareness and oversight of the ML/TF risk profile of the NZ business and
+changes over time. This report includes information about any instances of
+non-compliance with the AML/CFT Act, any feedback received from the DIA, and
+information and results of any review conducted. In addition the report may include key
+metrics such as the state of the control environment, incidents and breaches, resourcing,
+operational performance (for example, volumes of transactions, UAR volumes, SARs
+reported) and outlook for the upcoming year ahead;
+B. updates in relation to regulatory changes;
+C. matters arising from Section 3.3 (Ongoing risk assessment); and
+D. any other subject matter that the AML/CFT Compliance Officers considers appropriate to
+bring to the Board’s attention.
+Any material changes to this Programme and Risk Assessment must be approved by the AML/CFT
+Officer and the Board. The AML/CFT Compliance Officer may approve non-material changes,
+including changes to the Programme and Risk Assessment, underlying policies and procedures that
+are attached or referenced and will bring such changes to the attention of Senior
+Management/Board as soon as practical after approving those changes.
+In making decisions concerning the AML/CFT Programme, the Board will take into account the
+recommendations and advice of the AML/CFT Compliance Officer, together with any relevant
+regulatory guidance.
+2.2 Appointment and role of AML/CFT Compliance Officer
+2.2.1 Appointment
+Afterpay NZ has appointed an AML/CFT Compliance Officer at management level who is a full-time
+employee of Afterpay Australia Pty Ltd, and is the compliance officer for Afterpay Australia Pty Ltd
+under Australian laws. This appointment has been approved by the Board. As part of Block’s global
+organisational Compliance reporting line structure, the AML/CFT Compliance Officer role is part of
+the Block Compliance function which is led by the Global Chief Compliance Officer of Block. Details
+of key personnel are included at Section 1.7.
+Section 56(2) of the AML/CFT Act provides that a Reporting Entity must designate an employee as an
+AML/CFT compliance officer to administer and maintain its AML/CFT Programme. However, Part 7 of
+NZ AML/CFT Programme | Afterpay NZ Limited 16
+
+Confidential
+the Anti-Money Laundering and Countering Financing Terrorism (Class Exemptions) Amendment
+Notice 20238 (Class Exemption Notice) provides that Reporting Entities that are members of the
+same designated business group are exempted from sections 56(2) and (4) of the AML/CFT Act,
+subject to the following conditions:
+A. a Reporting Entity must appoint an employee of a member of the designated business
+group to act as their compliance officer under the AML/CFT Act (shared compliance
+officer);
+B. [not applicable to Afterpay NZ]
+C. the shared compliance officer must be domiciled in either New Zealand or Australia;
+D. the shared compliance officer must administer and maintain the AML/CFT Programmes
+of each member of the designated business group that is a Reporting Entity and has
+appointed a shared compliance officer; and
+E. the shared compliance officer must report to a senior manager of each member of the
+designated business group that has appointed the shared compliance officer.
+All of the above conditions of the Class Exemption Notice are met, permitting the appointment of
+Afterpay NZ’s AML/CFT Compliance Officer.
+2.2.2 Role
+The AML/CFT Compliance Officer will provide an AML/CFT compliance report to the Board for
+consideration at least every 12 months. This report will include information about any instances of
+non-compliance with the AML/CFT Act, any feedback received from the DIA, and information and
+results of any review conducted as well as key developments in relation to this Programme, state of
+the control environment, incidents and breaches, resourcing, operational performance and outlook
+for the upcoming year ahead.
+The AML/CFT Compliance Officer will regularly report to the Board on AML/CFT risk matters as they
+arise, and ensure that Afterpay NZ, Employees, agents and other members of the Afterpay Touch
+Group DBG providing services to Afterpay NZ comply with this AML/CFT Programme.
+The AML/CFT Compliance Officer is responsible for the maintenance and day-to-day oversight of this
+AML/CFT Programme and ensuring that Afterpay NZ meets its requirements under the AML/ CFT
+8 This Class Exemption expires on 31 December 2026.
+NZ AML/CFT Programme | Afterpay NZ Limited 17
+
+Confidential
+Act. The AML/CFT Compliance Officer has authority to discharge their responsibilities, including
+access to all relevant areas of Afterpay NZ’s operations and relevant Employees.
+The AML/CFT Compliance Officer will also ensure Afterpay NZ’s continuing compliance with its
+obligations under the AML/CFT Act by:
+A. contributing to the preparation, implementation and continued maintenance of AML
+policies, procedures and systems, including updates in response to AML/CFT supervisor
+feedback and the publication of new or updated AML/CFT guidance;
+B. maintaining account monitoring and suspicious activity reporting processes, including
+providing appropriate processes to allow Employee to report breaches of the AML/CFT
+Programme confidentially to the AML/CFT Compliance Officer;
+C. acting as the contact officer for Afterpay NZ’s AML/CFT matters with the DIA and the New
+Zealand Financial Intelligence Unit (“FIU”);
+D. providing leadership and contributing to the culture of AML/CFT; and
+E. subscribing to the guidance newsletter issued by the DIA website to stay informed of
+changes.
+2.3 Independent audits
+Block’s Internal Audit team, in consultation with the AML/CFT Compliance Officer, will determine the
+appropriate party/parties to undertake an independent audit of the AML/CFT Programme (and Risk
+Assessment) to ensure compliance with AML/CFT obligations at least once every three years, or at
+any other time at the request of the DIA (Section 59, AML/CFT Act).
+We consider ‘appropriately qualified’ to mean the person or external party must have relevant skills
+or experience to conduct the assurance engagement. This includes having knowledge of the
+AML/CFT Act, and its supporting regulations, as well as audit experience or sufficient knowledge of
+audit processes. To be considered independent, the auditor must not be involved in the
+development of the Risk Assessment, or the establishment, implementation or maintenance of this
+AML/CFT Programme.
+The AML/CFT Compliance Officer maintains a Financial Crime Governance Calendar which prompts
+the timely engagement with Block’s Internal Audit team.
+NZ AML/CFT Programme | Afterpay NZ Limited 18
+
+Confidential
+The results of the independent audit will be provided to the Board. Further details can be found in
+Block’s Compliance Audit, Exam & Independent Assessment Management Program.
+2.4 DIA feedback
+The AML/CFT Compliance Officer will ensure that any feedback received by Afterpay NZ from the
+DIA, or any guidelines on industry specific material published by the DIA (either itself or jointly with
+other AML/CFT supervisors), is considered and where appropriate incorporated into this AML/CFT
+Programme. The AML/CFT Compliance Officer is subscribed to the guidance newsletter issued by
+the DIA to stay informed of any updates, and hence address any actions in a timely manner. Where
+appropriate, material feedback or guidance may be shown to the Board for noting.
+3. Risk Assessment
+This AML/CFT Programme is informed by the outcome of the Afterpay New Zealand 2024 ML/TF and
+Sanctions Risk Assessment (Risk Assessment). It provides the results of the AML/CTF and Sanctions
+risk assessment conducted by Block, Inc., in conjunction with Afterpay NZ, covering the timeframe
+from January 2024 to December 2024.
+Afterpay NZ activities are assessed based on the following:
+1. Nature, size and complexity of the business;
+2. Customer Risk (including customer type, Politically Exposed Persons (“PEPs”), nature and
+purpose of business relationship, and customer source of funds or wealth);
+3. Product Risk (including the products and services provided to customers);
+4. Channel Risk (including methods by which services are delivered);
+5. Jurisdiction Risk;
+6. Employee Risk;
+7. Regulatory Risk;
+8. Third Party & Institutional Risk; and
+9. Sanctions Risk
+NZ AML/CFT Programme | Afterpay NZ Limited 19
+
+Confidential
+3.1 Summary of risk assessment result
+Afterpay has assessed that its overall residual risk across its NZ business is Medium. This is
+summarised in the table below. Further detailed information on the methodology and results, which
+are accompanied by a written report, can be found in the Risk Assessment report.
+ML/TF Assessment Results
+Inherent Risk Control Effectiveness / Residual Risk
+Degree of Mitigation
+Medium Partially Mitigated Medium
+Sanctions Assessment Results
+Inherent Risk Control Effectiveness / Residual Risk
+Degree of Mitigation
+Medium Partially Mitigated Medium
+3.2 Ongoing risk assessment
+Our AML/CFT Compliance Officer will:
+a. review the Risk Assessment on at least an annual basis as per Block’s Global AML &
+Sanctions Risk Assessment Framework to identify any new material ML/TF risks or change
+in Afterpay NZ’s ML/TF risk profile
+b. review any material changes in the ML/TF risk profile of our business following a Trigger
+Event (as defined below); and
+c. review our Risk Assessment and AML/CFT Programme and develop new processes and
+procedures that are deemed necessary as a result of any change in our ML/TF risk profile.
+Trigger Events may include but are not limited to:
+a. an independent audit of our AML/CFT Programme;
+b. the purchase or commencement of a new business;
+c. a change in our Customer base (both Merchants and Consumers) leading to a change in
+our ML/TF risks;
+d. a material change in our outsourcing arrangements;
+NZ AML/CFT Programme | Afterpay NZ Limited 20
+
+Confidential
+e. any changes in legislation, regulations or guidance that have a material effect on our
+AML/CFT Programme;
+f. any feedback provided by the DIA;
+g. notification of a material breach of the AML/CFT Act9;
+h. internal trend analysis;
+i. changes arising in the nature of our Customers (both Merchants and Consumers) or the
+control structure or beneficial ownership of our Merchants;
+j. changes arising in the nature of the business relationships we have with our Customers;
+and
+k. the proposed or planned introduction of any new or developing product/ service, delivery
+channels or technologies, or any change to existing product/services, business systems
+and processes.
+Before:introducing a new or developing product, technology, distribution channel, customer type
+or location with which Afterpay NZ deals; or making changes to an existing product, technology,
+distribution channel, customer type or location with which Afterpay NZ deals, the responsible
+product manager or project manager must notify the AML/CFT Compliance Officer who will:
+● follow the Compliance Product Risk Assessment Process;
+● complete the Block Product ML/TF Risk Assessment;
+● ensure any amendments to the AML/CFT Programme are made in a timely manner;
+● ensure the AML/CFT Compliance Officer has approved the proposed changes from a
+ML/TF compliance perspective; and
+● ensure that any material updates to the risk assessment have been approved by the
+relevant Board and/or Senior Management.
+4. Reporting Obligations
+Afterpay NZ does not process any cash or international fund transfer transactions or other
+transactions which may represent a prescribed transaction report. Details of relevant reporting
+requirements are summarised in the sections that follow.
+9 Refer to the Compliance Incident & Breach Management Policy & Procedure.
+NZ AML/CFT Programme | Afterpay NZ Limited 21
+
+Confidential
+4.1 Annual AML/CFT reports
+The AML/CFT Compliance Officer will consult with Management or Senior Management and other
+relevant parties to prepare each annual AML/CFT report by 31 August of each year, in respect of
+activities undertaken by Afterpay NZ in the previous period (from 1 July to 30 June). The annual
+report must be in the prescribed form, take into account results from independent audits and
+contain information prescribed by regulations.
+The AML/CFT Compliance Officer is authorised to lodge the annual AML/CFT report with the DIA in
+the prescribed form electronically using the online portal or such other method as may be accepted
+by the DIA from time to time.
+The AML/CFT Compliance Officer receives a notification from the DIA and maintains a Financial
+Crime Governance Calendar, which prompts the timely submission of the report. The AML/CFT
+Compliance Officer liaises with the appropriate stakeholders to gather necessary information and
+the draft submission is reviewed by Senior Management. Once the report is submitted successfully,
+Senior Management will be notified.
+4.2 Suspicious activity reporting
+Section 40 of the AML/CFT Act requires Afterpay NZ to report suspicious activities to the NZ FIU as
+soon as practicable, but no later than three working days after a suspicion is formed in accordance
+with section 41 of the AML/CFT Act. Suspicious activities will be reported even if the transaction or
+account does not proceed.
+For the purposes of the AML/CFT Act, a “suspicious activity” is an activity undertaken in
+circumstances:
+A. in which:
+i. a person conducts or seeks to conduct a transaction through Afterpay NZ;
+ii. Afterpay NZ provides or proposes to provide a service to a person; or
+iii. a person requests Afterpay NZ to provide a service or makes an inquiry to Afterpay
+NZ in relation to a service; and
+NZ AML/CFT Programme | Afterpay NZ Limited 22
+
+Confidential
+B. where Afterpay NZ has reasonable grounds to suspect that the transaction or proposed
+transaction, the service or proposed service, or the inquiry, as the case may be, is or may
+be relevant to:
+i. the investigation or prosecution of any person for a money laundering offence;
+ii. the enforcement of the Misuse of Drugs Act 1975;
+iii. the enforcement of the Terrorism Suppression Act 2002;
+iv. the enforcement of the Proceeds of the Crime Act 1991 or the Criminal Proceeds
+(Recovery Act) 2009;
+v. the enforcement of the NZ United Nations Act 1946;
+vi. the enforcement of the Russia Sanctions Act 2022; or
+vii. the investigation or prosecution of an offence (within the meaning of section
+243(1) of the Crimes Act 1961), being an offence (or any offence described as a
+crime) that is punishable under New Zealand law, including any act, wherever
+committed, that would be an offence in New Zealand if committed in New
+Zealand.
+As set out below in section 5.1.2, Employees are required to submit a UAR when they become aware
+of certain unusual or suspicious activities. The FCO team will analyse the UAR, and source any
+additional information required to determine whether to form a suspicion on reasonable grounds on
+behalf of Afterpay NZ. If a suspicion is formed, the FCO team will file a suspicious activity report with
+the New Zealand FIU.
+A suspicious activity report will be in the prescribed form and include the details outlined in
+Schedule 1 of the Anti-Money Laundering and Countering Financing of Terrorism (Requirements and
+Compliance) Regulations 2011. The report will contain a statement of the grounds on which Afterpay
+NZ holds the relevant suspicion, be signed by the FCO team, and forwarded in writing to the
+Commissioner by way of secure electronic transaction. If the urgency of the situation requires, a
+suspicious activity report may be made orally to a Police employee authorised by the Commissioner
+prior to the submission of the report.
+The suspicious activity reporting process is outlined in full in the NZ Suspicious Activity Transaction
+Reporting Instructions SOP. The AML/CFT Compliance Officer delegates responsibility to the FCO
+team.
+NZ AML/CFT Programme | Afterpay NZ Limited 23
+
+Confidential
+4.3 Tipping off offence
+Afterpay NZ understands that it is an offence under section 94 of the AML/CFT Act for Afterpay NZ to
+disclose (i.e. tip off) to a third party any information in respect to its making of a suspicious activity
+report in accordance with Section 46 obligations of the AML/CFT Act.
+Afterpay NZ ensures that its Employees are aware of these requirements, their consequences, and
+their obligations. Afterpay NZ’s AML awareness training programme (described in Section 6 below)
+includes training in respect of the prohibitions under the AML/CFT Act against “tipping off”.
+4.4 Ongoing due diligence in the event of a suspicious activity report
+Additional CDD or beneficial owner/control information (as applicable) may be collected from a
+Customer if a suspicious activity report is submitted in respect of that person.
+5. Ongoing account monitoring and CDD
+Afterpay NZ must carry out ongoing account monitoring and CDD in respect of its existing
+Customers in order to:
+a. ensure that the business relationship and the transactions relating to that business
+relationship are consistent with Afterpay NZ’s knowledge about the Customer and the
+Customer’s business and risk profile (as applicable); and
+b. identify any grounds for reporting a suspicious activity under paragraph (b) of the
+definition of that term in section 39A of the AML/CFT Act.
+When conducting ongoing CDD and undertaking account monitoring, Afterpay NZ will have regard
+to:
+a. the type of CDD conducted when the business relationship with Customer was
+established; and
+b. the level of risk involved.
+5.1 Ongoing account monitoring
+Afterpay NZ monitors both Consumers and Merchants utilising multiple tools and method, including
+automated and manual transaction monitoring and ongoing customer due diligence reviews. These
+NZ AML/CFT Programme | Afterpay NZ Limited 24
+
+Confidential
+processes aid the detection of unusual activity including ML/TF activity, fraud and any other
+transactions that may have no apparent economic or visible purpose on the Afterpay NZ platform.
+If ongoing account monitoring identifies unusual behaviour which the Merchant or Consumer
+cannot explain to Afterpay NZ’s satisfaction, they may be suspended or terminated from using
+Afterpay NZ’s services and product.
+Afterpay NZ can also immediately freeze a Consumer’s account or suspend a Merchant where
+transaction monitoring identifies unusual activity based on predetermined typologies. In addition,
+Afterpay NZ may determine grounds for suspicion that a SAR needs to be lodged. Depending on the
+risks identified, Afterpay NZ may choose to retain and monitor, or otherwise exit the customer by
+escalating to Senior Management (or delegate) for approval.
+5.1.1 Automated transaction monitoring program
+Afterpay NZ’s automated transaction monitoring program includes appropriate risk-based systems
+and controls to monitor for Merchant and Consumer transactions using a set of targeted rules
+designed to detect any complex, unusual or large transactions or suspicious patterns of transactions.
+The targeted rules run against customer transaction data and populate a set of queues with alerts to
+review.
+The automated transaction monitoring rules are documented in Afterpay NZ’s ‘Global Transaction
+Monitoring Rulebook’ and are as follows:
+● in store sale made outside of regular business hours;
+● high percentage of a Merchant’s customers are new customers;
+● high percentage of a Consumer’s purchases are made with same Merchant;
+● high percentage of a Merchant’s customers’ orders have been repaid early;
+● delivery address is in a high risk country;
+● large value of refunds;
+● unusual Merchant activity, including outlier transactions, relative to the merchant’s
+category average;
+● multiple purchases of the same item from the same Merchant;
+● collusion between Merchant and Consumer customers, and
+● high proportion of a consumer’s orders are repaid early.
+NZ AML/CFT Programme | Afterpay NZ Limited 25
+
+Confidential
+On a periodic basis, Afterpay NZ also manually reviews historic transactional data to identify trends in
+potential ML/TF risk to help improve its monitoring process (i.e. the parameters and thresholds of
+transaction monitoring rules). Afterpay NZ also assesses Consumer limits at every individual
+transaction a Consumer makes as a preventative control to minimise fraud risk and associated ML/TF
+risk by restricting the number of purchases or the value of purchases a Consumer can make.
+5.1.2 Manual transaction monitoring program
+Afterpay NZ’s manual transaction monitoring (“TM“) system is comprised of Employee (or members
+of the Afterpay Touch Group DBG providing services to Afterpay NZ) who are trained to detect
+unusual activity, being:
+a. complex or unusually large transactions;
+b. transactions that exceed Afterpay NZ’s internal thresholds and triggers;
+c. changes in account balances or levels of financial activity that are inconsistent with the
+size of past account balances or expected activity;
+d. irregular or unusual patterns of account activity that are characteristic of ML/TF or
+otherwise have no apparent economic or visible purpose;
+e. significant number or unusual pattern of Consumer complaints for a particular Merchant;
+f. unusual patterns of repayment behaviour and/or transactions that have no apparent
+economic or visible lawful purpose;
+g. where there is a concern that a Consumer or Merchant is not who they claim to be;
+h. where there is information that the provision of a service to a Consumer, or a payment in
+connection with a service may be relevant to one or more of those things listed in
+paragraph (b) of the definition of suspicious activity in section 39A of the AML/CFT Act;
+and
+i. where Afterpay NZ has received contact through law enforcement or other Government
+agencies about a particular Consumer or Merchant, transaction or service.
+The UARs are reviewed by analysts on a daily basis, during business hours and business days, using a
+set of factors to determine whether activity in an account is potentially suspicious and warrants the
+lodgement of a SAR. The factors are a set of common red flag indicators based on typologies and
+best practices.
+NZ AML/CFT Programme | Afterpay NZ Limited 26
+
+Confidential
+More information on how Afterpay NZ undertakes automated and manual transaction monitoring,
+and the outcomes when unusual behaviour is detected, is included in the NZ Consumer Due
+Diligence & Reporting SOP, Automated Transaction Monitoring Instruction (NZ), and Manual TM
+Instruction Monitoring / UARt Instruction.
+5.2 Ongoing CDD
+To comply with our ongoing CDD obligations, Afterpay NZ may also collect and take reasonable
+steps to verify CDD or additional CDD or beneficial owner/control information, or keep, update, and
+review existing Merchant or Consumer information in accordance with this AML/CFT Programme if:
+a. there is a significant change in the Merchant’s or Consumer’s transaction activity;
+b. there is a significant change to the way Afterpay NZ’s services are provided to the
+Merchant;
+c. Afterpay NZ decide to conduct a Merchant audit;
+d. as part of a regular Merchant review;
+e. Afterpay NZ detect an unusual transaction during monitoring or a suspicious activity
+report is filled;
+f. information about the Merchant or Consumer is inconsistent;
+g. Afterpay NZ determine we need to update our records; or
+h. a Merchant (in the case the Merchant is an individual), a beneficial owner of a Merchant or
+a Consumer is identified as a PEP after being on-boarded.
+In determining the extent to which Customer information will be updated or verified, Afterpay NZ
+will consider the level of risk involved, when CDD was last conducted, and the adequacy of the
+information held.
+6. Employee Training and Due Diligence Programme
+6.1 AML awareness training
+Afterpay NZ allocates training to Senior Management, AML/CFT Compliance Officer, employees
+based in NZ, and any members of the Afterpay Touch Group DBG who support AML services to
+Afterpay NZ. This training covers AML/CFT obligations and risks.
+NZ AML/CFT Programme | Afterpay NZ Limited 27
+
+Confidential
+Afterpay NZ will ensure Employees are aware of those processes and procedures that are relevant to
+the work they carry out. Training will be in the form of modules delivered in an online environment
+or face-to-face.
+This training program will be reviewed and updated periodically to ensure it remains current while
+reflecting any changes in the ML/TF Risks faced by Afterpay NZ. It will also be updated if there are
+any relevant updates to the business or legislative obligations.
+A record of training is maintained for all Employees. Further information relating to the training
+process and controls is documented in Block’s Compliance Training Program Standard.10
+6.1.1 Onboarding training
+Training relating to AML/CFT obligations and risks is mandatory for all employees at the onboarding
+stage. This training covers an introduction to ML/TF definitions, and explains certain AML/CFT
+obligations (e.g. CDD, record keeping, etc). The employee is also made aware of their role and
+responsibilities in the company’s commitment to identifying, mitigating, managing and reporting of
+ML/TF.
+This mandatory training is allocated to all new employees, however more specific training relevant to
+NZ ML/TF Risk will be provided to Employees who:
+● are in a position which has been assessed as having a greater exposure to ML/TF Risk. (e.g.
+higher risk roles) and the overall Business Unit Risk Assessment is deemed high;
+● review suspicious activity reports or are authorised to file suspicious activity reports with
+the New Zealand FIU; or
+● oversee or implement this AML/CFT Programme.
+Employees who are promoted or moved into positions which may have a greater exposure to ML/TF
+risk will also receive additional training where appropriate.
+6.1.2 Refresher training
+Afterpay NZ will conduct annual refresher AML/CFT training for all Employees.
+10 This can be found at go/training.
+NZ AML/CFT Programme | Afterpay NZ Limited 28
+
+Confidential
+6.2 Employee due diligence
+As part of Block’s global approach to hiring, all employment offers are contingent upon satisfactory
+employee due diligence checks, using a risk based approach.
+The ANZ Employee Due Diligence Standard outlines the risk based approach, systems and controls
+that determine how Afterpay NZ screens prospective and existing employees depending on the role
+they perform.
+6.3 Employee management
+Any employee who fails, without reasonable excuse, to comply with any system, control or procedure
+established under this AML/CFT Programme, will be required to undertake AML/CFT compliance
+training (or an AML/CFT compliance training refresher) and will be subject to disciplinary action in
+accordance with Block’s Employee Handbook. Block’s People Team will be involved in this process.
+Key controls to monitor employee compliance include mandatory AML/CFT compliance training,
+reporting of AML/CFT compliance training completion rates, a Monitoring and Testing Programme,
+and quality assurance of key AML/CFT operational processes.
+Afterpay NZ will maintain a register of all Employee breaches and will consult this when
+determining/recommending the disciplinary action that should be applied to an employee who fails,
+without reasonable excuse, to comply with any system, control or procedure established under this
+AML/CFT Programme.
+7. Customer Due Diligence
+7.1 Customer due diligence - Merchants
+Where a Merchant applies to use Afterpay NZ, they must have a NZ-based legal entity in order to
+proceed. All Merchants will be identified and verified in accordance with this Programme and the NZ
+Merchant Vetting Instruction. Enhanced CDD will be carried out on Merchants in accordance with
+Section 7.4 and the ANZ Merchants Enhanced Due Diligence Instruction SOP, as required. In specific
+circumstances, simplified CDD may be applied instead of standard or enhanced CDD as permitted
+NZ AML/CFT Programme | Afterpay NZ Limited 29
+
+Confidential
+under section 18 of the AML/CFT Act. More information on Afterpay’s simplified CDD procedures is
+set out in Schedule 3 of this Programme and the NZ Merchant Vetting Instruction.
+Discrepancies will be investigated and resolved to our satisfaction, which may include reporting to
+the AML/CFT Compliance Officer, before proceeding with processing of the Merchant’s application. If
+a reasonable explanation of the discrepancy cannot be satisfactorily provided, Afterpay NZmay
+refuse to proceed with on-boarding the Merchant and a suspicious activity report may be lodged, if it
+is considered necessary.
+CDD is evidenced and stored in Afterpay’s shared drives and systems (including approvals) and is
+subject to quality monitoring by independent and experienced Leads or the FCO team.
+7.1.2 Beneficial owners
+In addition to identifying and verifying Merchants, Afterpay NZ will identify and verify beneficial
+owners of the Merchants in accordance with this Programme, the NZ Merchant Vetting Instruction
+and the requirements of the AML/CFT Act and its supportive regulations.
+The AML/CFT Act and regulations define a ‘beneficial owner’ to mean individuals (i.e. natural persons)
+who (amongst other things):
+a. own more than 25% of a Merchant; or
+b. have effective control of a Merchant; or
+c. have ultimate ownership or control of the Merchant, whether directly or indirectly.
+Afterpay NZ’s business relationships with Merchants do not involve persons acting on behalf of the
+Merchant where they do not meet the definition of a beneficial owner of the Merchant. The
+exception to this is when Simplified Due Diligence applies.
+If a Merchant changes its ownership and its new beneficial owner(s) cannot be identified and verified
+(in accordance with the requirements of the AML/CFT Act and this Programme), the Merchant may
+be suspended or terminated from using Afterpay NZ’s services.
+NZ AML/CFT Programme | Afterpay NZ Limited 30
+
+Confidential
+7.1.3 Effective control
+Persons with effective control are individuals (i.e. natural persons) who have the power to direct the
+affairs of the company, trust, or partnership. An example of ‘effective control’ is an individual who
+exercises responsibility for senior management decisions, or similar, for the Merchant.
+The following are likely to be persons with effective control (not an exhaustive list):
+● CEO;
+● managing director;
+● some other directors;
+● appointor of a trust;
+● trustee, settlor and protector of a trust; or
+● general and limited partners of a partnership.
+7.1.4 Merchant identity verification - reliance on third parties
+For avoidance of doubt, Afterpay NZ may rely on third parties for the performance of merchant
+identity verification, but does not intend to rely on third parties in respect to consumer identity
+verification.
+In accordance with Section 33 of the AML/CFT Act, Afterpay NZ may rely on the identity verification
+(“IDV”) processes performed by a third party (who is not an agent) in certain instances. This is
+considered as another alternative to complete the Merchant IDV process and does not absolve
+Afterpay NZ from responsibility that the IDV of its Merchant is carried out in accordance with the
+AML/CFT Act.
+Afterpay NZ may select to rely on another party to perform IDV processes where the third party:
+1. Is a resident in a country with sufficient AML/CFT systems and measures in place and who
+is supervised or regulated for AML/CFT purposes;
+2. Has a business relationship with the Merchant concerned (i.e. the Merchant becomes a
+mutual Merchant of both Afterpay NZ and the third party); and
+3. Afterpay NZ has assessed the IDV policies and processes of the third party and deemed
+them to be at least the standard required by the AML/CFT Act and regulations.
+NZ AML/CFT Programme | Afterpay NZ Limited 31
+
+Confidential
+Afterpay NZ will enter into a contract and implement appropriate systems and processes with the
+third party to:
+1. Receive the relevant identity information from the third party before Afterpay NZ
+establishes a business relationship with the Merchant.
+2. Where necessary and upon request, provide the verification information (copy of the
+records used by the relied-on party to verify customer identity) as soon as practical to
+Afterpay NZ, but at least within 5 days of the Afterpay NZ request.
+3. Communicate and discuss on a periodic basis, the third party reliance relationship to
+provide comfort to Afterpay NZ that the systems and processes in place remain to at least
+the standard required by the AML/CFT Act and regulations.
+In each instance where Afterpay NZ decides to enter a contract with a third party to select this
+method of third party reliance, Afterpay NZ will complete a documented assessment of the third
+party against these requirements, including socialisation with relevant stakeholders. That
+assessment will be approved by the AML/CFT Compliance Officer.
+7.1.5 Merchant risk assessment
+Afterpay NZ will determine through its risk-based systems and controls the overall ML/TF risk of
+each Merchant.
+If the Merchant is rated as high risk Afterpay NZ will apply enhanced CDD. For Merchants rated as
+medium risk, standard CDD is applied. For Merchants rated low risk who also qualify for simplified
+CDD, simplified CDD will be performed, otherwise standard CDD will be applied.
+7.2 Customer due diligence - Consumers
+Afterpay NZ’s Consumers are individuals (i.e. natural persons). Afterpay NZ does not have business
+relationships with persons acting on behalf of its Consumers. Additionally, Afterpay NZ will
+determine through risk-based systems and controls the overall ML/TF risk of each Consumer.
+7.2.1 Collection of identity information
+Afterpay NZ collects the following identity information from Consumers:
+NZ AML/CFT Programme | Afterpay NZ Limited 32
+
+Confidential
+a. Full name, date of birth and New Zealand residential address;
+b. New Zealand mobile telephone number (which must be unique to the Consumer’s
+Afterpay NZ account, and is verified via a one-time SMS code as part of the on-boarding
+process);
+c. Email address (which must be unique to the Consumer’s Afterpay NZ account, and must
+be verified for the Consumer to set up a password);
+d. Current funding method consisting of a Visa or Mastercard debit or credit card which is
+issued by a New Zealand financial institution (which must be unique to the Consumer’s
+account, and which is verified by the card verification value/code (“CVV/CVC”) before any
+Afterpay NZ order is approved); and
+e. Details of the Consumer’s government identifier.
+Afterpay NZ does not collect information on the nature and purpose of the business relationship, as
+this is consistent in all instances. All consumers must onboard with Afterpay NZ to utilise the BNPL
+service provided.
+7.2.2 Adoption of Electronic Verification Code of Practice 2013
+Afterpay NZ will take reasonable steps to satisfy itself that the identity information11 obtained from its
+Consumers is correct, and to verify its Consumers’ identity, through the identity verification processes
+described below.
+For the avoidance of doubt, and on the basis of the adoption of Additional Measures outlined in
+section 7.2.3, Afterpay NZ has assessed and applied the standards of the New Zealand Identity
+Verification Code of Practice 2013 (“IVCOP”).
+7.2.3 Additional measures
+The Additional Measures have been adopted by Afterpay NZ in accordance with Section 18 of the
+IVCOP - Explanatory Note (updated in July 2021).
+11 Identity verification commenced from September 2020, as agreed with the DIA, on a go-forward basis only.
+NZ AML/CFT Programme | Afterpay NZ Limited 33
+
+Confidential
+Afterpay NZ relies on a range of Additional Measures to supplement, and mitigate any deficiencies in,
+the electronic Consumer identity verification processes. A summary of the Additional Measures that
+Afterpay NZ relies on are included below:
+● Mobile numbers are limited to NZ mobile numbers only.
+● Consumers must verify they are in control of the mobile phone at account setup – a
+one-time password (“OTP”) is sent to the mobile phone number provided, and must be
+authenticated to allow a Consumer’s initial profile to be created.
+● Email and mobile phone numbers attached to each account are used as part of fraud
+controls (e.g. OTP on new devices).
+● Duplicate check - Consumer information submitted to open an account must be unique
+to that account.
+● Funding instruments can be added only once a Consumer passes identity verification.
+Only NZ issued credit or debit cards can currently be loaded to an Afterpay NZ account.
+● Financial instruments (NZ issued credit or debit cards) are not allowed to be shared
+between accounts.
+● Low account limits – a maximum of $4,000 for all Consumers Further details are
+contained in the Consumer Risk Policy.
+● Risk rating of transactions - Afterpay NZ’s real-time transaction assessment and velocity
+rules looks at spend, card used and merchant, use machine learning and geo/IP data,
+device ID, card, user profile and transactional information.
+As part of our Risk Assessment, Afterpay NZ has considered the above Additional Measures as
+mitigating controls to the overall ML/TF risk it faces.
+7.2.4 Electronic Verification
+The electronic Consumer identity verification standard consists of a match criteria of two matches on
+Consumer name (from two reliable and independent electronic sources, with the primary electronic
+source required to be a government source), plus at least one date of birth match and one address
+match from one reliable and independent electronic source. The reliable and independent electronic
+sources used by Afterpay NZ are documented in Schedule 1.
+Consumers seeking to use Afterpay NZ’s services:
+NZ AML/CFT Programme | Afterpay NZ Limited 34
+
+Confidential
+● must enter their personal information into a profile page (full name, date of birth (“DOB”),
+NZ residential address and NZ passport or NZ drivers’ licence number); and
+● are required to consent to the electronic identity verification checks and agree to Afterpay
+NZ’s Privacy Policy.
+The automated electronic verification then occurs in two tiers:
+● Tier 1 - during the first tier the Customer’s name, date of birth and government identifier
+are being verified against government sources being the primary electronic reliable and
+independent source.
+● Tier 2 - If the Tier 1 verification is successful, only then verification progresses to the second
+tier, where Customer’s full name plus address or date of birth are verified against other
+reliable and independent electronic sources.
+For the delivery of electronic verification services to Consumers, Afterpay NZ has developed
+automated systems and leverages a third party, Frankie Financial Pty Ltd (“Frankie”), an Australian
+based data aggregator, to provide access to underlying data vendors and sources. Consumer details
+will be securely submitted by Afterpay NZ via Frankie to NZ identification vendors, and Consumers
+must in all cases have their identity successfully verified (in accordance with the match criteria
+above) prior to having their account activated and being able to use Afterpay NZ’s BNPL services.
+If the automated electronic identity verification is unsuccessful, the Consumer will be given the
+option to raise a ticket with Afterpay NZ’s Customer Service, who will attempt to manually
+troubleshoot/re-perform Tier 1 or Tier 2. Details of the manual identity verification are outlined in the
+NZ Manual ID SOP.
+If a Consumer fails the identity verification process, and if the case is deemed to involve unusual or
+potentially false or fraudulent identity details, this may result in referral for further investigation and
+potentially the submission of a SAR.
+In limited circumstances a Consumer may only have one name and only have identification
+documents that are reflected in that name. Due to system constraints in the passing of information
+to the underlying data sources, it may not be possible to verify the name of the Consumer. In these
+instances, the Consumer identity will be assessed as verified so long as documentation is subject to
+NZ AML/CFT Programme | Afterpay NZ Limited 35
+
+Confidential
+and passes a physical inspection and Afterpay NZ verifies name, DOB and address details from at
+least one source. A record will be made the basis for how verification standards were met.
+An assessment of whether the underlying electronic databases used by Afterpay NZ’s electronic
+identity verification service provider are considered reliable and independent, includes an
+assessment in accordance with Section 17 of the IVCOP and details of the assessment and results
+can be found in Afterpay NZ’s Assessment of Electronic Databases.
+7.2.5 Alternative Method of Verification
+In the event that a Consumer’s identity is unable to be verified electronically, document-based
+verification by a reliable and independent source will be used as an alternative method for
+verification. All documents must be certified as true and correct by an authorised trusted referee. A
+list of authorised trusted referees who can certify documents can be found in Schedule 2.
+In circumstances where the Consumer’s name and/or date of birth are unable to be verified against
+electronic databases, document based verification will be used as follows:
+● one Primary Photographic Identification Document; or
+● one Primary non-Photographic Identification Document AND one Secondary
+Identification Document.
+In circumstances where the Consumer’s address is unable to be verified against electronic
+databases, document based verification will be used as follows:
+● one Address Identification Document.
+List of certified documents assessed as reliable and independent source are as follows:
+NZ AML/CFT Programme | Afterpay NZ Limited 36
+
+Confidential
+Document Type Documentation
+Primary Photographic ● NZ certificate of identity issued under the Passports Act
+Identification Documents 1992 (i.e. NZ Passport)
+● NZ certificate of identity issued under the Immigration Act
+2009 (i.e. Refugee Travel Document)
+● NZ Driver Licence Card issued by the New Zealand
+Transport Agency
+● Foreign Passport containing name, date of birth and a
+photograph and signature of the person in whose name
+the document is issued, and is issued by a foreign
+government, the United Nations or an agency of the
+United Nations
+Primary non-Photographic ● NZ full birth certificate
+Identification Documents ● Certificate of NZ citizenship issued under the Citizenship
+Act 1977
+● Citizenship certificate issued by a foreign government
+● Birth certificate issued by a foreign government, the
+United Nations or an agency of the United Nations
+Secondary Identification ● 18+ Card also known as Kiwi Access Card
+Documents ● NZ government issued letter/notice*
+● Bank statement by a NZ registered bank*
+● Statement from the Inland Revenue Department*
+Address Identification ● NZ government agency issued letter/notice*
+Documents ● Bank statement by a NZ registered bank*
+● Statement from the Inland Revenue Department*
+● Utility bill from the Consumer’s power, gas, water, land-line
+phone or internet service provider*
+*The document is required to include the individual’s name and
+residential address, and to not be older than 12 months from the
+date of the Afterpay sign-up process.
+7.2.6 Exception handling process
+Afterpay NZ will maintain an exception handling process for any Customer who cannot meet the IDV
+requirements under the NZ AML/CFT Programme. All exceptions must be approved by the AML/CFT
+Compliance Officer and recorded in the Exceptions Register. The AML/CFT Compliance Officer can
+only approve exceptions where the IDV performed still meets the minimum requirements under the
+AML/CFT Act and the ML/TF risk has been assessed as low.
+NZ AML/CFT Programme | Afterpay NZ Limited 37
+
+Confidential
+7.3 Politically exposed person
+Afterpay NZ implements risk-based procedures to determine whether a Customer or Beneficial
+Owner of a Customer is a PEP during the application process or as soon as practicable after the
+account has been created. Afterpay NZ uses an external service provider to screen the CDD
+information collected from Customers against a PEP database. Alerts are reviewed manually and in
+the event that Afterpay NZ determines the Customer or Beneficial Owner of a Customer is a PEP,
+ECDD applies and the continuation of the relationship must be approved by senior management or
+delegate. Further information on Afterpay NZ’s procedures for PEP screening are set out in the
+Watchlist Screening SOP.
+Afterpay NZ is not prohibited from dealing with a PEP, however recognises that business
+relationships with family members or close associates of PEPs involve reputational risks similar to
+relationships with PEPs themselves.
+7.4 Enhanced customer due diligence
+7.4.1 Enhanced customer due diligence - Merchants
+Our ECDD programme will be applied in any circumstance (be it at the start or throughout the
+duration of the business relationship) where Afterpay NZ determines through its risk-based systems
+and controls, that a further review of a particular Merchant is warranted, which includes, but is not
+limited to the following “ECDD Trigger” situations:
+a. the Merchant falls under the prohibited category as per the GMCP;
+b. the Merchant is identified as being associated with adverse media linked to ML/TF risk;
+c. the Merchant is a Trust;
+d. the Merchant is a company with nominee directors/shareholders or shares in bearer form,
+or a limited partnership with nominee general partner12;
+e. Afterpay NZ establishes a business relationship with a Merchant that involves new or
+developing technologies, or new or developing products, that might favour anonymity;
+f. a suspicion arises in relation to the source of funds or wealth of the Merchant;
+12 A ‘nominee director and nominee shareholder’ are not recognised terms under the NZ Companies Act 1993
+and ‘nominee general partner’ is not a recognised term under the Limited Partnerships Act 2008. However,
+these terms are defined for the purposes of the AML/CFT Act - refer to Regulation 3 of the AML/CFT
+(Requirements and Compliance) Regulations 2011. Therefore, it may be relevant if Afterpay establishes a
+business relationship with a customer that is an overseas company or limited partnership, which Afterpay does
+not pursue in its ordinary course of business.
+NZ AML/CFT Programme | Afterpay NZ Limited 38
+
+Confidential
+g. it has been determined that the level of ML/TF risk associated with the provision of
+services is higher than standard transactions;
+h. Afterpay NZ determines the Merchant or any of its beneficial owners is a PEP;
+i. Afterpay NZ determines the Merchant or any of its beneficial owners are linked to a high
+risk or sanctioned country as per Block’s Global Jurisdictional Risk Rating Scorecard;
+j. a Merchant seeks to conduct a complex, unusually large transaction or unusual pattern of
+transactions using services which have no apparent or visible economic or lawful
+purpose;
+k. Afterpay NZ suspects on reasonable grounds that the Merchant or its beneficial owners
+are not the person they claim to be;
+l. there are discrepancies in the identification information provided by the Merchant or its
+beneficial owners;
+m. where there may be grounds to report a suspicious activity as per section 39A of the
+AML/CFT Act or
+n. it is deemed appropriate in any other situation by our AML/CFT Compliance Officer or
+delegate.
+Afterpay NZ’s Merchants do not involve non-resident customers from a country that has insufficient
+AML/CFT systems and/or measures, exclusively to those countries identified by the Financial Action
+Task Force as being high risk jurisdictions subject to a Call to Action.
+7.4.2 Enhanced customer due diligence - Consumers
+Our ECDD programme will be applied in any circumstance (be it at the start or throughout the
+duration of the business relationship) where Afterpay NZ determines through its risk-based systems
+and controls, that a further review of a particular Consumer is warranted, which includes, but is not
+limited to the following “ECDD Trigger” situations:
+a. a suspicion arises in relation to the source of funds or wealth of the Consumer;
+b. it has been determined that the level of ML/TF risk associated with the provision of
+services is higher than standard transactions;
+c. Afterpay NZ determines the Consumer is a PEP;
+d. Afterpay NZ determines the Consumer is linked to a high risk or sanctioned country as
+per Block’s Global Jurisdictional Risk Rating Scorecard;
+NZ AML/CFT Programme | Afterpay NZ Limited 39
+
+Confidential
+e. a Consumer seeks to conduct a complex, unusually large transaction or unusual pattern
+of transactions using services which have no apparent or visible economic or lawful
+purpose;
+f. Afterpay NZ suspects on reasonable grounds that the Consumer is not the person they
+claim to be;
+g. there are discrepancies in the identification information provided by the Consumer, or
+discrepancies between the Consumer identification information provided by the
+Consumer and the information revealed by Consumer IDV processes;
+h. where there may be grounds to report a suspicious activity as per section 39A of the
+AML/CFT Act (where the Consumer is the perpetrator and not the victim); or
+i. it is deemed appropriate in any other situation by the AML/CFT Compliance Officer or
+delegate.
+7.4.3 Process
+Using a risk based approach, the ECDD checks which will be conducted will depend on the level of
+risk involved (other than (d), (g) and (e) which must always be completed), and include the following:
+a. Clarify or update CDD information already held.
+b. Collect additional CDD information, and verify this information.
+c. Verify or re-verify CDD information.
+d. Collect details of the source of wealth or funds and take reasonable steps to verify this
+information.
+e. Clarify the nature of the Customers ongoing business relationship with Afterpay NZ.
+f. Examine the Customers transactions, with reference to the purpose, reason for, or nature
+of specific transactions, and the expected nature and level of transaction behaviour.
+g. Review and assign final risk rating.
+h. Seek senior management approval (or delegate) to continue a business relationship,
+decide whether a specific transaction should be processed, or whether services should
+continue to be provided to the Customer.
+i. Perform enhanced monitoring of the Customer.
+In addition to the ECDD steps listed above, a SAR may be lodged, if it is considered appropriate to do
+so.
+NZ AML/CFT Programme | Afterpay NZ Limited 40
+
+Confidential
+More information on the ECDD processes for Merchants is set out in the ANZ Merchants EDD
+Instruction SOP and for Consumers is set out in the Enhanced Consumer Due Diligence Instruction
+SOP.
+8. Record Keeping
+8.1 General record keeping obligations
+Afterpay NZ must keep records for a minimum of five years after a transaction has been completed
+or a business relationship has ended. This includes:
+A. records reasonably necessary to enable transactions to be readily reconstructed (section
+49, AML/CFT Act);
+B. reports of suspicious transactions; and
+C. records reasonably necessary to enable the nature of the evidence used for the purposes
+of identification and verification (CDD) to be readily identified at any time (section 50,
+AML/CFT Act);
+Transactional records must contain the following information:
+A. the nature of the transaction;
+B. the amount of the transaction and the currency in which it was denominated;
+C. the date on which the transaction was conducted;
+D. the parties to the transaction;
+E. if applicable, the facility through which the transaction was conducted, and any other
+facilities (whether or not provided by Afterpay NZ) directly involved in the transaction;
+F. the name of the officer or employee or agent who handled the transaction, if that person
+has face to face dealings in respect of the transaction with any of the parties to the
+transaction and has formed a suspicion about the transaction (applicable to Merchants
+only); and
+G. any other information prescribed by regulations.
+Identification records may comprise:
+a. a copy of the evidence so used; or
+NZ AML/CFT Programme | Afterpay NZ Limited 41
+
+Confidential
+b. if it is not practicable to retain that evidence, any information as is reasonably necessary to
+enable that evidence to be obtained.
+Afterpay NZ must retain these records for a period of at least five years after the relevant transaction
+has been completed or the business relationship has ended, or any period specified by the
+Supervisor or the Commissioner (Section 49, AML/CFT Act).
+8.2 Suspicious activity records
+If Afterpay NZ reports a suspicious activity, it must keep a copy of that report, for a period of at least 5
+years after the report is made, or any period specified by the Supervisor or the Commissioner
+(Section 49A, AML/CFT Act).
+Afterpay NZ may also keep any detailed records of its assessment of whether a suspicious activity
+report is required.
+8.3 Other records
+Afterpay NZ must also keep the following (Section 51, AML/CFT Act):
+A. records that are relevant to the establishment, or nature and purpose, of a business
+relationship;
+B. records relating to risk assessments, AML/CFT Programmes, and audits;
+C. any other records relating to and obtained during the course of a business relationship
+that are reasonably necessary to establish the nature and purpose of, and activities
+relating to, the business relationship (e.g. account files and correspondence emails);
+D. records of findings related to complex or unusually large transactions, unusual patterns of
+transactions that have no apparent economic or visible lawful purpose and any other
+activity that Afterpay NZ regards as being particularly likely by its nature to be related to
+ML or FT; and
+E. keeping written findings relating to business relationships and transactions from or in
+countries that do not have or have insufficient anti-money laundering or countering
+NZ AML/CFT Programme | Afterpay NZ Limited 42
+
+Confidential
+financing of terrorism systems in place (as outlined in section 7.7) and have additional
+measures for dealing with or restricting dealings with such countries13.
+Afterpay NZ must keep the records relating to risk assessments, AML/CFT Programmes, and audits
+for at least 5 years after the date on which they ceased to be used on a regular basis. Records
+relating to this AML/CFT Programme, risk assessment and audits must be made available to the DIA
+on request (Section 51, AML/CFT Act).
+8.4 Record keeping policy
+Afterpay NZ will keep all records in written form in the English language or in a form that is readily
+accessible and convertible to written form in the English language (Section 52, AML/CFT Act).
+Afterpay NZ will ensure that all hard copy documentation, including correspondence and
+transaction materials will be transferred to electronic form and stored in such a way that allows it or
+the DIA to completely reconstruct any transaction at a future date.
+All electronic copies will be readily accessible and capable of being retrieved and produced as a hard
+copy or supplied to the DIA upon request. Where records are held in electronic form, they will be
+kept on a server or stored on local computers. Afterpay NZ will make records relating to its Risk
+Assessments, AML/CFT Programmes and audits available to the Supervisor on request (Section 51,
+AML/CFT Act).
+8.5 Destruction of records
+Afterpay NZ will take reasonable steps to ensure that retained records are destroyed as soon as
+practicable after the expiry of the period for which the record is required to be retained (Section 54,
+AML/CFT Act).
+Records are not required to be destroyed in cases where there is a lawful reason for retaining the
+record.
+13 Afterpay NZ does not have dealings with any such countries, given its policies and criteria set for onboarding
+Customers.
+NZ AML/CFT Programme | Afterpay NZ Limited 43
+
+Confidential
+9. SCHEDULE 1
+Electronic Verification Standards
+This schedule of the Afterpay NZ AML/CFT Programme sets out underlying details of the methods
+and approach towards electronic verification of both Consumer customers and beneficial owners of
+Merchant customers (or individuals or sole traders who are Merchants).
+The Schedule should be read in conjunction with the relevant provisions of the AML/CFT Programme
+and related SOPs.
+9.1 Electronic verification services
+Afterpay NZ uses real-time electronic verification services as well as manual look-ups in order to
+complete electronic verifications of Consumer customers and beneficial owners of Merchant
+customers.
+For the delivery of real-time electronic verification services to Consumers, Afterpay NZ has developed
+automated systems and leverages Frankie to provide access to the underlying vendors and data
+sources. In addition to performing assessments on the underlying data sources and vendors, in
+making the decision to use Frankie, Afterpay NZ has performed appropriate due diligence on the
+systems, processes and methods that Frankie uses to support these services. Afterpay NZ has
+entered contractual arrangements with both Frankie, and the underlying data providers and has
+satisfied that these services are robust and effective in supporting its electronic verification
+requirements.For manual look-ups associated with Consumers, Afterpay NZ uses both the Frankie
+online portal and other online tools provided directly by the electronic verification vendors.
+For Individuals associated with Merchants, Afterpay NZ will use a lookup web portal provided directly
+by Equifax to perform those searches, or use the services of Trulioo. For beneficial owners of
+Merchant customers, Afterpay has developed automated systems and leverages Trulioo to provide
+access to the underlying data sources. In addition to performing assessments on the existing
+underlying data sources, in making the decision to use Trulioo, Afterpay NZ has performed
+appropriate due diligence on the systems, processes and methods that Trulioo uses to support these
+services. Afterpay NZ has entered contractual arrangements with both Trulioo, and the underlying
+NZ AML/CFT Programme | Afterpay NZ Limited 44
+
+Confidential
+data providers and has satisfied that these services are robust and effective in supporting its
+electronic verification requirements.
+Overall, the standard of electronic verification for both Customer types is the same. The details of this
+standard are set out in Section 7.2 of the AML/CFT Programme.
+9.2 Databases used
+The databases that Afterpay NZ has selected to use for its electronic verification process are
+summarised below:
+● Equifax- Identity Plus
+● Centrix – Smart ID
+● Motor vehicle registrations
+● NZ Drivers License Verification
+● NZ Passport Verification
+● Births Verification
+● AU Passport
+● AU Driver’s Licence
+Further details on the assessment of these databases can be found in Afterpay NZ’s Assessment of
+Electronic Databases.
+9.3 Discrepancy management
+Afterpay NZ has implemented an approach to deal with minor discrepancies in the electronic
+verification process. Minor discrepancies are defined as minor variances between the underlying
+Customer name record provided by the Customer at the time of opening the account and the
+match against the verified name, whereby it is reasonably accepted that the Customer is the same
+person. The most common example of minor discrepancy is where:
+a. the Customer has in error, incorrectly input a character of their name (i.e. as a result of a
+typographical error), or
+b. Use of a shortened or nickname of the Customer in the Customer input name and/or the
+verification record.
+NZ AML/CFT Programme | Afterpay NZ Limited 45
+
+Confidential
+9.3.1 Discrepancy management scoring
+Frankie aggregates sources of identity data from Centrix and Equifax, using Centrix first and only
+when it's not able to find a match, then it will cascade to Equifax.
+Centrix address matching feature uses the address to be verified, which is then compared to the
+address from the relevant data source. Both the request and data source held addresses are scored.
+Match threshold scores range from 0 to 30. The address score default is set at 24 meaning addresses
+achieving 24 or greater are deemed matched. Where an address match returns a score of 1-23 an
+additional match logic rule is applied. This assesses the first 8 characters of the input and returned
+address and performs a non-case sensitive comparison over AddressLine1 data( internal spaces are
+included in the count, while leading and trailing spaces are trimmed). If the addresses compare as
+per this logic, the address is considered a match.
+Equifax uses a scoring feature of matches against Customer name (first, middle and surname), DOB,
+address, the depth of the Equifax history of the Customer record and presence of aliases to support
+the handling of discrepancies within the matching component of the electronic verification process.
+Afterpay NZ has assessed this scoring feature and has elected to select scores of 85 and above as
+representing minor and tolerable discrepancies within the process. The table below provides a
+summary of the scores at the range of 85 and above (which are accepted) and examples of scores at
+84 which are not accepted.
+Score First Name Middle Surname DOB Address Depth of File Multiple
+Name Aliases
+99 Match Match Match Match Match Deep N
+Partial - suburb not
+97 Match Match Match Match provided Deep N
+Not Partial - suburb not
+96 Match Provided Match Match provided Deep N
+95 Match Match Match Match Match Deep Y
+93 Match Match Match Match Match Average N
+NZ AML/CFT Programme | Afterpay NZ Limited 46
+
+Confidential
+Partial - suburb not
+92 Match Match Match Match provided Deep Y
+Partial - suburb not
+91 Match Match Match Match provided Average N
+Not Partial - suburb not
+91 Near Match Provided Match Match provided Deep N
+Not Partial - suburb not
+90 Match Provided Match Match provided Deep Y
+Not Partial - suburb not
+89 Match Provided Match Match provided Average N
+Not Partial - suburb/city
+89 Match Provided Match Match no match Deep N
+88 Match Match Match Match Match Thin N
+88 Match Match Match Match Match Average Y
+Not Partial - suburb not
+86 No Match Provided Match Match provided Deep N
+Partial - suburb not
+85 Match Match Match Match provided Thin N
+Partial - suburb not
+85 Match Match Match Match provided Average Y
+Not Partial - suburb not
+85 Near Match Provided Match Match provided Deep Y
+Not Partial - suburb not
+84 Match Provided Match Match provided Thin N
+Not Partial - suburb not
+84 Match Provided Match Match provided Average Y
+Not Partial - suburb not
+84 Near Match Provided Match Match provided Average N
+As part of Afterpay NZ’s ongoing monitoring of its electronic verification systems and procedures, it
+will perform sampling of the scores produced in relation to Afterpay NZ’s electronic verification
+NZ AML/CFT Programme | Afterpay NZ Limited 47
+
+Confidential
+process to ensure that it remains comfortable that the outcomes continue to be within Afterpay NZ’s
+tolerances.
+NZ AML/CFT Programme | Afterpay NZ Limited 48
+
+Confidential
+10. SCHEDULE 2
+List of Authorised Trusted Referees
+In NZ, a trusted referee must be at least 16 years of age and sight the original documents. Approved
+trusted referees include the following:
+● Commonwealth representative (as defined in the Oaths and Declarations Act 1957)
+● Member of the police
+● Justice of the peace
+● Registered medical doctor
+● Kaumātua (as verified through a reputable source)
+● Registered teacher
+● Minister of religion
+● Lawyer (as defined in the Lawyers and Conveyancers Act 2006)
+● Notary public
+● New Zealand Honorary consul
+● Member of Parliament
+● Chartered accountant (within the meaning of section 19 of the New Zealand Institute of
+Chartered Accountants Act 1996)
+● A person who has the legal authority to take statutory declarations in New Zealand
+A trustee cannot be:
+● related to the customer( e.g. a trusted referee cannot be their parent, child, brother, sister,
+aunt, uncle or cousin);
+● the spouse or partner of the customer; or
+● a person who lives at the same address as the Customer.
+Certification
+Where a Consumer is required to provide a certified copy of a document, it must be certified as a
+true and correct copy of the original document by an authorised trusted referee with words to the
+following effect:
+NZ AML/CFT Programme | Afterpay NZ Limited 49
+
+Confidential
+I, [full name of trusted referee], as [select appropriate person from authorised list below], certify that
+this [name of document] is a true and correct copy of the original [signature and date].
+11. SCHEDULE 3
+Merchant CDD
+This Schedule of the AML/CFT Programme and the NZ Merchant Vetting Instruction sets out
+Standard and Simplified CDD requirements in relation to Merchants. Merchants are subject to
+applicable customer identification procedures under the AML/CFT Act. Further information on the
+procedure can be found in the NZ Merchant Vetting Instruction.
+11.1 Merchant CDD requirements based on entity type
+Merchant CDD consists of two elements:
+a. collection of identity information; and
+b. verification of identity information.
+Under Standard Merchant CDD identity information may include information relating to the
+Merchant entity, and any associated Beneficial Owners. For avoidance of doubt, Afterpay NZ is not
+required to identify or verify the identity of a Beneficial Owner of a Merchant eligible for simplified
+CDD as per section 18(4) of the AML/CFT Act.
+11.1.1 Sole Traders (Individuals)
+Collect and verify the information listed in the NZ Merchant Vetting Instruction for Individuals acting
+as Sole Traders.
+In this scenario, the Beneficial Owner is the Sole Trader (Individual).
+11.1.2 Companies
+Collect and verify the information listed in the NZ Merchant Vetting Instruction for Companies.
+Afterpay NZ will check if the company qualifies for simplified CDD and document reasoning.
+An example of the beneficial ownership of a Merchant where standard CDD applies is provided
+below.
+NZ AML/CFT Programme | Afterpay NZ Limited 50
+
+Confidential
+In this scenario, we must identify XYZ Pty Ltd, the Merchant. We must also identify the identity of B
+and C, who as 50% shareholders in ABC Pty Ltd, are beneficial owners of XYZ Pty Ltd. B and C have
+effective control over XYZ Pty Ltd.
+11.1.3 Trusts
+Collect and verify the information listed in the NZ Merchant Vetting Instruction for Trusts.
+An example of the beneficial ownership for a Merchant which is a Trust is provided below.
+In this scenario, Afterpay NZ will need to collect and verify the identity information of the persons
+included in the table below, and the source of funds or wealth of the trust would need to be
+identified.
+NZ AML/CFT Programme | Afterpay NZ Limited 51
+
+Confidential
+Person Capacity Requirement
+SFDT Pty Ltd Corporate Trustee Collect and verify identity
+information
+Smith Family Customer (Merchant) Collect and verify full name
+Discretionary address and NZBN of the trust
+Trust
+Paula, Hilary Beneficiaries Collect a description of the
+and Fred Smith class of beneficiaries.
+In this example, discretionary
+beneficiaries are not otherwise
+subject to CDD
+Paula and John Effective control as directors of the Collect and verify identity
+Smith Corporate Trustee information
+Paula Smith Likely has effective control over the Collect and verify identity
+trust because she is the appointor information
+Frank Trouble Possibly has effective control over the Collect and verify identity
+trust as the Settlor (it depends on the information
+powers he retains)
+All beneficial owners of a trust must be identified. Beneficial owners of a trust are an individual who
+satisfies the definition of beneficial owner (as described in Section 7.1.2). They may also be a trustee,
+or a beneficiary with vested interest of more than 25%. Individuals with effective control over a trust
+may include appointers (who have the power to amend the trust deed, or remove/appoint trustees),
+settlors, protectors or special trustees.
+The following table is a guide only. If a company or trust owns more than 25% of a Merchant, it will be
+necessary to review the ownership of that company or trust to determine the ultimate beneficial
+owner(s), if any, more than 25% of the Merchant.
+Type of trust Who is the ultimate beneficial owner?
+Bare Trust Beneficiaries of more than 25% of the trust assets
+Discretionary As the entitlement of beneficiaries is discretionary (i.e. yet to be
+Trust determined), there are no ‘beneficial owners’.
+NZ AML/CFT Programme | Afterpay NZ Limited 52
+
+Confidential
+Generally, any appointors will need to be identified because normally
+appointors have control. The trustee(s) (and if it is a company, its directors)
+should also be identified as the trustee usually has significant control.
+Fixed Trust Unitholders owning more than 25% of units.
+Generally, any appointors will need to be identified because normally
+appointors have control. The trustee(s) (and if it is a company, its directors)
+should also be identified as the trustee usually has significant control.
+A copy of the Trust Deed is obtained.
+11.1.4 Partnerships
+Collect and verify the information listed in the NZ Merchant Vetting Instruction for Partnerships14.
+In this scenario, the Beneficial Owners are the Partners. A copy of the Partnership Agreement is
+obtained.
+11.1.5 Association, Societies & Clubs
+Collect and verify the information listed in the NZ Vetting Instruction for Association, Societies &
+Clubs.
+In this scenario, the Beneficial Owner can be a President, Vice President, Secretary, Treasurer, Senior
+Management or individual who has effective control.
+11.1.6 Entity types eligible for Simplified Due Diligence
+Entity types listed under section 18(2) of the AML/CFT Act are eligible for Simplified Due Diligence.
+Examples of these include listed issuers, local authorities, state enterprises, crown entities,
+government bodies, etc.
+Collect and verify the information listed in the NZ Vetting Instruction for these entity types.
+In this scenario, Afterpay NZ is not required to identify or verify the identity of a Beneficial Owner.
+14 Afterpay NZ does not provide services to Limited Partnerships.
+NZ AML/CFT Programme | Afterpay NZ Limited 53
+
+Confidential
+11.1.7 Additional information requirements under Regulation 11 and 11A
+In alignment with Regulation 11 and 11A of the AML/CFT (Requirements and Compliance)
+Amendment Regulations 2023, for Companies, Trusts and Partnerships, Afterpay NZ must collect,
+and according to the level of risk involved, take reasonable steps to verify the information Afterpay
+NZ have obtained:
+● The Merchant’s legal form and proof of existence;
+● The Merchant’s ownership and control structure; and
+● Any powers that bind and regulate the Merchant.
+11.2 Procedure for the collection and verification of Merchant
+identification information
+1. Determine the Merchant entity type
+2. Determine if Standard CDD or Simplified CDD applies.
+3. Collect at minimum the information specified in the NZ Merchant Vetting Instruction.
+4. Verify the information specified in the NZ Merchant Vetting Instruction. This step is aided
+by automation provided by the vendor, Trulioo, who automate the matching of Merchant
+information to return results of these matches.
+5. If a Merchant is a trust, and is assessed as being higher risk or if any of the other matters
+listed in Section 7.4 apply, ECDD must be performed.
+6. If Merchant identification and verification requirements are not met, the Merchant will
+not be on-boarded.
+7. Retain a copy of a record of the procedure to identify and verify the identity of a Merchant
+and the information obtained in the course of identifying and verifying the identity of a
+Merchant.
+11.3 Reporting discrepancies
+From time to time, discrepancies will arise in the identification documentation obtained from
+Merchants and their beneficial owners. Discrepancies may be easily explainable – individuals change
+their names when they marry and sometimes use a pseudonym.
+Any unusual discrepancy must be reported to our AML/CFT Compliance Officer / delegate promptly.
+The AML/CFT Compliance Officer will review the discrepancy and decide whether further
+NZ AML/CFT Programme | Afterpay NZ Limited 54
+
+Confidential
+investigation is required or the discrepancy is easily explainable. The AML/CFT Compliance Officer
+may determine that a suspicious transaction report/suspicious activity report is required as a result of
+the discrepancy or enhanced CDD needs to be conducted on the Merchant.
+12. Document Management
+12.1 Document Owner
+This document is owned by the AML/CFT Compliance Officer or their designee. If you have any
+questions arising from this Programme, please contact the AML/CFT Compliance Officer.
+12.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in
+accordance with this Section 2 of this Program.
+13 Exceptions
+Exceptions to this Program, if any, can only be approved by the AML/CFT Compliance Officer.
+14.4 Revision & Approval History
+Version Approver Approval Reason for Issue Date
+Type
+01 Barry Odes Creation Commencement of New Zealand business 17 August 2017
+Board
+02 Cassandra Material … Decline of Ministerial exemption application 22 May 2020
+Williams, resulting in need to conduct electronic
+Chief Enterprise identity verification, enhanced customer due
+Risk Officer diligence and PEP checks on Consumers
+from 22 May 2020, updates to incorporate
+Board recommendations from 2019 audit, and
+general update of AML/CFT Programme
+following review.
+NZ AML/CFT Programme | Afterpay NZ Limited 55
+
+Confidential
+2.1 Cassandra Material … Change of AML/CFT Compliance Officer, 12 August
+Williams, Updates to reflect amended consumer limits; 2020
+Chief Enterprise change of planned implementation date of
+Risk Officer NZ Consumer IDV, other minor administrative
+updates.
+Board
+2.1 N/A Immater… New template only – no other changes. 10 September
+2020
+2.2 Cassandra Material … Updates following desktop review and 2 February
+Williams, feedback from the Department of Internal 2021
+Chief Enterprise Affairs.
+Risk Officer
+Change to approval conditions, allowing the
+Board AML/CFT Officer to approve minor changes,
+and specifically Schedule 1.
+Change to Consumer IDV standards under
+the IVCOP, including the inclusion of
+additional IDV data sources.
+New provision allowing for certain exceptions
+to be approved by the AML/CFT Officer to the
+Merchant and Consumer IDV processes.
+3.0 John Alfano Material … Changes arising from acquisition of Afterpay 28 June 2022
+AML/CFT by Block Inc.
+Compliance
+Officer Inclusion of recommendations from the 2022
+Independent Audit of the NZ AML
+Board Programme.
+Removal of local summary Risk Assessment,
+to highlight adoption of Global ML/TF and
+Sanctions Risk Assessment, removal of
+requirements for internal review, updates to
+approval process, and changes to employee
+training and due diligence process to align
+with Block.
+Key Terms table was added.
+4.0 AML/CFT Material … Appointment of AML/CFT Compliance Officer. 14 April 2023
+Compliance Addition of Trulioo as a third party service
+Officer provider facilitating Merchant Onboarding.
+Other minor administrative changes to bring
+Board the program up to date.
+NZ AML/CFT Programme | Afterpay NZ Limited 56
+
+Confidential
+5.0 AML/CFT Material … Inclusion of Anti-Money Laundering and 31 July 2023
+Compliance Countering Financing of Terrorism
+Officer Regulations Amendment Regulations 2023
+issued by the Ministry of Justice.
+Board Clarification of Consumer Manual IDV
+processes and Ongoing Account Monitoring
+and CDD.
+Other minor administrative changes to bring
+the program up to date.
+5.0 N/A Immater… New template only 31 August
+2023
+5.1 AML/CFT Immater… Adoption of the Afterpay New Zealand 2023 12 September
+Compliance ML/FT and Sanctions Risk Assessment. 2023
+Officer
+Minor administrative changes to bring the
+program up to date.
+Board 31 October
+2023
+5.2 AML/CFT Immater… Inclusion of the AML/CFT Amendment 29 May 2024
+Compliance Regulations 2023 updates effective 1 June
+Officer
+2024.
+Clarification and re-structure of Customer
+Due Diligence sections.
+Assessment and conclusion of electronic
+sources has been moved into a stand alone
+document.
+Update to include newly appointed Board
+Members.
+Minor administrative changes to bring the
+programme up to date.
+6.0 AML/CFT Material … Adoption of the Afterpay New Zealand 2024 4 October
+Compliance ML/TF and Sanctions Risk Assessment. 2024
+Officer
+Clarification of Consumer Due Diligence, and
+inclusion of alternative method of verification
+using document based verification.
+Board 23 October
+Minor administrative changes to bring the 2024
+programme up to date as part of annual
+review.
+6.1 AML/CFT Immater… Extension of expiry until 31 Dec 2026 for, Part June 2, 2025
+Compliance 7 of the Anti-Money Laundering and
+Officer Countering Financing Terrorism (Class
+Martina Ka… Exemptions) Amendment Notice 2023 (Class
+Exemption Notice).
+Clarification of customer risk rating, simplified
+due diligence for certain Merchant types and
+other minor administrative changes to bring
+NZ AML/CFT Programme | Afterpay NZ Limited 57
+
+Confidential
+the programme up to date and align with the
+new template.
+6.2 AML/CFT Material … Adoption of the Afterpay New Zealand 2025 17 January
+Compliance ML/TF and Sanctions Risk Assessment. 2026
+Officer
+Martina Ka…
+15 Document Details
+Business Afterpay
+Scope Regional (New Zealand)
+Compliance Domain Financial Crimes
+Document Owner AML/CFT Compliance Officer
+Last Approval Date January 17, 2026
+Effective Date January 17, 2026
+Approved By AML/CFT Compliance Officer
+Document Review Schedule Annually [December 2026]
+NZ AML/CFT Programme | Afterpay NZ Limited 58

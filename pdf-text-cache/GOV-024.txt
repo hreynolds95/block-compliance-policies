@@ -1,0 +1,773 @@
+Outsourcing Policy
+外部委託管理規程
+Square | Square K.K.
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Square
+Kabushiki Kaisha and on a need-to-know basis.
+社外秘
+この文書は機密情報であり、Square株式会社の社員及びその他必要な権限を持つ者以外の閲覧は禁じる。
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Table of Contents
+Roles and Responsibilities 6
+1. Introduction 9
+2. Purpose 10
+3. Scope 10
+4. Policy Requirements 11
+4.1 Outsourcing Overview 11
+4.2 Condition of Outsourcing 12
+4.3 Planning Outsourcing 13
+4.4 Local Regulatory Requirements under the SEBO Act 14
+4.5 Due Diligence 17
+4.6 Contract Negotiations 20
+4.7 Monitoring 22
+4.7.1 Ongoing Monitoring 22
+4.7.2 Timing of Ongoing Monitoring 23
+4.8 Termination 23
+4.9 Conflicts of Interest 25
+5. Document Management 26
+5.1 Document Owner 26
+5.2 Review and Approval 26
+6. Exceptions 26
+7. Record Retention 27
+8. Related Documentation 27
+9. Revision and Approval History 27
+10. Document Details 28
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Business Continuity Business continuity risk is the risk that a third party, providing services or
+Risk
+products to Block, experiences a disruptive incident, such as a cyber-attack,
+natural disaster, or technology failure, that deteriorates the quality or availability
+of the outsourced service or product beyond acceptable levels, as defined by
+predetermined impact tolerances, including Recovery Time Objectives (“RTOsˮ)
+and Recovery Point Objectives (“RPOsˮ), or leads to a complete failure of the
+service.
+Compliance Risk The risk to current or projected financial condition and resilience arising from
+violations of laws, rules, or regulations, or from non-conformance with
+prescribed practices, policies and procedures.
+Contract Any agreement that binds or obligates Block legally or financially. Contracts
+may include but are not limited to Master Services Agreements, Statements of
+Work, Order Forms, Online Terms of Use, Subscription Agreements, Change
+orders, etc.
+Critical Vendor A Critical Vendor for Block is a vendor who provides products or services that
+are essential to day-to-day operations and whose failure to provide those
+products or services, either willfully or inadvertently, will cause material
+impacts to Block or its customers. Material impacts to Block or its customers
+could be, but are not limited to, the following:
+● Adversely impacting a material number of Blockʼs customers, including,
+but not limited to, the unauthorized disclosure of customersʼ non-public
+information;
+● Affecting Blockyʼs financial condition or ability to provide its products
+and services; or
+● Subjecting Block to serious reputational harm or regulatory risk.
+Information The potential danger or harm arising from unauthorized access, use,
+Security Risk
+disclosure, disruption, modification, or destruction of data/information.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Privacy Risk The potential risk that the processing of personal data, including collection,
+disclosure, use, storage, access, and other processing activities, on its own or
+when linked to other information about an individual, fails to adhere to
+applicable laws, rules, regulations, internal policies, or contractual obligations.
+Third Party An entity which has a business arrangement with Square K.K. whether by
+contract or otherwise. The term of business arrangement is meant to be
+interpreted broadly. A third party relationship may exist despite a lack of a
+contract of compensation.
+Third Party Risk The process identifying, assessing, and controlling the risks that are presented
+Management through the lifecycle of Blockʼs relationship with Third Parties. This begins
+(“TPRMˮ) before the Third Party onboarded, when Block is considering whether to
+engage the relationship with the Third Party, constituting through procurementʼs
+onboarding, involving many internal stakeholders who contribute to the
+process.
+Vendor Engagement An intake ticket submitted by the Directly Responsible Individual (“DRIˮ) to
+Request (“VERˮ) engage a Third Party to procure a product and/or service. As part of the
+Ticket Form request a risk review must be conducted to ensure the controls maintained by
+the vendor are commensurate with the risk level of the engagement as well as
+the controls and standards implemented at Block.
+Employees Employees refer to all executives, employees and fixed-term and contingent
+workers who support the operations of Square K.K. and include interns,
+temporary workers, and contractors.
+Specified Entrusted Specified Entrusted Business Operators refers to third parties falling under the
+Business Operators following categories under the ‘Act on Ensuring Proper Transactions Involving
+(“SEBOˮ) Specified Entrusted Business Operatorsʼ from November 2024
+(i) An individual that does not employ any employees (a freelancer); and
+(ii) A corporation that does not employ any employees and single
+representative of the corporation (solo proprietors)
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Roles and Responsibilities
+Role Responsibility
+Board of Directors The Board of Directors of Square K.K. (“Boardˮ) has ultimate responsibility
+(“Boardˮ) for all aspects of outsourcing. The Board must ensure they have adequate
+oversight and awareness of both current and proposed Outsourcing
+Arrangements, and the appropriate skills and knowledge to provide effective
+oversight. The Board must ensure that any Outsourcing Arrangement is in
+keeping with the overall business model and strategic direction of the
+Company, and that the framework is operating in line with regulatory
+requirements.
+Tier 1 Third Party A Tier 1 Third Party will exhibit at least two of the following: (i) the third party
+will interact directly with the group Companyʼs customers or prospective
+customers or be permitted access to Block highly confidential and/or
+confidential data; (ii) if the third party fails to perform its contracted services,
+function and/or product it would have a material impact or disrupt Blockʼs
+financials, critical services, and/or impact Blockʼs customers and/or
+employees; or (iii) the third partyʼs failure in the performance of the
+outsourced service, function and/or product would materially impair Blockʼs
+ability to meet regulatory obligations.
+Tier 2 Third Party A Tier 2 Third Party will exhibit at least one of the following: (i) the third party
+will be permitted access to Block highly confidential and/or confidential data;
+(ii) if the third party fails to perform its contracted services, function and/or
+product it would have a material impact or disrupt Blockʼs financials, critical
+services, and/or impact Blockʼs customers and/or employees.
+Tier 3 Third Party A Tier 3 Third Party will exhibit at least one of the following: (i) the third party
+will only be permitted access to Block confidential data; (ii) if the third party
+fails to perform its contracted services, function, and/or product it would
+have little impact on Blockʼs financials, critical services, and/or impact
+Blockʼs customers and/or employees.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Tier 4 Third Party A Tier 4 Third Party will exhibit at least one of the following: (i) the third party
+will not have access to Block data; (ii) if the third party fails to perform its
+contracted services, function, and/or product it would have inconsequential
+or no impact on Blockʼs financials, critical services, and/or impact Blockʼs
+customers and/or employees.
+Employees The employees have the following responsibilities:
+● Submit Vendor Engagement Requests (“VERˮ) in accordance with
+Square K.K. policies and procedures when procuring products and
+services from third parties;
+● Understand and execute their respective job duties as they relate to
+this section; and
+● Notify the TPRM team if/when concerns arise regarding reputational,
+business continuity, security, or compliance risks presented by or
+through a third-party relationship.
+Business Resilience The Business Resilience Team is responsible for evaluating business
+Team
+continuity and disaster recovery risks in connection with the initial due
+diligence and ongoing monitoring processes.
+Compliance Team The Block Compliance Team is responsible for evaluating compliance and
+regulatory risks in connection with the initial due diligence and ongoing
+monitoring processes and providing consultative support to the TPRM
+Program Manager on implementing the Program.
+Directly A single person, independent of function, who directly obtains the product
+Responsible and services from a third party, and manages an active engagement and
+Individual (“DRIˮ) related contract.
+Legal Legal is responsible for providing counsel to the TPRM Program Manager
+regarding the implementation of the Program.
+Risk Subject Matter The Risk SMEs who participate in the program come from various Block
+Experts (“Risk
+departments and provide expertise in areas such as business continuity,
+SMEsˮ)
+compliance, information security, and privacy, as relevant to a particular
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+relationship. Risk SMEs: (i) provide subject matter expertise on their
+respective risk areas; (ii) determine the appropriate level of due diligence to
+be performed based on the initial risk assessment; and (iii) review due
+diligence documentation and identify key subject matter related risks.
+Third Party A Block TPRO serves as Blockʼs primary contact and is ultimately responsible
+Relationship Owner
+for the Third Party and associated risks throughout the Third Party
+(“TPROˮ)
+Relationship for tier 1 Third Parties. Other Directly Responsible Individuals
+(“DRI(s)ˮ) may also enter into relationships with Third Parties, but only one
+designee will be the Block TPRO for the purposes of this TPRM Policy. The
+TPRO may delegate tasks to the DRI, but cannot delegate ultimate
+responsibility. Block TPROs will: (i) support all the components of the
+Program; (ii) meet with the third party to review performance, scope of work,
+SLAs (if applicable and outlined in the respective governing document) and
+compliance with contractual obligations; (iii) oversee the overall third party
+relationship; and (iv) serve as an escalation point for any Third Party related
+issues.
+TPRM Program The TPRM Program Manager is (i) responsible for implementing the Program
+Manager
+and its policy group-wide, including business units and ecosystems; (ii)
+facilitates the review, assessment, and assignment of risk based tiers to
+Third Parties; (iii) develops and implements risk mitigation plans and
+corrective actions as appropriate; (iv) provides reports to Block management
+on the various components of the program; (v) provides tools for conducting
+risk assessments and due diligence; (vi) provides training and outreach on
+the TPRM Program; (vii) provides tools for monitoring and oversight activities
+of third party relationships; and (viii) enforces the TPRM policy and
+framework.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+1. Introduction
+Square Kabushiki Kaisha (“Square K.K.ˮ or the “Companyˮ) is a legal entity incorporated in Japan that
+operates as a payment service provider (“PSPˮ). At present, it is not regulated or supervised by any
+Japanese authority. Its ultimate parent company is Block, Inc. (“Blockˮ), a Delaware corporation
+headquartered in Oakland, California, U.S.A., which serves as a merchant-services aggregator and
+mobile-payments provider. Block is registered as a Money Services Business with the U.S. Financial
+Crimes Enforcement Network (“FinCENˮ).
+External Outsourcing involves the use of an external third party service provider in any number of
+operational functions to perform ongoing activities (including agreements for a limited period), that would
+normally be undertaken by Square K.K. personnel. The risks which external outsourcing arrangements will
+generate for Square K.K. must be identified and relevant controls applied prior to Square K.K. entering into
+the arrangement, and these risks must be effectively managed throughout the outsourcing lifecycle.
+As a member of Block Group, Square K.K. is subject to Blockʼs Third Party Risk Management Policy, which
+ensures that all Third party vendors are reviewed and assessed in accordance with such policy at the
+Block level.
+The purpose of this Outsourcing Policy (“Policyˮ) is to document the management responsibilities that
+Square K.K. Employees and the relevant Block teams must assume, in order to comply with the laws,
+regulatory requirements, and applicable supervisory guidance in Japan and to ensure proper oversight of
+the Companyʼs external outsourcing arrangements. This Policy should be read in conjunction with the
+Block Third Party Risk Management Policy.
+1. はじめに
+Square株式会社（以下、「Square K.K.」または「当社」という。）は日本において決済サービス・プロバイダー（PSP）として事
+業を行う法人です。当社は現時点ではいかなる当局による規制・監督も受けていませんが、当社の親会社はBlock, Inc.（以
+下「Block」という。）であり、米国デラウェア州法人で、カリフォルニア州オークランドを拠点とするマーチャントサービス・アグ
+リゲーター兼モバイル決済会社です。 Blockは米国財務省金融犯罪取締ネットワーク（FinCEN）にMoney Services
+Business（金融サービス事業者）として登録されています。
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+外部委託（アウトソーシングともいう。）とは、通常Square K.K.の社員が行う業務（期間限定の契約を含む）を遂行するため
+に、外部の第三者サービスプロバイダーを活用することを指します。
+外部委託契約によりSquare K.K.に生じるリスクは、Square K.K.が契約を締結する前に特定し、適切な管理策を講じる必
+要があり、かつアウトソーシングのライフサイクル全体を通じて効果的に管理しなければなりません。
+Blockの子会社として、Square K.K.はBlockの「サードパーティリスクマネジメントポリシー」の適用を受けます。 このポリ
+シーにより、すべてのサードパーティベンダーはBlockレベルで検討および評価されます。
+本アウトソーシングポリシー（以下「当ポリシー」という。）の目的は、当社の外部委託契約について、日本において適用される
+法令・規制要件および関連する監督当局の指針を満たし適切な管理が行われるよう、当社の社員及びBlockの関連する
+チームにおいて行うべき管理責任を文書化することです。本規程はBlockの「サードパーティリスクマネジメントポリシー」と併
+せて参照される必要があります。
+2. Purpose
+The purpose of this Policy is to facilitate the accurate execution and management of outsourced tasks by
+preventing and avoiding the risks associated with the outsourcing of tasks performed by Square K.K. to
+the Third Party, and ensuring the proper operation of outsourced tasks at the outsourcing destination, as
+well as compliance with laws and regulations. In Square K.K. 's external outsourcing arrangements, this
+Policy is intended to ensure that sound risk-management practices and local-law compliance are
+maintained at every stage of the third-party relationship lifecycle—namely, planning, due diligence, vendor
+selection, contract negotiation, ongoing monitoring, and termination.
+2. 目的
+当ポリシーは、当社が第三者に委託する業務に関連するリスクを防止および回避し、委託先での業務の適切な運営を確保
+するとともに、関連する法令を遵守し、業務の正確な遂行と管理を促進することを目的とします。当社は、計画、デューデリ
+ジェンス、第三者の選定、契約交渉、継続的な監視、終了を含む第三者との関係のライフサイクルのすべての段階におい
+て、健全なリスク管理の実践を実施および維持するために当ポリシーを策定しました。
+3. Scope
+This Policy is established by Square K.K. and is applicable to all Outsourcing Arrangements and all
+Employees.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+3. 対象
+当ポリシーはすべての当社の外部委託契約および当社従業員に適用されます。
+4. Policy Requirements
+4.1 Outsourcing Overview
+Block defines a vendor relationship as ‘an arrangement between Square K.K. and any other individual or
+entity that provides products or services to Square K.K. via an ongoing relationshipʼ, following the
+definition of the Block Third Party Risk Management Policy.
+Following the definition, Square K.K. defines outsourcing as ‘an arrangement between Square K.K. and a
+vendor (meaning an external Third party) by which the vendor performs a process, a service or an activity,
+or parts thereof, that would otherwise be undertaken by Square K.K., even if Square K.K. has not
+performed that process, service or activity in the pastʼ.
+Block will maintain sound risk management practices and controls related to the following stages of the
+Third party relationship life cycle:
+1. Planning;
+2. Due diligence and Third party selection;
+3. Contract negotiation;
+4. Ongoing monitoring; and
+5. Termination.
+Sub-outsourcing occurs when a Third Party engaged by Square K.K. further subcontracts the relevant
+process, service, activity, or any part thereof, to another Third Party. A Third Party engaged by Square
+K.K. must conduct and review appropriate due diligence on its sub-Third Parties (at a minimum aligned
+with the Block Third Party Risk Management Policy) to ensure that services are delivered in accordance
+with the outsourcing agreement between Square K.K. and that Third Party.
+4.1 外部委託の概要
+Blockは「サードパーティリスクマネジメントポリシー」の定義を踏まえ、ベンダー関係を「当社と製品やサービスを継続的に提
+供する他の個人または法人との間の取り決め」と定義しています。
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+そのため、Square K.K.は「アウトソーシング」を「Square K.K.とベンダー（外部の第三者を指す）との間の取り決めであっ
+て、当該ベンダーが本来Square K.K.自身が行うプロセス、サービス、業務またはその一部を実施するもの（過去にSquare
+K.K.が当該プロセス等を実施した経験の有無は問わない）」と定義します。
+Blockは、第三者関係のライフサイクルにおける以下の各段階で健全なリスク管理慣行および統制を維持します。
+1. 計画（Planning）
+2. デューデリジェンスおよび第三者選定（Due diligence and Third party selection）
+3. 契約交渉（Contract negotiation）
+4. 継続的モニタリング（Ongoing monitoring）
+5. 終了（Termination）
+サブアウトソーシングとは、Square K.K. が委託した第三者が、当該プロセス、サービス、業務またはその一部をさらに他の
+第三者に再委託した場合をいいます。当社から委託を受ける第三者は、自身のサブサードパーティ―（再委託先）に対して
+適切なデューデリジェンス（最低限、Blockサードパーティリスク管理ポリシーと整合したもの）を実施・レビューし、Square
+K.K.と当該第三者との間のアウトソーシング契約に沿ってサービスが提供されることを確保しなければなりません。
+4.2 Condition of Outsourcing
+Outsourcing at Square K.K. shall be conducted under the following conditions. Outsourcing shall not alter
+the rights and obligations between the Company and users of our services due to outsourcing.
+1. When there are inadequacies or shortages in our equipment, capabilities, technology,
+personnel, etc.
+2. When outsourcing is advantageous for cost reduction
+3. When outsourcing is advantageous considering the Company's work capacity
+4. When partial outsourcing is conducted for strategic elements such as business partnerships
+5. Other cases where Square K.K. deems necessary
+4.2 外部委託の目的
+Square K.K.では外部委託は、原則として、次に掲げる状況下において行うものとします。なお、外部委託を行うことにより当
+社と当社のサービスの利用者間の権利義務関係を変更してはなりません。
+（１）当社の設備、能力、技術、人員等の不備あるいは不足による場合
+（２）コストダウンを図るため外部委託の利用が有利な場合
+（３）当社の作業余力を考慮した結果、外部委託の利用が有利な場合
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+（４）業務提携等戦略的要素から業務の一部外部委託を行う場合
+（５）その他当社が必要と認めた場合
+4.3 Planning Outsourcing
+Planning begins when the Square K.K. 's DRI defines business requirements or scope of work that involves
+a Third Party. Block uses a risk-based approach to select and manage Third Parties. During the planning
+phase, Square K.K. 's DRI or their designee start the process by initiating a VER form, a brief survey that
+describes the overall scope of the engagement and helps determine the risk to which Block is exposed by
+a particular product or service that is procured. Block recognizes that certain Third Parties, such as those
+supporting critical activities, typically warrant a greater degree of planning and consideration. Block also
+recognizes that it must be able to determine its ability to provide adequate oversight and management of
+any proposed Third party relationship on an ongoing basis. To ensure this, and as part of the completion
+of the planning stage, Block will ensure reasonable and risk-based processes for:
+● Understanding the strategic purpose of the business arrangement;
+● Identifying and assessing the benefits and risks associated with the business arrangement;
+● Considering the nature of the business arrangement, such as volume, use of and reliance on
+Third parties (i.e., Blockʼs fourth party risk), required technology, and interaction with
+customers;
+● Evaluating costs, both estimated contractual costs and indirect costs impacting Blockʼs
+staffing, systems, processes, and technology by entering into the Third party relationship;
+● Assessing the Third partyʼs impact on customers;
+● Understanding information security implications, including access to sensitive information;
+● Understanding potential physical security implications, such as access to Blockʼs facilities;
+● Determining how Block will select, assess, and oversee the Third party, including monitoring
+the Third partyʼs compliance with applicable laws, regulations, and contractual provisions, and
+requiring remediation for any compliance issues that may arise;
+● Assigning a formal risk rating to the Third party (i.e., Tier 1, Tier 2, Tier 3, or Tier 4
+4.3 アウトソーシングの計画
+外部委託の計画段階では、Square K.K.の DRI が外部委託を利用するビジネス要件や業務範囲を定義した時点で始まり
+ます。Block はリスクベースのアプローチにより外部委託先を選定・管理します。計画段階においては、Square K.K. の
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+DRI またはその委任者が VER フォーム（取引の概要を示し、調達する製品・サービスが Block に及ぼすリスクを評価する
+ための簡易調査票）を起案してプロセスを開始します。Block は、重要な業務を支援する外部委託にはより手厚い検討が必
+要であること、また提案された第三者関係について継続的に適切な監督・管理ができることを確認しなければならないことを
+認識しています。そのため、計画段階の完了時点で、以下の合理的かつリスクベースのプロセスを確立・維持します。
+● 取引の戦略的目的の把握
+● 取引に伴う便益およびリスクの特定と評価
+● 取引の性質（取引量、第三者依存度＝第四者リスク、必要技術、顧客との関わりなど）の検討
+● 契約上の想定コストおよび第三者関係の締結が Block の人員、システム、プロセス、技術に与える間接的コス
+トの評価
+● 第三者が顧客に与える影響の評価
+● 機密情報へのアクセスを含む情報セキュリティ上の影響の把握
+● Block 施設への立ち入りなどの物理的セキュリティ上の影響の把握
+● 第三者を選定・評価・監督する方法の決定（適用法令・規制・契約条項の遵守状況を監視し、問題発生時には
+是正を求める等）
+● 第三者に対する正式なリスク格付けの付与（Tier 1～Tier 4 など）
+4.4 Local Regulatory Requirements under the SEBO Act
+When outsourcing to a third party, all persons/companies who will outsource in Japan shall follow the
+‘Act on Ensuring Proper Transactions Involving Specified Entrusted Business Operators1ʼ from
+November 2024 in order to ensure proper transactions involving individual subcontractors (“Specified
+Entrusted Business Operatorsˮ or “SEBO,ˮ meaning freelancers and sole proprietors) and to improve the
+working environment for them. Non-compliance with the Act will result in on-site inspections and
+sanctions, including less than five hundred thousand JPY by the Ministry of SMEs, Ministry of Labor and
+the Fair Trade Commission.
+A Specified Entrusted Business Operators refers to Third parties falling under the following categories:
+I. An individual that does not employ any employees; or
+II. A corporation that does not employ any employees and a single representative of the
+corporation.
+1 https://www.japaneselawtranslation.go.jp/en/laws/view/4691
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+When Square K.K. plans to outsource to SEBO and engage in a business relationship, it must meet the
+following requirements. When planning outsourcing and having business relationships with SEBOs, Square
+K.K. shall satisfy the following seven rules.The DRI attempting to enter into an outsourcing contract is
+responsible for verifying whether the contracting party is a SEBO. If it is determined to be SEBO, the DRI
+must indicate this in the VER ticket submission or notify JP Legal and obtain any instructions required to
+satisfy the relevant SEBO requirements;
+1. Ensure Square K.K. provide the detailed contract conditions (including outsourcing menu,
+compensation, and due dates) via letter or email to SEBOs before finalizing the contracting
+letter;
+2. Pay the compensation within 60 days from the delivery date of due of outsourcing products;
+3. Avoid performing the following prohibited actions towards SEBOs.
+a. Refusing to accept outsourcing products from the SEBOs without a valid reason.
+b. Reducing the agreed compensation without any specific reasons attributable to the
+SEBOs.
+c. Returning the outsourced products after they have been received without any specific
+reasons.
+d. Buying out the outsourced products at a significantly lower price than the current
+market rate.
+e. Forcing the SEBOs to purchase specific products and services without just cause.
+f. Unfairly demanding money or labor from the SEBOs.
+g. Unjustly requesting multiple retries of the outsourced product and work without
+reasons attributable to the SEBOs.
+4. When recruiting a Third Party, clarify true contract conditions to avoid deceiving the SEBOs
+and keep the information up-to-date.
+5. Give careful attention to SEBOs with pregnancy, childcare, and nursing care responsibilities.
+6. Set up a contact center or designate a person responsible to report harassment activities
+conducted by employees of the ordering Company towards the SEBOs. Operators can report
+harassment to the Company.
+7. Provide a 1-month notice before terminating the outsourcing contract.
+4.4 日本におけるアウトソーシングのための現地規制要件
+第三者にアウトソーシングする際、日本で外部委託を行うすべての個人/企業は、2024年11月から「特定受託事業者に関す
+る適正な取引の確保等に関する法律」を遵守し、個人の下請け業者（「特定受託事業者」、フリーランスや個人事業主を意味
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+します）との適正な取引を確保し、彼らの労働環境を改善する必要があります。この法律に違反した場合、中小企業庁、労働
+省、公正取引委員会による現地調査および50万円未満の制裁が科されます。
+特定受託事業者とは、以下のカテゴリーに該当する第三者を指します：
+I. 従業員を雇用していない個人
+II. 従業員を雇用していない法人およびその法人の唯一の代表者
+Square K.K.がSEBOへの外部委託を計画し、ビジネス関係を持つ際には、以下の7つのルールを満たす必要があります。
+委託契約を結ぼうとするDRIは、契約の相手方が特定受託事業者（SEBO）であるかを確認する責任をおいます。もしSEBO
+であった場合は、委託先がSEBOであるかについて、VERチケット申請時に回答するかまたはJP Legalにその旨を一報し、
+必要な要件を満たすために必要な指示を受けなくてはなりません。
+1. Square K.K.は、SEBOに契約書を締結する前に、詳細な契約条件（外部委託内容、報酬、納期を含む）を手
+紙またはメールで提供することを確保する。
+2. 外部委託成果物の納品日から60日以内に報酬を支払う。
+3. SEBOに対して以下の禁止行為を行わないようにする。
+a. 正当な理由なくSEBOからの外部委託製品の受け取りを拒否すること。
+b. SEBOに起因する具体的な理由なしに合意された報酬を減額すること。
+c. 受け取った後にアウトソーシング製品を特定の理由なしに返却すること。
+d. 現行市場価格よりも著しく低い価格で外部委託成果物を買い取ること。
+e. 正当な理由なくSEBOに特定の製品やサービスを購入させること。
+f. SEBOに不当に金銭や労働を要求すること。
+g. SEBOに起因しない理由で外部委託成果物や作業の再試行を不当に要求すること。
+4. 第三者を募集する際、SEBOを欺かないように真実の契約条件を明確にし、情報を最新の状態に保つ。
+5. 妊娠、育児、介護の責任を持つSEBOに注意を払う。
+6. 発注企業の従業員によるSEBOへのハラスメント行為を報告するための連絡窓口を設置するか、責任者を指定
+する。SEBOはハラスメントを企業に報告することができる。
+7. 外部委託契約を終了する前にSEBOへ1ヶ月前に通知する。
+4.5 Due Diligence
+Square K.K. understands that conducting effective due diligence before selecting and entering into a
+relationship with a Third Party is an important part of sound risk management.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+The Risk SMEs assigned will conduct due diligence to a scope and degree commensurate with the level of
+risk and complexity of the Third party relationship, and will broaden its due diligence efforts should
+information uncovered during the due diligence process warrant additional scrutiny.
+Due diligence is driven by the results of the “Planningˮ phase, which measures the risk by assessing a
+Third Partyʼs ability to satisfy Blockʼs requirements for the proposed products and services.
+The responses to the VER form will determine the due diligence that the Risk SMEs determine to perform
+in accordance with the tier structure as defined above. When due diligence is required by the Risk SMEs,
+they will require the Third party to answer a set of topic based (i.e. Infosec, Privacy, Business Continuity,
+and Compliance) questions and provide appropriate supporting documentation.
+Risk SMEs will review the responses and identify any deficiencies in feedback to TPRM, Procurement, and
+relevant stakeholders Block TPROs (if Tier 1, DRIʼs, Legal, and others). To the extent applicable, and
+commensurate with the levels of risk and complexity of the Third party relationship, Block may consider
+the following factors as part of Blockʼs due diligence efforts:
+● The Third Partyʼs overall business strategy and goals, and how they may impact Block in the
+future;
+● Any legal and regulatory compliance considerations to ensure appropriate risk identification
+and mitigation, such as determining:
+○ That the Third Party is legally authorized to perform the contracted activity;
+○ If the Third Party itself or any of its owners are subject to sanctions by the Office of
+Foreign Assets Control (“OFACˮ);
+○ Whether the Third Party possesses the expertise to enable Block to remain in
+compliance with applicable laws and regulations;
+○ The Third Partyʼs responsiveness to any compliance issues; and
+○ If the Third Party has identified and articulated a process to mitigate areas of potential
+consumer harm;
+● An evaluation of the Third Partyʼs business expertise, depth of resources (staffing), prior
+experience in performing activity, and history of successfully addressing customer complaints;
+● The qualifications and backgrounds of key personnel and other human resources
+considerations;
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+● The Providerʼs security controls are relevant to Blockʼs usage of their product or offering,
+particularly by reviewing observable inputs and the providerʼs Third-party audit reports;
+● Effectiveness of management information systems and the potential for gaps in service level
+expectations, business processes and management, and interoperability issues;
+● The Third Partyʼs operational resilience practices and ability to effectively operate through and
+recover from disruption from both internal and external events; and
+● The Third Partyʼs reliance on subcontractors and Third Party service providers (i.e., Block
+fourth party risk).
+To the extent applicable, as well as the factors required in Block TPRM Policy, the Company may consider
+the following factors as part of the Third Party due diligence for Square K.K. operating in Japan:
+● Capability of Third party;
+○ An evaluation of the Third Partyʼs business expertise, depth of resources (staffing),
+prior experience in performing activity, and
+○ Whether the Third Party possesses the expertise to enable the Company to remain in
+compliance with applicable local laws and regulations in Japan;
+● Compliance information of Third party;
+○ Whether the Third Party is legally authorized to perform the contracted activity;
+○ The qualifications and backgrounds of key personnel and other human resources
+considerations, especially the owners and beneficial owners of the Third Party are
+not Anti-Social Force members, following the Square K.K.ʼs ‘Anti-Social Force
+Management Policyʼ. The background check by the Trust & Safety team is needed
+before having a relationship with the Third Party.
+● Security controls of Third Party;
+○ Effectiveness of information security that complies with standards for the credit card
+industry;
+○ Appropriate management and control of personal information under the ʼAct on the
+Protection of Personal Informationʼ2
+4.5 デューデリジェンス
+2 https://www.japaneselawtranslation.go.jp/ja/laws/view/130
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Square K.K.は、外部委託先を選定・契約締結する前に効果的なデューデリジェンスを実施することが、適切なリスク管理の
+重要な要素であると認識しています。Risk SMEsは、外部委託関係のリスクおよび複雑性に応じた範囲と水準でデューデリ
+ジェンスを行い、必要に応じて調査範囲を拡大します。
+デューデリジェンスは「計画」フェーズにおける評価結果を踏まえて実施され、VERフォームへの回答内容に基づき、上記で
+定めたティア構造に応じた調査がRisk SMEsにより決定されます。調査が必要と判断された場合、Risk SMEsは当該外部
+委託先に対し、情報セキュリティ、プライバシー、事業継続、コンプライアンスなどのトピック別質問への回答および証跡となる
+書類の提出を求めます。
+Risk SMEsは提出された回答・書類をレビューし、不備や懸念事項をTPRM部門、調達部門および関連ステークホルダー（
+BlockのTPRO（Tier1リスクだった場合）、DRI、Legalなど）に報告します。第三者関係のリスクおよび複雑性に応じ、以下の
+ような事項をデューデリジェンスの判断材料として考慮します。
+● 第三者の全体的な事業戦略および目標、ならびにそれが将来Blockに与え得る影響
+● 適切なリスクの特定および軽減を確保するための法令・規制遵守に関する検討事項（例：
+○ 当該第三者が契約業務を法的に行う権限を有しているか
+○ 当該第三者自身またはその所有者が米財務省外国資産管理局（OFAC）の制裁対象となっていない
+か
+○ Blockが適用法令・規制を遵守し続けるための専門知識を当該第三者が有しているか
+○ コンプライアンス問題発生時の当該第三者の対応状況
+○ 潜在的な消費者被害を低減するためのプロセスを当該第三者が策定・明文化しているか
+● 第三者の事業専門性、人員体制（スタッフ規模）、業務実績および過去の顧客苦情対応実績の評価
+● 主要担当者の資格・経歴およびその他の人的要員に関する事項
+● 当該製品・サービス利用に関連するプロバイダーのセキュリティ管理体制（可視的なインプットの検証および第
+三者監査報告書の確認を含む）
+● マネジメント情報システムの有効性およびサービスレベル期待値、業務プロセス・管理体制、相互運用性に関
+するギャップのリスク
+● 内外の事象による事業中断からの回復・継続運営能力を含む、第三者のオペレーショナル・レジリエンス実践
+● 下請事業者や第三者サービス提供者（いわゆる第4次リスク）への依存状況
+Blockの「サードパーティリスクマネジメントポリシー」に定める要件に加え、当社は日本で事業を行う企業の外部委託先に対
+するデューデリジェンスの一環として、以下の事項を検討することがあります。
+● 外部委託先の能力
+○ 事業ノウハウ、リソース（人員）の充足度、過去の業務実績および顧客クレーム対応実績の評価
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+○ 当該外部委託先が日本の法令・規制を遵守するために必要な専門性を有しているかどうか
+● 外部委託先のコンプライアンス状況
+○ 契約業務を遂行する法的権限を有しているかどうか
+○ Square K.K.の「反社会的勢力対応規程」に基づき、当該外部委託先（特に所有者・実質的支配者）
+が暴力団等の反社会的勢力でないか、関係構築前にTrust & Safetyチームによるバックグラウンド
+チェックが行われていること
+● 外部委託先のセキュリティ管理体制
+○ クレジットカード業界基準に適合した情報セキュリティの有効性
+○ 「個人情報保護法」に基づく個人情報の適切な管理・取扱い
+4.6 Contract Negotiations
+A clearly drafted and equitable contract protects Block and provides a framework for expectations and
+issue resolution. The level of detail and relative importance of contract provisions varies with scope and a
+Third Partyʼs assessed risk. Block and Square K.K. employees are responsible for understanding the
+content of their respective contracts.
+Block will evaluate and negotiate contracts with Third Parties to ensure it is well positioned and its
+interests are protected. Legal will oversee the review of all contracts prior to finalization, and Block may
+seek to renegotiate the contract at renewal or as needed if new risks not previously contemplated arise.
+For clarity, any SOW (or similar business exhibit/rider) which addresses the business terms of any
+transaction will be reviewed, vetted, and confirmed by the business DRI for accuracy and detail.
+Depending on the degree of risk and complexity, Block will consider the following factors during contract
+negotiation and ensure contracts are written in a manner to mitigate risks to the extent possible:
+● Nature and scope of the arrangement;
+● Performance measures, benchmarks, and service level agreements, including measures
+around conformance with policies and procedures and compliance with applicable laws and
+regulations;
+● Responsibilities for providing, receiving, retaining, and protecting information and data;
+● Specifications for the type and frequency of reports the Third party must provide to Block;
+● Blockʼs right to audit and require remediation;
+● Costs and compensation;
+● Ownership and license;
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+● Confidentiality and integrity;
+● Operational resilience and business continuity;
+● Indemnification and limits on liability;
+● Insurance coverage;
+● Dispute resolution and arbitration clauses;
+● Customer complaints, including timelines for the Third party to resolve complaints and
+promptly comply with reporting requirements;
+● Subcontracting;
+● Block affiliate use rights;
+● Choice of law and jurisdictional provisions;
+● Default and termination; and
+● Regulatory supervision.
+4.6 契約の交渉
+明確かつ公正な契約書は Blockを保護し、期待事項や問題解決の枠組みを提供します。契約条項の詳細度や重要性は、
+業務範囲および外部委託先のリスク評価結果によって変動します。BlockおよびSquare K.K.の従業員は、自身が関与する
+契約内容を十分に理解する責任があります。
+Blockは、自社の立場を確保し利益を保護するために、外部委託先との契約を評価・交渉します。すべての契約は最終化前
+に法務部門がレビューを行い、契約更新時や新たなリスクが判明した場合には再交渉を行うことがあります。また、取引のビ
+ジネス条件を定める SOWや類似の付属文書は、DRIが正確性と詳細を確認・承認します。
+リスクと複雑性の度合いに応じて、契約交渉において以下の事項を検討し、可能な限りリスクを軽減する条項を盛り込むもの
+とします：
+● 契約の性質および範囲
+● 業務指標、ベンチマーク、サービスレベル合意（ポリシーの遵守や法令準拠を含む）
+● 情報・データの提供、受領、保管および保護に関する責任
+● 外部委託先が当社に提出すべき報告書の種類と頻度
+● 当社による監査権および是正要求権
+● 費用および対価の条件
+● 所有権および使用権（ライセンス）
+● 機密保持およびデータの完全性確保
+● オペレーショナルレジリエンスおよび事業継続計画
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+● 免責事項および責任制限
+● 保険加入要件
+● 紛争解決・仲裁条項
+● 顧客苦情対応（外部委託先の解決期限設定と報告義務を含む）
+● 再委託（サブコントラクティング）に関する規定
+● Block 社関連会社によるサービス利用権
+● 準拠法および裁判管轄
+● 契約違反時の措置および契約解除条件
+● 規制当局による監督対応
+4.7 Monitoring
+4.7.1 Ongoing Monitoring
+Block will perform ongoing monitoring and review to ensure compliance with the terms of the contract and
+appropriate level of risk management. The periodic review will be conducted by the TPRM team according
+to TPRMʼs System Record. The TPRO of the contracts are responsible for supporting these monitoring and
+reviews to the extent possible.
+4.7 モニタリング
+4.7.1 定期モニタリング
+Blockは、契約条項の遵守および適切なリスク管理水準の維持を確保するため、継続的なモニタリングおよびレビューを実
+施します。定期的なレビューはTPRMチームがTPRMのシステムレコードに従って行います。契約のTPROは、可能な限りこ
+れらのモニタリングおよびレビューを支援する責任を負います。
+4.7.2 Timing of Ongoing Monitoring
+The cadence for periodic review of the Third Party is determined according to the Third Partyʼs risk tier in
+TPRMʼs System of Record:
+● Tier 1 Third parties will be formally reviewed, at a minimum, annually;
+● Tier 2 Third Parties will be reviewed, at a minimum, every two years;
+● Tier 3 Third Parties will be reviewed, at a minimum, every three years; and
+● Tier 4 Third Parties will be reviewed, at a minimum, every four years.
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+The effective date as set out in the Third Party contract may be used as the starting point to calculate
+review periods or the date of the most recent top-tier risk assessment and due diligence unless some
+other starting point is agreed upon, in which case that will be the effective date for future reviews.
+4.7.2 継続的モニタリングのタイミング
+定期的なレビューの実施頻度は、TPRMのシステム記録における外部委託先のリスクティアに従って決定されます。
+● Tier 1：最低でも年に1回正式にレビューを実施
+● Tier 2：最低でも2年に1回レビューを実施
+● Tier 3：最低でも3年に1回レビューを実施
+● Tier 4：最低でも4年に1回レビューを実施
+なお、レビュー期間の算定起点としては、外部委託契約書に定められた有効日を用います。または、直近で実施した最上位
+リスク評価およびデューデリジェンスの日付を起点とします。別の起点日とする合意がある場合は、そちらの日付が今後のレ
+ビューの有効日となります。
+4.8 Termination
+Square K.K. may terminate Third Party relationships for various reasons, including, but not limited to:
+● Expiration or satisfaction of the contract;
+● Desire to seek an alternate Third party;
+● Desire to bring the activity in-house or discontinue the activity; or
+● Breach of contract, bankruptcy, force majeure, or similar.
+To the extent applicable, the Square K.K. will determine the most appropriate way to manage the following:
+● Costs and fees associated with the termination;
+● Data retention and destruction;
+● Information systems connections and access control;
+● Intellectual property; and
+● Impact to customers.
+Square K.K. will ensure that relationships terminate in an efficient manner, whether the activities are
+transitioned to another Third Party or in-house, or discontinued. In the event of contract default or
+termination, Square K.K. will have a plan to bring the service in-house if there are no alternate Third
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+Parties. The DRI is responsible for constantly monitoring if there are any breaches of contract by Third
+parties and taking necessary actions as needed.
+When ending a contract or terminating a Third Party relationship, the DRI should follow the contract's
+stated language and consult the Legal and Block Procurement team as necessary. When a relationship
+ends, it is the responsibility of the DRI to ensure that all Company assets are returned and that data is
+either returned to the Company or securely destroyed. It is the responsibility of the DRI to follow the
+requirements for the destruction or return of data as outlined in the Third party contract.
+4.8 外部委託の終了
+Square K.K. は、以下のような理由により第三者との関係を終了することができます。
+● 契約の満了または履行完了
+● 別の第三者に委託先を変更したい場合
+● 業務を社内化する、または廃止する場合
+● 契約違反、破産、不可抗力等
+適用範囲に応じて、Square K.K. は以下の事項を最適な方法で管理・調整します。
+● 契約終了に伴うコスト・手数料
+● データの保管および廃棄
+● 情報システムの接続解除およびアクセス制御
+● 知的財産権の取扱い
+● 顧客への影響
+Square K.K. は、業務を別の外部委託先へ移管する場合も、社内に引き戻す場合も、あるいは完全に廃止する場合も、円
+滑かつ効率的に関係を終了できるよう計画・実行します。契約不履行ややむを得ず終了せざるを得ない事態が発生した場合
+には、代替の外部委託先が存在しない場合でも、業務を継続できるよう社内移管プランを用意します。DRI は、外部委託先
+による契約違反がないか常時監視し、問題発生時には速やかに対応策を講じる責任を負います。
+契約を終了する、または第三者との関係を解消する際には、DRIは契約書に定められた条項に従い、必要に応じてLegalお
+よびBlock調達チームに相談しなければなりません。関係終了後は、DRIの責任で全ての会社資産を返却し、データを会社
+に返却するか安全に消去するよう確実に実施してください。第三者契約に定められたデータの返却・消去要件を遵守すること
+もDRIの責任です。
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+4.9 Conflicts of Interest
+Blockʼs Conflicts of Interest Policy sets out the measures of Block group to identify, assess, and manage
+any actual or potential conflicts of interest that may arise as a result of its Outsourcing Arrangements.
+Where conflicts of interest are identified in relation to an Outsourcing Arrangement, they must be managed
+in line with the requirements in the Conflicts of Interest Policy. If Square K.K. determines that it is not able
+to adequately mitigate the identified conflict, the Outsourcing Arrangement must be declined / terminated.
+Please see Blockʼs Conflicts of Interest Policy for more details on management of conflicts.
+4.9 利益相反の防止
+Block「利益相反ポリシー」は、外部委託契約に起因する可能性のある実際のまたは潜在的な利益相反を特定、評価、およ
+び管理するためのBlockグループ内の措置を規定しています。外部委託契約に関連して利益相反が特定された場合、利益
+相反ポリシーの要件に従って管理されなければなりません。Square K.K.が特定された利益相反を適切に軽減できないと判
+断した場合、外部委託契約は拒否または終了しなければなりません。利益相反の管理に関する詳細は、Block「利益相反ポ
+リシー」を参照してください。
+5. Document Management
+5.1 Document Owner
+This document is owned by the Chief Compliance Officer of the Square K.K (“JP CCOˮ).
+5.1. 所管
+当ポリシーは、Square株式会社のチーフコンプライアンスオフィサー（以下、「JP CCO」という。）が所管します。
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis. Any amendments
+or abolitions of this regulation shall require approval from the Board of Directors. However, minor revisions
+may be made with the approval of JP CCO.
+5.2. 承認と承認
+当ポリシーは、少なくとも年に1回、および必要に応じて見直しを行わなくてはなりません。本規程の改廃は、取締役会の決裁
+を得るものとする。ただし、軽易な改訂についてはJP CCOの承認を得て行うものとします。
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+6. Exceptions
+The Board has authority to approve exceptions and/or exemptions to this Policy, provided that the
+proposed exception or exemption does not violate applicable laws and regulations. Policy exception
+requests must be documented in writing, include a reason for a request, and provide a description of the
+controls that the Square K.K. will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements.
+6. 例外の承認
+取締役会は、適用される法律および規制に違反しない限り、本規程に対する例外および/または免除を承認する権限を有し
+ます。当ポリシーの例外承認要求については書面で文書化され、要求の理由を含め、例外に関連するリスクを軽減するため
+に会社が実施するコントロールの説明を提供する必要があります。承認結果はすべて書面で保管し、記録保持要件に沿って
+保管される必要があります。
+7. Record Retention
+Square K.K. maintains Records of this Policy in accordance with Blockʼs document retention guidelines.
+7.記録の保存
+当社は、Blockの文書保存ガイドラインに従って、当ポリシーの記録を適切に保管しなければならない。
+8. Related Documentation
+Related Policy Global Third Party Risk Management Policy
+9. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Japan Chief Initial Appro… Document May 10, 2025
+Sayaka Kobay… Compliance creation
+Officer
+Square K.K. Square K.K. Initial Appro… June 13, 2025
+Board Board
+Outsourcing Policy | Square K.K.
+
+Confidential and Not for Distribution
+10. Document Details
+Business Square
+Scope Regional Japan
+Compliance Domain Compliance Governance
+Document Owner Sayaka Kobayashi
+Last Approval Date June 13, 2025
+Effective Date June 13, 2025
+Approved By Square K.K Board
+Document Review Schedule Annually June 2026
+Outsourcing Policy | Square K.K.

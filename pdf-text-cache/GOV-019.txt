@@ -1,0 +1,454 @@
+Compliance Management System CMS Policy
+Square AU
+Last Approved: Dec 18, 2025
+Effective Date: Dec 18, 2025
+1. Overview
+Introduction and Purpose: This Compliance Management System CMS Policy (the Policy)
+outlines Square AU Pty Ltdʼs (Square AU) approach to identifying, assessing, managing,
+monitoring, and reporting regulatory and ethical compliance obligations and risks across its
+Australian operations. The CMS promotes integrity, accountability, transparency, and continuous
+improvement and is aligned to global compliance practices.
+Scope: This Policy applies to all Square AU operations, officers, employees, and contractors
+engaged in regulated and supporting business activities.
+1
+
+Square AU operates within a broad and dynamic Australian regulatory environment that includes
+financial services, financial crime, consumer protection, and payments obligations. While the CMS
+considers this entire regulatory landscape, it applies a risk-based approach to prioritise programs
+and controls proportional to the nature, scale, and complexity of Square AUʼs operations.
+This approach ensures resources are directed to the areas of greatest regulatory, operational, and
+reputational risk, while maintaining visibility of broader obligations and emerging developments.
+Key areas of focus under this Policy include:
+● AFSL and Conduct Obligations under the Corporations Act 2001 Cth, ASIC Regulatory
+Guides and Anti Bribery and Corruption;
+● Financial Crime Compliance under the Anti-Money Laundering and Counter-Terrorism
+Financing Act 2006 Cth and AUSTRAC Rules and Autonomous Sanctions Act 2011Cth;
+● Consumer Protection under ASIC, ACCC, and relevant industry codes;
+● Complaints Handling, including requirements under ASIC Regulatory Guide 271 and the
+AFCA Rules; and
+● Payments Industry Compliance, encompassing scheme participation, network standards,
+and relevant prudential or operational guidelines.
+Square AU operates as an independent Australian licensee within the Block group, aligning its local
+CMS with Blockʼs enterprise-wide compliance standards and programs to ensure consistency,
+accountability, and effective global governance.
+Global Alignment (summary): Square AUʼs CMS is supported by Block Inc.ʼs global compliance
+ecosystem (e.g., Global Monitoring & Testing Program, Issue Management Program, PoP, TPRM
+Standard). This ensures enterprise consistency and shared tooling while Square AU retains full
+accountability to Australian regulators and its Board.
+Definitions:
+AFSL Australian Financial Services Licence): A licence granted under the Corporations Act 2001
+Cth authorising entities to provide specified financial services in Australia. The AFSL framework
+establishes the licenseeʼs obligations to maintain organisational competence, manage conflicts,
+ensure compliance, and act efficiently, honestly, and fairly.
+Responsible Manager: An individual nominated under the AFSL to demonstrate the organisationʼs
+competence and integrity in meeting its licensing obligations (refer ASIC Regulatory Guide 105).
+Responsible Managers play a key role within the compliance management system by ensuring
+controls, governance, and oversight arrangements align with licence conditions and regulatory
+expectations.
+2
+
+Compliance Management System CMS: A structured and integrated framework encompassing
+governance, risk management, compliance policies, procedures, controls, monitoring, training,
+reporting, and assurance mechanisms designed to ensure and evidence adherence to legal,
+regulatory, and ethical obligations.
+The CMS supports proactive identification and management of compliance risks, continuous
+improvement, and a culture of integrity across the organisation.
+Issue: A deficiency, weakness, or non-conformity in a process, control, or compliance obligation
+that may impair compliance effectiveness. Issues are logged, risk-rated, and tracked to
+remediation within the CMS to ensure accountability and timely resolution.
+Significant Breach: A breach that meets the materiality or impact criteria under s912D of the
+Corporations Act 2001 Cth or other applicable laws. Such breaches must be reported to ASIC
+within prescribed timeframes (generally within 30 days). The CMS should facilitate timely
+escalation, assessment, and documentation of significant breaches.
+Three Lines of Defence: A governance model underpinning the CMS
+● 1st Line: Business and operational functions own and manage risks and controls.
+● 2nd Line: Compliance and Risk functions provide oversight, guidance, and challenge to
+ensure effective implementation of the CMS.
+● 3rd Line: Internal Audit provides independent assurance over the design and effectiveness
+of compliance and risk management frameworks.
+2. Square AU Specific Requirements
+Compliance Governance and Regulatory Ecosystem
+Square AUʼs CMS ensures local accountability while aligning to global practices. It integrates
+governance, monitoring, and improvement mechanisms to meet regulatory expectations and
+maintain a culture of integrity and transparency.
+2.1 Regulatory Context
+Primary regulatory stakeholders include (non-exhaustive): ASIC, AUSTRAC, OAIC, APRA/RBA
+(payments), AFCA, and industry schemes.
+3
+
+2.2 Board and Management Oversight
+Leadership and Commitment
+Square AUʼs Board and Senior Management team are actively involved in shaping the compliance
+culture. The Chief Compliance Officer CCO for Square AU has a dotted reporting line to the
+Square AU Board. Leadership commitment is demonstrated by:
+- Regular compliance and risk updates to the Square AU Board and Senior Management
+Committees
+- Allocation of dedicated Compliance resources across key risk domains Financial Crime,
+Regulatory, Licensing, Consumer Protection and Operations)
+- Regular gap analyses and risk assessments.
+- Organisational Roles, Responsibilities, and Authorities
+Responsibilities are communicated through role descriptions, governance documents, and training.
+Authority and accountability for compliance outcomes are embedded in governance structures
+across the Three Lines of Defence.
+Management Review
+The Chief Compliance Officer CCO leads an Biennial Management review of the Compliance
+Framework. This review assesses the continuing suitability, adequacy, and effectiveness of the
+Compliance Framework, taking into account audit results, compliance metrics, material breaches,
+regulatory changes, and emerging risks. Outcomes from the management review feed directly into
+Board-level compliance reporting and inform Square AUʼs broader regulatory risk assessment and
+4
+
+strategic compliance planning processes.
+2.3 Policies, Standards & Procedures
+Square AU maintains a suite of compliance policies, standards, and procedures that define the
+controls and expectations for managing regulatory and conduct risk across the business.
+Each document supports the operation of the CMS by ensuring obligations are clearly articulated,
+consistently implemented, and regularly reviewed for relevance and effectiveness.
+All compliance documents are developed, approved, and maintained in accordance with the
+Block Compliance Policy on Policies PoP and the Compliance Document Approval Matrix,
+which establish governance requirements for creation, ownership, review, and retirement of
+compliance documents.
+Under these frameworks:
+● Each policy or standard has an identified Document Owner responsible for its accuracy,
+currency, and alignment with Square AUʼs risk appetite and legal obligations;
+● Documents undergo formal review at least biennially, and ad hoc updates are triggered
+by material regulatory changes, emerging risks, or internal audit findings;
+● All approved versions are stored in a controlled central repository with version control,
+audit trails, and access restrictions to ensure authenticity and integrity;
+● Changes are communicated to relevant staff through targeted updates, training, and
+operational change processes; and
+● Retired or superseded policies are archived in line with record retention requirements to
+preserve regulatory evidence.
+This structure ensures that compliance documentation remains current, traceable, and effective,
+while maintaining alignment with both Block Inc.ʼs global governance standards and Square AUʼs
+local regulatory obligations.
+5
+
+The below table outlines the roles and responsibilities of individuals within both Block Inc. and
+Square AU in terms of the current suite of Compliance Policies, Standards and Program
+Documents:
+Chief
+Block Inc. Square AU
+Square AU Compliance Document Cycle Compliance Chief Risk
+Global Board
+Officer) Officer
+Square AU Risk Management
+Annually I A R
+Strategy and Policy
+Compliance Framework Biennially I A R I
+AML/CTF Program Annually I A R
+AML/CTF Risk Awareness
+Annually A,R
+Training Program
+Employee Due Diligence Annually A,R
+Enhanced Customer Due
+Annually A,R
+Diligence Program
+Financial Crimes Transaction
+Annually A,R
+Monitoring Program
+Politically Exposed Persons
+Annually A,R
+Watchlist Program
+Suspicious Matter Report Program Annually A,R
+Sanctions Policy Annually A A R
+Breach Reporting Policy Annually A R
+Complaints Policy Annually A R
+Outsourcing Policy Annually A R
+AFSL Representative Standard Annually A R
+Regulatory Change
+Annually A,R
+Management Program
+Responsible Managers Standard Annually A R
+Key Persons Fit and
+Biennially A R
+Proper Standard
+Conflicts of Interest Policy Annually A R
+Privacy Policy (global) Annually A I
+Information Security Policy (global) Annually A I I
+Anti Bribery and
+Annually A A R
+Corruption Policy (global)
+A Approve, R Review, S Support, I = Informed
+6
+
+2.4 Training & Awareness
+Square AU recognises that a strong compliance culture relies on the capability and awareness of
+its people. To achieve this, the Compliance Management System CMS embeds a structured and
+risk-based training and competency program designed to ensure that all employees understand
+their regulatory obligations and perform their roles in accordance with legal, ethical, and internal
+standards.
+All training activities are governed by the Block Global Compliance Training Program and the
+Block Academy platform, which deliver consistent content across the enterprise while allowing for
+localisation to Australian laws, regulatory requirements, and business risks.
+Program Structure:
+● Mandatory Induction Training: All new employees complete a comprehensive onboarding
+module within their first 30 days. It covers AFSL and conduct requirements, AML/CTF
+awareness, sanctions, complaint handling, Code of Conduct, conflicts of interest, and
+escalation procedures.
+● Annual Refresher Training: Delivered to all staff to reinforce core obligations and
+communicate updates to laws, regulatory expectations, or policy changes.
+● Role-Specific Training: Targeted modules are developed for high-risk and specialist roles,
+including Responsible Managers, compliance professionals, customer-facing teams, and
+operations staff involved in AML/CTF, payments, and complaint handling.
+● Responsible Manager Competency Maintenance: Each Responsible Manager completes
+annual fit-and-proper reviews and targeted professional development to meet ASICʼs
+competency requirements under RG 105.
+● Leadership and Ethics Training: Senior leaders receive tailored modules on tone from the
+top, governance accountability, and decision-making ethics.
+2.5 Risk Assessment
+Square AU conducts periodic and event-driven compliance risk assessments across all business
+operations to identify, evaluate, and prioritise regulatory and conduct risks.
+These assessments form a key component of the CMS and are designed to ensure that
+compliance risks are managed within the parameters of Block Inc.ʼs Enterprise Risk Policy.
+Risk assessments consider both inherent and residual risk and evaluate the design and operating
+effectiveness of existing controls. The process is collaborative and draws on data and insights
+from monitoring activities, incident and breach reviews, regulatory change assessments, and
+product or business unit feedback.
+7
+
+Risk assessments are initiated when:
+● New or amended laws, regulations, or regulatory guidance are released;
+● New products, features, or distribution channels are introduced;
+● Material complaints, incidents, or control failures occur;
+● Internal or external audits identify emerging or systemic risks.
+Outcomes from each assessment are formally documented and summarised in structured
+templates and working papers, including risk rating, control adequacy, and remediation plans.
+While Square AU does not maintain a standalone enterprise-wide risk register, all material
+compliance risks and control issues are captured and evidenced through these artefacts such as
+risk assessments, breach evaluations, remediation plans, and Board reports ensuring a
+continuous and traceable record of compliance risk management.
+This approach supports the principles of transparency and proportionality under Blockʼs Enterprise
+Risk Policy, demonstrating that compliance risk is actively identified, assessed, and mitigated
+through a consistent and documented methodology.
+2.6 Monitoring
+Monitoring is the process through which Square AU evaluates whether its compliance obligations
+and controls are operating as intended. Monitoring activities are conducted under a risk-based
+Compliance Monitoring & Testing Program, aligned with Blockʼs Global Monitoring & Testing
+Standard.
+The Program incorporates:
+● Thematic reviews of high-risk areas (e.g., AFSL conduct, AML/CTF reporting, privacy and
+data handling);
+● Continuous monitoring through automated data checks, complaints trend analysis, and
+regulatory change tracking; and
+● Targeted testing following material incidents or emerging risk indicators.
+Results from monitoring and testing are analysed and reported through the quarterly reporting and
+issues management systems, which highlights key trends, control performance, and areas
+requiring improvement. Findings feed directly into the compliance plan, staff training, and
+management review cycle, closing the loop between assessment, monitoring, and continuous
+improvement.
+8
+
+2.7 Third-Party Risk Management TPRM
+Square AU engages external service providers to support core operations such as technology,
+payments, and identity verification.
+To ensure these arrangements do not introduce undue compliance, operational, or reputational
+risk, Square AU applies a structured Third-Party Risk Management TPRM framework, aligned
+with Block Inc.ʼs Global TPRM Standard and relevant Australian regulatory expectations.
+All critical and high-risk vendors are subject to due diligence, contractual controls, and ongoing
+monitoring. This includes assessment of regulatory standing, financial soundness, and control
+effectiveness, with contracts incorporating obligations for data protection, incident escalation,
+right-to-audit, and compliance with Australian law.
+Vendor risk is tiered by materiality, determining the frequency and depth of reviews. Compliance
+and Procurement jointly oversee TPRM activities — Procurement manages onboarding and
+performance reviews, while Compliance assesses regulatory risk and monitors adherence to
+policies.
+High-risk or critical arrangements are reported to the Board or its delegated committees for
+oversight. Findings from reviews, audits, or incidents inform control improvements and strengthen
+alignment with Blockʼs enterprise-wide vendor governance standards.
+2.8 Complaints Handling
+Complaints management forms a core component of Square AUʼs Compliance Management
+System, providing an important source of insight into conduct risk, customer outcomes, and
+control effectiveness.
+Square AU maintains a structured framework for handling complaints in accordance with ASIC
+Regulatory Guide 271 Internal Dispute Resolution), the AFCA Rules, and the Square AU Complaints
+Policy. This ensures that customer concerns are recorded, investigated, and resolved in a fair,
+timely, and transparent manner, and that outcomes are used to strengthen the broader compliance
+environment.
+The Compliance function monitors complaint data and collaborates with business units to identify
+emerging issues or systemic trends. Findings and key metrics are included in the Compliance
+Dashboard and reported quarterly to senior management and the Board to inform risk
+assessments, regulatory reporting, and continuous improvement of the CMS.
+Monitoring and evaluation are integral components of Square AUʼs Compliance Management
+System CMS, providing assurance that compliance obligations are being met and that controls
+remain effective and proportionate to risk.
+2.9 Incident and Breach Management
+9
+
+Square AU is committed to identifying, assessing, escalating, and remediating incidents and
+breaches in a timely and transparent manner. An incident refers to any event, error, failure, or
+breakdown in processes, systems, controls, or conduct that has the potential to cause harm to
+customers, regulatory non-compliance, financial loss, operational disruption, or reputational
+impact. A breach refers to any failure to comply with a legal obligation, licence condition, internal
+policy, standard, or regulatory requirement.
+Square AU maintains a documented Incident and Breach Management Procedure, which outlines
+the processes for incident detection, assessment, remediation, escalation, and reporting. All
+employees must promptly report any suspected incident or breach to the Compliance team or via
+designated reporting channels.
+Where a breach meets the “reportable situationˮ criteria under s912D of the Corporations Act and
+ASIC RG 78, Square AU will report the matter to ASIC within the prescribed timeframes and
+maintain appropriate internal records. Where a matter relates to customer detriment or dispute
+resolution, it must be managed in alignment with ASIC RG 271 Internal Dispute Resolution and
+AFCA requirements.
+Root cause analysis, customer remediation (where appropriate), and control enhancement
+activities must be completed to prevent recurrence. Incident and breach trends are reported to
+senior management and the Board to support effective oversight and continuous improvement.
+2.10 Conflicts of Interest
+Square AU manages conflicts of interest to ensure that personal, financial, or other interests do not
+improperly influence business decisions or customer outcomes. A conflict of interest may be
+actual, potential, or perceived, and may arise at an individual, operational, or organisational level.
+Employees must identify and disclose any actual or potential conflicts of interest to their manager
+or the Compliance team as soon as they arise. Conflicts that cannot be adequately managed or
+mitigated must be avoided.
+Square AU maintains a Conflicts of Interest Policy and register, and ensures Responsible Managers
+and other key personnel satisfy the competence and good character standards expected under the
+Corporations Act and ASIC regulatory guidance. Training is provided to employees to support
+awareness and correct handling of conflicts.
+Decisions must always be made in the best interests of Square AUʼs customers and in accordance
+with our legal, ethical, and licence obligations.
+2.11 Measurement & Evaluation Dashboard Metrics)
+Square AU conducts a range of monitoring, data analysis, and reporting activities designed to
+assess the performance of compliance processes and identify emerging risks. These activities are
+10
+
+coordinated by the Compliance function, in collaboration with business units, and are guided by
+the principles of evidence-based evaluation.
+Key monitoring and evaluation activities include:
+● Analysis of data and metrics generated through core systems and dashboards, including
+training completion rates, incident and breach trends, complaint volumes, and audit
+outcomes;
+● Regular reporting of compliance-related insights and performance metrics to senior
+management and the Board through management reports and governance committee
+papers;
+● Oversight of regulatory reporting activities, such as breach notifications, AUSTRAC
+submissions, AFSL attestations, and other mandatory returns;
+● Targeted compliance reviews and thematic testing of higher-risk areas in accordance with
+the Compliance Monitoring and Testing Program; and
+● Collaboration with Internal Audit to ensure independent assessment of CMS design and
+operational effectiveness.
+2.12 Regulatory Change Management
+Square AU manages legal, regulatory, and industry change through its formal Regulatory Change
+Management Program, which provides a structured process for identifying, assessing, and
+implementing relevant requirements across the business.
+This program ensures that new or amended obligations are evaluated for applicability, assigned
+accountable owners, and embedded within existing controls and policies. Compliance oversees
+the process to confirm that all changes are implemented in a timely and risk-based manner, with
+progress and outcomes reported to senior management and the Board through the Compliance
+Dashboard.
+The program aligns with Blockʼs enterprise standards while ensuring that Square AU maintains
+direct accountability for meeting Australian regulatory obligations and responding to local
+developments.
+Reg Change Management - Square AU
+11
+
+Obligations Documentation: Material requirements are tracked via structured obligation records
+and change logs maintained by Compliance (with control/owner/evidence mapping).
+2.13 Continuous Improvement
+Continuous improvement is a core principle of Square AUʼs Compliance Management System
+CMS and ensures that the framework remains effective, adaptive, and aligned with evolving
+regulatory expectations.
+Lessons learned from incidents, audits, monitoring activities, complaints, and regulator feedback
+are systematically reviewed and translated into policy and control enhancements, training updates,
+and process redesign. Improvement actions are documented, assigned accountable owners, and
+tracked through to completion as part of the compliance governance and management review
+process.
+4. Compliance & Enforcement
+Roles and Responsibilities:
+● Square AU Roles:
+○ Square AU Board: Provide oversight and strategic direction for the CMS.
+Approve and review key compliance policies and frameworks.
+Receive and review regular reports on the status of compliance within the
+organization.
+Ensure adequate resources are allocated to support compliance functions.
+12
+
+○ Chief Compliance Officer: Develop, implement, and maintain the CMS,
+including policies, procedures, training, and monitoring.
+Act as the primary point of contact for compliance questions, issues, and
+reporting.
+Monitor compliance with relevant laws, regulations, and company policies.
+Provide oversight over compliance training and awareness programs.
+Investigate, document, and report compliance breaches or concerns in
+accordance with reporting protocols.
+○ Chief Risk Officer: create the risk frameworks and provide for risk
+management practices within the business.
+○ Business Unit Managers: Ensure business unit activities compliantly align
+with all applicable regulations and company policies.
+Integrate compliance requirements into business processes and operational
+procedures.
+Facilitate staff participation in compliance training and awareness initiatives.
+○ Square AU staff and representatives: Comply with all applicable laws,
+regulations, and Square AU policies and procedures.
+Participate in mandatory compliance training and awareness activities.
+Promptly report suspected or actual compliance breaches to the
+Compliance Officer or via designated reporting mechanisms.
+Seek guidance from the Compliance Officer (or delegate) or management
+when unsure about compliance obligations.
+○ Block Global Compliance Monitoring and Testing): Evaluate the overall
+adequacy and effectiveness of the CMS.
+Provide assurance to the Board and Senior Management regarding
+compliance controls.
+Recommend improvements to strengthen compliance processes and risk
+controls.
+2. Monitoring and Reporting: On an ongoing basis, the Policy Owner and/or their designee
+monitors activities for compliance and objective achievement. As outlined in the
+Compliance Management System Policy, Compliance will provide regular updates, as
+applicable, to the Block, Inc. Board and executive management. Reporting may cover
+specific information related to:
+● Policies and standards
+● Procedures
+● Audit/exam findings
+● Issues management
+● Training
+● Complaints
+3. Training: All relevant personnel will receive training at least annually covering applicable
+requirements and guidance to implement this Policy effectively. All training related
+13
+
+activities are monitored by the Compliance Team and are outlined in the Compliance
+Training Program.
+4. Record Retention: All Documents are retained according to the longer of:
+● Blockʼs Data Classification & Handling Policy
+● Applicable regulatory requirements
+5. Exceptions: The Policy Owner or designee will have authority to approve exceptions
+and/or exemptions to this Policy, provided that the proposed exception or exemption does
+not violate applicable laws and regulations. Exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that the
+Company will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements.
+Any approved exceptions or exemptions should be submitted to the Policy Governance
+Team. The Document Owner and/or designee will inform Compliance Leadership and
+applicable committees, as needed, of exceptions.
+6. Confidentiality: This document is confidential and should only be accessed by employees.
+5. Questions & Contact Information
+● Questions: For questions or clarifications about this Policy please contact the Compliance
+Policy Team at #compliance-policy-help.
+● Review related documents:
+○ Square AU AML/CTF Program
+○ Square AU Consumer Protection Policy
+○ Block Inc. Global Policies
+6. Document Details & Revisions
+Review and Approval: This document shall be reviewed and approved at least annually and on an
+ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver Title Type Description Date
+Square AU Board Initial Appro… Initial Approval December 18,
+Board 2025
+14
+
+Document Details:
+Business Square
+Scope Square AU
+Compliance Domain Compliance Governance
+Document Owner Chief Compliance Officer
+Approved By Square AU Board
+Document Tier Tier 2
+Document Version History:
+Version Change Description Approved By Date
+v1.0 Initial Issue Square AU Board Dec
+2025
+v1.0 Updated for alignment with Compliance Framework Chief Compliance Nov
+2025 Officer 2025
+v1.0 Shared with Square AU Core Group AU leadership Nov
+2025
+15
