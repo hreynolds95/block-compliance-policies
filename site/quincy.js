@@ -210,7 +210,7 @@
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({
           model:      MODEL,
-          max_tokens: 1024,
+          max_tokens: 4096,
           system: [{
             type:          'text',
             text:          systemPrompt,
