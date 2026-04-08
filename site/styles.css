@@ -278,45 +278,59 @@ select.filter-select--active {
 .doc-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.82rem;
+  font-size: 0.78rem;
+  table-layout: fixed;
 }
 .doc-table thead { background: var(--bg-tertiary); position: sticky; top: 0; z-index: 10; }
 .doc-table th {
   text-align: left;
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   font-weight: 500;
-  color: var(--accent-2);
   letter-spacing: .07em;
   text-transform: uppercase;
   color: var(--muted);
-  padding: 0 12px 10px;
+  padding: 0 8px 8px;
   border-bottom: 1px solid var(--line);
   white-space: nowrap;
+  overflow: hidden;
   cursor: pointer;
   user-select: none;
 }
 .doc-table th:hover { color: var(--accent); }
-.doc-table th .sort-arrow { margin-left: 4px; opacity: 0.4; }
+.doc-table th .sort-arrow { margin-left: 3px; opacity: 0.4; }
 .doc-table th.sorted .sort-arrow { opacity: 1; color: var(--info); }
 
+/* Column widths — Title takes all remaining space */
+.doc-table th:nth-child(1)  { width: 72px;  }   /* ID */
+.doc-table th:nth-child(2)  { width: auto;  }   /* Title — flexible */
+.doc-table th:nth-child(3)  { width: 108px; }   /* Domain */
+.doc-table th:nth-child(4)  { width: 54px;  }   /* Tier */
+.doc-table th:nth-child(5)  { width: 78px;  }   /* Status */
+.doc-table th:nth-child(6)  { width: 116px; }   /* Owner */
+.doc-table th:nth-child(7)  { width: 76px;  }   /* Approval */
+.doc-table th:nth-child(8)  { width: 92px;  }   /* Next Review */
+.doc-table th:nth-child(9)  { width: 116px; }   /* Review State */
+.doc-table th:nth-child(10) { width: 44px;  }   /* Ver */
+
 .doc-table td {
-  padding: 12px;
+  padding: 7px 8px;
   border-bottom: 1px solid var(--line);
   vertical-align: middle;
+  overflow: hidden;
 }
 .doc-table tr:last-child td { border-bottom: none; }
 .doc-table tr:hover td { background: rgba(255,255,255,.03); }
 
-.doc-id    { font-weight: 600; font-size: 0.76rem; color: var(--info); white-space: nowrap; }
-.doc-title { font-weight: 500; color: var(--accent-2); }
-.doc-owner { color: var(--accent-3); font-size: 0.76rem; }
+.doc-id    { font-weight: 600; font-size: 0.72rem; color: var(--info); white-space: nowrap; }
+.doc-title { font-weight: 500; color: var(--accent-2); display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.doc-owner { color: var(--accent-3); font-size: 0.72rem; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 /* ── Badges ── */
 .badge {
   display: inline-block;
-  padding: 2px 8px;
+  padding: 1px 6px;
   border-radius: 999px;
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   font-weight: 500;
   line-height: 1.6;
   white-space: nowrap;
@@ -335,14 +349,14 @@ select.filter-select--active {
 .review-pill {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  font-size: 0.7rem;
+  gap: 4px;
+  font-size: 0.68rem;
   font-weight: 500;
-  padding: 3px 8px;
+  padding: 2px 6px;
   border-radius: 999px;
   white-space: nowrap;
 }
-.review-pill::before { content: ''; display: block; width: 6px; height: 6px; border-radius: 50%; }
+.review-pill::before { content: ''; display: block; width: 5px; height: 5px; border-radius: 50%; }
 .pill-ok       { background: rgba(163,215,149,.1);  color: var(--success); }
 .pill-ok::before       { background: var(--success); }
 .pill-due-soon { background: rgba(255,217,102,.1);  color: var(--warning); }
