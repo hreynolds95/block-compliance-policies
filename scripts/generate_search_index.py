@@ -53,9 +53,9 @@ def main():
     parser.add_argument(
         "--max-chars",
         type=int,
-        default=4000,
-        help="Truncate each doc's text to this many characters (default: 4000). "
-             "Full text is preserved in the cache files.",
+        default=0,
+        help="Truncate each doc's text to this many characters (default: 0 = no limit). "
+             "Only use this for constrained environments.",
     )
     args = parser.parse_args()
 
@@ -76,7 +76,7 @@ def main():
         if txt_path.exists():
             raw = txt_path.read_text(encoding="utf-8", errors="replace")
             text = clean_text(raw)
-            if args.max_chars and len(text) > args.max_chars:
+            if args.max_chars and args.max_chars > 0 and len(text) > args.max_chars:
                 text = text[:args.max_chars]
             documents[doc_id] = text
             populated += 1

@@ -2,14 +2,15 @@
 """
 Download published PDFs from Google Drive and extract plain text for search indexing.
 
-Reads published_pdf frontmatter from all docs/, downloads each file via the
-Google Drive API using cached OAuth credentials, extracts text with pdfplumber,
-and writes one <doc_id>.txt per document to pdf-text-cache/.
+Default mode (incremental): only re-extracts a doc if its effective_date in the
+frontmatter is newer than the existing pdf-text-cache/<doc_id>.txt file.
+This means after a full initial run, subsequent runs are fast — only recently
+published or updated policies are re-downloaded.
 
 Run generate_search_index.py afterwards to rebuild site/search-index.json.
 
 Usage:
-    python scripts/extract_pdf_text.py                  # skip already-extracted
+    python scripts/extract_pdf_text.py                  # incremental (default)
     python scripts/extract_pdf_text.py --force          # re-extract all
     python scripts/extract_pdf_text.py --doc-id CP-001  # single doc
 
@@ -23,6 +24,7 @@ import re
 import sys
 import time
 import warnings
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 warnings.filterwarnings("ignore", category=FutureWarning)  # suppress Python 3.9 EOL noise
@@ -35,15 +37,14 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 from googleapiclient.errors import HttpError
 
-DOCS_ROOT    = Path("docs")
-CACHE_DIR    = Path("pdf-text-cache")
-CREDS_PATH   = Path.home() / ".config/gdrive-skill/credentials.json"
-
-FILE_ID_RE   = re.compile(r"/file/d/([^/?#]+)")
+DOCS_ROOT  = Path("docs")
+CACHE_DIR  = Path("pdf-text-cache")
+CREDS_PATH = Path.home() / ".config/gdrive-skill/credentials.json"
+FILE_ID_RE = re.compile(r"/file/d/([^/?#]+)")
 
 # ── Credentials ───────────────────────────────────────────────────────────────
 
-def load_credentials() -> Credentials:
+def load_credentials():
     if not CREDS_PATH.exists():
         print(f"ERROR: credentials not found at {CREDS_PATH}")
         sys.exit(1)
@@ -63,7 +64,7 @@ def load_credentials() -> Credentials:
 # ── Frontmatter parser ────────────────────────────────────────────────────────
 
 def iter_docs():
-    """Yield (doc_id, published_pdf_url) for every doc that has a published_pdf field."""
+    """Yield (doc_id, pdf_url, effective_date) for every doc with a published_pdf field."""
     for path in sorted(DOCS_ROOT.rglob("*.md")):
         if "_templates" in path.parts:
             continue
@@ -74,18 +75,30 @@ def iter_docs():
         if len(parts) < 3:
             continue
         meta = yaml.safe_load(parts[1]) or {}
-        doc_id = meta.get("doc_id")
+        doc_id  = meta.get("doc_id")
         pdf_url = meta.get("published_pdf")
         if doc_id and pdf_url:
-            yield doc_id, str(pdf_url)
+            yield doc_id, str(pdf_url), meta.get("effective_date")
 
-def extract_file_id(url: str):
+def extract_file_id(url):
     m = FILE_ID_RE.search(url)
     return m.group(1) if m else None
 
+def effective_date_as_utc(eff):
+    """Convert a date or string effective_date to a UTC timestamp, or 0 if unavailable."""
+    if isinstance(eff, date) and not isinstance(eff, datetime):
+        return datetime(eff.year, eff.month, eff.day, tzinfo=timezone.utc).timestamp()
+    if isinstance(eff, str):
+        try:
+            d = date.fromisoformat(eff)
+            return datetime(d.year, d.month, d.day, tzinfo=timezone.utc).timestamp()
+        except ValueError:
+            pass
+    return 0
+
 # ── Download + extract ────────────────────────────────────────────────────────
 
-def download_pdf(service, file_id: str) -> bytes:
+def download_pdf(service, file_id):
     request = service.files().get_media(fileId=file_id)
     buf = io.BytesIO()
     dl = MediaIoBaseDownload(buf, request)
@@ -95,7 +108,7 @@ def download_pdf(service, file_id: str) -> bytes:
     buf.seek(0)
     return buf.read()
 
-def extract_text(pdf_bytes: bytes) -> str:
+def extract_text(pdf_bytes):
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         pages = []
         for page in pdf.pages:
@@ -108,7 +121,8 @@ def extract_text(pdf_bytes: bytes) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--force",  action="store_true", help="Re-extract even if .txt already exists")
+    parser.add_argument("--force",  action="store_true",
+                        help="Re-extract all docs regardless of cache state")
     parser.add_argument("--doc-id", help="Extract a single doc by ID (e.g. CP-001)")
     args = parser.parse_args()
 
@@ -119,19 +133,25 @@ def main():
 
     docs = list(iter_docs())
     if args.doc_id:
-        docs = [(d, u) for d, u in docs if d == args.doc_id]
+        docs = [(d, u, e) for d, u, e in docs if d == args.doc_id]
         if not docs:
             print(f"ERROR: {args.doc_id} not found or has no published_pdf")
             sys.exit(1)
 
-    ok = skipped = stale = errors = 0
+    ok = skipped = updated = stale = errors = 0
 
-    for doc_id, url in docs:
+    for doc_id, url, effective_date in docs:
         out_path = CACHE_DIR / f"{doc_id}.txt"
 
-        if out_path.exists() and not args.force:
-            skipped += 1
-            continue
+        if not args.force and out_path.exists():
+            cache_mtime  = out_path.stat().st_mtime
+            eff_ts       = effective_date_as_utc(effective_date)
+            if eff_ts <= cache_mtime:
+                skipped += 1
+                continue
+            # effective_date is newer than cache — re-extract
+            print(f"  UPDATE {doc_id}: effective_date {effective_date} is newer than cache")
+            updated += 1
 
         file_id = extract_file_id(url)
         if not file_id:
@@ -166,7 +186,8 @@ def main():
             print(f"  ERR   {doc_id}: {e}")
             errors += 1
 
-    print(f"\nDone: {ok} extracted, {skipped} skipped (already cached), {stale} stale links, {errors} errors")
+    print(f"\nDone: {ok} newly extracted, {updated} updated (effective_date changed), "
+          f"{skipped} skipped (up to date), {stale} stale links, {errors} errors")
     print(f"Next: python scripts/generate_search_index.py")
 
 
