@@ -171,7 +171,7 @@ function renderTable(docs) {
       <td><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></td>
       <td>${esc(d.version)}</td>
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
-      <td>${reviewPill(d.review_status)}${extensionPill(d.extension_status)}</td>
+      <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
     </tr>
     <tr class="detail-row" id="detail-${esc(d.doc_id)}" style="display:none;">
       <td colspan="10">
@@ -241,12 +241,13 @@ function domainLabel(d) {
   return (d || '').replace(/-/g, ' ');
 }
 
-function reviewPill(status) {
+function reviewPill(status, docStatus) {
+  const isIntake = docStatus === 'draft' || docStatus === 'in-review';
   const map = {
-    ok:       ['pill-ok',       'OK'],
-    'due-soon':['pill-due-soon','Due soon'],
-    overdue:  ['pill-overdue',  'Overdue'],
-    unknown:  ['pill-unknown',  'Unknown'],
+    ok:         ['pill-ok',              'OK'],
+    'due-soon': isIntake ? ['pill-due-soon-intake', 'Due soon (Intake)'] : ['pill-due-soon', 'Due soon'],
+    overdue:    isIntake ? ['pill-overdue-intake',  'Overdue (Intake)']  : ['pill-overdue',  'Overdue'],
+    unknown:    ['pill-unknown',         'Unknown'],
   };
   const [cls, label] = map[status] ?? map.unknown;
   return `<span class="review-pill ${cls}">${label}</span>`;
