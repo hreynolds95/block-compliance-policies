@@ -169,15 +169,15 @@ function renderTable(docs) {
       <td><span class="badge badge-tier${d.tier}">Tier ${esc(d.tier)}</span></td>
       <td><span class="badge badge-${d.status}">${esc(d.status)}</span></td>
       <td><span class="doc-owner">${esc(d.owner)}</span></td>
-      <td><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></td>
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
       <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
       <td>${esc(d.version)}</td>
     </tr>
     <tr class="detail-row" id="detail-${esc(d.doc_id)}" style="display:none;">
-      <td colspan="10">
+      <td colspan="9">
         <div class="detail-panel">
           <div class="detail-grid">
+            <div class="detail-item"><span class="detail-label">Approval</span><span class="detail-value"><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></span></div>
             <div class="detail-item"><span class="detail-label">Business</span><span class="detail-value">${esc(d.business ?? '—')}</span></div>
             <div class="detail-item"><span class="detail-label">Legal Entity</span><span class="detail-value">${esc(d.legal_entity ?? '—')}</span></div>
             <div class="detail-item"><span class="detail-label">Effective Date</span><span class="detail-value">${esc(d.effective_date ?? '—')}</span></div>

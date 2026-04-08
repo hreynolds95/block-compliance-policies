@@ -301,16 +301,15 @@ select.filter-select--active {
 .doc-table th.sorted .sort-arrow { opacity: 1; color: var(--info); }
 
 /* Column widths — Title takes all remaining space */
-.doc-table th:nth-child(1)  { width: 72px;  }   /* ID */
-.doc-table th:nth-child(2)  { width: auto;  }   /* Title — flexible */
-.doc-table th:nth-child(3)  { width: 108px; }   /* Domain */
-.doc-table th:nth-child(4)  { width: 54px;  }   /* Tier */
-.doc-table th:nth-child(5)  { width: 78px;  }   /* Status */
-.doc-table th:nth-child(6)  { width: 116px; }   /* Owner */
-.doc-table th:nth-child(7)  { width: 76px;  }   /* Approval */
-.doc-table th:nth-child(8)  { width: 92px;  }   /* Next Review */
-.doc-table th:nth-child(9)  { width: 116px; }   /* Review State */
-.doc-table th:nth-child(10) { width: 44px;  }   /* Ver */
+.doc-table th:nth-child(1) { width: 72px;  }   /* ID */
+.doc-table th:nth-child(2) { width: auto;  }   /* Title — flexible */
+.doc-table th:nth-child(3) { width: 108px; }   /* Domain */
+.doc-table th:nth-child(4) { width: 54px;  }   /* Tier */
+.doc-table th:nth-child(5) { width: 78px;  }   /* Status */
+.doc-table th:nth-child(6) { width: 116px; }   /* Owner */
+.doc-table th:nth-child(7) { width: 92px;  }   /* Next Review */
+.doc-table th:nth-child(8) { width: 116px; }   /* Review State */
+.doc-table th:nth-child(9) { width: 44px;  }   /* Ver */
 
 .doc-table td {
   padding: 7px 8px;
