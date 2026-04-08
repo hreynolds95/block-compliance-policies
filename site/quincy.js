@@ -133,26 +133,29 @@
    * Score each doc in the search index against the query.
    * Returns up to topN docs sorted by relevance with a short excerpt.
    */
-  function retrieveRelevantDocs(query, topN = 4) {
-    if (indexState !== 'ready' || !searchIndex) return [];
+  /**
+   * Returns { top: [{docId, excerpt}], additional: [docId, ...] }
+   * top: up to 8 highest-scoring docs with a 1500-char excerpt each
+   * additional: all further matching doc IDs (no excerpt) so Claude knows they exist
+   */
+  function retrieveRelevantDocs(query) {
+    if (indexState !== 'ready' || !searchIndex) return { top: [], additional: [] };
 
     const terms = query.toLowerCase()
       .replace(/[^\w\s]/g, ' ')
       .split(/\s+/)
       .filter(t => t.length > 2);
-    if (!terms.length) return [];
+    if (!terms.length) return { top: [], additional: [] };
 
     const scored = [];
     for (const [docId, content] of searchIndex) {
       const lower = content.toLowerCase();
       let score = 0;
       for (const term of terms) {
-        // Count occurrences (capped at 5 per term to avoid one-word docs dominating)
         let pos = 0, count = 0;
         while ((pos = lower.indexOf(term, pos)) !== -1 && count < 5) { score++; count++; pos++; }
       }
       if (score > 0) {
-        // Find the best excerpt: a 1500-char window around the first term hit
         const firstHit = lower.indexOf(terms[0]);
         const start    = Math.max(0, firstHit - 200);
         const excerpt  = content.slice(start, start + 1500).trim();
@@ -160,7 +163,10 @@
       }
     }
 
-    return scored.sort((a, b) => b.score - a.score).slice(0, topN);
+    scored.sort((a, b) => b.score - a.score);
+    const top        = scored.slice(0, 8);
+    const additional = scored.slice(8).map(d => d.docId);
+    return { top, additional };
   }
 
   function closePopup() {
@@ -182,14 +188,15 @@
 
     appendMessage('user', text);
 
-    // Augment with retrieved policy content if available
-    const hits = retrieveRelevantDocs(text);
+    // Augment with retrieved policy content
+    const { top, additional } = retrieveRelevantDocs(text);
     let userContent = text;
-    if (hits.length > 0) {
-      const context = hits.map(h =>
-        `[${h.docId} excerpt]\n${h.excerpt}`
-      ).join('\n\n');
-      userContent = `${text}\n\n---\nRelevant policy content retrieved from the library:\n${context}`;
+    if (top.length > 0) {
+      const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
+      const extra    = additional.length
+        ? `\nAdditional policies also matched (full text not shown, use metadata from your system prompt to describe them): ${additional.join(', ')}`
+        : '';
+      userContent = `${text}\n\n---\nPolicy content (top ${top.length} matches by relevance):\n${excerpts}${extra}`;
     }
 
     chatHistory.push({ role: 'user', content: userContent });
@@ -395,10 +402,11 @@ RESPONSE GUIDELINES:
 - review_status "overdue" = past next_review_date; "due-soon" = within 30 days; "ok" = on track
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
-- You have full knowledge of all 156 published policies through a retrieval system that searches the complete text of every policy for each question — answer as if you have read all of them
-- Never use framing like "based on the retrieved content", "based on the policy excerpts", "from what I can see", or similar — just answer directly and confidently
-- If a specific detail (e.g. a precise SLA number or threshold) is genuinely not present in any policy, say it is not specified in the policy library — not that it wasn't retrieved
-- If no policy content is relevant to the question, answer from metadata only
+- For each question, all 156 published policies are searched by keyword. The top 8 matches by relevance have their full text excerpts appended to the user's message; any further matches are listed by doc ID only
+- For the top 8, answer from the excerpts directly and confidently — do not hedge or say text was "partially retrieved"
+- For any additionally listed doc IDs, describe them using the metadata you have in your system prompt (title, owner, tier, status, domain)
+- If a specific detail is genuinely absent from all retrieved content, say it is not specified in the policy library
+- Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
 - When listing multiple documents, use a bulleted list`;
   }
