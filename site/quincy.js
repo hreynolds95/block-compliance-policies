@@ -152,10 +152,10 @@
         while ((pos = lower.indexOf(term, pos)) !== -1 && count < 5) { score++; count++; pos++; }
       }
       if (score > 0) {
-        // Find the best excerpt: a 600-char window around the first term hit
+        // Find the best excerpt: a 1500-char window around the first term hit
         const firstHit = lower.indexOf(terms[0]);
-        const start    = Math.max(0, firstHit - 100);
-        const excerpt  = content.slice(start, start + 600).trim();
+        const start    = Math.max(0, firstHit - 200);
+        const excerpt  = content.slice(start, start + 1500).trim();
         scored.push({ docId, score, excerpt });
       }
     }
@@ -395,9 +395,10 @@ RESPONSE GUIDELINES:
 - review_status "overdue" = past next_review_date; "due-soon" = within 30 days; "ok" = on track
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
-- When the user's question matches policy content, relevant excerpts from the actual PDF text will be appended to their message — use that content to answer specifically and accurately
-- If no excerpts are provided for a question, answer from metadata only and say the full policy text was not retrieved for that query
-- Do not say you lack access to PDF content — you have extracted text from 156 published policies available via retrieval
+- When the user's question matches policy content, relevant excerpts (~1500 chars each, up to 4 docs) from the actual PDF text will be appended to their message — use that content to answer specifically and accurately
+- The excerpts are the most relevant section of each policy for the query, not a truncated version of the full document — do not caveat that text was "partially retrieved"; if the excerpt covers the topic, answer from it confidently
+- If excerpts are provided but don't cover a specific detail (e.g. a precise SLA or threshold number), say that detail is not in the retrieved section and suggest consulting the full policy — do not say you lack PDF access generally
+- If no excerpts are provided for a question, answer from metadata only
 - Keep answers professional, accurate, and concise
 - When listing multiple documents, use a bulleted list`;
   }
