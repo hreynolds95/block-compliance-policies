@@ -1,0 +1,6 @@
+name             = "quincy-proxy"
+main             = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Deploy: npx wrangler deploy
+# Set secret: npx wrangler secret put ANTHROPIC_API_KEY

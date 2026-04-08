@@ -36,6 +36,7 @@ async function init() {
   if (docsRes.status === 'fulfilled' && docsRes.value.ok) {
     const data = await docsRes.value.json();
     allDocs = data.documents || [];
+    if (window.quincyInit) window.quincyInit(allDocs);
     const active = allDocs.filter(d => d.status === 'published').length;
     const intake = allDocs.filter(d => d.status !== 'published').length;
     const badge = document.getElementById('dataSourceBadge');
