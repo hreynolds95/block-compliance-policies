@@ -90,6 +90,7 @@ def main():
                 "extension_status": meta.get("extension_status"),
                 "extended_due_date": serialize(meta.get("extended_due_date")),
                 "extension_reason": meta.get("extension_reason"),
+                "published_pdf": meta.get("published_pdf"),
                 "file": path,
             })
 
