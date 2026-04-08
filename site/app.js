@@ -68,7 +68,7 @@ async function init() {
 function renderKPIs(docs) {
   document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
   document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
-  document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue').length;
+  document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue' || d.review_status === 'pending-review').length;
   document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
   document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
 }
@@ -124,7 +124,7 @@ function filteredDocs() {
     .filter(d => {
       if (d.status === 'retired' && status !== 'retired') return false;
       if (q) {
-        const metaMatch = `${d.doc_id} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q);
+        const metaMatch = `${d.doc_id} ${d.pwf_record_id ?? ''} ${d.title} ${d.owner} ${d.domain}`.toLowerCase().includes(q);
         const contentMatch = searchIndex?.get(d.doc_id)?.toLowerCase().includes(q) ?? false;
         if (!metaMatch && !contentMatch) return false;
       }
@@ -134,7 +134,8 @@ function filteredDocs() {
       if (business && d.business !== business) return false;
       if (entity && d.legal_entity !== entity) return false;
       if (tier && String(d.tier) !== tier) return false;
-      if (review && d.review_status !== review) return false;
+      if (review === 'overdue' && d.review_status !== 'overdue' && d.review_status !== 'pending-review') return false;
+      else if (review && review !== 'overdue' && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
       return true;
@@ -163,7 +164,7 @@ function renderTable(docs) {
 
   tbody.innerHTML = visible.map(d => `
     <tr class="doc-row" data-doc-id="${esc(d.doc_id)}" style="cursor:pointer;">
-      <td><span class="doc-id">${esc(d.doc_id)}</span></td>
+      <td>${d.published_pdf ? `<a class="doc-id doc-id--link" href="${esc(d.published_pdf)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(d.doc_id)}</a>` : `<span class="doc-id">${esc(d.doc_id)}</span>`}</td>
       <td><span class="doc-title">${esc(d.title)}</span></td>
       <td><span class="domain-label">${esc(domainLabel(d.domain))}</span></td>
       <td><span class="badge badge-tier${d.tier}">Tier ${esc(d.tier)}</span></td>
@@ -179,6 +180,7 @@ function renderTable(docs) {
           <div class="detail-title">${esc(d.title)}</div>
           <div class="detail-grid">
             <div class="detail-item"><span class="detail-label">Approval</span><span class="detail-value"><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></span></div>
+            ${d.pwf_record_id ? `<div class="detail-item"><span class="detail-label">LogicGate ID</span><span class="detail-value detail-value--mono">${esc(d.pwf_record_id)}</span></div>` : ''}
             <div class="detail-item"><span class="detail-label">Business</span><span class="detail-value">${esc(d.business ?? '—')}</span></div>
             <div class="detail-item"><span class="detail-label">Legal Entity</span><span class="detail-value">${esc(d.legal_entity ?? '—')}</span></div>
             <div class="detail-item"><span class="detail-label">Effective Date</span><span class="detail-value">${esc(d.effective_date ?? '—')}</span></div>
@@ -246,10 +248,11 @@ function domainLabel(d) {
 function reviewPill(status, docStatus) {
   const isIntake = docStatus === 'draft' || docStatus === 'in-review';
   const map = {
-    ok:         ['pill-ok',              'OK'],
-    'due-soon': isIntake ? ['pill-due-soon-intake', 'Due soon (Intake)'] : ['pill-due-soon', 'Due soon'],
-    overdue:    isIntake ? ['pill-overdue-intake',  'Overdue (Intake)']  : ['pill-overdue',  'Overdue'],
-    unknown:    ['pill-unknown',         'Unknown'],
+    ok:               ['pill-ok',                  'OK'],
+    'due-soon':       isIntake ? ['pill-due-soon-intake',      'Due soon (Intake)']      : ['pill-due-soon',      'Due soon'],
+    'pending-review': isIntake ? ['pill-pending-review-intake','Pending Review (Intake)'] : ['pill-pending-review','Pending Review'],
+    overdue:          isIntake ? ['pill-overdue-intake',       'Overdue (Intake)']       : ['pill-overdue',       'Overdue'],
+    unknown:          ['pill-unknown',             'Unknown'],
   };
   const [cls, label] = map[status] ?? map.unknown;
   return `<span class="review-pill ${cls}">${label}</span>`;

@@ -1,5 +1,6 @@
 ---
 doc_id: POL-XXX
+pwf_record_id: ""
 title: ""
 version: 1.0.0
 status: draft

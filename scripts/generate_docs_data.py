@@ -61,11 +61,14 @@ def main():
                     next_review = date.fromisoformat(next_review)
                 except ValueError:
                     next_review = None
+            has_extension = bool(meta.get("extension_status"))
             if isinstance(next_review, date):
                 delta = (next_review - today).days
-                if delta < 0:
+                if delta < -30 and not has_extension:
                     review_status = "overdue"
-                elif delta <= 30:
+                elif delta < 0:
+                    review_status = "pending-review"
+                elif delta <= 90:
                     review_status = "due-soon"
                 else:
                     review_status = "ok"
@@ -74,6 +77,7 @@ def main():
 
             docs.append({
                 "doc_id": meta.get("doc_id", ""),
+                "pwf_record_id": meta.get("pwf_record_id", ""),
                 "title": meta.get("title", ""),
                 "version": str(meta.get("version", "")),
                 "status": meta.get("status", ""),
