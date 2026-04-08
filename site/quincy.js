@@ -204,8 +204,14 @@
     const bubble = botEl.querySelector('.q-bubble');
     bubble.innerHTML = '<span class="q-cursor"></span>';
 
+    // Add download button immediately — it will capture whatever is generated
+    // even if the response is later truncated
+    addDownloadButton(botEl, text, () => fullText, retrievedForDownload);
+
     isStreaming = true;
     document.getElementById('qSend').disabled = true;
+
+    let fullText = '';  // declared here so the download button closure can read it
 
     try {
       const res = await fetch(PROXY_URL, {
@@ -213,7 +219,7 @@
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({
           model:      MODEL,
-          max_tokens: 4096,
+          max_tokens: 16384,
           system: [{
             type:          'text',
             text:          systemPrompt,
@@ -229,10 +235,10 @@
         throw new Error(err.error?.message || `API error ${res.status}`);
       }
 
-      let fullText = '';
       const reader  = res.body.getReader();
       const decoder = new TextDecoder();
       let   buffer  = '';
+      let   truncated = false;
       const messagesEl = document.getElementById('qMessages');
 
       while (true) {
@@ -252,13 +258,18 @@
               bubble.innerHTML = md(fullText) + '<span class="q-cursor"></span>';
               messagesEl.scrollTop = messagesEl.scrollHeight;
             }
+            if (evt.type === 'message_delta' && evt.delta?.stop_reason === 'max_tokens') {
+              truncated = true;
+            }
           } catch (_) {}
         }
       }
 
       bubble.innerHTML = md(fullText);
+      if (truncated) {
+        bubble.innerHTML += `<p class="q-truncated">Response reached the length limit — the download below contains everything generated.</p>`;
+      }
       chatHistory.push({ role: 'assistant', content: fullText });
-      addDownloadButton(botEl, text, fullText, retrievedForDownload);
       document.getElementById('qMessages').scrollTop = 999999;
 
     } catch (err) {
@@ -339,12 +350,15 @@
 
   // ── Download response ─────────────────────────────────────────────────────────
 
-  function addDownloadButton(msgEl, question, responseText, retrieved) {
+  function addDownloadButton(msgEl, question, responseTextOrFn, retrieved) {
     const btn = document.createElement('button');
     btn.className = 'q-download-btn';
     btn.title = 'Download response as Markdown';
     btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg> Download .md`;
-    btn.addEventListener('click', () => downloadResponse(question, responseText, retrieved));
+    btn.addEventListener('click', () => {
+      const text = typeof responseTextOrFn === 'function' ? responseTextOrFn() : responseTextOrFn;
+      downloadResponse(question, text, retrieved);
+    });
     msgEl.appendChild(btn);
   }
 

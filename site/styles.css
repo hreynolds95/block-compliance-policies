@@ -616,6 +616,7 @@ details[open] > .panel-header--collapsible::before {
 .q-md-h                 { font-weight: 600; color: var(--accent) !important; margin-top: 4px; }
 .q-spacer               { height: 4px; }
 .q-error                { color: var(--danger); }
+.q-truncated            { color: var(--warning); font-size: 0.76rem; margin-top: 8px; }
 
 /* Typing cursor */
 .q-cursor {
