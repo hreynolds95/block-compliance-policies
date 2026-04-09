@@ -1,0 +1,44 @@
+[
+  {
+    "proc_id": "PROC-001",
+    "title": "Annual Review Procedure",
+    "google_doc_id": "1V8Fe5pp9tH5qkQa6eT1vCAV7GM-2Wadw3xUrJbFHW7g",
+    "description": "Step-by-step procedure for conducting the annual policy review cycle in LogicGate, including owner responsibilities, timelines, and approval routing."
+  },
+  {
+    "proc_id": "PROC-002",
+    "title": "Compliance Document Management Procedure",
+    "google_doc_id": "1kc80qPbyODHM66a0Y0vFk2AFMyRKDaFwkoponzjUdSg",
+    "description": "How to create, version, and manage compliance documents within LogicGate, including document lifecycle stages and required metadata."
+  },
+  {
+    "proc_id": "PROC-003",
+    "title": "Compliance Policy Governance Approval Processes Procedure",
+    "google_doc_id": "11BDzw5sjyr7ew3xU0wSCB9Pt4Tw0YZoT4JqQj4Uwe80",
+    "description": "Governance approval workflows in LogicGate — how policies move through board, committee, and owner approval stages."
+  },
+  {
+    "proc_id": "PROC-004",
+    "title": "Compliance Policy Exception Management Procedure",
+    "google_doc_id": "1GWFs3D1NSzxDQ7JlaprvTwaeUOX1JhwY-a2einNhIdU",
+    "description": "How to submit, track, and resolve policy exceptions and due date extensions in LogicGate."
+  },
+  {
+    "proc_id": "DTP-001",
+    "title": "Desktop Procedure 1",
+    "google_doc_id": "159qOWnArefLgx4HfRM8NpGrE9McbQ5lEKMor0UxJFv4",
+    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+  },
+  {
+    "proc_id": "DTP-002",
+    "title": "Desktop Procedure 2",
+    "google_doc_id": "152MoiVoVnZQYisWAJueNJbiHMcb083kkd4yZNInpz-U",
+    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+  },
+  {
+    "proc_id": "DTP-003",
+    "title": "Desktop Procedure 3",
+    "google_doc_id": "1PCriioyBJuvLINeCQD5M1ieYDwlZbABwYpblg-w8iBk",
+    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+  }
+]

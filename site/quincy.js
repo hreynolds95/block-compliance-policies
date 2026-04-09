@@ -14,6 +14,8 @@
   let isStreaming   = false;
   let searchIndex   = null;   // Map<doc_id, text> — loaded once on first open
   let indexState    = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
+  let processIndex  = null;   // Map<proc_id, {title, description, text}> — process procedures
+  let procState     = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let docMeta       = new Map(); // doc_id → { title, published_pdf } for download formatting
 
   // ── Bootstrap ─────────────────────────────────────────────────────────────────
@@ -112,6 +114,7 @@
     overlay.removeAttribute('aria-hidden');
     document.getElementById('qFab').classList.add('q-fab--open');
     ensureSearchIndex();
+    ensureProcessIndex();
     setTimeout(() => document.getElementById('qInput').focus(), 100);
   }
 
@@ -124,7 +127,6 @@
       .then(r => r.ok ? r.json() : Promise.reject('not ok'))
       .then(data => {
         searchIndex = new Map(Object.entries(data.documents || {}));
-        // Only keep docs that have actual content
         for (const [k, v] of searchIndex) {
           if (!v) searchIndex.delete(k);
         }
@@ -132,6 +134,21 @@
         console.log(`Quincy: search index loaded — ${searchIndex.size} docs with content`);
       })
       .catch(() => { indexState = 'failed'; });
+  }
+
+  function ensureProcessIndex() {
+    if (procState !== 'idle') return;
+    procState = 'loading';
+    fetch('./process-index.json')
+      .then(r => r.ok ? r.json() : Promise.reject('not ok'))
+      .then(data => {
+        processIndex = new Map(
+          Object.entries(data.documents || {}).filter(([, v]) => v.text)
+        );
+        procState = 'ready';
+        console.log(`Quincy: process index loaded — ${processIndex.size} procedures with content`);
+      })
+      .catch(() => { procState = 'failed'; });
   }
 
   /**
@@ -143,31 +160,43 @@
    * top: up to 8 highest-scoring docs with a 1500-char excerpt each
    * additional: all further matching doc IDs (no excerpt) so Claude knows they exist
    */
-  function retrieveRelevantDocs(query) {
-    if (indexState !== 'ready' || !searchIndex) return { top: [], additional: [] };
-
-    const terms = query.toLowerCase()
-      .replace(/[^\w\s]/g, ' ')
-      .split(/\s+/)
-      .filter(t => t.length > 2);
-    if (!terms.length) return { top: [], additional: [] };
-
+  function scoreIndex(indexMap, terms) {
     const scored = [];
-    for (const [docId, content] of searchIndex) {
-      const lower = content.toLowerCase();
+    for (const [id, entry] of indexMap) {
+      const text  = typeof entry === 'string' ? entry : entry.text || '';
+      const lower = text.toLowerCase();
       let score = 0;
       for (const term of terms) {
         let pos = 0, count = 0;
         while ((pos = lower.indexOf(term, pos)) !== -1 && count < 5) { score++; count++; pos++; }
       }
-      if (score > 0) scored.push({ docId, score, content });
+      if (score > 0) scored.push({ id, score, text });
     }
+    return scored.sort((a, b) => b.score - a.score);
+  }
 
-    scored.sort((a, b) => b.score - a.score);
-    // Top 4: send full indexed text (up to 10k chars each) for complete section coverage
-    const top        = scored.slice(0, 4).map(d => ({ docId: d.docId, excerpt: d.content }));
-    const additional = scored.slice(4).map(d => d.docId);
-    return { top, additional };
+  function retrieveRelevantDocs(query) {
+    const terms = query.toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .split(/\s+/)
+      .filter(t => t.length > 2);
+    if (!terms.length) return { top: [], additional: [], procedures: [] };
+
+    // Score policies
+    const policyScored = indexState === 'ready' && searchIndex
+      ? scoreIndex(searchIndex, terms) : [];
+    const top        = policyScored.slice(0, 4).map(d => ({ docId: d.id, excerpt: d.text }));
+    const additional = policyScored.slice(4).map(d => d.id);
+
+    // Score process procedures
+    const procScored = procState === 'ready' && processIndex
+      ? scoreIndex(processIndex, terms) : [];
+    const procedures = procScored.slice(0, 2).map(d => {
+      const meta = processIndex.get(d.id) || {};
+      return { procId: d.id, title: meta.title || d.id, excerpt: d.text };
+    });
+
+    return { top, additional, procedures };
   }
 
   function closePopup() {
@@ -212,14 +241,22 @@
     document.getElementById('qNewChat').style.display = '';
 
     // Augment with retrieved policy content — use blended query for context-aware scoring
-    const { top, additional } = retrieveRelevantDocs(buildRetrievalQuery(text));
+    const { top, additional, procedures } = retrieveRelevantDocs(buildRetrievalQuery(text));
     let userContent = text;
+    const sections = [];
     if (top.length > 0) {
       const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
       const extra    = additional.length
-        ? `\nAdditional policies also matched (full text not shown, use metadata from your system prompt to describe them): ${additional.join(', ')}`
+        ? `\nAdditional policies also matched (metadata only): ${additional.join(', ')}`
         : '';
-      userContent = `${text}\n\n---\nFull policy content for top ${top.length} matches (complete indexed text, not excerpts):\n${excerpts}${extra}`;
+      sections.push(`POLICY LIBRARY — top ${top.length} matches (full indexed text):\n${excerpts}${extra}`);
+    }
+    if (procedures.length > 0) {
+      const procText = procedures.map(p => `[${p.procId}] ${p.title}\n${p.excerpt}`).join('\n\n');
+      sections.push(`PROCESS PROCEDURES — top ${procedures.length} matches (full text):\n${procText}`);
+    }
+    if (sections.length > 0) {
+      userContent = `${text}\n\n---\n${sections.join('\n\n---\n')}`;
     }
 
     chatHistory.push({ role: 'user', content: userContent });
@@ -491,7 +528,7 @@
 
     return `You are Quincy, Block Inc.'s compliance policy assistant. Block is the parent company of Square, Cash App, Afterpay, TIDAL, and Spiral.
 
-You have full access to the Block Compliance Policy Library (${docs.length} documents).
+You have full access to the Block Compliance Policy Library (${docs.length} documents) and a set of process procedure documents that explain how to use LogicGate for the compliance policy lifecycle.
 
 POLICY LIBRARY DATA:
 ${context}
@@ -513,6 +550,8 @@ RESPONSE GUIDELINES:
 - review_status "overdue" = past next_review_date; "due-soon" = within 90 days; "ok" = on track; "pending-review" = T to T+30 grace period; "extension-coming-due" = extended deadline within 90 days
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
+- You have two content sources: (1) POLICY LIBRARY — the 169 compliance policies/standards; (2) PROCESS PROCEDURES — step-by-step guides for using LogicGate (annual review, document management, approval workflows, exception management). When a question is about how to do something in LogicGate, prioritize process procedure content. When a question is about what a policy says or requires, prioritize policy library content.
+- Process procedure IDs use PROC-NNN (procedures) and DTP-NNN (desktop procedures) prefixes
 - This is a multi-turn conversation. Use prior messages in the thread to understand follow-up questions and resolve pronouns or references (e.g. "those docs", "the ones you mentioned", "that policy")
 - For each message, the top 4 most relevant policies (by keyword match against your query + recent context) have their full indexed text appended; any further matches are listed by doc ID only
 - Answer from the appended policy text directly and confidently — do not hedge or say text was "partially retrieved"

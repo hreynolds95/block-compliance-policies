@@ -1,0 +1,250 @@
+﻿Compliance Policy Exception Management Procedure
+[Block, Inc.] 
+Last Approved: Jan 16, 2026
+Effective Date: Jan 16, 2026
+________________
+
+
+1. Overview 
+Introduction and Purpose: This Exception Management Procedure (the "Procedure") outlines Block's approach to receiving, evaluating, approving, and tracking Exceptions to compliance policies and Procedures through the SOR workflow system. 
+Scope:This Procedure applies to Block, Inc., its subsidiaries, and affiliates (collectively, “Block”), including all products.  
+Definitions: 
+Terminology 
+	Definition 
+	Document
+	A Policy, Standard or Procedure.
+	Exception
+	Any deviations from requirements or processes dictated in a given Document.
+	Policy
+	Policies are high level statements of management intent that formally
+establish requirements to drive compliance and outline the goals, principles,
+or directives of the Chief Compliance Officer (“CCO”). Policies focus on
+communicating binding compliance requirements and do not dictate
+detailed steps. Policies are the overall guidelines for the organization.
+	Procedure
+	Procedures change frequently and describe steps that implement a Policy or
+process to comply with a regulation or Standard. Procedures focus on a
+process and desired outcome between multiple teams. Procedures exist to
+Standardize a process and provide guidance on timing and output.
+	Standard
+	Standards assist in decision-making and outline further business,
+technology, risk or other processes, and controls outlined in overarching
+policies. Standards may lay out the operational strategy and functions that
+are performed to implement a Policy’s requirements. Standards may also
+establish lifecycle stages, responsibilities, and any additional product,
+business or market-specific requirements that go beyond what’s required in
+an overarching Policy.
+	System of Record  (SOR)
+	System of Record (SOR) is the designated system used to manage the approval workflows, governance controls, lifecycle management, and authorized access for approved compliance Documents.
+	________________
+
+
+
+
+2. Procedure Requirements
+2.1. Request Submission
+Exception requests may be initiated by any employee who requires temporary relief from an established Policy, Standard, or Procedure. Exceptions may apply to policies, underlying Standards, and Procedures, and a single request may reference multiple Documents. Requests must be submitted through the System of Record (SOR), where the requestor provides all required information, identifies the Exception Owner[a], specifies the requested validity period, and attaches or links any supporting materials. Exception validity periods may not exceed six months and must be defined at the time of submission. Optional stakeholder reviewers may be included when needed.
+
+
+The Exception Owner is determined based on the highest tier of the Document included in the Exception request. [placeholder][b]
+
+
+Once submitted, the request is routed to the Central Team for governance review. Multiple Exception requests may exist for the same Document, and more than one may remain active at the same time.
+2.2. Review and Approvals
+The Central Team conducts the initial review to verify completeness and determine whether the request meets the criteria for Exception consideration. After validation, the request proceeds sequentially through designated stakeholder reviewers. A rejection at any point terminates the workflow, and a new request must be submitted if reconsideration is desired.
+
+
+After stakeholder review, the request advances to the Exception Owner. The Exception Owner is responsible for reviewing the business justification for the Exception, and evaluating the impact assessment and mitigation plans provided by the requestor. The Exception Owner must determine whether the proposed mitigation and eventual closure plans are sufficient to manage the associated risks. Approval should only be granted when the Exception Owner believes these measures adequately address the identified impacts. The Exception Owner may also adjust the validity period if warranted and then renders a decision.
+2.3. Exception Validity and Renewal
+Exceptions remain active for the validity period defined in the approved request. The SOR issues automated reminders 30 days prior to expiration to ensure timely action. The requestor must either renew or close the Exception before it expires.
+
+
+Renewals require submission of a new request and are subject to the same review and approval process to validate ongoing justification and governance oversight. Exceptions that are not renewed before expiration lapse automatically.
+3.4. Recordkeeping, Retention, and Reporting
+All Exception records are stored in the SOR, which serves as the authoritative repository for Exception Documentation and maintains a complete audit trail of all actions and decisions. The SOR provides visibility into active and historical Exceptions for monitoring, governance oversight, audits, and examinations. 
+
+
+Access to Exception information is restricted to the Compliance team and authorized stakeholders. Exception records are retained in accordance with all applicable regulatory and internal retention requirements.
+
+
+
+
+
+
+Exception Management Process
+6.3 Exception Handling
+A Document may allow for Exceptions. Owners and/or Delegates have authority to approve
+Exceptions and/or exemptions to Documents, provided that the proposed Exception or exemption
+does not violate applicable laws and regulations. Document Exception requests must be
+Documented in writing, include a reason for a request, and provide a description of the controls that the Company will implement to mitigate risks associated with the Exception. Any approved
+Exceptions must be Documented in writing and retained with recordkeeping requirements. Any
+approved Exceptions or exemptions should be submitted to the Policy Team. The Owner and/or
+designee will inform Compliance Leadership and applicable committees, as needed, of Exceptions.
+The Owner and/or designee will inform Compliance Leadership and applicable committees, as
+needed of Exceptions. If an Exception requires renewal, approval of an extension is required.[c]
+
+
+
+
+1. Exception Request Submission**
+*    • Exception requests submitted through LogicGate Exception workflow
+*    • Request form captures: Policy/Procedure being excepted, specific requirement being excepted, business justification, duration of Exception, and compensating controls
+*    • Requestor must be business owner or authorized representative
+*    • Supporting Documentation required: business case, risk assessment, and proposed mitigation measures[d]
+*    • System automatically assigns Exception request ID and notifies Compliance team
+
+
+2. Exception Evaluation**[e]
+*    • Compliance team conducts initial completeness review within 3 business days
+*    • Risk assessment performed to evaluate potential compliance and business risks
+*    • Evaluation of proposed compensating controls for adequacy
+*    • Consultation with Policy owner, Legal, Risk, and other stakeholders as needed
+*    • Determination if Exception violates laws or regulations (automatic denial if yes)
+*    • Assessment of precedent and impact on overall compliance program
+
+
+* 3. Approval Workflow**
+*    • Approval authority determined by risk level [f]and Policy tier
+*    • Low risk Exceptions: Policy Owner approval
+*    • Medium risk Exceptions: Chief Compliance Officer approval
+*    • High risk Exceptions: CPC or Board approval
+*    • All Exceptions require Legal and Risk concurrence
+*    • Approval decision Documented with conditions, compensating controls, and expiration date
+*    • Denied Exceptions include rationale and alternative solutions if available
+
+
+4. Documentation Requirements**
+*    • All Exception requests and decisions Documented in LogicGate
+*    • Approved Exceptions include: approval date, approver, conditions, compensating controls, and expiration date
+*    • Exceptions linked to related Policy/StandardProcedure in system
+*    • Supporting documentation attached to exception record
+*    • Approval evidence retained per record retention Policy
+*    • Exception register maintained with all active and historical Exceptions
+
+
+5. Storage of Exception Records**
+*    • All Exception records stored centrally in LogicGate system
+*    • Access restricted to Compliance team and authorized stakeholders
+*    • Exception records retained for minimum of 7 years or per regulatory requirement
+*    • Audit trail maintained for all Exception activities
+*    • Regular backups of Exception data performed
+
+
+6. Tracking and Reporting of Exceptions**
+*    • Active Exceptions tracked in real-time dashboard
+*    • Automated notifications sent 30 days before Exception expiration
+*    • Exception requestor must renew or close Exception before expiration
+*    • Monthly Exception metrics reported to Compliance leadership
+*    • Quarterly Exception report to CPC including: new Exceptions, expired Exceptions, risk trends, and compensating control effectiveness
+*    • Annual Exception analysis to identify Policy improvement opportunities
+*    • Patterns of repeated Exceptions escalated for Policy review or process change
+________________
+
+
+3. Compliance & Enforcement  
+   1. Roles and Responsibilities: 
+Block, Inc. Roles: 
+* Requestor:
+   * The employee who initiates the exception request in the Syste
+* Document Owner:
+   * The Owner is an individual responsible for ensuring that a Document makes its way through the entire Document lifecycle. Responsibilities include:
+      * Identifying the need for potential new Documents and ideating;
+      * Creating initial version of Documents;
+      * Identifying reviewers and approvers;
+      * Planning and conducting awareness campaigns;
+      * Conducting scheduled reviews;
+      * Understanding the Company’s current state of Compliance with a
+      * Document;
+      * Ensuring forward-looking requirements are accounted for in roadmap
+      * planning and can be operationalized within a reasonable timeframe;
+      * Developing and tracking the execution of the implementation plan; and
+      * Completing attestations to the Document’s content prior to publication.  
+* Compliance Policy and Mandatory Training Team (“Policy Team”):
+   * The Policy Team is responsible for establishing, managing, and maintaining the Policy Governance Standards and Compliance Document inventory. Responsibilities include:.  
+      * Providing guidance and consultation in Document creation;
+      * Facilitating review and approval in conjunction with the Owner;
+      * Publishing and storage;
+      * Coordinating scheduled reviews in conjunction with the Owner;
+      * Intake of approved Exception requests;
+      * Reporting the status of the Policy program to Compliance Leadership;
+      * Retaining archived Documents and approvals;
+      * Completing a quality control review for all Documents; and
+      * Supports the Policy communication framework.
+   *    2. Monitoring and Reporting
+On an ongoing basis, the Procedure Owner and/or their designee monitors activities for compliance and objective achievement.  As outlined in the Compliance Management System Policy, Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive management. Reporting may cover specific information related to: 
+* Policies and Standards 
+* Procedures
+* Audit/exam findings
+* Issues management 
+* Training 
+* Complaints
+   1. Training
+[Optional Section]: All relevant personnel will receive training at least annually covering applicable requirements and guidance to implement this Procedures effectively. All training related activities are monitored by the [Team Name].
+   2. Record Retention
+All Documents are retained according to the longer of: 
+* Block’s Data Classification & Handling Policy
+* Applicable regulatory requirements 
+   1. Exceptions
+[Optional Section / Sample Text]: The Procedure Owner or designee will have authority to approve Exceptions and/or exemptions to this Procedure, provided that the proposed Exception or exemption does not violate applicable laws and regulations. Exception requests must be Documented in writing, include a reason for a request, and provide a description of the controls that the Company will implement to mitigate risks associated with the Exception.  The Procedure Owner is responsible for retaining evidence of Exception requests and related approvals.  
+   2. Confidentiality
+[Optional Section] This Document is confidential and should only be accessed by employees.  
+________________
+
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Procedure, please contact the Procedure Owner. 
+Review related Documents:
+* Document Name 
+* Document Name 
+* Document Name 
+________________
+
+
+5. Document Details & Revisions        
+Review and Approval: This Document shall be reviewed and approved at least triennially and on an ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver
+	Title
+	Type
+	Description
+	Date
+	[Type @ followed by the person’s name]
+	
+
+	Select
+	
+
+	[Month date, YYYY]
+	[Type @ followed by the person’s name]
+	
+
+	Select
+	
+
+	[Month date, YYYY]
+	
+
+Document Details: 
+Business
+	Block
+	Scope
+	[Global/Regional and/or Entity/Region]
+	Compliance Domain
+	Compliance Governance
+	Document Owner
+	Munnu Tomy Kallany
+	Approved By
+	Stevi Winer
+	
+
+
+
+
+
+[a]LG question - Should this information be entered by CT in the subsequent CT review step , given that requestor may not be aware of the exception owner criteria once defined?
+[b]discuss with @steviwiner@block.xyz
+_Assigned to steviwiner@block.xyz_
+[c]current POP language for reference
+[d]document not requested but can be added in the system
+[e]to be discussed with Stevi since this is process needs to be established
+[f]align on criteria for risk level determination

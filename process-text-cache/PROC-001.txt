@@ -1,0 +1,244 @@
+﻿Annual Review Process for Compliance Policies and Standards
+Block, Inc.
+Last Approved: Oct 30, 2025
+Effective Date: Oct 30, 2025
+________________
+1. Overview 
+Introduction and Purpose: The annual review process ensures Block’s policies and standards are reviewed at appropriate intervals to maintain accuracy and effectiveness. Through LogicGate, the Compliance Policy Team manages review dates and notifications, supporting document owners [a]in completing timely review of their documents. 
+This procedure establishes:
+* How review dates are set in LogicGat;
+* When notifications are sent to document owners;
+* Steps for completing the annual review; and 
+* Process for requesting timeline adjustments.
+The Compliance Policy Team coordinates review timing to align related documents where possible, particularly ensuring standards are reviewed in conjunction with their parent policies for efficiency and consistency.  
+Scope: This procedure applies to all Block Compliance Policies and Standards, including related subsidiary documentation. The process is managed by the Compliance Policy Team and must be followed by all document owners or delegates responsible for these materials. 
+Definitions: 
+Terminology [b]
+	Definition 
+	Policy
+	Policies are high level statements of management intent that formally establish requirements to drive compliance and outline the goals, principles, or directives of the Chief Compliance Officer ("CCO"). Policies focus on communicating binding compliance requirements and do not dictate detailed steps. Policies are the overall guidelines for the organization.
+	Standard
+	Standards assist in decision-making and outline further business, technology, risk or other processes, and controls outlined in overarching policies. Standards may lay out the operational strategy and functions that are performed to implement a Policy's requirements. Standards may also establish lifecycle stages, responsibilities, and any additional product, business or market-specific requirements that go beyond what's required in an overarching Policy.
+	Document Owner
+	The Owner is an individual responsible for ensuring that a Document makes its way through the entire Document lifecycle. Responsibilities include:
+* Identifying the need for potential new Documents and ideating
+* Creating initial version of Documents
+* Identifying reviewers and approvers
+* Planning and conducting awareness campaigns
+* Conducting scheduled reviews
+* Understanding the Company's current state of Compliance with a Document
+* Ensuring forward-looking requirements are accounted for in roadmap planning
+* Developing and tracking the execution of the implementation plan
+* Completing attestations to the Document's content prior to publication
+	Annual Review
+	The required process of examining and validating a document[c]'s content at least once every 12 months[d][e] to ensure continued accuracy, relevance, and effectiveness.
+	Review Date
+	The date by which a document must complete its annual review cycle, typically set as the anniversary of the last review unless adjusted to align with related documents or committee schedules.
+	Extension Request
+	A formal request to extend a document's review date beyond its scheduled timeline.  Extensions are limited to a maximum of 6 months, require C-Core + 1 approval, and must include business justification. Only one extension is permitted per review cycle.[f]
+	Material Changes
+	Substantive changes to a Document's requirements or guidance impacting the goals, principles, processes, or directives. Includes new requirements, more restrictive requirements, expansion of scope, or changes that materially impact business operations.
+	Immaterial Changes
+	Non-substantive changes to a Document's content that do not impact requirements or guidance. May include updating grammar, formatting, correcting naming conventions, or updating links.
+	LogicGate
+	Block's system of record for managing compliance policies, standards, and procedures, including the annual review process and related workflows.
+	________________
+
+
+2. Annual Review Procedure Requirements
+   1. Review Date Management
+The Compliance Policy Team manages all review dates within LogicGate and has primary responsibility for coordinating the annual review process. When setting review dates, the Policy Team will align related documents to ensure efficient review cycles, particularly striving to align standards alongside their parent policies whenever possible. 
+The Compliance Policy Team will: 
+* Set initial review dates based on the last approval date ;
+* Adjust dates to align with committee schedules; [g]
+* Coordinate related document reviews;
+* Monitor completion status; and 
+* Maintain accurate tracking. 
+2.2 Notification Process 
+LogicGate automatically generates notifications to Document Owners at three key points in the review cycle: 
+At 90 calendar days before the review due date, Document Owners receive their initial notification via email. Upon receipt, Document Owners or delegates should begin planning their review process, including identifying necessary stakeholders and scheduling review meetings. 
+At 60 calendar days before the due date, a second notification via email prompts Document Owners to ensure their review is actively in progress. By this point, Document Owners should be gathering stakeholder input and documenting any changes needed. 
+The final notification arrives via email 30 calendar days before the due date. This notification serves as both a completion reminder and the deadline for submitting any extension requests. [h]
+2.3 Document Review Requirements 
+Document Owners must complete their reviews in accordance with the lifecycle requirements established in the Block, Inc. Compliance Policy on Policies (“PoP”).  The full review and approval process, including stakeholder engagement, quality control and approval requirements are detailed in the PoP.  For the complete document review process, including creation, revision, approval, and publication requirements, Document Owners should refer to the PoP.   [i][j]
+2.4  Extension Process 
+Document Owners requiring additional time beyond the scheduled review date must submit a formal extension request through LogicGate. All extension requests must be submitted before the current review date and include a detailed business justification. [k]
+Extension approval authority is structured as follows: 
+* Extensions require C-Core+1 member approval[l]
+* No extension may extend past six months from the original scheduled due date 
+* Only one extension is permitted per annual review cycle
+Upon receiving an extension request, the Compliance Policy Team will review for completeness and route to the appropriate approver. Once approved, the Compliance Policy Team will update LogicGate with the new review dates and adjust the notification schedule accordingly.[m] The Compliance Policy Team will maintain documentation of all extension requests and approvals.  [n][o]Documents will be reported as extended on reporting status reports.
+2.5  Board and Committee Review Alignment  
+The Compliance Policy Team regularly reviews committee schedules and may adjust document review dates to align with the next available Board or Committee meeting. This ensures efficient review cycles and appropriate governance oversight. 
+When adjusting review dates for Committee or Board alignment, the Compliance Policy Team will: 
+* Identify the next available Committee or Board date, as applicable;
+* Update the document review date in LogicGate;
+* Notify Document Owners of the revised timeline;and
+* Adjust automated notifications accordingly. 
+Documents whose review dates are adjusted to align with the next available Committee or Board meeting will not be reported as overdue in compliance reporting. This exception applies only to documents actively scheduled for Committee or Board review and does not apply to other delays or extensions. 
+Document Owners should note that the Compliance Policy Team may adjust their document’s review date to either align with related documents (such as Standards with their parent policies) or to accommodate Committee or Board scheduling. These adjustments will be communicated to Document Owners and reflected in LogicGate notifications. [p]
+2.6  Documentation and Evidence
+All review activities must be documented within LogicGate to maintain a clear audit trail. The Compliance Policy Team maintains responsibility for ensuring proper documentation is retained, while Document Owners are responsible for providing evidence. [q]
+2.6.1 Current Documentation (2025 Forward)
+LogicGate serves as the system of record for all review activities starting in November 2025. Required documentation includes:
+* Review completion records;
+* Extension requests and approvals;
+* Date adjustment justification; and 
+* Committee alignment documentation. 
+2.6.2 Historical Documentation (Pre-November 2025) 
+For documentation of reviews conducted prior to November 2025, Document Owners should contact the Compliance Policy Team directly. The Compliance Policy Team maintains historical records and can provide evidence of past reviews, approvals, and related documentation upon request. 
+The Compliance Policy Team will maintain all available records according to retention requirements specified in the PoP. All documentation should remain accessible for audit purposes and regulatory examinations. [r]
+2.7  Reporting and Escalation 
+2.7.1 Status Reporting
+The Compliance Policy Team monitors review completion status and provides regulator [s]reporting through multiple channels: 
+* Monthly Reporting:
+   * Review status dashboard with Compliance Policy Governance leadership
+   * Overdue document reporting 
+   * Upcoming review schedule for next 90 calendar calendar days
+   * Extension tracking and status [t]
+* Quarterly Report to CPC: 
+   * Comprehensive review status[u]
+   * Overdue documents requiring attention 
+   * Extension trends and patterns
+   * Significant timeline adjustments [v]
+   * Committee schedule impacts 
+2.7.2 Overdue Documents: 
+Documents are considered overdue when: 
+* Review is not completed by the due date
+* No extension requests has been submitted 
+* Extension request was not approved 
+* Extension period has expired
+Note: Documents pending next available Committee or Board review are not reported as overdue, provided they are actively scheduled for Committee or Board review. 
+2.7.3 Escalation Process:
+For overdue documents, the Compliance Policy Team will: 
+* Send immediate notification to the owner via LogicGate 
+* Include in monthly reporting to Compliance Leadership
+* Report to CPC in quarterly updates [w]
+* Track remediation efforts 
+Document owners of overdue documents must: 
+* Provide a timely status update
+* Submit extension request if needed
+* Develop remediation timeline
+* Provide progress updates until resolved
+The Compliance Policy Team maintains oversight of overdue documents until review completion is confirmed in LogicGate. 
+________________
+
+
+3. Compliance & Enforcement  
+   1. Roles and Responsibilities: 
+Block, Inc. Roles: 
+* Compliance Policy Team 
+   * Manages LogicGate review dates and notifications
+   * Maintains documentation and reporting 
+   * Coordinates Committee and Board scheduling 
+   * Escalates overdue reviews
+   * Reports to Compliance Policy Committee and Compliance Leadership
+   * Provides historical documentation upon request 
+* Document Owners[x]
+   * Completes reviews by due dates
+   * Follows PoP document lifecycle process
+   * Submits extension requests when needed
+   * Prepares committee materials
+   * Maintains document accuracy 
+   * Confirms review completion in LogicGate
+* C-Core + 1 Members:
+   * Reviews/Approves extensions
+   * Supports overdue document escalation 
+* Compliance Leadership:
+   * Reviews Monthly status reporting
+   * Monitors overdue documents
+   * Ensures program effectiveness[y]
+* Compliance Policy Committee (“CPC”)
+   * Reviews quarterly status reports during meetings, as needed
+   * Provides governance oversight
+   * Addresses systemic issues 
+   2. Monitoring and Reporting
+On an ongoing basis, the Procedure Owner [z]and/or their designee monitors activities for compliance and objective achievement.  As outlined in the Block, Inc. Compliance Management System Policy, Compliance will provide regular updates, as applicable, to the Block, Inc. Board and executive management. Reporting may cover specific information related to: 
+* Policies and standards 
+* Procedures
+* Audit/exam findings
+* Issues management 
+* Training 
+* Complaints[aa]
+   1. Record Retention
+All Documents are retained according to the longer of: 
+* Block’s Data Classification & Handling Policy
+* Applicable regulatory requirements 
+   1. Exceptions
+The Procedure Owner or designee will have authority to approve exceptions and/or exemptions to this Procedure, provided that the proposed exception or exemption does not violate applicable laws and regulations. Exception requests must be documented in writing,[ab] include a reason for a request, and provide a description of the controls that the Company will implement to mitigate risks associated with the exception. The Procedure Owner is responsible for retaining evidence of exception requests and related approvals.   
+________________
+
+
+4. Questions & Contact Information
+Questions: For questions or clarifications about this Procedure, please contact the Procedure Owner. 
+Review related documents:
+* Compliance Policy on Policies 
+________________
+
+
+5. Document Details & Revisions        
+Review and Approval: This document shall be reviewed and approved at least triennially and on an ad hoc basis in accordance with the Compliance Document Approval Matrix.
+Approval History:
+Approver
+	Title
+	Type
+	Description
+	Date
+	Stevi Winer 
+	Compliance Policy & Mandatory Training Lead 
+	Initial Approval
+	Initial creation and approval of procedure
+	10/29/2025
+	
+
+Document Details: 
+Business
+	Block
+	Scope
+	Global 
+	Compliance Domain
+	Compliance Governance
+	Document Owner
+	Compliance Policy & Mandatory Training Manager
+	Approved By
+	Compliance Policy & Mandatory Training Lead
+	
+
+
+
+
+
+[a]If this is a named role within the doc, I'd like us to consistently capitalize this in our docs
+[b]How do we determine the order of terms? It's not alphabetical and would be easier to scan if alphabetical
+[c]In some instances we capitalized and in others we don't. Need to be consistent and always check for this in other docs. Preference for me is capitalization throughout.
+[d]Is it a year for everything? That could be inferred from this
+[e]Recall we had different timing requirements previously by tier so just pressure testing
+[f]How do we enforce / control for this?
+[g]Just confirming do we have an upper limit on this in the PoP? For instance, adjust dates within a 90 day period max.
+[h]Is this correct?
+[i]Please note we will be building out a procedure on this in Q4 and at that time will replace the references to the procedure
+[j]What is the status of this? 
+
+
+Presuming once that is stood up / created, this will no longer refer to the PoP? Is that a correct interpretation?
+[k]Earlier we say 30 days  before is the due date, just confirming if that is correct or if it can be any time before the due date? Whatever it is should be written the same way in both places.
+[l]How does this compare to our approval matrix? Aren't most approvers C-core + 1
+[m]Is this manual?
+[n]Please note we will be building out a procedure on this in Q4 and at that time will replace the references to the procedure
+[o]What is the status of this? 
+
+
+Presuming once that is stood up / created, this will no longer refer to the PoP? Is that a correct interpretation?
+[p]For my understanding, how does this occur?
+[q]Did this sentence get cut off? Providing evidence of what? If it is the approved policy, that typically sits with us but if it is evidence of adherence to the policy then yes that would sit outside of the policy team. I might even suggest we only list it as out of scope and not specify it is the Doc Owner since I envision there are some instances where it my be the product team.
+[r]Do we need this in here?
+[s]regular?
+[t]Where is this shared? Asking as this will be relevant for GO-01
+[u]If this is just an overall view of our doc inventory can we say that? Review suggest we are cataloging based on where the docs are at in their lifecycle and I don't think we mean that
+[v]How do we define significant?
+[w]We need to ensure we include this as it may come up on POL-01 validation
+[x]Should we add Doc Approvers?
+[y]Do we need this?
+[z]Who will this be?
+[aa]Does this make sense to include?
+[ab]Where?
