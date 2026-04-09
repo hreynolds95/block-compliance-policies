@@ -69,7 +69,7 @@ function renderKPIs(docs) {
   document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
   document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
   document.getElementById('kpiOverdue').textContent    = docs.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
-  document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
+  document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
   document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
 }
 
@@ -134,8 +134,9 @@ function filteredDocs() {
       if (business && d.business !== business) return false;
       if (entity && d.legal_entity !== entity) return false;
       if (tier && String(d.tier) !== tier) return false;
-      if (review === 'overdue' && !['overdue','pending-review','overdue-past-extension'].includes(d.review_status)) return false;
-      else if (review && review !== 'overdue' && d.review_status !== review) return false;
+      if (review === 'overdue'    && !['overdue','pending-review','overdue-past-extension'].includes(d.review_status)) return false;
+      else if (review === 'coming-due' && !['due-soon','extension-coming-due'].includes(d.review_status)) return false;
+      else if (review && !['overdue','coming-due'].includes(review) && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
       return true;
@@ -332,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (kpi === 'published')  document.getElementById('filterStatus').value = 'published';
         if (kpi === 'intake')     document.getElementById('filterStatus').value = 'not-published';
         if (kpi === 'overdue')    document.getElementById('filterReview').value = 'overdue';
-        if (kpi === 'due-soon')   document.getElementById('filterReview').value = 'due-soon';
+        if (kpi === 'due-soon')   document.getElementById('filterReview').value = 'coming-due';
         if (kpi === 'extensions') document.getElementById('filterExtension').value = 'active';
       }
 
