@@ -49,6 +49,7 @@ async function init() {
     populateDomainFilter(allDocs);
     populateBusinessFilter(allDocs);
     populateEntityFilter(allDocs);
+    populateOwnerFilter(allDocs);
     renderKPIs(allDocs);
     renderTable(allDocs);
   } else {
@@ -108,6 +109,17 @@ function populateEntityFilter(docs) {
   });
 }
 
+function populateOwnerFilter(docs) {
+  const owners = [...new Set(docs.map(d => d.owner).filter(Boolean))].sort();
+  const sel = document.getElementById('filterOwner');
+  owners.forEach(o => {
+    const opt = document.createElement('option');
+    opt.value = o;
+    opt.textContent = o;
+    sel.appendChild(opt);
+  });
+}
+
 // ── Table rendering ──────────────────────────────────────────────────────────
 
 function filteredDocs() {
@@ -116,6 +128,7 @@ function filteredDocs() {
   const status    = document.getElementById('filterStatus').value;
   const business  = document.getElementById('filterBusiness').value;
   const entity    = document.getElementById('filterEntity').value;
+  const owner     = document.getElementById('filterOwner').value;
   const tier      = document.getElementById('filterTier').value;
   const review    = document.getElementById('filterReview').value;
   const extension = document.getElementById('filterExtension').value;
@@ -133,6 +146,7 @@ function filteredDocs() {
       else if (status && status !== 'not-published' && d.status !== status) return false;
       if (business && d.business !== business) return false;
       if (entity && d.legal_entity !== entity) return false;
+      if (owner && d.owner !== owner) return false;
       if (tier && String(d.tier) !== tier) return false;
       if (review === 'overdue'    && !['overdue','pending-review','overdue-past-extension'].includes(d.review_status)) return false;
       else if (review === 'coming-due' && !['due-soon','extension-coming-due'].includes(d.review_status)) return false;
@@ -354,7 +368,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('focus', ensureSearchIndex, { once: true });
 
-  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
+  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       setActiveKpiCard(null);
       updateFilterHighlights();
@@ -374,6 +388,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('filterStatus').value    = '';
       document.getElementById('filterBusiness').value  = '';
       document.getElementById('filterEntity').value    = '';
+      document.getElementById('filterOwner').value     = '';
       document.getElementById('filterTier').value      = '';
       document.getElementById('filterReview').value    = '';
       document.getElementById('filterExtension').value = '';
@@ -404,6 +419,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterStatus').value    = '';
     document.getElementById('filterBusiness').value  = '';
     document.getElementById('filterEntity').value    = '';
+    document.getElementById('filterOwner').value     = '';
     document.getElementById('filterTier').value      = '';
     document.getElementById('filterReview').value    = '';
     document.getElementById('filterExtension').value = '';
@@ -431,7 +447,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function updateFilterHighlights() {
-  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterTier', 'filterReview', 'filterExtension'];
+  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'];
   let anyActive = document.getElementById('searchInput').value !== '';
   filterIds.forEach(id => {
     const el = document.getElementById(id);
