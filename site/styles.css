@@ -625,6 +625,19 @@ details[open] > .panel-header--collapsible::before {
 }
 .q-close:hover { color: var(--accent); }
 
+.q-new-chat {
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  color: var(--muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.7rem;
+  padding: 3px 8px;
+  transition: color 0.12s, border-color 0.12s;
+}
+.q-new-chat:hover { color: var(--info); border-color: var(--info); }
+
 /* Messages */
 .q-messages {
   flex: 1;

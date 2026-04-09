@@ -8,7 +8,8 @@
   const PROXY_URL = 'https://quincy-proxy.hmreynolds95.workers.dev/v1/messages';
   const MODEL     = 'claude-opus-4-6';
 
-  let chatHistory   = [];
+  let chatHistory   = [];       // sent to API (user turns contain RAG-augmented content)
+  let userQueries   = [];       // raw user text only — used for context-aware retrieval
   let systemPrompt  = null;
   let isStreaming   = false;
   let searchIndex   = null;   // Map<doc_id, text> — loaded once on first open
@@ -45,6 +46,7 @@
                 <div class="q-tagline">Compliance Policy Assistant</div>
               </div>
             </div>
+            <button class="q-new-chat" id="qNewChat" aria-label="Start new conversation" style="display:none;">New chat</button>
             <button class="q-close" id="qClose" aria-label="Close Quincy">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
                 <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
@@ -78,6 +80,7 @@
   function wireEvents() {
     document.getElementById('qFab').addEventListener('click', togglePopup);
     document.getElementById('qClose').addEventListener('click', closePopup);
+    document.getElementById('qNewChat').addEventListener('click', resetConversation);
     document.getElementById('qSend').addEventListener('click', sendMessage);
 
     const textarea = document.getElementById('qInput');
@@ -174,6 +177,26 @@
     document.getElementById('qFab').classList.remove('q-fab--open');
   }
 
+  function resetConversation() {
+    chatHistory = [];
+    userQueries = [];
+    document.getElementById('qMessages').innerHTML = `
+      <div class="q-msg q-msg--bot">
+        <div class="q-bubble">Hi, I'm Quincy. Ask me anything about Block's compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.</div>
+      </div>`;
+    document.getElementById('qNewChat').style.display = 'none';
+    document.getElementById('qInput').focus();
+  }
+
+  // ── Context-aware retrieval query ─────────────────────────────────────────────
+
+  function buildRetrievalQuery(currentQuery) {
+    // Blend last 2 raw user queries with the current one so follow-up questions
+    // (e.g. "which ones apply to Cash App?") carry forward prior topic context.
+    const context = userQueries.slice(-2).join(' ');
+    return context ? `${context} ${currentQuery}` : currentQuery;
+  }
+
   // ── Chat ──────────────────────────────────────────────────────────────────────
 
   async function sendMessage() {
@@ -185,9 +208,11 @@
     input.style.height = 'auto';
 
     appendMessage('user', text);
+    userQueries.push(text);
+    document.getElementById('qNewChat').style.display = '';
 
-    // Augment with retrieved policy content
-    const { top, additional } = retrieveRelevantDocs(text);
+    // Augment with retrieved policy content — use blended query for context-aware scoring
+    const { top, additional } = retrieveRelevantDocs(buildRetrievalQuery(text));
     let userContent = text;
     if (top.length > 0) {
       const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
@@ -276,8 +301,9 @@
 
     } catch (err) {
       bubble.innerHTML = `<span class="q-error">Error: ${esc(err.message)}</span>`;
-      // Remove the failed user message from history so the next send isn't confused
+      // Remove the failed turn from history so the next send isn't confused
       chatHistory.pop();
+      userQueries.pop();
     }
 
     isStreaming = false;
@@ -484,12 +510,13 @@ TIER DEFINITIONS:
 RESPONSE GUIDELINES:
 - Always cite document IDs (e.g. CP-001, GOV-015) when referencing specific policies
 - Be precise about status (published/draft/in-review/retired), tier, owner, and review dates
-- review_status "overdue" = past next_review_date; "due-soon" = within 30 days; "ok" = on track
+- review_status "overdue" = past next_review_date; "due-soon" = within 90 days; "ok" = on track; "pending-review" = T to T+30 grace period; "extension-coming-due" = extended deadline within 90 days
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
-- For each question, all 156 published policies are searched by keyword across their complete full text. The top 4 matches by relevance have their entire text appended to the user's message; any further matches are listed by doc ID only
-- For the top 8, answer from the excerpts directly and confidently — do not hedge or say text was "partially retrieved"
-- For any additionally listed doc IDs, describe them using the metadata you have in your system prompt (title, owner, tier, status, domain)
+- This is a multi-turn conversation. Use prior messages in the thread to understand follow-up questions and resolve pronouns or references (e.g. "those docs", "the ones you mentioned", "that policy")
+- For each message, the top 4 most relevant policies (by keyword match against your query + recent context) have their full indexed text appended; any further matches are listed by doc ID only
+- Answer from the appended policy text directly and confidently — do not hedge or say text was "partially retrieved"
+- For additionally listed doc IDs, describe them using the metadata in your system prompt (title, owner, tier, status, domain)
 - If a specific detail is genuinely absent from all retrieved content, say it is not specified in the policy library
 - Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
