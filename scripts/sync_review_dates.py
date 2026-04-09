@@ -1,17 +1,22 @@
 #!/usr/bin/env python3
 """
-Syncs next_review_date in all DMS doc frontmatter from dashboard-data.json.
+Syncs next_review_date and due_date_status in all DMS doc frontmatter
+from dashboard-data.json.
 
-Background: next_review_date was originally set from DUE_DATE (the workflow
-approval deadline). For docs with DUE_DATE_STATUS='Complete', that deadline
-has already passed because the approval cycle finished — making them appear
-overdue when they are not. The correct next_review_date is:
+dashboard-data.json has two record sets:
+  rows       — one deduped Published/Active record per document
+  due_items  — active next-cycle workflow records (mirrors Blockcell's
+               enrichRowsWithNextDueDate logic)
 
-  - DUE_DATE_STATUS='Complete': DATE_OF_FINAL_APPROVAL + 1 year
-  - DUE_DATE_STATUS='Current' / 'Coming Due' / 'Extended' / 'Pending Review'
-    / 'Overdue Past Extension': DUE_DATE (the active workflow deadline)
+For a Complete main row that has a non-Complete due_items entry, the
+due_items entry is the authoritative source for next_review_date and
+due_date_status (it represents the current open review cycle).
 
-Docs with no matching dashboard record are left unchanged and reported.
+  - due_items entry exists and is non-Complete: use its DUE_DATE / DUE_DATE_STATUS
+  - DUE_DATE_STATUS is an active status (Current/Coming Due/etc.): use DUE_DATE
+  - DUE_DATE_STATUS='Complete', no due_items entry: DATE_OF_FINAL_APPROVAL + 1 yr
+
+Docs with no matching dashboard record are left unchanged.
 
 Usage:
     python scripts/sync_review_dates.py --dashboard path/to/dashboard-data.json
@@ -53,9 +58,45 @@ def parse_date(val) -> Optional[date]:
 
 
 def load_dashboard(path: str) -> dict:
+    """Load dashboard-data.json and enrich Complete rows with next-cycle due_items.
+
+    Mirrors Blockcell's enrichRowsWithNextDueDate(): for any main row where
+    DUE_DATE_STATUS='Complete', overlay DUE_DATE and DUE_DATE_STATUS from the
+    best non-Complete due_items entry with the same PWF_RECORD_ID.
+    """
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
-    return {r["PWF_RECORD_ID"]: r for r in data["rows"] if r.get("PWF_RECORD_ID")}
+
+    # Build due_items lookup: PWF_RECORD_ID → best non-Complete item
+    due_lookup: dict = {}
+    for item in data.get("due_items", []):
+        pwf = (item.get("PWF_RECORD_ID") or "").strip()
+        if not pwf:
+            continue
+        if (item.get("DUE_DATE_STATUS") or "").strip().lower() == "complete":
+            continue
+        due_date = parse_date(item.get("DUE_DATE"))
+        if not due_date:
+            continue
+        existing = due_lookup.get(pwf)
+        if existing is None or due_date > parse_date(existing.get("DUE_DATE")):
+            due_lookup[pwf] = item
+
+    by_record: dict = {}
+    for r in data["rows"]:
+        pwf = (r.get("PWF_RECORD_ID") or "").strip()
+        if not pwf:
+            continue
+        # Enrich Complete rows with the next open review cycle
+        if (r.get("DUE_DATE_STATUS") or "").strip().lower() == "complete":
+            next_cycle = due_lookup.get(pwf)
+            if next_cycle:
+                r = dict(r)  # don't mutate original
+                r["DUE_DATE"]        = next_cycle.get("DUE_DATE")
+                r["DUE_DATE_STATUS"] = next_cycle.get("DUE_DATE_STATUS")
+        by_record[pwf] = r
+
+    return by_record
 
 
 def collect_docs(root: str) -> list:
@@ -77,12 +118,13 @@ def get_record_id(content: str) -> Optional[str]:
 def compute_next_review(row: dict) -> Optional[date]:
     status = row.get("DUE_DATE_STATUS", "")
     if status in ACTIVE_WORKFLOW_STATUSES:
+        # Active cycle (including enriched Complete→next-cycle rows): use deadline directly
         return parse_date(row.get("DUE_DATE"))
-    # Complete — derive from last approval
+    # Genuinely Complete with no open next cycle — derive from last approval
     final = parse_date(row.get("DATE_OF_FINAL_APPROVAL"))
     if final:
         return final + relativedelta(years=REVIEW_CYCLE_YEARS)
-    # Fallback: DUE_DATE + 1 year (covers cases with no final approval date yet)
+    # Fallback: DUE_DATE + 1 year
     due = parse_date(row.get("DUE_DATE"))
     if due:
         return due + relativedelta(years=REVIEW_CYCLE_YEARS)

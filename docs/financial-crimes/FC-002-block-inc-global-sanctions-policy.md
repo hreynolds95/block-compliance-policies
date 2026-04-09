@@ -11,8 +11,8 @@ owner: "Faisal Sohail"
 approval_type: board
 reviewers: []
 effective_date: "2025-10-29"
-next_review_date: "2026-10-29"
-due_date_status: "Complete"
+next_review_date: "2026-10-31"
+due_date_status: "Current"
 retention_years: 7
 published_pdf: "https://drive.google.com/file/d/1Co7opy_mta9hoz_oIxnrybiieH67MAJa/view"
 logicgate_record_id: "SVQBoOTz"

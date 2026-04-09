@@ -11,8 +11,8 @@ owner: "Vanessa Simpson"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-10-23"
-due_date_status: "Complete"
+next_review_date: "2026-03-31"
+due_date_status: "Pending Review"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1xDvyvxwRUkQlEp0L62A49Aw76fW1G4rb/view"
 logicgate_record_id: "te7KvfWQ"

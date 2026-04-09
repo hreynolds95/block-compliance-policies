@@ -11,8 +11,8 @@ owner: "Amit Bhushan"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2026-10-23"
-due_date_status: "Complete"
+next_review_date: "2026-03-31"
+due_date_status: "Pending Review"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1XFwdbO8OlP188tVPznnrPkRLE61QgwX8/view?usp=sharing"
 logicgate_record_id: "72K7Z9Ku"

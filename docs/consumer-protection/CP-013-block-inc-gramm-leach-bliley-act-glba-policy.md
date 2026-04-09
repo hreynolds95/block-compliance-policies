@@ -11,8 +11,8 @@ owner: "Brian Kollmeyer"
 approval_type: committee
 reviewers: []
 effective_date: "2025-10-30"
-next_review_date: "2026-10-30"
-due_date_status: "Complete"
+next_review_date: "2026-10-31"
+due_date_status: "Current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/12JBaYHW53hWzpY52OT3YCmmmMu_DhCcr/view?usp=drive_link"
 logicgate_record_id: "GfA5jkuJ"

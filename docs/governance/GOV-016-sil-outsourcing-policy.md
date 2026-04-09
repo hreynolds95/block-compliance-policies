@@ -11,8 +11,8 @@ owner: "Elizabeth Henry"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2026-10-23"
-due_date_status: "Complete"
+next_review_date: "2026-09-30"
+due_date_status: "Current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1wSQhXmFr6A0nfT9Bp72Yi_Xp-AzQnHMU/view?usp=sharing"
 logicgate_record_id: "Nx2GkSbl"

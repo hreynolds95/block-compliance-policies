@@ -11,8 +11,8 @@ owner: "Corey Chamberlain"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-10-23"
-due_date_status: "Complete"
+next_review_date: "2026-03-31"
+due_date_status: "Pending Review"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/12VuBLjl_qcfyxX0fc7acf5wSBcjvC19S/view?usp=sharing"
 logicgate_record_id: "3f6XmfiL"

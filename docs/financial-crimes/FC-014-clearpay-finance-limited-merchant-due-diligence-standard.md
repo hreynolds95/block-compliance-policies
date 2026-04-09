@@ -11,8 +11,8 @@ owner: "Anthony Laycock"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2026-10-23"
-due_date_status: "Complete"
+next_review_date: "2026-07-16"
+due_date_status: "Pending Review"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1KpN_X7DxOf4bdSp2R2vOBRLbkjciF2w1/view"
 logicgate_record_id: "wDyjKy0A"
