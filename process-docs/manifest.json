@@ -40,5 +40,12 @@
     "title": "Desktop Procedure: Exception Workflow",
     "google_doc_id": "1PCriioyBJuvLINeCQD5M1ieYDwlZbABwYpblg-w8iBk",
     "description": "Step-by-step desktop procedure for submitting a policy exception request and the Central Team review and approval workflow in LogicGate."
+  },
+  {
+    "proc_id": "TRN-001",
+    "title": "LogicGate Training Guide",
+    "google_doc_id": "1UOc-i0BKmrQJfjIbyAi_WTY4CY0NPUTRYDkbdqHqH2I",
+    "file_type": "slides",
+    "description": "Comprehensive training guide covering all LogicGate roles and workflows: submitting new document requests, drafting and updating documents, approval routing, requesting extensions, exceptions, and retirements."
   }
 ]
