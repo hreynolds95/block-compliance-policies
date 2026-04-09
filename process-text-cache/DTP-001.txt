@@ -1,0 +1,220 @@
+﻿Desktop Procedure: Document Update and Approval Workflow
+________________
+Purpose
+
+
+This desktop procedure outlines each stage of the document update workflow and describes the review and approval process managed by the Central Team.
+
+
+Workflow Map
+
+
+  
+
+Please see Appendix for User Roles and Responsibilities in LogicGate.
+________________
+
+
+I. Document Drafting (Submitter Stage)
+Objective: To initiate the document update process by completing the draft and submitting it for quality control (QC) review.
+1. The Document Submitter reviews the content and ensures all mandatory fields and data are completed in the workflow form.
+2. The Submitter can select the change type as Initial Review (for new drafts), Scheduled Review (for annual refreshes), or Material/Immaterial Change (for off-cycle reviews). The document update workflow remains consistent across all change types. The only exception applies to off-cycle changes to Compliance Policy Committee (CPC) approved documents, which may be approved by the Document Owner and subsequently reported to the CPC during the next review cycle.
+3. Once the Submitter initiates the document update request, the system routes the document automatically to the QC / Assign Reviewers step.
+________________
+
+
+II. QC / Assign Reviewers Step 
+Objective: To assign reviewers, define approval routing, and perform governance quality check.
+1. The Central Team will receive an email notification indicating that a new document is ready for review.
+* Access the document using the link provided in the email or from the “Drafts Under Central Team Review” section on the dashboard.
+2. Review the information submitted. In the Approval Routing Level field, select all applicable approval levels from the options provided:
+* Document Owner
+* Leadership
+* Committee
+* Board
+* Note: the document will automatically be routed to document owner review regardless of the selection above, as this is the default mandatory path. 
+* This selection applies only to the current draft, not the parent document.
+  
+
+3. If Leadership is selected as approval routing level, select the name of approver from the drop down list.
+4. If Committee and Board approvals are selected, choose the specific Committees and Boards from the dropdown menus.
+5. [Optional] Assign up to three stakeholder reviewers:
+* Include only those whose formal review must be tracked in the system.
+* Other informal reviewers should provide feedback directly in the shared Google Doc.
+* Reviewer tasks will not be created, and reviewers will not be notified until the Central Team completes the QC / Assign Reviewers step and clicks submit. 
+* Note: The Scheduled Review Due Date on this form refers to the document itself, not the stakeholder review deadline. Reviewers will receive automated weekly reminders if their review remains incomplete for more than one week after assignment.
+6. If no stakeholder reviews are required:
+* The Central Team must complete the governance QC at this step before submission.
+* Once complete, the document proceeds directly to the Approvals phase.
+7. Click Proceed to Approvals to advance, or Return to Submitter if revisions are needed.
+* If returning to the Submitter, provide feedback or justification in the pop-up comments box. 
+8. Enter the Review Date and click Submit.
+Bypassing or Re-Initiating Stakeholder Reviews
+When a document request is returned to the Submitter or to the Central Team directly from any of the following steps -Document Owner Review, Leadership Approval, Committee Approval, or Board Approval - an additional option to bypass Stakeholder Review (If Applicable) becomes available the second time the record reaches the QC/Assign Reviewers step.[a][b]  
+1. Select “Yes” to skip the Stakeholder Review + QC step and proceed directly to the next approval stage.
+2. Select “No” to continue to the Stakeholder Review + QC step.
+   * To proceed without initiating new stakeholder reviews, leave the box labeled “Check the box if Stakeholder Reviewer #1 Has Been Updated” unchecked. Use this option when stakeholder review was already completed in the previous cycle and no further input is required.
+* To initiate a new stakeholder review, select “No” and enter the new stakeholder names in the provided fields, and check the box labeled “Check the box if Stakeholder Reviewer #1 Has Been Updated.” Reviewers can also be added in  the next step, if needed.
+  
+
+________________
+
+
+III. Stakeholder Review + QC Step
+Objective: To facilitate stakeholder feedback and complete quality checks before approval.
+1. This step is only activated if stakeholder reviewers were assigned in the previous phase. Once reviewers complete their tasks, their responses populate in the stakeholder review table.        
+* The Submit button remains inactive until all reviews are finalized. (See Managing Stakeholder Reviews DP for instructions on removing and adding new stakeholders)
+* If additional stakeholder reviews are created using the “Create New Stakeholder” button directly in the Stakeholder review workflow, ensure the dropdown menu above is also updated to include the name of Stakeholder #2 and #3 in the Document Update workflow. This step helps maintain accurate and complete records.
+  
+
+* Stakeholder review progress can also be tracked in the Stakeholder Reviews – In Progress section on the dashboard. 
+  
+
+2. When all reviews are complete:
+* Click Proceed to Approvals to continue.
+* Or, if additional revisions are needed, select Return to Submitter.
+________________
+
+
+IV. Document Owner and Leadership Approver Reviews
+From QC/ Assign Reviewers and/or Stakeholder Review + QC Steps,  the Document Owner (when the Submitter is the same individual as the Document Owner, the Document Owner review is bypassed) and Leadership review requests are routed to their assigned users. 
+Approvals occur sequentially, and the document can be returned to the Central Team or the Submitter at any stage. From the Leadership Review step, it can also be returned to the Document Owner if further updates are required.
+Note: Following Document Owner/ Leadership Approval, if Committee (excluding CPC) or Board review is required for a document, a PDF of the redline is provided to the Submitter/Document Owner to share with the relevant Committee/Board for approval. 
+________________
+V. Committee Review Step (if applicable)
+Objective: To capture the committee’s decision, review date, and supporting evidence.
+1. The Central Team will be prompted to enter the Committee review decision and review date  if “Committee” was selected under Approval Routing Levels field in the QC/ Assign Reviewers step. If multiple committees reviewed the document, record the most recent review date.
+  
+
+2. Once Approval is selected, enter the approval dates by Committee/s identified earlier in the workflow and upload the corresponding evidence of approval. Click Submit to move to the next step.
+  
+
+________________
+
+
+VI. Board Review Step (if applicable)
+Objective: To document the Board’s review and approval decision.
+1. The workflow will proceed to the Board Review step, if ”Board” was selected under Approval Routing Levels field in the QC/ Assign Reviewers step.The Board Review step functions similarly to the Committee Review. The Central Team will be prompted to enter the review decision and date then input the relevant Board meeting date/s and upload supporting evidence to proceed to the next step.
+* Note: For Board-approved documents, a clean PDF of the updated version is created and stored in the Published PDF folder, and a downloaded copy is provided to the Document Submitter/Owner to share with the Board for review and approval (this is best practise since GDrive links may have access limitations when shared externally). The document should not be made viewable within Block until the publication step.
+Before generating the PDF:
+* Save a copy of the master Google Doc (with comments/redlines) in the Archived Google Doc folder.
+* Accept all suggestions to create a clean version.
+* Generate the final PDF from this clean version and store it in the appropriate Central Drive folder.
+	
+
+  
+
+________________
+
+
+VII. Publication Step
+Objective: To finalize the approved document for publication and archive prior versions.
+1. Select a publication decision from the following options: 
+* Approve for Publication
+* Return to Central Team (returns QC or Assign Reviewers)
+* Return to Committee Review
+* Return to Board Review
+2. When Approve for Publication is selected, a new field appears prompting entry of the final approval date. Refer to the approval table above and enter the date that corresponds to the document’s most recent approval.
+  
+
+3. Enter the publication date and provide the link to the published PDF.  
+4. Review the publication checklist
+  
+
+   5. Click Submit to:
+   * Move the document into the Active Version Repository.
+   * Automatically retire the previous version.
+   * Create a new In Progress record for the next review cycle.
+________________
+
+
+VIII. Input Published Links 
+Objective: To update the parent workflow with the published document link.
+   1. The Central Team will receive an email notification prompting them to input the published PDF link.
+   * Alternatively, the Central Team can access the task from their Dashboard.
+   2. Copy the link to the published PDF with draft status = active, and paste it into the Published Document field.
+   * This step must be done manually because the system cannot automatically transfer data between workflows.[c]
+  
+
+   3. Click Submit to update the published PDF links.
+________________
+
+
+IX. Drafts Ready for Assignment
+Objective: Assign new draft for the next review cycle.
+   1. A new draft record is created automatically when the publication step is completed.
+   2. The Central Team will receive an email notification and can also access the new draft via their Dashboard.
+   3. Enter the Scheduled Review Date for the new draft. Refer to the document history on this step to determine the correct date according to the guidance provided in the form. For initial draft assignment, enter the target approval date for the document.
+   * This date serves as the basis for all notifications and reporting related to the upcoming review cycle. Ensure that the information entered is accurate and complete.
+  
+
+   4. Enter the Submitter and Document Owner information. Verify that these assignment details are correct for the next review cycle before submitting.
+   5. When Submit is selected, the new draft is assigned to the Submitter and appears under the My Work, or  alternatively in the “My Policies”, “My Standards”, or “My Procedures” section of the default All Employees dashboard 
+  
+
+________________
+
+
+X. Reporting
+To view details about document drafts:
+   1. Go to the Reports section in LogicGate.
+   2. Select Table Report.
+   3. Search for the following table reports to view all drafts by document type:
+   * All Policy Drafts
+   * All Standard Drafts
+   * All Procedure Draft
+   * Each document will have multiple line items, depending on the number of drafts that have been created and/or completed in the system.
+   4. Use the Draft Status field to determine the records current state:
+   * Active – Current approved version
+   * Retired – Prior approved version
+   * In Progress – Draft assigned to the Submitter or Owner for updates
+________________
+
+
+Document Details: 
+Business
+	Block
+	Scope
+	Global
+	Domain
+	Governance
+	Document Owner
+	Munnu Tomy Kallany
+	Approved By
+	Stevi Winer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Appendix: Roles and Responsibilities
+Employee: All full-time employees are provisioned system access. Employees may view documents and initiate requests for documents creation, retirements, and exceptions in the system.
+Submitter : Acts as the Document Owner’s delegate and initiates requests for new Policies, Standards, or Procedures, as well as revisions to existing documents. Provides initial content, rationale for creation, or description of changes, and incorporates feedback from stakeholders and approvers. Documents are assigned to the Submitter by default and appear in their queue for updates. In some cases, the Submitter and Document Owner may be the same individual.
+Document Owner: Responsible for attesting to the accuracy and completeness of the document content and ensuring the document is reviewed and refreshed according to the established schedule.
+Central Team: Serves as the governance team overseeing document reviews, quality, and compliance. Documents may fall under different Central Teams depending on sub-type, domain, or other attributes.
+Stakeholder Reviewer: Provides subject-matter input, review, and sign-off for the document within their area of expertise. Stakeholder Reviewers are typically selected by the Document Owner or Submitter.
+Leadership Approver: Reviews the document, provides feedback, and grants the necessary approval
+Committee: Acts as the governing committee with oversight responsibility and approval authority for applicable documents. For Board approved documents, the Committee may review, provide feedback, and recommend for approval by the Board.
+Board: The governing board(s) responsible for final review and approval of applicable documents.
+
+
+[a]Should we explain why you would want to do this just for context?
+[b]updated
+[c]@pbuchmann@block.xyz
+_Assigned to pbuchmann@block.xyz_

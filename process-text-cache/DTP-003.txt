@@ -1,0 +1,122 @@
+﻿Desktop Procedure: Exception Workflow
+________________
+Purpose
+This procedure outlines the process for submitting an extension request for a document and describes the subsequent review and approval workflow managed by the Central Team.
+
+
+Workflow Map
+  
+
+Please see Appendix for User Roles and Responsibilities in LogicGate.
+________________
+
+
+I. Initiate Exception Request 
+Document Retirement requests may be initiated by any Employee. Employees must follow the steps below to initiate the process:
+
+
+1. Log[a][b] in to LogicGate.
+2. Click create a new record and select “Exception” to open the exception request form.
+  
+
+
+
+3. The Employee will be redirected to the Exception Request page.
+________________
+
+
+II. Submit Extension Request 
+1. From the exception request form, select Exception Request Type 
+2. Enter all required information in the form. 
+3. The Exception Request Type field is a multi-select field. Exceptions can be requested for policies, underlying standards, and procedures from the same location.
+  
+
+4. Add the Exception Owner
+5. Provide the validity period for the exception[c][d].   
+6. Link the relevant documents (multiple documents may be linked) associated with the exception request
+7. Select the number of reviewers (up to three) and input their names[e][f]. 
+8. Once all information is complete, click “Submit.
+   * Multiple exception requests may be submitted for a single document, and more than one request can remain active at the same time.
+________________
+
+
+III.  Initial Review by Central Team
+   1. The Central Team receives the submitted exception request
+   2. The Central Team validates all details provided in the request form
+   3. If necessary, the Central Team will add additional reviewers to the request
+   4. The Central Team provides a decision and enters the review date:
+   * Approve – Proceed to stakeholder/exception owner review
+   * Return to Submitter – Send back for correction or clarification
+   * Reject Exception – Decline the request
+  
+
+________________
+
+
+IV. Stakeholder/s Review
+   1. When the request is routed to stakeholders, each reviewer has the following options:
+   * Return to Submitter – Send back for additional information or edits
+   * Reject Exception – Decline the exception request
+   * Reviewed – Forward the request to the next stakeholder reviewer or the Exception Owner, as applicable.
+   * Note: Exception reviews are conducted in a sequential order in this workflow. If the request is rejected by the first stakeholder, the workflow will terminate, and a new submission may be required to restart the review process
+________________
+
+
+V. Exception Owner Review
+The Exception Owner reviews the request after all stakeholder reviews are complete. The Exception Owner can reject, approve the exception or return to Submitter 
+The Exception Owner may also update the validity period during this review.
+________________
+
+
+VI. Central Team Final Review
+After the Exception Owner’s approval, the request returns to the Central Team for final validation.
+   1. The Central Team validates all details to ensure accuracy and completeness.
+   2. The Central Team then selects one of the following actions:
+   * Approve – Finalize the request
+   * Return to Submitter – Send back for clarification or additional details
+   * Reject Exception 
+Once approved at this stage, the exception request automatically moves to the Active Exception Repository.
+________________
+
+
+VII. Reporting[g]
+To view details about approved exceptions:
+   1. Go to the Reports section in LogicGate.
+   2. Select Table Report.
+   3. Search for Active Extensions table reports to access the extensions repository. This is the central location for tracking all approved extension requests and serves as a reference for audits or future reviews.
+________________
+
+
+Document Details: 
+Business
+	Block
+	Scope
+	Global
+	Domain
+	Governance
+	Document Owner
+	Munnu Tomy Kallany
+	Approved By
+	Stevi Winer
+	________________
+Appendix: Roles and Responsibilities
+Employee: All full-time employees are provisioned system access. Employees may view documents and initiate requests for documents creation, retirements, and exceptions in the system.
+Submitter : Acts as the Document Owner’s delegate and initiates requests for new Policies, Standards, or Procedures, as well as revisions to existing documents. Provides initial content, rationale for creation, or description of changes, and incorporates feedback from stakeholders and approvers. Documents are assigned to the Submitter by default and appear in their queue for updates. In some cases, the Submitter and Document Owner may be the same individual.
+Document Owner: Responsible for attesting to the accuracy and completeness of the document content and ensuring the document is reviewed and refreshed according to the established schedule.
+Central Team: Serves as the governance team overseeing document reviews, quality, and compliance. Documents may fall under different Central Teams depending on sub-type, domain, or other attributes.
+Stakeholder Reviewer: Provides subject-matter input, review, and sign-off for the document within their area of expertise. Stakeholder Reviewers are typically selected by the Document Owner or Submitter.
+Leadership Approver: Reviews the document, provides feedback, and grants the necessary approval
+Committee: Acts as the governing committee with oversight responsibility and approval authority for applicable documents. For Board approved documents, the Committee may review, provide feedback, and recommend for approval by the Board.
+Board: The governing board(s) responsible for final review and approval of applicable documents.
+
+
+
+
+For best visibility, use 125 percent zoom to view the screenshots clearly
+[a]Specify who this step is for
+[b]added
+[c]Do we need to explain what the validity period can be?
+[d]Added 6 months here. Please let me know if we need to add additional details, or if a new request can be submitted following expiration
+[e]Required or optional?
+[f]it's optional - added.
+[g]Do we need to note anything about the validity period and when this expires?

@@ -1,0 +1,125 @@
+﻿Desktop Procedure: Extension Workflow
+________________
+Purpose
+This procedure outlines the process for submitting an extension request for a document and describes the subsequent review and approval workflow managed by the Central Team.
+
+
+Workflow Map
+  
+
+________________
+
+
+I. Initiate Extension Request from Document Drafting Step
+
+
+1. Log in to LogicGate
+2. Select the relevant document that requires an extension
+* Only users who are part of the workflow can request an extension. The document is typically assigned to the Submitter and/or Document Owner.
+3. Open the document record
+4. Locate the “Create New Extension” button at the bottom of the step to begin the process
+  
+
+________________
+
+
+II.  Request Extension
+On[a][b] the Extension Request page, fill in all required fields:
+1. Requested Extension Date – Specify the new desired review date
+2. Reason for Extension – Provide a clear explanation for requesting the extension
+3. Document Owner Confirmation – Indicate whether you are the Document Owner:
+   * Select Yes if you are the Document Owner submitting this request
+   * Select No if you are not the Document Owner. If No is selected, the request will automatically route to the Document Owner for review before being processed by the Central Team.
+4. Requestor Attestation – Sign and click Submit to send the request for review
+  
+
+________________
+
+
+III. Document Owner Review
+1. When a request is received, the Document Owner has the following options:
+* Return to Submitter – Send back to the requester for corrections or clarifications
+* When selecting Return at any step, the user is always required to provide justification.
+* Reject Request – Decline the extension request
+* Send for Approvals – Forward the request for Central Team review and processing
+  
+
+________________
+
+
+IV. Central Team Review
+1. During this stage, the Central Team will assess the request’s rationale and take one of the following actions:
+* Send to Compliance Leadership for Approval
+* Return to Submitter
+* Return to Document Owner
+* Reject Request
+2. If the Central Team selects Send to Compliance Leadership for Approval, they must:
+   * Enter the Review Date and Leadership Approver information.
+   * Update the Requested Extension Date to reflect a maximum of 6 months from the document’s scheduled review date (as only one 6-month extension may be granted for a document during review cycle).[c] [Refer to the Document Details section at the top of the form to confirm the scheduled review date.]
+  
+  
+
+
+
+________________
+
+
+V. Leadership Approval 
+If the Central Team routes the request for Leadership review:
+1. The Leadership Approver is automatically notified once the Central Team completes its initial review.
+2. The Leadership Reviewer can then:
+   * Approve the extension request
+   * Reject the request
+   * Return to Central Team for further review
+
+
+* Once routed to Leadership, no further action is required from the Central Team.
+* If the Leadership Reviewer approves the request, it is automatically routed to the Extension Repository for recordkeeping.
+________________
+
+
+VI. Reporting
+To view details about approved exceptions:
+1. Go to the Reports section in LogicGate.
+2. Select Table Report.
+3. Search for Active Exceptions table reports to access the exceptions repository. This is the central location for tracking all approved exception requests and serves as a reference for audits or future reviews.
+________________
+
+
+
+
+
+
+Document Details: 
+Business
+	Block
+	Scope
+	Global
+	Domain
+	Governance
+	Document Owner
+	Munnu Tomy Kallany
+	Approved By
+	Stevi Winer
+	________________
+
+
+Appendix: Roles and Responsibilities
+Employee: All full-time employees are provisioned system access. Employees may view documents and initiate requests for documents creation, retirements, and exceptions in the system.
+Submitter : Acts as the Document Owner’s delegate and initiates requests for new Policies, Standards, or Procedures, as well as revisions to existing documents. Provides initial content, rationale for creation, or description of changes, and incorporates feedback from stakeholders and approvers. Documents are assigned to the Submitter by default and appear in their queue for updates. In some cases, the Submitter and Document Owner may be the same individual.
+Document Owner: Responsible for attesting to the accuracy and completeness of the document content and ensuring the document is reviewed and refreshed according to the established schedule.
+Central Team: Serves as the governance team overseeing document reviews, quality, and compliance. Documents may fall under different Central Teams depending on sub-type, domain, or other attributes.
+Stakeholder Reviewer: Provides subject-matter input, review, and sign-off for the document within their area of expertise. Stakeholder Reviewers are typically selected by the Document Owner or Submitter.
+Leadership Approver: Reviews the document, provides feedback, and grants the necessary approval
+Committee: Acts as the governing committee with oversight responsibility and approval authority for applicable documents. For Board approved documents, the Committee may review, provide feedback, and recommend for approval by the Board.
+Board: The governing board(s) responsible for final review and approval of applicable documents.
+
+
+For best visibility, use 125 percent zoom to view the screenshots clearly
+  
+
+[a]Note who this step is for - also do we need to specify at what point they can request the extension (before the due date)?
+[b]added in the first step -- we have an interim status, "pending review" that is from scheduled review date to 30 days past scheduled review date, before a doc is marked overdue. added that an extension request must be submitted before it is marked overdue -  please confirm if this guidance works; note that per previous discussion, there is no system control preventing an extension submission for an overdue doc.
+[c]@kellingsen@squareup.com @pbuchmann@block.xyz FYI
+1 total reaction
+Kate Ellingsen (She / Her) reacted with 👍 at 2026-01-29 17:22 PM

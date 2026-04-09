@@ -14,7 +14,7 @@
   {
     "proc_id": "PROC-003",
     "title": "Compliance Policy Governance Approval Processes Procedure",
-    "google_doc_id": "11BDzw5sjyr7ew3xU0wSCB9Pt4Tw0YZoT4JqQj4Uwe80",
+    "google_doc_id": "11lcbWDvLcOQWdvqfu6FWYbn3quCLEnXnqBDb8nRI2mA",
     "description": "Governance approval workflows in LogicGate — how policies move through board, committee, and owner approval stages."
   },
   {
@@ -25,20 +25,20 @@
   },
   {
     "proc_id": "DTP-001",
-    "title": "Desktop Procedure 1",
+    "title": "Desktop Procedure: Document Update and Approval Workflow",
     "google_doc_id": "159qOWnArefLgx4HfRM8NpGrE9McbQ5lEKMor0UxJFv4",
-    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+    "description": "Step-by-step desktop procedure for updating a document and routing it through the approval workflow in LogicGate."
   },
   {
     "proc_id": "DTP-002",
-    "title": "Desktop Procedure 2",
+    "title": "Desktop Procedure: Extension Workflow",
     "google_doc_id": "152MoiVoVnZQYisWAJueNJbiHMcb083kkd4yZNInpz-U",
-    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+    "description": "Step-by-step desktop procedure for submitting a due date extension request and the Central Team review and approval workflow in LogicGate."
   },
   {
     "proc_id": "DTP-003",
-    "title": "Desktop Procedure 3",
+    "title": "Desktop Procedure: Exception Workflow",
     "google_doc_id": "1PCriioyBJuvLINeCQD5M1ieYDwlZbABwYpblg-w8iBk",
-    "description": "Desktop procedure for policy lifecycle process in LogicGate."
+    "description": "Step-by-step desktop procedure for submitting a policy exception request and the Central Team review and approval workflow in LogicGate."
   }
 ]
