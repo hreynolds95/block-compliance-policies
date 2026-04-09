@@ -650,7 +650,7 @@ details[open] > .panel-header--collapsible::before {
   max-height: 340px;
   scroll-behavior: smooth;
 }
-.q-msg        { display: flex; }
+.q-msg        { display: flex; position: relative; }
 .q-msg--user  { justify-content: flex-end; }
 .q-msg--bot   { justify-content: flex-start; }
 
@@ -698,24 +698,23 @@ details[open] > .panel-header--collapsible::before {
 
 /* Download response button */
 .q-download-btn {
-  display: inline-flex;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  display: flex;
   align-items: center;
-  gap: 5px;
-  margin-top: 8px;
-  background: none;
+  justify-content: center;
+  background: var(--bg-secondary);
   border: 1px solid var(--line);
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-sm);
   color: var(--muted);
-  font-family: inherit;
-  font-size: 0.68rem;
-  padding: 4px 10px;
+  padding: 3px 5px;
   cursor: pointer;
-  transition: color 0.12s, border-color 0.12s;
+  opacity: 0;
+  transition: opacity 0.15s, color 0.12s, border-color 0.12s;
 }
-.q-download-btn:hover {
-  color: var(--accent);
-  border-color: var(--accent-3);
-}
+.q-msg:hover .q-download-btn { opacity: 1; }
+.q-download-btn:hover { color: var(--accent); border-color: var(--accent-3); }
 
 /* Doc citation links */
 .q-doc-link {
