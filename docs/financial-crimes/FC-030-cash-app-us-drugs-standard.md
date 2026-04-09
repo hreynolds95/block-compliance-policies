@@ -12,6 +12,7 @@ approval_type: owner
 reviewers: []
 effective_date: ""
 next_review_date: "2026-05-31"
+due_date_status: "Coming Due"
 retention_years: 3
 logicgate_record_id: "56CAKaPX"
 ---

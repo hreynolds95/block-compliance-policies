@@ -12,6 +12,7 @@ approval_type: committee
 reviewers: []
 effective_date: "2025-12-17"
 next_review_date: "2026-12-08"
+due_date_status: "Complete"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1-W8472Mabulua-gm_IgqBMq6Np9x_YPk/view?usp=sharing"
 logicgate_record_id: "Lc1g9fK9"

@@ -12,6 +12,7 @@ approval_type: owner
 reviewers: []
 effective_date: ""
 next_review_date: "2027-05-30"
+due_date_status: "Complete"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1RlSkVHMoT6Kbzc8qGf_H-W_mSfbpopFJ/view"
 logicgate_record_id: "PMoc0EES"

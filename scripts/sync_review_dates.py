@@ -131,7 +131,6 @@ def main():
 
         record_id = get_record_id(content)
         if not record_id or record_id not in by_record:
-            print(f"  [UNMATCHED] {path}")
             unmatched += 1
             continue
 
@@ -142,15 +141,27 @@ def main():
             skipped += 1
             continue
 
-        # Check current value
-        m = re.search(r'^next_review_date:\s*"?([^"\n]*)"?', content, re.MULTILINE)
-        current_str = m.group(1).strip() if m else ""
-        if current_str == new_date.isoformat():
+        due_status = row.get("DUE_DATE_STATUS", "")
+
+        # Check both current values
+        m_date = re.search(r'^next_review_date:\s*"?([^"\n]*)"?', content, re.MULTILINE)
+        current_date_str = m_date.group(1).strip() if m_date else ""
+        m_status = re.search(r'^due_date_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
+        current_status_str = m_status.group(1).strip() if m_status else ""
+
+        date_changed = current_date_str != new_date.isoformat()
+        status_changed = current_status_str != due_status
+
+        if not date_changed and not status_changed:
             unchanged += 1
             continue
 
-        due_status = row.get("DUE_DATE_STATUS", "")
-        print(f"  [UPDATE]    {os.path.basename(path)}: {current_str} → {new_date.isoformat()}  ({due_status})")
+        changes = []
+        if date_changed:
+            changes.append(f"date {current_date_str} → {new_date.isoformat()}")
+        if status_changed:
+            changes.append(f"status {current_status_str!r} → {due_status!r}")
+        print(f"  [UPDATE]    {os.path.basename(path)}: {', '.join(changes)}")
 
         if not args.dry_run:
             new_content = patch_frontmatter(content, new_date, due_status)

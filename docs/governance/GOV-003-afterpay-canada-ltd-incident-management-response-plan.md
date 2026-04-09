@@ -12,6 +12,7 @@ approval_type: committee
 reviewers: []
 effective_date: ""
 next_review_date: "2026-10-23"
+due_date_status: "Complete"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1X7ymlhZhzS_sam9pAnAGJpNkUJQ8FA2_/view"
 logicgate_record_id: "pBUkzz0I"
