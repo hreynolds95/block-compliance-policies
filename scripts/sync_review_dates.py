@@ -89,16 +89,27 @@ def compute_next_review(row: dict) -> Optional[date]:
     return None
 
 
-def patch_frontmatter(content: str, new_date: date) -> str:
-    new_val = f'next_review_date: "{new_date.isoformat()}"'
+def patch_frontmatter(content: str, new_date: date, due_date_status: str) -> str:
+    # Patch next_review_date
+    new_date_val = f'next_review_date: "{new_date.isoformat()}"'
     patched, count = re.subn(
-        r'^next_review_date:.*$', new_val, content, flags=re.MULTILINE
+        r'^next_review_date:.*$', new_date_val, content, flags=re.MULTILINE
     )
     if count == 0:
-        # Field missing entirely — insert after effective_date line
         patched = re.sub(
-            r'^(effective_date:.*)', r'\1\n' + new_val, content, flags=re.MULTILINE
+            r'^(effective_date:.*)', r'\1\n' + new_date_val, content, flags=re.MULTILINE
         )
+
+    # Patch due_date_status
+    new_status_val = f'due_date_status: "{due_date_status}"'
+    patched, count = re.subn(
+        r'^due_date_status:.*$', new_status_val, patched, flags=re.MULTILINE
+    )
+    if count == 0:
+        patched = re.sub(
+            r'^(next_review_date:.*)', r'\1\n' + new_status_val, patched, flags=re.MULTILINE
+        )
+
     return patched
 
 
@@ -142,7 +153,7 @@ def main():
         print(f"  [UPDATE]    {os.path.basename(path)}: {current_str} → {new_date.isoformat()}  ({due_status})")
 
         if not args.dry_run:
-            new_content = patch_frontmatter(content, new_date)
+            new_content = patch_frontmatter(content, new_date, due_status)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new_content)
         updated += 1
