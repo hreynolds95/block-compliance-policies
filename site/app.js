@@ -281,6 +281,50 @@ function eventLabel(event, title, ver) {
   }
 }
 
+// ── CSV Export ───────────────────────────────────────────────────────────────
+
+function exportToCsv(docs) {
+  const cols = [
+    ['ID',               d => d.doc_id],
+    ['Title',            d => d.title],
+    ['Domain',           d => d.domain],
+    ['Tier',             d => d.tier],
+    ['Status',           d => d.status],
+    ['Owner',            d => d.owner],
+    ['Next Review',      d => d.next_review_date ?? ''],
+    ['Extended Due',     d => d.extended_due_date ?? ''],
+    ['Review State',     d => d.review_status],
+    ['Extension Status', d => d.extension_status ?? ''],
+    ['Version',          d => d.version],
+    ['Approval Type',    d => d.approval_type],
+    ['Business',         d => d.business ?? ''],
+    ['Legal Entity',     d => d.legal_entity ?? ''],
+    ['Effective Date',   d => d.effective_date ?? ''],
+    ['Retention (yrs)',  d => d.retention_years ?? ''],
+    ['LogicGate ID',     d => d.pwf_record_id ?? ''],
+    ['Published PDF',    d => d.published_pdf ?? ''],
+  ];
+
+  const escape = v => {
+    const s = String(v ?? '');
+    return s.includes(',') || s.includes('"') || s.includes('\n')
+      ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+
+  const header = cols.map(([h]) => h).join(',');
+  const rows   = docs.map(d => cols.map(([, fn]) => escape(fn(d))).join(','));
+  const csv    = [header, ...rows].join('\n');
+
+  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  const date = new Date().toISOString().slice(0, 10);
+  a.href     = url;
+  a.download = `block-compliance-policy-library-${date}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
 // ── Sorting ──────────────────────────────────────────────────────────────────
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -340,6 +384,10 @@ document.addEventListener('DOMContentLoaded', () => {
       updateFilterHighlights();
       renderTable(filteredDocs());
     });
+  });
+
+  document.getElementById('exportCsv').addEventListener('click', () => {
+    exportToCsv(filteredDocs());
   });
 
   document.getElementById('clearFilters').addEventListener('click', () => {
