@@ -62,9 +62,23 @@ def main():
                 except ValueError:
                     next_review = None
             has_extension = bool(meta.get("extension_status"))
+            extended_due = meta.get("extended_due_date")
+            if isinstance(extended_due, str):
+                try:
+                    extended_due = date.fromisoformat(extended_due)
+                except ValueError:
+                    extended_due = None
             if isinstance(next_review, date):
                 delta = (next_review - today).days
-                if delta < -30 and not has_extension:
+                if has_extension and isinstance(extended_due, date):
+                    ext_delta = (extended_due - today).days
+                    if ext_delta < 0:
+                        review_status = "overdue-past-extension"
+                    elif ext_delta <= 90:
+                        review_status = "extension-coming-due"
+                    else:
+                        review_status = "ok"
+                elif delta < -30 and not has_extension:
                     review_status = "overdue"
                 elif delta < 0:
                     review_status = "pending-review"

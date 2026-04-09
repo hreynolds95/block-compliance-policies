@@ -374,6 +374,10 @@ select.filter-select--active {
 .pill-overdue-intake::before  { background: #ffb347; }
 .pill-due-soon-intake { background: rgba(255,165,0,.08);  color: #e8a030; }
 .pill-due-soon-intake::before { background: #e8a030; }
+.pill-extension-coming-due   { background: rgba(184,127,255,.12); color: #b87fff; }
+.pill-extension-coming-due::before   { background: #b87fff; }
+.pill-overdue-past-extension { background: rgba(255,107,107,.15); color: var(--danger); border: 1px solid rgba(255,107,107,.3); }
+.pill-overdue-past-extension::before { background: var(--danger); }
 .pill-extension-approved   { background: rgba(138,43,226,.12); color: #b87fff; }
 .pill-extension-approved::before   { background: #b87fff; }
 .pill-extension-in-progress { background: rgba(255,165,0,.1); color: #ffb347; }

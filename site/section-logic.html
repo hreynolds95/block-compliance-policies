@@ -329,14 +329,22 @@
 
       <h3>review_status Calculation</h3>
       <p>Computed at JSON generation time in <code>generate_docs_data.py</code>:</p>
-      <pre><code>delta = (next_review_date - today).days
+      <pre><code>delta     = (next_review_date - today).days
+ext_delta = (extended_due_date - today).days  # only when extension present
 has_extension = bool(extension_status)
 
-delta &lt; -30 and not has_extension  → "overdue"         # &gt;30 days past due, no extension
-delta &lt; 0                          → "pending-review"   # T to T+30: grace period, review in progress
-delta &lt;= 90                        → "due-soon"         # coming due within 90 days
-else                               → "ok"
-missing                            → "unknown"</code></pre>
+# Extension path — extended_due_date governs when an extension is active
+has_extension and extended_due_date present:
+  ext_delta &lt; 0    → "overdue-past-extension"   # past the extended deadline
+  ext_delta &lt;= 90  → "extension-coming-due"     # extended deadline within 90 days
+  else             → "ok"
+
+# Standard path — no extension
+delta &lt; -30        → "overdue"                  # &gt;30 days past due, no extension
+delta &lt; 0          → "pending-review"            # T to T+30: grace period
+delta &lt;= 90        → "due-soon"                 # coming due within 90 days
+else               → "ok"
+missing            → "unknown"</code></pre>
     </div>
 
     <!-- ── Extensions ── -->
@@ -388,7 +396,7 @@ missing                            → "unknown"</code></pre>
         <tr><td>Status</td><td><code>status</code></td><td>published (Active), draft or in-review (Intake), retired</td></tr>
         <tr><td>Owner</td><td><code>owner</code></td><td>Document owner from LogicGate <code>DOCUMENT_OWNER</code></td></tr>
         <tr><td>Next Review</td><td><code>next_review_date</code> or <code>extended_due_date</code></td><td>Shows extended due date when an extension is active</td></tr>
-        <tr><td>Review State</td><td><code>review_status</code></td><td>Computed pill: OK / Due soon / Pending Review / Overdue / Unknown</td></tr>
+        <tr><td>Review State</td><td><code>review_status</code></td><td>Computed pill: OK / Due soon / Pending Review / Ext. Coming Due / Overdue (Past Ext.) / Overdue / Unknown</td></tr>
         <tr><td>Ver</td><td><code>version</code></td><td>Semantic version; starts at 1.0.0 on import</td></tr>
         <tr><td><em>Detail panel</em></td><td><code>approval_type</code></td><td>board / committee / owner — derived from tier + REQUIRED_BOARD_APPROVAL. Shown on row expand.</td></tr>
         <tr><td><em>Detail panel</em></td><td><code>pwf_record_id</code></td><td>LogicGate unique identifier (<code>PWF_RECORD_ID</code>) for cross-system traceability. Shown on row expand.</td></tr>
@@ -399,7 +407,7 @@ missing                            → "unknown"</code></pre>
         <li><strong>Search</strong> — free-text match on doc_id, pwf_record_id, title, owner, domain, and full PDF text (via search index)</li>
         <li><strong>Domain</strong> — populated dynamically from loaded documents</li>
         <li><strong>Status</strong> — published / draft / in-review / retired / intake (draft + in-review)</li>
-        <li><strong>Review State</strong> — overdue (incl. pending-review) / pending-review / due-soon / ok</li>
+        <li><strong>Review State</strong> — overdue (incl. pending-review + overdue-past-extension) / pending-review / due-soon / extension-coming-due / overdue-past-extension / ok</li>
         <li><strong>Business</strong> — populated dynamically from loaded documents</li>
         <li><strong>Entity</strong> — populated dynamically from loaded documents</li>
         <li><strong>Tier</strong> — 1 / 2 / 3</li>

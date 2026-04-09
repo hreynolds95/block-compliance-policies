@@ -68,7 +68,7 @@ async function init() {
 function renderKPIs(docs) {
   document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
   document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
-  document.getElementById('kpiOverdue').textContent    = docs.filter(d => d.review_status === 'overdue' || d.review_status === 'pending-review').length;
+  document.getElementById('kpiOverdue').textContent    = docs.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
   document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon').length;
   document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
 }
@@ -134,7 +134,7 @@ function filteredDocs() {
       if (business && d.business !== business) return false;
       if (entity && d.legal_entity !== entity) return false;
       if (tier && String(d.tier) !== tier) return false;
-      if (review === 'overdue' && d.review_status !== 'overdue' && d.review_status !== 'pending-review') return false;
+      if (review === 'overdue' && !['overdue','pending-review','overdue-past-extension'].includes(d.review_status)) return false;
       else if (review && review !== 'overdue' && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
@@ -248,11 +248,13 @@ function domainLabel(d) {
 function reviewPill(status, docStatus) {
   const isIntake = docStatus === 'draft' || docStatus === 'in-review';
   const map = {
-    ok:               ['pill-ok',                  'OK'],
-    'due-soon':       isIntake ? ['pill-due-soon-intake',      'Due soon (Intake)']      : ['pill-due-soon',      'Due soon'],
-    'pending-review': isIntake ? ['pill-pending-review-intake','Pending Review (Intake)'] : ['pill-pending-review','Pending Review'],
-    overdue:          isIntake ? ['pill-overdue-intake',       'Overdue (Intake)']       : ['pill-overdue',       'Overdue'],
-    unknown:          ['pill-unknown',             'Unknown'],
+    ok:                       ['pill-ok',                      'OK'],
+    'due-soon':               isIntake ? ['pill-due-soon-intake',      'Due soon (Intake)']      : ['pill-due-soon',              'Due soon'],
+    'pending-review':         isIntake ? ['pill-pending-review-intake','Pending Review (Intake)'] : ['pill-pending-review',         'Pending Review'],
+    'extension-coming-due':   ['pill-extension-coming-due',    'Ext. Coming Due'],
+    'overdue-past-extension': ['pill-overdue-past-extension',  'Overdue (Past Ext.)'],
+    overdue:                  isIntake ? ['pill-overdue-intake',       'Overdue (Intake)']       : ['pill-overdue',                'Overdue'],
+    unknown:                  ['pill-unknown',                 'Unknown'],
   };
   const [cls, label] = map[status] ?? map.unknown;
   return `<span class="review-pill ${cls}">${label}</span>`;

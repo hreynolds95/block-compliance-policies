@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-08T22:01:02.668813+00:00",
+  "generated": "2026-04-09T17:44:06.262367+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
@@ -2855,7 +2855,7 @@
       "effective_date": "2026-02-18",
       "next_review_date": "2027-02-18",
       "retention_years": 5,
-      "review_status": "ok",
+      "review_status": "extension-coming-due",
       "extension_status": "in-progress",
       "extended_due_date": "2026-06-26",
       "extension_reason": null,
@@ -3339,7 +3339,7 @@
       "effective_date": "",
       "next_review_date": "2026-04-01",
       "retention_years": 3,
-      "review_status": "pending-review",
+      "review_status": "ok",
       "extension_status": "approved",
       "extended_due_date": "2026-07-27",
       "extension_reason": "Requesting an extension to allow time to reflect updates from ongoing settlements work due at the end of May.",
@@ -3603,7 +3603,7 @@
       "effective_date": "",
       "next_review_date": "2026-05-30",
       "retention_years": 3,
-      "review_status": "due-soon",
+      "review_status": "ok",
       "extension_status": "in-progress",
       "extended_due_date": "2026-11-30",
       "extension_reason": null,
