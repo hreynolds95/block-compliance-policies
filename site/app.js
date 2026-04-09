@@ -152,6 +152,7 @@ function renderTable(docs) {
   const tbody  = document.getElementById('docTbody');
   const empty  = document.getElementById('emptyState');
   const visible = docs ?? filteredDocs();
+  const q = document.getElementById('searchInput').value.toLowerCase();
 
   document.getElementById('resultCount').textContent =
     `${visible.length} of ${allDocs.length}`;
@@ -166,11 +167,11 @@ function renderTable(docs) {
   tbody.innerHTML = visible.map(d => `
     <tr class="doc-row" data-doc-id="${esc(d.doc_id)}" style="cursor:pointer;">
       <td>${d.published_pdf ? `<a class="doc-id doc-id--link" href="${esc(d.published_pdf)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(d.doc_id)}</a>` : `<span class="doc-id">${esc(d.doc_id)}</span>`}</td>
-      <td><span class="doc-title">${esc(d.title)}</span></td>
+      <td><span class="doc-title">${highlight(d.title, q)}</span></td>
       <td><span class="domain-label">${esc(domainLabel(d.domain))}</span></td>
       <td><span class="badge badge-tier${d.tier}">Tier ${esc(d.tier)}</span></td>
       <td><span class="badge badge-${d.status}">${esc(d.status)}</span></td>
-      <td><span class="doc-owner">${esc(d.owner)}</span></td>
+      <td><span class="doc-owner">${highlight(d.owner, q)}</span></td>
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
       <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
       <td>${esc(d.version)}</td>
@@ -240,6 +241,13 @@ function renderAuditLog(entries) {
 
 function esc(s) {
   return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function highlight(rawText, query) {
+  const escaped = esc(rawText);
+  if (!query) return escaped;
+  const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  return escaped.replace(re, '<mark class="search-hl">$1</mark>');
 }
 
 function domainLabel(d) {

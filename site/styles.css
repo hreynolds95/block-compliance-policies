@@ -342,6 +342,7 @@ select.filter-select--active {
 .doc-id--link:hover { text-decoration: underline; }
 .doc-title { font-weight: 500; color: var(--accent-2); display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .doc-owner { color: var(--accent-3); font-size: 0.72rem; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+mark.search-hl { background: rgba(255,217,102,.3); color: inherit; border-radius: 2px; padding: 0 1px; }
 
 /* ── Badges ── */
 .badge {
