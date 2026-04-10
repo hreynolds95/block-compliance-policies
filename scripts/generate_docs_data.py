@@ -56,39 +56,60 @@ def main():
 
             # Compute review status — prefer LogicGate's DUE_DATE_STATUS when present
             due_date_status = meta.get("due_date_status", "")
-            DDS_MAP = {
-                "Overdue":               "overdue",
-                "Pending Review":        "pending-review",
-                "Coming Due":            "due-soon",
-                "Current":               "ok",
-                "Complete":              "ok",
-                "Extended":              "extension-coming-due",
-                "Overdue Past Extension": "overdue-past-extension",
-            }
-            if due_date_status in DDS_MAP:
-                review_status = DDS_MAP[due_date_status]
+
+            # Parse dates once (needed for both DDS and fallback paths)
+            next_review = meta.get("next_review_date")
+            if isinstance(next_review, str):
+                try:
+                    next_review = date.fromisoformat(next_review)
+                except ValueError:
+                    next_review = None
+            extended_due = meta.get("extended_due_date")
+            if isinstance(extended_due, str):
+                try:
+                    extended_due = date.fromisoformat(extended_due)
+                except ValueError:
+                    extended_due = None
+
+            if due_date_status and due_date_status != "Complete":
+                # Mirror Blockcell's date-first classification:
+                # effective date (set by sync, uses EXTENDED_DUEDATE for extension statuses)
+                # drives overdue/due-soon/ok; status determines the "flavor".
+                eff = next_review
+                is_extension = due_date_status in ("Extended", "Extension Coming Due", "Overdue Past Extension")
+                if isinstance(eff, date):
+                    delta = (eff - today).days
+                    if delta < 0:
+                        if is_extension:
+                            review_status = "overdue-past-extension"
+                        elif due_date_status == "Overdue":
+                            review_status = "overdue"
+                        else:
+                            review_status = "pending-review"
+                    elif delta <= 30:
+                        review_status = "extension-coming-due" if is_extension else "due-soon"
+                    else:
+                        review_status = "ok"
+                else:
+                    # No effective date — fall back to a safe default by status
+                    if is_extension:
+                        review_status = "extension-coming-due"
+                    elif due_date_status in ("Overdue", "Overdue Past Extension"):
+                        review_status = "overdue"
+                    else:
+                        review_status = "ok"
+            elif due_date_status == "Complete":
+                review_status = "ok"
             else:
                 # Fallback: date-math (used when due_date_status is absent)
-                next_review = meta.get("next_review_date")
-                if isinstance(next_review, str):
-                    try:
-                        next_review = date.fromisoformat(next_review)
-                    except ValueError:
-                        next_review = None
                 has_extension = bool(meta.get("extension_status"))
-                extended_due = meta.get("extended_due_date")
-                if isinstance(extended_due, str):
-                    try:
-                        extended_due = date.fromisoformat(extended_due)
-                    except ValueError:
-                        extended_due = None
                 if isinstance(next_review, date):
                     delta = (next_review - today).days
                     if has_extension and isinstance(extended_due, date):
                         ext_delta = (extended_due - today).days
                         if ext_delta < 0:
                             review_status = "overdue-past-extension"
-                        elif ext_delta <= 90:
+                        elif ext_delta <= 30:
                             review_status = "extension-coming-due"
                         else:
                             review_status = "ok"
@@ -96,7 +117,7 @@ def main():
                         review_status = "overdue"
                     elif delta < 0:
                         review_status = "pending-review"
-                    elif delta <= 90:
+                    elif delta <= 30:
                         review_status = "due-soon"
                     else:
                         review_status = "ok"

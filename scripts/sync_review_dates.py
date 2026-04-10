@@ -38,6 +38,8 @@ ACTIVE_WORKFLOW_STATUSES = {
     "Current",
     "Coming Due",
     "Extended",
+    "Extension Coming Due",
+    "Overdue",
     "Pending Review",
     "Overdue Past Extension",
 }
@@ -118,7 +120,11 @@ def get_record_id(content: str) -> Optional[str]:
 def compute_next_review(row: dict) -> Optional[date]:
     status = row.get("DUE_DATE_STATUS", "")
     if status in ACTIVE_WORKFLOW_STATUSES:
-        # Active cycle (including enriched Complete→next-cycle rows): use deadline directly
+        # Mirror Blockcell's effectiveDueDate(): prefer EXTENDED_DUEDATE when extension approved
+        if (row.get("EXTENSION_LIFECYCLE_STATUS") or "").strip() == "Extension Approved":
+            ext_due = parse_date(row.get("EXTENDED_DUEDATE"))
+            if ext_due:
+                return ext_due
         return parse_date(row.get("DUE_DATE"))
     # Genuinely Complete with no open next cycle — derive from last approval
     final = parse_date(row.get("DATE_OF_FINAL_APPROVAL"))

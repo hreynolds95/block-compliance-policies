@@ -289,9 +289,9 @@
           <td>Review State = Overdue (incl. Pending Review)</td>
         </tr>
         <tr>
-          <td><strong>Coming Due (90d)</strong></td>
+          <td><strong>Coming Due (30d)</strong></td>
           <td><span class="badge badge-yellow">yellow</span></td>
-          <td><code>review_status === 'due-soon'</code> — <code>next_review_date</code> within 90 days</td>
+          <td><code>review_status === 'due-soon'</code> — <code>next_review_date</code> within 30 days</td>
           <td>Review State = Due soon</td>
         </tr>
         <tr>
@@ -336,13 +336,13 @@ has_extension = bool(extension_status)
 # Extension path — extended_due_date governs when an extension is active
 has_extension and extended_due_date present:
   ext_delta &lt; 0    → "overdue-past-extension"   # past the extended deadline
-  ext_delta &lt;= 90  → "extension-coming-due"     # extended deadline within 90 days
+  ext_delta &lt;= 90  → "extension-coming-due"     # extended deadline within 30 days
   else             → "ok"
 
 # Standard path — no extension
 delta &lt; -30        → "overdue"                  # &gt;30 days past due, no extension
 delta &lt; 0          → "pending-review"            # T to T+30: grace period
-delta &lt;= 90        → "due-soon"                 # coming due within 90 days
+delta &lt;= 90        → "due-soon"                 # coming due within 30 days
 else               → "ok"
 missing            → "unknown"</code></pre>
     </div>
