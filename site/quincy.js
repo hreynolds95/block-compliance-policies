@@ -29,6 +29,24 @@
 
   // ── HTML injection ────────────────────────────────────────────────────────────
 
+  const STARTERS = [
+    'What policies are overdue or coming due right now?',
+    'How do I submit a policy exception in LogicGate?',
+    'What AML policies apply to Cash App?',
+    'Who owns Block\'s Tier 1 governance policies?',
+  ];
+
+  function welcomeHTML() {
+    const chips = STARTERS.map(q =>
+      `<button class="q-starter" type="button">${esc(q)}</button>`
+    ).join('');
+    return `
+      <div class="q-msg q-msg--bot">
+        <div class="q-bubble">Hi, I'm Quincy. Ask me anything about Block's compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.</div>
+      </div>
+      <div class="q-starters" id="qStarters">${chips}</div>`;
+  }
+
   function injectHTML() {
     document.body.insertAdjacentHTML('beforeend', `
       <button class="q-fab" id="qFab" aria-label="Open Quincy compliance assistant">
@@ -57,9 +75,7 @@
           </div>
 
           <div class="q-messages" id="qMessages">
-            <div class="q-msg q-msg--bot">
-              <div class="q-bubble">Hi, I'm Quincy. Ask me anything about Block's compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.</div>
-            </div>
+            ${welcomeHTML()}
           </div>
 
           <div class="q-input-area">
@@ -84,6 +100,16 @@
     document.getElementById('qClose').addEventListener('click', closePopup);
     document.getElementById('qNewChat').addEventListener('click', resetConversation);
     document.getElementById('qSend').addEventListener('click', sendMessage);
+
+    document.getElementById('qMessages').addEventListener('click', e => {
+      const btn = e.target.closest('.q-starter');
+      if (!btn) return;
+      const input = document.getElementById('qInput');
+      input.value = btn.textContent;
+      input.style.height = 'auto';
+      input.style.height = Math.min(input.scrollHeight, 120) + 'px';
+      sendMessage();
+    });
 
     const textarea = document.getElementById('qInput');
     textarea.addEventListener('keydown', e => {
@@ -209,10 +235,7 @@
   function resetConversation() {
     chatHistory = [];
     userQueries = [];
-    document.getElementById('qMessages').innerHTML = `
-      <div class="q-msg q-msg--bot">
-        <div class="q-bubble">Hi, I'm Quincy. Ask me anything about Block's compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.</div>
-      </div>`;
+    document.getElementById('qMessages').innerHTML = welcomeHTML();
     document.getElementById('qNewChat').style.display = 'none';
     document.getElementById('qInput').focus();
   }
@@ -239,6 +262,8 @@
     appendMessage('user', text);
     userQueries.push(text);
     document.getElementById('qNewChat').style.display = '';
+    const starters = document.getElementById('qStarters');
+    if (starters) starters.remove();
 
     // Augment with retrieved policy content — use blended query for context-aware scoring
     const { top, additional, procedures } = retrieveRelevantDocs(buildRetrievalQuery(text));

@@ -638,6 +638,32 @@ details[open] > .panel-header--collapsible::before {
 }
 .q-new-chat:hover { color: var(--info); border-color: var(--info); }
 
+/* Starter question chips */
+.q-starters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 4px 12px 12px;
+}
+.q-starter {
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  color: var(--muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 11.5px;
+  line-height: 1.4;
+  padding: 5px 11px;
+  text-align: left;
+  transition: color 0.12s, border-color 0.12s, background 0.12s;
+}
+.q-starter:hover {
+  background: color-mix(in srgb, var(--info) 8%, transparent);
+  border-color: var(--info);
+  color: var(--info);
+}
+
 /* Messages */
 .q-messages {
   flex: 1;
