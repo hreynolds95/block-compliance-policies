@@ -388,7 +388,29 @@
   // Supports: paragraphs, unordered/ordered lists, bold, inline code, doc-ID links.
 
   function md(raw) {
+    // Pre-group consecutive table rows into table segments so the line loop
+    // doesn't have to deal with partial pipe-delimited lines mid-stream.
     const lines = raw.split('\n');
+    const segments = [];
+    let i = 0;
+    while (i < lines.length) {
+      const t = lines[i].trim();
+      if (t.startsWith('|') && t.endsWith('|') && t.length > 2) {
+        const tableLines = [];
+        while (i < lines.length) {
+          const tl = lines[i].trim();
+          if (tl.startsWith('|') && tl.endsWith('|') && tl.length > 2) {
+            tableLines.push(tl);
+            i++;
+          } else break;
+        }
+        segments.push({ type: 'table', lines: tableLines });
+      } else {
+        segments.push({ type: 'text', line: lines[i] });
+        i++;
+      }
+    }
+
     let html = '';
     let inUl = false;
     let inOl = false;
@@ -398,7 +420,14 @@
       if (inOl) { html += '</ol>'; inOl = false; }
     }
 
-    for (const line of lines) {
+    for (const seg of segments) {
+      if (seg.type === 'table') {
+        closeList();
+        html += renderTable(seg.lines);
+        continue;
+      }
+
+      const line = seg.line;
       const t = line.trim();
       if (!t) { closeList(); html += '<div class="q-spacer"></div>'; continue; }
 
@@ -427,6 +456,32 @@
 
     closeList();
     return html;
+  }
+
+  function renderTable(lines) {
+    function cells(line) {
+      return line.replace(/^\||\|$/g, '').split('|').map(c => c.trim());
+    }
+    // Separator rows contain only dashes, colons, and spaces in each cell
+    function isSep(line) {
+      return cells(line).every(c => /^[-:\s]+$/.test(c) && c.trim().length > 0);
+    }
+
+    const sepIdx = lines.findIndex(isSep);
+    const headerRows = sepIdx > 0 ? lines.slice(0, sepIdx) : [];
+    const bodyRows   = sepIdx >= 0 ? lines.slice(sepIdx + 1) : lines;
+
+    let t = '<table class="q-table"><thead>';
+    for (const row of headerRows) {
+      t += '<tr>' + cells(row).map(c => `<th>${inline(c)}</th>`).join('') + '</tr>';
+    }
+    t += '</thead><tbody>';
+    for (const row of bodyRows) {
+      if (!row.trim()) continue;
+      t += '<tr>' + cells(row).map(c => `<td>${inline(c)}</td>`).join('') + '</tr>';
+    }
+    t += '</tbody></table>';
+    return t;
   }
 
   function inline(s) {

@@ -707,6 +707,14 @@ details[open] > .panel-header--collapsible::before {
 .q-bubble code          { font-size: 0.78rem; background: rgba(255,255,255,.08); padding: 1px 5px; border-radius: 3px; }
 .q-md-h                 { font-weight: 600; color: var(--accent) !important; margin-top: 4px; }
 .q-spacer               { height: 4px; }
+
+/* Markdown table */
+.q-table                { border-collapse: collapse; width: 100%; margin: 6px 0; font-size: 0.82rem; }
+.q-table th,
+.q-table td             { border: 1px solid rgba(255,255,255,.15); padding: 5px 10px; text-align: left; }
+.q-table thead th       { background: rgba(255,255,255,.08); font-weight: 600; color: var(--accent); }
+.q-table tbody tr:nth-child(even) { background: rgba(255,255,255,.03); }
+
 .q-error                { color: var(--danger); }
 .q-truncated            { color: var(--warning); font-size: 0.76rem; margin-top: 8px; }
 
