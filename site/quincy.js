@@ -291,7 +291,7 @@
 
     const botEl  = appendMessage('bot', '');
     const bubble = botEl.querySelector('.q-bubble');
-    bubble.innerHTML = '<span class="q-cursor"></span>';
+    bubble.innerHTML = '<span class="q-typing"><span></span><span></span><span></span></span>';
 
     // Add download button immediately — it will capture whatever is generated
     // even if the response is later truncated
@@ -347,6 +347,7 @@
               bubble.innerHTML = md(fullText) + '<span class="q-cursor"></span>';
               messagesEl.scrollTop = messagesEl.scrollHeight;
             }
+
             if (evt.type === 'message_delta' && evt.delta?.stop_reason === 'max_tokens') {
               truncated = true;
             }
