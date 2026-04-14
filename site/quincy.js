@@ -17,12 +17,25 @@
   let processIndex  = null;   // Map<proc_id, {title, description, text}> — process procedures
   let procState     = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let docMeta       = new Map(); // doc_id → { title, published_pdf } for download formatting
+  let allDocMeta    = [];        // full metadata array for lightweight metadata searches
 
   // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
   function init(docs) {
     systemPrompt = buildSystemPrompt(docs);
     docs.forEach(d => docMeta.set(d.doc_id, { title: d.title, published_pdf: d.published_pdf || null }));
+    allDocMeta = docs.map(d => ({
+      doc_id:          d.doc_id,
+      title:           d.title           || '',
+      owner:           d.owner           || '',
+      tier:            d.tier            || '',
+      domain:          d.domain          || '',
+      business:        d.business        || '',
+      legal_entity:    d.legal_entity    || '',
+      status:          d.status          || '',
+      review_status:   d.review_status   || '',
+      next_review_date:d.next_review_date|| '',
+    }));
     injectHTML();
     wireEvents();
   }
@@ -177,10 +190,62 @@
       .catch(() => { procState = 'failed'; });
   }
 
-  /**
-   * Score each doc in the search index against the query.
-   * Returns up to topN docs sorted by relevance with a short excerpt.
-   */
+  // ── Metadata query detection & search ────────────────────────────────────────
+
+  // Patterns that signal a question answerable from doc metadata alone
+  const METADATA_SIGNALS = [
+    /\bwho\s+(owns?|is\s+(the\s+)?owner)\b/i,
+    /\bwhat\s+(tier|domain|owner|status)\b/i,
+    /\bwhich\s+(tier|domain)\b/i,
+    /\b(list|show)\s+(all|me|every)\b/i,
+    /\bhow\s+many\b/i,
+    /\b(all\s+)?(overdue|coming[\s-]due|due[\s-]soon|past[\s-]due)\b/i,
+    /\breview\s+(date|status|deadline|schedule)\b/i,
+    /\b(next|upcoming)\s+review\b/i,
+    /\bdue\s+(date|in\b|by\b)/i,
+    /\bwhen\s+is\b/i,
+    /\btier\s*[123]\b/i,
+    /\bextension\s+status\b/i,
+  ];
+
+  function isMetadataQuery(query) {
+    return METADATA_SIGNALS.some(p => p.test(query));
+  }
+
+  const META_STOP_WORDS = new Set([
+    'the','and','for','are','that','this','with','what','who','which',
+    'how','all','any','its','our','they','them','have','has','been',
+    'will','from','about','show','list','tell','many','does','did',
+    'owns','own','give','get','find','please','policy','policies',
+  ]);
+
+  function searchDocsMeta(query) {
+    const terms = query.toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .split(/\s+/)
+      .filter(t => t.length > 2 && !META_STOP_WORDS.has(t));
+    if (!terms.length) return [];
+
+    const scored = allDocMeta.map(doc => {
+      const haystack = [
+        doc.title, doc.owner, doc.domain, doc.business,
+        doc.legal_entity, doc.tier, doc.review_status, doc.status,
+      ].join(' ').toLowerCase();
+      let score = 0;
+      for (const kw of terms) {
+        if (haystack.includes(kw)) score++;
+        if (doc.title.toLowerCase().includes(kw)) score += 2; // title match weighted higher
+      }
+      return { doc, score };
+    });
+
+    return scored
+      .filter(s => s.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 20)
+      .map(s => s.doc);
+  }
+
   /**
    * Returns { top: [{docId, excerpt}], additional: [docId, ...] }
    * top: up to 8 highest-scoring docs with a 1500-char excerpt each
@@ -265,21 +330,47 @@
     const starters = document.getElementById('qStarters');
     if (starters) starters.remove();
 
-    // Augment with retrieved policy content — use blended query for context-aware scoring
-    const { top, additional, procedures } = retrieveRelevantDocs(buildRetrievalQuery(text));
+    // Augment with retrieved content — strategy depends on query intent
+    const retrievalQuery = buildRetrievalQuery(text);
     let userContent = text;
     const sections = [];
-    if (top.length > 0) {
-      const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
-      const extra    = additional.length
-        ? `\nAdditional policies also matched (metadata only): ${additional.join(', ')}`
-        : '';
-      sections.push(`POLICY LIBRARY — top ${top.length} matches (full indexed text):\n${excerpts}${extra}`);
+
+    if (isMetadataQuery(retrievalQuery)) {
+      // Metadata question (owner, tier, status, review dates, counts) —
+      // search the docs array directly and inject a compact metadata table.
+      // Claude already has all metadata in its system prompt; this just narrows
+      // the relevant docs so it doesn't have to scan all 169 entries.
+      const matches = searchDocsMeta(retrievalQuery);
+      if (matches.length > 0) {
+        const rows = matches.map(d => {
+          let row = `${d.doc_id} | ${d.title} | Tier ${d.tier} | Owner: ${d.owner} | ${d.status} | review_status: ${d.review_status}`;
+          if (d.next_review_date) row += ` | Next review: ${d.next_review_date}`;
+          return row;
+        }).join('\n');
+        sections.push(`METADATA LOOKUP — ${matches.length} matching document(s):\n${rows}`);
+      }
+      // Also check process procedures for any "how do I" component
+      const { procedures } = retrieveRelevantDocs(retrievalQuery);
+      if (procedures.length > 0) {
+        const procText = procedures.map(p => `[${p.procId}] ${p.title}\n${p.excerpt}`).join('\n\n');
+        sections.push(`PROCESS PROCEDURES — top ${procedures.length} matches (full text):\n${procText}`);
+      }
+    } else {
+      // Content question — use full-text RAG against policy and procedure indexes
+      const { top, additional, procedures } = retrieveRelevantDocs(retrievalQuery);
+      if (top.length > 0) {
+        const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
+        const extra    = additional.length
+          ? `\nAdditional policies also matched (metadata only): ${additional.join(', ')}`
+          : '';
+        sections.push(`POLICY LIBRARY — top ${top.length} matches (full indexed text):\n${excerpts}${extra}`);
+      }
+      if (procedures.length > 0) {
+        const procText = procedures.map(p => `[${p.procId}] ${p.title}\n${p.excerpt}`).join('\n\n');
+        sections.push(`PROCESS PROCEDURES — top ${procedures.length} matches (full text):\n${procText}`);
+      }
     }
-    if (procedures.length > 0) {
-      const procText = procedures.map(p => `[${p.procId}] ${p.title}\n${p.excerpt}`).join('\n\n');
-      sections.push(`PROCESS PROCEDURES — top ${procedures.length} matches (full text):\n${procText}`);
-    }
+
     if (sections.length > 0) {
       userContent = `${text}\n\n---\n${sections.join('\n\n---\n')}`;
     }
@@ -665,9 +756,10 @@ RESPONSE GUIDELINES:
 - You have two content sources: (1) POLICY LIBRARY — the 169 compliance policies/standards; (2) PROCESS PROCEDURES — step-by-step guides for using LogicGate (annual review, document management, approval workflows, exception management). When a question is about how to do something in LogicGate, prioritize process procedure content. When a question is about what a policy says or requires, prioritize policy library content.
 - Process document IDs: PROC-NNN (procedures), DTP-NNN (desktop procedures), TRN-NNN (training guides)
 - This is a multi-turn conversation. Use prior messages in the thread to understand follow-up questions and resolve pronouns or references (e.g. "those docs", "the ones you mentioned", "that policy")
-- For each message, the top 4 most relevant policies (by keyword match against your query + recent context) have their full indexed text appended; any further matches are listed by doc ID only
-- Answer from the appended policy text directly and confidently — do not hedge or say text was "partially retrieved"
-- For additionally listed doc IDs, describe them using the metadata in your system prompt (title, owner, tier, status, domain)
+- For metadata questions (owner, tier, domain, status, review dates, counts), a METADATA LOOKUP table is appended with the most relevant documents — answer from that combined with POLICY LIBRARY DATA above
+- For content questions (what does a policy say, what are the requirements), the top 4 matching policies have their full indexed text appended; additional matches are listed by doc ID only
+- Answer directly and confidently — do not hedge or say text was "partially retrieved"
+- For doc IDs not in the appended text, describe them using the metadata in POLICY LIBRARY DATA (title, owner, tier, status, domain)
 - If a specific detail is genuinely absent from all retrieved content, say it is not specified in the policy library
 - Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
