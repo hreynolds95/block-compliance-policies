@@ -722,11 +722,18 @@ details[open] > .panel-header--collapsible::before {
 }
 @keyframes q-blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
-/* Download response button */
-.q-download-btn {
+/* Message action buttons (copy + download) */
+.q-msg-actions {
   position: absolute;
   top: 4px;
   right: 4px;
+  display: flex;
+  gap: 3px;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.q-msg:hover .q-msg-actions { opacity: 1; }
+.q-action-btn {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -736,11 +743,9 @@ details[open] > .panel-header--collapsible::before {
   color: var(--muted);
   padding: 3px 5px;
   cursor: pointer;
-  opacity: 0;
-  transition: opacity 0.15s, color 0.12s, border-color 0.12s;
+  transition: color 0.12s, border-color 0.12s;
 }
-.q-msg:hover .q-download-btn { opacity: 1; }
-.q-download-btn:hover { color: var(--accent); border-color: var(--accent-3); }
+.q-action-btn:hover { color: var(--accent); border-color: var(--accent-3); }
 
 /* Doc citation links */
 .q-doc-link {

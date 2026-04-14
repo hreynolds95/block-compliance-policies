@@ -438,18 +438,44 @@
     return s;
   }
 
-  // ── Download response ─────────────────────────────────────────────────────────
+  // ── Message action buttons (copy + download) ─────────────────────────────────
 
   function addDownloadButton(msgEl, question, responseTextOrFn, retrieved) {
-    const btn = document.createElement('button');
-    btn.className = 'q-download-btn';
-    btn.title = 'Download response as Markdown';
-    btn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`;
-    btn.addEventListener('click', () => {
+    const group = document.createElement('div');
+    group.className = 'q-msg-actions';
+
+    // Copy button
+    const copyBtn = document.createElement('button');
+    copyBtn.className = 'q-action-btn';
+    copyBtn.title = 'Copy response';
+    copyBtn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+    copyBtn.addEventListener('click', () => {
+      const text = typeof responseTextOrFn === 'function' ? responseTextOrFn() : responseTextOrFn;
+      navigator.clipboard.writeText(text).then(() => {
+        copyBtn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`;
+        copyBtn.style.color = 'var(--success)';
+        copyBtn.style.borderColor = 'var(--success)';
+        setTimeout(() => {
+          copyBtn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+          copyBtn.style.color = '';
+          copyBtn.style.borderColor = '';
+        }, 2000);
+      });
+    });
+
+    // Download button
+    const dlBtn = document.createElement('button');
+    dlBtn.className = 'q-action-btn';
+    dlBtn.title = 'Download response as Markdown';
+    dlBtn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`;
+    dlBtn.addEventListener('click', () => {
       const text = typeof responseTextOrFn === 'function' ? responseTextOrFn() : responseTextOrFn;
       downloadResponse(question, text, retrieved);
     });
-    msgEl.appendChild(btn);
+
+    group.appendChild(copyBtn);
+    group.appendChild(dlBtn);
+    msgEl.appendChild(group);
   }
 
   function downloadResponse(question, responseText, retrieved) {
