@@ -11,8 +11,8 @@ owner: "Ryan Goldstone"
 approval_type: committee
 reviewers: []
 effective_date: ""
-next_review_date: "2026-04-30"
-due_date_status: "Coming Due"
+next_review_date: "2027-03-27"
+due_date_status: "Current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1d1dw_68iIX3NwJ3KufbA5iRhIU-kFiS8/view"
 logicgate_record_id: "Vcp5ArIP"

@@ -12,7 +12,7 @@ approval_type: owner
 reviewers: []
 effective_date: ""
 next_review_date: "2026-04-30"
-due_date_status: "Coming Due"
+due_date_status: "Extended"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1VxOerZRyR8rWXFaWOOyuUgGLGJ379Qpb/view"
 logicgate_record_id: "EnAGDLlu"
