@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Block Compliance Metrics Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-shape bg-shape-a"></div>
+  <div class="bg-shape bg-shape-b"></div>
+  <div class="data-source-badge" id="dataSourceBadge"></div>
+  <main class="page">
+
+    <nav class="site-nav">
+      <a href="./index.html" class="site-nav-link">Policy Library</a>
+      <a href="./dashboard.html" class="site-nav-link site-nav-link--active">Metrics Dashboard</a>
+    </nav>
+
+    <header class="hero">
+      <div class="hero-top">
+        <div>
+          <p class="eyebrow">Compliance Document Management</p>
+          <h1 class="hero-title">
+            <img src="./block-logo.png" alt="Block" class="hero-logo" />
+            Compliance Metrics
+          </h1>
+        </div>
+      </div>
+    </header>
+
+    <!-- KPI strip -->
+    <div class="kpi-strip">
+      <div class="kpi-card">
+        <span class="kpi-label">Active</span>
+        <span class="kpi-value success" id="kpiActive">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Intake</span>
+        <span class="kpi-value info" id="kpiIntake">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Overdue Review</span>
+        <span class="kpi-value danger" id="kpiOverdue">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Coming Due (30d)</span>
+        <span class="kpi-value warning" id="kpiDueSoon">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Active Extensions</span>
+        <span class="kpi-value purple" id="kpiExtensions">—</span>
+      </div>
+    </div>
+
+    <!-- Breakdown grid -->
+    <div class="dash-grid">
+
+      <div class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>By Domain</h2>
+            <p class="panel-subtitle">Review health per compliance domain (published policies only).</p>
+          </div>
+        </div>
+        <table class="dash-stat-table">
+          <thead>
+            <tr>
+              <th>Domain</th>
+              <th>Total</th>
+              <th>Overdue</th>
+              <th>Coming Due</th>
+              <th>On Track</th>
+            </tr>
+          </thead>
+          <tbody id="domainTbody"></tbody>
+        </table>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:16px;">
+
+        <div class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>By Tier</h2>
+              <p class="panel-subtitle">Published policies by governance tier.</p>
+            </div>
+          </div>
+          <div class="tier-grid" id="tierCards"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>Review Status</h2>
+              <p class="panel-subtitle">Breakdown of published policy review states.</p>
+            </div>
+          </div>
+          <table class="dash-stat-table">
+            <tbody id="statusRows"></tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+
+  </main>
+  <script src="./dashboard.js"></script>
+  <footer class="page-footer">built by @hreynolds</footer>
+</body>
+</html>

@@ -12,6 +12,11 @@
   <div class="data-source-badge" id="dataSourceBadge"></div>
   <main class="page">
 
+    <nav class="site-nav">
+      <a href="./index.html" class="site-nav-link site-nav-link--active">Policy Library</a>
+      <a href="./dashboard.html" class="site-nav-link">Metrics Dashboard</a>
+    </nav>
+
     <header class="hero">
       <div class="hero-top">
         <div>
@@ -20,33 +25,10 @@
             <img src="./block-logo.png" alt="Block" class="hero-logo" />
             Compliance Policy Library
           </h1>
+          <p class="hero-stats" id="heroStats"></p>
         </div>
       </div>
     </header>
-
-    <!-- KPI strip -->
-    <div class="kpi-strip">
-      <div class="kpi-card" data-kpi="published">
-        <span class="kpi-label">Active</span>
-        <span class="kpi-value success" id="kpiPublished">—</span>
-      </div>
-      <div class="kpi-card" data-kpi="intake">
-        <span class="kpi-label">Intake</span>
-        <span class="kpi-value info" id="kpiIntake">—</span>
-      </div>
-      <div class="kpi-card" data-kpi="overdue">
-        <span class="kpi-label">Overdue Review</span>
-        <span class="kpi-value danger" id="kpiOverdue">—</span>
-      </div>
-      <div class="kpi-card" data-kpi="due-soon">
-        <span class="kpi-label">Coming Due (30d)</span>
-        <span class="kpi-value warning" id="kpiDueSoon">—</span>
-      </div>
-      <div class="kpi-card" data-kpi="extensions">
-        <span class="kpi-label">Active Extensions</span>
-        <span class="kpi-value purple" id="kpiExtensions">—</span>
-      </div>
-    </div>
 
     <!-- Document library -->
     <div class="panel">

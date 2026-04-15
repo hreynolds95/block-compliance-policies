@@ -50,7 +50,7 @@ async function init() {
     populateBusinessFilter(allDocs);
     populateEntityFilter(allDocs);
     populateOwnerFilter(allDocs);
-    renderKPIs(allDocs);
+    renderHeroStats(allDocs, data.generated);
     renderTable(allDocs);
   } else {
   }
@@ -64,14 +64,23 @@ async function init() {
   }
 }
 
-// ── KPIs ────────────────────────────────────────────────────────────────────
+// ── Hero stats line ──────────────────────────────────────────────────────────
 
-function renderKPIs(docs) {
-  document.getElementById('kpiPublished').textContent  = docs.filter(d => d.status === 'published').length;
-  document.getElementById('kpiIntake').textContent     = docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
-  document.getElementById('kpiOverdue').textContent    = docs.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
-  document.getElementById('kpiDueSoon').textContent    = docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
-  document.getElementById('kpiExtensions').textContent = docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
+function renderHeroStats(docs, generated) {
+  const el = document.getElementById('heroStats');
+  if (!el) return;
+  const active  = docs.filter(d => d.status === 'published').length;
+  const overdue = docs.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+  const refreshed = generated
+    ? new Date(generated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+    : null;
+  const ovHtml = overdue > 0
+    ? `<span class="stat-danger">${overdue}</span> overdue`
+    : `<span class="stat-val">0</span> overdue`;
+  el.innerHTML =
+    `<span class="stat-val">${active}</span> active` +
+    `<span class="stat-sep">·</span>${ovHtml}` +
+    (refreshed ? `<span class="stat-sep">·</span>refreshed ${refreshed}` : '');
 }
 
 // ── Domain filter ────────────────────────────────────────────────────────────
@@ -370,40 +379,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
-      setActiveKpiCard(null);
-      updateFilterHighlights();
-      updateFilterHighlights();
-      renderTable(filteredDocs());
-    });
-  });
-
-  document.querySelectorAll('.kpi-card[data-kpi]').forEach(card => {
-    card.addEventListener('click', () => {
-      const kpi = card.dataset.kpi;
-      const alreadyActive = card.classList.contains('kpi-card--active');
-
-      // Clear all filters first
-      document.getElementById('searchInput').value     = '';
-      document.getElementById('filterDomain').value    = '';
-      document.getElementById('filterStatus').value    = '';
-      document.getElementById('filterBusiness').value  = '';
-      document.getElementById('filterEntity').value    = '';
-      document.getElementById('filterOwner').value     = '';
-      document.getElementById('filterTier').value      = '';
-      document.getElementById('filterReview').value    = '';
-      document.getElementById('filterExtension').value = '';
-
-      if (alreadyActive) {
-        setActiveKpiCard(null);
-      } else {
-        setActiveKpiCard(kpi);
-        if (kpi === 'published')  document.getElementById('filterStatus').value = 'published';
-        if (kpi === 'intake')     document.getElementById('filterStatus').value = 'not-published';
-        if (kpi === 'overdue')    document.getElementById('filterReview').value = 'overdue';
-        if (kpi === 'due-soon')   document.getElementById('filterReview').value = 'coming-due';
-        if (kpi === 'extensions') document.getElementById('filterExtension').value = 'active';
-      }
-
       updateFilterHighlights();
       renderTable(filteredDocs());
     });
@@ -423,7 +398,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterTier').value      = '';
     document.getElementById('filterReview').value    = '';
     document.getElementById('filterExtension').value = '';
-    setActiveKpiCard(null);
     updateFilterHighlights();
     renderTable(filteredDocs());
   });
@@ -458,8 +432,3 @@ function updateFilterHighlights() {
   document.getElementById('clearFilters').style.display = anyActive ? '' : 'none';
 }
 
-function setActiveKpiCard(kpi) {
-  document.querySelectorAll('.kpi-card[data-kpi]').forEach(c => {
-    c.classList.toggle('kpi-card--active', c.dataset.kpi === kpi);
-  });
-}

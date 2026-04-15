@@ -1,0 +1,110 @@
+/* Block Compliance Metrics Dashboard */
+
+async function init() {
+  const res = await fetch('./docs-data.json').catch(() => null);
+  if (!res || !res.ok) {
+    document.querySelector('.page').insertAdjacentHTML('beforeend',
+      '<p class="empty-state" style="text-align:center">Failed to load data.</p>');
+    return;
+  }
+
+  const data = await res.json();
+  const docs = data.documents || [];
+
+  const badge = document.getElementById('dataSourceBadge');
+  if (badge && data.generated) {
+    const refreshed = new Date(data.generated).toLocaleString('en-US', {
+      month: 'short', day: 'numeric', year: 'numeric',
+      hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+      timeZone: 'America/New_York',
+    });
+    badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}`;
+  }
+
+  renderKPIs(docs);
+  renderDomainBreakdown(docs);
+  renderTierBreakdown(docs);
+  renderStatusBreakdown(docs);
+}
+
+function renderKPIs(docs) {
+  document.getElementById('kpiActive').textContent =
+    docs.filter(d => d.status === 'published').length;
+  document.getElementById('kpiIntake').textContent =
+    docs.filter(d => d.status === 'draft' || d.status === 'in-review').length;
+  document.getElementById('kpiOverdue').textContent =
+    docs.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+  document.getElementById('kpiDueSoon').textContent =
+    docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
+  document.getElementById('kpiExtensions').textContent =
+    docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
+}
+
+function domainLabel(d) {
+  return (d || '').split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
+function renderDomainBreakdown(docs) {
+  const published = docs.filter(d => d.status === 'published');
+  const domains = [...new Set(published.map(d => d.domain).filter(Boolean))].sort();
+
+  document.getElementById('domainTbody').innerHTML = domains.map(domain => {
+    const group  = published.filter(d => d.domain === domain);
+    const total  = group.length;
+    const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    const cd     = group.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
+    const ok     = total - ov - cd;
+    return `<tr>
+      <td class="cell-label">${esc(domainLabel(domain))}</td>
+      <td>${total}</td>
+      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
+      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
+      <td class="cell-success">${ok}</td>
+    </tr>`;
+  }).join('');
+}
+
+function renderTierBreakdown(docs) {
+  const published = docs.filter(d => d.status === 'published');
+  const labels = { 1: 'Board-approved', 2: 'Committee-approved', 3: 'Owner-approved' };
+
+  document.getElementById('tierCards').innerHTML = [1,2,3].map(tier => {
+    const group  = published.filter(d => d.tier == tier);
+    const total  = group.length;
+    const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    const alert  = ov > 0 ? ` · <span class="tier-card-alert">${ov} overdue</span>` : '';
+    return `<div class="tier-card">
+      <div class="tier-card-label">Tier ${tier}</div>
+      <div class="tier-card-value">${total}</div>
+      <div class="tier-card-sub">${esc(labels[tier])}${alert}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderStatusBreakdown(docs) {
+  const published = docs.filter(d => d.status === 'published');
+  const statuses = [
+    { keys: ['overdue'],               label: 'Overdue',              cls: 'cell-danger'  },
+    { keys: ['pending-review'],        label: 'Pending Review',       cls: 'cell-danger'  },
+    { keys: ['overdue-past-extension'],label: 'Overdue (Past Ext.)',   cls: 'cell-danger'  },
+    { keys: ['due-soon'],              label: 'Due Soon (30d)',        cls: 'cell-warning' },
+    { keys: ['extension-coming-due'],  label: 'Ext. Coming Due',      cls: 'cell-warning' },
+    { keys: ['ok'],                    label: 'On Track',             cls: 'cell-success' },
+    { keys: ['unknown'],               label: 'Unknown',              cls: 'cell-muted'   },
+  ];
+
+  document.getElementById('statusRows').innerHTML = statuses.map(({ keys, label, cls }) => {
+    const count = published.filter(d => keys.includes(d.review_status)).length;
+    if (!count) return '';
+    return `<tr>
+      <td class="cell-label">${esc(label)}</td>
+      <td class="${cls}">${count}</td>
+    </tr>`;
+  }).join('');
+}
+
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+document.addEventListener('DOMContentLoaded', init);
