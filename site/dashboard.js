@@ -135,7 +135,7 @@ function renderStatusBreakdown(docs) {
     { keys: ['overdue'],               label: 'Overdue',              cls: 'cell-danger'  },
     { keys: ['pending-review'],        label: 'Pending Review',       cls: 'cell-danger'  },
     { keys: ['overdue-past-extension'],label: 'Overdue (Past Ext.)',   cls: 'cell-danger'  },
-    { keys: ['due-soon'],              label: 'Due Soon (30d)',        cls: 'cell-warning' },
+    { keys: ['due-soon'],              label: 'Due Soon (90d)',        cls: 'cell-warning' },
     { keys: ['extension-coming-due'],  label: 'Ext. Coming Due',      cls: 'cell-warning' },
     { keys: ['ok'],                    label: 'On Track',             cls: 'cell-success' },
     { keys: ['unknown'],               label: 'Unknown',              cls: 'cell-muted'   },

@@ -86,7 +86,7 @@ def main():
                             review_status = "overdue"
                         else:
                             review_status = "pending-review"
-                    elif delta <= 30:
+                    elif delta <= 90:
                         review_status = "extension-coming-due" if is_extension else "due-soon"
                     else:
                         review_status = "ok"
@@ -109,7 +109,7 @@ def main():
                         ext_delta = (extended_due - today).days
                         if ext_delta < 0:
                             review_status = "overdue-past-extension"
-                        elif ext_delta <= 30:
+                        elif ext_delta <= 90:
                             review_status = "extension-coming-due"
                         else:
                             review_status = "ok"
@@ -117,7 +117,7 @@ def main():
                         review_status = "overdue"
                     elif delta < 0:
                         review_status = "pending-review"
-                    elif delta <= 30:
+                    elif delta <= 90:
                         review_status = "due-soon"
                     else:
                         review_status = "ok"
