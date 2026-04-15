@@ -106,14 +106,23 @@ function renderStatusBreakdown(docs) {
     { keys: ['unknown'],               label: 'Unknown',              cls: 'cell-muted'   },
   ];
 
-  document.getElementById('statusRows').innerHTML = statuses.map(({ keys, label, cls }) => {
+  let total = 0;
+  const rows = statuses.map(({ keys, label, cls }) => {
     const count = published.filter(d => keys.includes(d.review_status)).length;
     if (!count) return '';
+    total += count;
     return `<tr>
       <td class="cell-label">${esc(label)}</td>
       <td class="${cls}">${count}</td>
     </tr>`;
   }).join('');
+
+  const totalsRow = `<tr class="dash-totals-row">
+    <td class="cell-label">Total</td>
+    <td>${total}</td>
+  </tr>`;
+
+  document.getElementById('statusRows').innerHTML = rows + totalsRow;
 }
 
 function esc(s) {
