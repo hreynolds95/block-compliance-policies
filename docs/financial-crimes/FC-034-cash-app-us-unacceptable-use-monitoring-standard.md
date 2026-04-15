@@ -11,7 +11,7 @@ owner: "Adrian Gardner"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-03-31"
+next_review_date: "2026-10-01"
 due_date_status: "Extended"
 extension_status: "approved"
 lifecycle_status: "under-qc"

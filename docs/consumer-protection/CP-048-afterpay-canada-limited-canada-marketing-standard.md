@@ -11,7 +11,7 @@ owner: "Safiya Adenekan"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-04-30"
+next_review_date: "2026-10-09"
 due_date_status: "Extended"
 extension_status: "approved"
 lifecycle_status: "current"

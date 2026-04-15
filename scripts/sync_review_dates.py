@@ -110,8 +110,10 @@ def load_dashboard(path: str) -> tuple:
             next_cycle = due_lookup.get(pwf)
             if next_cycle:
                 r = dict(r)  # don't mutate original
-                r["DUE_DATE"]        = next_cycle.get("DUE_DATE")
-                r["DUE_DATE_STATUS"] = next_cycle.get("DUE_DATE_STATUS")
+                r["DUE_DATE"]                    = next_cycle.get("DUE_DATE")
+                r["DUE_DATE_STATUS"]             = next_cycle.get("DUE_DATE_STATUS")
+                r["EXTENDED_DUEDATE"]            = next_cycle.get("EXTENDED_DUEDATE")
+                r["EXTENSION_LIFECYCLE_STATUS"]  = next_cycle.get("EXTENSION_LIFECYCLE_STATUS")
         by_record[pwf] = r
 
     # Build extension_status lookup: PWF_RECORD_ID → extension_status

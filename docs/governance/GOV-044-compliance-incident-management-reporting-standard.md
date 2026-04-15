@@ -11,7 +11,7 @@ owner: "Sherry Stevens"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-05-30"
+next_review_date: "2026-11-30"
 due_date_status: "Extended"
 extension_status: "approved"
 lifecycle_status: "current"
