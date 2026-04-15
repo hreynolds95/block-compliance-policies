@@ -11,8 +11,9 @@ owner: "Eve Ishak"
 approval_type: committee
 reviewers: []
 effective_date: "2026-04-10"
-next_review_date: "2027-03-27"
+next_review_date: "2027-03-28"
 due_date_status: "Current"
+lifecycle_status: "current"
 retention_years: 7
 logicgate_record_id: "AfA83ooV"
 published_pdf: "https://drive.google.com/file/d/1H6NYzxYHJHYTIT0R-zDOcCIM9Yn9LNNK/view?usp=sharing"

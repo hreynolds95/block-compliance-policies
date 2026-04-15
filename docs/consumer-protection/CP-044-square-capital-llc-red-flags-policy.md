@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-10-03"
 due_date_status: "Current"
+lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1SuopK-NKaIHvDsGz-I7BM2DXcJKgzcsA/view?usp=sharing"
 logicgate_record_id: "BHSkwfNW"

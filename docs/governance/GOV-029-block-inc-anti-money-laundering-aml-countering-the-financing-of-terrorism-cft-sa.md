@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-05-31"
 due_date_status: "Coming Due"
+lifecycle_status: "current"
 retention_years: 3
 published_pdf: "https://docs.google.com/document/d/1qhmHLZxJbDYp1Apj3Pjm7lM9imXwrrVOS9IBYblkOO8/edit?tab=t.0"
 logicgate_record_id: "cjpIPzd3"

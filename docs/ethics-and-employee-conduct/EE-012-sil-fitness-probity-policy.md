@@ -13,6 +13,7 @@ reviewers: []
 effective_date: "2026-03-30"
 next_review_date: "2027-03-25"
 due_date_status: "Current"
+lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1CaKMJ1VrA2yfW4JuqDOCBBKbwlpANqWr/view?usp=sharing"
 logicgate_record_id: "GpspRUIT"

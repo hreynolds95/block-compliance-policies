@@ -22,6 +22,7 @@ async function init() {
   }
 
   renderKPIs(docs);
+  renderLifecycleBreakdown(docs);
   renderDomainBreakdown(docs);
   renderTierBreakdown(docs);
   renderStatusBreakdown(docs);
@@ -38,6 +39,40 @@ function renderKPIs(docs) {
     docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
   document.getElementById('kpiExtensions').textContent =
     docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
+}
+
+function renderLifecycleBreakdown(docs) {
+  const published = docs.filter(d => d.status === 'published');
+  const domains = [...new Set(published.map(d => d.domain).filter(Boolean))].sort();
+
+  let totCurr = 0, totQc = 0, totApp = 0;
+
+  const rows = domains.map(domain => {
+    const group = published.filter(d => d.domain === domain);
+    const curr = group.filter(d => d.lifecycle_status === 'current').length;
+    const qc   = group.filter(d => d.lifecycle_status === 'under-qc').length;
+    const app  = group.filter(d => d.lifecycle_status === 'in-approvals').length;
+    const total = group.length;
+    totCurr += curr; totQc += qc; totApp += app;
+    return `<tr>
+      <td class="cell-label">${esc(domainLabel(domain))}</td>
+      <td class="cell-success">${curr}</td>
+      <td class="${qc > 0 ? 'cell-warning' : 'cell-muted'}">${qc > 0 ? qc : '—'}</td>
+      <td class="${app > 0 ? 'cell-warning' : 'cell-muted'}">${app > 0 ? app : '—'}</td>
+      <td>${total}</td>
+    </tr>`;
+  }).join('');
+
+  const totTotal = totCurr + totQc + totApp;
+  const totalsRow = `<tr class="dash-totals-row">
+    <td class="cell-label">Total</td>
+    <td class="cell-success">${totCurr}</td>
+    <td class="${totQc > 0 ? 'cell-warning' : 'cell-muted'}">${totQc > 0 ? totQc : '—'}</td>
+    <td class="${totApp > 0 ? 'cell-warning' : 'cell-muted'}">${totApp > 0 ? totApp : '—'}</td>
+    <td>${totTotal}</td>
+  </tr>`;
+
+  document.getElementById('lifecycleTbody').innerHTML = rows + totalsRow;
 }
 
 function domainLabel(d) {

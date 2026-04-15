@@ -13,6 +13,7 @@ reviewers: []
 effective_date: "2026-04-14"
 next_review_date: "2027-04-15"
 due_date_status: "Current"
+lifecycle_status: "current"
 retention_years: 5
 logicgate_record_id: "L988o7t2"
 ---

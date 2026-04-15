@@ -144,6 +144,7 @@ def main():
                 "extended_due_date": serialize(meta.get("extended_due_date")),
                 "extension_reason": meta.get("extension_reason"),
                 "published_pdf": meta.get("published_pdf"),
+                "lifecycle_status": meta.get("lifecycle_status"),
                 "file": path,
             })
 

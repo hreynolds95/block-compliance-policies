@@ -59,22 +59,38 @@ def parse_date(val) -> Optional[date]:
     return None
 
 
-def load_dashboard(path: str) -> dict:
+def load_dashboard(path: str) -> tuple:
     """Load dashboard-data.json and enrich Complete rows with next-cycle due_items.
 
     Mirrors Blockcell's enrichRowsWithNextDueDate(): for any main row where
     DUE_DATE_STATUS='Complete', overlay DUE_DATE and DUE_DATE_STATUS from the
     best non-Complete due_items entry with the same PWF_RECORD_ID.
+
+    Also builds a lifecycle_lookup: PWF_RECORD_ID → lifecycle_status for
+    published docs based on TOLLGATE and CURRENT_STEP in due_items.
     """
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
 
     # Build due_items lookup: PWF_RECORD_ID → best non-Complete item
     due_lookup: dict = {}
+    lifecycle_lookup: dict = {}
     for item in data.get("due_items", []):
         pwf = (item.get("PWF_RECORD_ID") or "").strip()
         if not pwf:
             continue
+
+        # Lifecycle status for published docs only
+        if (item.get("WORKFLOW_STATUS") or "").strip() == "Published":
+            tollgate = (item.get("TOLLGATE") or "").strip()
+            step = (item.get("CURRENT_STEP") or "").strip()
+            if tollgate == "Approvals and Publication":
+                lifecycle_lookup[pwf] = "in-approvals"
+            elif tollgate == "Published" and "QC" in step:
+                lifecycle_lookup[pwf] = "under-qc"
+            else:
+                lifecycle_lookup[pwf] = "current"
+
         if (item.get("DUE_DATE_STATUS") or "").strip().lower() == "complete":
             continue
         due_date = parse_date(item.get("DUE_DATE"))
@@ -98,7 +114,7 @@ def load_dashboard(path: str) -> dict:
                 r["DUE_DATE_STATUS"] = next_cycle.get("DUE_DATE_STATUS")
         by_record[pwf] = r
 
-    return by_record
+    return by_record, lifecycle_lookup
 
 
 def collect_docs(root: str) -> list:
@@ -137,7 +153,8 @@ def compute_next_review(row: dict) -> Optional[date]:
     return None
 
 
-def patch_frontmatter(content: str, new_date: date, due_date_status: str) -> str:
+def patch_frontmatter(content: str, new_date: date, due_date_status: str,
+                      lifecycle_status: Optional[str] = None) -> str:
     # Patch next_review_date
     new_date_val = f'next_review_date: "{new_date.isoformat()}"'
     patched, count = re.subn(
@@ -158,6 +175,17 @@ def patch_frontmatter(content: str, new_date: date, due_date_status: str) -> str
             r'^(next_review_date:.*)', r'\1\n' + new_status_val, patched, flags=re.MULTILINE
         )
 
+    # Patch lifecycle_status (only for published docs)
+    if lifecycle_status is not None:
+        new_lifecycle_val = f'lifecycle_status: "{lifecycle_status}"'
+        patched, count = re.subn(
+            r'^lifecycle_status:.*$', new_lifecycle_val, patched, flags=re.MULTILINE
+        )
+        if count == 0:
+            patched = re.sub(
+                r'^(due_date_status:.*)', r'\1\n' + new_lifecycle_val, patched, flags=re.MULTILINE
+            )
+
     return patched
 
 
@@ -168,7 +196,7 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
     args = parser.parse_args()
 
-    by_record = load_dashboard(args.dashboard)
+    by_record, lifecycle_lookup = load_dashboard(args.dashboard)
     docs = collect_docs(args.docs)
 
     updated = skipped = unmatched = unchanged = 0
@@ -190,17 +218,21 @@ def main():
             continue
 
         due_status = row.get("DUE_DATE_STATUS", "")
+        lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
 
-        # Check both current values
+        # Check current values
         m_date = re.search(r'^next_review_date:\s*"?([^"\n]*)"?', content, re.MULTILINE)
         current_date_str = m_date.group(1).strip() if m_date else ""
         m_status = re.search(r'^due_date_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
         current_status_str = m_status.group(1).strip() if m_status else ""
+        m_lifecycle = re.search(r'^lifecycle_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
+        current_lifecycle_str = m_lifecycle.group(1).strip() if m_lifecycle else ""
 
         date_changed = current_date_str != new_date.isoformat()
         status_changed = current_status_str != due_status
+        lifecycle_changed = lifecycle_status is not None and current_lifecycle_str != lifecycle_status
 
-        if not date_changed and not status_changed:
+        if not date_changed and not status_changed and not lifecycle_changed:
             unchanged += 1
             continue
 
@@ -209,10 +241,12 @@ def main():
             changes.append(f"date {current_date_str} → {new_date.isoformat()}")
         if status_changed:
             changes.append(f"status {current_status_str!r} → {due_status!r}")
+        if lifecycle_changed:
+            changes.append(f"lifecycle {current_lifecycle_str!r} → {lifecycle_status!r}")
         print(f"  [UPDATE]    {os.path.basename(path)}: {', '.join(changes)}")
 
         if not args.dry_run:
-            new_content = patch_frontmatter(content, new_date, due_status)
+            new_content = patch_frontmatter(content, new_date, due_status, lifecycle_status)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new_content)
         updated += 1
