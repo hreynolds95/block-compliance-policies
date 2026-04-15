@@ -2,7 +2,7 @@
 doc_id: GOV-008
 title: "Block Academy System Administration Standard | Block Inc"
 version: 1.0.0
-status: draft
+status: published
 tier: 2
 domain: governance
 legal_entity: "Block, Inc."
@@ -10,8 +10,8 @@ business: "Block"
 owner: "Unassigned"
 approval_type: committee
 reviewers: []
-effective_date: ""
-next_review_date: "2026-05-01"
+effective_date: "2026-04-14"
+next_review_date: "2027-04-15"
 due_date_status: "Current"
 retention_years: 5
 logicgate_record_id: "L988o7t2"
