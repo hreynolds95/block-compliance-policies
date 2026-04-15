@@ -48,12 +48,15 @@ function renderDomainBreakdown(docs) {
   const published = docs.filter(d => d.status === 'published');
   const domains = [...new Set(published.map(d => d.domain).filter(Boolean))].sort();
 
-  document.getElementById('domainTbody').innerHTML = domains.map(domain => {
+  let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
+
+  const rows = domains.map(domain => {
     const group  = published.filter(d => d.domain === domain);
     const total  = group.length;
     const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
     const cd     = group.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
     const ok     = total - ov - cd;
+    totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     return `<tr>
       <td class="cell-label">${esc(domainLabel(domain))}</td>
       <td>${total}</td>
@@ -62,6 +65,16 @@ function renderDomainBreakdown(docs) {
       <td class="cell-success">${ok}</td>
     </tr>`;
   }).join('');
+
+  const totalsRow = `<tr class="dash-totals-row">
+    <td class="cell-label">Total</td>
+    <td>${totTotal}</td>
+    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? totOv : '—'}</td>
+    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? totCd : '—'}</td>
+    <td class="cell-success">${totOk}</td>
+  </tr>`;
+
+  document.getElementById('domainTbody').innerHTML = rows + totalsRow;
 }
 
 function renderTierBreakdown(docs) {

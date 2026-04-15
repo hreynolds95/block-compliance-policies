@@ -902,6 +902,8 @@ details[open] > .panel-header--collapsible::before {
 .dash-stat-table td:not(:first-child) { text-align: right; padding-left: 16px; font-variant-numeric: tabular-nums; }
 .dash-stat-table tr:last-child td { border-bottom: none; }
 .dash-stat-table .cell-label { color: var(--accent-2); }
+.dash-totals-row td { border-top: 1px solid var(--line) !important; font-weight: 600; color: var(--accent); }
+.dash-totals-row .cell-label { color: var(--accent); }
 .dash-stat-table .cell-danger  { color: var(--danger); font-weight: 600; }
 .dash-stat-table .cell-warning { color: var(--warning); font-weight: 600; }
 .dash-stat-table .cell-success { color: var(--success); }
