@@ -59,19 +59,19 @@ function renderDomainBreakdown(docs) {
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     return `<tr>
       <td class="cell-label">${esc(domainLabel(domain))}</td>
-      <td>${total}</td>
       <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
       <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
       <td class="cell-success">${ok}</td>
+      <td>${total}</td>
     </tr>`;
   }).join('');
 
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
-    <td>${totTotal}</td>
     <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? totOv : '—'}</td>
     <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? totCd : '—'}</td>
     <td class="cell-success">${totOk}</td>
+    <td>${totTotal}</td>
   </tr>`;
 
   document.getElementById('domainTbody').innerHTML = rows + totalsRow;
