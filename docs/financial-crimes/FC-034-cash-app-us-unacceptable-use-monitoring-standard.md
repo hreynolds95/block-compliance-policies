@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-03-31"
 due_date_status: "Extended"
+extension_status: "approved"
 lifecycle_status: "under-qc"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1ceejskU0ZWqslm_8XYF0P0d0RjxVWG1e/view"

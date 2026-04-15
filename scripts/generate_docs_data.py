@@ -86,7 +86,7 @@ def main():
                             review_status = "overdue"
                         else:
                             review_status = "pending-review"
-                    elif delta <= 90:
+                    elif delta <= 90 or due_date_status == "Coming Due":
                         review_status = "extension-coming-due" if is_extension else "due-soon"
                     else:
                         review_status = "ok"

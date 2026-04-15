@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-04-30"
 due_date_status: "Extended"
+extension_status: "approved"
 lifecycle_status: "current"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1Vq8baRTI4Da6-FF-BUbB4RdCecIrYyNQ/view?usp=sharing"

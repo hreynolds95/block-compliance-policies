@@ -114,7 +114,19 @@ def load_dashboard(path: str) -> tuple:
                 r["DUE_DATE_STATUS"] = next_cycle.get("DUE_DATE_STATUS")
         by_record[pwf] = r
 
-    return by_record, lifecycle_lookup
+    # Build extension_status lookup: PWF_RECORD_ID → extension_status
+    extension_lookup: dict = {}
+    for item in data.get("due_items", []):
+        pwf = (item.get("PWF_RECORD_ID") or "").strip()
+        if not pwf:
+            continue
+        ext_status = (item.get("EXTENSION_LIFECYCLE_STATUS") or "").strip()
+        if ext_status == "Extension Approved":
+            extension_lookup[pwf] = "approved"
+        elif ext_status == "Extension In Progress":
+            extension_lookup[pwf] = "in-progress"
+
+    return by_record, lifecycle_lookup, extension_lookup
 
 
 def collect_docs(root: str) -> list:
@@ -154,7 +166,8 @@ def compute_next_review(row: dict) -> Optional[date]:
 
 
 def patch_frontmatter(content: str, new_date: date, due_date_status: str,
-                      lifecycle_status: Optional[str] = None) -> str:
+                      lifecycle_status: Optional[str] = None,
+                      extension_status: Optional[str] = None) -> str:
     # Patch next_review_date
     new_date_val = f'next_review_date: "{new_date.isoformat()}"'
     patched, count = re.subn(
@@ -186,6 +199,18 @@ def patch_frontmatter(content: str, new_date: date, due_date_status: str,
                 r'^(due_date_status:.*)', r'\1\n' + new_lifecycle_val, patched, flags=re.MULTILINE
             )
 
+    # Patch extension_status
+    if extension_status is not None:
+        new_ext_val = f'extension_status: "{extension_status}"'
+        patched, count = re.subn(
+            r'^extension_status:.*$', new_ext_val, patched, flags=re.MULTILINE
+        )
+        if count == 0:
+            patched = re.sub(
+                r'^(lifecycle_status:.*|due_date_status:.*)',
+                r'\1\n' + new_ext_val, patched, count=1, flags=re.MULTILINE
+            )
+
     return patched
 
 
@@ -196,7 +221,7 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
     args = parser.parse_args()
 
-    by_record, lifecycle_lookup = load_dashboard(args.dashboard)
+    by_record, lifecycle_lookup, extension_lookup = load_dashboard(args.dashboard)
     docs = collect_docs(args.docs)
 
     updated = skipped = unmatched = unchanged = 0
@@ -219,6 +244,7 @@ def main():
 
         due_status = row.get("DUE_DATE_STATUS", "")
         lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
+        extension_status = extension_lookup.get(record_id)  # None if no active extension
 
         # Check current values
         m_date = re.search(r'^next_review_date:\s*"?([^"\n]*)"?', content, re.MULTILINE)
@@ -227,12 +253,15 @@ def main():
         current_status_str = m_status.group(1).strip() if m_status else ""
         m_lifecycle = re.search(r'^lifecycle_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
         current_lifecycle_str = m_lifecycle.group(1).strip() if m_lifecycle else ""
+        m_ext = re.search(r'^extension_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
+        current_ext_str = m_ext.group(1).strip() if m_ext else ""
 
         date_changed = current_date_str != new_date.isoformat()
         status_changed = current_status_str != due_status
         lifecycle_changed = lifecycle_status is not None and current_lifecycle_str != lifecycle_status
+        extension_changed = extension_status is not None and current_ext_str != extension_status
 
-        if not date_changed and not status_changed and not lifecycle_changed:
+        if not date_changed and not status_changed and not lifecycle_changed and not extension_changed:
             unchanged += 1
             continue
 
@@ -243,10 +272,12 @@ def main():
             changes.append(f"status {current_status_str!r} → {due_status!r}")
         if lifecycle_changed:
             changes.append(f"lifecycle {current_lifecycle_str!r} → {lifecycle_status!r}")
+        if extension_changed:
+            changes.append(f"extension {current_ext_str!r} → {extension_status!r}")
         print(f"  [UPDATE]    {os.path.basename(path)}: {', '.join(changes)}")
 
         if not args.dry_run:
-            new_content = patch_frontmatter(content, new_date, due_status, lifecycle_status)
+            new_content = patch_frontmatter(content, new_date, due_status, lifecycle_status, extension_status)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new_content)
         updated += 1
