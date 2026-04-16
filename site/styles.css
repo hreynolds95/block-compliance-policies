@@ -169,6 +169,8 @@ body {
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 .kpi-card:hover { border-color: var(--line); }
+.kpi-card--link { text-decoration: none; color: inherit; }
+.kpi-card--link:hover { border-color: var(--accent) !important; background: color-mix(in srgb, var(--card) 85%, var(--accent) 15%); }
 .kpi-card--active {
   border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 8%, var(--card));

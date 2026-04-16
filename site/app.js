@@ -51,7 +51,8 @@ async function init() {
     populateEntityFilter(allDocs);
     populateOwnerFilter(allDocs);
     renderHeroStats(allDocs, data.generated);
-    renderTable(allDocs);
+    applyUrlFilters();
+    renderTable(filteredDocs());
   } else {
   }
 
@@ -419,6 +420,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
   init();
 });
+
+function applyUrlFilters() {
+  const params = new URLSearchParams(location.search);
+  const filterMap = {
+    review:    'filterReview',
+    domain:    'filterDomain',
+    status:    'filterStatus',
+    business:  'filterBusiness',
+    entity:    'filterEntity',
+    tier:      'filterTier',
+    extension: 'filterExtension',
+  };
+  Object.entries(filterMap).forEach(([param, id]) => {
+    const val = params.get(param);
+    if (val) document.getElementById(id).value = val;
+  });
+  updateFilterHighlights();
+}
 
 function updateFilterHighlights() {
   const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'];
