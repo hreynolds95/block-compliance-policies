@@ -40,6 +40,8 @@ function renderKPIs(docs) {
     docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
   document.getElementById('kpiExtensions').textContent =
     docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
+  document.getElementById('kpiRetired').textContent =
+    docs.filter(d => d.status === 'retired').length;
 }
 
 function renderRecentKPI(docs) {
