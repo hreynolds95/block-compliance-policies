@@ -18,7 +18,7 @@ async function init() {
       hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
       timeZone: 'America/New_York',
     });
-    badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}`;
+    badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}<br><a href="./section-logic.html" class="section-logic-btn">Section Logic &amp; Data Dictionary →</a>`;
   }
 
   renderKPIs(docs);
