@@ -196,22 +196,23 @@
 </head>
 <body>
   <div class="container">
-    <a href="./index.html" class="back-link">← Back to Policy Library</a>
+    <a href="./dashboard.html" class="back-link">← Back to Metrics Dashboard</a>
 
-    <h1>Policy Library Section Logic Reference</h1>
+    <h1>Policy Library &amp; Metrics Dashboard — Section Logic Reference</h1>
     <div class="meta">
       <strong>Repository:</strong> <code>hreynolds95/block-compliance-policies</code><br>
-      <strong>GitHub Pages:</strong> <a href="./index.html">block-compliance-policies</a><br>
+      <strong>GitHub Pages:</strong> <a href="./index.html">Policy Library</a> · <a href="./dashboard.html">Metrics Dashboard</a><br>
       <strong>Source data:</strong> <code>LOGICGATE_SF.PUBLIC.POLICY_DASHBOARD</code> via Snowflake<br>
-      <strong>Related dashboard:</strong> <a href="https://blockcell.sqprod.co/sites/compliance-policy-dashboard/index.html" target="_blank" rel="noopener">Blockcell Compliance Policy Dashboard</a>
+      <strong>Reference dashboard:</strong> <a href="https://mtk-altswag.github.io/policy-dashboard/" target="_blank" rel="noopener">mtk-altswag Policy Dashboard</a>
     </div>
 
     <nav class="toc">
       <h2>Contents</h2>
       <ol>
         <li><a href="#pipeline">Data Pipeline Overview</a></li>
-        <li><a href="#kpis">KPI Cards</a></li>
-        <li><a href="#review-dates">Review Date Logic</a></li>
+        <li><a href="#kpis">KPI Cards (Metrics Dashboard)</a></li>
+        <li><a href="#dashboard-tables">Dashboard Breakdown Tables</a></li>
+        <li><a href="#review-dates">Review Date &amp; Status Logic</a></li>
         <li><a href="#extensions">Extension Status</a></li>
         <li><a href="#library">Policy &amp; Standard Library</a></li>
         <li><a href="#audit">Audit Log</a></li>
@@ -265,123 +266,240 @@
 
     <!-- ── KPI Cards ── -->
     <div class="section" id="kpis">
-      <h2>2. KPI Cards</h2>
-      <p>Each card is clickable and filters the policy library table to the corresponding document set. Clicking an active card again clears the filter.</p>
+      <h2>2. KPI Cards (Metrics Dashboard)</h2>
+      <p>Seven KPI cards appear at the top of the Metrics Dashboard. Six are clickable links that navigate to the Policy Library with a pre-applied filter via URL param. The Active card is display-only.</p>
 
       <table>
-        <tr><th>Card</th><th>Color</th><th>Definition</th><th>Filter applied</th></tr>
+        <tr><th>Card</th><th>Color</th><th>Definition</th><th>URL param</th></tr>
         <tr>
           <td><strong>Active</strong></td>
           <td><span class="badge badge-green">green</span></td>
-          <td><code>status === 'published'</code></td>
-          <td>Status = Published</td>
+          <td><code>status === 'published'</code> — all live published policies and standards</td>
+          <td><em>display only</em></td>
         </tr>
         <tr>
           <td><strong>Intake</strong></td>
           <td><span class="badge badge-blue">blue</span></td>
-          <td><code>status === 'draft' || status === 'in-review'</code> — documents in the approval queue</td>
-          <td>Status = Intake (draft / in review)</td>
+          <td><code>status === 'draft' || status === 'in-review'</code> — documents in the approval pipeline</td>
+          <td><code>?status=not-published</code></td>
         </tr>
         <tr>
           <td><strong>Overdue Review</strong></td>
           <td><span class="badge badge-red">red</span></td>
-          <td><code>review_status === 'overdue' || review_status === 'pending-review'</code> — past due date (includes grace period)</td>
-          <td>Review State = Overdue (incl. Pending Review)</td>
+          <td><code>review_status</code> is <code>overdue</code>, <code>pending-review</code>, or <code>overdue-past-extension</code> — any doc past its review deadline</td>
+          <td><code>?review=overdue</code></td>
         </tr>
         <tr>
-          <td><strong>Coming Due (30d)</strong></td>
+          <td><strong>Coming Due (90d)</strong></td>
           <td><span class="badge badge-yellow">yellow</span></td>
-          <td><code>review_status === 'due-soon'</code> — <code>next_review_date</code> within 30 days</td>
-          <td>Review State = Due soon</td>
+          <td><code>review_status === 'due-soon' || review_status === 'extension-coming-due'</code> — next review date within 90 days, or Snowflake explicitly reports <code>DUE_DATE_STATUS = 'Coming Due'</code></td>
+          <td><code>?review=coming-due</code></td>
         </tr>
         <tr>
           <td><strong>Active Extensions</strong></td>
           <td><span class="badge badge-purple">purple</span></td>
-          <td><code>extension_status === 'approved'</code> or <code>'in-progress'</code></td>
-          <td>Extensions = Any active extension</td>
+          <td><code>extension_status === 'approved' || extension_status === 'in-progress'</code> — sourced from <code>EXTENSION_LIFECYCLE_STATUS</code> in Snowflake <code>due_items</code></td>
+          <td><code>?extension=active</code></td>
         </tr>
+        <tr>
+          <td><strong>Recently Published (30d)</strong></td>
+          <td><span class="badge badge-blue">blue</span></td>
+          <td><code>status === 'published'</code> and <code>effective_date &gt;= today − 30 days</code> — policies approved and published in the last 30 days</td>
+          <td><code>?recent=30</code></td>
+        </tr>
+        <tr>
+          <td><strong>Retired</strong></td>
+          <td><span class="badge badge-gray">gray</span></td>
+          <td><code>status === 'retired'</code> — documents formally retired in LogicGate (<code>WORKFLOW_STATUS = 'Retired'</code>)</td>
+          <td><code>?status=retired</code></td>
+        </tr>
+      </table>
+
+      <div class="callout">The <code>?recent=30</code> param is handled specially: it sets an in-memory <code>recentDays</code> state (not a select filter) and shows a dismissable chip — "Recently Published (30d) ×" — in the filter bar to indicate the active filter.</div>
+    </div>
+
+    <!-- ── Dashboard Breakdown Tables ── -->
+    <div class="section" id="dashboard-tables">
+      <h2>3. Dashboard Breakdown Tables</h2>
+
+      <h3>Document Lifecycle Tracking</h3>
+      <p>Shows where each published policy sits in its active update workflow cycle. Source: <code>due_items</code> records in <code>dashboard-data.json</code> where <code>WORKFLOW_STATUS = 'Published'</code>. Rows are grouped by domain.</p>
+
+      <table>
+        <tr><th>Column</th><th>Snowflake criteria</th><th>Count</th></tr>
+        <tr>
+          <td><strong>Current</strong></td>
+          <td><code>TOLLGATE = 'Published'</code> and <code>CURRENT_STEP = 'Document Drafting (Submitter)'</code> — published, no active update in progress</td>
+          <td>153</td>
+        </tr>
+        <tr>
+          <td><strong>Under QC</strong></td>
+          <td><code>TOLLGATE = 'Published'</code> and <code>CURRENT_STEP</code> contains <code>'QC'</code> — update draft is at the QC / Assign Reviewers step</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td><strong>In Approvals</strong></td>
+          <td><code>TOLLGATE = 'Approvals and Publication'</code> — update is in the final approvals stage</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td><strong>Total</strong></td>
+          <td>All published docs (153 + 5 + 1)</td>
+          <td>159</td>
+        </tr>
+      </table>
+
+      <p>The <code>lifecycle_status</code> frontmatter field (<code>current</code> / <code>under-qc</code> / <code>in-approvals</code>) is written by <code>sync_review_dates.py</code> on each data refresh and passed through to <code>docs-data.json</code>.</p>
+
+      <h3>By Domain</h3>
+      <p>Review health of published policies per compliance domain. Published docs only (<code>status === 'published'</code>). Columns: <strong>Overdue</strong> (<code>review_status</code> in overdue group), <strong>Coming Due</strong> (due-soon / extension-coming-due), <strong>On Track</strong> (remainder), <strong>Total</strong>. A bold totals row summarises all domains.</p>
+
+      <h3>By Tier</h3>
+      <p>Published policy count per governance tier, with overdue alert inline.</p>
+      <table>
+        <tr><th>Tier</th><th>Approval level</th></tr>
+        <tr><td>Tier 1</td><td>Board-approved</td></tr>
+        <tr><td>Tier 2</td><td>Committee-approved</td></tr>
+        <tr><td>Tier 3</td><td>Owner-approved</td></tr>
+      </table>
+
+      <h3>Review Status Breakdown</h3>
+      <p>Count of published docs per <code>review_status</code> value. Only statuses with at least one doc are shown. A totals row confirms the count reconciles to Active (159).</p>
+      <table>
+        <tr><th>Status</th><th>Color</th><th>Definition</th></tr>
+        <tr><td>Overdue</td><td><span class="badge badge-red">red</span></td><td>More than 30 days past due, no extension</td></tr>
+        <tr><td>Pending Review</td><td><span class="badge badge-red">red</span></td><td>Past review date; within 30-day grace period</td></tr>
+        <tr><td>Overdue (Past Ext.)</td><td><span class="badge badge-red">red</span></td><td>Beyond the approved extension deadline</td></tr>
+        <tr><td>Due Soon (90d)</td><td><span class="badge badge-yellow">yellow</span></td><td>Due within 90 days, or Snowflake reports Coming Due</td></tr>
+        <tr><td>Ext. Coming Due</td><td><span class="badge badge-yellow">yellow</span></td><td>Extension granted; extended deadline within 90 days</td></tr>
+        <tr><td>On Track</td><td><span class="badge badge-green">green</span></td><td>No near-term review action required</td></tr>
+        <tr><td>Unknown</td><td><span class="badge badge-gray">gray</span></td><td>No review date or status available</td></tr>
       </table>
     </div>
 
     <!-- ── Review Date Logic ── -->
     <div class="section" id="review-dates">
-      <h2>3. Review Date Logic</h2>
+      <h2>4. Review Date &amp; Status Logic</h2>
 
-      <h3>Background</h3>
-      <p>During the October 2025 migration to LogicGate, review dates were not captured for pre-existing policies. The initial import set <code>next_review_date</code> directly from <code>DUE_DATE</code> — the LogicGate <em>workflow approval deadline</em> — which had already passed for completed workflows, causing 136 false-positive overdue flags.</p>
-
-      <h3>Correction (<code>sync_review_dates.py</code>)</h3>
-      <p>The script matches each DMS doc to the dashboard record by <code>logicgate_record_id</code> → <code>PWF_RECORD_ID</code> and computes <code>next_review_date</code> as follows:</p>
+      <h3>sync_review_dates.py — Fields Written to Frontmatter</h3>
+      <p>Matches each DMS doc to the dashboard record by <code>logicgate_record_id</code> → <code>PWF_RECORD_ID</code>. On each data refresh it writes four fields to doc frontmatter:</p>
 
       <table>
-        <tr><th>DUE_DATE_STATUS</th><th>next_review_date formula</th></tr>
+        <tr><th>Frontmatter field</th><th>Source field(s)</th><th>Notes</th></tr>
         <tr>
-          <td><span class="badge badge-green">Complete</span></td>
-          <td><code>DATE_OF_FINAL_APPROVAL + 1 year</code> — workflow finished, next cycle is annual from last approval</td>
+          <td><code>next_review_date</code></td>
+          <td><code>EXTENDED_DUEDATE</code> (when extension approved) or <code>DUE_DATE</code></td>
+          <td>For Complete rows, next cycle is sourced from <code>due_items</code>; see below</td>
         </tr>
         <tr>
-          <td><span class="badge badge-yellow">Current</span> / <span class="badge badge-yellow">Coming Due</span> / <span class="badge badge-red">Extended</span> / <span class="badge badge-red">Overdue Past Extension</span> / <span class="badge badge-gray">Pending Review</span></td>
-          <td><code>DUE_DATE</code> — active workflow deadline is the correct target date</td>
+          <td><code>due_date_status</code></td>
+          <td><code>DUE_DATE_STATUS</code></td>
+          <td>Current / Coming Due / Extended / Pending Review / Overdue / Complete / etc.</td>
+        </tr>
+        <tr>
+          <td><code>lifecycle_status</code></td>
+          <td><code>TOLLGATE</code> + <code>CURRENT_STEP</code> in <code>due_items</code></td>
+          <td><code>current</code> / <code>under-qc</code> / <code>in-approvals</code> — published docs only</td>
+        </tr>
+        <tr>
+          <td><code>extension_status</code></td>
+          <td><code>EXTENSION_LIFECYCLE_STATUS</code> in <code>due_items</code></td>
+          <td><code>approved</code> / <code>in-progress</code> — set when an active extension exists</td>
         </tr>
       </table>
 
-      <div class="callout">3 docs are unmatched to dashboard records: GOV-008, GOV-010 (record IDs not in current dashboard), and POL-003 (removed — no PWF_RECORD_ID). These retain their manually set review dates.</div>
+      <h3>Complete Row Enrichment</h3>
+      <p>When a doc's main <code>rows</code> record has <code>DUE_DATE_STATUS = 'Complete'</code> (prior review cycle finished), the sync script overlays four fields from the best matching <code>due_items</code> entry for the next open cycle: <code>DUE_DATE</code>, <code>DUE_DATE_STATUS</code>, <code>EXTENDED_DUEDATE</code>, and <code>EXTENSION_LIFECYCLE_STATUS</code>. This is critical for docs whose extensions live in <code>due_items</code> but not the main <code>rows</code> record.</p>
 
-      <h3>review_status Calculation</h3>
-      <p>Computed at JSON generation time in <code>generate_docs_data.py</code>:</p>
-      <pre><code>delta     = (next_review_date - today).days
-ext_delta = (extended_due_date - today).days  # only when extension present
-has_extension = bool(extension_status)
+      <div class="callout">GOV-008 and GOV-010 are unmatched to dashboard records (record IDs not present in current Snowflake data). These retain their manually set review dates.</div>
 
-# Extension path — extended_due_date governs when an extension is active
-has_extension and extended_due_date present:
-  ext_delta &lt; 0    → "overdue-past-extension"   # past the extended deadline
-  ext_delta &lt;= 90  → "extension-coming-due"     # extended deadline within 30 days
-  else             → "ok"
+      <h3>review_status Classification</h3>
+      <p>Computed at JSON generation time in <code>generate_docs_data.py</code>. Snowflake's <code>due_date_status</code> is the authoritative source — date math only refines within each status bucket.</p>
 
-# Standard path — no extension
-delta &lt; -30        → "overdue"                  # &gt;30 days past due, no extension
-delta &lt; 0          → "pending-review"            # T to T+30: grace period
-delta &lt;= 90        → "due-soon"                 # coming due within 30 days
-else               → "ok"
-missing            → "unknown"</code></pre>
+      <pre><code># Primary path: due_date_status is set and non-Complete
+is_extension = due_date_status in ("Extended", "Extension Coming Due", "Overdue Past Extension")
+delta = (next_review_date - today).days
+
+if delta &lt; 0:
+    if is_extension  → "overdue-past-extension"   # past extended deadline
+    elif Overdue     → "overdue"                  # &gt;30 days past due, no extension
+    else             → "pending-review"            # within 30-day grace period
+
+elif delta &lt;= 90 OR due_date_status == "Coming Due":
+    if is_extension  → "extension-coming-due"
+    else             → "due-soon"
+    # Note: Snowflake's "Coming Due" is trusted directly even if date &gt; 90 days
+    # (Snowflake computes a longer window tied to board/committee cycles)
+
+else → "ok"
+
+# due_date_status == "Complete" → "ok"
+# No due_date_status (fallback date-math path):
+#   delta &lt; -30 → "overdue" | delta &lt; 0 → "pending-review"
+#   delta &lt;= 90 → "due-soon" | else → "ok" | no date → "unknown"</code></pre>
+
+      <h3>Coming Due Window</h3>
+      <p>The coming-due window is <strong>90 days</strong>. Additionally, any doc where Snowflake's <code>DUE_DATE_STATUS</code> is explicitly <code>'Coming Due'</code> is always classified as <code>due-soon</code> regardless of days remaining — Snowflake may flag docs beyond 90 days based on board or committee meeting schedules.</p>
+
+      <h3>By Due Date Status — Reference Definitions</h3>
+      <table>
+        <tr><th>Status</th><th>Definition</th></tr>
+        <tr><td><span class="badge badge-green">Current</span></td><td>Up to date — no near-term review action required</td></tr>
+        <tr><td><span class="badge badge-yellow">Coming Due</span></td><td>Due within 90 days (or Snowflake reports Coming Due)</td></tr>
+        <tr><td><span class="badge badge-yellow">Extended</span></td><td>Extension granted; extended deadline is in the future</td></tr>
+        <tr><td><span class="badge badge-yellow">Ext. Coming Due</span></td><td>Extension granted; extended deadline within 90 days</td></tr>
+        <tr><td><span class="badge badge-red">Pending Review</span></td><td>Past review date; within 30-day grace period</td></tr>
+        <tr><td><span class="badge badge-red">Overdue</span></td><td>More than 30 days past due, no extension</td></tr>
+        <tr><td><span class="badge badge-red">Overdue Past Ext.</span></td><td>Beyond the approved extension deadline</td></tr>
+      </table>
     </div>
 
     <!-- ── Extensions ── -->
     <div class="section" id="extensions">
-      <h2>4. Extension Status</h2>
-      <p>Policies with active or pending due date extensions in LogicGate are flagged with <code>extension_status</code> in their frontmatter. The source field is <code>EXTENSION_LIFECYCLE_STATUS</code> in the Snowflake table.</p>
+      <h2>5. Extension Status</h2>
+      <p><code>extension_status</code> is written to doc frontmatter automatically by <code>sync_review_dates.py</code> on each data refresh. Source field: <code>EXTENSION_LIFECYCLE_STATUS</code> in the Snowflake <code>due_items</code> dataset. 14 docs currently have an active extension.</p>
 
       <table>
-        <tr><th>extension_status</th><th>LogicGate value</th><th>Badge</th><th>Meaning</th></tr>
+        <tr><th>extension_status</th><th>Snowflake value</th><th>Badge</th><th>Meaning</th></tr>
         <tr>
           <td><code>approved</code></td>
           <td>Extension Approved</td>
           <td><span class="badge badge-purple">Ext. Approved</span></td>
-          <td>Due date extension granted; <code>extended_due_date</code> is the new deadline</td>
+          <td>Extension granted; <code>next_review_date</code> is set to <code>EXTENDED_DUEDATE</code> (Sep–Nov 2026 range)</td>
         </tr>
         <tr>
           <td><code>in-progress</code></td>
           <td>Extension In Progress</td>
           <td><span class="badge badge-yellow">Ext. Pending</span></td>
-          <td>Extension request submitted, awaiting approval</td>
+          <td>Extension request submitted, awaiting approval; original due date still governs</td>
         </tr>
       </table>
 
-      <h3>Affected Documents</h3>
+      <h3>Active Extension Docs (14)</h3>
       <table>
-        <tr><th>Doc ID</th><th>Title</th><th>Status</th><th>Extended Due Date</th></tr>
-        <tr><td><code>GOV-033</code></td><td>Block Inc. Compliance Training Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td><td>2026-07-27</td></tr>
-        <tr><td><code>GOV-011</code></td><td>Block, Inc. Compliance Policy on Policies</td><td><span class="badge badge-yellow">Ext. Pending</span></td><td>2026-06-26</td></tr>
-        <tr><td><code>GOV-045</code></td><td>Compliance Issue Management Oversight Framework</td><td><span class="badge badge-yellow">Ext. Pending</span></td><td>2026-11-30</td></tr>
+        <tr><th>Doc ID</th><th>Title (abbreviated)</th><th>Status</th></tr>
+        <tr><td><code>CP-002</code></td><td>Afterpay Canada Limited Canada Complaints Policy</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-003</code></td><td>Afterpay Canada Limited Canada Consumer Protection Policy</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-048</code></td><td>Afterpay Canada Limited Canada Marketing Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-049</code></td><td>Afterpay Canada Limited French Language Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-050</code></td><td>Afterpay US Inc US Complaint Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-051</code></td><td>Block Inc. Global Complaint Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>CP-054</code></td><td>Cash App US Consumer Protection Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>EE-003</code></td><td>Block, Inc. Anti-Bribery &amp; Anti-Corruption Policy</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>FC-009</code></td><td>Block Inc. Global Sanctions Compliance Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>FC-021</code></td><td>Square Capital LLC Credit Card BSA/AML Program</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>FC-034</code></td><td>Cash App US Unacceptable Use Monitoring Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>GOV-011</code></td><td>Block, Inc. Compliance Policy on Policies</td><td><span class="badge badge-yellow">Ext. Pending</span></td></tr>
+        <tr><td><code>GOV-033</code></td><td>Block Inc. Compliance Training Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>GOV-044</code></td><td>Compliance Incident Management Reporting Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
       </table>
 
-      <p>The <strong>Next Review</strong> column in the policy table shows the <code>extended_due_date</code> (with a tooltip) for any doc with an active extension, replacing the original <code>next_review_date</code>.</p>
+      <p>The <strong>Next Review</strong> column in the policy library shows <code>next_review_date</code> (which equals <code>EXTENDED_DUEDATE</code> for approved extensions) with a tooltip showing the extended date.</p>
     </div>
 
     <!-- ── Policy Library ── -->
     <div class="section" id="library">
-      <h2>5. Policy &amp; Standard Library</h2>
+      <h2>6. Policy &amp; Standard Library</h2>
 
       <h3>Data Source</h3>
       <p>The table reads from <code>site/docs-data.json</code>, generated at deploy time from YAML frontmatter in <code>docs/</code>. Each row represents one unique active policy stub.</p>
@@ -407,13 +525,14 @@ missing            → "unknown"</code></pre>
         <li><strong>Search</strong> — free-text match on doc_id, pwf_record_id, title, owner, domain, and full PDF text (via search index)</li>
         <li><strong>Domain</strong> — populated dynamically from loaded documents</li>
         <li><strong>Status</strong> — published / draft / in-review / retired / intake (draft + in-review)</li>
-        <li><strong>Review State</strong> — overdue (incl. pending-review + overdue-past-extension) / pending-review / due-soon / extension-coming-due / overdue-past-extension / ok</li>
+        <li><strong>Review State</strong> — overdue (incl. pending-review + overdue-past-extension) / pending-review / coming-due / due-soon / extension-coming-due / overdue-past-extension / ok</li>
         <li><strong>Business</strong> — populated dynamically from loaded documents</li>
         <li><strong>Entity</strong> — populated dynamically from loaded documents</li>
         <li><strong>Tier</strong> — 1 / 2 / 3</li>
         <li><strong>Extensions</strong> — any active / approved only / in-progress only</li>
+        <li><strong>Recently Published (30d)</strong> — set via <code>?recent=30</code> URL param; shown as a dismissable chip, not a dropdown</li>
       </ul>
-      <p>Active filter dropdowns are highlighted with an info-blue tint. Clicking a KPI card sets the matching filter and highlights that card.</p>
+      <p>Active filter dropdowns are highlighted. All filters (including Recently Published) are cleared by the <strong>Clear</strong> button or the chip's × button.</p>
 
       <h3>Sorting</h3>
       <p>All columns are sortable by clicking the column header. Default sort is by <code>doc_id</code> ascending. The table header row is sticky and remains visible while scrolling.</p>
@@ -421,7 +540,7 @@ missing            → "unknown"</code></pre>
 
     <!-- ── Audit Log ── -->
     <div class="section" id="audit">
-      <h2>6. Audit Log</h2>
+      <h2>7. Audit Log</h2>
       <p>An immutable append-only log of every document change event, stored at <code>audit/audit-log.jsonl</code> (one JSON object per line). Collapsed by default on the dashboard.</p>
 
       <h3>Schema</h3>
@@ -448,7 +567,7 @@ missing            → "unknown"</code></pre>
 
     <!-- ── CI Workflows ── -->
     <div class="section" id="workflows">
-      <h2>7. CI/CD Workflows</h2>
+      <h2>8. CI/CD Workflows</h2>
 
       <table>
         <tr><th>Workflow</th><th>Trigger</th><th>Purpose</th><th>Status</th></tr>
