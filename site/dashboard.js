@@ -22,6 +22,7 @@ async function init() {
   }
 
   renderKPIs(docs);
+  renderRecentKPI(docs);
   renderLifecycleBreakdown(docs);
   renderDomainBreakdown(docs);
   renderTierBreakdown(docs);
@@ -39,6 +40,17 @@ function renderKPIs(docs) {
     docs.filter(d => d.review_status === 'due-soon' || d.review_status === 'extension-coming-due').length;
   document.getElementById('kpiExtensions').textContent =
     docs.filter(d => d.extension_status === 'approved' || d.extension_status === 'in-progress').length;
+}
+
+function renderRecentKPI(docs) {
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+  const count = docs.filter(d => {
+    if (d.status !== 'published') return false;
+    const eff = d.effective_date ? new Date(d.effective_date) : null;
+    return eff && eff >= cutoff;
+  }).length;
+  document.getElementById('kpiRecent').textContent = count;
 }
 
 function renderLifecycleBreakdown(docs) {

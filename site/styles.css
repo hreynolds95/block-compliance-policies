@@ -150,7 +150,7 @@ body {
 /* ── KPI strip ── */
 .kpi-strip {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 16px;
 }
 @media (max-width: 900px) { .kpi-strip { grid-template-columns: repeat(3, 1fr); } }
@@ -292,6 +292,31 @@ select.filter-select--active {
   color: var(--muted);
   white-space: nowrap;
 }
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  background: color-mix(in srgb, var(--accent) 15%, var(--card));
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--accent);
+  white-space: nowrap;
+}
+.filter-chip-x {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1;
+  padding: 0;
+  opacity: 0.7;
+}
+.filter-chip-x:hover { opacity: 1; }
 
 /* ── Document table ── */
 .doc-table {

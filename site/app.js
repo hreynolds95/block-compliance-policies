@@ -3,6 +3,7 @@
 let allDocs = [];
 let sortCol = 'doc_id';
 let sortAsc = true;
+let recentDays = null;  // set by ?recent=N URL param
 
 // ── Full-text search index (lazy-loaded on first search focus) ───────────────
 
@@ -163,6 +164,12 @@ function filteredDocs() {
       else if (review && !['overdue','coming-due'].includes(review) && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
+      if (recentDays !== null) {
+        const cutoff = new Date();
+        cutoff.setDate(cutoff.getDate() - recentDays);
+        const eff = d.effective_date ? new Date(d.effective_date) : null;
+        if (!eff || eff < cutoff) return false;
+      }
       return true;
     })
     .sort((a, b) => {
@@ -389,7 +396,7 @@ document.addEventListener('DOMContentLoaded', () => {
     exportToCsv(filteredDocs());
   });
 
-  document.getElementById('clearFilters').addEventListener('click', () => {
+  function clearAllFilters() {
     document.getElementById('searchInput').value     = '';
     document.getElementById('filterDomain').value    = '';
     document.getElementById('filterStatus').value    = '';
@@ -399,9 +406,24 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterTier').value      = '';
     document.getElementById('filterReview').value    = '';
     document.getElementById('filterExtension').value = '';
+    recentDays = null;
+    const chip = document.getElementById('recentChip');
+    if (chip) chip.style.display = 'none';
     updateFilterHighlights();
     renderTable(filteredDocs());
-  });
+  }
+
+  document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
+
+  const recentChipClear = document.getElementById('recentChipClear');
+  if (recentChipClear) {
+    recentChipClear.addEventListener('click', () => {
+      recentDays = null;
+      document.getElementById('recentChip').style.display = 'none';
+      updateFilterHighlights();
+      renderTable(filteredDocs());
+    });
+  }
 
   // '/' focuses search (unless already typing in an input)
   document.addEventListener('keydown', e => {
@@ -436,12 +458,21 @@ function applyUrlFilters() {
     const val = params.get(param);
     if (val) document.getElementById(id).value = val;
   });
+  const recent = params.get('recent');
+  if (recent) {
+    recentDays = parseInt(recent, 10);
+    const chip = document.getElementById('recentChip');
+    if (chip) {
+      chip.querySelector('.filter-chip-x').textContent = '×';
+      chip.style.display = '';
+    }
+  }
   updateFilterHighlights();
 }
 
 function updateFilterHighlights() {
   const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'];
-  let anyActive = document.getElementById('searchInput').value !== '';
+  let anyActive = document.getElementById('searchInput').value !== '' || recentDays !== null;
   filterIds.forEach(id => {
     const el = document.getElementById(id);
     const active = el.value !== '';
