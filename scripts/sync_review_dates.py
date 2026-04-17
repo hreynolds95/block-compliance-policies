@@ -44,6 +44,13 @@ ACTIVE_WORKFLOW_STATUSES = {
     "Overdue Past Extension",
 }
 
+# Maps Snowflake WORKFLOW_STATUS → DMS frontmatter status value
+WORKFLOW_STATUS_MAP = {
+    "Published": "published",
+    "Retired":   "retired",
+    "Draft":     "draft",
+}
+
 
 def parse_date(val) -> Optional[date]:
     if not val:
@@ -100,6 +107,17 @@ def load_dashboard(path: str) -> tuple:
         if existing is None or due_date > parse_date(existing.get("DUE_DATE")):
             due_lookup[pwf] = item
 
+    # Build status_lookup: PWF_RECORD_ID → DMS status (from WORKFLOW_STATUS in rows)
+    status_lookup: dict = {}
+    for r in data["rows"]:
+        pwf = (r.get("PWF_RECORD_ID") or "").strip()
+        if not pwf:
+            continue
+        wf = (r.get("WORKFLOW_STATUS") or "").strip()
+        dms_status = WORKFLOW_STATUS_MAP.get(wf)
+        if dms_status:
+            status_lookup[pwf] = dms_status
+
     by_record: dict = {}
     for r in data["rows"]:
         pwf = (r.get("PWF_RECORD_ID") or "").strip()
@@ -128,7 +146,7 @@ def load_dashboard(path: str) -> tuple:
         elif ext_status == "Extension In Progress":
             extension_lookup[pwf] = "in-progress"
 
-    return by_record, lifecycle_lookup, extension_lookup
+    return by_record, lifecycle_lookup, extension_lookup, status_lookup
 
 
 def collect_docs(root: str) -> list:
@@ -167,10 +185,20 @@ def compute_next_review(row: dict) -> Optional[date]:
     return None
 
 
-def patch_frontmatter(content: str, new_date: date, due_date_status: str,
+def patch_frontmatter(content: str, new_date: Optional[date], due_date_status: str,
                       lifecycle_status: Optional[str] = None,
-                      extension_status: Optional[str] = None) -> str:
+                      extension_status: Optional[str] = None,
+                      doc_status: Optional[str] = None) -> str:
+    # Patch doc status (published / retired / draft)
+    if doc_status is not None:
+        patched, count = re.subn(
+            r'^status:.*$', f'status: {doc_status}', content, flags=re.MULTILINE
+        )
+        content = patched if count else content
+
     # Patch next_review_date
+    if new_date is None:
+        return content
     new_date_val = f'next_review_date: "{new_date.isoformat()}"'
     patched, count = re.subn(
         r'^next_review_date:.*$', new_date_val, content, flags=re.MULTILINE
@@ -223,7 +251,7 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
     args = parser.parse_args()
 
-    by_record, lifecycle_lookup, extension_lookup = load_dashboard(args.dashboard)
+    by_record, lifecycle_lookup, extension_lookup, status_lookup = load_dashboard(args.dashboard)
     docs = collect_docs(args.docs)
 
     updated = skipped = unmatched = unchanged = 0
@@ -239,14 +267,11 @@ def main():
 
         row = by_record[record_id]
         new_date = compute_next_review(row)
-        if not new_date:
-            print(f"  [NO DATE]   {os.path.basename(path)} — no usable date in dashboard row")
-            skipped += 1
-            continue
 
         due_status = row.get("DUE_DATE_STATUS", "")
         lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
         extension_status = extension_lookup.get(record_id)  # None if no active extension
+        doc_status = status_lookup.get(record_id)           # None if unmapped workflow status
 
         # Check current values
         m_date = re.search(r'^next_review_date:\s*"?([^"\n]*)"?', content, re.MULTILINE)
@@ -257,21 +282,31 @@ def main():
         current_lifecycle_str = m_lifecycle.group(1).strip() if m_lifecycle else ""
         m_ext = re.search(r'^extension_status:\s*"?([^"\n]*)"?', content, re.MULTILINE)
         current_ext_str = m_ext.group(1).strip() if m_ext else ""
+        m_doc_status = re.search(r'^status:\s*(\S+)', content, re.MULTILINE)
+        current_doc_status_str = m_doc_status.group(1).strip() if m_doc_status else ""
 
-        date_changed = current_date_str != new_date.isoformat()
-        status_changed = current_status_str != due_status
+        date_changed = new_date is not None and current_date_str != new_date.isoformat()
+        review_status_changed = current_status_str != due_status
         lifecycle_changed = lifecycle_status is not None and current_lifecycle_str != lifecycle_status
         extension_changed = extension_status is not None and current_ext_str != extension_status
+        doc_status_changed = doc_status is not None and current_doc_status_str != doc_status
 
-        if not date_changed and not status_changed and not lifecycle_changed and not extension_changed:
-            unchanged += 1
+        if not any([date_changed, review_status_changed, lifecycle_changed,
+                    extension_changed, doc_status_changed]):
+            if new_date is None:
+                print(f"  [NO DATE]   {os.path.basename(path)} — no usable date in dashboard row")
+                skipped += 1
+            else:
+                unchanged += 1
             continue
 
         changes = []
+        if doc_status_changed:
+            changes.append(f"doc_status {current_doc_status_str!r} → {doc_status!r}")
         if date_changed:
             changes.append(f"date {current_date_str} → {new_date.isoformat()}")
-        if status_changed:
-            changes.append(f"status {current_status_str!r} → {due_status!r}")
+        if review_status_changed:
+            changes.append(f"review_status {current_status_str!r} → {due_status!r}")
         if lifecycle_changed:
             changes.append(f"lifecycle {current_lifecycle_str!r} → {lifecycle_status!r}")
         if extension_changed:
@@ -279,7 +314,8 @@ def main():
         print(f"  [UPDATE]    {os.path.basename(path)}: {', '.join(changes)}")
 
         if not args.dry_run:
-            new_content = patch_frontmatter(content, new_date, due_status, lifecycle_status, extension_status)
+            new_content = patch_frontmatter(content, new_date, due_status, lifecycle_status,
+                                            extension_status, doc_status)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new_content)
         updated += 1
