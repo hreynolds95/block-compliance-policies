@@ -12,7 +12,7 @@ approval_type: board
 reviewers: []
 effective_date: ""
 retirement_date: "2026-02-10"
-next_review_date: ""
+next_review_date: "2026-10-23"
 due_date_status: "Complete"
 retention_years: 7
 published_pdf: "https://drive.google.com/file/d/1_GLGtr156I0rnj17qRDq2NQ556-5hu7M/view?usp=sharing"

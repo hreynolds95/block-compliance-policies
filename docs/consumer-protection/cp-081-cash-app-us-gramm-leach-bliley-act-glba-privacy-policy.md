@@ -12,7 +12,7 @@ approval_type: committee
 reviewers: []
 effective_date: ""
 retirement_date: "2025-11-06"
-next_review_date: ""
+next_review_date: "2026-10-23"
 due_date_status: "Complete"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1-9zmQS5-_6OTvOxetAaR8bX0BnTqE5Ze/view?usp=sharing"
