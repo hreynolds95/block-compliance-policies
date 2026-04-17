@@ -2,7 +2,7 @@
 doc_id: FC-047
 title: "Cash App AU Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Policies"
 version: 1.0.0
-status: in-review
+status: published
 tier: 2
 domain: financial-crimes
 legal_entity: "Afterpay Australia Pty Ltd"
@@ -10,7 +10,7 @@ business: "Cash App"
 owner: "Eve Ishak"
 approval_type: committee
 reviewers: []
-effective_date: ""
+effective_date: "2026-04-16"
 next_review_date: "2027-04-16"
 due_date_status: "Complete"
 retention_years: 7

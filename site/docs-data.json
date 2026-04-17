@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T15:11:10.261452+00:00",
+  "generated": "2026-04-17T20:06:28.697627+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
@@ -3342,14 +3342,14 @@
       "pwf_record_id": "RfGeCqpV",
       "title": "Cash App AU Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Policies",
       "version": "1.0.0",
-      "status": "in-review",
+      "status": "published",
       "tier": 2,
       "domain": "financial-crimes",
       "legal_entity": "Afterpay Australia Pty Ltd",
       "business": "Cash App",
       "owner": "Eve Ishak",
       "approval_type": "committee",
-      "effective_date": "",
+      "effective_date": "2026-04-16",
       "next_review_date": "2027-04-16",
       "retention_years": 7,
       "review_status": "ok",
