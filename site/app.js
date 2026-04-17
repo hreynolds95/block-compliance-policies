@@ -3,7 +3,8 @@
 let allDocs = [];
 let sortCol = 'doc_id';
 let sortAsc = true;
-let recentDays = null;  // set by ?recent=N URL param
+let recentDays   = null;  // set by ?recent=N URL param
+let filterMonth  = null;  // set by ?month=YYYY-MM URL param (from review schedule chart)
 
 // ── Full-text search index (lazy-loaded on first search focus) ───────────────
 
@@ -169,6 +170,9 @@ function filteredDocs() {
         cutoff.setDate(cutoff.getDate() - recentDays);
         const eff = d.effective_date ? new Date(d.effective_date) : null;
         if (!eff || eff < cutoff) return false;
+      }
+      if (filterMonth !== null) {
+        if (!d.next_review_date || !d.next_review_date.startsWith(filterMonth)) return false;
       }
       return true;
     })
@@ -407,8 +411,11 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterReview').value    = '';
     document.getElementById('filterExtension').value = '';
     recentDays = null;
+    filterMonth = null;
     const chip = document.getElementById('recentChip');
     if (chip) chip.style.display = 'none';
+    const mchip = document.getElementById('monthChip');
+    if (mchip) mchip.style.display = 'none';
     updateFilterHighlights();
     renderTable(filteredDocs());
   }
@@ -420,6 +427,16 @@ document.addEventListener('DOMContentLoaded', () => {
     recentChipClear.addEventListener('click', () => {
       recentDays = null;
       document.getElementById('recentChip').style.display = 'none';
+      updateFilterHighlights();
+      renderTable(filteredDocs());
+    });
+  }
+
+  const monthChipClear = document.getElementById('monthChipClear');
+  if (monthChipClear) {
+    monthChipClear.addEventListener('click', () => {
+      filterMonth = null;
+      document.getElementById('monthChip').style.display = 'none';
       updateFilterHighlights();
       renderTable(filteredDocs());
     });
@@ -467,12 +484,23 @@ function applyUrlFilters() {
       chip.style.display = '';
     }
   }
+  const month = params.get('month');
+  if (month && /^\d{4}-\d{2}$/.test(month)) {
+    filterMonth = month;
+    const mchip = document.getElementById('monthChip');
+    if (mchip) {
+      const MONTH_ABBR = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      const [y, m] = month.split('-');
+      mchip.querySelector('#monthChipLabel').textContent = `Due: ${MONTH_ABBR[+m-1]} ${y}`;
+      mchip.style.display = '';
+    }
+  }
   updateFilterHighlights();
 }
 
 function updateFilterHighlights() {
   const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'];
-  let anyActive = document.getElementById('searchInput').value !== '' || recentDays !== null;
+  let anyActive = document.getElementById('searchInput').value !== '' || recentDays !== null || filterMonth !== null;
   filterIds.forEach(id => {
     const el = document.getElementById(id);
     const active = el.value !== '';

@@ -23,6 +23,7 @@ async function init() {
 
   renderKPIs(docs);
   renderRecentKPI(docs);
+  renderReviewSchedule(docs);
   renderLifecycleBreakdown(docs);
   renderDomainBreakdown(docs);
   renderTierBreakdown(docs);
@@ -53,6 +54,54 @@ function renderRecentKPI(docs) {
     return eff && eff >= cutoff;
   }).length;
   document.getElementById('kpiRecent').textContent = count;
+}
+
+function renderReviewSchedule(docs) {
+  const MONTH_ABBR = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const CHART_H = 140; // px — max bar height
+
+  const today = new Date();
+  const startYM = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}`;
+
+  // Count published docs by next_review_date year-month (current month forward)
+  const counts = {};
+  docs.filter(d => d.status === 'published' && d.next_review_date).forEach(d => {
+    const ym = d.next_review_date.slice(0, 7);
+    if (ym >= startYM) counts[ym] = (counts[ym] || 0) + 1;
+  });
+
+  const sortedYMs = Object.keys(counts).sort();
+  if (!sortedYMs.length) return;
+
+  // Build continuous month range from today to last month with data
+  const months = [];
+  const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
+  const endDate = new Date(sortedYMs[sortedYMs.length - 1] + '-01');
+  while (cursor <= endDate) {
+    months.push(`${cursor.getFullYear()}-${String(cursor.getMonth()+1).padStart(2,'0')}`);
+    cursor.setMonth(cursor.getMonth() + 1);
+  }
+
+  const maxCount = Math.max(...months.map(ym => counts[ym] || 0));
+
+  const bars = months.map(ym => {
+    const count = counts[ym] || 0;
+    const barH  = count ? Math.max(4, Math.round((count / maxCount) * CHART_H)) : 0;
+    const [y, m] = ym.split('-');
+    const url   = `./index.html?month=${ym}`;
+    return `<div class="bar-col" onclick="location.href='${esc(url)}'" title="${count} doc${count !== 1 ? 's' : ''} due ${MONTH_ABBR[+m-1]} ${y}">
+      <span class="bar-count${count === 0 ? ' bar-count--empty' : ''}">${count || '0'}</span>
+      <div class="bar-fill${count === 0 ? ' bar-fill--zero' : ''}" style="height:${barH}px"></div>
+    </div>`;
+  }).join('');
+
+  const labels = months.map(ym => {
+    const m = parseInt(ym.split('-')[1], 10);
+    return `<span>${MONTH_ABBR[m-1]}</span>`;
+  }).join('');
+
+  document.getElementById('reviewScheduleBars').innerHTML   = bars;
+  document.getElementById('reviewScheduleLabels').innerHTML = labels;
 }
 
 function renderLifecycleBreakdown(docs) {
