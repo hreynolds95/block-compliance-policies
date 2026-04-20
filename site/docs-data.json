@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T20:06:28.697627+00:00",
+  "generated": "2026-04-20T19:17:18.065986+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
@@ -2913,10 +2913,10 @@
       "owner": "Sondah Ouattara",
       "approval_type": "owner",
       "effective_date": "",
-      "next_review_date": "2026-06-30",
+      "next_review_date": "2026-12-31",
       "retention_years": 3,
-      "review_status": "due-soon",
-      "extension_status": null,
+      "review_status": "ok",
+      "extension_status": "approved",
       "extended_due_date": null,
       "extension_reason": null,
       "published_pdf": "https://drive.google.com/file/d/1TSZr9uNQr11OKxYA2LTpO0fIKKOiNZeC/view?usp=sharing",
@@ -3350,14 +3350,14 @@
       "owner": "Eve Ishak",
       "approval_type": "committee",
       "effective_date": "2026-04-16",
-      "next_review_date": "2027-04-16",
+      "next_review_date": "2027-03-28",
       "retention_years": 7,
       "review_status": "ok",
       "extension_status": null,
       "extended_due_date": null,
       "extension_reason": null,
       "published_pdf": null,
-      "lifecycle_status": null,
+      "lifecycle_status": "current",
       "file": "docs/financial-crimes/FC-047-cash-app-au-aml-ctf-program-policies.md"
     },
     {
