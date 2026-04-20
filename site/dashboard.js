@@ -285,9 +285,12 @@ function renderOwnershipBreakdown(docs, filter) {
     const { total, ov, cd, ok } = ownerMap[owner];
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     const isUnassigned = owner === 'Unassigned';
-    const nameCls = isUnassigned ? 'cell-warning' : 'cell-label';
+    const nameCls  = isUnassigned ? 'cell-warning' : 'cell-label';
+    const nameHTML = isUnassigned
+      ? esc(owner)
+      : `<a href="./index.html?owner=${encodeURIComponent(owner)}" class="dash-owner-link">${esc(owner)}</a>`;
     return `<tr>
-      <td class="${nameCls}">${esc(owner)}</td>
+      <td class="${nameCls}">${nameHTML}</td>
       <td>${total}</td>
       <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
       <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>

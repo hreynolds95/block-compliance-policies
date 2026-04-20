@@ -468,6 +468,7 @@ function applyUrlFilters() {
     status:    'filterStatus',
     business:  'filterBusiness',
     entity:    'filterEntity',
+    owner:     'filterOwner',
     tier:      'filterTier',
     extension: 'filterExtension',
   };
@@ -507,6 +508,7 @@ function getActiveLibraryContext() {
     ['filterStatus',   'status'],
     ['filterBusiness', 'business'],
     ['filterEntity',   'legal entity'],
+    ['filterOwner',    'owner'],
     ['filterTier',     'tier'],
     ['filterReview',   'review status'],
     ['filterExtension','extension'],
