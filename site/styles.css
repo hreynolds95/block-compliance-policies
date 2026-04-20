@@ -435,6 +435,7 @@ mark.search-hl { background: rgba(255,217,102,.3); color: inherit; border-radius
   display: flex;
   align-items: flex-start;
   gap: 10px;
+  text-align: left;
 }
 .panel-header--collapsible::-webkit-details-marker { display: none; }
 .panel-header--collapsible::before {
