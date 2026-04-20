@@ -24,10 +24,17 @@
   let procState     = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let docMeta       = new Map(); // doc_id → { title, published_pdf } for download formatting
   let allDocMeta    = [];        // full metadata array for lightweight metadata searches
+  let pageCtx       = 'library'; // 'library' | 'dashboard'
+  let getContextFn  = null;      // callback returning current page filter context string
+  let pageContextText = null;    // most recent result of getContextFn()
+  let starters      = [];        // data-driven starter questions
 
   // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
-  function init(docs) {
+  function init(docs, opts = {}) {
+    pageCtx      = opts.page       || 'library';
+    getContextFn = opts.getContext || null;
+    starters     = buildStarters(docs, pageCtx);
     systemPrompt = buildSystemPrompt(docs);
     docs.forEach(d => docMeta.set(d.doc_id, { title: d.title, published_pdf: d.published_pdf || null }));
     allDocMeta = docs.map(d => ({
@@ -48,20 +55,36 @@
 
   // ── HTML injection ────────────────────────────────────────────────────────────
 
-  const STARTERS = [
-    'What policies are overdue or coming due right now?',
-    'How do I submit a policy exception in LogicGate?',
-    'What AML policies apply to Cash App?',
-    'Who owns Block\'s Tier 1 governance policies?',
-  ];
+  function buildStarters(docs, page) {
+    if (page === 'dashboard') {
+      return [
+        'Which owner has the most overdue policies?',
+        'What is the review health across each business unit?',
+        'Which financial crimes policies are coming due soon?',
+        'How does Block\'s compliance posture compare across domains?',
+      ];
+    }
+    // Library — tailor first starter to actual overdue count
+    const pub = docs.filter(d => d.status === 'published');
+    const n   = pub.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    return [
+      n > 0 ? `What are the ${n} overdue policies right now?` : 'Which policies are coming due for review?',
+      'What AML policies apply to Cash App?',
+      'Who owns Block\'s Tier 1 governance policies?',
+      'How do I submit a policy exception in LogicGate?',
+    ];
+  }
 
   function welcomeHTML() {
-    const chips = STARTERS.map(q =>
+    const greeting = pageCtx === 'dashboard'
+      ? 'Hi, I\'m Quincy. Ask me about the compliance metrics — overdue trends, ownership health, review schedules, or anything across Block\'s full policy library.'
+      : 'Hi, I\'m Quincy. Ask me anything about Block\'s compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.';
+    const chips = starters.map(q =>
       `<button class="q-starter" type="button">${esc(q)}</button>`
     ).join('');
     return `
       <div class="q-msg q-msg--bot">
-        <div class="q-bubble">Hi, I'm Quincy. Ask me anything about Block's compliance policies — owners, tiers, review status, domains, or which documents cover a given topic.</div>
+        <div class="q-bubble">${esc(greeting)}</div>
       </div>
       <div class="q-starters" id="qStarters">${chips}</div>`;
   }
@@ -158,6 +181,7 @@
     overlay.style.display = '';
     overlay.removeAttribute('aria-hidden');
     document.getElementById('qFab').classList.add('q-fab--open');
+    if (getContextFn) pageContextText = getContextFn();
     ensureSearchIndex();
     ensureProcessIndex();
     setTimeout(() => document.getElementById('qInput').focus(), 100);
@@ -306,6 +330,7 @@
   function resetConversation() {
     chatHistory = [];
     userQueries = [];
+    if (getContextFn) pageContextText = getContextFn();
     document.getElementById('qMessages').innerHTML = welcomeHTML();
     document.getElementById('qNewChat').style.display = 'none';
     document.getElementById('qInput').focus();
@@ -384,6 +409,11 @@
 
     if (sections.length > 0) {
       userContent = `${text}\n\n---\n${sections.join('\n\n---\n')}`;
+    }
+
+    // On the first message of a conversation, prepend active page context (not shown to user)
+    if (chatHistory.length === 0 && pageContextText) {
+      userContent = `[Page context: ${pageContextText}]\n\n${userContent}`;
     }
 
     chatHistory.push({ role: 'user', content: userContent });

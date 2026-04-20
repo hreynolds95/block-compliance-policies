@@ -38,7 +38,7 @@ async function init() {
   if (docsRes.status === 'fulfilled' && docsRes.value.ok) {
     const data = await docsRes.value.json();
     allDocs = data.documents || [];
-    if (window.quincyInit) window.quincyInit(allDocs);
+    if (window.quincyInit) window.quincyInit(allDocs, { page: 'library', getContext: getActiveLibraryContext });
     const active = allDocs.filter(d => d.status === 'published').length;
     const intake = allDocs.filter(d => d.status !== 'published').length;
     const badge = document.getElementById('dataSourceBadge');
@@ -496,6 +496,30 @@ function applyUrlFilters() {
     }
   }
   updateFilterHighlights();
+}
+
+function getActiveLibraryContext() {
+  const parts = [];
+  const search = document.getElementById('searchInput')?.value?.trim();
+  if (search) parts.push(`searching for "${search}"`);
+  const checks = [
+    ['filterDomain',   'domain'],
+    ['filterStatus',   'status'],
+    ['filterBusiness', 'business'],
+    ['filterEntity',   'legal entity'],
+    ['filterTier',     'tier'],
+    ['filterReview',   'review status'],
+    ['filterExtension','extension'],
+  ];
+  for (const [id, label] of checks) {
+    const val = document.getElementById(id)?.value;
+    if (val) parts.push(`${label}: ${val}`);
+  }
+  if (recentDays)  parts.push(`recently published (last ${recentDays} days)`);
+  if (filterMonth) parts.push(`review due month: ${filterMonth}`);
+  return parts.length > 0
+    ? `User is viewing the policy library filtered by: ${parts.join(', ')}.`
+    : null;
 }
 
 function updateFilterHighlights() {

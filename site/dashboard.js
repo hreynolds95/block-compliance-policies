@@ -33,6 +33,8 @@ async function init() {
   renderStatusBreakdown(docs);
   renderOwnershipBreakdown(docs, 'at-risk');
 
+  if (window.quincyInit) window.quincyInit(docs, { page: 'dashboard' });
+
   const ownershipSel = document.getElementById('ownershipFilter');
   if (ownershipSel) {
     ownershipSel.addEventListener('change', () => {
