@@ -31,6 +31,16 @@ async function init() {
   renderCoverageBreakdown(docs, 'domain');
   renderTierBreakdown(docs);
   renderStatusBreakdown(docs);
+  renderOwnershipBreakdown(docs, 'at-risk');
+
+  const ownershipSel = document.getElementById('ownershipFilter');
+  if (ownershipSel) {
+    ownershipSel.addEventListener('change', () => {
+      const filter = ownershipSel.value;
+      renderOwnershipBreakdown(_docs, filter);
+      ownershipSel.classList.toggle('filter-select--active', filter !== 'at-risk');
+    });
+  }
 
   const coverageSel = document.getElementById('coverageGroupBy');
   if (coverageSel) {
@@ -238,6 +248,60 @@ function renderStatusBreakdown(docs) {
   </tr>`;
 
   document.getElementById('statusRows').innerHTML = rows + totalsRow;
+}
+
+function renderOwnershipBreakdown(docs, filter) {
+  const published = docs.filter(d => d.status === 'published');
+
+  // Build owner map
+  const ownerMap = {};
+  for (const d of published) {
+    const owner = d.owner || 'Unassigned';
+    if (!ownerMap[owner]) ownerMap[owner] = { total: 0, ov: 0, cd: 0, ok: 0 };
+    ownerMap[owner].total++;
+    const rs = d.review_status || '';
+    if (['overdue','pending-review','overdue-past-extension'].includes(rs)) ownerMap[owner].ov++;
+    else if (['due-soon','extension-coming-due'].includes(rs))              ownerMap[owner].cd++;
+    else                                                                    ownerMap[owner].ok++;
+  }
+
+  // Filter: at-risk = any overdue/coming-due, plus Unassigned always
+  let owners = Object.keys(ownerMap);
+  if (filter === 'at-risk') {
+    owners = owners.filter(o => o === 'Unassigned' || ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
+  }
+
+  // Sort: overdue desc → coming-due desc → total desc
+  owners.sort((a, b) => {
+    const A = ownerMap[a], B = ownerMap[b];
+    return (B.ov - A.ov) || (B.cd - A.cd) || (B.total - A.total);
+  });
+
+  let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
+
+  const rows = owners.map(owner => {
+    const { total, ov, cd, ok } = ownerMap[owner];
+    totTotal += total; totOv += ov; totCd += cd; totOk += ok;
+    const isUnassigned = owner === 'Unassigned';
+    const nameCls = isUnassigned ? 'cell-warning' : 'cell-label';
+    return `<tr>
+      <td class="${nameCls}">${esc(owner)}</td>
+      <td>${total}</td>
+      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
+      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
+      <td class="cell-success">${ok}</td>
+    </tr>`;
+  }).join('');
+
+  const totalsRow = `<tr class="dash-totals-row">
+    <td class="cell-label">Total</td>
+    <td>${totTotal}</td>
+    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? totOv : '—'}</td>
+    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? totCd : '—'}</td>
+    <td class="cell-success">${totOk}</td>
+  </tr>`;
+
+  document.getElementById('ownershipTbody').innerHTML = rows + totalsRow;
 }
 
 function esc(s) {

@@ -154,6 +154,32 @@
       </div>
     </div>
 
+    <!-- Policy Ownership Health -->
+    <div class="panel">
+      <div class="panel-header">
+        <div>
+          <h2>Policy Ownership</h2>
+          <p class="panel-subtitle">Accountability and review risk by policy owner.</p>
+        </div>
+        <select id="ownershipFilter" class="filter-select">
+          <option value="at-risk">At Risk</option>
+          <option value="all">All Owners</option>
+        </select>
+      </div>
+      <table class="dash-stat-table">
+        <thead>
+          <tr>
+            <th>Owner</th>
+            <th>Policies</th>
+            <th>Overdue</th>
+            <th>Coming Due</th>
+            <th>On Track</th>
+          </tr>
+        </thead>
+        <tbody id="ownershipTbody"></tbody>
+      </table>
+    </div>
+
   </main>
   <script src="./dashboard.js"></script>
   <footer class="page-footer">built by @hreynolds</footer>
