@@ -211,10 +211,9 @@ function renderTable(docs) {
       <td><span class="doc-title">${highlight(d.title, q)}</span></td>
       <td><span class="domain-label">${esc(domainLabel(d.domain))}</span></td>
       <td><span class="badge badge-tier${d.tier}">Tier ${esc(d.tier)}</span></td>
-      <td><span class="badge badge-${d.status}">${esc(d.status)}</span></td>
       <td><span class="doc-owner">${highlight(d.owner, q)}</span></td>
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
-      <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
+      <td>${d.status !== 'published' ? '<span class="review-pill pill-draft">Draft</span>' : reviewPill(d.review_status) + extensionPill(d.extension_status)}</td>
     </tr>
   `).join('');
 
@@ -359,16 +358,15 @@ function domainLabel(d) {
   return (d || '').replace(/-/g, ' ');
 }
 
-function reviewPill(status, docStatus) {
-  const isIntake = docStatus === 'draft' || docStatus === 'in-review';
+function reviewPill(status) {
   const map = {
-    ok:                       ['pill-ok',                      'OK'],
-    'due-soon':               isIntake ? ['pill-due-soon-intake',      'Due soon (Intake)']      : ['pill-due-soon',              'Due soon'],
-    'pending-review':         isIntake ? ['pill-pending-review-intake','Pending Review (Intake)'] : ['pill-pending-review',         'Pending Review'],
-    'extension-coming-due':   ['pill-extension-coming-due',    'Ext. Coming Due'],
-    'overdue-past-extension': ['pill-overdue-past-extension',  'Overdue (Past Ext.)'],
-    overdue:                  isIntake ? ['pill-overdue-intake',       'Overdue (Intake)']       : ['pill-overdue',                'Overdue'],
-    unknown:                  ['pill-unknown',                 'Unknown'],
+    ok:                       ['pill-ok',                     'OK'],
+    'due-soon':               ['pill-due-soon',               'Due soon'],
+    'pending-review':         ['pill-pending-review',         'Pending Review'],
+    'extension-coming-due':   ['pill-extension-coming-due',   'Ext. Coming Due'],
+    'overdue-past-extension': ['pill-overdue-past-extension', 'Overdue (Past Ext.)'],
+    overdue:                  ['pill-overdue',                'Overdue'],
+    unknown:                  ['pill-unknown',                'Unknown'],
   };
   const [cls, label] = map[status] ?? map.unknown;
   return `<span class="review-pill ${cls}">${label}</span>`;
