@@ -1,0 +1,205 @@
+Electronic Funds Transfer
+Act Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+U.S., Inc. and on a need-to-know basis.
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 4
+3. Purpose 4
+4. Scope 5
+5. Policy Requirements 5
+6. Roles and Responsibilities 5
+7. Document Management 6
+7.1 Document Owner 6
+7.2 Review and Approval 7
+8. Training 7
+9. Monitoring and Reporting 7
+10. Exceptions 7
+11. Record Retention 8
+12. Related Documentation or References 8
+13. Revision and Approval History 8
+13.1 Stakeholder Review Tracking 8
+13.2 Approval History 8
+14. Document Details 9
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Electronic Fund Any transfer of funds that is initiated through an electronic terminal
+Transfer (“EFT”) (point-of-sale), telephone, computer, magnetic tape, or any other
+electronic means (such as Automated Clearing House (ACH)
+transactions) for the purpose of ordering, instructing, or authorizing a
+financial institution to debit or credit a consumer’s account. EFT does not
+include fund transfers by check, draft, or similar paper instrument, or a
+wire or similar transfer.
+Pre-authorized EFT An EFT authorized in advance to recur at substantially regular intervals.
+2. Introduction
+This Electronic Fund Transfers Act Policy (“Policy”) outlines Afterpay US, Inc’s
+(“Afterpay”)commitment to comply with the Electronic Fund Transfers Act (“EFTA”). Cash App’s Head
+of Compliance and/or their designee is responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate the commitment of Afterpayto comply with EFTA, which
+establishes the basic rights, liabilities, and responsibilities of consumers who use EFT and remittance
+transfer services of financial institutions or other persons that offer these services. Afterpay does not
+maintain a consumer account as defined by the EFTA and is not a financial institution, but does
+process Preauthorized EFTs.
+The EFTA and its implementing Regulation E (collectively, “Reg E”) establish the basic rights,
+liabilities, and responsibilities of consumers who use EFT services and of financial institutions or
+other persons that offer these services. The primary objective of the act and regulation is the
+protection of individual consumers engaging in EFTs.
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+4. Scope
+This Policy is established by Afterpay . This Policy is applicable to the Afterpay’sEmployees and sets
+out the approach to EFTA compliance. This Policy has been created to ensure that Afterpay and
+relevant personnel are aware of and comply with expectations regarding EFTA.
+5. Policy Requirements
+Afterpay will adhere to the below for Pre-Authorized EFTs, authorizations, notices, one-time
+transactions, disclosures and related requirements.
+● Preauthorized Transfers. Prior to processing pre-authorized recurring loan payments,
+Afterpaywill obtain authorization, including a “signature,” from the consumer for autopay (i.e.,
+preauthorized EFTs) and shall provide a copy to the consumer. Afterpay will not condition the
+extension of credit upon the customer’s agreement to use recurring Pre-Authorized EFTs.
+However, Afterpay may choose to offer reduced annual percentage rates or other cost-related
+incentives to customers that elect a recurring pre-authorized payments option. Afterpay will
+provide consumers with a confirmation of the authorized autopay terms (in accordance with
+Afterapy’s E-Sign Policy). Afterpay will credit recurring pre-authorized loan payments as of the
+day the payment is scheduled for. Customers will have the ability to opt out of autopay at any
+time.
+● Notice of Loan Payments Varying in Amount. If, during the life of the loan, a customer’s
+recurring Pre-Authorized EFTs, or autopay, amount will vary from the previous transfer under the
+same authorization from the pre-authorized amount, Afterpay will send the borrower written
+notice of the amount and date of the transfer at least 10 days before the scheduled date of
+transfer.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”)
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all employees are aware of that commitment and their
+individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+Employees commensurate with job levels and responsibilities. All Employees engaged in the activity
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block’s Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with the Block, Inc.’s document retention
+guidelines. Additionally, in accordance with EFTA, Afterpaywill maintain electronic records accurately
+reflecting the information contained in applicable contracts, notices, or disclosures, and will ensure
+they remain accessible to all persons who are legally entitled to access for a period of at least two
+years in a form that is capable of being reproduced.
+12. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Compliance Policy on Policies
+Related References:
+Regulation Name Electronic Funds Transfer Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Electronic Funds Transfer Act Policy | Afterpay US, Inc.
+9

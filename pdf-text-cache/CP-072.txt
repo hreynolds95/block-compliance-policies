@@ -1,0 +1,938 @@
+Truth in Lending Act Policy
+Afterpay US, Inc.
+September 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Truth in Lending Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Definitions 4
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Policy Requirements 7
+4.1 Policy Statement 7
+4.2 TILA Policy Requirements 8
+5. Document Management 26
+7.1 Document Owner 26
+7.2 Review and Approval 26
+6. Training 27
+7. Monitoring and Reporting 27
+8. Exceptions 27
+9. Record Retention 28
+10. Related Documentation or References 28
+11. Revision and Approval History 28
+13.1 Stakeholder Review Tracking 28
+13.2 Approval History 28
+12. Document Details 29
+Truth in Lending Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Billing Cycle The interval between the days or dates of regular periodic statements.
+These intervals must be equal and no longer than a quarter of a year. An
+interval is considered equal if the number of days in the cycle does not
+vary more than four days from the regular day or date of the periodic
+statement.
+Billing Error Notice Written notice received from a borrower that indicates a belief that a
+billing error exists that is received within 60 calendar days of the first
+periodic statement that reflects the alleged billing error and includes
+information sufficient to identify the borrower’s name and/or account
+number.
+Business Day Regulation Z contains two definitions of a Business Day; one is the
+general definition and the other is the specific, or precise, definition.
+● General Definition: a Business Day is a day on which a creditor’s
+offices are open to the public for carrying on substantially all of its
+business functions.
+● Specific Definition: a Business Day includes all calendar days
+except Sundays and legal public holidays as specified in 5 U.S.C.
+6103(a). The specific definition of Business Days applies to the
+right of rescission and High-Cost loans.
+The federal legal public holidays identified in 5 U.S.C. 6103(a) are as
+follows:
+● New Year’s Day - January 1
+● Martin Luther King, Jr. Day - Third Monday in January
+● Washington’s Birthday - Third Monday in February
+● Memorial Day - Last Monday in May
+● Juneteenth - June 19
+● Independence Day- July 4
+● Labor Day - First Monday in September
+● Columbus Day - Second Monday in October
+● Veteran’s Day - November 11
+● Thanksgiving Day - Fourth Thursday in November
+● Christmas Day - December 25
+Credit Card Any card, plate, or another single credit device that may be used from
+time to time to obtain credit. The term Credit Card includes a hybrid
+prepaid-Credit Card as defined in § 1026.61.
+Charge Card A Credit Card on an account for which no Periodic Rate is used to
+Truth in Lending Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+compute a Finance Charge.
+Closed-end Credit Consumer credit other than “Open-end Credit” as defined in § 1026.2.
+Consummation The time that a Consumer becomes contractually obligated on a credit
+transaction.
+Consumer A cardholder or natural person to whom Consumer credit is offered or
+extended. For purposes of §1026.20(c)–(e), the term includes a confirmed
+successor in interest.
+Finance Charge The Finance Charge is a measure of the cost of Consumer credit
+represented as a dollar amount. Afterpay must disclose the Finance
+Charge, expressed as a dollar amount. The Finance Charge includes any
+charge payable directly or indirectly by the Consumer and imposed
+directly or indirectly by Afterpay as a condition of the credit.
+Open-end Credit Consumer credit extended by a creditor under a plan in which:
+● The creditor reasonably contemplates repeated transactions;
+● The creditor may impose a Finance Charge from time to time on
+an outstanding unpaid balance; and
+● The amount of credit that may be extended to the Consumer
+during the term of the plan (up to any limit set by the creditor) is
+generally made available to the extent that any outstanding
+balance is repaid
+Periodic Rate A rate of Finance Charge that is or may be imposed by a creditor on a
+balance for a day, week, month, or other subdivision of a year.
+Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all Employees are aware of that commitment and their
+individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Truth in Lending Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal Counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+Truth in Lending Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+1. Introduction
+This Truth in Lending Act Policy (“Policy”) outlines Afterpay US, Inc.’s (“Afterpay”) commitment to
+comply with the Truth in Lending Act (“TILA”). Cash App’s Head of Compliance and/or their designee
+is responsible for the management of this Policy.
+2. Purpose
+The purpose of this Policy is to demonstrate Afterpay’s commitment to complying with TILA and
+implementing Regulation Z (collectively referred to as “TILA” or “Regulation Z”).
+TILA was adopted to ensure that credit terms are disclosed in a meaningful way so Consumers can
+knowledgeably and easily compare credit terms before entering into a credit transaction. TILA also
+sets forth specific requirements with respect to servicing obligations and marketing credit products.
+This Policy sets forth the requirements for adhering to TILA as it pertains to Afterpay’s operations.
+Afterpay is committed to the highest standards of Consumer compliance and requires all executive
+management and Employees to follow this Policy and adhere to these standards.
+3. Scope
+This Policy is established by Afterpay. This Policy is applicable to Afterpay’s Employees and sets out
+the approach to TILA compliance. This Policy has been created to ensure that Afterpay and relevant
+personnel are aware of and comply with expectations regarding TILA.
+4. Policy Requirements
+4.1 Policy Statement
+The purpose of this Policy is to facilitate compliance with all applicable aspects of TILA related to
+credit products and to ensure that Afterpay’s Employees understand the requirements and
+restrictions that must be followed during the marketing, application, origination, and servicing
+processes.
+Truth in Lending Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+4.2 TILA Policy Requirements
+Afterpay offers Closed-end Credit products subject to some of TILA's requirements for Credit
+Cards and traditionally closed-end installment loans subject to TILA. The requirements pertaining
+to both Open-end and Closed-end Credit Products are set forth below should Afterpay choose to
+offer Open-end Credit products in the future.
+In addition to TILA’s requirements that are applicable to Afterpay’s product offerings, it is
+Afterpay’s policy to comply with the Consumer Financial Protection Bureau’s Interpretive Rule
+[Docket No. CFPB-2024-0017], “Use of Digital User Accounts to Access Buy Now, Pay Later Loans.”
+● Open-End Credit
+○ General Disclosures.
+Afterpay will clearly inform Consumers of the costs, terms, and conditions of all
+products. Afterpay discloses credit terms and conditions in terminology
+specified in TILA and ensures that disclosures are clear, conspicuous, and in
+writing. Disclosures required by TILA, and all other disclosures, are provided
+electronically subject to compliance with the Consumer consent and other
+applicable provisions of the Electronic Signatures in Global and National
+Commerce Act (“E-Sign”).
+○ Account Opening Disclosures.
+For each open-end agreement Afterpay establishes with a Consumer, Afterpay
+will deliver required disclosures prior to the first transaction on the account.
+Disclosures are clear, conspicuous, and in a reasonably understandable form.
+Afterpay will provide the following initial disclosures on the open-end account
+in a tabular format with the headings, content, and format substantially similar
+to any of the applicable tables in Model Form G-17 in Appendix G of Regulation
+Z. Afterpay will include, to the extent applicable:
+■ The Periodic Rate and corresponding APR, including:
+● Variable-rate information;
+● Discounted initial rates;
+● Premium initial rate;
+● Penalty rates;
+● Point of sale APRs vary by state or based on creditworthiness;
+Truth in Lending Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+● Any introductory rate that would apply to the account; and
+● Any rate would apply upon the expiration of a premium initial
+rate.
+■ Fees for issuance or availability;
+■ Fixed Finance Charge;
+■ Minimum interest charge;
+■ Transaction charges;
+■ Grace period;
+■ Balance computation method;
+■ Cash advance fee;
+■ Late payment fee;
+■ Over-the-limit fee;
+■ Balance transfer fee;
+■ Required insurance, debt cancellation or debt suspension coverage;
+■ Available credit;
+■ A reference to the website maintained by the CFPB and a statement
+that Consumers may obtain on the website information about
+shopping for and using Credit Cards; and
+■ A statement that contains information about Consumers' right to
+dispute transactions.
+Afterpay discloses the following charges prior to account opening, to the
+extent applicable:
+■ Any Finance Charges;
+■ The conditions under which a Finance Charge begins to accrue;
+■ An explanation of the method for determining the balance on which
+the Finance Charge is computed;
+■ The method for determining the Finance Charge;
+● Charges imposed as part of the open-end account, such as:
+● Charges resulting from the Consumer's failure to use the plan as
+agreed;
+● Taxes imposed on the credit transaction by a state or other
+governmental body;
+● Charges for which the payment or nonpayment, affect the
+Truth in Lending Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+Consumer's access to the account, the duration of the account,
+the amount of credit extended, the period for which credit is
+extended, or the timing or method of billing or payment;
+● Charges imposed for terminating an account; and
+● Charges for voluntary credit insurance, debt cancellation or debt
+suspension.
+■ Charges that are not imposed as part of the open-end account, such as
+charges for use of an automated teller machine.
+○ They will disclose, for each Periodic Rate used to calculate interest, to the
+extent applicable:
+■ Rates;
+■ Range of balances to which the rate is applicable;
+■ The type of transaction to which the rate applies; and
+■ Balance computation method.
+For all variable rate accounts, Afterpay will disclose, to the extent applicable:
+■ The fact that the APR may increase;
+■ How the rate is determined, including the margin;
+■ The circumstances under which the rate may increase;
+■ The frequency with which the rate may increase;
+■ Any limitation on the amount the rate may change; and
+■ The effect(s) of an increase.
+In the event that Afterpay offers open-end accounts with interest rate changes
+that are specifically set forth in the account agreement and not tied to
+increases in an index or formula, Afterpay will disclose to the extent applicable:
+■ The initial rate (expressed as a Periodic Rate and a corresponding APR);
+■ Period of time the initial rate will remain in effect and the specific
+events that cause the initial rate to change;
+■ The rate (expressed as a Periodic Rate and a corresponding APR) that
+will apply when the initial rate is no longer in effect, and any limitation
+on the time period the new rate will remain in effect;
+■ The balances to which the new rate will apply; and
+■ The balances to which the current rate at the time of the change will
+apply.
+Truth in Lending Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+In addition, Afterpay will disclose the following information, to the extent
+applicable:
+■ Voluntary credit insurance, debt cancellation, or debt suspension;
+■ Any security interest acquired as part of the open-end account; and
+■ The statement of billing rights, which outlines the Consumer’s rights
+and the creditor’s responsibilities.
+○ Periodic Statements
+Periodic statements will be delivered for each Billing Cycle at the end of which
+an account has a debit or credit balance of more than $1 or on which a Finance
+Charge has been imposed.
+■ For Credit Card accounts, periodic statements are delivered at least 21
+days prior to the payment due date disclosed on the statement.
+■ For open-end Consumer credit plans, if a grace period applies to the
+account, periodic statements are delivered at least 21 days prior to the
+date on which the grace period expires. If no grace period exists,
+periodic statements are delivered at least 14 days prior to the date on
+which the required minimum periodic payment must be received in
+order to avoid being treated as late for any purpose.
+Afterpay includes the following disclosures, as applicable, on the Consumer’s
+periodic statement:
+■ The account balance outstanding at the beginning of the Billing Cycle;
+■ Identification of each credit transaction;
+■ Any credit to the account during the Billing Cycle, including the
+amount and the date of crediting;
+■ Periodic Rate that may be used to compute the interest charge
+expressed as an annual percentage rate and using the term Annual
+Percentage Rate, along with the range of balances to which it is
+applicable;
+■ In the event Afterpay offers a promotional rate, the rate will be disclosed
+in periods in which the promotional rate is actually applied;
+■ The amount of the balance to which a Periodic Rate was applied and an
+explanation of how that balance was determined, using the term
+Balance Subject to Interest Rate
+Truth in Lending Act Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+■ Charges imposed, which include interest charges and fees;
+■ Change-in-terms and increased penalty rate summary;
+■ Grace period, which is the date by which or the time period within
+which the new balance or any portion of the new balance must be paid
+to avoid additional Finance Charges;
+■ Address for notice of billing errors;
+■ Closing date of Billing Cycle and the outstanding account balance on
+that date, included in close proximity to the minimum payment due;
+■ Due date and any late payment costs on the first page of the periodic
+statement. The amount of the late payment fee (if any) and the APR will
+be included in close proximity to the due date;
+■ Repayment disclosures, which include the minimum payment warning,
+the minimum payment repayment estimate, and other required
+information; and
+■ In the event Afterpay offers deferred interest or a similar program, on
+the front of any page of each periodic statement issued during the
+deferred interest period beginning with the first periodic statement
+issued during the deferred interest period that reflects the deferred
+interest or similar transaction, Afterpay will include the date by which
+that outstanding balance must be paid in full in order for the customer
+to avoid the obligation to pay Finance Charges.
+○ Subsequent Disclosures
+■ Change in Terms
+Afterpay is required to provide Consumers with 45 days advance written
+notice of rate increases and other significant changes to the terms of
+their Credit Card account agreements. The list of “significant changes”
+includes most fees and other terms that a Consumer should be aware
+of before the use of the account. Examples of such fees and terms
+include:
+● Penalty fees;
+● Transaction fees;
+● Fees imposed for the issuance or availability of the open-end
+plan;
+Truth in Lending Act Policy | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+● Grace period; and
+● Balance computation method.
+Changes that do not require advance notice include:
+● Reductions of Finance Charges;
+● Termination of account privileges resulting from an agreement
+involving a court proceeding;
+● Increase in an APR upon expiration of a specified period of time
+previously disclosed in writing;
+● Increases in variable APRs that change according to an index
+not under the card issuer’s control; and
+● Rate increases due to the completion of, or failure of a Consumer
+to comply with, the terms of a workout or temporary hardship
+arrangement, if those terms are disclosed prior to
+commencement of the arrangement.
+Afterpay may suspend account privileges, terminate an account, or
+lower the credit limit without notice. However, if Afterpay lowers the
+credit limit, Afterpay will not impose an over-limit fee or penalty rate as
+a result of exceeding the new credit limit without a 45-day advance
+notice that the credit limit has been reduced.
+In the event the customer does not accept the change to the account,
+Afterpay does not impose any additional fees or treat the customer
+differently from those who accepted the account change.
+■ Annual Statement of Billing Rights
+At least annually, Afterpay will provide Consumers with an annual
+statement of billing rights. Such disclosures may be provided on or with
+the periodic statement. The annual statement of billing rights will occur
+at intervals not less than 6 and no more than 18 months.
+○ Payments
+Afterpay will credit a payment to the Consumer's account as of the date of
+receipt, except when a delay in crediting does not result in a finance or other
+charge. If Afterpay fails to credit a payment in time to avoid the imposition of
+finance or other charges, Afterpay will adjust the Consumer’s account so that
+the charges imposed are credited to the Consumer’s account during the next
+Truth in Lending Act Policy | Afterpay US, Inc.
+13
+
+Confidential and Not for Distribution
+Billing Cycle.
+In the event Afterpay makes a material change in the address for receiving
+payments or procedures for handling payments, and such change causes a
+material delay in the crediting of a payment to the Consumer’s account during
+the 60-day period following the date on which such change took effect,
+Afterpay will not impose any late fee or Finance Charge for a late payment on
+the Credit Card account during the 60-day period following the date on which
+the change took effect.
+○ Treatment of Credit Balances
+When a credit balance in excess of $1 is created on a credit account, Afterpay
+will:
+■ Credit the amount of the credit balance to the Consumer's account;
+■ Refund any part of the remaining credit balance within seven Business
+Days from receipt of a written request from the Consumer;
+■ Make a good faith effort to refund to the Consumer by cash, check, or
+money order, or credit to a deposit account of the Consumer, any part
+of the credit balance remaining in the account for more than six
+months.
+○ Account Termination
+Afterpay will not terminate an account prior to its expiration date solely
+because the Consumer does not incur a Finance Charge.
+○ Billing Error Resolution
+When Afterpay receives a Billing Error Notice it will either resolve the dispute or
+send written acknowledgment to the customer within 30 days. If research is
+required, Afterpay will resolve the dispute within two Billing Cycles (not to
+exceed 90 days). Afterpay will take all measures necessary to correct the valid
+billing error.
+■ While the dispute is outstanding, Afterpay will not attempt to collect
+any payment on the disputed portion, accelerate any part of the
+customer’s debt, restrict or close the account, or threaten to report
+negative credit report information.
+■ If Afterpay determines that a billing error occurred as asserted, Afterpay
+will correct the error and credit the Consumer’s account with any
+Truth in Lending Act Policy | Afterpay US, Inc.
+14
+
+Confidential and Not for Distribution
+disputed amount and related finance or other charges and deliver a
+correction notice to the Consumer.
+■ If Afterpay determines that no billing error occurred or that a different
+billing error occurred from that asserted, Afterpay will: i) deliver to the
+Consumer an explanation that sets for the reasons for Afterpay’s belief
+that the error alleged by the Consumer is incorrect in whole or in part;
+ii) furnish copies of evidence if requested; and iii) if a different error
+occurred, correct the error and credit the Consumer’s account with any
+disputed amount and related finance or other charges.
+○ Determination of APR
+The APR is a measure of the total cost of credit, expressed as a yearly rate that
+relates the amount and timing of value received by the Consumer to the
+amount and timing of payments made by the Consumer. As a general rule, the
+annual percentage rate shall be considered accurate if it is not more than 1/8 of
+1 percentage point above or below the annual percentage rate determined in
+accordance with Regulation Z.
+○ Advertising
+If an advertisement for credit states specific credit terms, Afterpay will only
+state those terms that actually are or will be arranged or offered.
+Negative and affirmative references of certain terms trigger the requirement
+for additional information. Triggering terms include any finance and other
+charges imposed as part of the plan. If these charges are included in an
+advertisement, the advertisement must also clearly and conspicuously state
+the following additional disclosures:
+■ Any minimum, fixed, transaction, activity, or similar charge that is a
+Finance Charge under §1026.4 that could be imposed;
+■ Any Periodic Rate that may be applied, expressed as an annual
+percentage rate (APR). If the plan provides for variable rates, that must
+also be disclosed; and
+■ Any membership or participation fees that could be imposed.
+If an advertisement for credit to finance the purchase of goods or services
+specified in the advertisement states a periodic payment amount, the
+advertisement shall also state the total of payments and the time period to
+Truth in Lending Act Policy | Afterpay US, Inc.
+15
+
+Confidential and Not for Distribution
+repay the obligation, assuming that the Consumer pays only the periodic
+payment amount advertised. The disclosure of the total of payments and the
+time period to repay the obligation must be equally prominent to the
+statement of the periodic payment amount.
+Additionally, TILA requires the following advertising standards for Open-end
+Credit:
+■ If an advertisement refers to an APR as “fixed” (or similar term), the
+advertisement will also specify a time period that the rate with be fixed
+and that the rate will not increase during that period;
+■ If an APR or fee applied to an account is an introductory rate or
+introductory fee, the term introductory or intro will be in immediate
+proximity to each listing of the introductory rate or introductory fee in a
+written or electronic advertisement; and
+■ If an APR or fee applied to an account is a promotional rate, the
+advertisement will disclose when the promotional rate or promotional
+fee will end and the annual percentage rate that will apply after the end
+of the promotional period will be disclosed.
+If the advertisement is delivered by radio or television and due to time
+constraints the above disclosures cannot be provided, the advertisement may
+include a statement of the APR and list a toll-free telephone number including
+a reference that the number may be used by Consumers to obtain additional
+cost information and disclosures.
+● Special Rules Applicable to Credit Card Accounts
+○ Ability to Repay
+Afterpay currently does not have any open-end Credit Cards, but if established,
+this law would apply. Afterpay will not originate an Open-end Credit Card
+account for a Consumer or increase any credit limit applicable to such an
+account unless Afterpay considers the Consumer's ability to make the required
+minimum periodic payments under the account terms. The evaluation of the
+Consumer’s ability to make the required minimum periodic payment will be
+based on the Consumer's income or assets and the Consumer's current
+obligations.
+Considering the estimation of minimum payments, Afterpay assumes
+Truth in Lending Act Policy | Afterpay US, Inc.
+16
+
+Confidential and Not for Distribution
+utilization from the first day of the Billing Cycle of the full credit line the issuer
+is offering the Consumer. Additionally, the estimation of minimum payments
+includes any applicable interest charges or mandatory fees required to be paid
+by a Consumer.
+Afterpay will not originate an open-end Credit Card account for any Consumer
+less than 21 years old unless the Consumer is able to provide the following:
+■ A written application; and
+■ Financial information indicating the ability to make the required
+minimum payments.
+Afterpay may elect to utilize joint accounts at its discretion. In the event
+Afterpay offers joint accounts and a Consumer cannot present financial
+information indicating the ability to make the required minimum payments,
+Afterpay will open a Credit Card account if the Consumer can provide:
+■ An agreement of a cosigner, guarantor, or joint applicant who is at least
+21 years old to be either secondarily liable on the Credit Card before the
+Consumer has attained the age of 21, or jointly liable with the Consumer
+for any debt on the Credit Card; and
+■ Financial information indicating such cosigner, guarantor, or joint
+applicant has the ability to make the required minimum periodic
+payments on such debts.
+When considering a credit line increase for Consumers less than 21 years old,
+Afterpay will make no increase in the credit limit on their Credit Card account
+unless:
+■ At the time the credit line increase is being considered, the Consumer
+has an independent ability to make the required minimum payment on
+the increased limit;
+■ A cosigner, guarantor, or joint applicant who is at least 21 years old
+agrees in writing to assume liability for any debt incurred on the
+account; or
+■ If the Credit Card account was opened with a cosigner, guarantor, or
+joint account holder who assumed liability at account opening, the
+same person must agree in writing to assume liability on the credit line
+increase.
+Truth in Lending Act Policy | Afterpay US, Inc.
+17
+
+Confidential and Not for Distribution
+○ Limitations on Fees
+Afterpay is committed to not charging unreasonable fees on Open-end Credit
+Card accounts. Afterpay will not charge fees during the first year after opening
+a Credit Card account that exceeds 25 percent of the credit limit at the time of
+account opening. For the purposes of this declaration, the following fees are
+not subject to this limitation:
+■ Late payment fees;
+■ Over-the-limit fees;
+■ Returned payments fees; and
+■ Fees a Consumer is not required to pay with respect to the Credit Card
+account, such as a cash advance or balance transfer fee.
+Afterpay will not charge a fee for violating terms or other requirements of the
+Credit Card account that are inconsistent with the above standards. However,
+Afterpay may impose a fee for violating terms or other requirements of the
+Credit Card account if the dollar amount does not exceed:
+■ $27;
+■ $38, if Afterpay previously imposed a fee for a violation of the same type
+that occurred during the same Billing Cycle or one of the next six Billing
+Cycles; or
+■ Three percent of the delinquent balance on a Charge Card account that
+requires payment of outstanding balances in full at the end of each
+Billing Cycle if the card issuer has not received the required payment for
+two or more consecutive Billing Cycles.
+Afterpay may choose to impose a fee for violating terms or other requirements
+of the Credit Card account if Afterpay has determined the dollar amount of the
+fee represents a reasonable proportion of the total costs incurred as a result of
+that type of violation. Afterpay will reevaluate this determination at least every
+12 months and should a determination be made that a lower fee represents a
+reasonable proportion of the total costs incurred, Afterpay will begin imposing
+the lower fee within 45 days after completing the reevaluation. If as a result of
+the reevaluation Afterpay determines a higher fee represents a reasonable
+proportion of the total costs incurred, Afterpay will only begin charging the fee
+after complying with TILA’s notice requirements.
+Truth in Lending Act Policy | Afterpay US, Inc.
+18
+
+Confidential and Not for Distribution
+Afterpay will never impose a fee for violating terms or other requirements of
+the Credit Card account that exceeds the dollar amount associated with the
+violation. Similarly, Afterpay will not impose a fee for:
+■ Transactions that Afterpay declined to authorize;
+■ Account inactivity; and
+■ The closure or termination of an account.
+Afterpay is committed to not imposing more than one fee for violating terms
+or requirements of a Credit Card account based on a single event or
+transaction.
+○ Allocation of Payments
+In the event a Consumer makes a payment in excess of the minimum
+payment, Afterpay will allocate the excess amount first to the balance with the
+highest annual percentage rate. Any remaining portion will be allocated to any
+other balances in descending order based on the applicable annual
+percentage rate.
+In cases where a Consumer has a Credit Card account with Afterpay that is
+subject to a deferred interest program where the interest accrues on the
+balance, but is not required to be paid by the Consumer provided the balance
+is paid in full prior to the expiration date, Afterpay will:
+■ Apply any payment exceeding the minimum as stated above, but
+during the last two Billing Cycles immediately preceding expiration of
+the deferred interest period, the excess amount will be allocated first to
+any balance subject to deferred interest and any remaining portion to
+other balances beginning with those with the highest applicable
+annual percentage rate; or
+■ Allocate payments exceeding the minimum payment in the manner
+requested by the Consumer if the Consumer requests the allocation of
+payments in a different manner.
+○ Limitations on the Imposition of Finance Charges
+Afterpay will not impose Finance Charges due to the loss of a grace period on a
+Credit Card account that is based on either balances for days in Billing Cycles
+that precede the most recent Billing Cycle or any portion of a balance subject
+to a grace period that was repaid prior to the expiration of the grace period.
+Truth in Lending Act Policy | Afterpay US, Inc.
+19
+
+Confidential and Not for Distribution
+These limitations do not apply to adjustments to Finance Charges as a result of
+a resolution of a dispute with Afterpay under the provisions of Regulation Z, or
+adjustments to Finance Charges due to the return of a payment.
+○ Limitations on Increasing Annual Percentage Rates, Fees, and Charges
+Afterpay may have Credit Card accounts where an APR, fee, or charge will be
+temporary. If the temporary period is six months or longer and Afterpay will
+increase the APR, fee, or charge at the expiration of that period, Afterpay will
+disclose the increase to the Consumer in a clear and conspicuous manner and
+the length of time and annual percentage rate, fee, or charge that will apply
+after the expiration of that period.
+Afterpay will ensure transactions that occurred prior to the temporary period
+will not be impacted by any increase in APR, fee, or charge. All Consumers will
+be notified of a change to their APR, fees, or charges. Additionally, transactions
+that occur within 14 days after the notice has been provided to Consumers will
+not be impacted by any such changes.
+Afterpay may choose to associate the APR charged to Consumers with an
+index that is not determined by Afterpay and is available to the general public.
+In this event, any increase that impacts the Consumer’s APR will be the direct
+result of an increase in the index.
+Afterpay maintains the right to increase an APR, fee, or charge due to the
+non-receipt of a minimum payment within 60 days after the due date for that
+payment. If Afterpay chooses to impose an increase, it will disclose in a clear
+and conspicuous manner:
+■ A statement detailing the reason for the increase; and
+■ A statement detailing the increase will cease to apply if Afterpay
+receives six consecutive required minimum payments on or before the
+payment due date, beginning with the first payment due following the
+effective date of the increase.
+○ Afterpay may offer workout opportunities or temporary hardship
+arrangements for qualifying Consumers. Afterpay may increase an APR, fee, or
+charge at the completion of a workout or temporary hardship arrangement, or
+in the event, the Consumer fails to comply with the terms of the arrangement.
+In doing so, Afterpay will:
+Truth in Lending Act Policy | Afterpay US, Inc.
+20
+
+Confidential and Not for Distribution
+■ Prior to the commencement of any arrangement, provide the
+Consumer a clear and conspicuous written disclosure of the terms of
+the arrangement that will include any potential increases due to
+completion or failure to comply with the arrangement; and
+■ Not apply any increase to any transactions that occurred prior to
+commencement of the arrangement.
+○ Over-the-limit Transactions
+Afterpay retains the right to assess a fee to Consumers for transactions that
+cause a Consumer’s balance to exceed the credit limit. However, Afterpay will
+assess a fee for this activity only when:
+■ A notice will be provided prior to the assessment of any fee or charge
+related to over-the-limit activity;
+■ The notice will be oral, written, or electronic and segregated from all
+other information that provides a Consumer’s right to affirmatively
+consent or opt in to Afterpay’s ability to complete payment on an
+over-the-limit transaction;
+■ A reasonable opportunity has been provided to the Consumer to
+affirmatively consent or opt-in;
+■ Affirmative consent, or opt-in, has been received from the Consumer;
+and
+■ Afterpay subsequently provides notice to the Consumer of the receipt
+of the Consumer’s affirmative consent, either in writing or electronically
+if the Consumer agrees.
+Afterpay intends to always use model notices, or notices substantially similar to
+those included in Appendix G of Regulation Z, in order to comply with the
+specific content requirements of 1026.56(e)(1) and 1026.56(e)(2). Afterpay
+includes the notice of the Consumer’s right to revoke consent on the front of
+any page included in the periodic statement that reflects the assessment of an
+over-the-limit fee or charge. It should be noted that a Consumer can elect to
+revoke their consent orally, in writing, or electronically.
+Additionally, Afterpay may choose to complete a transaction that results in a
+Consumer’s balance exceeding the credit limit despite the Consumer not
+providing affirmative consent to the above. However, if this were to occur,
+Truth in Lending Act Policy | Afterpay US, Inc.
+21
+
+Confidential and Not for Distribution
+Afterpay will not impose a fee or charge for completing the transaction.
+Afterpay will not assess more than one over-the-limit fee on a Credit Card per
+Billing Cycle, and will only do so if the credit limit was exceeded during the
+Billing Cycle. If a transaction results in a balance over the credit limit, Afterpay
+will not assess a fee for more than three Billing Cycles where the Consumer has
+not reduced the balance below the credit limit by the payment due date for
+either of the last two Billing Cycles. Afterpay will not impose an over-the-limit
+fee for a Billing Cycle if a Consumer exceeds a credit limit solely because of fees
+or interest assessed to the account during that Billing Cycle.
+○ Reevaluation of Rate Increases
+When Afterpay increases the APR for any of its Credit Card accounts based on
+credit risk, market conditions, or other factors, Afterpay will evaluate the
+following factors and determine if there should be a reduction to the APR on
+an applicable Consumer’s account:
+■ The factors on which the increase in an APR was originally based; or
+■ The factors that Afterpay currently considers when determining the
+APR applicable to similar new Credit Card accounts.
+Afterpay will complete this evaluation at least once every six months after an
+increase in the APR.
+○ Credit and Charge Card Applications and Solicitations
+All applications and solicitations for opening a Credit Card account with
+Afterpay will contain disclosures as required by Regulation Z in a tabular
+format. Afterpay intends to use the model form, or one substantially similar, as
+contained in Appendix G-10 of Regulation Z. Afterpay will disclose:
+■ APR, including any variable rate information, the presence of a
+discounted initial rate, premium rate, or penalty rate;
+■ Fees imposed for the issuance or availability of the card to the
+Consumer;
+■ Any fixed Finance Charge and brief description of the charge;
+■ Transaction charges;
+■ Grace period;
+■ Balance computation method;
+■ Cash advance fee;
+Truth in Lending Act Policy | Afterpay US, Inc.
+22
+
+Confidential and Not for Distribution
+■ Late payment fee;
+■ Over-the-limit fee;
+■ Balance transfer fee;
+■ Returned-payment fee;
+■ Required insurance, debt cancellation, or debt suspension coverage;
+■ Available credit, only in the instance where any fees imposed for the
+issuance or availability of the card, or if a security deposit is required,
+and those charges represent 15 percent or more of the minimum credit
+limit on the card; and
+■ A reference to the web site established by the CFPB and a statement
+that Consumers may obtain on the web site information about
+shopping for and using Credit Cards.
+Afterpay will provide these disclosures electronically. Should Afterpay provide
+an application or solicitation that is available to the general public, these
+disclosures will be provided to the extent possible.
+● Closed-End Credit
+○ General Disclosure Requirements
+Afterpay will make disclosures required pursuant to Regulation Z in writing, in
+a form that the Consumer may keep. Afterpay will provide the disclosures to
+the Consumer in a reasonably understandable form. Afterpay may provide the
+disclosures to the Consumer in electronic form, subject to compliance with the
+Consumer consent and other applicable provisions of E-Sign.
+The disclosures will be grouped together, segregated from everything else, and
+will not contain any information not directly related to the required disclosures.
+Disclosures will be made before Consummation of the transaction.
+○ Content of Disclosures
+The disclosures will reflect the credit terms to which the parties will be legally
+bound as of the outset of the credit transaction. Afterpay will disclose the
+following information as applicable:
+■ Afterpay’s identity;
+■ The amount financed, using that term, and a brief description (such as
+“the amount of credit provided to you or on your behalf”);
+■ A separate written itemization of the amount financed (either
+Truth in Lending Act Policy | Afterpay US, Inc.
+23
+
+Confidential and Not for Distribution
+proactively or upon request);
+■ The Finance Charge, using that term, and a brief description (such as
+“the dollar amount the credit will cost you”);
+■ Note, the Finance Charge will be treated as accurate if it is not more
+than $5 above or below the amount required to be disclosed in a
+transaction involving an amount financed of $1,000 or less. In a
+transaction involving an amount financed of more than $1,000, the
+disclosed Finance Charge will be treated as accurate if it is not more
+than $10 above or below the amount required to be disclosed.
+■ The Annual Percentage Rate (“APR”), using that term, and a brief
+description (such as “the cost of your credit as a yearly rate”);
+■ Variable rate information, if applicable;
+■ The payment schedule, which is to include the number, amounts, and
+timing of payments scheduled to repay the obligation;
+■ The total of payments, using that term, and a brief description (such as
+“the amount you will have paid when you have made all scheduled
+payments”);
+■ A disclosure of a demand feature;
+■ Any prepayment penalties or rebates;
+■ The late payment amount or percentage;
+■ A description of any security interests;
+■ The insurance conditions and debt cancellation fees for Finance Charge
+exclusions;
+■ A statement concerning certain security interest charges; and
+■ A statement referring to the contract.
+Afterpay’s disclosures governed by Regulation Z will be guided by, and
+consistent with, the model forms available in Appendix H to Regulation Z.
+○ Treatment of Credit Balances
+When a credit balance in excess of $1 is created in connection with a
+transaction (through transmittal of funds to a creditor in excess of the total
+balance due on an account, through rebates of unearned Finance Charges or
+insurance premiums, or through amounts otherwise owed to or held for the
+benefit of a Consumer), Afterpay will:
+Truth in Lending Act Policy | Afterpay US, Inc.
+24
+
+Confidential and Not for Distribution
+■ Credit the amount of the credit balance to the Consumer's account;
+■ Refund any part of the remaining credit balance, upon the written
+request of the Consumer; and
+■ Make a good faith effort to refund to the Consumer by cash, check, or
+money order, or credit to a deposit account of the Consumer, any part
+of the credit balance remaining in the account for more than 6 months.
+○ Determination of APR
+Afterpay will calculate the APR in accordance with either the actuarial method
+or the United States Rule method. Explanations, equations, and instructions for
+determining the APR in accordance with the actuarial method are set forth in
+Appendix J of Regulation Z.
+The disclosed APR will be considered accurate if it is not more than 1/8 of one
+percent above or below the APR calculated under Regulation Z.
+Regulation Z permits Finance Charge and APR accuracy tolerances for
+Closed-end Credit.
+○ Advertising
+In an oral response to a Consumer’s inquiry about the cost of credit, Afterpay
+will only state the APR. However, Afterpay may also state a simple annual rate
+or Periodic Rate if it is applied to an unpaid balance. If the APR cannot be
+determined in advance, Afterpay will state the APR for a sample transaction,
+and may give other cost information for the Consumer’s specific transaction.
+Afterpay requires all promotional and advertising materials to meet applicable
+regulatory requirements. All promotional and advertising materials that
+state-specific terms will state only those terms that actually are or will be
+arranged or offered by Afterpay. All required disclosures will be made clearly
+and conspicuously.
+Any advertisements that state a rate of Finance Charge will state that rate as an
+APR, using that term. If the APR may be increased after Consummation, the
+advertisement will state that fact. The advertisement will not state any other
+rate, except that a simple annual rate or Periodic Rate that is applied to an
+unpaid balance may be stated in conjunction with the APR.
+In the development and review of any promotional materials, Afterpay requires
+proper disclosures in marketing and advertising materials based on the
+Truth in Lending Act Policy | Afterpay US, Inc.
+25
+
+Confidential and Not for Distribution
+following trigger terms:
+■ The amount or percentage of any down payment;
+■ The number of payments or period of repayment;
+■ The amount of any payment; and
+■ The amount of any Finance Charge.
+○ If any of the triggering terms are included in promotional materials, Afterpay
+requires the insertion of the following additional disclosures:
+■ The amount or percentage of the down payment;
+■ The terms of repayment, which reflect the repayment obligations over
+the full term of the loan, including any balloon payment; and
+■ The APR, using that term, and, if the rate may be increased after
+Consummation, that fact.
+A multiple-page advertisement or electronic advertisement (such as an
+advertisement on an Internet website) that gives information in a table or
+schedule complies with the disclosure requirements if the table or schedule of
+terms includes all appropriate disclosures for a representative scale of amounts
+up to the level of the more commonly sold higher-priced services offered.
+A television or radio advertisement stating any of the trigger terms requiring
+additional disclosures will clearly state either each additional disclosure or the
+information required regarding APR and list a telephone number and
+reference for Consumers to use to obtain additional cost information.
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+5.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+Truth in Lending Act Policy | Afterpay US, Inc.
+26
+
+Confidential and Not for Distribution
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+Employees commensurate with job levels and responsibilities. All Employees engaged in the activity
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block, Inc.’s Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+8. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+Truth in Lending Act Policy | Afterpay US, Inc.
+27
+
+Confidential and Not for Distribution
+9. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.’s document retention
+guidelines. In addition, Afterpay will retain all records documenting compliance with applicable
+Regulation Z requirements for two years after the date of disclosure.
+10. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Compliance Policy on Policies
+Related References:
+Regulation Name Truth In Lending Act or Regulation Z
+11. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+Maya Parekh Lending Regulatory Reviewed/Appro… Aug 13, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+Afterpay Board Afterpay Board Immaterial … Addition of Sep 11, 2024
+BNPL
+Truth in Lending Act Policy | Afterpay US, Inc.
+28
+
+Confidential and Not for Distribution
+Interpretive Rule
+language
+12. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Lending Product Compliance Lead
+Last Approval Date Sep 11, 2024
+Effective Date Sep 11, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Truth in Lending Act Policy | Afterpay US, Inc.
+29

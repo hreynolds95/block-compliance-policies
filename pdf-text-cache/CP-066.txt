@@ -1,0 +1,636 @@
+Fair Credit Reporting Act
+Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 8
+3. Purpose 8
+4. Scope 9
+5. Policy Requirements 9
+5.1 Policy Statement 9
+5.2 Afterpay’s Policy Requirements 9
+6. Roles and Responsibilities 17
+7. Document Management 18
+7.1 Document Owner 18
+7.2 Review and Approval 19
+8. Training 19
+9. Monitoring and Reporting 19
+10. Exceptions 19
+11. Record Retention 20
+12. Related Documentation or References 20
+13. Revision and Approval History 20
+13.1 Stakeholder Review Tracking 20
+13.2 Approval History 20
+14. Document Details 21
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Account For the purpose of FCRA, a continuing relationship established by a
+person with a financial institution to obtain a product or service for
+personal family, household, or business purposes. An account includes:
+● An extension of credit, such as for the purchase of property or
+services involving a deferred payment; and
+● A deposit account
+Adverse Action A refusal to extend credit in substantially the amount or substantially the
+terms requested in an application including if Afterpay makes a
+counteroffer (to extend credit on less favorable terms) and the applicant
+uses or expressly accepts the extension of credit offered. Actions taken
+in connection with certain default of delinquency activities are excluded.
+Consumer An individual who obtains, through a transaction, products, or services
+that are used primarily for personal, family, or household purposes, and
+also means the legal representative of such an individual.
+Consumer Any record about an individual, in paper, electronic, or other form, that is,
+Information among other things, based on a Consumer Report and that Afterpay
+maintains for a business purpose, or a compilation of such records, but
+does not include a record that does not identify an individual. Consumer
+Information includes information from a Consumer Report obtained
+from an affiliate when the Consumer does not opt out of sharing with
+affiliates. Consumer Information does not include aggregate or blind
+data that does not identify a particular individual.
+Consumer Report Any written, oral, or other communication of information by a Consumer
+Reporting Agency that bears on a Consumer’s creditworthiness, credit
+standing, credit capacity, character, general reputation, personal
+characteristics, or mode of living that is used or expected to be used or
+collected, in whole or in part, for the purpose of serving as a factor in
+establishing the Consumer’s eligibility for any of the following:
+● Credit or insurance to be used primarily for personal, family, or
+household purposes;
+● Employment purposes; or
+● Any other purpose authorized under the FCRA.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+The term Consumer Report can include both information in or from
+credit reports and other information used to determine eligibility for
+credit, including information provided by an applicant in the application
+such as income, employment, or assets. However, the term does not
+include any of the following:
+● Any report containing information solely about transactions or
+experiences between the Consumer and the person making the
+report;
+● Any communication of that transaction or experience
+information among entities related by common ownership or
+affiliated by corporate control (e.g., different institutions that are
+members of the same holding company, or subsidiary companies
+of an insured institution);
+● Communication of other information among persons related by
+common ownership or affiliated by corporate control, if it is clearly
+and conspicuously disclosed to the Consumer that the
+information may be communicated among affiliates, the
+Consumer is given the opportunity to opt-out of such sharing,
+and the Consumer does not opt-out.
+Consumer Any person who, for monetary fees, dues, or on a cooperative nonprofit
+Reporting Agency basis, regularly engages in whole or in part in the practice of assembling
+or evaluating Consumer credit information or other information on
+Consumers for the purpose of furnishing Consumer Reports to third
+parties, and who uses any means or facility of interstate commerce for
+the purpose of preparing or furnishing Consumer Reports. A lender that
+engages in those activities can fall within the definition of a Consumer
+Reporting Agency.
+Covered Account Either -
+● An account, primarily for personal, family, or household purposes,
+that involves or is designed to permit multiple payments or
+transactions; or
+● Any other account for which there is a reasonably foreseeable risk
+to customers or the safety and soundness of Afterpay from
+Identity Theft, including financial, operational, compliance,
+reputation, or litigation risks.
+Credit Score A numerical value or a categorization derived from a statistical tool or
+modeling system used by a person who makes or arranges a loan to
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+predict the likelihood of certain credit behaviors, including default (and
+the numerical value or the categorization derived from such analysis
+may also be referred to as a “risk predictor” or “risk score”). The term does
+not include any mortgage score or rating of an automated underwriting
+system that considers one or more factors in addition to credit
+information, including the loan-to-value ratio, the amount of
+downpayment, or the financial assets of a Consumer, or any other
+elements of the underwriting process or underwriting decision.
+Extended Alert An alert placed in the Consumer’s credit file after the Consumer submits
+a request and appropriate proof of identity.
+Extend Credit and The granting of credit in any form, including credit granted in addition to
+Extension of Credit any existing credit or credit limit; an advance in an open-end credit plan;
+the refinancing or other renewal of credit, including the issuance of a
+new credit card in place of an expiring credit card or in substitution for
+an existing credit card; the consolidation of two or more obligations; or
+the continuance of existing credit without any special effort to collect at
+or after maturity (i.e., the extension of the loan term).
+Fraud Alert and A statement in the file of a Consumer that—
+Active Duty Alert ● Notifies all prospective users of a Consumer Report relating to the
+Consumer that the Consumer may be a victim of fraud (for fraud
+alerts), including Identity Theft, or is an active duty military
+Consumer; and
+● Is presented in a manner that facilitates a clear and conspicuous
+view of that statement by any person requesting such a
+Consumer Report.
+Identity Theft A fraud committed or attempted using the identifying information of
+another person without authority.
+Medical Data, in any form, created or derived from a health care provider or a
+Information Consumer that relates to an individual’s past, present, or future physical,
+mental, or behavioral health. It includes their provision of and payment
+for health care. The term does not include:
+● A Consumer’s age or gender;
+● A Consumer’s demographics, including address or email address;
+● Information that does not specify a specific Consumer;
+● Unsolicited Medical Information that falls under another
+exception.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+Permissible A purpose for which a Consumer Reporting Agency may provide a
+Purpose Consumer Report, and a user, such as Afterpay, may obtain and use the
+report. The Permissible Purposes include:
+● In response to a court order or federal grand jury
+subpoena;
+● In accordance with the written instructions of the
+Consumer;
+● To a person, including Afterpay, which the agency
+has reason to believe intends to use the report as
+information for any of the following reasons:
+○ In connection with a credit transaction
+involving the Consumer (includes extending,
+reviewing, and collecting credit);
+○ For employment purposes;
+○ In connection with the underwriting of
+insurance involving the Consumer;
+○ In connection with a determination of the
+Consumer’s eligibility for a license or other
+benefit granted by a governmental
+instrumentality that is required by law to
+consider an applicant’s financial responsibility;
+○ As a potential investor or servicer, or current
+insurer, in connection with a valuation of, or an
+assessment of the credit or prepayment risks
+associated with, an existing credit obligation;
+○ Otherwise has a legitimate business need for
+the information related to a product or service,
+such as a lease, that is not specifically
+addressed under the FCRA (i.e., other than
+credit, insurance, employment, licensing, or
+government benefits):
+● In connection with a business transaction that the
+Consumer initiates;
+● To review an account to determine whether the
+Consumer continues to meet the terms of the
+account; or
+● In response to a request by the head of a State or local
+child support enforcement agency (or authorized
+appointee) if the person certifies various information
+to the Consumer Reporting Agency regarding the
+need to obtain the report. (Generally, this particular
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+purpose does not impact a person, such as Afterpay,
+that is not a Consumer Reporting Agency.)
+2. Introduction
+This Fair Credit Reporting Act Policy (“Policy”) outlines Afterpay US, Inc.’s (“Afterpay”) commitment to
+comply with the Fair Credit Reporting Act (“FCRA”). Cash App’s Head of Compliance and/or their
+designee is responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate the commitment of Afterpay to complying with all
+applicable provisions of FCRA.
+FCRA applies to persons who obtain and use information about Consumers to determine the
+Consumer's eligibility for products, services, or employment; share such information among affiliates;
+and furnish information to Consumer Reporting agencies. It requires users to respond appropriately
+when there are “red flags” that indicate possible Identity Theft and allows Consumers who have had
+their identities stolen to prevent further damage to their credit record. It requires Afterpay and
+Consumer Reporting agencies alike to adopt reasonable procedures for handling Consumer credit
+and Medical Information in a manner that ensures confidentiality and accuracy in the authorized
+sharing of Consumers’ personal information.
+The Fair and Accurate Credit Transactions Act (“FACTA” or “FACT Act”) of 2003 amended the FCRA
+and was established to serve the following purposes:
+● Enhance the ability of Consumers to combat Identity Theft;
+● Increase the accuracy of Consumer Reports; and
+● Allow Consumers to exercise greater control regarding the type and amount of
+marketing solicitations Consumers receive.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+4. Scope
+This Policy is established by Afterpay . This Policy is applicable to Afterpay’s Employees and sets out
+the approach to FCRA compliance. This Policy has been created to ensure that Afterpay and relevant
+personnel are aware of and comply with expectations regarding FCRA.
+5. Policy Requirements
+5.1 Policy Statement
+Afterpay is committed to ensuring that its business activities are conducted in a manner that
+complies with all requirements of FCRA.
+5.2 Afterpay’s Policy Requirements
+● Obtaining Consumer Reports. FCRA requires any prospective user of a Consumer Report to
+have a legally Permissible Purpose to obtain a report. Afterpay obtains Consumer Reports during
+its application process to evaluate an applicant’s credit profile. Afterpay will request a Consumer
+Report only for one of the following defined Permissible Purposes:
+○ The Consumer provides authorization in writing;
+○ The report will be used in connection with a credit transaction involving the Consumer
+and involving the extension of credit to, or review or collection of an account of the
+Consumer;
+○ The report will be used by a potential investor or servicer in connection with an
+assessment of the credit risks associated with a credit obligation; or
+○ A prescreened solicitation in connection with any credit transaction that is not
+initiated by the Consumer only if:
+■ The Consumer authorizes the Consumer Reporting Agency to provide such a
+report; or
+■ The transaction consists of a firm offer of credit and the Consumer has not opted
+out of receiving such solicitations.
+Afterpay is able to obtain Consumer Reports on current or prospective Employees. If it uses
+information from a Consumer Report for employment purposes, Afterpay will:
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+○ Make a clear and conspicuous written disclosure to the applicant prior to obtaining
+the Consumer Report that consists solely of the disclosure and states that a Consumer
+Report may be obtained;
+○ Obtain prior written authorization from the current or prospective employee; and
+○ Certify to the applicable Consumer Reporting Agency(ies) that the above steps have
+been completed, the information being obtained will not be used in violation of any
+federal or state equal opportunity law or regulation, and that if any adverse action is
+taken based on the Consumer Report, a copy of the report and a summary of the
+Consumer’s rights will be provided to the Consumer.
+● Credit Prescreening. While not currently applicable, in the event Afterpay elects to conduct
+prescreened solicitations, it will comply with the requirements to offer an Extension of Credit
+credit to the Consumer and provide required “opt-out” disclosures, as required under the FCRA. A
+firm offer of credit is an offer that will be honored if the Consumer meets the specific criteria used
+to select the Consumer for the offer, except the offer may be conditioned on one or both of the
+following:
+○ The Consumer meets any pre-established creditworthiness criteria based on the
+application, as long as such other criteria are established in advance; and
+○ The Consumer’s continued eligibility and application information can be verified after
+the Consumer accepts the offer.
+If Afterpay conducts prescreened solicitations, it will maintain the criteria used for the
+solicitation (including the criteria used to generate the prescreened report and any other
+criteria such as collateral requirements) on file as required by the FCRA.
+The FCRA requires a firm offer of credit to be accompanied by two notices, which are referred
+to as the short notice and the long notice.
+● Fraud, Active Duty, and Extended Alerts. Afterpay will comply with FCRA requirements for
+taking additional measures to verify identity if the Consumer Reports to a Consumer Reporting
+Agency that he or she has been a victim of Identity Theft. A Consumer may place one of three
+types of alerts in his or her Consumer Reports: Fraud alert, active duty alert, or Extended Alert.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+A Consumer’s identity must be verified if a Consumer Report includes an initial fraud or active
+duty alert. Unless other practices confirm a Consumer’s identity, Afterpay will not establish an
+extension of credit in the name of the Consumer. A Consumer must be contacted using the
+method specified by the Consumer in the alert.
+● Furnishing Information to Consumer Reporting Agencies. Afterpay does not currently furnish
+information to Consumer Reporting Agencies. In the event that Afterpay elects to furnish,
+Afterpay will comply with applicable FCRA requirements.
+○ Accuracy and Integrity. Afterpay will establish reasonable policies and procedures for
+implementing agency guidelines regarding the accuracy and integrity of the information
+about Consumers it furnishes to Consumer Reporting agencies.
+○ Duty to Provide Accurate Information. When Afterpay furnishes information to a
+Consumer Reporting Agency, it will, among other things:
+■ Provide accurate information to Consumer Reporting agencies by providing an
+address for Consumers to notify Afterpay that information it has reported is
+inaccurate, and then not reporting information if the Consumer notifies Afterpay,
+at the specified address, that the information is inaccurate;
+■ To the extent that Afterpay does not provide such an address, it will avoid
+furnishing information if it knows or has reasonable cause to believe that the
+information is inaccurate;
+■ Provide corrections or additional information to Consumer Reporting agencies
+when Afterpay determines that information is not complete or accurate;
+■ Notify the Consumer Reporting Agency of any dispute the Consumer has about
+the completeness or accuracy of any information Afterpay furnishes to a Consumer
+Reporting Agency;
+■ Notify the Consumer Reporting Agency that the Consumer voluntarily closed an
+Account in the preceding reporting cycle;
+■ Notify the Consumer Reporting Agency of the date that an Account became
+delinquent if it was placed for collection, charged off, or subjected to any similar
+action.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+○ Duties After Notice of Dispute (Direct or Indirect). Afterpay does not currently report
+information to Consumer Reporting Agencies. In the event that Afterpay elects to report,
+Afterpay will comply with applicable FCRA requirements outlined below:
+■ Customers may submit a notice of dispute regarding the accuracy or completeness of
+information on their Consumer Report either to the Consumer Reporting Agency,
+referred to as indirect disputes, or directly to Afterpay, referred to as direct disputes.
+Afterpay requires the notice to contain enough information to identify the pertinent
+Account, information the customer is disputing, a brief explanation as to the basis of
+the dispute, and any supporting documentation to substantiate the dispute.
+If Afterpay receives a notice of dispute from a Consumer Reporting Agency, or directly from
+the Consumer, about the accuracy or completeness of any information Afterpay provided to a
+Consumer Reporting Agency, Afterpay will:
+■ Investigate the dispute;
+■ Review all relevant information the Consumer Reporting Agency provided along
+with the notice;
+■ Report the results of the investigation to the Consumer Reporting Agency and to
+any other nationwide Consumer Reporting agencies to which it previously
+provided the information;
+■ If the information is inaccurate, modify or delete the information in its own records,
+or permanently block the reporting of the information.
+The investigation must be completed and Afterpay must report the results within 30 days
+after the Consumer Reporting Agency or Afterpay received the notice of the dispute. This
+deadline may be extended by 15 days if the Consumer Reporting Agency or Afterpay
+received additional relevant information from the Consumer.
+Under the FCRA, Afterpay is not required to investigate any disputes Afterpay determines
+to be frivolous or irrelevant. Upon the determination that a dispute is frivolous or
+irrelevant, a notice of determination letter will be sent to the customer within five
+business days. This letter will include the reasoning for why the dispute was found to be
+frivolous or irrelevant and any information required by Afterpay to investigate the
+disputed information.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+○ Other Furnisher Requirements. When furnishing to Consumer Reporting agencies,
+Afterpay will:
+■ Establish and follow reasonable procedures to ensure that it does not report
+information to a Consumer Reporting Agency after it has been told that the
+information may be the result of Identity Theft;
+■ Avoid selling or transferring debt caused by an alleged Identity Theft;
+■ Provide Consumers with notice either before it furnishes negative information to a
+nationwide Consumer Reporting Agency, or within 30 days after furnishing the
+negative information.
+● Identity Theft. In order to mitigate Identity Theft, Afterpay will:
+○ Identify relevant Identity Theft red flags;
+○ Detect red flags;
+○ Respond appropriately to any detected red flags; and
+○ Adjust internal Identity Theft efforts periodically based on changing risks and/or
+market conditions.
+As previously noted, the FCRA establishes three types of alerts that may be included in a
+Consumer Report that indicates the Consumer may be a victim of fraud, including
+Identity Theft. These alerts include:
+○ Initial fraud alert;
+○ Active duty alert; and
+○ Extended fraud alert.
+Afterpay has opted to include the five categories noted below that the Federal Trade
+Commission (“FTC”) has identified as part of its efforts to identify relevant Identity Theft
+red flags and mitigate Identity Theft of its customers:
+○ Alerts, notifications, or warnings from a CRA, which includes fraud or credit alerts,
+credit freezes, address discrepancies, and/or pattern of activity inconsistent with the
+history and usual Account activity of the customer (this category encompasses the
+three types of alerts noted above);
+○ Suspicious documents, such as altered or forged documents or identification;
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+13
+
+Confidential and Not for Distribution
+○ Suspicious personal identifying information, such as social security number provided
+during application matches the social security number of other applicants;
+○ Suspicious Account activity; or
+○ Notices from any other sources.
+● Afterpay intends to maintain compliance with all applicable red flag guidelines, including the
+alerts identified above, by adopting and maintaining procedures to ensure compliance.
+Afterpay will:
+○ Maintain the right to decline to provide the information requested by an alleged
+victim of Identity Theft based on provisions established in the Gramm-Leach-Bliley
+Act;
+○ Provide a copy of the application and any business transaction records available, free
+of charge, upon receipt of a written claim of Identity Theft that resulted in a fraudulent
+transaction, provided Afterpay can confirm the victim’s allegation(s) are true after the
+Identity Theft victim:
+■ Provides proof of positive identification in the form of a government-issued
+identification card;
+■ Provides proof of the Identity Theft claim in the form of an Identity Theft affidavit
+and a copy of a police report; and
+○ Not sell, transfer, or place in collection a debt that has resulted from Identity Theft.
+■ If Afterpay engages a third-party debt collector in order to perform collection
+activities on Consumers who are victims of Identity Theft, in its own name, on
+behalf of Afterpay, Afterpay must ensure that the third-party debt collector notifies
+Consumers that the information may be fraudulent or the result of Identity Theft.
+○ Given Afterpay may be considered a Card Issuer, as defined by 15 U.S.C. 1681a(r)(1),
+Afterpay has implemented reasonable policies and procedures to assess the validity of
+a change of address if it receives notification of a change of address for a Consumer's
+debit or credit card Account and, within a short period of time afterwards (during at
+least the first 30 days after it receives such notification), Afterpay receives a request for
+an additional or replacement card for the same Account.
+● Limits on Using Medical Information. The FCRA prohibits covered entities from obtaining
+and using Medical Information in connection with a Consumer’s eligibility, or continuing
+eligibility, for credit. Afterpay will use Medical Information only in the following manners:
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+14
+
+Confidential and Not for Distribution
+○ Making credit eligibility determinations, such as information relating to debts,
+expenses, income, benefits, assets, collateral, or the purpose or use of the loan;
+○ The Medical Information is used in a no less favorable manner; and
+○ The Consumer’s physical, mental, or behavioral health, condition or history, type of
+treatment, or prognosis are not used in determining credit eligibility.
+● Sharing and Using Information with Affiliate and Nonaffiliate Companies. The FCRA
+restricts Afterpay’s affiliates from using a Consumer’s eligibility or information related to their
+credit qualifications to make a solicitation for marketing purposes, unless:
+○ The Consumer is notified that the information may be used for such purposes;
+○ The Consumer is given an opportunity to prohibit such use; and
+○ The Consumer does not opt-out of such sharing practices.
+Afterpay does not currently share information with affiliate or nonaffiliate companies. In the
+event that Afterpay elects to share information, Afterpay will ensure that any sharing of
+information complies with applicable FCRA requirements. Any affiliates of Afterpay using shared
+information making solicitations for marketing purposes are required to provide Consumers with
+the required notification and opt-out mechanism. It should be noted that Afterpay does not
+currently share this information, as reflected on the GLBA Privacy Notice.
+● Disclosures to Consumers.
+○ Disclosure of Adverse Action. Afterpay will comply with the Equal Credit Opportunity
+Act (“ECOA”) and FCRA requirements to provide a notice to Consumers when it uses
+Consumer Information from a credit reporting agency or other third-party sources
+and takes Adverse Action based on that information. When Afterpay uses information
+from a Consumer Reporting Agency, in any manner, to generate an Adverse Action, it
+will inform the applicant in writing. The Adverse Action notice will include:
+■ A statement of the Adverse Action;
+■ The name, address, and toll-free number of the Consumer Reporting Agency that
+provided the Consumer Report;
+■ A statement indicating the Consumer Reporting Agency did not make the credit
+decision and does not have any information regarding the credit decision;
+■ A statement noting the Consumer has the right to a free report for 60 days;
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+15
+
+Confidential and Not for Distribution
+■ A statement noting the Consumer has a right to dispute information in their
+Consumer Report with the Consumer Reporting Agency;
+■ If applicable, information about any Credit Score used in making the credit
+decision;
+■ A statement regarding the Credit Score information if a Credit Score was used in
+any manner in making the credit decisions, which includes:
+● A statement that a Credit Score is a number that takes into account
+information in a Consumer Report, the Consumer’s Credit Score was used in
+taking the Adverse Action, and that a Credit Score can change over time to
+reflect changes in the Consumer’s credit history;
+● The Credit Score used in generating the decision;
+● The range of possible Credit Scores under the model used to generate the
+Credit Score;
+● All of the key factors that adversely affected the Credit Score, but no greater
+than four factors, except when one of the key factors is the number of inquiries
+made with respect to the Consumer Report, the number of key factors will not
+exceed five;
+● The date on which the Credit Score was created; and
+● The Consumer’s name;
+■ If information from a third party, other than a Consumer Reporting Agency, is used
+in any manner to generate an Adverse Action, the notice will provide the
+Consumer a disclosure detailing the Consumer’s right to make a written request
+within sixty days for the nature of the information that led to the Adverse Action.
+Afterpay will comply with any such request upon receipt; and
+■ If information from an affiliate is used in any manner to generate an Adverse
+Action, the notice will provide the Consumer a disclosure detailing the Consumer’s
+right to make a written request within 60 days for the nature of the information
+that led to the Adverse Action. Afterpay will comply with any such request upon
+receipt.
+In connection with Consumer loan applications, Adverse Action will typically be required under
+requirements from both the FCRA and the ECOA. All Adverse Action notices will be delivered
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+16
+
+Confidential and Not for Distribution
+within the time frame specified within ECOA, as the FCRA does not contain timing requirements
+for the delivery of an Adverse Action notice.
+● Adverse Action Compliance Safe Harbor. It is important to note that Afterpay should
+not be held liable for any violation of this section if Afterpay shows by a preponderance
+of the evidence that at the time of the alleged violation Afterpay maintained
+reasonable procedures to assure compliance with the provisions of this section.
+● Credit Score Disclosure Notice. Under the FCRA, Afterpay must provide a risk-based
+pricing notice to Consumers when the Consumer, based on information in his/her
+Consumer Report, receives terms that are materially less favorable than the terms
+offered to other Consumers, with certain exceptions. Where Afterpay performs
+risk-based pricing, it will provide a Credit Score disclosure notice (“CSDN”) to all
+applicants in lieu of a risk-based pricing notice. Afterpay will provide the CSDN to all
+applicants at or before consummation of the loan.
+● Joint Users. Afterpay may share Consumer Report information if Afterpay is jointly
+involved in the decision to approve a Consumer's request for a product or service,
+provided that each has a permissible proper purpose to obtain a Consumer Report on
+the individual.
+● Proper Disposal of Consumer Information. Afterpay maintains or otherwise possesses
+Consumer Information for a business purpose. That said, Afterpay must properly
+dispose of such information by taking reasonable measures to protect against
+unauthorized access to or use of the information in connection with its disposal.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+17
+
+Confidential and Not for Distribution
+and that all employees are aware of that commitment and their
+individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+18
+
+Confidential and Not for Distribution
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+Employees commensurate with job levels and responsibilities. All Employees engaged in the activity
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block, Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board (“Board”). This reporting may include
+specific information related to policies, programs, procedures, audit/exam findings, issues
+management, training, and complaints.
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block’s Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.’s’s document retention
+guidelines.
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+19
+
+Confidential and Not for Distribution
+12. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Compliance Policy on Policies
+Related Program Block, Inc. Compliance Training Program
+Related References:
+Regulation Name Fair Credit Reporting Act
+Regulation Name Fair and Accurate Credit Transactions Act of
+2003
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+20
+
+Confidential and Not for Distribution
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Fair Credit Reporting Act Policy | Afterpay US, Inc.
+21

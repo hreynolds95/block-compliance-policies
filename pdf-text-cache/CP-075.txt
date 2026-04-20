@@ -1,0 +1,417 @@
+Unfair, Deceptive, or
+Abusive Acts or Practices
+Policy
+Cash App | U.S.
+January 2025
+Last Approval Date
+
+Confidential
+Table of Contents
+Table of Contents 2
+Definitions 3
+1. Introduction 5
+2. Purpose 5
+3. Scope 5
+4. Policy Requirements 5
+4.1 Policy Statement 5
+4.2 UDAAP Standards 6
+4.3 Consumer Harm 7
+4.4 Consumer Complaints 8
+4.5 Consumer Adverse Actions 8
+4.6 Compliance Monitoring and Testing 8
+4.7 Servicing Guidelines 9
+4.8 Compensation and Performance Evaluations 9
+4.9 Advertising, Marketing and Disclosures Guidelines 9
+4.10 Internal Controls 11
+5. Document Management 12
+5.1 Document Owner 12
+5.2 Review and Approval 12
+6. Training 13
+7. Monitoring and Reporting 13
+8. Exceptions 13
+9. Record Retention 13
+10. Related Documentation or References 13
+11. Revision and Approval History 14
+12. Document Details 14
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+2
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+The Company For the purposes of this Policy, the Company refers to Cash App’s U.S.
+operations (“Cash App”) a Line of Business under Block, Inc.
+Consumer Consumer refers to an individual who is a natural person who obtains or has
+obtained a financial product or service that is to be used primarily for personal,
+family or household purposes.
+Staff Member(s) An employee or external worker (e.g., contingent labor, contractors) hired by
+the Company who supports the operations covered by this Policy.
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of The Cash App Head of Compliance is responsible for:
+Compliance (“Head ● Reviewing and approving this Policy,
+of Compliance”) ● Ensuring this policy reflects industry best practices and applicable
+regulatory guidance,
+● Ensuring that reviews to evaluate UDAAP risk mitigation are conducted
+for applicable products and services, including marketing, disclosures,
+advertising and other requirements outlined in this Policy, and
+● Ensuring that appropriate Staff Members are trained on UDAAP at
+least annually commensurate with their roles and responsibilities.
+As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App Consumer
+Protection Compliance Lead or Compliance Staff who inform and escalate key
+risks and Issues to the Head of Compliance.
+Cash App Consumer Cash App Consumer Protection Compliance Lead as the owner of this Policy is
+Protection responsible for:
+Compliance Lead ● Serving as the subject matter expert for content relevant to this Policy,
+● Developing the Policy to meet regulatory expectations,
+● Ensuring regulatory requirements are included in documentation,
+● Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners,
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy, and
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+3
+
+Confidential
+Role Responsibility
+● Delegating and overseeing documentation requirements, as needed.
+Compliance Staff Provide oversight and guidance to Business Units in implementing the
+requirements of this Policy.
+Staff Members The Company’s Staff Members are responsible for:
+● Understanding and complying with applicable laws and regulations for
+this Policy,
+● Completing any required compliance training in a timely manner, and
+● Promptly reporting actual or suspected violations of laws or other
+requirements.
+Senior Management Senior Management, which includes key members of Block’s management
+team, is responsible for supporting the Block, Inc. Chief Compliance Officer
+and the Head of Cash App, Compliance in delegated day-to-day
+responsibilities such as:
+● Demonstrating clear and appropriate expectations about compliance,
+not only within Block and its related entities but also to third-party
+service providers;
+● Maintaining effective internal controls and executing risk and control
+procedures on a day-to-day basis;
+● Addressing compliance issues and associated risks of customer harm;
+● Implementing corrective actions to address process and control
+deficiencies;
+● Identifying and supporting execution of monitoring and testing plans,
+including the review of results; and
+● Ensuring that recurring reports of compliance risks, issues, and
+resolution are retained.
+Members of Senior Management may also be compliance Staff Members,
+reporting either directly or indirectly to the Block Chief Compliance Officer or
+Head of Cash App Compliance.
+Legal Counsel Legal Counsel is responsible for:
+● Providing approval and interpretative advice and counsel regarding the
+applicability and application of requirements of this Policy,
+● Providing legal advice by identifying and validating relevant regulatory
+obligations applicable to The Company’s products and operations, and
+● Working with the Cash App Consumer Protection Compliance Lead and
+other relevant Staff Members to support Consumer complaint
+resolution and any corrective action.
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+4
+
+Confidential
+1. Introduction
+This Unfair, Deceptive, or Abusive Acts or Practices Policy (“Policy”) communicates the expectation to Staff
+Members and business partners that Cash App (“Cash App”), a Line of Business under Block, Inc. will comply
+with the Unfair, Deceptive, or Abusive Acts or Practices Standards (the “UDAAP Standards”) contained in
+sections 1031 and 1036 of the Dodd-Frank Act, Section 5 of the Federal Trade Commission Act, as well as
+state laws prohibiting similar acts or practices.
+The Cash App Head of Compliance and/or their designee is responsible for the management of this Policy.
+2. Purpose
+The Company recognizes that UDAAP violations can present significant legal, reputational, and compliance
+risk. The purpose of this Policy is to set forth the expectations for the Company to manage and implement
+the requirements of the UDAAP standards as outlined below in this Policy. The Company’s prevention of
+UDAAP-related violations requires transparency, truthfulness, suitability, and fairness in Cash App-related
+transactions and other dealings with Consumers.
+3. Scope
+This Policy is established for Cash App, U.S. a Line of Business under Block, Inc. and is applicable to the Cash
+App business and related products and services.
+4. Policy Requirements
+4.1 Policy Statement
+The Company is committed to offering its products through all stages of the product life cycle in a fair and
+responsible manner and in accordance with applicable state and federal Consumer protection laws and
+regulations, which includes those promulgated under state and federal UDAAP laws and regulations. The
+Company expects that the terms and conditions governing use of its products and services will be
+communicated to Consumers in a clear, transparent, and accurate manner and that these products and
+services offer a tangible benefit to Consumers. UDAAP violations can occur at any stage in the product
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+5
+
+Confidential
+lifecycle; therefore, the Company requires that relevant product and services and their associated business
+activities be reviewed by Compliance to ensure adherence to UDAAP Standards.
+Wherever state or local regulations overlap with, and are stricter than the requirements set out in this Policy,
+the more conservative or restrictive approach will be applied in those jurisdictions provided such approach is
+lawful. If any applicable laws conflict with this Policy, the Company will consult with appropriate Legal
+Counsel to resolve the conflict and adjust the Company’s policies and procedures to ensure compliance.
+The Company is committed to:
+● Ensuring that Staff Members do not participate in any representation, omission, or practice that
+is unfair, deceptive, or abusive;
+● Ensuring that Consumers understand the Cash App U.S. products and services they receive;
+● Providing advertising that contain disclosures in a clear, conspicuous, transparent, and accurate
+manner; and
+● Incorporating reasonable business practices for all aspects of the Company’s operations to avoid
+engaging in acts or practices that are unfair, deceptive, or abusive.
+4.2 UDAAP Standards
+The application of UDAAP Standards set forth below is fact-based and context dependent. The legal
+standards for unfairness, deception, and abusiveness are defined below. These Standards may be
+interpreted with other existing rules and regulations that may be applicable to an act or practice; and even
+though more than one Standard may apply to a situation, the legal Standards for unfair, deceptive, and
+abusive, are each separate.
+● Unfair Acts or Practices. An act or practice is unfair where it causes or is likely to cause
+substantial injury to Consumers which cannot be reasonably avoided and the injury is not
+outweighed by countervailing benefits to Consumers or to competition. An act or practice that
+causes a small amount of harm to a large number of people may be deemed to cause substantial
+injury. However, an act or practice is not considered to be unfair if Consumers may reasonably
+avoid injury. Consumers cannot reasonably avoid injury if the act or practice interferes with their
+ability to make decisions or take action to avoid injury.
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+6
+
+Confidential
+Public policy, as established by statute, regulation or judicial decisions may be considered, with
+other evidence, to determine whether an act or practice is unfair and the particular facts in a case
+are crucial to the determination of unfairness.
+The Company complies with guidance that discrimination may be considered an unfair act or
+practice. As such, the Company will treat all applicants and Consumers equally, and will not
+discriminate during the stages of the product life cycle, including marketing, account opening,
+servicing, or collections.
+● Deceptive Acts or Practices. An act or practice is deceptive where there is a representation,
+omission, or practice that misleads or is likely to mislead Consumers; the Consumer’s
+interpretation of the representation, omission, act, or practice is reasonable under the
+circumstances; and the misleading representation, omission, act, or practice is material.1
+A deceptive representation may be an express or implied claim or promise and it may be written
+or oral. The omission of material information may be deceptive if disclosure of the omitted
+information is necessary to prevent a Consumer from being misled. When representations or
+marketing practices are targeted to a specific audience, such as the elderly, young people, or
+financially unsophisticated, the standard is based upon the effects of the act or practice on a
+reasonable member of that group.
+● Abusive Acts or Practices. An act or practice is abusive if it materially interferes with the ability
+of a Consumer to understand a term or condition of a product or service or takes unreasonable
+advantage of: (i) a lack of understanding on the part of the Consumer of the material risks, costs,
+or conditions of the product or service; (ii) the inability of the Consumer to protect their interests
+in selecting or using the financial product or service; or (iii) the reasonable reliance by the
+Consumer on a covered person to act in the interests of the Consumer.
+4.3 Consumer Harm
+Any unfair, deceptive, or abusive act or practice can result in Consumer harm. Consumer harm is any actual
+or potential loss or injury to a Consumer, whether financial or non-financial, that may be caused by the
+1
+See FTC Policy Statement on Deception, available at https://www.ftc.gov/legal-library/browse/ftc-policy-statement-deception
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+7
+
+Confidential
+violation of federal or state Consumer protection laws or regulations, or by weaknesses in the Compliance
+Management System (“CMS”). The Company seeks to offer its products and services in a clear, transparent,
+and accurate manner and in accordance with applicable state and federal Consumer protection laws and
+regulations to avoid instances of Consumer harm.
+4.4 Consumer Complaints
+Consumer complaints play a key role in detecting potential UDAAP risk. Block’s Global Complaints Policy and
+underlying Complaints Program Standard includes minimum requirements for the Company in relation to the
+identification, classification, treatment, and reporting of complaints. The Company complies with legal,
+regulatory, and contractual requirements governing the handling of Consumer complaints arising from the
+Company’s products and services.
+4.5 Consumer Adverse Actions
+The Company is responsible for adherence to UDAAP Standards in its approach to taking action against
+Consumers who violate Cash App’s Terms of Service or internal policies, or engage in suspicious or illegal
+activity (together, referred to as prohibited activity). As outlined in Cash App’s Compliance Customer Adverse
+Actions Policy, the Company will take reasonable steps to provide notification of termination or other types
+of changes by email or at the next access of the App. The Company will not exit a Consumer relationship
+based on discrimination of a protected class.
+4.6 Compliance Monitoring and Testing
+The Company is committed to maintaining a robust Global Compliance Monitoring & Testing (“GCMT”)
+function and maintaining compliance with the laws and regulations governing the conduct of its business.
+The GCMT function oversees the risk-based monitoring and testing function for the Company by developing
+and executing an annual monitoring and testing plan to support adherence to regulatory compliance
+requirements, including UDAAP, and the frequency of testing for applicable regulations and the Company's
+risk profile. Corrective action to any noted deficiencies are implemented efficiently and documented
+accordingly.
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+8
+
+Confidential
+4.7 Servicing Guidelines
+For third-parties engaged in loan servicing, relevant servicing-related policies, procedures, programs, and
+Consumer communications are reviewed by Compliance prior to, and during their use, to take reasonable
+measures to ensure they comply with UDAAP Standards.
+4.8 Compensation and Performance Evaluations
+If and when the Company or any third-party vendors provide support center Consumer servicing, which
+includes any servicing communications delivered via existing communication methods, the Company will
+strive to ensure compensation and performance evaluations of internal employees and performance
+oversight of vendor advocates do not contribute to UDAAP risk. The Company maintains relevant metrics and
+controls, which includes quality assurance and case monitoring.
+4.9 Advertising, Marketing and Disclosures Guidelines
+Advertising and Marketing Guidelines. The Company is committed to the following principles with regard to
+marketing, advertising, and sales materials. Such materials will:
+● Fairly, clearly, timely, and adequately disclose and describe all terms, benefits, costs, risks, and
+material limitations of the product or service being offered, including any related or optional
+products and services;
+● Not intentionally misrepresent the above-referenced terms, benefits, costs, risks, and material
+limitations either affirmatively or by omission;
+● Not use intentionally misleading headlines;
+● Use conspicuous disclosures to clarify potentially misleading headlines instead of fine print,
+separate statements, or inconspicuous disclosures;
+● Have a reasonable factual basis for all representations made in all communications to
+Consumers;
+● Draw the attention of Consumers to key terms, including limitations and conditions that are
+important in enabling the Consumer to make an informed decision regarding whether the product
+or service meets their needs;
+● Inform Consumers in a clear and timely manner about fees, penalties, or other charges that have
+been imposed, and the reasons for their imposition;
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+9
+
+Confidential
+● Clearly inform Consumers of contract provisions that permit a change in the terms and conditions
+of the agreement;
+● Clearly inform Consumers when the approved account terms are less favorable than the
+advertised terms or terms previously disclosed;
+● Clearly disclose any limitations, conditions, or restrictions on the offer when using terms such as
+“pre-approved,” or “guaranteed”;
+● Not make claims, representations, or statements that mislead the target audience about cost,
+value, availability, cost savings, benefits, or terms of the product or service; and
+● Avoid advertising that a particular service will be provided in connection with an account if there
+is no intent or ability to provide or monitor the receipt of that service to account holders.
+Disclosure Guidelines. The Company maintains a library of approved disclosures that require Legal Counsel
+review when updates are made or new disclosures are created. Materials are reviewed by Compliance to
+ensure that the appropriate disclosure is used. Disclosures should meet the requirements outlined here:
+● Pass the four P’s test to help avoid deception, which include: prominence, presentation,
+placement, and proximity:
+○ Prominence. Is the disclosure big enough for Consumers to read easily?
+○ Presentation. Is the disclosure worded in a way that Consumers can easily
+understand?
+○ Placement. Is the disclosure where Consumers are likely to look?
+○ Proximity. Is the disclosure close to the claim it modifies?
+● Fairly, clearly, timely, and adequately disclose and describe all terms, benefits, costs/pricing,
+risks, and other material terms;
+● Use conspicuous disclosures to clarify potentially misleading headlines instead of fine print,
+separate statements, or inconspicuous disclosures;
+● Draw the attention of Consumers to key terms, including limitations and conditions that are
+important in enabling the Consumer to make an informed decision regarding whether the
+product or service meets their needs;
+● Inform Consumers in a clear and timely manner about fees, penalties, or other charges that
+have been imposed, and the reasons for their imposition;
+● Clearly inform Consumers of contract provisions that permit a change in the terms and
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+10
+
+Confidential
+conditions of the agreement;
+● For email advertisements, verify that the materials: (1) contain adequate opt-out disclosures,
+(2) accurately identify the "From," "To," and "Reply To" headers, and (3) adequately contain a
+subject line that reflects the content of the message;
+● Clearly inform Consumers when the approved account terms are less favorable than the
+advertised terms or terms previously disclosed;
+● Clearly disclose any limitations, conditions, or restrictions on the offer when using terms such
+as “pre-approved,” or “guaranteed”.
+4.10 Internal Controls
+Internal Controls are designed to provide reasonable assurance that products and services are offered in
+adherence to UDAAP Standards. To assess the effectiveness of internal controls and compliance with this
+Policy, the following activities occur:
+● Advertising, Marketing, and Disclosure Reviews. Advertisements, marketing, promotions,
+related sales materials, and Consumer communications are reviewed by Compliance, prior to
+their use in business activities, to ensure they fairly, accurately, and transparently represent the
+benefits, costs, and risks of the product(s) or service(s) addressed. Additionally, Legal review and
+approve proposed changes to required disclosures.
+● Procedure Reviews. The Company requires that relevant business lines identify and obtain
+review of Procedures associated with this Policy when material changes are made or at least
+annually to ensure ongoing alignment with this Policy.
+● Product and Services Offering Reviews. The Company is committed to ensuring that adequate
+review of UDAAP related risks are conducted as a part of the evaluation of new product
+development. Business line Staff Members responsible for developing new products or
+overseeing material changes to existing products (including any third-party vendors engaged by
+such Staff Members) must comply with established review processes. The review processes
+ensure reasonable business practices for all aspects of the Company’s operations to avoid
+engaging in acts or practices that are unfair, deceptive, or abusive.
+● Servicing and Collection Reviews. For third-parties engaged in loan servicing and collections,
+Compliance reviews applicable servicing and collection-related policies, procedures, programs,
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+11
+
+Confidential
+and Consumer communications, prior to, and during their use, to take reasonable measures to
+ensure they are fair, accurate, and transparent.
+● Third-Party Risk Management. Third-parties and merchants who perform customer
+related-services on behalf of the Company must adhere to the guidelines and standards outlined
+in this Policy. The Staff Member(s) responsible for managing the relationship with the third-party
+must ensure the company understands the prohibitions against UDAAP, and ongoing monitoring
+of the third-party conducted to ensure adherence.
+● Credit Practices Rule. In connection with extensions of credit to Consumers by third-parties, the
+Company will take reasonable measures to ensure that the following are not included in relevant
+contracts: confessions of judgment, waivers of exemption, wage assignments, or security
+interests in household goods provisions. Additionally, as applicable, the Company will ensure that
+third-parties extending credit provide notice to Consumers who cosign obligations about their
+potential liability. Furthermore, the Company will take reasonable measures to ensure that
+third-parties engaging in collections do not collect on late fees on payments that would
+otherwise be considered a full payment for the applicable period that are paid on the due date, or
+within an applicable grace period, when the only delinquency is attributable to late fees or
+delinquency charges assessed on earlier installments.
+● Preservations of Claims and Defenses. In connection with any sale or lease of goods or
+services to Consumers made by third-parties affecting commerce (as commerce is defined in
+the Federal Trade Commission Act), the Company will take reasonable measures to ensure
+that such third-parties comply with the FTC’s Holder Rule.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App Head of Compliance or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+12
+
+Confidential
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and
+guidance to implement this Policy effectively. All training activities are monitored by the Compliance
+Team and are outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+Periodic testing will be conducted to determine compliance with this Policy and associated procedures.
+Items that fail to meet a specific Policy requirement are reported as a finding using the GCMT process.
+8. Exceptions
+The Policy Owner or designee will have authority to approve exceptions and/or exemptions to this Policy.
+Policy exception requests must be documented in writing, include a reason for a request, and provide a
+description of the controls that the Company will implement to mitigate risks associated with the exception.
+Any approved exceptions must be documented in writing and retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp.
+The Policy Owner and/or designee will inform Compliance Leadership and applicable committees, as needed,
+of exceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documentation or References
+Related References:
+Regulation Name The Dodd-Frank Act
+Regulation Name The Federal Trade Commission Act
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+13
+
+Confidential
+11. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Brian Kollmeyer Cash App Creation Initial creation of Sep 3, 2024
+Consumer policy
+Protection
+Compliance Lead
+Jason Liberman Interim Cash App Initial Appro… Initial approval of Sep 24, 2024
+Head of policy
+Compliance
+Compliance Policy Compliance Policy Initial Appro… Approval Jan 22, 2025
+Committee Committee
+12. Document Details
+Business Cash App
+Scope Regional (United States)
+Compliance Domain Consumer Protection
+Document Owner Cash App, Consumer Protection Compliance Lead
+Last Approval Date January 22, 2025
+Effective Date September 24, 2024
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+Unfair, Deceptive, or Abusive Acts or Practices Policy | Cash App | U.S.
+14

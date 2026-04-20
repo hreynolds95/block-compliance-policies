@@ -1,0 +1,414 @@
+Gramm-Leach-Bliley Act
+(GLBA) Privacy Policy
+Cash App | U.S.
+June 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by individuals within Block, Inc. and on a
+need-to-know basis.
+GLBA Privacy Policy | Cash App | U.S.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Policy Requirements 7
+4.1 Privacy Notice - Timing and Delivery Method 7
+4.2 Required Privacy Notice Information 9
+4.3 How Cash App Collects Nonpublic Personal Information 9
+4.4 Nonpublic Personal Information Cash App is Allowed to Share 9
+4.5 Opt-Out Method 11
+4.6 Other Information Use and Sharing Restrictions 11
+4.7 Confidentiality and Security 12
+4.8 Maintaining Customer Privacy in Third Party Relationships 13
+5. Document Management 13
+5.1 Document Owner 13
+5.2 Review and Approval 13
+6. Training 13
+7. Monitoring and Reporting 13
+8. Exceptions 13
+9. Record Retention 14
+10. Related Documentation or References 14
+11. Revision and Approval History 14
+12. Document Details 15
+GLBA Privacy Policy | Cash App | U.S.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Affiliate Any company that controls, is controlled by, or is under common control with
+another company.
+Clear and A notice is reasonably understandable and designed to call attention to the
+Conspicuous nature and significance of the information in the notice.
+Collect or Collection To obtain information that can be organized to retrieve information by the
+name of an individual or by an identifying number, symbol, or other identifying
+information assigned to the individual, irrespective of the source of the
+underlying information.
+Continuing A legal agreement between a Consumer and Cash App in which Cash App
+Relationship provides one or more financial products or services to that Consumer.
+Consumer A natural person who applies for or who obtains from Cash App a financial
+product or service intended to be used primarily for personal, family, or
+household purposes.
+Customer A Consumer who has a Continuing Relationship with Cash App.
+Customer Any record containing NPI about a Customer, whether in paper, electronic, or
+information other form, that is handled or maintained by or on behalf of Cash App.
+Notification Event Acquisition of unencrypted Customer information without the authorization of
+the individual to which the information pertains. Customer information is
+considered unencrypted for this purpose if the encryption key was accessed
+by an unauthorized person. Unauthorized acquisition will be presumed to
+include unauthorized access to unencrypted Customer information unless
+there is reliable evidence showing that there has not been, or could not
+reasonably have been, unauthorized acquisition of such information.
+Non-affiliated Third Any person or entity that is not an Affiliate of, or related by common ownership
+Party or affiliated by corporate control with, Block, but does not include a joint
+employee of such institution.
+Nonpublic Personal NPI Includes:
+Information (“NPI”) ● PII resulting from a transaction with the Customer or any service
+performed for the Customer or otherwise obtained by Cash App; and
+● Any list, description, or other grouping of Customers (and Publicly
+Available Information pertaining to them) derived using any Personally
+GLBA Privacy Policy | Cash App | U.S.
+4
+
+Confidential and Not for Distribution
+Identifiable Information that is not Publicly Available.
+NPI does not include any list of individuals’ names and addresses that:
+● Contains only Publicly Available Information;
+● Is not derived in whole or in part using Personally Identifiable
+Information that is not Publicly Available; and
+● Is not disclosed in a manner indicating any of the individuals on the list
+are (or have been) a Customer of Cash App
+Personally Includes any information:
+Identifiable ● Provided to Cash App by a Consumer to obtain a financial product or
+Information (“PII”) service from Cash App;
+● About a Consumer resulting from any transaction involving a financial
+product or service between Cash App and a Customer; or
+● That Cash App otherwise obtains about a Consumer in connection with
+providing a financial product or service to that Consumer.
+Excludes any information:
+● That does not identify a Consumer, such as aggregate information or
+blind data that does not contain personal identifiers such as account
+numbers, names, or addresses.
+Privacy Notice Cash App’s publicly viewable statement required by the Privacy Rule detailing
+categories of information that are or are not shared with Affiliates and
+Non-affiliated Third Parties and all disclosures that relate to any sharing.
+Publicly Available Includes any information Cash App has a reasonable basis to believe is lawfully
+Information made available to the general public from:
+● Federal, state, or local government records;
+● Widely distributed media; or
+● Disclosures to the general public that are required to be made by
+Federal, state, or local law.
+Note that Cash App may not assume that a Customer’s information is Publicly
+Available Information. Instead, it must be determined if the information is of
+the type available to the general public or whether a Customer intended for
+the information to be publicly available (e.g., an unlisted telephone number).
+Roles and Responsibilities
+Role Responsibility
+Chief Privacy Officer The CPO:
+(“CPO”) ● Is the owner of this Policy;
+GLBA Privacy Policy | Cash App | U.S.
+5
+
+Confidential and Not for Distribution
+● Ensures this Policy adequately addresses and implements applicable
+laws, regulations, guidance, monitoring, auditing, and Cash App
+practices;
+● Reviews and approves this Policy no less than annually and reports
+significant policy changes to Cash App management;
+● Provides timely communication to relevant Block Staff or Personnel of
+an implemented Policy change; and
+● May delegate the oversight and implementations of this Policy, as
+needed.
+Cash App Privacy Cash App Privacy Counsel provides approval and interpretative advice and
+Counsel counsel regarding the applicability and application of requirements of this
+Policy.
+Compliance Provides oversight and guidance to Business Lines in implementing the
+requirements of this Policy.
+Block Information InfoSec manages Block’s Information Security Policy
+Security (“InfoSec”)
+Staff Members Staff Members are required to cooperate and work with a Policy Owner to
+facilitate compliance with this Policy, including all confidentiality requirements
+included herein.
+GLBA Privacy Policy | Cash App | U.S.
+6
+
+Confidential and Not for Distribution
+1. Introduction
+This Gramm-Leach-Bliley Act Privacy Policy (“Policy”) outlines Cash App’s approach to complying with
+Gramm-Leach-Bliley Act (“GLBA”) as implemented by Regulation P (collectively the “Privacy Rule”). The Chief
+Privacy Officer (“CPO”) is responsible for management of this Policy.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Policy is to further Cash App’s commitment to privacy by protecting its Customers’ NPI in accordance with
+GLBA.
+3. Scope
+This Policy is established for Cash App (“Cash App”), U.S. a Line of Business under Block, Inc., and is
+applicable to the Cash App business and related products and services.
+4. Policy Requirements
+4.1 Privacy Notice - Timing and Delivery Method
+● Initial Notice
+○ An initial Privacy Notice must be provided to:
+■ A Consumer at the time they apply for a product or service, and
+■ A Consumer before Cash App discloses any NPI about the Consumer to any
+Non-affiliated Third Party.
+○ Cash App is not required to provide Initial Notice to the Consumer if Cash App does
+not disclose any NPI about the Consumer to any Non-affiliated Third Party, other than
+as authorized by permissible disclosures in accordance with the Privacy Rule.
+○ When an existing Customer obtains another financial product or service from Cash
+App, Cash App can satisfy the initial notice requirements by either:
+■ Providing a revised Privacy Notice that covers the Customer's new financial
+product or service; or
+GLBA Privacy Policy | Cash App | U.S.
+7
+
+Confidential and Not for Distribution
+■ If the initial, revised, or annual Privacy Notice that Cash App most recently
+provided to that Customer was accurate with respect to the new financial
+product or service, Cash App does not need to provide a new Privacy Notice.
+● Annual Notice
+○ Customers are provided with the Privacy Notice annually.
+■ An annual Privacy Notice is to be delivered no less than annually during the
+continuation of the Customer relationship.
+○ Cash App is not required to deliver an annual Privacy Notice if it:
+■ Only provides NPI to Non-affiliated Third Parties as described in Section 4.4
+below, and
+■ Cash App has not changed the Privacy Notice or its practices with regard to
+sharing NPI with Non-affiliated Third Parties since its most-recently disclosed
+Privacy Notice.
+● Revised Privacy Notice
+○ If changes are made to the Privacy Notice that necessitate delivery of the revised
+notice as described below, Cash App must provide Customers with notice indicating
+how their information is used at least 30 days prior to the change.
+○ Cash App is required to provide a revised notice to its Customers before it discloses:
+■ A new category of NPI to any Non-affiliated Third Party;
+■ NPI to a new category of Non-affiliated Third Party; or
+■ NPI about a former Customer to a Non-Affiliated Third Party, if that former
+Customer has not had the opportunity to exercise an opt out right regarding
+that disclosure.
+○ A revised notice is not required if Cash App discloses NPI to a new Non-affiliated
+Third Party that is adequately described in the prior notice.
+● Method of Delivery
+○ A link to Cash App’s Privacy Notice is electronically provided to Customers during
+account creation, and Customers acknowledge receipt of the notice delivery prior to
+completing account creation.
+GLBA Privacy Policy | Cash App | U.S.
+8
+
+Confidential and Not for Distribution
+4.2 Required Privacy Notice Information
+A Privacy Notice is required to be provided by Cash App to accurately inform its Customers in a Clear and
+Conspicuous manner about how Cash App collects, uses, and shares their NPI. The Privacy Notice
+outlines Cash App’s practices regarding the handling of Consumer information, and includes:
+● Information about Cash App’s privacy policies and practices for protecting the confidentiality
+and security of NPI;
+● The categories of NPI that Cash App Collects;
+● The categories of NPI that Cash App discloses to Affiliates and Non-affiliated Third Parties
+(including whether Cash App discloses information about former Customers);
+● The categories of Affiliates and Non-affiliated Third Parties that Cash App discloses
+information to (including entities to which Cash App discloses information about former
+Customers); and
+● A requirement of Cash App to provide an opt-out method for Customers to prevent disclosure
+of that information to Non-affiliated Third Parties, unless an exception applies.
+The Fair Credit Reporting Act (“FCRA”) has additional requirements that may apply when the use of a
+consumer credit report occurs, regardless of whether an account relationship is established or exists and
+with no consideration for the nature of the account.
+4.3 How Cash App Collects Nonpublic Personal Information
+NPI is collected in various ways, such as account applications, Affiliate information sharing, public
+records, and information from a consumer credit report. The requirements of this Policy apply regardless
+of how information is collected or obtained.
+4.4 Nonpublic Personal Information Cash App is Allowed to Share
+● Affiliates
+○ Cash App is permitted to share NPI with its Affiliate(s) as provided in the Privacy
+Notice.
+○ It is Cash App’s policy that it will share NPI with its Affiliate(s) only to the extent
+necessary, and subject to applicable laws including, where relevant, the opt-out
+GLBA Privacy Policy | Cash App | U.S.
+9
+
+Confidential and Not for Distribution
+provisions for Affiliate marketing and consumer credit report information established
+by FCRA.
+○ Affiliates are prohibited from storing or using such information for any other purpose
+without express prior consent from Cash App.
+● Non-affiliated Third Parties
+○ Cash App may share information with Non-affiliated Third Parties without meeting
+the “opt-out” condition (see Section 4.5 below), under any of the following conditions:
+■ To market Cash App’s own financial products or services;
+■ Where third parties are performing services or functions on behalf of Cash
+App, including marketing Cash App’s own products or services or products
+and services offered pursuant to a joint agreement between Cash App and
+another financial institution, provided that Cash App:
+● Discloses that arrangement to the extent required by law; and
+● Enters into an agreement with the third party to maintain the
+confidentiality of the information.
+■ The Customer consents;
+■ It is necessary to effect, administer, or enforce a transaction requested or
+authorized by the Customer;
+■ To process and service transactions the Customer requests or authorizes;
+■ To protect against potential fraud or unauthorized transactions;
+■ To protect the confidentiality or security of Cash App’s records;
+■ For risk control purposes or for resolving Customer disputes;
+■ To persons holding a legal or beneficial interest relating to the Customer;
+■ To persons acting in a fiduciary capacity on behalf of the Customer;
+■ To law enforcement agencies if permitted or required under other provisions
+of law;
+■ To respond to judicial process, attorneys, accountants, and auditors;
+■ To respond to governmental authorities for examination, compliance, or other
+lawful purposes;
+■ To a consumer reporting agency in accordance with the FCRA; or
+■ To comply with federal state or local laws.
+GLBA Privacy Policy | Cash App | U.S.
+10
+
+Confidential and Not for Distribution
+4.5 Opt-Out Method
+If Cash App plans to share NPI with Non-affiliated Third Parties in any other capacity than as defined
+above, Cash App will provide a method for the Customer to communicate their NPI-sharing opt-out
+choice at any time, and will honor the request as soon as reasonably practicable following receipt. Cash
+App contractually requires all Non-affiliated Third Parties that provide services on its behalf to use NPI
+only for the purposes for which the NPI was disclosed.
+If Cash App shares NPI with its Affiliates, Cash App will provide opt-outs as required by FCRA when
+necessary.
+Cash App will not disclose NPI other than as described in the Privacy Notice unless Cash App provides a
+Clear and Conspicuous revised Privacy Notice that accurately describes its privacy practices along with
+an appropriate opt-out, as applicable. In such circumstances, Cash App will post the Privacy Notice on its
+website and notify all applicable Customers alerting them of the location of the Notice. Cash App will not
+engage in such NPI sharing until after it provides at least 30 days for the Customer to opt out.
+4.6 Other Information Use and Sharing Restrictions
+NPI may not be disclosed to any Non-affiliated Third Party except as provided in the Privacy Notice. For
+the purpose of marketing non-Cash App products, NPI may not be disclosed to any Non-affiliated Third
+Party without complying with applicable law, including any requirements for Customer consent
+(including opt-out choice, where required). Cash App does not share account numbers or similar forms of
+access numbers or access codes for a Customer’s account with Non-affiliated Third Parties for the
+purposes of marketing.
+PII or other types of information obtained from companies for which Cash App is a service provider may
+not be used beyond the purpose of the contract.
+Business units are responsible for ensuring information passed to Non-affiliated Third Parties (e.g.,
+service providers, marketing companies) is limited to information needed to fulfill the service provided by
+the third party.
+GLBA Privacy Policy | Cash App | U.S.
+11
+
+Confidential and Not for Distribution
+4.7 Confidentiality and Security
+Block is committed to the security of Customer financial and personal information. Block maintains an
+Information Security Policy (“Infosec Policy”) designed to implement administrative, technical, and
+physical safeguards that are appropriate to Block’s size and complexity, the nature and scope of Block’s
+activities, and the sensitivity of any PII at issue.
+● Cash App Operational and Data Processing Systems
+Cash App’s operational and data processing systems are in a secure environment that
+protects Customer information from being accessed by third parties. Access to Customer
+information must be in accordance with the Infosec Policy. Employees’ access to Customer
+information is limited to those with a business reason to know such information. Employees
+are educated on the importance of maintaining the confidentiality of Customer information
+and on these privacy principles. Because of the importance of these issues, Block Staff
+Members are responsible for maintaining the confidentiality of Customer information, and
+Staff Members who violate these privacy policies will be subject to disciplinary measures,
+including, but not limited to termination.
+● Cyber Security Risk Management Program
+Block maintains a Cybersecurity Risk Management Program designed to ensure that core
+business services and supporting business processes continue to operate with high levels of
+availability, security, trust and assurance, which, among others, requires annual risk
+assessment and risk treatment.
+● Incident Response Plan and IR Runbook
+Block maintains an Incident Response Plan and Security Incident Response Runbook (“IR
+Runbook”) designed to promptly respond to, and recover from, any security event materially
+affecting the confidentiality, integrity, or availability of Customer information in its control.
+In accordance with the IR Runbook, Cash App Privacy Counsel is alerted of any security incidents
+relating to Cash App, and will escalate to the CPO upon discovery of a Notification Event. Block will
+comply with any notification obligations under applicable laws for any security incident, including
+notifying the Federal Trade Commission as soon as possible, and no later than 30 days after discovery, of
+a Notification Event involving the information of at least 500 Consumers.
+GLBA Privacy Policy | Cash App | U.S.
+12
+
+Confidential and Not for Distribution
+4.8 Maintaining Customer Privacy in Third Party Relationships
+Block maintains a Third Party Risk Management Program (“TPRM Program”) to protect the interests of its
+Customers, shareholders and other stakeholders, and fulfill its legal and regulatory obligations. The
+TPRM Program requires Cash App’s vendors and suppliers to maintain similar standards of conduct
+regarding the privacy of Customer information provided to them.
+5. Document Management
+5.1 Document Owner
+This document is owned by the CPO or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to evaluate
+adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a description
+of the controls that Block will implement to mitigate risks associated with the exception. Any approved
+GLBA Privacy Policy | Cash App | U.S.
+13
+
+Confidential and Not for Distribution
+exceptions must be documented in writing and retained with recordkeeping requirements. Any approved
+exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp. The
+Document Owner and/or designee will inform Compliance Leadership and applicable committees, as needed,
+of exceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documentation or References
+Related Policy Information Security Policy
+Related Program Cybersecurity Risk Management Program
+Other Security Incident Response Runbook
+Other Block Privacy Principles Guidance
+Related References:
+Regulation Name Gramm-Leach-Bliley Act 15 U.S.C. §§ 6801 - 6809
+Regulation Name Regulation P 12 CFR § 1016
+Regulation Name Standards for Safeguarding Customer
+Information (Safeguards Rule) 16 CFR § 314
+Regulation Name Fair Credit Reporting Act 15 U.S.C. § 1681
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Lee Buchmann Cash Consumer Reviewed/Approv… November 22, 2024
+GLBA Privacy Policy | Cash App | U.S.
+14
+
+Confidential and Not for Distribution
+Protection Compliance
+Approval History
+Approver Title Type Description Date
+Tait Svenson Chief Privacy Initial Approval Initial Approval Nov 22, 2024
+Officer
+Compliance Policy Compliance Initial Approval Approval Jan 22, 2025
+Committee Policy Committee
+Brian Kollmeyer Consumer Material Cha… Adding an Jun 5, 2025
+Protection additional
+Compliance exception to the
+Program Lead opt-out
+requirement
+consistent with 12
+CFR 1016.15(a)(6)
+for disclosure of
+NPI in connection
+with
+sales/mergers
+12. Document Details
+Business Cash App
+Scope Regional (United States)
+Compliance Domain Consumer Protection
+Document Owner Chief Privacy Officer
+Last Approval Date June 5, 2025
+Effective Date June 5, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+GLBA Privacy Policy | Cash App | U.S.
+15

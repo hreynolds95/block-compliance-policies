@@ -1,0 +1,244 @@
+Controlling the Assault of
+Non-Solicited
+Pornography And
+Marketing Act
+(“CAN-SPAM”) Policy
+Cash App | U.S.
+January 2025
+Last Approval Date
+
+Confidential
+Table of Contents
+Table of Contents 2
+Definitions 3
+1. Introduction 5
+2. Purpose 5
+3. Scope 5
+4. Policy Requirements 5
+4.1 Email Primary Purpose: Commercial 5
+4.2 False or Misleading Header Information 6
+4.3 Deceptive Email Subject Lines 6
+4.4 Identify Applicable Message as an Ad 6
+4.5 Inform Recipients of Valid Physical Address 6
+4.6 Opt-Out or Unsubscribe Explanations 7
+4.7 Honor Opt-Out Requests Promptly 7
+5. Document Management 8
+5.1 Document Owner 8
+5.2 Review and Approval 8
+6. Training 8
+7. Monitoring and Reporting 8
+8. Exceptions 8
+9. Record Retention 9
+10. Related Documentation or References 9
+11. Revision and Approval History 9
+12. Document Details 9
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+Commercial/ Any email message the primary purpose of which is to advertise or promote for
+Marketing Email a commercial purpose, a commercial product or service including content on
+Message the internet. An email message would not be considered to be a commercial or
+marketing email message solely because such a message includes a reference
+to a commercial entity that serves to identify the sender or a reference or link
+to an internet website operated for a commercial purpose.
+Consumer Consumer refers to an individual who is a natural person who obtains or has
+obtained a financial product or service from Cash App that is to be used
+primarily for personal, family or household purposes.
+Recipient An authorized user of the email address to which the message was sent or
+delivered.
+Sender A person who initiates an email message and whose product, service, or
+internet website is advertised or promoted by the message.
+Transactional or An email message with the primary purpose of facilitating, completing, or
+Relationship Email confirming a transaction that the recipient had previously agreed to enter into
+Message by being a Cash App account holder (and either sending or receiving
+payments).
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of The Cash App Head of Compliance is responsible for:
+Compliance (“Head ● Owning this Policy;
+of Compliance”) ● Ensuring this policy reflects industry best practices and applicable
+regulatory guidance; and
+● Ensuring that appropriate Staff Members are trained on CAN-SPAM, at
+least annually commensurate with their roles and responsibilities.
+As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App Consumer
+Protection Compliance Lead or Compliance Staff who inform and escalate key
+risks and Issues to the Head of Compliance.
+Cash App Consumer Cash App Consumer Protection Compliance Lead as the delegated owner of
+Protection this Policy is responsible for:
+Compliance Lead ● Serving as the subject matter expert for content relevant to this Policy;
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+● Developing the Policy to meet regulatory expectations;
+● Ensuring regulatory risks are identified in documentation;
+● Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners;
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy; and
+● Delegating and overseeing business documentation requirements, as
+needed.
+Compliance Provide oversight and guidance to businesses in implementing the
+requirements of this Policy.
+Legal Counsel ● Legal Counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this
+Policy;
+● Legal Counsel provides legal advice by identifying and validating
+relevant regulatory obligations applicable to Cash App products and
+operations; and
+● Works with the Cash App Consumer Protection Compliance Lead and
+other relevant Staff Members to support this Policy.
+Staff Members The Company’s Staff Members are responsible for:
+● Understanding and complying with applicable laws and regulations for
+this Policy;
+● Completing any required compliance training in a timely manner; and
+● Promptly reporting actual or suspected violations of this Policy.
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+1. Introduction
+This Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy (“Policy”)
+outlines Cash App’s obligations for ensuring that certain information is not false or misleading when
+initiating electronic mail (“email”) messages to Consumers or prospective Consumers (including commercial
+entities). The Policy also outlines obligations that recipients of commercial email messages can opt out of
+future correspondence.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Policy is to outline Cash App’s obligations pursuant to its email marketing practices when sending emails to
+new and existing Consumers, commercial entities, and Merchants and ensuring Cash App adheres to the
+requirements of CAN-SPAM.
+3. Scope
+This Policy is established by Cash App and is applicable to all Cash App United States (“U.S.”) email
+marketing operations, including emails to new and existing Consumers or commercial entities.
+4. Policy Requirements
+CAN-SPAM sets forth several obligations related to the sending of commercial email messages. Cash App
+has established this Policy and accompanying procedures to establish those obligations, which begins with
+the identification of an email message where the primary purpose would be considered commercial under
+CAN-SPAM. Cash App may send commercial email messages to Consumers in the U.S. as long as the
+Consumer has an opt out mechanism (see 4.6) AND as long as Cash App honors any opt-out requests
+promptly once the request is received (see 4.7).
+4.1 Email Primary Purpose: Commercial
+The primary purpose of an email message will be deemed to be commercial if it:
+● Contains only the commercial advertisement or promotion of a commercial product or service;
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+● Contains both commercial content and “transactional or relationship” content if either:
+○ A recipient reasonably interpreting the subject line of the email message would likely
+conclude that the message contains commercial content; or
+○ The email message’s “transactional or relationship” content does not appear in whole or
+substantial part at the beginning of the body of the message.
+● Contains both commercial content and content that is not transactional or relationship content if
+a recipient reasonably interprets either:
+○ The subject line of the email message would likely conclude that the message contains
+commercial content; or
+○ The body of the message would likely conclude that the primary purpose of the message
+is commercial.
+4.2 False or Misleading Header Information
+Cash App will not use false or misleading header information in the “From,” “To,” “Reply-To,” fields and
+routing information, including the originating domain name and email address. The header information will
+be accurate and identify the person or business who initiated the message.
+4.3 Deceptive Email Subject Lines
+Cash App will not use deceptive email subject lines and will ensure that the email subject line accurately
+reflects the content of the message.
+4.4 Identify Applicable Message as an Ad
+Cash App will identify the applicable message as an ad. The fact that the message is an advertisement must
+be clearly and conspicuously disclosed.
+4.5 Inform Recipients of Valid Physical Address
+Cash App will inform email recipients where Cash App is located. Emails must include a valid physical postal
+address; which can be Cash App’s current street address, a post office box registered with the U.S. Postal
+Service, or a private mailbox registered with a commercial mail-receiving agency established under Postal
+Service regulations.
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+4.6 Opt-Out or Unsubscribe Explanations
+Cash App will provide explanations to email recipients for opting-out of receiving future email and
+unsubscribing from email lists.
+● The message must include a clear and conspicuous explanation of how the recipient can opt out
+of receiving future emails.
+● Any notice containing an explanation of how the recipient can opt out should be designated so
+that it is easy for an ordinary person to recognize, read, and understand.
+● Creative use of type size, color, and location can improve clarity.
+● A return email address or another easy internet-based way to allow people to communicate their
+choice to opt out of further email communications must be provided.
+● A menu can be used to allow a recipient to opt out of certain types of messages, but the option to
+stop all commercial messages must also be included.
+● Cash App’s spam filter must not block these opt-out requests.
+4.7 Honor Opt-Out Requests Promptly
+Cash App will honor opt-out requests for email promptly.
+● Any opt-out mechanism offered must be able to process opt-out requests for at least 30 days
+after an email is sent.
+● A recipient’s opt-out request must be honored within 10 business days of receipt.
+● Cash App cannot charge a fee, require the recipient to provide any personally identifying
+information beyond an email address or make the recipient take any step other than sending a
+reply email or visiting a single page on an Internet website as a condition for honoring an opt-out
+request.
+● Once Cash App has been notified of an opt-out request from the email recipient, Cash App is
+prohibited from selling or transferring the recipient’s email address to any other party, even in
+the form of a mailing list.
+● The only exception is that the address may be transferred to a company hired to help ensure
+compliance with CAN-SPAM.
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App Consumer Protection Compliance Lead or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+Testing will be conducted on at least an annual basis to determine compliance with this Policy and
+associated Procedures. Items that fail to meet a specific Policy requirement are reported as a finding using
+the Global Compliance Monitoring and Testing (“GCMT”) process.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a description
+of the controls that the Company will implement to mitigate risks associated with the exception. Any
+approved exceptions must be documented in writing and retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp.
+The Document Owner and/or designee will inform Compliance Leadership and applicable committees, as
+needed, of exceptions.
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documentation or References
+Controlling the Assault of Non-Solicited 15 U.S.C §§ 7701-7713
+Pornography And Marketing Act (“CAN-SPAM”)
+11. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Brian Kollmeyer Consumer Creation Initial creation. Dec 2, 2024
+Protection
+Compliance
+Program Lead
+Jason Liberman Interim, Head of Initial Appro… Initial approval. Dec 10, 2024
+Cash App
+Compliance
+Compliance Policy Compliance Policy Initial Appro… Approval Jan 22, 2025
+Committee Committee
+12. Document Details
+Business Cash App
+Scope Regional (United States)
+Compliance Domain Consumer Protection
+Document Owner Consumer Protection Compliance Program Lead
+Last Approval Date Jan 22, 2025
+Effective Date Dec 10, 2024
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.
+
+Confidential
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy | Cash App | U.S.

@@ -1,0 +1,294 @@
+Servicemembers Civil
+Relief Act Policy
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App US and
+on a need-to-know basis.
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 7
+2. Purpose 7
+3. Scope 7
+4. Policy Requirements 7
+4.1 SCRA Policy Requirements 7
+5. Document Management 10
+5.1 Document Owner 10
+5.2 Review and Approval 10
+6. Training 10
+7. Monitoring and Reporting 10
+8. Exceptions 10
+9. Record Retention 11
+10. Related Documentation or References 11
+12. Document Details 12
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Active Duty The term “Active Duty” means full-time duty in the active Military Service of
+the United States. Such term includes full-time training duty, annual training
+duty, and attendance, while in active Military Service, at a school designated as
+a service school by law or by the Secretary of the military department
+concerned. This term does not include full-time National Guard duty.
+Credit Products Any of Cash App US’s lending products including (1) Borrow (2) Pre-Purchase
+Financing (3) Retroactive Financing or (4) Cash App Afterpay Online Checkout,
+unless otherwise noted.
+Default Judgment A judgment against an individual in any civil action or proceeding where the
+defendant or the defendant’s attorney does not make an appearance.
+Department of A public database that allows Cash App US (or its agent or attorney) to
+Defense Manpower determine if an individual is a Servicemember on Active Duty Military Service.
+Data Center Website
+(“DMDC” Website)
+Dependent Dependents are permitted to request relief under the Servicemembers Civil
+Relief Act (SCRA). These dependents can include the Servicemember’s
+spouse, the Servicemember’s child, or an individual for whom the
+Servicemember provided more than one-half of the individual’s support for 180
+days immediately preceding an application for relief under the SCRA.
+Dependents are permitted to request relief under the SCRA.
+Military Service The term "Military Service" means:
+● A member of the Army, Navy, Air Force, Marine Corps, Space Force, or
+Coast Guard on Active Duty;
+● Reservists on federal Active Duty;
+● A member of the National Guard on service under a call to Active Duty
+for a period of more than 30 consecutive days for purposes of
+responding to a national emergency declared by the President and
+supported by Federal funds;
+● A commissioned officer of the Public Health Service or the National
+Oceanic and Atmospheric Administration on Active Duty; and
+● Any period during which a Servicemember is absent from duty on
+account of sickness, wounds, leave, or other lawful cause.
+● A citizen of the United States who is serving with the forces of a nation
+with which the United States is allied in the prosecution of a war or
+military action.
+Period of Military The period beginning on the date on which a Servicemember enters Military
+Service Service and ending on the date on which the Servicemember is discharged
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+4
+
+Confidential and Not for Distribution
+from Military Service, within 90 days of discharge or dies while in Military
+Service. For reservists, the period beginning on the date of the military orders
+and ending on the date on which the Servicemember is released from Military
+Service or dies while in Military Service. In computing the statute of
+limitations, Cash App US will not include a Servicemember’s Military Service.
+Servicemember Full-time members of the uniformed services, including United States Army,
+Navy, Air Force, Marines, Coast Guard, Space Force, Officers of the Public
+Health Services, the commissioned corps of the National Oceanic and
+Atmospheric Administration, and members of the Active Duty Reserves, or
+members of the National Guard called to active service (including persons
+ordered to report for induction, basic training, or special job school) as
+authorized by the President or Secretary of Defense for a period of more than
+30 consecutive days.
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Cash App
+operations reflect Cash App’s commitment to compliance and that all Staff
+Members are aware of that commitment and their individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and reporting on
+compliance with this Policy. Cash App’s Head of Compliance may delegate to
+others the authority to adopt, develop, and implement procedures and
+reporting that support this Policy.
+Product Compliance The Product Compliance Lead is the designated owner of this Policy and is
+Lead responsible for: (i) serving as the subject matter expert for content relevant to
+this Policy, (ii) developing the Policy to meet regulatory expectations, (iii)
+ensuring regulatory risks are identified in documentation, (iv) providing and
+communicating roles and responsibilities to relevant stakeholders including
+business partners, (v) liaising with relevant stakeholders to complete Policy
+updates, (vi) conducting periodic review(s) of the Policy, and (vii) delegating
+and overseeing business documentation requirements, as needed.
+Staff Members Cash App’s Staff Members are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii) completing
+any required compliance training in a timely manner, and (iii) promptly
+reporting actual or suspected violations of laws or other requirements.
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+5
+
+Confidential and Not for Distribution
+Lending Regulatory Legal counsel provides approval and interpretative advice and counsel
+Counsel regarding the applicability and application of requirements of this Policy.
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+6
+
+Confidential and Not for Distribution
+1. Introduction
+This Servicemembers Civil Relief Act Policy (“Policy”) outlines Cash App’s (“Cash App”) commitment to
+comply with the Servicemembers Civil Relief Act (“SCRA”). Cash App’s Head of Compliance and/or their
+designee is responsible for the management of this Policy.
+2. Purpose
+The purpose of this Policy is to establish and define guidelines for Cash App to comply with all applicable
+provisions of SCRA. SCRA governs how financial institutions treat loans when a borrower is called to Active
+Duty Military Service, and the benefits extended to the Dependents of the impacted Servicemember.
+The SCRA applies to any and all debts, or portions thereof, incurred prior to the Servicemember’s Active
+Duty Military Service. Certain provisions of the SCRA apply to debt products regardless of when they were
+opened.
+3. Scope
+This Policy governs Cash App’s Credit Products in the United States and sets out the approach to SCRA
+compliance, where applicable. This Policy has been created to ensure that Cash App and relevant Staff
+Members are aware of and comply with the expectations of SCRA.
+4. Policy Requirements
+4.1 SCRA Policy Requirements
+For most Servicemembers, the SCRA’s benefits and protections begin on the date that the Servicemember is
+called to Active Duty Military Service. However, reservists and members of the National Guard who are
+ordered to report to Active Duty Military Service are entitled to receive the benefits and protections under
+the SCRA beginning on the date of the Servicemember’s receipt of orders calling them to Active Duty
+Military Service.
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+7
+
+Confidential and Not for Distribution
+● Interest Rate Benefit. An Active Duty Servicemember is eligible for an interest rate cap at 6%,
+inclusive of fees (fees may include, but are not limited to, any applicable late fees or set up fees). To
+qualify for the interest rate cap, the Servicemember must request such relief. To be approved for
+such relief, the Servicemember must demonstrate that they are either: (i) on Active Duty; or (ii)
+submit their request within 180 days of termination of Active Duty for a retroactive reduction of
+interest at 6% in which Cash App will provide an interest and fee refund, as necessary. In order to
+receive the SCRA benefits, the Servicemember must provide one of the following:
+○ A copy of the Servicemember’s orders calling the Servicemember to Active Duty service;
+or
+○ A properly completed Department of Defense Short Form.
+Cash App will implement the 6% interest rate cap limitation as of the date the Servicemember enters
+active duty (or receipt of orders if reservist) and will maintain the benefit for 90 days after the date of
+discharge. Any interest in excess of 6% is forgiven and not deferred, and no fees of any kind will be
+assessed to the account. These requirements are only applicable to loans made prior to the borrower
+entering active duty.
+If Cash App receives notice that a Servicemember is on Active Duty and the Servicemember has not
+provided a copy of the requested documents to verify Active Duty status, Cash App will review the
+DMDC Website to determine whether the SCRA benefits will be applied to the account. If Cash App is
+able to confirm eligibility via the DMDC Website, Cash App will proactively apply the SCRA benefits
+to the Servicemember’s account, which includes any applicable refunds of interest or reimbursement
+of fees. If Cash App is not able to confirm eligibility via DMDC Website, Cash App will provide the
+results of the review to the Servicemember and allow the Servicemember to provide the requested
+documentation to obtain the benefit.
+Cash App will not sell the debt to any third party or initiate legal action against the Servicemember
+during such time that the Servicemember is on Active Duty or for 90 days thereafter. Proof of military
+enrollment and Active Duty will be required.
+It is important to note that a Servicemember’s exercise of their rights under the SCRA, does not
+affect their ability to enter into a future financial transaction with Cash App. Additionally, a power of
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+8
+
+Confidential and Not for Distribution
+attorney shall be automatically extended for the period a Servicemember is in a “missing” status, as
+defined by section 551(2) of title 37 of the SCRA.
+● Default Judgment Protection. The SCRA provides certain protections for individuals facing a Default
+Judgment. In every instance that Cash App seeks a Default Judgment against a defendant, Cash App
+(or its attorney or agent) must perform a search of the DMDC Website to determine whether that
+defendant is on Active Duty. Regardless of the outcome, as part of the motion for a Default
+Judgment, Cash App (or its attorney or agent) must file an affidavit stating whether the defendant is
+in Military Service and showing necessary facts to support the affidavit. If Cash App is unable to
+determine a defendant’s military status, Cash App (or its attorney or agent) must file an affidavit
+stating that it is unable to determine whether the defendant is in Military Service. After filing such an
+affidavit, Cash App will comply with any ruling that the court may make to protect the interests of the
+defendant. This Default Judgment protection under the SCRA applies to debts incurred before
+entering Active Duty and debts incurred while on Active Duty. If a court stays the applicability of a
+contract to a Servicemember as provided under the SCRA, Cash App will not assess penalties
+against the Servicemember for failure to comply with the requirements of the contract during the
+stay period under the SCRA.
+● Waiver of Benefits and Protections. A Servicemember may waive any of the rights and protections of
+the SCRA, provided that waiver is in the form of signed written instrument executed during or after a
+Servicemembers’ period of service. In certain instances, a Servicemember may find it advantageous
+to waive the SCRA protections, such as when the Servicemember does not object to Cash App taking
+collection actions against him or her. In all communications regarding the effect of a waiver, Cash
+App will not misrepresent any of the requirements or effects of signing such a waiver. Cash App will
+not request or require that Servicemembers waive their legal rights in order to receive SCRA’s
+benefits and protections, or as a condition of obtaining or maintaining credit.
+● Protections of Persons Secondarily Liable. Upon application to a court by someone who is
+secondarily liable on a Servicemember's obligation or liability, the SCRA allows a court to protect
+those who are secondarily liable on an obligation or liability involving a Servicemember to the same
+extent as the SCRA does to the Servicemember himself or herself.
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+9
+
+Confidential and Not for Distribution
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+5.2 Review and Approval
+Cash App’s Head of Compliance, or their designee will review and approve this Policy annually. In addition,
+any modifications to this policy made outside the annual schedule will be reviewed and approved in
+accordance with the Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval
+Matrix.
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all Staff
+Members commensurate with job levels and responsibilities. All Staff Members engaged in the activity or
+performing services subject to the requirements of this Policy will receive the appropriate training upon hire
+and periodically thereafter. All training activities are monitored by the Compliance Team and are outlined in
+Block, Inc.’s Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption does not
+violate applicable law. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Cash App will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to Block, Inc.’s
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+10
+
+Confidential and Not for Distribution
+Policy Governance Team at go/policyhelp. The document owner and/or designee will inform Block, Inc.’s
+Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+Cash App will maintain records of this Policy in accordance with Block, Inc.'s document retention guidelines.
+10. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Global Complaint Policy
+Related Program Block, Inc. Compliance Training Program Standard
+Related References:
+Regulation Name Servicemembers Civil Relief Act
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Maya Parekh Lending Regulatory Reviewed/Approv… Jan 6, 2025
+Counsel
+Approval History
+Approver Title Type Description Date
+Corey Chambe… Product Creation Initial creation of Jan 10, 2025
+Compliance Lead policy
+Jason Liberman Cash App Head of Initial Appro… Initial approval of Jan 13, 2025
+Compliance policy
+Compliance Policy Compliance Policy Initial Appro… Approval Jan 22, 2025
+Committee Committee
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+11
+
+Confidential and Not for Distribution
+Corey Chambe… Product Material Cha… Addition of new Mar 14, 2025
+Compliance Lead credit product
+within policy
+scope
+Jason Liberman Cash App Head of Material Cha… Addition of new Apr 1, 2025
+Compliance credit product
+within policy
+scope
+Compliance Policy Compliance Policy Material Cha… Addition of new Apr 1, 2025
+Committee Committee credit product
+within policy
+scope
+12. Document Details
+Business Cash App
+Scope Regional [United States]
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date Apr 1, 2025
+Effective Date Apr 1, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually [January 2026]
+Servicemembers Civil Relief Act | Cash App (U.S) | Lending Product | Block, Inc.
+12

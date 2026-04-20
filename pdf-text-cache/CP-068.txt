@@ -1,0 +1,365 @@
+Gramm-Leach-Bliley Act
+Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 5
+3. Purpose 5
+4. Scope 6
+5. Policy Requirements 6
+5.1 Policy Statement 6
+5.2 GLBA Policy Requirements 7
+6. Roles and Responsibilities 10
+7. Document Management 11
+7.1 Document Owner 11
+7.2 Review and Approval 11
+8. Training 11
+9. Monitoring and Reporting 11
+10. Exceptions 12
+11. Record Retention 12
+12. Related Documentation or References 12
+13. Revision and Approval History 12
+13.1 Stakeholder Review Tracking 12
+13.2 Approval History 13
+14. Document Details 13
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Consumer An individual who obtains from Afterpay a financial product or service
+that is to be used primarily for personal, family, or household purposes.
+For example, a Consumer is an individual who applies for credit
+(regardless of whether the credit is extended).
+Customer (“GLBA”) A Consumer who has a continuing relationship with Afterpay under
+which Afterpay provides one or more financial products or services.
+NOTE: A Consumer has a more temporary relationship with Afterpay
+than a Customer. All Customers are Consumers, but all Consumers are
+not Customers.
+Personally Any information – financial or otherwise – that Afterpay has about the
+Identifiable Customers, which can be tied to a specific Customer.
+Financial
+Information
+Nonpublic Personal The nonpublic portion of Personally Identifiable Financial Information,
+Information including any Customer lists. Nonpublic personal information consists of
+nonpublic information that is collected in connection with providing a
+financial product or service. Specifically, it means:
+● Personally identifiable financial information, which includes:
+○ Information a Customer provides on an application;
+○ Account balance information, payment history, overdraft
+history, and credit or debit card purchase information;
+○ Any information collected through an Internet “cookie”;
+○ Information from a Consumer report;
+○ The fact that an individual is or has been one of Afterpay’s
+Customers or has obtained a financial product or service
+from us; and
+○ Any information about Afterpay’s Customer if it is
+disclosed in a manner that indicates that the individual is
+or has been Afterpay’s Customer.
+● Any list, description, or other grouping of Consumers that is
+derived using any Personally Identifiable Financial Information
+that is not publicly available. Lists include, but are not limited to,
+any list of individuals’ names and addresses that is derived in
+whole or in part using personally identifiable information that is
+not publicly available, such as account numbers.
+NOTE: Nonpublic personal information does not include information that
+is available from public sources, such as telephone directories or
+government records. It also does not include aggregate information or
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+blind data that does not contain personal identifiers.
+Affiliate Any company that controls, is controlled by, or is under common control
+with another company.
+Nonaffiliated Third Persons or entities except Affiliates and persons jointly employed by a
+Party financial institution and a Nonaffiliated Third Party. GLBA Privacy Rules
+restrict information sharing with Nonaffiliated Third Parties.
+2. Introduction
+This Gramm-Leach-Bliley Act Policy (“Policy”) outlines Afterpay US, Inc. (“Afterpay”)y’s commitment
+to comply with the Gramm-Leach-Bliley Act (“GLBA”). Cash App’s Head of Compliance and/or their
+designee is responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate Afterpay’s commitment to comply with the GLBA. To
+ensure that Customers are protected against unwanted sharing of their financial information, GLBA
+includes a series of regulations known as the Privacy Rules. The Privacy Rules are intended to ensure
+the confidentiality and security of Consumer and Customer information.
+When an institution chooses to share Customer information, a Customer can opt out, or forbid the
+sharing of their information in certain instances.
+The GLBA Privacy Rules address the following four concepts:
+● Afterpay’s obligation to inform Consumers and Customers of its policies and procedures
+regarding the sharing of their personal information;
+● The concept of personal Customer information, and the limited exceptions under which
+Afterpay may share this information with outside parties;
+● Afterpay’s responsibilities to protect personal Customer information; and
+● Afterpay’s responsibility to establish appropriate standards relating to safeguarding
+Customer information.
+The three principal requirements of the GLBA Privacy Rules are as follows:
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+● Afterpay must provide Customers with notices describing its privacy policies and
+practices, including policies with respect to the disclosure of Nonpublic Personal
+Information to Affiliates and to Nonaffiliated Third Party;
+● Subject to specific exceptions, Afterpay may not disclose Nonpublic Personal Information
+about Consumers to any Nonaffiliated Third Party unless Consumers are given a
+reasonable opportunity to direct that such information not be shared (i.e., opt-out); and
+● Afterpay generally may not disclose account numbers to any Nonaffiliated Third Party for
+marketing purposes.
+4. Scope
+This Policy is established by Afterpay . This Policy is applicable to Afterpay’s Employees and sets out
+the approach to GLBA compliance. This Policy has been created to ensure that Afterpay and relevant
+personnel are aware of and comply with expectations regarding GLBA.
+5. Policy Requirements
+5.1 Policy Statement
+Afterpay seeks to proactively comply with all requirements that stem from regulations that govern
+its activities. The Privacy Rules within the GLBA apply to all activities that involve nonaffiliated third
+parties and the disclosure of Nonpublic Personal Information for Consumers, as well as providing
+privacy disclosures where applicable.
+Afterpay respects the privacy of its Customers and is committed to treating Customer information
+responsibly. Afterpay is dedicated to protecting confidential information and has established
+standards and procedures to safeguard that personal information.
+It is the policy of Afterpay not to disclose Nonpublic Personal Information about its Customers to
+nonaffiliated third parties except as authorized by law. If Afterpay chooses to share Nonpublic
+Personal Information to nonaffiliated third parties, subject to legal exceptions, Afterpay will ensure
+that the Customer is provided with the right to opt out or limit the sharing where required by
+notifying Afterpay of such intent through the use of a mail-in form or other permissible means.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+5.2 GLBA Policy Requirements
+Information about Customers is accumulated in various ways including: at the point of purchase or
+service, when Customer service inquiries are made, information from a consumer report, or when
+Afterpay responds to Customer requests for information.
+● Information Afterpay is Allowed to Share. The law allows Afterpay to share
+information with its Affiliates, to the extent that there is a need for its Affiliate to have
+that information, and subject to the opt-out provisions for Affiliate marketing and
+Consumer credit report information established by the Fair Credit Reporting Act.
+Afterpay may share information with Nonaffiliated Third Parties without meeting the
+“opt-out” condition (defined below), under any of the following conditions:
+○ To market Afterpay’s own financial products or services;
+○ Where third parties are performing services or functions on behalf of Afterpay,
+including marketing Afterpay’s own products or services or products and
+services offered pursuant to a joint agreement between Afterpay and another
+financial institution, provided that Afterpay:
+■ Discloses that arrangement; and
+■ Enters into an agreement with the third party to maintain the
+confidentiality of the information.
+○ The Customer consents;
+○ It is necessary to effect, administer, or enforce a transaction requested or
+authorized by the Customer;
+○ To process and service transactions the Customer requests or authorizes;
+○ To protect against potential fraud or unauthorized transactions;
+○ To protect the confidentiality or security of Afterpay’s records;
+○ For risk control purposes or for resolving Customer disputes;
+○ To persons holding a legal or beneficial interest relating to the Customer;
+○ To persons acting in a fiduciary capacity on behalf of the Customer;
+○ To law enforcement agencies if permitted or required under other provisions of
+law;
+○ To respond to judicial process, attorneys, accountants, and auditors;
+○ To respond to governmental authorities for examination, compliance, or other
+lawful purposes;
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+○ To a Consumer reporting agency in accordance with the Fair Credit Reporting
+Act; or
+○ To comply with federal state or local laws.
+● Opt-Out Provision. If Afterpay plans to share Nonpublic Personal Information with
+nonaffiliated third parties in any other capacity than as defined above, Afterpay will
+offer Customers the opportunity to opt out of the information sharing process. Prior to
+any such sharing, Afterpay will ensure that the Customer is provided with the right to
+opt out or limit the sharing by notifying Afterpay of the intent to opt out through the
+use of a mail-in form or other permissible means. If Afterpay will share information
+with its Affiliates, Afterpay will provide opt-outs as required by FCRA when necessary.
+● GLBA Notice to New Customers. Afterpay is required to provide a copy of the GLBA
+Notice when it enters into a Customer relationship with a Consumer. A Customer
+relationship means a continuing relationship between a Consumer and Afterpay, and
+is established when Afterpay provides one or more financial products or services to
+the Consumer that are to be used primarily for personal, family, or household
+purposes. Afterpay will make the GLBA Notice available on the website and require
+the Consumer/Customer to acknowledge receipt of the notice as a necessary step in
+applying for a loan from Afterpay.
+The GLBA Notice will accurately reflect the privacy policies and practices as they relate
+to: a) Afterpay’s Customers; and b) Consumers who may inquire or apply for its
+services, but do not become Customers. If Afterpay’s sharing of information changes, a
+new GLBA Notice will be delivered to covered Customers. Afterpay does not disclose
+Nonpublic Personal Information about Customers to anyone, except as permitted by
+law. When Customers close accounts or become inactive Customers, Afterpay adheres
+to the privacy policies and practices as described in its privacy disclosures. It is
+Afterpay’s policy not to reveal specific information about Customer accounts or other
+personally identifiable data to Nonaffiliated Third Parties for their independent use,
+except as permitted by law.
+● Annual GLBA Notice. Not less than annually thereafter, as applicable, Afterpay may
+provide a GLBA Notice, subject to statutory exemptions, to applicable Customers as
+long as there is a continuation of the Customer relationship. Annually means at least
+once in any period of 12 consecutive months during which that relationship exists.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+● Changes to the GLBA Notice. Afterpay will not disclose any Nonpublic Personal
+Information about a Customer other than as described in the GLBA Notice, unless
+Afterpay provides a clear and conspicuous revised notice that accurately describes the
+new policies and practices – along with any appropriate opt-out. In such
+circumstances, Afterpay will post the GLBA Notice on the website and send an email
+to all applicable Customers notifying them of the location of the Notice.
+Afterpay will not engage in such sharing until after it provides at least 30 days for the
+Customer to opt out.
+● Other Information Use and Sharing Restrictions. Account numbers or similar forms
+of access numbers or access codes for a Customer's account cannot be disclosed to
+any Nonaffiliated Third Party for the purpose of marketing non‑bank products.
+Customer information or other types of information obtained from companies for
+which Afterpay is a service provider may not be used beyond the purpose of the
+contract.
+Business lines are responsible for ensuring that information passed to non‑affiliated
+third parties (e.g., service providers, marketing companies, etc.) is limited to
+information needed to fulfill the service provided by the third party.
+Nonpublic personal information obtained concerning non-Customers, Consumers,
+and Customers may not be disclosed to third parties to make their own product.
+● Confidentiality and Security. Afterpay is committed to the security of Customer
+financial and personal information. All of Afterpay’s operational and data processing
+systems are in a secure environment that protects account information from being
+accessed by third parties. Afterpay maintains and grants access to Customer
+information only in accordance with its internal security standards.
+Afterpay’s Employee access to personally identifiable Customer information is limited
+to those with a business reason to know such information. Employees are educated
+on the importance of maintaining the confidentiality of Customer information and on
+these privacy principles. Because of the importance of these issues, Afterpay's
+Employees are responsible for maintaining the confidentiality of Customer
+information, and Employees who violate these privacy policies will be subject to
+disciplinary measures, including, but not limited to termination.
+● Maintenance of Accurate Information. Afterpay continually strives to maintain
+complete and accurate information about Customer accounts.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+● Maintaining Customer Privacy in Third Party Relationships. When Afterpay
+conducts business with third parties, Afterpay requires vendors and suppliers to
+maintain similar standards of conduct regarding the privacy of personally identifiable
+Customer information provided to them.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all employees are aware of that commitment and their
+individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+Employees commensurate with job levels and responsibilities. All Employees engaged in the activity
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block, Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will retain all records in accordance with applicable GLBA requirements and Block, Inc.’s
+document retention guidelines.
+12. Related Documentation or References
+Related Documents:
+Related Policy Block Inc. Compliance Policy on Policies
+Related References:
+Regulation Name Gramm-Leach-Bliley Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Sojeong Hong Privacy Counsel Reviewed/Appro… May 31, 2024
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Gramm-Leach-Bliley Act Policy | Afterpay US, Inc.
+13

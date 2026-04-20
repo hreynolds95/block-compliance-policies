@@ -1,0 +1,259 @@
+○
+E-Sign Policy
+Cash App (U.S) | Block, Inc.
+January 2025
+Last Approval Date
+
+Confidential
+Table of Contents
+Table of Contents 2
+Definitions 3
+1. Introduction 5
+2. Purpose 5
+3. Scope 5
+4. Policy Requirements 5
+4.1 Policy Statement 5
+4.2 Consumer Notification 6
+4.3 Hardware and Software Requirements 6
+4.4 Changes to Hardware or Software Requirements 7
+4.5 Consumer Consent at Onboarding 7
+4.6 Withdrawal of Consent to Electronic Records and Communications 8
+4.7 Changes to Hardware or Software Requirements 8
+5. Document Management 9
+5.1 Document Owner 9
+5.2 Review and Approval 9
+6. Training 9
+7. Monitoring and Reporting 9
+8. Exceptions 9
+9. Record Retention 10
+10. Revision and Approval History 10
+11. Document Details 10
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+2
+
+Confidential
+Definitions
+Definitions
+Terminology Definition
+Consumer An individual who is a natural person who obtains or has obtained a financial
+product or service from Cash App that is to be used primarily for personal use..
+Electronic The action of providing relevant information about a product or service to a
+Disclosure Consumer through electronic means.
+Electronic Record A contract or other record created, generated, sent, communicated, received
+or stored by electronic means.
+Electronic Signature An electronic sound, symbol, or process attached to or logically associated
+with a contract or other record and executed or adopted by a person with the
+intent to sign the record.
+Roles and Responsibilities
+Role Responsibility
+Business Lines Implement requirements of this Policy and escalate any exceptions, violations,
+or other identified risks to Compliance and/or Legal.
+Cash App Consumer The owner of this Policy and responsible for:
+Protection ● Developing the Policy to meet regulatory expectations,
+Compliance Lead ● Ensuring regulatory requirements are included in documentation,
+● Providing and communicating roles and responsibilities to relevant
+stakeholders including business partners,
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy, and
+● Delegating and overseeing documentation requirements, as needed.
+Cash App Head of Responsible for:
+Compliance ● Reviewing and approving this Policy,
+● Ensuring this Policy reflects industry best practices and applicable
+regulatory guidance, and
+● Ensuring that appropriate Staff Members are trained on the
+requirements of this Policy at least annually commensurate with their
+roles and responsibilities.
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+3
+
+Confidential
+As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App Consumer
+Protection Compliance Lead or Compliance Staff who inform and escalate key
+risks and Issues to the Head of Compliance.
+Compliance Staff Provide oversight and guidance to Business Lines in implementing the
+requirements of this Policy.
+Legal Counsel Provides interpretative advice and counsel regarding the applicability and
+application of the requirements of this Policy to Cash App’s business and
+operational activities.
+Staff Members Responsible for:
+● Understanding and complying with applicable laws and regulations for
+this Policy;
+● Completing any required compliance training in a timely manner; and
+● Promptly reporting actual or suspected violations of this Policy.
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+4
+
+Confidential
+1. Introduction
+This E-Sign Policy (“Policy”) outlines Cash App’s approach to complying with the Electronic Signatures in
+Global and National Commerce Act (“E-Sign”). The Cash App Consumer Protection Compliance Lead is
+responsible for management of this Policy.
+E-Sign was enacted in 2000 to facilitate the use of Electronic Records and Electronic Signatures by
+ensuring the validity and legal effect of contracts entered, disclosures provided, and agreements
+otherwise executed electronically. E-Sign is an "overlay" law in that it does not amend any laws
+specifically, but provides that a signature, contract, or other record relating to a transaction may not be
+denied validity solely because it is in electronic form.
+2. Purpose
+Cash App conducts business in compliance with all applicable laws and regulations. The purpose of this
+Policy is to establish the minimum standards and obligations for which Cash App must adhere to comply with
+the requirements of E-Sign for its product offerings.
+3. Scope
+This Policy is established by Cash App and is applicable to all Cash App products in the United States. This
+Policy ensures that Cash App Staff Members are aware of and comply with E-Sign and its requirements.
+4. Policy Requirements
+4.1 Policy Statement
+E-Sign has four key requirements for an Electronic Signature to be recognized as valid under U.S. law. Those
+requirements are: (1) the Consumer’s intent to sign and be bound to the transaction electronically, (2) the
+Consumer’s receipt of required disclosures and affirmative and ongoing consent to conduct business
+electronically in a manner that reasonably demonstrates the Consumer can access information in the
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+5
+
+Confidential
+electronic form used by the parties, (3) association of the signature with the signer’s identity, and (4) record
+retention. By conforming with these requirements Cash App is permitted to provide Consumers with
+information and certain notices electronically.
+4.2 Consumer Notification
+Prior to obtaining the Consumer’s consent to Electronic Records and Disclosures, the Company will clearly
+and conspicuously inform the Consumer of the following:
+● An explanation of whether the consent applies only to a particular transaction that triggered the
+disclosure or to specific categories of records that may be provided electronically or made
+available as part of the Consumer relationship (such as disclosures, consents, policies,
+change-in-terms, adverse action notices, etc.).
+● Any right or option to receive disclosures in paper form, the process for requesting a paper copy,
+and whether any fee will be charged to obtain a paper copy.
+● A statement of the right to withdraw consent, the process to withdraw such consent, and the
+consequences of doing so. A Consumer may revoke authorization to receive records
+electronically after giving initial consent.
+● The process that the Consumer must follow to inform Cash App of their updated electronic
+contact information.
+● The minimum hardware/software requirements needed to access and retain1 electronic records.
+4.3 Hardware and Software Requirements
+Prior to transmitting records electronically, Cash App provides Consumers with a disclosure statement of the
+hardware and software requirements needed for access to and retention of Electronic Records. The
+disclosure ensures that Consumers have the technical means to receive Cash App records and disclosures
+electronically.
+1 An example of a retainable record is using a standard electronic format that a Consumer can download and
+save or print from a personal mobile phone or computer.
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+6
+
+Confidential
+4.4 Changes to Hardware or Software Requirements
+Cash App must notify Consumers of changes to hardware or software requirements needed to access or
+retain their Electronic Records where the change in requirements creates a material risk that the Consumer
+may not be able to access or retain subsequent Electronic Records that were subject of the initial consent.
+Additionally, consent must be reaffirmed when there is a change to the hardware and/or software
+requirements.
+The notice must include:
+● The revised hardware and/or software requirements for access to and retention of Electronic
+Records; and
+● A statement that the Consumer may withdraw consent without the imposition of any fees or the
+imposition of any new condition or consequence resulting from the withdrawal.
+4.5 Consumer Consent at Onboarding
+In all of Cash App’s Consumer onboarding flows, Cash App requires Consumers to give consent to various
+disclosures electronically, including the Cash App E-Sign Consent, except for circumstances that allow
+disclosures to be provided without compliance with E-Sign.
+The Consumer’s electronic consent at onboarding demonstrates that the Consumer can access information
+provided by Cash App electronically.
+● The Consumer must affirmatively consent to receive Electronic Disclosures.
+● The Consumer must consent in a manner that reasonably demonstrates the ability of the
+Consumer to access information in the form that will be used to provide the Electronic
+Disclosures.
+● The Consumer cannot proceed in the application process without consenting to receive
+information and documents electronically. Reading the electronic consent form on the Cash App
+website or application and acknowledging the ability to receive and download documents
+electronically is deemed by Cash App as sufficient confirmation of consent.
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+7
+
+Confidential
+4.6 Withdrawal of Consent to Electronic Records and Communications
+A Consumer may withdraw their consent to receive Electronic Records and communications at any time.
+Withdrawal can be made using any method established in the disclosures provided to the Consumer
+pursuant to E-Sign, or such other methods the Company may support.
+● Withdrawl of the consent to receive Electronic Records and communications may result in
+termination of the Consumer’s access to Cash App’s services. Any withdrawal of consent will be
+effective after a reasonable period of time for processing the request, and Cash App will confirm
+the withdrawal of consent and its effective date in writing (either electronically or in paper form).
+● The Company will not impose a fee to process the withdrawal of a Consumer’s consent to receive
+Electronic Records and communications.
+● The Consumer’s withdrawal of their consent to receive Electronic Records and communications
+does not prohibit a Consumer from providing their consent to Electronic Records and
+communications again in the future.
+At Cash App’s option, it may treat a Consumer’s provision of an invalid e-mail address or phone number, or
+the subsequent malfunction of a previously valid e-mail address or phone number, as a withdrawal of a
+Consumer’s consent to receive Electronic Records and communications at the inoperative e-mail address or
+phone number.
+4.7 Changes to Hardware or Software Requirements
+Cash App must notify Consumers of changes to hardware or software requirements needed to access or
+retain their Electronic Records where the change in requirements creates a material risk that the Consumer
+may not be able to access or retain subsequent Electronic Records that were subject of the initial consent.
+Additionally, consent must be reaffirmed when there is a change to the hardware and/or software
+requirements.
+The notice that Cash App provides to Consumers must include:
+● The revised hardware and/or software requirements for access to and retention of Electronic
+Records; and
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+8
+
+Confidential
+● A statement that the Consumer may withdraw consent without the imposition of any fees or the
+imposition of any new condition or consequence resulting from the withdrawal.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Cash App Consumer Protection Compliance Lead or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with
+the Compliance Document Approval Matrix.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance
+to implement this Policy effectively. All training activities are monitored by the Compliance Team and are
+outlined in the Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the Policy Owner and/or their designee will monitor Policy related activities to evaluate
+adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a description
+of the controls that the Company will implement to mitigate risks associated with the exception. Any
+approved exceptions must be documented in writing and retained with recordkeeping requirements. Any
+approved exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp.
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+9
+
+Confidential
+The Document Owner and/or designee will inform Compliance Leadership and applicable committees, as
+needed, of exceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Revision and Approval History
+Approval History
+Approver Title Type Description Date
+Brian Kollmeyer Cash App Creation Policy creation. Jan 10, 2025
+Consumer
+Protection
+Compliance
+Jason Liberman Interim Cash App Initial Appro… Initial policy Jan 16, 2025
+Head of approval.
+Compliance
+Compliance Policy Compliance Policy Initial Appro… Approval Jan 22, 2025
+Committee Committee
+11. Document Details
+Business Cash App
+Scope Regional (United States)
+Compliance Domain Consumer Protection
+Document Owner Cash App Consumer Protection Compliance Lead
+Last Approval Date Jan 22, 2025
+Effective Date Jan 22, 2025
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+10
+
+Confidential
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+E-Sign Policy | Cash App (U.S.) | Block, Inc.
+11

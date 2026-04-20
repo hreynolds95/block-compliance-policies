@@ -1,0 +1,404 @@
+Fair Debt Collection
+Practices Act Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+U.S., Inc. and on a need-to-know basis.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 5
+3. Purpose 5
+4. Scope 5
+5. Policy Requirements 6
+5.1 Policy Statement 6
+5.2 FDCPA Policy Requirements 6
+6. Roles and Responsibilities 11
+7. Document Management 12
+7.1 Document Owner 12
+7.2 Review and Approval 13
+8. Training 13
+9. Monitoring and Reporting 13
+10. Exceptions 13
+11. Record Retention 14
+12. Related Documentation or References 14
+13. Revision and Approval History 14
+13.1 Stakeholder Review Tracking 14
+13.2 Approval History 14
+14. Document Details 15
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Attempt to Any act to initiate a communication or other contact about a Debt with
+Communicate any person through any medium, including by soliciting a response from
+such person. An attempt to communicate includes leaving a
+limited-content message.
+Consumer Any natural person, whether living or deceased, obligated or allegedly
+obligated to pay any Debt.
+Creditor Any person who offers or extends credit creating a Debt or to whom a
+Debt is owed. The term Creditor does not, however, include any person
+to the extent that such person receives an assignment or transfer of a
+Debt in default solely to facilitate collection of the Debt for another.
+Credit Products Credit encompasses Afterpay’s three lending products (Buy Now Pay
+Later, Monthly, and Afterpay Plus) unless otherwise noted.
+Debt Any obligation or alleged obligation of a Consumer to pay money arising
+out of a transaction in which the money, property, insurance, or services
+that are the subject of the transaction are primarily for personal, family,
+or household purposes, whether or not the obligation has been reduced
+to judgment.
+Debt Collector Any person who regularly collects, or attempts to collect, directly or
+indirectly, Consumer Debts for another person or institution or uses a
+name other than its own when collecting its own Consumer Debts. The
+term would include, for example, an institution that regularly collects
+Debts for an unrelated institution. It includes reciprocal service
+arrangements under which one institution solicits the help of another in
+collecting a defaulted Debt from a customer who has moved. An
+institution is not a Debt Collector under the FDCPA when it collects:
+● Another’s Debt in isolated instances;
+● Its own Debts under its own name;
+● Debts it originated and then sold but continues to service;
+● Debts that were not in default when the Debts were obtained;
+● Debts that were obtained as security for a commercial credit
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+transaction;
+● Debts incidental to a bona fide fiduciary relationship or escrow
+arrangement; or
+● Debts regularly for other institutions, to which it is related by
+common ownership or corporate control, provided the institution
+acts as a Debt Collector only for persons with whom it is related
+and its principal business is not the collection of Debts.
+2. Introduction
+This Fair Debt Collection Practices Act Policy (“Policy”) outlines Afterpay US, Inc.’s
+(“Afterpay”)commitment to comply with the Fair Debt Collection Practices Act (“FDCPA”). Cash
+App’s Head of Compliance and/or their designee is responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate Afterpay’s commitment to comply with the FDCPA and
+govern its compliance with applicable collections-related requirements. Afterpay recognizes that
+FDCPA violations can present significant legal, reputational, and compliance risk for Afterpay. While
+Afterpay may not meet the definition of a Debt Collector, it has elected to: (i) comply with FDCPA
+best practices when collecting Debts; and (ii) monitor and oversee any third-party Debt collection
+agency that may be engaged to collect Debt from Afterpay’s’s borrowers.
+4. Scope
+This Policy is established by Afterpay.This Policy is applicable to Afterpay’s’s Employees and sets out
+the approach to FDCPA compliance. This Policy has been created to ensure that Afterpay and
+relevant personnel are aware of and comply with expectations regarding FDCPA.
+5. Policy Requirements
+5.1 Policy Statement
+Afterpay is committed to ensuring that collection activity across all Credit Products is conducted in a
+manner consistent with the spirit of the law.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+Wherever state or local regulations overlap and are stricter than the requirements set out in this
+policy, the more conservative approach will be applied. If any applicable in conflict with this policy,
+Afterpay will consult with the appropriate legal counsel to resolve the conflict and adjust Afterpay’s
+policies and procedures to ensure compliance.
+5.2 FDCPA Policy Requirements
+The primary purposes of this Policy are:
+● To eliminate abusive, deceptive, and unfair Debt collection practices by Debt Collectors in
+Attempts to Communicate the collection of Consumer Debts;
+● To promote fair Debt collection so that those Debt Collectors who refrain from using abusive
+Debt collection practices are not competitively disadvantaged;
+● To provide Consumers with an avenue for disputing and obtaining validation of Debt
+information to ensure the information’s accuracy; and
+● To promote consistent state action to protect Consumers against Debt collection abuses.
+○ Contact Times. A Debt Collector may not communicate with a Consumer in
+connection with the collection of a Debt at any unusual time (before 8:00 a.m. or after
+9:00 p.m. in the Consumer’s time zone, absent knowledge of circumstances to the
+contrary) or place known or which should be known to be inconvenient to the
+Consumer.
+○ Call Frequency. A Debt Collector is presumed to violate the law if the Debt Collector
+places a telephone call to you about a particular Debt:
+■ More than seven times within a seven-day period; or
+■ Within seven days after engaging in a phone conversation with you
+about a particular Debt.
+○ Mini-Miranda Disclosures. A Debt Collector must disclose in the initial written
+communication with the Consumer and, in addition, if the initial communication with
+the Consumer is oral, in that oral communication, that the Debt Collector is
+attempting to collect a Debt and that any information obtained will be used for that
+purpose. The Debt Collector must also disclose in subsequent communications that
+the communication is from a Debt Collector.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+○ Limited-content Messages. A “limited-content message” is a type of voicemail that a
+Debt Collector may leave that must include specific information. Limited-content
+messages must include:
+■ A business name that does not indicate the caller is a Debt Collector;
+■ Telephone number(s) the customer can use to return the call; and
+■ A request that the customer replies and the name(s) of who the
+customer can contact to reply.
+Voicemails that don’t follow these rules are not considered limited-content messages.
+○ Cease and Desist. If a Consumer notifies a Debt Collector in writing that the Consumer
+refuses to pay a Debt or requests that the Debt Collector cease further communication,
+the Debt Collector must cease further communication with respect to such Debt except:
+■ To advise the Consumer that further collection efforts are being
+terminated;
+■ To notify the Consumer that specified remedies may be invoked; and
+■ To notify the Consumer that the Debt Collector or Creditor intends to
+invoke a specified remedy.
+○ Attorney Representation. If the Debt Collector knows the Consumer is represented
+by an attorney with respect to such Debt, and has knowledge or can easily ascertain
+the attorney’s name and address, all contacts must be with that attorney, unless the
+attorney fails to respond within a reasonable period of time to a communication from
+the Debt Collector or agrees to allow direct communication with the Consumer.
+○ Workplace Contact. A Debt Collector may not contact the Consumer at his or her
+place of employment if the Debt Collector knows or has reason to know that the
+Consumer’s employer prohibits the Consumer from receiving such communication.
+○ Communicating with Third Parties. Without the prior consent of the Consumer
+given directly to the Debt Collector, a Debt Collector may not communicate, in
+connection with the collection of any Debt, with any person other than the Consumer,
+their attorney, or a Consumer reporting agency if otherwise permitted by law, the
+Creditor, the attorney of the Creditor, or the attorney of the Debt Collector.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+○ Harassing and Abusive Practices. A Debt Collector may not engage in any conduct,
+the natural consequence of which is to harass, oppress, or abuse any person in
+connection with the collection of a Debt. Examples of harassing and abusive practices
+include, among others:
+■ Use or threat of use of violence or other criminal means to harm the
+physical person, reputation, or property of any person;
+■ Use of obscene, profane, or other abusive language;
+■ Publication of a list of Consumers allegedly refusing to pay Debts,
+except to a Consumer reporting agency;
+■ Advertisement for sale of any Debt to coerce payment;
+■ Repeatedly calling or allowing a phone to ring continuously;
+■ Failing to properly identify oneself on telephone calls; and,
+■ The placement of telephone calls without meaningful disclosure of the
+caller’s identity.
+○ False or Misleading Representations. A Debt Collector may not use any false,
+deceptive, or misleading representation in connection with the collection of any Debt.
+Examples of false and misleading representations include, among others:
+■ False representation or implication that the Debt Collector is vouched
+for or bonded by the United States or any state;
+■ False representation of the character, amount, or legal status of the
+Debt;
+■ False representation or implication that the Debt Collector is an
+attorney or that communications are from an attorney;
+■ The representation or implication that the Consumer has committed a
+crime or that nonpayment will result in the arrest or imprisonment;
+■ Threatening to take any action, including seizure, garnishment,
+attachment, or sale of personal property or wages, unless such action is
+lawful and intended;
+■ Communicating or threatening to communicate credit information
+which is known or should be known to be false, including the failure to
+communicate that a Debt is disputed;
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+■ The use or distribution of any written communication which simulates
+or is falsely represented to be a document authorized, issued, or
+approved by any court, official, or agency of the United States or any
+state, or which creates a false impression as to its source, authorization,
+or approval;
+■ Using any false representation or deceptive means to collect or attempt
+to collect any Debt or to obtain information concerning a Consumer;
+■ False representation or implication that documents are legal process, or
+conversely, that documents are not legal process or do not require
+action by the Consumer;
+■ The use of any business, company, or organization name other than the
+true name of the Debt Collector’s business, company, or organization;
+and
+■ False representation or implication that a Debt Collector operates or is
+employed by a Consumer reporting agency.
+○ Unfair Practices. A Debt Collector may not use unfair or unconscionable means to
+collect or attempt to collect any Debt. Examples of unfair or unconscionable means
+include, among others:
+■ Collecting any amount (including interest, fee, charge, or expense
+incidental to the principal obligation) unless such amount is expressly
+authorized by the agreement creating the Debt or otherwise permitted
+by law;
+■ Taking or threatening to take any action to effect dispossession or
+disablement of property when the Debt Collector or Creditor has no
+enforceable right or intent to take such action;
+■ Communicating with a Consumer regarding a Debt by post card;
+■ Miss-application of post-dated checks for payment in connection with
+the collection of a Debt; and,Using any language or symbol, other than
+the Debt Collector’s address, on any envelope when communicating
+with a Consumer.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+○ Purchaser of Value. A Debt Collector may not falsely represent or imply that an
+account has been turned over to innocent purchasers for value in connection with
+collecting or attempting to collect, directly or indirectly, Debts owed or due.
+○ Communicating for Locating a Customer. A Debt Collector must use discretion
+when attempting to locate a Consumer for the purposes of collecting a Debt.
+○ Disputed Debts. A Debt Collector may not declare admission of liability if the Debtor
+fails to dispute the validity of the Debt.
+○ Initial Pleadings not an Individual Communication. A Debt Collector may not
+consider a formal pleading in a civil action as an initial communication for purposes of
+the Debt validation notice requirement when collecting a Debt that is owed or due, or
+asserted to be owed or due.
+○ Notice Provisions. A Debt Collector must adhere to the express requirements of Title
+26, title V of Gramm-Leach-Bliley Act, or any provision of Federal or State law when
+sending notices to a Debtor for the purpose of collecting a Debt that is owed or due,
+or asserted to be owed or due.
+○ Multiple Debts. When dealing with multiple Debts, a Debt Collector must adequately
+disburse funds based on the Consumer's directions.
+○ Legal Actions. A Debt Collector must use proper venue and avoid collecting
+time-barred Debt when collecting a Debt that is owed or due, or asserted to be owed
+or due.
+○ Medium to Communicate. A Debt Collector may not use the medium of
+communication in which a Debtor has opted out of for the purpose of collecting a
+Debt that is owed or due, or asserted to be owed or due.
+○ Consumer Reporting Agencies. A Debt Collector may not furnish information to the
+Consumer reporting agencies prior to speaking with Debtor when collecting a Debt
+that is owed or due, or asserted to be owed or due.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+○ Bankruptcy. A Debt Collector may not sell, transfer for consideration, or place for
+collection a Debt if the Debt Collector knows or should know that the Debt has been
+paid or settled or discharged in bankruptcy.
+○ Rights to DIspute. A Debt Collector may not engaging in collection activity during
+validation period when collecting a Debt that is owed or due, or asserted to be owed
+or due.
+○ Sending Disclosures. A Debt Collector must send disclosures in a reasonable manner
+when collecting a Debt that is owed or due, or asserted to be owed or due.
+○ Email Addresses & Text Messages. A Debt Collector must use reasonable measures
+and take certain precautions when using email and text to collect a Debt that is owed
+or due, or asserted to be owed or due. However, Afterpay may reveal its name or other
+information indicating that the communication relates to the collection of a Debt.
+○ Opt Out Notice. A Debt Collector must offer the ability to opt out of electronic notices
+when collecting a Debt that is owed or due, or asserted to be owed or due.
+○ Employee Assumed Name. A Debt Collector, who is attempting to collect a Debt of
+an employee, may use assumed names when attempting to collect a Debt.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all employees are aware of that commitment and their
+individual responsibility.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+employees commensurate with job levels and responsibilities. All employees engaged in the activity
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+12
+
+Confidential and Not for Distribution
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block, Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+10. Exceptions
+The document owner or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.’s’s document retention
+guidelines. In addition, Afterpaywill retain all records documenting compliance with applicable
+FDCPA requirements starting on the date that the debt collector begins collection activity on a debt
+for a period of three years after the debt collector’s last collection activity on the debt, including
+telephone recordings of each debt collection call for a period of three years after the date of the call.
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+13
+
+Confidential and Not for Distribution
+12. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Compliance Policy on Policies
+Related Program Block, Inc. Compliance Training Program
+Related References:
+Regulation Name Fair Debt Collection Practices Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+14
+
+Confidential and Not for Distribution
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Fair Debt Collection Practices Act Policy | Afterpay US, Inc.
+15

@@ -1,0 +1,397 @@
+○
+Fair Debt Collection
+Practices Act Policy
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App’s U.S.
+business operations and on a need-to-know basis.
+Fair Debt Collection Practices Act Policy | Cash App US
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 6
+2. Purpose 6
+3. Scope 6
+4. Policy Requirements 6
+4.1 Policy Statement 6
+4.2 FDCPA Policy Requirements 7
+5. Document Management 12
+5.1 Document Owner 12
+5.2 Review and Approval 12
+6. Training 12
+7. Monitoring and Reporting 12
+8. Exceptions 13
+9. Record Retention 13
+10. Related Documentation or References 13
+11. Revision and Approval History 14
+12. Document Details 14
+Fair Debt Collection Practices Act Policy | Cash App US
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Attempt to Any act to initiate a communication or other contact about a Debt with any
+Communicate person through any medium, including by soliciting a response from such
+person. An attempt to communicate includes leaving a limited-content
+message.
+Consumer Any natural person, whether living or deceased, obligated or allegedly
+obligated to pay any Debt.
+Creditor Any person who offers or extends credit creating a Debt or to whom a Debt is
+owed. The term Creditor does not, however, include any person to the extent
+that such person receives an assignment or transfer of a Debt in default solely
+to facilitate collection of the Debt for another.
+Credit Products Any of Cash App US’s lending products including (1) Borrow (2) Pre-Purchase
+Financing (3) Retroactive Financing or (4) Cash App Afterpay Online Checkout,
+unless otherwise noted.
+Debt Any obligation or alleged obligation of a Consumer to pay money arising out of
+a transaction in which the money, property, insurance, or services that are the
+subject of the transaction are primarily for personal, family, or household
+purposes, whether or not the obligation has been reduced to judgment.
+Debt Collector Any person who regularly collects, or attempts to collect, directly or indirectly,
+consumer debts for another person or institution or uses a name other than its
+own when collecting its own consumer debts. The term would include, for
+example, an institution that regularly collects Debts for an unrelated
+institution. It includes reciprocal service arrangements under which one
+institution solicits the help of another in collecting a defaulted Debt from a
+customer who has moved. An institution is not a Debt Collector under the
+FDCPA when it collects:
+● Another’s Debt in isolated instances;
+● Its own Debts under its own name;
+● Debts it originated and then sold but continues to service;
+● Debts that were not in default when the Debts were obtained;
+● Debts that were obtained as security for a commercial credit
+transaction;
+● Debts incidental to a bona fide fiduciary relationship or escrow
+arrangement; or
+Fair Debt Collection Practices Act Policy | Cash App US
+4
+
+Confidential and Not for Distribution
+● Debts related by common ownership or corporate control, provided the
+institution acts as a Debt Collector only for persons with whom it is
+related and its principal business is not the collection of Debts.
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Afterpay operations
+reflect Afterpay’s commitment to compliance and that all Staff Members are
+aware of that commitment and their individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and reporting on
+compliance with this Policy. Cash App’s Head of Compliance may delegate to
+others the authority to adopt, develop, and implement procedures and
+reporting that support this Policy.
+Product Compliance The Product Compliance Lead is the designated owner of this Policy and is
+Lead responsible for: (i) serving as the subject matter expert for content relevant to
+this Policy, (ii) developing the Policy to meet regulatory expectations, (iii)
+ensuring regulatory risks are identified in documentation, (iv) providing and
+communicating roles and responsibilities to relevant stakeholders including
+business partners, (v) liaising with relevant stakeholders to complete Policy
+updates, (vi) conducting periodic review(s) of the Policy, and (vii) delegating
+and overseeing business documentation requirements, as needed.
+Staff Members Cash App’s Staff Members are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii) completing
+any required compliance training in a timely manner, and (iii) promptly
+reporting actual or suspected violations of laws or other requirements.
+Lending Regulatory Legal counsel provides approval and interpretative advice and counsel
+Counsel regarding the applicability and application of requirements of this Policy.
+Fair Debt Collection Practices Act Policy | Cash App US
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Fair Debt Collection Practices Act Policy (“Policy”) outlines Cash App’s (“Cash App”) commitment to
+comply with the Fair Debt Collection Practices Act (“FDCPA”). Cash App’s Head of Compliance and/or their
+designee is responsible for the management of this Policy.
+2. Purpose
+The purpose of this Policy is to establish and define guidelines for Cash App to comply with all applicable
+provisions of FDCPA. Cash App recognizes that FDCPA violations can present significant legal, reputational,
+and compliance risk.
+3. Scope
+This Policy has been created to ensure that Cash App and relevant personnel are aware of and comply with
+the expectations of FDCPA.
+This Policy governs Cash App’s Credit Products within the United States and sets out the approach to FDCPA
+compliance, where applicable. While Cash App does not meet the definition of a Debt Collector, it has elected
+to comply with FDCPA best practices when collecting Debts from Consumers.
+4. Policy Requirements
+4.1 Policy Statement
+Cash App is committed to ensuring that collection activity across Credit Products is conducted in a manner
+consistent with the spirit of the law.
+Wherever state or local regulations overlap and are stricter than the requirements set out in this Policy, the
+more conservative approach will be applied. If any applicable requirements are in conflict with this Policy,
+Cash App will consult with the appropriate legal counsel to resolve the conflict and adjust Cash App’s
+policies and procedures to ensure compliance.
+Fair Debt Collection Practices Act Policy | Cash App US
+6
+
+Confidential and Not for Distribution
+4.2 FDCPA Policy Requirements
+The primary purposes of this Policy are to:
+● Eliminate unfair, deceptive, and abusive Debt collection practices by Debt Collectors in
+Attempts to Communicate the collection of consumer debts;
+● Promote fair Debt collection so that Debt Collectors who refrain from using abusive Debt
+collection practices are not competitively disadvantaged;
+● Provide Consumers with an avenue for disputing and obtaining validation of Debt information
+in a timely manner to ensure the information’s accuracy; and
+● Promote consistent state law applicability to protect Consumers against Debt collection
+abuses.
+○ Contact Times. Cash App will not communicate with a Consumer in connection with
+the collection of a Debt at any unusual time (before 8:00 a.m. or after 9:00 p.m. in the
+Consumer’s time zone) or a time place known or which should be known to be
+inconvenient to the Consumer.
+○ Call Frequency. Cash App will not place a telephone call to a Consumer about a
+particular Debt:
+■ More than seven times within a seven-day period; or
+■ Within seven days after engaging in a phone conversation with a
+Consumer or leaving a voicemail about a particular Debt, unless the
+consumer requests it.
+○ Mini-Miranda Disclosures. A Debt Collector must disclose in the initial written
+communication with the Consumer and, in addition, if the initial communication with
+the Consumer is oral, in that oral communication, that the Debt Collector is
+attempting to collect a Debt and that any information obtained will be used for that
+purpose. The Debt Collector must also disclose in subsequent communications that
+the communication is from a Debt Collector.
+○ Limited-content Messages. A “limited-content message” is a type of voicemail that a
+Debt Collector may leave that must include specific information. Limited-content
+messages may only include the following:
+Fair Debt Collection Practices Act Policy | Cash App US
+7
+
+Confidential and Not for Distribution
+■ A business name that does not indicate the caller is a Debt Collector;
+■ Telephone number(s) the customer can use to return the call; and
+■ A request that the customer replies and the name(s) of who the
+customer can contact to reply.
+Voicemails that don’t follow these rules are not considered limited-content
+messages.
+○ Cease and Desist. If a Consumer notifies a Debt Collector in writing that the Consumer
+refuses to pay a Debt or requests that the Debt Collector cease further communication,
+the Debt Collector must cease further communication with respect to such Debt except:
+■ To advise the Consumer that further collection efforts are being
+terminated;
+■ To notify the Consumer that specified remedies may be invoked; and
+■ To notify the Consumer that the Debt Collector or Creditor intends to
+invoke a specified remedy.
+○ Attorney Representation. If the Debt Collector knows the Consumer is represented
+by an attorney with respect to such Debt, and has knowledge or can readily ascertain
+the attorney’s name and address, all contacts must be with that attorney, unless the
+attorney fails to respond within a reasonable period of time to a communication from
+the Debt Collector or agrees to allow direct communication with the Consumer.
+○ Workplace Contact. A Debt Collector may not contact the Consumer at their place of
+employment if the Debt Collector knows or has reason to know that the Consumer’s
+employer prohibits the Consumer from receiving such communication.
+○ Communicating with Third Parties. Without the prior consent of the Consumer given
+directly to the Debt Collector, a Debt Collector may not communicate, in connection
+with the collection of any Debt, with any person other than the Consumer, their
+attorney, or a Consumer reporting agency the Creditor, the attorney of the Creditor, or
+the attorney of the Debt Collector.
+No third party may be contacted more than once unless the collector believes that
+the information from the first contact was wrong or incomplete and that the third
+party has since received better information, or unless the third party specifically
+Fair Debt Collection Practices Act Policy | Cash App US
+8
+
+Confidential and Not for Distribution
+requests additional contact. Contact with any third party by postcard, letter or
+telegram is allowed only if the envelope or content of the communication does not
+indicate the nature of the collector’s business.
+○ Harassing and Abusive Practices. Cash App will not engage in any conduct to harass,
+oppress, or abuse any person in connection with the collection of a Debt. Examples of
+harassing and abusive practices, among others, include:
+■ Use or threat of use of violence or other criminal means to harm the
+physical person, reputation, or property of any person;
+■ Use of obscene, profane, or other abusive language;
+■ Publicizing any lists of Consumers allegedly refusing to pay Debts,
+except to a Consumer reporting agency;
+■ Advertising the sale of any Debt in an attempt to coerce payment;
+■ Repeatedly make calls or allow a phone to ring continuously;
+■ Failing to properly identify oneself on telephone calls; and,
+■ Placing telephone calls without meaningful disclosure of the caller’s
+identity.
+○ False or Misleading Representations. Cash App will not use any false, deceptive, or
+misleading representation in connection with the collection of any Debt. Examples of
+false and misleading representations, among others, include:
+■ False representation or implication that the Debt Collector is vouched
+for or bonded by the United States or any state;
+■ False representation of the character, amount, or legal status of the
+Debt;
+■ False representation or implication that the Debt Collector is an
+attorney or that communications are from an attorney;
+■ The representation or implication that the Consumer has committed a
+crime or that nonpayment will result in the arrest or imprisonment;
+■ Threatening to take any action, including seizure, garnishment,
+attachment, or sale of personal property or wages, unless such action
+is lawful and intended;
+Fair Debt Collection Practices Act Policy | Cash App US
+9
+
+Confidential and Not for Distribution
+■ Communicating or threatening to communicate credit information
+which is known or should be known to be false, including the failure
+to communicate that a Debt is disputed;
+■ The use or distribution of any written communication which simulates
+or is falsely represented to be a document authorized, issued, or
+approved by any court, official, or agency of the United States or any
+state, or which creates a false impression as to its source,
+authorization, or approval;
+■ Using any false representation or deceptive means to collect or
+attempt to collect any Debt or to obtain information concerning a
+Consumer;
+■ False representation or implication that documents are legal process,
+or conversely, that documents are not legal process or do not require
+action by the Consumer;
+■ The use of any business, company, or organization name other than
+the true name of the Debt Collector’s business, company, or
+organization; and
+■ False representation or implication that a Debt Collector operates or
+is employed by a Consumer reporting agency.
+○ Unfair Practices. Cash App will not use unfair or unconscionable means to collect or
+attempt to collect any Debt. Examples of unfair or unconscionable means include,
+among others:
+■ Collecting any amount (including interest, fee, charge, or expense
+incidental to the principal obligation) unless such amount is expressly
+authorized by the agreement creating the Debt or otherwise
+permitted by law;
+■ Taking or threatening to take any action to effect dispossession or
+disablement of property when the Debt Collector or Creditor has no
+enforceable right or intent to take such action;
+■ Communicating with a Consumer regarding a Debt by post card;
+Fair Debt Collection Practices Act Policy | Cash App US
+10
+
+Confidential and Not for Distribution
+■ Misapplication of post-dated checks for payment in connection with
+the collection of a Debt; and, using any language or symbol, other
+than the Debt Collector’s address, on any envelope when
+communicating with a Consumer.
+○ Disputed Debts. Cash App will not declare admission of liability if the Debtor fails to
+dispute the validity of the Debt.
+○ Initial Pleadings not an Individual Communication. Cash App will not consider a
+formal pleading in a civil action as an initial communication for purposes of the Debt
+validation notice requirement when collecting a Debt that is owed or due, or asserted
+to be owed or due.
+○ Notice Provisions. Cash App will adhere to the express requirements of Title 26, title
+V of Gramm-Leach-Bliley Act, or any provision of Federal or State law when sending
+notices to a Debtor for the purpose of collecting a Debt that is owed or due, or
+asserted to be owed or due.
+○ Multiple Debts. When dealing with multiple Debts, Cash App will adequately
+disburse funds based on the Consumer's directions.
+○ Legal Actions. Cash App will use proper venue and avoid collecting time-barred Debt
+when collecting a Debt that is owed or due, or asserted to be owed or due.
+○ Medium to Communicate. Cash App will not use the medium of communication in
+which a Debtor has opted out of for the purpose of collecting a Debt that is owed or
+due, or asserted to be owed or due.
+○ Bankruptcy. Cash App will not place for collection a Debt if the Debt Collector knows
+or should know that the Debt has been paid or settled or discharged in bankruptcy.
+○ Rights to Dispute. Cash App will not engage in collection activity when validating a
+Debt that is owed or due, or asserted to be owed or due.
+○ Sending Disclosures. Cash App will send disclosures in a reasonable manner when
+collecting a Debt that is owed or due, or asserted to be owed or due.
+Fair Debt Collection Practices Act Policy | Cash App US
+11
+
+Confidential and Not for Distribution
+○ Email Addresses & Text Messages. Cash App will use reasonable measures and take
+certain precautions when using email and text to collect a Debt that is owed or due,
+or asserted to be owed or due. However, Cash App may reveal its name or other
+information indicating that the communication relates to the collection of a Debt.
+○ Opt Out Notice. Cash App will offer the ability to opt out of electronic notices when
+collecting a Debt that is owed or due, or asserted to be owed or due.
+○ Employee Assumed Name. Cash App, who is attempting to collect a Debt of an
+employee, may use assumed names when attempting to collect a Debt.
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+5.2 Review and Approval
+Cash App’s Head of Compliance (or designee) will review and approve this Policy annually. In addition, any
+modifications to this Policy made outside the annual schedule will be reviewed and approved in accordance
+with the Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all Staff
+Members commensurate with job levels and responsibilities. All Staff Members engaged in the activity or
+performing services subject to the requirements of this Policy will receive the appropriate training upon
+hiring and periodically thereafter. All training activities are monitored by the Compliance Team and are
+outlined in Block, Inc.’s Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+Fair Debt Collection Practices Act Policy | Cash App US
+12
+
+Confidential and Not for Distribution
+8. Exceptions
+The document owner or designee will have authority, upon consultation with Legal Counsel, to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption does not
+violate applicable law. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Cash App will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to Block, Inc.’s
+Policy Governance Team at go/policyhelp. The Product Compliance Lead will inform the document owner,
+and applicable committees, as needed, of exceptions.
+9. Record Retention
+Cash App will maintain records of this Policy in accordance with Block, Inc.’s document retention guidelines.
+When Cash App becomes a Debt Collector, as defined by FDCPA, Cash App will retain all records
+documenting compliance with applicable FDCPA requirements starting on the date that it begins collection
+activity on a debt for a period of three years after the debt collector’s last collection activity on the debt,
+including telephone recordings of each debt collection call for a period of three years after the date of the
+call.
+10. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Global Complaint Policy
+Related Program Block, Inc. Compliance Training Program Standard
+Related References:
+Regulation Name Fair Debt Collection Practices Act
+Fair Debt Collection Practices Act Policy | Cash App US
+13
+
+Confidential and Not for Distribution
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Nicole Clarke Lending Regulatory Reviewed/Approv… Jan 10, 2025
+Counsel
+Approval History
+Approver Title Type Description Date
+Corey Chambe… Product Creation Initial creation of Jan 10, 2025
+Compliance Lead policy
+Jason Liberman Cash App Head of Initial Appro… Initial approval of Jan 13, 2025
+Compliance policy
+Compliance Policy Compliance Policy Material Cha… Approval Jan 22, 2025
+Committee Committee
+Corey Chambe… Product Material Cha… Addition of new Mar 14, 2025
+Compliance Lead credit product
+within policy
+scope
+Jason Liberman Cash App Head of Material Cha… Addition of new Apr 1, 2025
+Compliance credit product
+within policy
+scope
+Compliance Policy Compliance Policy Material Cha… Addition of new Apr 1, 2025
+Committee Committee credit product
+within policy
+scope
+12. Document Details
+Business Cash App
+Scope Regional [United States]
+Compliance Domain Consumer Protection
+Fair Debt Collection Practices Act Policy | Cash App US
+14
+
+Confidential and Not for Distribution
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date Apr 1, 2025
+Effective Date Apr 1, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually [January 2026]
+Fair Debt Collection Practices Act Policy | Cash App US
+15

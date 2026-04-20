@@ -1,0 +1,254 @@
+Military Lending Act
+Policy
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App’s U.S.
+business operations and on a need-to-know basis.
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+1. Introduction 6
+2. Purpose 6
+3. Scope 6
+4. Policy Requirements 6
+4.1 Policy Statement 6
+4.2 MLA Policy Requirements 6
+5. Document Management 8
+5.1 Document Owner 8
+5.2 Review and Approval 8
+6. Training 9
+7. Monitoring and Reporting 9
+8. Exceptions 9
+9. Record Retention 9
+10. Related Documentation or References 9
+11. Revision and Approval History 10
+12. Document Details 10
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Covered Borrower A consumer who, at the time the consumer becomes obligated on a consumer
+credit transaction or establishes an account for consumer credit, is a Covered
+Member of the armed forces or a Dependent of a Covered Member.
+Credit Products Any of Cash App US’s lending products including (1) Borrow (2) Pre-Purchase
+Financing (3) Retroactive Financing or (4) Cash App Afterpay Online Checkout,
+unless otherwise noted.
+Covered Member Covered members of the armed forces include members of the Army, Navy,
+Marine Corps, Air Force, or Coast Guard currently serving on active duty under
+a call or order that does not specify a period of 30 days or fewer, or such a
+member serving on Active Guard and Reserve duty.
+Dependent With respect to a Covered Member, a Dependent means the Covered Member's
+spouse, children under the age of 21, children under the age of 23 and enrolled
+in an accredited institution of higher learning who are dependent on the
+Covered Member for over half of their support, or children of any age
+incapable of self-support. Other relationships may qualify as Dependents, and
+staff should consult compliance.
+Active Service Also known as “active duty,” or “active status.” A person who is on active duty
+in the military full-time for a period of greater than 30 days. They work for the
+military full-time, may live on a military base, and can be deployed at any time.
+Such term includes full-time training duty, annual training duty, and
+attendance, while in active military service, at a school designated as a service
+school by law or by the Secretary of Defense.
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Cash App
+operations reflect Cash App’s commitment to compliance and that all Staff
+Members are aware of that commitment and their individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and reporting on
+compliance with this Policy. Cash App’s Head of Compliance may delegate to
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+4
+
+Confidential and Not for Distribution
+others the authority to adopt, develop, and implement procedures and
+reporting that support this Policy.
+Product Compliance The Product Compliance Lead is the designated owner of this Policy and is
+Lead responsible for: (i) serving as the subject matter expert for content relevant to
+this Policy, (ii) developing the Policy to meet regulatory expectations, (iii)
+ensuring regulatory risks are identified in documentation, (iv) providing and
+communicating roles and responsibilities to relevant stakeholders including
+business partners, (v) liaising with relevant stakeholders to complete Policy
+updates, (vi) conducting periodic review(s) of the Policy, and (vii) delegating
+and overseeing business documentation requirements, as needed.
+Staff Members Cash App’s Staff Members are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii) completing
+any required compliance training in a timely manner, and (iii) promptly
+reporting actual or suspected violations of laws or other requirements.
+Lending Regulatory Legal counsel provides approval and interpretative advice and counsel
+Counsel regarding the applicability and application of requirements of this Policy.
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Military Lending Act Policy (“Policy”) outlines Cash App’s (“Cash App”) commitment to comply with the
+Military Lending Act (“MLA”). Cash App’s Head of Compliance and/or their designee is responsible for the
+management of this Policy.
+2. Purpose
+The purpose of this Policy is to establish and define guidelines for Cash App to comply with all applicable
+provisions of MLA. Cash App recognizes that MLA violations can present significant legal, reputational, and
+compliance risk.
+3. Scope
+This Policy governs Cash App’s Credit Products in the United States and has been created to ensure that
+Cash App and relevant personnel are aware of and comply with the expectations of MLA.
+4. Policy Requirements
+4.1 Policy Statement
+The standards set out in this Policy represent minimum requirements based on applicable legal and
+regulatory guidance and apply throughout Cash App’s lending operations. These requirements are intended
+to prevent Cash App and its Staff Members from violating applicable provisions of the MLA.
+4.2 MLA Policy Requirements
+Military Annual Percentage Rate. All transactions covered by the MLA are subject to the Military Annual
+Percentage Rate (“MAPR”). The MAPR is analogous to the Annual Percentage Rate (“APR”) as defined in
+other consumer protection regulations in that both are calculated in the same manner. Still, the MAPR differs
+from APR in that the MAPR calculation must include certain fees and charges regardless of whether other
+regulations require those fees or charges to be included in the APR calculation. Specifically, the MAPR
+calculation must include the following charges:
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+6
+
+Confidential and Not for Distribution
+● Credit insurance premium or fees;
+● Debt cancellation or debt suspension fees;
+● Fees for ancillary products sold in connection with the credit transaction;
+● Finance charges; and
+● Application fees.
+In accordance with the MAPR cap provided by the MLA, Cash App will not impose an MAPR greater than 36
+percent on covered borrowers.
+MLA Notice and Disclosure Requirements. Cash App will provide the appropriate notice and disclosures to
+covered borrowers, including the following considerations:
+● Disclosures will be made clearly and conspicuously in writing and in a form the covered borrower
+may keep;
+● Disclosures will contain a statement of the MAPR applicable to the extension of consumer credit;
+● If the covered transaction disclosures are combined with other account disclosures, it will be
+clear which disclosures are applicable to the covered borrower’s account, including those
+disclosures related to the MAPR and the total dollar amount of all charges included in the MAPR,
+and those disclosures required by other regulations;
+● If oral disclosures are given, the MAPR, the payment obligation, and federal notice will be
+provided orally before consummation;
+● A toll-free number will be provided with or on the written disclosures that consumers may use to
+obtain oral disclosure, and oral disclosures are provided when the covered borrower contacts
+Cash App for that purpose; and
+● For renewal or refinancing of covered transactions, new disclosures will be provided when the
+transaction would be considered a new transaction that would require disclosure under other
+regulations.
+Prohibited Conduct. In accordance with MLA requirements, Cash App will not condition the extension of
+consumer credit to a covered borrower by requiring:
+● The covered borrower to waive their right to legal recourse under the Servicemembers Civil
+Relief Act or any other state or federal law;
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+7
+
+Confidential and Not for Distribution
+● The use of a check or other method of access to a deposit, savings, or other financial account
+maintained by the covered borrower, except that, in connection with a consumer credit
+transaction with an MAPR consistent with the regulation, Cash App may, unless otherwise
+prohibited by law:
+○ Require electronic fund transfer for repayment;
+○ Require a direct deposit of the covered borrower’s salary, as a condition of eligibility;
+○ Take a security interest in funds deposited after extending credit in an account
+established in connection with the transaction; or
+○ The covered borrower to establish an allotment to repay the obligation.
+Furthermore, Cash App will not prohibit the covered borrower from prepaying consumer credit and will not
+charge the covered borrower a prepayment penalty fee for prepaying all or part of consumer credit. Cash
+App will not renew, roll over, repay, refinance, or consolidate any transaction with a covered borrower unless
+the transaction results in more favorable terms to the covered borrower. Cash App will not require a covered
+borrower to submit to arbitration. Cash App may be subject to certain penalties if MLA is violated; including
+in certain instances rendering the credit agreement void.
+Identifying Covered Borrowers. It is Cash App’s policy to obtain safe harbor status by performing the
+covered-borrower check with the safe harbor method as outlined in the regulation. Specifically, Cash App
+will verify covered borrowers’ Active Service status via the U.S. Department of Defense’s Defense Manpower
+Data Center prior to origination
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+5.2 Review and Approval
+Cash App’s Head of Compliance (or designee) will review and approve this Policy annually. In addition, any
+modifications to this Policy made outside the annual schedule will be reviewed and approved in accordance
+with the Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+8
+
+Confidential and Not for Distribution
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all Staff
+Members commensurate with job levels and responsibilities. All Staff Members engaged in the activity or
+performing services subject to the requirements of this Policy will receive the appropriate training upon hire
+and periodically thereafter. All training activities are monitored by the Compliance Team and are outlined in
+Block, Inc.’s Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption does not
+violate applicable law. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Cash App will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to Block, Inc.’s
+Policy Governance Team at go/policyhelp. The document owner and/or designee will inform Block, Inc.’s
+Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+Cash App will maintain records of this Policy in accordance with Block, Inc.’s document retention guidelines.
+10. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Global Complaint Policy
+Related Program Block, Inc. Compliance Training Program Standard
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+9
+
+Confidential and Not for Distribution
+Related References:
+Regulation Name Military Lending Act
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Maya Parekh Lending Regulatory Reviewed/Approv… Jan 6, 2025
+Counsel
+Approval History
+Approver Title Type Description Date
+Corey Chambe… Product Creation Initial creation of Jan 10, 2025
+Compliance Lead policy
+Jason Liberman Cash App Head of Initial Appro… Initial approval of Jan 13, 2025
+Compliance policy
+Compliance Policy Compliance Policy Initial Appro… Approval Jan 22, 2025
+Committee Committee
+Corey Chambe… Product Material Cha… Addition of new Mar 14, 2025
+Compliance Lead credit product
+within policy
+scope
+Jason Liberman Cash App Head of Material Cha… Addition of new Apr 1, 2025
+Compliance credit product
+within policy
+scope
+Compliance Policy Compliance Policy Material Cha… Addition of new Apr 1, 2025
+Committee Committee credit product
+within policy
+scope
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+10
+
+Confidential and Not for Distribution
+12. Document Details
+Business Cash App
+Scope Regional [United States]
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date Apr 1, 2025
+Effective Date Apr 1, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually [January 2026]
+Military Lending Act Policy | Cash App (U.S.) | Lending Product | Block, Inc.
+11

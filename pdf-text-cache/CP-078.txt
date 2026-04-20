@@ -1,0 +1,417 @@
+Equal Credit Opportunity
+Act Policy
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App’s U.S.
+business operations and on a need-to-know basis.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 5
+1. Introduction 6
+2. Purpose 6
+3. Scope 6
+4. Policy Requirements 6
+4.1 Policy Statement 6
+4.2 Fair Lending Requirements 7
+4.3 General ECOA Requirements 8
+5. Document Management 12
+5.1 Document Owner 12
+5.2 Review and Approval 12
+6. Training 12
+7. Monitoring and Reporting 13
+8. Exceptions 13
+9. Record Retention 13
+10. Related Documentation or References 14
+11. Revision and Approval History 14
+12. Document Details 15
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Adverse Action (a) A refusal to grant credit in substantially the amount or on substantially
+the terms requested in an Application unless Cash App Lending makes
+a counteroffer (to grant credit in a different amount or on other terms)
+and the Applicant uses or expressly accepts the credit offered;
+(b) A termination of an account or an unfavorable change in the terms of
+an account that does not affect all or substantially all of a class of the
+creditor's accounts; or
+(c) A refusal to increase the amount of credit available to an applicant who
+has made an application for an increase.
+Adverse Action does not include a change in the terms of an account
+expressly agreed to by an Applicant, or any action or forbearance
+relating to an account taken in connection with inactivity, default, or
+delinquency as to that account.
+Applicant A person (individual or entity) that requests credit or who has received credit
+from Cash App Lending, including any person that may become contractually
+liable for credit provided by Cash App Lending.
+Application An oral or written request for an extension of credit made in accordance with
+procedures used by Cash App Lending for the type of credit requested.
+Completed An application that Cash App Lending has received which contains all the
+Application information that Cash App Lending regularly obtains and considers in
+evaluating applications for the amount and type of credit requested (including,
+but not limited to, credit reports, any additional information requested from
+the applicant, and any approvals or reports by governmental agencies or other
+persons that are necessary to guarantee, insure, or provide security for the
+credit or collateral).
+Credit Products Any of Cash App US’s lending products including (1) Borrow (2) Pre-Purchase
+Financing (3) Retroactive Financing or (4) Cash App Afterpay Online Checkout,
+unless otherwise noted.
+Prohibited Basis Race, national origin, color, religion, sex (including sexual orientation and
+gender identity), marital status, age, (provided the Applicant has the capacity
+to contract); the fact that all or part of the Applicant’s income derives from a
+public assistance program; or the fact that the Applicant has in good faith
+exercised any right under the Consumer Credit Protection Act.
+Note: In addition to the protected classes listed above, Cash App does not
+discriminate based on the following protected classes under the Fair Housing Act
+and various state laws: Servicemember or veteran Status; Disability; Familial
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+4
+
+Confidential and Not for Distribution
+Status; Gender/gender identity/gender expression; Sexual orientation;
+Pregnancy; HIV Status; Ancestry; or Immigration Status (except to the extent it
+impacts a creditor’s ability to service or collect the debt).
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Cash App
+operations reflect Cash App’s commitment to compliance and that all Staff
+Members are aware of that commitment and their individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and reporting on
+compliance with this Policy. Cash App’s Head of Compliance may delegate to
+others the authority to adopt, develop, and implement procedures and
+reporting that support this Policy.
+Product Compliance The Product Compliance Lead is the designated owner of this Policy and is
+Lead responsible for: (i) serving as the subject matter expert for content relevant to
+this Policy, (ii) developing the Policy to meet regulatory expectations, (iii)
+ensuring regulatory risks are identified in documentation, (iv) providing and
+communicating roles and responsibilities to relevant stakeholders including
+business partners, (v) liaising with relevant stakeholders to complete Policy
+updates, (vi) conducting periodic review(s) of the Policy, and (vii) delegating
+and overseeing business documentation requirements, as needed.
+Staff Members Cash App’s Staff Members are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii) completing
+any required compliance training in a timely manner, and (iii) promptly
+reporting actual or suspected violations of laws or other requirements.
+Lending Regulatory Legal counsel provides approval and interpretative advice and counsel
+Counsel regarding the applicability and application of requirements of this Policy.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+5
+
+Confidential and Not for Distribution
+1. Introduction
+This Equal Credit Opportunity Act Policy (“Policy”) outlines Cash App’s (“Cash App”) commitment to comply
+with the Equal Credit Opportunity Act (“ECOA”). Cash App’s Head of Compliance and/or their designee is
+responsible for the management of this Policy.
+2. Purpose
+The purpose of this Policy is to demonstrate the commitment of Cash App to comply with ECOA, its
+implementing Regulation B and state equivalents, which were adopted to promote the availability of credit to
+all creditworthy Applicants and to prevent discriminatory practices throughout all aspects of a creditor’s
+dealings with an Applicant regarding a credit transaction. ECOA also requires creditors to notify Applicants
+of action taken on their Applications under certain circumstances and to retain records regarding their
+Applications.
+3. Scope
+This Policy applies to all of Cash App’s lending operations that involve any interaction with Applicants and
+the development, offering, selling, servicing and or collections of Credit Products within the United States.
+This Policy has been created to ensure that Cash App’s Staff Members are aware of and comply with
+expectations regarding these requirements.
+4. Policy Requirements
+4.1 Policy Statement
+Cash App is committed to ensuring its business activities result in fair, consistent, and responsible treatment
+of all consumers, and comply with all applicable state and federal laws governing non-discriminatory lending
+practices.
+The standards set out in this Policy represent minimum requirements based on applicable legal and
+regulatory guidance and apply throughout Cash App’s lending operations. These requirements are intended
+to prevent Cash App’s Staff Members from violating federal and state regulations related to consumer
+compliance with respect to Fair Lending laws, regulations, and practices.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+6
+
+Confidential and Not for Distribution
+4.2 Fair Lending Requirements
+● Prohibition on Discrimination. Cash App will not discriminate against an Applicant regarding any aspect
+of a credit transaction on a Prohibited Basis. This prohibition applies to all dealings between the
+Applicant and Cash App regarding an Application for credit or for an existing extension for credit
+throughout the credit lifecycle, including but not limited to:
+○ The marketing or solicitation of products offered by Cash App;
+○ Requests for product information;
+○ The Application and origination process;
+○ The standards for evaluating creditworthiness and the terms of credit offered by Cash App;
+○ The servicing and collection of existing extensions of credit; and
+○ The furnishing of credit information to consumer reporting agencies.
+Cash App requires that policies, procedures, disclosures, customer agreements, communications, marketing
+strategies, and solicitations to be carefully crafted and reviewed to ensure Cash App adheres to the
+non-discriminatory and principled standards under ECOA and Regulation B. Each Staff Member must be
+mindful of providing consistent treatment to all Applicants regardless of any Prohibited Basis. Staff
+Members are responsible for interacting with all Applicants and consumers in an ethical, fair, and
+professional manner in accordance with this Policy.
+● Prohibition on Discriminatory Discouragement. Cash App's prohibition on discrimination extends to all
+aspects of a credit transaction, which includes the initial offering or marketing of Cash App’s Credit
+Products and services. Cash App and its merchants will not discourage any Applicant or prospective
+Applicant from inquiring about, applying for, or otherwise pursuing a Cash App Credit Product or service
+on a Prohibited Basis. Among other things, this means that Cash App and its Staff Members will not, on a
+Prohibited Basis:
+○ Make statements suggesting that a prospective Applicant not apply for Credit Products or
+services;
+○ Use words, symbols, or models that suggest a discriminatory preference or policy of exclusion; or
+○ Withhold assistance or information from prospective Applicants that would ordinarily be
+extended to other prospective Applicants.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+7
+
+Confidential and Not for Distribution
+● Types of Discrimination Under ECOA. This Policy extends to the forms of discrimination under ECOA that
+have been recognized by courts and other federal regulators. These forms of discrimination include:
+○ Overt Discrimination. Overt discrimination is present where a creditor openly discriminates
+against an Applicant on a Prohibited Basis or engages in blatant actions or policies based on the
+prejudice of a Prohibited Basis.
+○ Disparate Treatment. Disparate Treatment is present where differences in treatment are not fully
+explained by legitimate non-discriminatory factors. It does not require any showing that the
+treatment was motivated by prejudice or a conscious intention to discriminate against a person
+beyond the difference in the treatment itself.
+○ Disparate Impact. Disparate Impact is present when a creditor applies a facially neutral policy or
+practice to all Applicants, but the policy or practice disproportionately excludes or burdens
+certain Applicants on a Prohibited Basis. Evidence of discriminatory intent is not necessary to
+establish that disparate impact has occurred.
+4.3 General ECOA Requirements
+● Limitations on Information Requests. Cash App will not collect the information listed below in connection
+with a credit transaction.
+○ Information regarding race, color, religion, national origin, or sex of the Applicant or any other
+person connected with the prospective credit transaction. The Applicant, however, can be asked
+to designate a title such as Ms., Miss, Mr., or Mrs. although Cash App must inform the Applicant
+that providing such designation is optional.
+○ Information concerning the spouse of an Applicant, unless:
+■ The spouse will be permitted to use the account;
+■ The spouse will be contractually liable on the account;
+■ The Applicant is relying on the spouse's income as a basis for repayment of the credit
+requested;
+■ The Applicant resides in a community property state or is relying on property located in
+such a state as a basis for repayment of the credit requested; or
+■ The Applicant is relying on alimony, child support, or separate maintenance payments
+from a spouse or former spouse as a basis for repayment of the credit requested.
+○ Information concerning childbearing or child rearing, including birth control practices, intentions
+concerning the bearing or rearing of children, or capability to bear children.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+8
+
+Confidential and Not for Distribution
+If an applicant applies for individual unsecured credit, a creditor shall not inquire about the applicant's
+marital status unless the applicant resides in a community property state or is relying on property
+located in such a state as a basis for repayment of the credit requested. If an application is for other than
+individual unsecured credit, a creditor may inquire about the applicant's marital status, but shall use only
+the terms married, unmarried, and separated. A creditor may explain that the category unmarried includes
+single, divorced, and widowed persons.
+Note that Cash App may inquire about the number and ages of an Applicant’s dependents or about
+dependent-related financial obligations or expenditures, provided such information is requested without
+regard to sex, marital status, or any other Prohibited Basis.
+Cash App may inquire about information concerning a Prohibited Basis of an Applicant in connection with
+a credit transaction in two limited circumstances: (1) to conduct a "self-test"; and (2) to request a title on
+an Application that may indicate the sex of the Applicant, provided Cash App discloses that the
+designation is optional. Reports, results, or any other information concerning Cash App’s "self-test" are
+generally privileged against disclosure provided certain requirements as set forth in ECOA are met..
+Cash App may also obtain information required by law to monitor or enforce compliance with Regulation
+B, or other state or federal laws and regulations.
+● Income from alimony, child support, or separate maintenance payments. Cash App may inquire about an
+Applicant’s obligation to pay alimony, child support, or separate maintenance income or whether any part
+of an Applicant’s stated income derives from those sources. However, Applicants are not required to
+disclose this information and may disclose this income information only if Applicants wish to rely on that
+particular source of income in the determination of creditworthiness. Cash App will notify Applicants that
+they are not required to disclose this information whenever source of income information is requested.
+The following is a sample other income disclosure:
+○ Alimony, child support, or separate maintenance income need not be revealed if you do not wish to
+have it considered as a basis for repaying this obligation or for account maintenance.
+● Rules for Evaluating Applications. In general, Cash App may consider any information obtained, so long
+as the information is not used to discriminate against an Applicant on a Prohibited Basis. Except as set
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+9
+
+Confidential and Not for Distribution
+forth below, Cash App shall not take a Prohibited Basis into account when evaluating the
+creditworthiness of Applicants.
+○ In general, Cash App will not decide whether to extend credit or set the terms and conditions of
+credit based on the age of an Applicant or information related exclusively to age (except to
+determine legal capacity to contract).
+In evaluating creditworthiness, Cash App will not make assumptions or use aggregated statistics
+relating to the likelihood that any category of persons will bear or rear children or will, for that
+reason, receive diminished or interrupted income in the future. Additionally, if Cash App
+considers an Applicant's credit history, Cash App may consider any accounts where the Applicant
+is contractually liable.
+If Cash App furnishes credit information to a consumer reporting agency the information must
+enable the consumer reporting agency to provide access to the information in the name of each
+spouse.. Additionally, Cash App will not refuse to allow an Applicant to open or maintain an
+account in a birth-given first name and a surname that is the Applicant's birth-given surname, the
+spouse's surname, or a combined surname.
+Cash App will not discount or exclude from consideration the income of an Applicant or the
+spouse of an Applicant because of a Prohibited Basis or because the income is derived from
+part-time employment or is an annuity, pension, or another retirement benefit. In addition, Cash
+App may consider the amount and probable continuance of any income in evaluating an
+Applicant’s creditworthiness. However, when an Applicant relies on alimony, child support, or
+separate maintenance payments in applying for credit, Cash App shall consider such payments
+as income to the extent that Applicants are likely to be consistently made.
+Cash App may retain in its files information that is prohibited by the Act or this part for use in
+evaluating Applications, without violating the Act or this part, if the information was obtained:
+● From any source prior to March 23, 1977;
+● From consumer reporting agencies, an Applicant, or others without the specific
+request of the creditor; or
+● As required to monitor compliance with the Act and this part or other Federal or
+state statutes or regulations.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+10
+
+Confidential and Not for Distribution
+Use of such information as to any Applicant during any part of the credit lifecycle in a manner
+inconsistent with this Policy is prohibited. A creditor may ask, but not require, that an Applicant
+provide information regarding a Prohibited Basis and, if obtained, use that information for
+purposes of monitoring compliance with federal laws and regulations.
+Although Cash App will not consider whether there is a telephone listing in Applicant's name,
+Cash App may consider whether there is a telephone in the Applicant's home.
+Cash App will consider married and unmarried Applicants by the same standards. Additionally,
+Cash App may inquire about and consider the permanent residency and immigration status of an
+Applicant.
+Cash App will not refuse to extend credit and or terminate an account because any credit-related
+insurance is unavailable on the basis of the Applicant's age.
+● Notifications. Cash App will notify Applicants of action taken on their request for an extension of
+credit, regardless of whether such action is favorable or adverse. These notices are delivered to the
+Applicant electronically obtaining proper electronic communications consent. All disclosures
+required to be given under ECOA will be made in a clear and conspicuous manner.
+Cash App will notify an Applicant of action taken within:
+○ 30 days after receiving a Completed Application;
+○ 30 days after taking Adverse Action on an incomplete Application, unless a notice of
+incomplete Application is provided; or
+○ 30 days after taking Adverse Action on an existing account.
+If, within 30 days after Cash App receives an Application, the Application is incomplete as to matters
+that the Applicant can complete (e.g., the Applicant has not provided information concerning pay
+stubs necessary to evaluate the Application), Cash App will either notify the Applicant of Adverse
+Action based on the incompleteness, or provide a notice of incompleteness specifying the
+information needed; designating a reasonable period of time for the Applicant to provide the
+information; and informing the Applicant that failure to provide the information requested will result
+in no further consideration being given to the Application.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+11
+
+Confidential and Not for Distribution
+Cash App has no obligation to provide an Adverse Action notice if the Applicant fails to provide the
+information within the time period specified. If a credit Application involves multiple Applicants, Cash
+App need only provide notification to the primary Applicant, if readily apparent.
+If Cash App approves a credit Application, but the parties contemplate an inquiry by the Applicant
+into the Application's status, Cash App may treat the Application as withdrawn if the Applicant has
+not inquired within 30 days after applying.
+If Cash App receives a notice that a customer or regulatory agency is alleging an ECOA violation, the
+allegation will be handled in accordance with Cash App's Global Complaint Policy. The allegation will
+be immediately escalated to Compliance and Legal and thoroughly investigated.
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+5.2 Review and Approval
+Cash App’s Head of Compliance, or their designee, will review and approve this Policy annually. In addition,
+any modifications to this Policy made outside the annual schedule will be reviewed and approved in
+accordance with the Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval
+Matrix.
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all Staff
+Members commensurate with job levels and responsibilities. All Staff Members engaged in the activity or
+performing services subject to the requirements of this Policy will receive the appropriate training upon hire
+and periodically thereafter. All training activities are monitored by the Compliance Team and are outlined in
+Block, Inc.’s Compliance Training Program.
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+12
+
+Confidential and Not for Distribution
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption does not
+violate applicable law. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Cash App will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to Block, Inc.’s
+Policy Governance Team at go/policyhelp. The document owner and/or designee will inform Block, Inc.’s
+Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+Cash App will maintain records of this Policy in accordance with Block Inc’s document retention guidelines.
+Additionally, Cash App maintains all documentation pertaining to consumer credit Applications for a
+minimum of 25 months after the date that Cash App notifies an Applicant of action taken on an Application
+or of incompleteness, as required under ECOA.
+Documentation that is retained includes the following:
+● Applications;
+● Written information used in evaluating Applications not returned to an Applicant;
+● Call recordings of all oral communications with Applicants;
+● Notices of Adverse Action and specific reasons for Adverse Actions; and
+● Any statements the Applicants may have submitted alleging ECOA or Regulation B violations.
+They will also maintain records of all prescreened solicitations and targeted marketing efforts for a minimum
+of 25 months, which include:
+● The text of the solicitations
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+13
+
+Confidential and Not for Distribution
+● The lists of criteria used to select potential recipients of the solicitations; and
+● Any correspondence related to complaints about the solicitations.
+Additionally, Cash App maintains all documentation of existing accounts for a minimum of 25 months after
+the date that a creditor notifies an applicant of adverse action, the creditor shall retain as to that account, in
+original form or a copy thereof:
+● (i) Any written or recorded information concerning the adverse action; and
+● (ii) Any written statement submitted by the applicant alleging a violation of the Act or this part.
+The 25-month retention period may be extended if Cash App receives notice that it is subject to an
+enforcement proceeding and an Applicant’s account is under investigation or is subject to an enforcement
+action for an alleged violation. In these cases, all relevant records will be retained in accordance with Block’s
+Document Management Policy.
+10. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Global Complaint Policy
+Related Policy Block, Inc. Document Management Policy
+Related Program Block, Inc. Compliance Training Program Standard
+Related References:
+Regulation Name Equal Credit Opportunity Act
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Maya Parekh Lending Regulatory Reviewed/Approved Jan 6, 2025
+Counsel
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+14
+
+Confidential and Not for Distribution
+Approval History
+Approver Title Type Description Date
+Corey Chamber… Product Creation Initial creation of Jan 10, 2025
+Compliance Lead policy
+Jason Liberman Cash App Head of Initial Approval Initial approval of Jan 13, 2025
+Compliance policy
+Compliance Policy Compliance Policy Initial Approval Approval Jan 22, 2025
+Committee Committee
+Corey Chamber… Product Material Cha… Addition of new Mar 14, 2025
+Compliance Lead credit product
+within policy scope
+Jason Liberman Cash App Head of Material Cha… Addition of new Apr 1, 2025
+Compliance credit product
+within policy scope
+Compliance Policy Compliance Policy Material Cha… Addition of new Apr 1, 2025
+Committee Committee credit product
+within policy scope
+12. Document Details
+Business Cash App
+Scope Regional [United States]
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date Apr 1, 2025
+Effective Date Apr 1, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually [January 2026]
+Equal Credit Opportunity Act | Cash App (U.S) | Lending Product | Block, Inc.
+15

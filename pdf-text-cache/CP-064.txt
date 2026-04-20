@@ -1,0 +1,264 @@
+Electronic Signatures in
+Global and National
+Commerce Act Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 4
+3. Purpose 4
+4. Scope 5
+5. Policy Requirements 5
+5.1 Policy Statement 5
+5.2 Afterpay’s Policy Requirements 5
+6. Roles and Responsibilities 7
+7. Document Management 8
+7.1 Document Owner 8
+7.2 Review and Approval 8
+8. Training 9
+9. Monitoring and Reporting 9
+10. Exceptions 9
+11. Record Retention 9
+12. Related Documentation or References 10
+13. Revision and Approval History 10
+13.1 Stakeholder Review Tracking 10
+13.2 Approval History 10
+14. Document Details 10
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Consumer An individual who obtains, through a transaction, products, or services
+that are used primarily for personal, family, or household purposes, and
+also means the legal representative of such an individual.
+Electronic Relating to technology having electrical, digital, magnetic, wireless,
+optical, electromagnetic, or similar capabilities.
+Record Information that is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable form.
+Transaction An action or set of actions relating to the conduct of business, consumer,
+or commercial affairs between two or more persons.
+2. Introduction
+This Electronic Signatures in Global and National Commerce Act Policy (“Policy”) outlines the
+Afterpay US, Inc.’s (“Afterpay”) commitment to comply with the Electronic Signatures in Global and
+National Commerce Act (“E-Sign”). Cash App’s Head of Compliance and/or their designee is
+responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate the commitment of Afterpay to complying with all
+applicable provisions of E-Sign.
+E-Sign was enacted in 2000 to facilitate the use of Electronic Records and Electronic signatures by
+ensuring the validity and legal effect of contracts entered, disclosures provided, and agreements
+otherwise executed electronically. E-Sign is an “overlay” law because it does not amend any laws
+specifically, but provides that a signature, contract, or other Record relating to a Transaction may not
+be denied validity solely because it is in Electronic form.
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+E-Sign has four major requirements for an Electronic signature to be recognized as valid under US
+law. Those requirements are: (1) intent to sign, (2) receipt of disclosure and affirmative and ongoing
+consent in a manner that reasonably demonstrates the counterparty can access information in the
+Electronic form used by the parties, (3) association of the signature with the counterparty’s Record,
+and (4) Record retention. By conforming with these laws, Afterpay is permitted to provide entities
+with information and certain notices electronically.
+4. Scope
+This Policy is established by Afterpay . This Policy is applicable to Afterpay’s Employees and sets out
+the approach to E-Sign compliance. This Policy has been created to ensure that Afterpay and
+relevant personnel are aware of and comply with expectations regarding E-Sign.
+5. Policy Requirements
+5.1 Policy Statement
+Afterpay is committed to complying with all applicable provisions of E-Sign.
+Wherever state or local regulations overlap and are stricter than the requirements set out in this
+Policy, the more conservative approach will be applied in those jurisdictions. If any applicable laws
+conflict with this Policy, Afterpay will consult with appropriate Legal Counsel to resolve the conflict
+and adjust Afterpay’s policies and procedures to ensure compliance.
+The standards set out in this Policy represent minimum requirements based on applicable legal and
+regulatory guidance and apply throughout Afterpay’s operations. These requirements are intended
+to prevent Afterpay’s Employees from violating federal and state regulations related to Consumer
+compliance with respect to applicable laws, regulations, and practices.
+5.2 Afterpay’s Policy Requirements
+● Consumer Notification.. Prior to obtaining the Consumer’s consent to Electronic disclosures,
+Afterpay will clearly and conspicuously inform the Consumer of the following:
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+○ An explanation of whether the consent applies to only a particular Transaction that
+triggered the disclosure or to specific categories of Records that may be provided
+electronically or made available as part of the customer relationship (such as disclosures,
+consents, policies, change-in-terms, adverse action notices, etc.)
+○ Any right or option to receive disclosures in paper form, the procedure, if any, for
+requesting a paper copy, and whether any fee will be charged to obtain a paper copy.
+○ A statement of the right to withdraw consent to receive Records electronically after giving
+initial consent, the procedure to withdraw such consent, and the consequences of doing
+so. The procedures the Consumer must follow to inform Afterpay of the Consumer’s
+updated Electronic contact information.
+○ The minimum hardware/software requirements needed to access and retain Electronic
+Records.
+● Consumer Consent. Afterpay requires that the Consumer consent to the receipt of Electronic
+Records. The Consumer must provide consent prior to Afterpay delivering any Electronic
+disclosures. The consent must include the following:
+○ The Consumer must affirmatively consent to receive Electronic disclosures.
+○ The Consumer must consent in a manner that reasonably demonstrates the ability of the
+Consumer to access information in the form that will be used to provide the disclosures.
+○ One cannot proceed in the application process without consenting to receive information
+and documents electronically. Agreeing to receive Electronic Records, notices, and
+disclosures by affirmatively agreeing to Afterpay's terms of services or other web-based
+agreements, which includes Consumer acknowledgement of one's ability to receive and
+download documents electronically is deemed by Afterpay as sufficient confirmation of
+consent.
+● Withdrawn Consent. A Consumer may withdraw their consent to receive Electronic Records
+and communications from Afterpay, using any method set forth in the disclosures provided to
+the Consumer pursuant to E-Sign, or such other methods Afterpay may support from time to
+time. At Afterpay’s option, it may treat a Consumer’s provision of an invalid e-mail address or
+phone number, or subsequent malfunction of a previously valid e-mail address or phone
+number, as a withdrawal of a Consumer’s consent to receive Electronic communications at the
+inoperative e-mail address or phone number.
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+Afterpay will not impose a fee to process the withdrawal of a Consumer’s consent to receive
+Electronic communications. Any withdrawal of a Consumer’s consent to receive Electronic
+communications will be effective only after Afterpay has had a reasonable period of time in which to
+process the customer’s withdrawal request.
+If a Consumer does not provide valid consent to receive Electronic communications from Aftepray, or
+upon the effective date of a Consumer’s withdrawal of such consent, Afterpay will provide any
+applicable communication to the Consumer in writing, and the Consumer will no longer receive
+Electronic communications from Afterpay. The Consumer will continue to have the option to
+Electronically download documents, communications, and records from Afterpayy’s website, in
+addition to receiving communications from Afterpay via USPS. The Consumer’s withdrawal of their
+consent to receive Electronic communications does not prohibit a Consumer from providing their
+consent to Electronic communications again in the future.
+● New Technology. If hardware and/or software requirements to receive Electronic disclosures
+change, Afterpay will provide notice to customers describing the new hardware and/or software
+requirements. The notice will also contain a statement that the Consumer has the right to revoke
+their consent to Electronic disclosures without incurring any fees or being subject to any new
+conditions not previously disclosed to the Consumer.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all employees are aware of that commitment and their
+individual responsibility.
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+Employees commensurate with job levels and responsibilities. All Employees engaged in the activity
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block’s Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.’s document retention
+guidelines.
+12. Related Documentation or References
+Related Documents:
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+Related Policy Block, Inc. Compliance Policy on Policies
+Related Program Block, Inc. Compliance Training Program
+Related References:
+Regulation Name Electronic Signatures in Global and National
+Commerce Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Electronic Signatures in National Commerce Act Policy | Afterpay US, Inc.
+11

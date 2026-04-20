@@ -1,0 +1,373 @@
+RETIRED
+2025 Compliance Training
+Calendar
+Block
+January 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc.
+and on a need-to-know basis.
+Compliance Training 2025 Annual Calendar | Block
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+Acronyms 4
+1. Introduction 5
+2. Training Calendar 5
+2.1 General Training 5
+2.2 Regional-Specific Training 6
+2.3 US Lending Training 8
+2.4 Compliance Organization Training 8
+3. 2025 Annual Enrollment Calendar 9
+4. Document Management 10
+4.1 Document Owner 10
+4.2 Review and Approval 11
+5. Exceptions 11
+6. Related Documents 11
+7. Revision & Approval History 11
+8. Document Details 12
+Compliance Training 2025 Annual Calendar | Block
+3
+
+Confidential and Not for Distribution
+Acronyms
+Terminology Acronym
+Anti-Harassement and Discrimination AHD
+Anti-Money Laundering AML
+Electronic Fund Transfer Act (Implemented by Regulation E) EFTA
+Equal Credit Opportunity Act ECOA
+Fair Credit Reporting Act FCRA
+Fair Debt Collection Practices Act FDCPA
+Gramm Leach Bliley Act GLBA
+Military Lending Act MLA
+Right to Financial Privacy Act RFPA
+Servicemembers Civil Relief Act SCRA
+Squareup Europe Ltd. SEL
+Squareup International Limited (Ireland) SIL
+Truth in Lending Act (Implemented by Regulation Z) TILA
+Unfair or Deceptive Acts or Practices UPAP
+Unfair, Deceptive, or Abusive Acts or Practices UDAAP
+Compliance Training 2025 Annual Calendar | Block
+4
+
+Confidential and Not for Distribution
+1. Introduction
+The Compliance Training Calendar (the “Calendar”) is updated and approved on an annual cadence
+and outlines the general and regional-specific training schedule for enterprise-wide mandatory
+compliance training, delivered through Block’s Learning Management System (“LMS”). This Calendar
+is created and maintained in accordance with the Compliance Training Program Standard and is
+owned by the Compliance Training Team (“CTT”).
+2. Training Calendar
+This Compliance Training Calendar is subject to change and any such changes would be subject to
+the approval standards of this document outlined in Section 4.2.
+2.1 General Training
+General training is assigned through Block’s LMS.
+Audience Topic Time to Complete Content Owner Testing/Scoring
+All employees only Code of Conduct New Hire: 30 days, Ethics Officer Not Applicable
+assigned within one
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+All US based staff* US Anti-Money New Hire: 30 days, BSA Officer 80%
+Laundering and assigned within one
+Counter Terrorist week of onboarding
+Financing
+Annual: 30 days,
+assigned once per
+year
+All non-US based Global Anti-Money New Hire: 30 days, Chief Compliance 80%
+staff* Laundering and assigned within one Officer
+Counter Terrorist week of onboarding
+Financing
+Annual: 30 days,
+assigned once per
+year
+All employees only Anti-Harassment and New Hire: 30 days, Employment 80%
+Discrimination assigned within one Counsel
+week of onboarding
+Compliance Training 2025 Annual Calendar | Block
+5
+
+Confidential and Not for Distribution
+Annual: 30 days,
+assigned once per
+year
+All Staff Global Complaints Annual: 30 days, Complaints Program Not Applicable
+Training assigned within the Manager
+first month of
+onboarding.
+* TIDAL and any employees who attend live Board of Directors training are exempted
+2.2 Regional-Specific Training
+Regional-specific training is assigned through Block’s LMS.
+Audience Topic Time to Complete Content Owner Testing/Scoring
+UK (Squareup UK Anti-Money New Hire: 30 days, Loans Compliance 80%
+Europe, Ltd.) Laundering (“AML”) assigned within one Program Manager
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+Clearpay AML Clearpay/UK AML New Hire: 7 days, Money Laundering 80%
+assigned within one Reporting Officer
+week of onboarding (“MLRO”) Clearpay
+UK
+Annual: 30 days,
+assigned once per
+year
+Squareup SIL AML New Hire: 30 days, Regulatory Program 80%
+International Ltd. assigned within one Manager, Ireland
+(“SIL”) week of onboarding (“IE”)/European
+Union (“EU”)
+Annual: 30 days,
+assigned once per
+year
+SIL Consumer Protection New Hire: 30 days, Regulatory Program 80%
+and Vulnerable assigned within one Manager, IE
+Customers week of onboarding
+Annual: 30 days,
+assigned once per
+year
+SEL Consumer Protection New Hire: 30 days, Regulatory Program 80%
+assigned within one Manager - Consumer
+week of onboarding Protection, UK
+Annual: 30 days,
+assigned once per
+year
+Compliance Training 2025 Annual Calendar | Block
+6
+
+Confidential and Not for Distribution
+Audience Topic Time to Complete Content Owner Testing/Scoring
+SIL International New Hire: 30 days, Regulatory Program 80%
+Accountability assigned within one Manager, IE
+Framework (IAF) week of onboarding
+Conduct Standards
+Annual: 30 days,
+assigned once per
+year
+SIL/SEL Outsourcing New Hire: 30 days, Third Party Risk Not Applicable
+assigned within one Manager
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+SIL/SEL Regulatory New Hire: 30 days, Regulatory Program 80%
+Environment assigned within one Manager, IE
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+SIL/SEL Safeguarding New Hire: 30 days, Regulatory Financial Not Applicable
+Training assigned within one Reporting Manager
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+Canada CAN AML New Hire: 30 days, MLRO Canada Not Applicable
+assigned within one
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+New Zealand NZ AML New Hire: 30 days, Compliance Analyst, 80%
+assigned within one ANZ
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+Select High Risk AU Enhanced New New Hire: 30 days, Compliance Program Not Applicable
+Australia (“AU”) Roles Hire Compliance assigned within one Manager, AU
+week of onboarding
+Annual: 30 days,
+assigned once per
+year
+Compliance Training 2025 Annual Calendar | Block
+7
+
+Confidential and Not for Distribution
+2.3 US Lending Training
+Audience Topic Time to Complete Content Owner Testing/Scoring
+Cash App Lending Consumer protection New Hire: 30 days, Lead Product 80%
+Applicable Roles and lending focused assigned within the Compliance Manager
+regulations including first month of - Cash App Lending
+UDAAP, UDAP, onboarding.
+ECOA, Regulation Z,
+TILA, GLBA, RFPA, Annual: 60 days,
+FDCPA, FCRA, SCRA, assigned once per
+MLA, Regulation E year.
+along with applicable
+topics
+Square Lending Consumer protection New Hire: 30 days, Regulatory 80%
+Applicable Roles and lending focused assigned within the Compliance Program
+regulations including first month of Manager, Lending
+UDAAP, UDAP, onboarding.
+ECOA, Regulation Z,
+TILA, GLBA, RFPA, Annual: 60 days,
+FDCPA, FCRA, SCRA, assigned once per
+MLA, Regulation E year.
+along with applicable
+topics
+Square Credit Card Consumer protection New Hire: 30 days, Product Compliance 80%
+Applicable Roles and lending focused assigned within the Manager, Seller
+regulations including first month of
+UDAAP, UDAP, onboarding.
+ECOA, Regulation Z,
+TILA, GLBA, RFPA, Annual: 60 days,
+FDCPA, FCRA, SCRA, assigned once per
+MLA, Regulation E year.
+along with applicable
+topics
+All of Cash App* Unfair, Deceptive, or Consumer Protection 80%
+Abusive Acts or Compliance Program
+Practices for the Lead
+Financial Institution
+(UDAAP and UDAP)
+Handling Consumer
+Complaints
+*Cash App Investing is excluded.
+2.4 Compliance Organization Training
+Audience Topic Time to Complete Content Owner Testing/Scoring
+All Compliance new Enhanced New Hire New Hire: 30 days, Compliance Training N/A
+hires Training assigned within the Program Manager
+first month of
+onboarding.
+Compliance Training 2025 Annual Calendar | Block
+8
+
+Confidential and Not for Distribution
+3. 2025 Annual Enrollment Calendar1
+The Compliance Training Calendar is subject to change based on new training requirements.
+Jan Feb Mar Apr May Jun July Aug Sep Oct Nov Dec
+Global AHD
+AML
+Code of
+Conduct
+Complaints
+Training
+US AHD
+AML
+Code of
+Conduct
+Consumer
+Protection/
+Lending
+SEL SEL AML
+SEL
+Consumer
+Protection
+SEL
+Vulnerable
+Customers
+1 Calendar is subject to change due to unanticipated business needs that may arise. All changes will require approval by the
+Compliance Training Lead and the updated 2025 Compliance Training Calendar will be published go/policy.
+Compliance Training 2025 Annual Calendar | Block
+9
+
+Confidential and Not for Distribution
+Jan Feb Mar Apr May Jun July Aug Sep Oct Nov Dec
+Clearpay UK
+SIL SIL AML
+SIL Consumer
+Protection
+SIL Individual
+Accountability
+Framework
+SIL &
+Outsourcing
+SEL
+Canada AfterPay AML
+SQ AML
+Retail
+Payments
+Activities Act
+Anti-Social
+Japan
+Forces
+Australian
+Financial
+ANZ
+Services
+License
+AU AML
+NZ AML
+4. Document Management
+4.1 Document Owner
+This document is owned by the Compliance Training Team Lead or their designee.
+Compliance Training 2025 Annual Calendar | Block
+10
+
+Confidential and Not for Distribution
+4.2 Review and Approval
+This document shall be reviewed and approved at least annually and as needed on an off-cycle basis
+in accordance with the Compliance Document Approval Matrix.
+5. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to
+these Standards, provided that the proposed exception or exemption does not violate applicable law.
+Document exception requests must be documented in writing, include a reason for a request, and
+provide a description of the controls that the Company will implement to mitigate risks associated
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to the
+Policy Governance Team at go/policyhelp. The Document Owner and/or designee will inform
+Compliance Leadership and applicable committees, as needed, of exceptions.
+6. Related Documents
+Related Program Compliance Training Standard Program |
+Block
+7. Revision & Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Katrina Carroll Regulatory Counsel Select
+Approval History
+Name Title Type Description Date
+Sherry Stevens Head of Creation N/A Feb 26, 2024
+Compliance
+Governance &
+Compliance Training 2025 Annual Calendar | Block
+11
+
+Confidential and Not for Distribution
+Reporting
+Sherry Stevens Head of Immaterial … Clarifying Mar 13, 2024
+Compliance language,
+Governance & document title
+Reporting update, linking
+related docs,
+formatting fixes
+Sherry Stevens Head of Material Ch… Addition of Jun 28, 2024
+Compliance missing courses
+Governance & to Annual
+Reporting Enrollment
+Calendar and
+clarifications
+made
+throughout to
+align with
+updated
+Compliance
+Training
+Standard.
+Sherry Stevens Head of Material Ch… Annual update Jan 31, 2025
+Governance & for 2025
+Program schedule and
+Support additions of new
+courses in the
+2025 calendar
+8. Document Details
+Business Block
+Scope Global
+Compliance Domain Compliance Governance
+Document Owner Compliance Training Lead
+Last Approval Date Jan 31, 2025
+Effective Date Jan 31, 2025
+Approved By Head of Governance & Program Support
+Document Review Schedule Annually
+Compliance Training 2025 Annual Calendar | Block
+12
+
+Confidential and Not for Distribution
+Compliance Training 2025 Annual Calendar | Block
+13

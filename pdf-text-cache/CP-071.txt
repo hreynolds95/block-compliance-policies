@@ -1,0 +1,336 @@
+Telephone Consumer
+Protection Act Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 6
+3. Purpose 6
+4. Scope 6
+5. Policy Requirements 6
+5.1 Policy Statement 6
+5.2 TCPA Policy Requirements 7
+6. Roles and Responsibilities 9
+7. Document Management 10
+7.1 Document Owner 10
+7.2 Review and Approval 10
+8. Training 10
+9. Monitoring and Reporting 10
+10. Exceptions 11
+11. Record Retention 11
+12. Related Documentation or References 11
+13. Revision and Approval History 12
+13.1 Stakeholder Review Tracking 12
+13.2 Approval History 12
+14. Document Details 12
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Advertisement Any material advertising the commercial availability or quality of any
+property, goods, or services.
+Automatic Equipment that has the capacity to store or produce telephone numbers
+Telephone Dialing to be called, using a random or sequential number generator and to dial
+System (“ADTS”) such numbers.
+Credit Products Encomasses Afterpay’s three lending products (Buy Now Pay Later, Pay
+Monthly, and AfterPay Plus) unless noted otherwise.
+Established For purposes of Telephone Solicitations, the term means a prior or
+Business existing relationship formed by a voluntary two-way communication
+Relationship between Afterpay and a residential subscriber with or without an
+exchange of consideration, on the basis of the subscriber’s purchase or
+transaction with Afterpay within the 18 months immediately preceding
+the date of the telephone call or on the basis of the subscriber's inquiry
+or application regarding products or services offered by Afterpay within
+the three months immediately preceding the date of the call, which
+relationship has not been previously terminated by either party.
+For purposes of facsimile Advertisements, the term means a prior or
+existing relationship formed by a voluntary two-way communication
+between Afterpay and a business or residential subscriber with or
+without an exchange of consideration, on the basis of an inquiry,
+application, purchase, or transaction by the business or residential
+subscriber regarding products offered by Afterpay, which relationship
+has not been previously terminated by either party.
+Prior Express An agreement, in writing, bearing the signature of the person called that
+Written Consent clearly authorizes Afterpay to deliver or cause to be delivered to the
+person called Advertisements or Telemarketing messages using an
+Automatic Telephone Dialing System or an artificial or prerecorded voice,
+and the telephone number to which the signatory authorizes such
+Advertisements or Telemarketing messages to be delivered.
+The written agreement must include a clear and conspicuous disclosure
+informing the person signing that:
+● By executing the agreement, such person authorizes Afterpay to
+deliver or cause to be delivered to the signatory Telemarketing
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+calls using an Automatic Telephone Dialing System or an artificial
+or prerecorded voice; and
+● The person is not required to sign the agreement (directly or
+indirectly), or agree to enter into such an agreement as a
+condition of purchasing any property, goods, or services.
+The “signature” required for Prior Express Written Consent includes an
+electronic or digital form of signature, to the extent that such form of
+signature is recognized as a valid signature under applicable federal law
+or state contract law.
+Seller The person or entity on whose behalf a telephone call or message is
+initiated for the purpose of encouraging the purchase or rental of, or
+investment in, property, goods, or services, which is transmitted to any
+person.
+Telemarketer The person or entity that initiates a telephone call or message for the
+purpose of encouraging the purchase or rental of, or investment in,
+property, goods, or services, which is transmitted to any person.
+Telemarketing The initiation of a telephone call or message for the purpose of
+encouraging the purchase or rental of, or investment in, property, goods,
+or services, which is transmitted to any person.
+Telephone Equipment which has the capacity to transcribe text or images, or both,
+Facsimile Machine from paper into an electronic signal and to transmit that signal over a
+regular telephone line, or to transcribe text or images (or both) from an
+electronic signal received over a regular telephone line onto paper.
+Telephone The initiation of a telephone call or message for the purpose of
+Solicitation encouraging the purchase or rental of, or investment in, property, goods,
+or services, which is transmitted to any person. The term does not
+include a call or message:
+● To any person with that person's prior express invitation or
+permission
+● To any person with whom the caller has an Established Business
+Relationship, or
+● By a tax-exempt nonprofit organization.
+Unsolicited Any material advertising the commercial availability or quality of any
+Advertisement property, goods, or services which is transmitted to any person without
+that person's prior express invitation or permission, in writing or
+otherwise.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+2. Introduction
+This Telephone Consumer Protection Act Policy (“Policy”) outlines Afterpay US, Inc.’s commitment to
+comply with the Telephone Consumer Protection Act (“TCPA”). Cash App’s Head of Compliance
+and/or their designee is responsible for the management of this Policy.
+3. Purpose
+The purpose of this Policy is to demonstrate Afterpay’s commitment to comply with the applicable
+requirements of the TCPA.
+This Policy outlines the requirements for adhering to TCPA as they pertain to the Credit Products
+offered by Afterpay. The TCPA restricts and limits how entities can contact consumers via facsimile or
+telephone, including landline and wireless numbers. In general, calls subject to the TCPA require the
+recipient’s consent. The type and nature of consent required depends on whether the call or text
+message is placed for “Telemarketing” purposes or for “informational” purposes.
+4. Scope
+This Policy is established by Afterpay. This Policy establishes guidelines for Afterpay’s suite of Credit
+Products, unless stated otherwise. This Policy has been created to ensure that Afterpay Employees
+are aware of and comply with applicable obligations under the TCPA.
+5. Policy Requirements
+5.1 Policy Statement
+Afterpay does not currently engage in Telemarketing or outbound calls to existing and prospective
+customers for its Credit Products. In the event that Afterpay chooses to amend its practices, Afterpay
+is committed to complying with applicable requirements of TCPA.
+This Policy outlines the requirements that govern when Afterpay must obtain prior express consent,
+or Prior Express Written Consent before contacting consumers. The Policy also describes the
+requirements for Afterpay to evaluate whether a call can be made to a number that is registered on
+a do-not-call list, and outlines the restrictions that apply to Advertisements sent via facsimile.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+5.2 TCPA Policy Requirements
+● Autodialed Telephone Numbers. Afterpay does not currently use an ATDS or
+artificial/pre-recorded voice calls. In the event Afterpay elects to use those functions as
+part of its business operations, Afterpay will comply with the relevant TCPA
+requirements.
+● Autodialed Text Messages. Autodialed text messages, including Internet-to-phone
+text messages, require the same type of consent as that required for an equivalent call
+to a wireless phone number—Prior Express Written Consent for Telemarketing texts
+and prior express consent for informational texts. Therefore, Afterpay must obtain
+either prior express consent or Prior Express Written Consent as necessary before
+sending such text messages to consumers.
+● Revocation of Consent. Afterpay will monitor a consumer’s account to determine
+whether a consumer has revoked prior express consent or Prior Express Written
+Consent. A consumer can revoke consent using any “reasonable” method, which
+includes oral or written revocation. Afterpay will not limit a consumer’s ability to revoke
+consent by requiring consumers to use an exclusive means of revocation.
+● Timing of Telephone Solicitations. Afterpay will not initiate any Telephone
+Solicitation to any residential telephone subscriber (landline) or wireless telephone
+numbers before the hour of 8 a.m. or after 9 p.m. (local time at the called party’s
+location).
+● National Do Not Call List. Afterpay will comply with the TCPA’s restrictions that apply
+to consumers who have registered his or her telephone numbers on the national
+do-not-call (“DNC”) registry. The TCPA prohibits Afterpay from initiating Telephone
+Solicitations to a residential telephone subscriber as well as any wireless telephone
+subscriber who has registered his or her telephone number on the national DNC
+registry. This restriction applies to all Telephone Solicitations, including those that are
+non-ATDS live person calls. Afterpay will honor national DNC registrations indefinitely,
+or until the registration is canceled by the consumer or the telephone number is
+removed from the database.
+Telephone solicitation does not include calls or text messages made with the
+recipient’s prior express permission or to any person with whom the caller has an
+Established Business Relationship with Afterpay.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+● Internal Do Not Call Lists. Afterpay will institute policies and procedures for
+maintaining an internal DNC list, which includes all requests received from customers
+to stop receipt of text messages. The TCPA prohibits entities from initiating any calls
+for Telemarketing purposes to a residential telephone subscriber or a wireless number
+unless the entity has instituted procedures for maintaining an internal DNC list.
+Afterpay will implement procedures for maintaining a list of residential telephone or
+wireless subscribers who have made specific requests to Afterpay not to receive
+Telemarketing calls, including: (1) a written policy for maintaining a DNC list; (2)
+training personnel engaged in Telemarketing about how to use and adhere to
+Afterpay's DNC list; (3) recording DNC requests and honoring such requests within a
+reasonable time not to exceed 30 days; (4) meeting certain requirements that identify
+the Sellers and Telemarketers on calls; and (5) continuing to honor the request for five
+years from the time the request is made.
+● Established Business Relationship Exception. Afterpay will monitor to ensure that a
+consumer has not taken actions that would terminate the Established Business
+Relationship and Afterpay's ability to rely on this exception to the DNC call restrictions.
+Even if a consumer continues to do business with Afterpay, an internal DNC request,
+as discussed above, terminates an Established Business Relationship for purposes of
+Telemarketing and Telephone Solicitations made to consumers on the DNC registry.
+In addition, the consumer’s Established Business Relationship with Afterpay does not
+extend to affiliated entities unless the consumer would reasonably expect them to be
+included given the nature and type of goods or services offered by the affiliate and the
+identity of the affiliate.
+● Artificial and Prerecorded Voice Messages. Afterpay does not currently use artificial
+or prerecorded voice messages. If Afterpay uses artificial or prerecorded voice
+messages, Afterpay will provide the relevant disclosures required by the TCPA when
+the messages are used for Telemarketing calls, including a mechanism to opt out of
+such calls.
+● Caller Identification. When engaged in Telemarketing, Afterpay must transmit Caller
+ID information and is prohibited from blocking Caller ID. In the event Afterpay
+conducts any Telemarketing, it is Afterpay’s policy to not engage in any Caller ID
+spoofing.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+● Lead Generation Rule. Should Afterpay choose to engage in utilizing third-parties to
+make marketing calls on Afterpay's behalf, Afterpay will obtain consumer’s express
+written consent to receive robocalls and robotexts one marketing partner at a time.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect Afterpay’s commitment to compliance
+and that all employees are aware of that commitment and their
+individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all
+employees commensurate with job levels and responsibilities. All employees engaged in the activity
+or performing services subject to the requirements of this Policy will receive the appropriate training
+upon hire and periodically thereafter. All training activities are monitored by the Compliance Team
+and are outlined in Block, Inc.’s Compliance Training Program.
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.'s document retention
+guidelines. Additionally, TCPA specifically requires Afterpay to maintain TCPA-related records for at
+least 48 months. This includes all information on text campaigns, including numbers, content,
+opt-in(s), opt-out(s), and any other relevant records. All records related to compliance with the TCPA
+for any Afterpay account must be maintained for at least 48 months and in accordance with
+Afterpay’s record retention policies and practices.
+12. Related Documentation or References
+Related Documents:
+Related Policy Block, Inc. Compliance Policy on Policies
+Related References:
+Regulation Name Telephone Consumer Protection Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+11
+
+Confidential and Not for Distribution
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Telephone Consumer Protection Act Policy | Afterpay US, Inc.
+12

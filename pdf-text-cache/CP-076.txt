@@ -1,0 +1,516 @@
+Archived
+Electronic Fund Transfer
+Act (Regulation E) Policy
+Cash App | U.S.
+July 2025
+Last Approval Date
+
+Confidential
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Block, Inc. and on a
+need-to-know basis.
+Regulation E | Cash App
+2
+
+Confidential
+Table of Contents
+Definitions 4
+1. Introduction 8
+2. Purpose 8
+3. Scope 8
+4. Policy Requirements 9
+4.1 Disclosures and Periodic Statements 9
+4.2 Preauthorized Electronic Funds Transfers 10
+4.3 Error Resolution 10
+4.4 Access Devices 11
+4.5 Overdraft Services 11
+4.6 Prepaid Accounts 11
+4.7 Public Posting of Prepaid Account Agreements 12
+4.8 Gift Cards 13
+4.9 Remittance Transfers 13
+5. Document Management 14
+5.1 Document Owner 14
+5.2 Review and Approval 14
+6. Training 15
+7. Monitoring and Reporting 15
+8. Exceptions 16
+9. Record Retention 16
+10. Related Documentation or References 17
+11. Revision and Approval History 17
+12. Document Details 18
+Regulation E | Cash App
+3
+
+Confidential
+Definitions
+Definitions
+For purposes of this Policy, unless otherwise stated, the following definitions shall apply1.
+Terminology Definition
+Access Device A card, code, login credentials or other means of access to a Consumer’s
+account, or any combination of devices, which may be used by the
+Consumer to initiate an EFT. This could be the Consumer's Cash Card,
+phone, computer/laptop, or login information. Anything that Cash App’s
+Consumers use to access their funds.
+Bank Partners The state-chartered, FDIC-insured financial institutions with whom Cash
+App partners to issue the Cash Card prepaid debit card and to offer
+Borrow loans.
+Consumer Consumer generally refers to a Customer who is an individual. The
+definition may vary from jurisdiction to jurisdiction. In the U.S., for
+example, a Consumer is defined by the Consumer Financial Protection
+Bureau (“CFPB”) as an individual who obtains or has obtained a financial
+product or service that is to be used primarily for personal, family or
+household purposes.
+Cash App Balance Cash App’s Consumer’s balance, which consists of the funds in their Cash
+App account, that may be used by the Consumer for new transactions
+and are not subject to pending transactions.
+Electronic Fund Transfer Any transfer of funds that is initiated through an Electronic Terminal,
+telephone, computer, or magnetic tape for the purpose of ordering,
+instructing, or authorizing a financial institution to debit or credit a
+Consumer's account. The term includes, but is not limited to:
+● Point-of-sale transfers;
+● Automated teller machine transfers;
+● Direct deposits or withdrawals of funds;
+● Transfers initiated by telephone; and
+● Transfers resulting from debit card transactions, whether or not
+initiated through an Electronic Terminal.
+1 Many terms defined in this Policy are also defined in Cash App’s Terms of Service. Modifications to definitions in
+this Policy should also be made to those in the Terms of Service (and vice versa).
+Regulation E | Cash App
+4
+
+Confidential
+Electronic Terminal An electronic device other than a telephone operated by a Consumer,
+through which a Consumer may initiate an EFT, including point-of-sale
+terminals, ATMs and cash dispensing machines.
+Error The term Error means:
+● Unauthorized EFTs;
+● Incorrect or missing transfers to or from a Consumer’s account;
+● Omission of a transaction from a periodic statement;
+● Computational or bookkeeping Errors;
+● Receipt of an incorrect amount from an Electronic Terminal; and
+● Requests for documentation (unless requesting a duplicate copy),
+or requests for information concerning a transaction or
+clarification to determine whether an “Error” specified above
+exists.
+For Remittance Transfers, the term Error also means:
+● An incorrect amount paid by a sending customer, unless the
+remittance disclosures stated an estimate of the amount paid by
+the sender and the difference results from application of the
+actual exchange rate, fees, and taxes, rather than any estimated
+amount;
+● Failure to make available to a designated recipient the amount of
+currency disclosed (unless certain conditions are met); and
+● Failure to make funds available to a designated recipient by the
+date of availability stated in the disclosure provided to the sender
+(unless certain conditions are met).
+Notice of Error (“NOE”) A written or oral communication from Cash App’s Consumer indicating
+that the Consumer believes there is an Error on their Cash App account,
+and that:
+● Provides sufficient information for Cash App to identify the
+Consumer’s name and account number; and
+● Indicates why the Consumer believes an Error exists and includes
+to the extent possible the type, date, and amount of the alleged
+Error.
+For Remittance Transfers, a NOE is a written or oral communication from
+a Sender indicating the Sender believes there is an Error related to a
+Remittance Transfer sent from their Cash App account, and that: Provides
+sufficient information for Cash App to identify the Sender’s name, phone
+number, and address, the Remittance Transfer recipient’s name, and if
+known phone number or address; and
+Regulation E | Cash App
+5
+
+Confidential
+● Indicates why the Sender believes an error exists and includes to
+the extent possible the type, date, and amount of the error of the
+Remittance Transfer to which the notice of error applies
+Preauthorized Electronic An EFT authorized in advance to recur at substantially regular intervals.
+Fund Transfer
+Prepaid Account An account that is issued on a prepaid basis in a specified amount or not
+issued on a prepaid basis but capable of being loaded with funds
+thereafter. The primary function of a Prepaid Account is to conduct
+transactions with multiple, unaffiliated merchants for goods or services,
+or at Automated Teller Machines (“ATM”), or to conduct person-to-person
+transfers.
+Provisional Credit A temporary credit that may be applied to Cash App’s Consumer’s
+account during their NOE investigation if Cash App is not able to reach a
+decision within ten (10) business days.
+Remittance Transfer The electronic transfer of funds from a Consumer in the United States to
+a recipient in a foreign country. The transfer must be initiated by a
+remittance transfer provider and be greater than $15.00 U.S. dollars.
+●
+Unauthorized EFT An EFT from a Consumer's account initiated by a person other than the
+Consumer without actual authority to initiate the transfer and from which
+the Consumer receives no benefit.
+The term does not include an EFT initiated:
+● By a person who was furnished the Access Device by the
+Consumer (i.e., authorized user), unless the Consumer has
+notified Cash App that transfers by that person are no longer
+authorized;
+● With fraudulent intent by the Consumer or any person acting in
+concert with the Consumer; or
+● By Cash App or its employees.
+Roles and Responsibilities
+Role Responsibility
+Business Lines Implement requirements of this Policy and escalate any exceptions,
+violations, or other identified risks to Compliance and/or Legal.
+Regulation E | Cash App
+6
+
+Confidential
+Cash App Head of The Cash App Head of Compliance is responsible for:
+Compliance (“Head of ● Reviewing and approving this Policy,
+Compliance”) ● Ensuring this Policy reflects industry best practices and
+applicable regulatory guidance,
+● Ensuring that appropriate Staff Members are trained on
+EFTA/Regulation E at least annually commensurate with their
+roles and responsibilities.
+As appropriate, the Head of Compliance may delegate the above
+responsibilities to relevant Senior Management, the Cash App Consumer
+Protection Compliance Lead or Compliance Staff who inform and
+escalate key risks and Issues to the Head of Compliance.
+Cash App Consumer Cash App Consumer Protection Compliance Lead as the owner of this
+Protection Compliance Policy is responsible for:
+Lead ● Serving as the subject matter expert for content relevant to this
+Policy,
+● Developing the Policy to meet regulatory expectations,
+● Ensuring regulatory requirements are included in
+documentation,
+● Providing and communicating roles and responsibilities to
+relevant stakeholders including business partners,
+● Liaising with relevant stakeholders to complete Policy updates,
+● Conducting periodic review(s) of the Policy, and
+● Delegating and overseeing documentation requirements, as
+needed.
+Compliance Staff Provide oversight and guidance to Business Units in implementing the
+requirements of this Policy.
+Legal Counsel Identify applicable Regulation E requirements, new and existing, and
+provide feedback and guidance on related questions, as needed, from
+Business Units and Compliance.
+Regulation E | Cash App
+7
+
+Confidential
+1. Introduction
+This Electronic Fund Transfer Act Policy (“Policy”) outlines Cash App’s (“Cash App”), U.S. commitment to
+adhering to regulatory requirements as well as industry standards and best practices in the delivery of its
+products and services. This Policy is applicable in the United States across all Cash App products that involve
+Electronic Fund Transfers (“EFT”) as those transactions are defined under the Electronic Fund Transfer Act
+(“EFTA”) (15 U.S.C. §§ 1693 et seq.) and its implementing regulation, Regulation E (12 C.F.R. Part 1005). The
+Consumer Protection Compliance Program Lead is responsible for the management of this Policy.
+The purpose of the EFTA and Regulation E is to establish the basic rights, liabilities, and responsibilities of
+Consumers who use EFT and Remittance Transfer services and of the financial institutions or other persons, like
+Cash App, that offer these services. The primary objective of the EFTA and Regulation E is the protection of
+individual Consumers engaging in EFTs and Remittance Transfers.
+2. Purpose
+The purpose of this Policy is to set forth the expectations that Cash App will comply with the EFTA and
+Regulation E, and manage and implement the requirements of EFTA and Regulation E as outlined in this Policy.
+3. Scope
+This Policy is established for Cash App, U.S. a Line of Business under Block, Inc., and is applicable to the Cash App
+business and related products and services.
+Various Cash App activities may be subject to requirements and prohibitions under the EFTA and Regulation E
+covers EFT activities at both banks (such as Cash App’s Bank Partners) and non-bank companies like Cash App.
+These activities include:
+1. Development and distribution of disclosures and periodic statements;
+2. Execution of preauthorized transfers;
+3. Intake, investigation, and resolution of Errors and unauthorized transfers;
+4. Issuance of Access Devices;
+Regulation E | Cash App
+8
+
+Confidential
+5.
+6. Development and delivery of disclosures for Prepaid Accounts;
+7. Public posting of Prepaid Accounts;
+8. Issuance of gift cards;
+9. Execution of Remittance Transfers;
+10. Risk and compliance management programs, to ensure Policy and regulatory requirements are met;
+and
+11. Recordkeeping to demonstrate compliance with Regulation E.
+4. Policy Requirements
+As noted above, various Cash App activities may be subject to requirements and prohibitions under the EFTA and
+Regulation E, and thus are covered by this Policy. The following sections discuss key activity areas and particular
+Policy expectations relating thereto.
+4.1 Disclosures and Periodic Statements
+Cash App will provide disclosures required by Regulation E to its Consumers in a form that is clear, readily
+understandable, written in English, and can be kept by Consumers. The scope of disclosures provided by Cash
+App to its Consumers includes, but is not limited to:2
+● Initial Disclosures. Provided before a Cash App Consumer can make an EFT, including information
+such as the liability of Cash App and the Consumer for Unauthorized EFTs, Cash App contact
+information, available transfer types and limitations, applicable fees (including those for ATMs), the
+Consumer’s right to documentation and stop payment, and Cash App’s confidentiality agreement.
+● Change in Terms Disclosures. Provided at least 21 days before the effective date of any change in a
+term or condition that was disclosed initially, if the change would result in: increased fees for the
+Consumer, increased liability for the Consumer, changes in types of EFTs available, or stricter
+limitations on the frequency or dollar amount of transfers.
+● Error Resolution Disclosures. Indicate how a Consumer can contact Cash App to file a NOE, provided
+with the initial disclosure and thereafter either annually or with each periodic statement.
+2 For disclosure requirements specific to Prepaid Accounts, see section 5.6 – Prepaid Account Requirements for additional
+requirements. For disclosure requirements specific to gift cards, see section 5.8 – Gift Cards for additional requirements.
+Regulation E | Cash App
+9
+
+Confidential
+● Receipts. Provided to a Consumer each time the Consumer initiates an EFT at an Electronic Terminal,
+including the dollar amount of the EFT, date, type, Consumer identification, terminal information, and
+the third-party where funds were transferred to/from.
+● Periodic Statements. Provided monthly to each Consumer that has had an EFT processed on their
+Cash App account during the statement period, including transaction information, account number,
+fees, account balance, and Cash App contact information.
+4.2 Preauthorized Electronic Funds Transfers
+Cash App will execute Preauthorized EFTs for its Consumers, upon request and with written authorization, and
+provide a written notice of transfer within two (2) business days after the transfer occurs (or is rejected) if the
+Preauthorized EFT is scheduled to transfer at least once every sixty (60) days.
+Cash App will stop payment of a Preauthorized EFT when it receives a stop payment request (orally or in writing)
+at least three (3) business days before the date of the next scheduled transfer, from a Consumer who has
+initiated the Preauthorized EFT.
+Cash App will not require Consumers to repay any extension of credit by Preauthorized EFT.
+4.3 Error Resolution
+See “Remittance Transfers” section below for Error resolution requirements applicable to Remittance Transfers.
+Cash App will provide its Consumers with alternative means to contact Cash App to provide a NOE, such as
+through the app, chat messaging, by calling Cash App, or by mailing a letter to Cash App. Cash App will promptly
+and reasonably address such NOEs as required by Regulation E. Cash App will not require its Consumers to
+provide more information than is described in Regulation E before Cash App initiates an investigation.
+Cash App will seek to resolve NOEs within ten (10) business days but, where circumstances so require, may take
+up to forty-five (45) calendar days to do so, provided that in such circumstances Cash App will:
+● Provisionally credit the funds (including interest, where applicable) to the Consumer’s account within
+ten (10) business days;
+● Advise the Consumer within two (2) business days of the Provisional Credit; and
+● Give the Consumer full use of the funds during the investigation.
+Regulation E | Cash App
+10
+
+Confidential
+If, after forty-five (45) calendar days, Cash App has not determined whether an Error has occurred, Cash App will
+make the Consumer’s Provisional Credit permanent.
+In the event that no Error, or a different Error occurred Cash App will:
+● Provide notification to the customer advising that the Provisional Credit will be debited within five (5)
+business days from the notification; and
+● Specify the calendar date in which the debiting of the Provisional Credit will occur.
+Upon completion of Cash App’s investigation, Cash App will promptly report its determination to the Consumer,
+and notify them of their right under Regulation E that they may request the information upon which its
+investigation was based. If Cash App finds that an Error did occur, Cash App will refund its Consumer (or, if
+applicable, finalize Provisional Credit) and provide any interest or refunds for related fees incurred within one (1)
+business day. A Consumer might be held liable for an Unauthorized EFT in circumstances where Cash App has
+provided accurate disclosures and the Consumer did not provide timely notice, as described in Regulation E.
+4.4 Access Devices
+Cash App will only distribute Access Devices (i.e., Cash Cards) to Consumers who are soliciting a new or
+replacement Access Device. Cash App will not distribute unsolicited Access Devices, unless required by law or
+for purposes of account security.
+4.5 Overdraft Services
+Cash App does not provide overdraft services, as that term is defined under Regulation E, with respect to any of
+its products or services.
+4.6 Prepaid Accounts
+Cash App will provide all disclosures described in this section before a Consumer acquires a Prepaid Account.
+Prepaid Account disclosures must be:
+● Provided to the Consumer in an electronic form when a Consumer acquires the Prepaid Account
+through electronic means, including via a website or mobile application;
+● Provided in a form that the Consumer can keep;
+Regulation E | Cash App
+11
+
+Confidential
+● Provided in table form;
+● Organized and grouped in accordance with the requirements of 12 CFR 1005.18(b)(7);
+● Provided in single, easy-to-read type that is all black or one color and printed on a background that
+provides a clear contrast and using the font sizes and types that comply with the requirements of 12
+CFR 1005.18(b)(7)(ii)(B); and
+● Presented in a manner that uses fee names and other terms consistently within and across the
+disclosures.
+Cash App will provide a short-form disclosure for Prepaid Accounts that will include information (applicable to
+Cash App) such as the periodic fee, per purchase fee, ATM withdrawal fee, cash reload fee, ATM balance inquiry
+fee, customer service fee, inactivity fee, variable fee, third-party fee, any other types of fees (as appropriate),
+information about Federal Deposit Insurance Corporation (“FDIC”)/National Credit Union Administration (“NCUA”)
+insurance and registration, and identification of the CFPB website for further information.
+In addition, Cash App will provide a long form disclosure for Prepaid Accounts that includes content such as a
+heading, fees, information on FDIC/NCUA insurance and registration, Cash App Contact information, and the
+CFPB website and telephone number.
+Outside of, but in close proximity to, the short form disclosure, Cash App will disclose its name, the name of the
+Prepaid Account program, any purchase price for the Prepaid Account, and any fee for activating the Prepaid
+Account.
+4.7 Public Posting of Prepaid Account Agreements
+Cash App and its Bank Partner and prepaid card issuer will be responsible for updating the CFPB with any
+material changes to the cardholder agreements for both non-Cash Card and Cash Card Prepaid Accounts,
+respectively. Cash App and its Bank Partner will submit Prepaid Account agreements to the CFPB on a rolling
+basis, no later than thirty (30) days after offering, amending, or ceasing to offer any Prepaid Account agreement.
+Such submissions must contain identifying information about the issuer and the agreement, the effective date,
+the name of the program manager (if any), and the names of other relevant parties.
+Cash App will post all Prepaid Account agreements that are submitted to the CFPB on its website in a form that
+is readily usable by Consumers and complies with the requirements described by Regulation E.
+Regulation E | Cash App
+12
+
+Confidential
+4.8 Gift Cards
+Cash App offers digital gift cards that can be sent by a Cash App Consumer to any other Cash App Consumer.
+Prior to purchasing a gift card, the Consumer will be provided disclosures from Cash App regarding terms and
+conditions of expiration. The disclosures must be clear and conspicuous and contain commonly accepted or
+readily understandable abbreviations or symbols. In addition, a disclosure regarding the fund’s expiration terms
+must appear electronically on the same screen as the digital gift card. After the gift card has been purchased,
+Cash App will change neither the fees nor terms and conditions of expiration that were disclosed prior to
+purchase.
+4.9 Remittance Transfers
+Cash App offers Remittance Transfer services allowing its Consumers to send and receive money internationally.
+Cash App will disclose to its Consumers, before they pay for a Remittance Transfer, required information such as
+the amount transferred, fees collected by Cash App, taxes incurred, total amount charged to the sender,
+exchange rate used, applicable third-party fees, amount to be received by the designated recipient, and a
+cancellation rights statement.
+Cash App will adhere to requests to cancel Remittance Transfers if made within thirty (30) minutes of the
+payment made when:
+● The request to cancel enables Cash App to identify the sender’s name and address or telephone
+number and the particular transfer to be cancelled; and
+● The transferred funds have not been picked up by the designated recipient or deposited into an
+account of the designated recipient.
+Cash App will investigate a sender’s claim of an Error related to a Remittance Transfer when the NOE is received
+from the sender within one hundred and eighty (180) calendar days of the disclosed funds’ availability date. Cash
+App will determine whether an Error occurred within ninety (90) calendar days of receiving a NOE.
+Within three (3) business days of completing an Error investigation, Cash App will notify the sender of the results
+of the investigation. If Cash App determines an Error occurred, Cash App will correct the Error as designated by
+Regulation E | Cash App
+13
+
+Confidential
+the sender within one (1) business day of, or as soon as reasonably practicable after, receiving the sender’s
+instructions regarding the appropriate remedy. Cash App, as appropriate, either will:
+● Refund the amount of funds provided by the sender in connection with a Remittance Transfer which
+was not properly transmitted, or the amount appropriate to resolve the Error; or
+● Send the original amount as requested by the sender.
+If the Error resulted because the recipient didn’t receive the amount by the date initially disclosed, then Cash
+App will do one of the following as applicable:
+● Refund to the sender the amount of funds which was not properly transmitted, or the amount
+appropriate to resolve the Error;
+● Make available to the designated recipient the amount appropriate to resolve the Error, without any
+additional cost to either party; or
+● Refund any fees to the sender and, to the extent not prohibited by law, taxes imposed for the
+Remittance Transfer, unless the sender provided incorrect or insufficient information to Cash App in
+connection with the Remittance Transfer.
+If it is determined that no Error or a different Error from what is alleged occurred, Cash App will provide written
+notification to the sender of Cash App’s findings, which will note the sender’s right to request information that
+Cash App relied upon in making its determination. If the sender requests copies of documentation that Cash App
+relied on during its investigation, Cash App will provide such documentation. Cash App will provide further
+remedies to the sender as required by Regulation E and other relevant Cash App policies.
+5. Document Management
+5.1 Document Owner
+This document is owned by the Consumer Protection Program Compliance Lead or their designee.
+5.2 Review and Approval
+This document shall be reviewed and approved at least annually and on an ad hoc basis in accordance with the
+Compliance Document Approval Matrix.
+Changes to this Policy require review and approval in the following order prior to becoming effective:
+Regulation E | Cash App
+14
+
+Confidential
+● Cash App’s Regulatory Counsel
+● Cash App’s U.S. Trust Consumer Protection Compliance Manager
+● Cash App’s Consumer Protection Compliance Lead
+Once all approvals are documented, the Bank Partners receive a copy of the approved Policy. Cash App adopts
+and follows written procedures to implement and meet the standards set forth in this Policy. In addition, any
+significant procedural changes are communicated to applicable staff by the Head of Compliance, Cash App, or
+their designee or through an appropriate communication channel or training in a timely manner.
+6. Training
+All relevant personnel will receive training at least annually covering applicable requirements and guidance to
+implement this Policy effectively. All training activities are monitored by the Compliance Team and are outlined
+in the Compliance Training Program.
+7. Monitoring and Reporting
+Cash App Compliance and Cash App Legal will provide oversight and support to the business units to ensure the
+expectations of this Policy are fully and consistently met. Oversight of this Policy will include:
+● Testing and Monitoring
+○ Performing sample testing of Error resolution activities, as well as distributed disclosures,
+notices, and receipts, to ensure they comply with Policy and regulatory requirements; and
+○ Monitoring key metrics and figures (e.g., volume, time to resolution) related to Error
+resolution to understand risks in adhering to this Policy and regulatory requirements.
+● Third-Party Oversight
+○ Monitoring the performance of third-party suppliers, including their adherence to contract
+stipulations and regulatory requirements.
+● Issue Management
+○ Identifying and documenting risks or instances of noncompliance with this Policy as issues to
+be promptly recorded and resolved.
+● Reporting
+Regulation E | Cash App
+15
+
+Confidential
+○ Providing the results of testing, monitoring, third-party oversight, and issue management to
+senior leadership.
+8. Exceptions
+The Document Owner or designee will have authority to approve exceptions and/or exemptions to this Policy,
+provided that the proposed exception or exemption does not violate applicable laws and regulations. Policy
+exception requests must be documented in writing, include a reason for a request, and provide a description of
+the controls that the Company will implement to mitigate risks associated with the exception. Any approved
+exceptions must be documented in writing and retained with recordkeeping requirements. Any approved
+exceptions or exemptions should be submitted to the Policy Governance Team at go/policyhelp. The Document
+Owner and/or designee will inform Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+Cash App will retain evidence of compliance with the requirements of Regulation E, and otherwise with
+respect to activities related to adherence to this Policy for a period of time listed below, and which has the
+longest duration:
+● Regulation E/EFTA requirements: for a minimum of two (2) years from the date disclosures are
+required to be made or action is required to be taken;
+● Time period required under applicable administrative proceedings, consent orders, or other legal
+or regulatory matters;
+● Time period consistent with obligations set forth by the Block Data Retention Standard (e.g., where
+such data may pertain to a complaint and therefore have additional retention requirements); or
+● In instances where Cash App receives notice of an investigation, enforcement proceeding by an
+enforcement agency, or is served notice of an action filed under sections 910, 916, or 917(a) of the
+EFTA, Cash App will retain the records that pertain to the investigation, action, or proceeding until
+final disposition of the matter unless an earlier time is allowed by court or agency order.
+Documents evidencing compliance with 12 C.F.R. § 1005.13(b)(1) may include:
+● Policies and procedures, including prior versions
+Regulation E | Cash App
+16
+
+Confidential
+● Disclosures to consumers, including (account terms, fees, error resolution procedures, etc.; such
+as “Terms of Service”, “Account Agreement”, periodic statements, which include error resolution
+notices)
+● Consumer consent and authorization records
+● Documentation of error resolution processes, investigations, outcomes, and correspondence
+● Transaction records (e.g., periodic statements, remittance receipts)
+● Internal compliance and procedural documentation related to Reg E (e.g., “Knowledge Articles”)
+● Notices related to changes in fees or terms
+● EFTA / Reg. E training material and evidence of employee training completion records
+Please see Block’s Data Retention Standard for further details.
+10. Related Documentation or References
+Related References:
+Electronic Fund Transfer Act (“EFTA”) 15 U.S.C. §§ 1693 et seq.
+Regulation E 12 C.F.R. Part 1005
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Brian Kollmeyer Consumer Protection Reviewed/Approved Sep 3, 2024
+Program Compliance
+Lead
+Sarah Edwards Payments Regulatory Reviewed/Approved Aug 25, 2024
+Counsel, Cash App
+Approval History
+Approver Title Type Description Date
+Tyler Hand Head of Initial Approval None Oct 17, 2023
+Regulation E | Cash App
+17
+
+Confidential
+Compliance, Cash
+App
+Brian Kollmeyer Consumer Reviewed/App… None Aug 25, 2024
+Protection Program
+Compliance Lead
+Jason Liberman Interim Head of Material Chan… None Sep 25, 2024
+Compliance, Cash
+App
+Compliance Policy Compliance Policy Material Chan… Approval Jan 22, 2025
+Committee Committee
+Brian Kollmeyer Consumer Material Chan… Off- Cycle Approval Jul 15, 2025
+Protection Program
+Compliance Lead
+12. Document Details
+Business Cash App
+Scope U.S.
+Compliance Domain Consumer Protection
+Document Owner Cash App, Consumer Protection Compliance Program
+Lead
+Last Approval Date Jul 15, 2025
+Effective Date Jul 15, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually
+Regulation E | Cash App
+18

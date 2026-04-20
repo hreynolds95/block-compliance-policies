@@ -1,0 +1,266 @@
+Controlling the Assault of
+Non-Solicited Pornography
+and Marketing Act Policy
+Afterpay US, Inc.
+June 2024
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Afterpay
+US, Inc. and on a need-to-know basis.
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Confidentiality 2
+Table of Contents 3
+1. Definitions 4
+2. Introduction 5
+3. Purpose 5
+4. Scope 6
+5. Policy Requirements 6
+6. Roles and Responsibilities 7
+7. Document Management 8
+7.1 Document Owner 8
+7.2 Review and Approval 8
+8. Training 9
+9. Monitoring and Reporting 9
+10. Exceptions 9
+11. Record Retention 9
+12. Related Documentation or References 10
+13. Revision and Approval History 10
+13.1 Stakeholder Review Tracking 10
+13.2 Approval History 10
+14. Document Details 10
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+3
+
+Confidential and Not for Distribution
+1. Definitions
+Terminology Definition
+Employee Staff members, contractors, temporary workers, and executive
+management.
+Affirmative Consent As it relates to commercial electronic mail (“email”) messages, the
+Recipient expressly consented to receive the message, either in response
+to a clear and conspicuous request for such consent or at the Recipient’s
+own initiative. If the message is from a party other than the party to
+which the Recipient communicated such consent, the Recipient was
+given clear and conspicuous notice at the time the consent was
+communicated that the Recipient’s email address could be transferred
+to such other party for the purpose of initiating Commercial Email
+Messages.
+Commercial Email Any email message the Primary Purpose of which is to advertise or
+Message promote for a commercial purpose, a commercial product or service
+including content on the Internet. An email message would not be
+considered to be a Commercial Email Message solely because such a
+message includes a reference to a commercial entity that serves to
+identify the Sender or a reference or link to an Internet website operated
+for a commercial purpose.
+Primary Purpose The Primary Purpose of an email message will be deemed to be
+commercial if it:
+● Contains only the commercial advertisement or promotion of a
+commercial product or service;
+● Contains both commercial content and “transactional or
+relationship” content if either:
+○ A Recipient reasonably interpreting the subject line of the
+email message would likely conclude that the message
+contains commercial content; or
+○ The email message’s “transactional or relationship”
+content does not appear in whole or substantial part at
+the beginning of the body of the message.
+● Contains both commercial content as well as content that is not
+transactional or relationship content if a Recipient reasonably
+interprets either:
+○ The subject line of the email message would likely
+conclude that the message contains commercial content;
+or
+○ The body of the message would likely conclude that the
+Primary Purpose of the message is commercial.
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+4
+
+Confidential and Not for Distribution
+Recipient An authorized user of the email address to which the message was sent
+or delivered.
+Sender A person who initiates an email message and whose product, service, or
+Internet website is advertised or promoted by the message.
+Transactional or An email message with the Primary Purpose of facilitating, completing,
+Relationship Email or confirming a commercial transaction that the Recipient had
+Message previously agreed to enter into; to provide warranty, product recall, or
+safety/security information; or subscription, membership, account, loan,
+or other information relating to an ongoing purchase or use.
+2. Introduction
+The Controlling the Assault of Non-Solicited Pornography And Marketing Act (“CAN-SPAM”) Policy
+outlines Afterpay US, Inc’s (“Afterpay”) commitment to comply with the CAN-SPAM Act. CAN-SPAM
+requires Afterpay to follow specific procedures when initiating electronic mail (“email”) messages to
+customers or prospective customers (including consumers and commercial entities). CAN-SPAM has
+several requirements related to email messages, including, but not limited to, receipt of Affirmative
+Consent to send commercial messages, certain information in email messages must not be false or
+misleading, and that Recipients of commercial messages can opt-out of future correspondence.
+3. Purpose
+The purpose of this Policy is to demonstrate Afterpay’s commitment to comply with applicable
+requirements of CAN-SPAM.
+The CAN-SPAM Act was enacted to reduce spam and unsolicited pornography by prohibiting
+senders of unsolicited commercial e-mail messages from disguising the source and content of their
+messages, and give consumers the choice to cease receiving a sender’s unsolicited commercial
+e-mail messages.
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+5
+
+Confidential and Not for Distribution
+4. Scope
+This Policy is established by Afterpay. This Policy is applicable to Afterpay’s Employees and sets out
+the approach to CAN-SPAM compliance. This Policy has been created to ensure that Afterpay is
+aware of and complies with expectations regarding CAN-SPAM.
+5. Policy Requirements
+CAN-SPAM details several prohibitions related to the sending of Commercial Email Messages.
+Afterpay has established internal procedures to identify an email message where the Primary
+Purpose would be considered commercial under CAN-SPAM. Afterpay will comply with the
+following requirements:
+● Don’t use false or misleading header information. The “From,” “To,” “Reply-To,” and
+routing information – including the originating domain name and email address – must
+be accurate and identify the person or business who initiated the message.
+● Don’t use deceptive email subject lines. The email subject line must accurately reflect
+the content of the message.
+● Identify the applicable messenger as an ad. The fact that the message is an
+advertisement must be clearly and conspicuously disclosed, if the Recipient has not
+opted in to marketing emails.
+● Tell Recipients where Afterpay is located. The message must include a valid physical
+postal address. This can be Afterpay’s current street address, a post office box registered
+with the U.S. Postal Service, or a private mailbox registered with a commercial
+mail-receiving agency established under Postal Service regulations.
+● Tell Recipients how to opt out of receiving future email and unsubscribe from email
+lists. The message must include a clear and conspicuous explanation of how the
+Recipient can opt out of receiving future emails. Any notice containing an explanation of
+how the Recipient can opt out should be designated so that it is easy for an ordinary
+person to recognize, read, and understand. Creative use of type size, color, and location
+can improve clarity. A return email address or another easy Internet-based way to allow
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+6
+
+Confidential and Not for Distribution
+people to communicate their choice to opt out of further email communications must be
+provided. A menu can be used to allow a Recipient to opt out of certain types of
+messages, but the option to stop all commercial messages must also be included. Make
+sure that Afterpay’s spam filter doesn’t block these opt-out requests.
+● Honor opt-out requests promptly. Any opt-out mechanism offered must be able to
+process opt-out requests for at least 30 days after a message is sent. A Recipient’s opt-out
+request must be honored within 10 business days of receipt. Afterpay cannot charge a fee,
+require the Recipient to provide any personally identifying information beyond an email
+address or make the Recipient take any step other than sending a reply email or visiting a
+single page on an Internet website as a condition for honoring an opt-out request. Once
+Afterpay has been notified of an opt-out request from the email Recipient, Afterpay is
+prohibited from selling or transferring the Recipient’s email address to any other party,
+even in the form of a mailing list. The only exception is that the address may be
+transferred to a company hired to help ensure compliance with CAN-SPAM.
+6. Roles and Responsibilities
+Role Responsibility
+Afterpay US, Inc. The Afterpay Board is responsible for approving the content of this Policy
+Board of Directors and any substantive revisions thereto. Approval of non-substantive
+(“Afterpay Board”) revisions is the responsibility of Cash App’s Head of Compliance, or their
+designee.
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be
+responsible for establishing appropriate practices designed to ensure
+that Afterpay operations reflect the Afterpay’s commitment to
+compliance and that all employees are aware of that commitment and
+their individual responsibility.
+Cash App’s Head of Compliance is responsible for monitoring and
+reporting on compliance with this Policy. Cash App’s Head of
+Compliance may delegate to others the authority to adopt, develop, and
+implement procedures and reporting that support this Policy.
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+7
+
+Confidential and Not for Distribution
+Product The Product Compliance Lead is the designated owner of this Policy and
+Compliance Lead is responsible for: (i) serving as the subject matter expert for content
+relevant to this Policy, (ii) developing the Policy to meet regulatory
+expectations, (iii) ensuring regulatory risks are identified in
+documentation, (iv) providing and communicating roles and
+responsibilities to relevant stakeholders including business partners, (v)
+liaising with relevant stakeholders to complete Policy updates, (vi)
+conducting periodic review(s) of the Policy, and (vii) delegating and
+overseeing business documentation requirements, as needed.
+Employees Afterpay’s Employees are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii)
+completing any required compliance training in a timely manner, and
+(iii) promptly reporting actual or suspected violations of laws or other
+requirements.
+Legal Counsel Legal counsel provides approval and interpretative advice and counsel
+regarding the applicability and application of requirements of this Policy.
+7. Document Management
+7.1 Document Owner
+This document is owned by Cash App’s Head of Compliance, or their designee.
+7.2 Review and Approval
+The Afterpay Board will review and approve this Policy annually. In addition, any modifications to this
+policy made outside the annual schedule will be reviewed and approved in accordance with the
+Ad-Hoc Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+8. Training
+All relevant personnel will receive CAN-SPAM training at least annually covering applicable
+requirements and guidance to implement this Policy effectively. All training activities are monitored
+by the Compliance Team and are outlined in Block, Inc.’s Compliance Training Program.
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+8
+
+Confidential and Not for Distribution
+9. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities
+to evaluate adherence to the Policy and determine whether outputs adhere to established
+objectives.
+Compliance will provide regular updates to the Afterpay Board. This reporting may include specific
+information related to policies, programs, procedures, audit/exam findings, issues management,
+training, and complaints.
+10. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to
+approve exceptions and/or exemptions to this Policy, provided that the proposed exception or
+exemption does not violate applicable law. Policy exception requests must be documented in
+writing, include a reason for a request, and provide a description of the controls that Afterpay will
+implement to mitigate risks associated with the exception. Any approved exceptions must be
+documented in writing and retained with recordkeeping requirements. Any approved exceptions or
+exemptions should be submitted to Block, Inc.’s Policy Governance Team at go/policyhelp. The
+document owner and/or designee will inform Block, Inc.’s Compliance Leadership and applicable
+committees, as needed, of exceptions.
+11. Record Retention
+Afterpay will maintain records of this Policy in accordance with Block, Inc.’s document retention
+guidelines.
+12. Related Documentation or References
+Related Documents:
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+9
+
+Confidential and Not for Distribution
+Related Policy Block, Inc. Compliance Policy on Policies
+Related References:
+Regulation Name Controlling the Assault of Non-Solicited
+Pornography and Marketing Act
+13. Revision and Approval History
+13.1 Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Charlie Honig Lending Regulatory Reviewed/Appro… May 31, 2024
+Counsel
+13.2 Approval History
+Approver Title Type Description Date
+Corey Chamb… Product Creation Initial creation of May 31, 2024
+Compliance policy
+Lead
+Afterpay Board Afterpay Board Initial Appro… Initial approval of June 12, 2024
+policy
+14. Document Details
+Business Afterpay US, Inc.
+Scope Regional
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+10
+
+Confidential and Not for Distribution
+Document Delegate Product Compliance Lead
+Last Approval Date June 12, 2024
+Effective Date June 12, 2024
+Approved By Afterpay Board
+Document Review Schedule Annually
+Controlling the Assault of Non-Solicited Pornography and Marketing Act Policy | Afterpay US, Inc.
+11

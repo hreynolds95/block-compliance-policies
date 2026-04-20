@@ -1,0 +1,650 @@
+Fair Credit Reporting Act
+Policy
+Cash App (U.S) | Lending Product |
+Block, Inc.
+April 2025
+Last Approval Date
+
+Confidential and Not for Distribution
+Confidentiality
+This document is confidential and should only be accessed by disclosed individuals within Cash App’s U.S.
+business operations and on a need-to-know basis.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+2
+
+Confidential and Not for Distribution
+Table of Contents
+Definitions 4
+Roles and Responsibilities 7
+1. Introduction 9
+2. Purpose 9
+3. Scope 10
+4. Policy Requirements 10
+4.1 FCRA Requirements 10
+5. Document Management 20
+5.1 Document Owner 20
+5.2 Review and Approval 20
+6. Training 20
+7. Monitoring and Reporting 20
+8. Exceptions 20
+9. Record Retention 21
+10. Related Documentation or References 21
+11. Revision and Approval History 21
+12. Document Details 22
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+3
+
+Confidential and Not for Distribution
+Definitions
+Terminology Definition
+Account For the purpose of the Fair Credit Reporting Act (“FCRA”), a continuing
+relationship established by a person with a financial institution to obtain a
+product or service for personal family, household, or business purposes. An
+Account includes:
+● An Extension of Credit, such as for the purchase of property or
+services involving a deferred payment; and
+● A deposit Account
+Adverse Action A refusal to Extend Credit in substantially the amount or substantially the
+terms requested in an application including if Cash App US makes a
+counteroffer (to Extend Credit on less favorable terms) on a Credit Product and
+the applicant uses or expressly accepts the Extension of Credit offered.
+Actions taken in connection with certain default of delinquency activities are
+excluded.
+Consumer An individual who obtains, through a transaction, products, or services that are
+used primarily for personal, family, or household purposes, and also means the
+legal representative of such an individual.
+Consumer Any record about an individual, in paper, electronic, or other form, that is,
+Information among other things, based on a Consumer Report and that Cash App US for a
+business purpose, or a compilation of such records, but does not include a
+record that does not identify an individual. Consumer Information includes
+information from a Consumer Report obtained from an affiliate when the
+Consumer does not opt out of sharing with affiliates. Consumer Information
+does not include aggregate or blind data that does not identify a particular
+individual.
+Consumer Report Any written, oral, or other communication of information by a Consumer
+Reporting Agency that bears on a Consumer’s creditworthiness, credit
+standing, credit capacity, character, general reputation, personal
+characteristics, or mode of living that is used or expected to be used or
+collected, in whole or in part, for the purpose of serving as a factor in
+establishing the Consumer’s eligibility for any of the following:
+● Credit or insurance to be used primarily for personal, family, or
+household purposes;
+● Employment purposes; or
+● Any other purpose authorized under the FCRA.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+4
+
+Confidential and Not for Distribution
+The term Consumer Report can include both information in or from credit
+reports and other information used to determine eligibility for credit, including
+information provided by an applicant in the application such as income,
+employment, or assets. However, the term does not include any of the
+following:
+● Any report containing information solely about transactions or
+experiences between the Consumer and the person making the report;
+● Any communication of that transaction or experience information
+among entities related by common ownership or affiliated by corporate
+control (e.g., different institutions that are members of the same
+holding company, or subsidiary companies of an insured institution);
+● Communication of other information among persons related by
+common ownership or affiliated by corporate control, if it is clearly and
+conspicuously disclosed to the Consumer that the information may be
+communicated among affiliates, the Consumer is given the opportunity
+to opt-out of such sharing, and the Consumer does not opt-out.
+Consumer Reporting Any person who, for monetary fees, dues, or on a cooperative nonprofit basis,
+Agency regularly engages in whole or in part in the practice of assembling or
+evaluating Consumer credit information or other information on Consumers for
+the purpose of furnishing Consumer Reports to third parties, and who uses any
+means or facility of interstate commerce for the purpose of preparing or
+furnishing Consumer Reports. A lender that engages in those activities can fall
+within the definition of a Consumer Reporting Agency.
+Covered Account Either -
+● An Account, primarily for personal, family, or household purposes, that
+involves or is designed to permit multiple payments or transactions; or
+● Any other Account for which there is a reasonably foreseeable risk to
+customers or the safety and soundness of Cash App US from Identity
+Theft, including financial, operational, compliance, reputation, or
+litigation risks.
+Credit Products Any of Cash App US’s lending products including (1) Borrow (2) Pre-Purchase
+Financing (3) Retroactive Financing or (4) Cash App Afterpay Online Checkout,
+unless otherwise noted.
+Credit Score A numerical value or a categorization derived from a statistical tool or
+modeling system used by a person who makes or arranges a loan to predict the
+likelihood of certain credit behaviors, including default (and the numerical
+value or the categorization derived from such analysis may also be referred to
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+5
+
+Confidential and Not for Distribution
+as a “risk predictor” or “risk score”). The term does not include any mortgage
+score or rating of an automated underwriting system that considers one or
+more factors in addition to credit information, including the loan-to-value ratio,
+the amount of downpayment, or the financial assets of a Consumer, or any
+other elements of the underwriting process or underwriting decision.
+Extended Alert An alert placed in the Consumer’s credit file after the Consumer submits a
+request and appropriate proof of identity.
+Extend Credit and The granting of credit in any form, including credit granted in addition to any
+Extension of Credit existing credit or credit limit; an advance in an open-end credit plan; the
+refinancing or other renewal of credit, including the issuance of a new credit
+card in place of an expiring credit card or in substitution for an existing credit
+card; the consolidation of two or more obligations; or the continuance of
+existing credit without any special effort to collect at or after maturity (i.e., the
+extension of the loan term).
+Fraud Alert and A statement in the file of a Consumer that—
+Active Duty Alert ● Notifies all prospective users of a Consumer Report relating to the
+Consumer that the Consumer may be a victim of fraud (for Fraud
+Alerts), including Identity Theft, or is an active duty military Consumer;
+and
+● Is presented in a manner that facilitates a clear and conspicuous view
+of that statement by any person requesting such a Consumer Report.
+Identity Theft A fraud committed or attempted using the identifying information of another
+person without authority.
+Medical Information Data, in any form, created or derived from a health care provider or a Consumer
+that relates to an individual’s past, present, or future physical, mental, or
+behavioral health. It includes their provision of and payment for health care.
+The term does not include:
+● A Consumer’s age or gender;
+● A Consumer’s demographics, including address or email address;
+● Information that does not specify a specific Consumer;
+● Unsolicited Medical Information that falls under another exception.
+Permissible Purpose A purpose for which a Consumer Reporting Agency may provide a Consumer
+Report, and a user, such as Cash App US, may obtain and use the report. The
+Permissible Purposes include:
+● In response to a court order or federal grand jury subpoena;
+● In accordance with the written instructions of the Consumer;
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+6
+
+Confidential and Not for Distribution
+● To a person, including Cash App US, which the agency has reason to
+believe intends to use the report as information for any of the following
+reasons:
+○ In connection with a credit transaction involving the Consumer
+(includes extending, reviewing, and collecting credit);
+○ For employment purposes;
+○ In connection with the underwriting of insurance involving the
+Consumer;
+○ In connection with a determination of the Consumer’s eligibility
+for a license or other benefit granted by a governmental
+instrumentality that is required by law to consider an
+applicant’s financial responsibility;
+○ As a potential investor or servicer, or current insurer, in
+connection with a valuation of, or an assessment of the credit
+or prepayment risks associated with, an existing credit
+obligation;
+○ Otherwise has a legitimate business need for the information
+● In connection with a business transaction that the
+Consumer initiates;
+● To review an Account to determine whether the
+Consumer continues to meet the terms of the Account;
+or
+○ Executive departments and agencies in connection with the
+issuance of government-sponsored individually-billed travel
+charge cards.
+● In response to a request by the head of a State or local child support
+enforcement agency (or authorized appointee) if the person certifies
+various information to the Consumer Reporting Agency regarding the
+need to obtain the report. (Generally, this particular purpose does not
+impact a person, such as Cash App Lending, that is not a Consumer
+Reporting Agency.)
+Roles and Responsibilities
+Role Responsibility
+Cash App Head of Cash App’s Head of Compliance will provide assistance and support in
+Compliance implementing this Policy across the organization and shall be responsible for
+establishing appropriate practices designed to ensure that Cash App
+operations reflect Cash App’s commitment to compliance and that all
+Employees are aware of that commitment and their individual responsibility.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+7
+
+Confidential and Not for Distribution
+Cash App’s Head of Compliance is responsible for monitoring and reporting on
+compliance with this Policy. Cash App’s Head of Compliance may delegate to
+others the authority to adopt, develop, and implement procedures, internal
+controls, and reporting that support this Policy.
+Product Compliance The Product Compliance Lead is the designated owner of this Policy and is
+Lead responsible for: (i) serving as the subject matter expert for content relevant to
+this Policy, (ii) developing the Policy to meet regulatory expectations, (iii)
+ensuring regulatory risks are identified in documentation, (iv) providing and
+communicating roles and responsibilities to relevant stakeholders including
+business partners, (v) liaising with relevant stakeholders to complete Policy
+updates, (vi) conducting periodic review(s) of the Policy, and (vii) delegating
+and overseeing business documentation requirements, as needed.
+Staff Member Cash App US’s Staff Members are responsible for: (i) understanding and
+complying with applicable laws and regulations for this Policy, (ii) completing
+any required compliance training in a timely manner, and (iii) promptly
+reporting actual or suspected violations of laws or other requirements.
+Lending Regulatory Legal counsel provides approval and interpretative advice and counsel
+Counsel regarding the applicability and application of requirements of this Policy.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+8
+
+Confidential and Not for Distribution
+1. Introduction
+This Fair Credit Reporting Act Policy (“Policy”) outlines Cash App’s (“Cash App”) commitment to comply with the
+Fair Credit Reporting Act (“FCRA”). Cash App is committed to ensuring that its business activities are conducted
+in a manner that complies with all applicable requirements of FCRA. Cash App’s Head of Compliance and/or their
+designee is responsible for the management of this Policy.
+2. Purpose
+The purpose of this Policy is to establish and define guidelines for Cash App to comply with all applicable
+provisions of FCRA.
+FCRA applies to persons who obtain and use information about Consumers to determine the Consumer's
+eligibility for products or services; share such information among affiliates; and furnish information to
+Consumer Reporting agencies. It requires users to respond appropriately when there are “red flags” that
+indicate possible Identity Theft and allows Consumers who have had their identities stolen to prevent further
+damage to their credit record. It requires Cash App and Consumer Reporting agencies alike to adopt
+reasonable procedures for handling Consumer credit and Medical Information in a manner that ensures
+confidentiality and accuracy in the authorized sharing of Consumers’ personal information.
+The Fair and Accurate Credit Transactions Act (“FACTA” or “FACT Act”) of 2003 amended the FCRA and was
+established to serve the following purposes:
+● Enhance the ability of Consumers to combat Identity Theft;
+● Increase the accuracy of Consumer Reports; and
+● Allow Consumers to exercise greater control regarding the type and amount of marketing
+solicitations Consumers receive.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+9
+
+Confidential and Not for Distribution
+3. Scope
+This Policy governs Cash App’s Credit Products within the United States and sets out the approach to FCRA
+compliance where applicable. This Policy has been created to ensure that Cash App and relevant Staff Members
+are aware of and comply with the expectations of FCRA.
+4. Policy Requirements
+4.1 FCRA Requirements
+Obtaining Consumer Reports.
+FCRA requires any prospective user of a Consumer Report to have a legally Permissible Purpose to obtain a
+report. Cash App obtains Consumer Reports during its application process. Cash App will request a Consumer
+Report only for one of the following defined Permissible Purposes:
+● The Consumer provides authorization in writing or electronically;
+● The report will be used in connection with a credit transaction involving the Consumer and involving
+the Extension of Credit to, or review or collection of an Account of the Consumer;
+● The report will be used by a potential investor or servicer in connection with an assessment of the
+credit risks associated with a credit obligation; or
+● A prescreened solicitation in connection with any credit transaction that is not initiated by the
+Consumer only if:
+○ The Consumer authorizes the Consumer Reporting Agency to provide such a report; or
+○ The transaction consists of a firm offer of credit and the Consumer has not opted out of
+receiving such solicitations.
+Credit Prescreening.
+While not currently applicable, in the event Cash App elects to conduct prescreened solicitations, it will comply
+with the requirements to offer an Extension of Credit credit to the Consumer and provide required “opt-out”
+disclosures, as required under the FCRA. A firm offer of credit is an offer that will be honored if the Consumer
+meets the specific criteria used to select the Consumer for the offer, except the offer may be conditioned on one
+or both of the following:
+● The Consumer meets any pre-established creditworthiness criteria based on the application, as long
+as such other criteria are established in advance; and
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+10
+
+Confidential and Not for Distribution
+● The Consumer’s continued eligibility and application information can be verified after the Consumer
+accepts the offer.
+If Cash App conducts prescreened solicitations, it will maintain the criteria used for the solicitation (including the
+criteria used to generate the prescreened report and any other criteria such as collateral requirements) on file as
+required by the FCRA.
+The FCRA requires a firm offer of credit to be accompanied by two notices, which are referred to as the short
+notice and the long notice.
+Fraud, Active Duty, and Extended Alerts.
+Cash App will comply with FCRA requirements for taking additional measures to verify identity if the Consumer
+Reports to a Consumer Reporting Agency that they were a victim of Identity Theft. A Consumer may place one of
+these types of alerts in the Consumer Reports: Fraud alert, Active Duty Alert, or Extended Alert.
+A Consumer’s identity must be verified if a Consumer Report includes an initial fraud or Active Duty Alert. Unless
+other practices confirm a Consumer’s identity, Cash App will not establish an Extension of Credit in the name of
+the Consumer. A Consumer must be contacted using the method specified by the Consumer in the alert.
+Furnishing Information to Consumer Reporting Agencies.
+Cash App does not currently furnish information to Consumer Reporting Agencies. In the event that Cash App
+elects to furnish, Cash App will comply with applicable FCRA requirements.
+Accuracy and Integrity.
+Cash App will establish reasonable policies and procedures for implementing agency guidelines regarding the
+accuracy and integrity of the information about Consumers it furnishes to Consumer Reporting agencies.
+Duty to Provide Accurate Information.
+Cash App does not currently furnish information to Consumer Reporting Agencies. In the event that Cash App
+elects to report, Cash App will comply with applicable FCRA requirements outlined below:
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+11
+
+Confidential and Not for Distribution
+● Provide accurate information to Consumer Reporting agencies by providing an address for
+Consumers to notify Cash App that information it has reported is inaccurate, and then not reporting
+information if the Consumer notifies Cash App, at the specified address, that the information is
+inaccurate;
+● To the extent that Cash App does not provide such an address, it will avoid furnishing information if it
+knows or has reasonable cause to believe that the information is inaccurate;
+● Provide corrections or additional information to Consumer Reporting agencies when Cash App
+determines that information is not complete or accurate;
+● Notify the Consumer Reporting Agency of any dispute the Consumer has about the completeness or
+accuracy of any information Cash App furnishes to a Consumer Reporting Agency;
+● Notify the Consumer Reporting Agency that the Consumer voluntarily closed an Account in the
+preceding reporting cycle;
+● Notify the Consumer Reporting Agency of the date that an Account became delinquent if it was
+placed for collection, charged off, or subjected to any similar action.
+Duties After Notice of Dispute (Direct or Indirect).
+Cash App does not currently report information to Consumer Reporting Agencies. In the event that Cash App
+elects to report, Cash App will comply with applicable FCRA requirements outlined below:
+● Customers may submit a notice of dispute regarding the accuracy or completeness of information on
+their Consumer Report either to the Consumer Reporting Agency, referred to as indirect disputes, or
+directly to Cash App, referred to as direct disputes. Cash App requires the notice to contain enough
+information to identify the pertinent Account, information the customer is disputing, a brief
+explanation as to the basis of the dispute, and any supporting documentation to substantiate the
+dispute.
+If Cash App receives a notice of dispute from a Consumer Reporting Agency, or directly from the Consumer,
+about the accuracy or completeness of any information Cash App provided to a Consumer Reporting Agency,
+Cash App will:
+● Investigate the dispute;
+● Review all relevant information the Consumer Reporting Agency provided along with the notice;
+● Report the results of the investigation to the Consumer Reporting Agency and to any other
+nationwide Consumer Reporting agencies to which it previously provided the information;
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+12
+
+Confidential and Not for Distribution
+● If the information is inaccurate, modify or delete the information in its own records, or
+permanently block the reporting of the information.
+The investigation must be completed and Cash App must report the results within 30 days after the
+Consumer Reporting Agency or Cash App received the notice of the dispute. This deadline may be extended
+by 15 days if the Consumer Reporting Agency or Cash App received additional relevant information from the
+Consumer.
+Under the FCRA, Cash App is not required to investigate any disputes Cash App determines to be frivolous or
+irrelevant. Upon the determination that a dispute is frivolous or irrelevant, a notice of determination letter will
+be sent to the customer within five business days. This letter will include the reasoning for why the dispute
+was found to be frivolous or irrelevant and any information required by Cash App to investigate the disputed
+information.
+Other Furnisher Requirements.
+When furnishing to Consumer Reporting agencies, Cash App will:
+● Establish and follow reasonable procedures to ensure that it does not report information to a
+Consumer Reporting Agency after it has been told that the information may be the result of
+Identity Theft;
+● Avoid selling or transferring debt caused by an alleged Identity Theft;
+● Provide Consumers with notice either before it furnishes negative information to a nationwide
+Consumer Reporting Agency, or within 30 days after furnishing the negative information.
+Limits on Using Medical Information.
+The FCRA prohibits covered entities from obtaining and using Medical Information in connection with a
+Consumer’s eligibility, or continuing eligibility, for credit. Cash App will use Medical Information only in the
+following manners:
+● Making credit eligibility determinations, such as information relating to debts, expenses, income,
+benefits, assets, collateral, or the purpose or use of the loan;
+● The Medical Information is used in a no less favorable manner; and
+● The Consumer’s physical, mental, or behavioral health, condition or history, type of treatment, or
+prognosis are not used in determining credit eligibility.
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+13
+
+Confidential and Not for Distribution
+Sharing and Using Information with Affiliate and Nonaffiliate Companies.
+The FCRA restricts Cash App’s affiliates from using a Consumer’s eligibility or information related to their
+credit qualifications to make a solicitation for marketing purposes, unless:
+● The Consumer is notified that the information may be used for such purposes;
+● The Consumer is given an opportunity to prohibit such use; and
+● The Consumer does not opt-out of such sharing practices.
+Cash App does not currently share information with affiliate or nonaffiliate companies. In the event that Cash
+App elects to share information, Cash App will ensure that any sharing of information complies with
+applicable FCRA requirements. Any affiliates of Cash App using shared information making solicitations for
+marketing purposes are required to provide Consumers with the required notification and opt-out
+mechanism. It should be noted that Cash App does not currently share this information, as reflected on the
+GLBA Privacy Notice.
+Disclosure of Adverse Action.
+Cash App will comply with the Equal Credit Opportunity Act (“ECOA”) and FCRA requirements to provide a
+notice to Consumers when it uses Consumer Information from a credit reporting agency or other third-party
+sources and takes Adverse Action based on that information. When Cash App uses information from a
+Consumer Reporting Agency, in any manner, to generate an Adverse Action, it will inform the applicant in
+writing. The Adverse Action notice will include:
+● A statement of the Adverse Action;
+● The name, address, and toll-free number of the Consumer Reporting Agency that provided the
+Consumer Report;
+● A statement indicating the Consumer Reporting Agency did not make the credit decision and
+does not have any information regarding the credit decision;
+● A statement noting the Consumer has the right to a free report for 60 days;
+● A statement noting the Consumer has a right to dispute information in their Consumer Report
+with the Consumer Reporting Agency;
+● If applicable, information about any Credit Score used in making the credit decision;
+● A statement regarding the Credit Score information if a Credit Score was used in any manner in
+making the credit decisions, which includes:
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+14
+
+Confidential and Not for Distribution
+○ A statement that a Credit Score is a number that takes into Account information in a
+Consumer Report, the Consumer’s Credit Score was used in taking the Adverse Action,
+and that a Credit Score can change over time to reflect changes in the Consumer’s credit
+history;
+○ The Credit Score used in generating the decision;
+○ The range of possible Credit Scores under the model used to generate the Credit Score;
+○ All of the key factors that adversely affected the Credit Score, but no greater than four
+factors, except when one of the key factors is the number of inquiries made with respect
+to the Consumer Report, the number of key factors will not exceed five;
+○ The date on which the Credit Score was created; and
+○ The Consumer’s name;
+● If information from a third party, other than a Consumer Reporting Agency, is used in any manner
+to generate an Adverse Action, the notice will provide the Consumer a disclosure detailing the
+Consumer’s right to make a written request within sixty days for the nature of the information
+that led to the Adverse Action. Cash App will comply with any such request upon receipt; and
+● If information from an affiliate is used in any manner to generate an Adverse Action, the notice
+will provide the Consumer a disclosure detailing the Consumer’s right to make a written request
+within 60 days for the nature of the information that led to the Adverse Action. Cash App will
+comply with any such request upon receipt.
+In connection with Consumer loan applications, Adverse Action will typically be required under requirements
+from both the FCRA and the ECOA. All Adverse Action notices will be delivered within the time frame
+specified within ECOA, as the FCRA does not contain timing requirements for the delivery of an Adverse
+Action notice.
+● Adverse Action Compliance Safe Harbor. It is important to note that Cash App should not be held
+liable for any violation of this section if Cash App shows by a preponderance of the evidence that
+at the time of the alleged violation Cash App maintained reasonable procedures to assure
+compliance with the provisions of this section.
+● Credit Score Disclosure Notice. Under the FCRA, Cash App must provide a risk-based pricing
+notice to Consumers when the Consumer, based on information in his/her Consumer Report,
+receives terms that are materially less favorable than the terms offered to other Consumers, with
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+15
+
+Confidential and Not for Distribution
+certain exceptions. Where Cash App performs risk-based pricing, it will provide a Credit Score
+disclosure notice (“CSDN”) to all applicants in lieu of a risk-based pricing notice. Cash App will
+provide the CSDN to all applicants at or before consummation of the loan.
+● Joint Users. Cash App may share Consumer Report information if Cash App is jointly involved in
+the decision to approve a Consumer's request for a product or service, provided that each has a
+proper Permissible Purpose to obtain a Consumer Report on the individual.
+● Proper Disposal of Consumer Information. Cash App maintains or otherwise possesses Consumer
+Information for a business purpose. That said, Cash App must properly dispose of such
+information by taking reasonable measures to protect against unauthorized access to or use of
+the information in connection with its disposal.
+Identity Theft.
+In order to mitigate Identity Theft, Cash App must establish an identity theft program that will (1) Receive
+initial approval from either the Board of Directors or an appropriate governing committee; (2) Involve a
+designated Employee in the oversight, development, implementation and administration of the identity theft
+program; (3) Train Employees, as necessary, to effectively implement the identity theft program; and (4)
+Exercise appropriate and effective oversight of service provider arrangements. It is important to note that
+Cash App must periodically conduct a risk assessment to determine whether it offers or maintains covered
+Accounts that would be subject to the identity theft program’s oversight.
+An adequate identity theft program ensures that relevant Identity Theft red flags are identified, detected,
+appropriately responded to, and periodic reviews are conducted such that changing risks and/or market
+conditions are appropriately accounted for. Cash App maintains a Fraud Risk Management Standard that
+outlines its approach to identity theft.
+As previously noted, the FCRA establishes three types of alerts that may be included in a Consumer Report
+that indicates the Consumer may be a victim of fraud, including Identity Theft. These alerts include:
+● Initial Fraud Alert;
+● Active duty alert; and
+● Extended Fraud Alert
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+16
+
+Confidential and Not for Distribution
+Where applicable, Cash App has opted to include the five categories noted below that the Federal Trade
+Commission (“FTC”) has identified as part of its efforts to identify relevant Identity Theft red flags and
+mitigate Identity Theft of its customers:
+● Alerts, notifications, or warnings from a CRA, which includes fraud or credit alerts, credit freezes,
+address discrepancies, and/or pattern of activity inconsistent with the history and usual Account
+activity of the customer (this category encompasses the three types of alerts noted above);
+● Suspicious documents, such as altered or forged documents or identification;
+● Suspicious personal identifying information, such as social security number provided during
+application matches the social security number of other applicants;
+● Suspicious Account activity; or
+● Notices from customers, victims of Identity Theft, law enforcement authorities, or other persons
+regarding possible Identity Theft in connection with Accounts held by Cash App.
+Detection of Red Flags.
+Cash App is to address the detection of red flags in connection with the opening of new Accounts and
+existing Accounts by:
+● Obtaining identifying information about, and verifying the identity of, a person opening an
+Account; and,
+● Authenticating customers, monitoring transactions, and verifying the validity of change of
+address requests, in the case of existing Accounts.
+Mitigation of Identity Theft.
+Cash App is to provide responses to detect red flags commensurate with the degree of risk posed. In
+determining an appropriate response, Cash App is to consider factors that may heighten the risk of Identity
+Theft, such as a data security incident, or notice that a customer has provided verified fraudulent
+information. Cash App may incorporate, as appropriate, its existing policies, procedures, and other
+arrangements that reasonably control foreseeable risks to customers or to the safety and soundness of Cash
+App from Identity Theft. Appropriate responses may include:
+● Monitoring an Account for evidence of Identity Theft;
+● Contacting the customer;
+● Not opening a new Account;
+● Closing an existing Account;
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+17
+
+Confidential and Not for Distribution
+● Notifying law enforcement;
+● Filing a Questionable or Suspicious Activity Report in accordance with applicable law and
+regulation; or,
+● Determining that no response is warranted under the particular circumstance.
+Alerts, Notifications, or Warnings from a Consumer Reporting Agency.
+Cash App is to consider applicable alerts, notifications, and warnings that may indicate Identity Theft, such
+as a Fraud Alert or Active Duty Alert included in a Consumer Report. Generally, Cash App is not to extend an
+offer in the case of an alert or notification indicating the possibility of Identity Theft.
+Potentially Suspicious Activity & Documentation.
+Cash App should consider indicators of suspicious documents provided by potential customers. Indicators of
+suspicious documentation may include, but are not limited to:
+● Potentially altered or forged documents;
+● Inconsistent photograph or physical description;
+● Inconsistent information related to financial institutions or creditors;
+● Suspicious personal identifying information or,
+● Other information that is inconsistent with previously provided information.
+Cash App should consider indicators of suspicious activity related to customers. Suspicious activity may
+include:
+● A new credit Account is used in a manner commonly associated with known patterns of fraud; or,
+● A covered Account is used in a manner that is not consistent with established patterns of activity
+on the Account. For example:
+○ Nonpayment when there is no history of late or missed payments;
+○ A material increase in the use of available credit;
+○ A material change in purchasing or spending patterns;
+○ A material change in electronic fund transfer patterns in connection with a deposit
+Account
+● A covered Account that has been inactive for a reasonably lengthy period of time is used (taking
+into consideration the type of Account, the expected pattern of usage, and other relevant
+factors); or,
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+18
+
+Confidential and Not for Distribution
+● Cash App is notified of unauthorized charges or transactions in connection with a customer's
+covered Account.
+Cash App intends to maintain compliance with all applicable red flag guidelines, including the alerts
+identified above, by adopting and maintaining procedures to ensure compliance. Cash App will:
+● Maintain the right to decline to provide the information requested by an alleged victim of Identity
+Theft based on provisions established in the Gramm-Leach-Bliley Act;
+● Provide a copy of the application and any business transaction records available, free of charge,
+upon receipt of a written claim of Identity Theft that resulted in a fraudulent transaction, provided
+Cash App can confirm the victim’s allegation(s) are true after the Identity Theft victim:
+○ Provides proof of positive identification in the form of a government-issued identification
+card;
+○ Provides proof of the Identity Theft claim in the form of an Identity Theft affidavit and a
+copy of a police report; and
+● Not sell, transfer, or place in collection a debt that has resulted from Identity Theft.
+○ If Cash App engages a third-party debt collector in order to perform collection activities
+on Consumers who are victims of Identity Theft, in its own name, on behalf of Cash App,
+Cash App must ensure that the third-party debt collector notifies Consumers that the
+information may be fraudulent or the result of Identity Theft.
+● Given Cash App may be considered a Card Issuer, as defined by 15 U.S.C. 1681a(r)(1), Cash App
+has implemented reasonable policies and procedures to assess the validity of a change of
+address if it receives notification of a change of address for a Consumer's Account and, within a
+short period of time afterwards (during at least the first 30 days after it receives such
+notification), Cash App receives a request for an additional or replacement card for the same
+Account.
+Account Takeover (ATO).
+Account takeover occurs when a fraudster has gained access to the customer’s account, allowing the
+fraudster to make unauthorized transactions from their own device. This means that any activity initiated
+by the fraudster’s device will reflect on the customer's account and device. An example of unauthorized
+activity is applying for a loan from someone else's account with no intention of repaying it. When a
+customer alleges ATO, Cash App will take the necessary steps to (1) correctly identify the ATO victim (2)
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+19
+
+Confidential and Not for Distribution
+identify any unauthorized transactions and (3) take the necessary precautions to ensure that the
+fraudulent activity does not continue.
+5. Document Management
+5.1 Document Owner
+This document is owned by Cash App’s Head of Compliance or their designee.
+5.2 Review and Approval
+Cash App’s Head of Compliance will review and approve this Policy annually. In addition, any modifications to
+this policy made outside the annual schedule will be reviewed and approved in accordance with the Ad-Hoc
+Maintenance procedure outlined in Block, Inc.’s Compliance Document Approval Matrix.
+6. Training
+Cash App’s Head of Compliance (or designee) will determine the compliance training needs for all Employees
+commensurate with job levels and responsibilities. All Employees engaged in the activity or performing
+services subject to the requirements of this Policy will receive the appropriate training upon hire and
+periodically thereafter. All training activities are monitored by the Compliance Team and are outlined in
+Block, Inc.’s Compliance Training Program.
+7. Monitoring and Reporting
+On an ongoing basis, the document owner and/or their designee will monitor Policy related activities to
+evaluate adherence to the Policy and determine whether outputs adhere to established objectives.
+8. Exceptions
+The document owner and/or designee will have authority, upon consultation with Legal Counsel, to approve
+exceptions and/or exemptions to this Policy, provided that the proposed exception or exemption does not
+violate applicable law. Policy exception requests must be documented in writing, include a reason for a
+request, and provide a description of the controls that Cash App will implement to mitigate risks associated
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+20
+
+Confidential and Not for Distribution
+with the exception. Any approved exceptions must be documented in writing and retained with
+recordkeeping requirements. Any approved exceptions or exemptions should be submitted to Block’s Inc.’s
+Policy Governance Team at go/policyhelp. The document owner and/or designee will inform Block, Inc.’s
+Compliance Leadership and applicable committees, as needed, of exceptions.
+9. Record Retention
+All published Documents are retained in accordance with Block’s Record Retention guidance or in
+accordance with regulatory guidance - whichever is longer.
+10. Related Documentation or References
+Related Documents:
+Related Standard Block, Inc. Compliance Training Program Standard
+Related Standard Cash App US Fraud Risk Management Standard
+Related References:
+Regulation Name Fair Credit Reporting Act
+Regulation Name Fair and Accurate Credit Transactions Act of 2003
+11. Revision and Approval History
+Stakeholder Review Tracking
+Approver Team Represented Stakeholder Status Date
+Nicole Clarke Lending Regulatory Reviewed/Approved Jan 10, 2025
+Counsel
+Approval History
+Approver Title Type Description Date
+Corey Chamber… Product Creation Initial creation of Jan 10, 2025
+Compliance Lead policy
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+21
+
+Confidential and Not for Distribution
+Jason Liberman Cash App Head of Initial Approval Initial approval of Jan 13, 2025
+Compliance policy
+Compliance Policy Compliance Policy Initial Approval Approval Jan 22, 2025
+Committee Committee
+Corey Chamber… Product Material Cha… Addition of new Mar 14, 2025
+Compliance Lead credit product
+within policy scope
+Jason Liberman Cash App Head of Material Cha… Addition of new Apr 1, 2025
+Compliance credit product
+within policy scope
+Compliance Policy Compliance Policy Material Cha… Addition of new Apr 1, 2025
+Committee Committee credit product
+within policy scope
+12. Document Details
+Business Cash App
+Scope Regional [United States]
+Compliance Domain Consumer Protection
+Document Owner Cash App Head of Compliance
+Document Delegate Product Compliance Lead
+Last Approval Date Apr 1, 2025
+Effective Date Apr 1, 2025
+Approved By Compliance Policy Committee
+Document Review Schedule Annually [January 2026]
+Fair Credit Reporting Act Policy | Cash App (U.S) | Lending Product | Block, Inc.
+22
