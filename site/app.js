@@ -215,7 +215,6 @@ function renderTable(docs) {
       <td><span class="doc-owner">${highlight(d.owner, q)}</span></td>
       <td>${d.extension_status ? `<span title="Extended to ${esc(d.extended_due_date ?? '?')}">${esc(d.extended_due_date ?? d.next_review_date ?? '—')}</span>` : esc(d.next_review_date ?? '—')}</td>
       <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
-      <td>${esc(d.version)}</td>
     </tr>
   `).join('');
 
