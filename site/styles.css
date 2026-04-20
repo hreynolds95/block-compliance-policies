@@ -823,6 +823,27 @@ details[open] > .panel-header--collapsible::before {
   100% { background: transparent; }
 }
 
+/* ── Filter action link (View in Library button) ── */
+.q-filter-action {
+  padding: 2px 12px 8px;
+}
+.q-library-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--info);
+  text-decoration: none;
+  border: 1px solid rgba(124,172,255,.35);
+  border-radius: var(--radius-md);
+  padding: 5px 12px;
+  transition: background 0.15s, border-color 0.15s;
+}
+.q-library-link:hover {
+  background: rgba(124,172,255,.1);
+  border-color: var(--info);
+}
+
 /* Input area */
 .q-input-area {
   display: flex;

@@ -13,9 +13,11 @@
   let systemPrompt  = null;
   let isStreaming   = false;
 
-  // Sentinel Claude appends so we can extract follow-up suggestions post-stream
-  const FOLLOWUPS_RE         = /\[\[FOLLOWUPS:([\s\S]*?)\]\]/;
-  const FOLLOWUPS_PARTIAL_RE = /\[\[FOLLOWUPS[\s\S]*$/;
+  // Sentinels Claude appends — extracted and stripped before display
+  const FOLLOWUPS_RE    = /\[\[FOLLOWUPS:([\s\S]*?)\]\]/;
+  const FILTER_RE       = /\[\[FILTER:([\s\S]*?)\]\]/;
+  // Strip everything from the first sentinel onward during streaming
+  const PARTIAL_STRIP_RE = /\[\[(FOLLOWUPS|FILTER)[\s\S]*$/;
   let searchIndex   = null;   // Map<doc_id, text> — loaded once on first open
   let indexState    = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let processIndex  = null;   // Map<proc_id, {title, description, text}> — process procedures
@@ -328,8 +330,8 @@
     input.value = '';
     input.style.height = 'auto';
 
-    // Remove any follow-up chips from the previous response before sending
-    document.querySelectorAll('.q-followups').forEach(el => el.remove());
+    // Remove any follow-up chips and filter actions from the previous response before sending
+    document.querySelectorAll('.q-followups, .q-filter-action').forEach(el => el.remove());
 
     appendMessage('user', text);
     userQueries.push(text);
@@ -441,7 +443,7 @@
             const evt = JSON.parse(payload);
             if (evt.type === 'content_block_delta' && evt.delta?.type === 'text_delta') {
               fullText += evt.delta.text;
-              const displayText = fullText.replace(FOLLOWUPS_PARTIAL_RE, '').trimEnd();
+              const displayText = fullText.replace(PARTIAL_STRIP_RE, '').trimEnd();
               bubble.innerHTML = md(displayText) + '<span class="q-cursor"></span>';
               messagesEl.scrollTop = messagesEl.scrollHeight;
             }
@@ -453,7 +455,14 @@
         }
       }
 
-      // Extract and strip follow-up suggestions before finalising display
+      // Extract and strip sentinels before finalising display
+      let filterAction = null;
+      const filterMatch = fullText.match(FILTER_RE);
+      if (filterMatch) {
+        try { filterAction = JSON.parse(filterMatch[1]); } catch (_) {}
+        fullText = fullText.replace(FILTER_RE, '').trimEnd();
+      }
+
       let followups = [];
       const fuMatch = fullText.match(FOLLOWUPS_RE);
       if (fuMatch) {
@@ -468,7 +477,9 @@
       chatHistory.push({ role: 'assistant', content: fullText });
       document.getElementById('qMessages').scrollTop = 999999;
 
+      // Render follow-ups first so the filter button lands above them (insertAdjacentElement afterend reverses)
       if (followups.length > 0) renderFollowups(botEl, followups);
+      if (filterAction?.url && filterAction?.label) renderFilterAction(botEl, filterAction);
 
     } catch (err) {
       bubble.innerHTML = `<span class="q-error">Error: ${esc(err.message)}</span>`;
@@ -480,6 +491,16 @@
     isStreaming = false;
     document.getElementById('qSend').disabled = false;
     document.getElementById('qInput').focus();
+  }
+
+  function renderFilterAction(msgEl, { label, url }) {
+    // Only allow relative query-string URLs to prevent open redirect
+    if (typeof url !== 'string' || !url.startsWith('?')) return;
+    const div = document.createElement('div');
+    div.className = 'q-filter-action';
+    div.innerHTML = `<a href="./index.html${esc(url)}" class="q-library-link">${esc(label)}&nbsp;→</a>`;
+    msgEl.insertAdjacentElement('afterend', div);
+    document.getElementById('qMessages').scrollTop = 999999;
   }
 
   function renderFollowups(msgEl, questions) {
@@ -792,6 +813,7 @@ RESPONSE GUIDELINES:
 - Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
 - When listing multiple documents, use a bulleted list
+- When your response addresses a filterable subset of the policy library, append a filter action on its own line before [[FOLLOWUPS]]: [[FILTER:{"label":"View [description] in Library","url":"?param=value"}]]. Valid params and values — review: overdue|due-soon|ok|pending-review|extension-coming-due|overdue-past-extension; domain: consumer-protection|ethics-and-employee-conduct|financial-crimes|governance; status: published|draft|in-review|retired|not-published; business: Square|Block|Cash App|Afterpay|Clearpay; tier: 1|2|3; extension: active. Only include when ONE clear filter maps to your entire answer. Omit for general, multi-filter, or narrative-only responses.
 - At the very end of every response, on its own line, append exactly: [[FOLLOWUPS:["question 1","question 2","question 3"]]] — 2 to 3 short, specific follow-up questions the user might ask next based on your response. Must be a valid JSON array of strings. Do not introduce, label, or explain this block — just append it.`;
   }
 
