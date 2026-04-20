@@ -948,6 +948,17 @@ details[open] > .panel-header--collapsible::before {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  border: 1px solid transparent;
+  transition: border-color 0.15s, background 0.15s;
+}
+.tier-card--link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.tier-card--link:hover {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--bg) 82%, var(--accent) 18%);
 }
 .tier-card-label {
   font-size: 0.68rem;

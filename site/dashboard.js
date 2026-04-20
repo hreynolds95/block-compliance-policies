@@ -211,11 +211,11 @@ function renderTierBreakdown(docs) {
     const total  = group.length;
     const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
     const alert  = ov > 0 ? ` · <span class="tier-card-alert">${ov} overdue</span>` : '';
-    return `<div class="tier-card">
+    return `<a href="./index.html?tier=${tier}" class="tier-card tier-card--link">
       <div class="tier-card-label">Tier ${tier}</div>
       <div class="tier-card-value">${total}</div>
       <div class="tier-card-sub">${esc(labels[tier])}${alert}</div>
-    </div>`;
+    </a>`;
   }).join('');
 }
 
