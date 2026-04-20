@@ -51,6 +51,68 @@
     }));
     injectHTML();
     wireEvents();
+
+    // Restore prior session if one exists (survives library ↔ dashboard navigation)
+    if (loadSession()) {
+      const messagesEl = document.getElementById('qMessages');
+      messagesEl.innerHTML = '';
+      restoreMessages(messagesEl);
+      document.getElementById('qNewChat').style.display = '';
+    }
+  }
+
+  // ── Session persistence ───────────────────────────────────────────────────────
+
+  const SESSION_KEY = 'quincy_session';
+
+  function saveSession() {
+    try {
+      sessionStorage.setItem(SESSION_KEY, JSON.stringify({
+        history: chatHistory,
+        queries: userQueries,
+      }));
+    } catch (_) {}
+  }
+
+  function loadSession() {
+    try {
+      const raw = sessionStorage.getItem(SESSION_KEY);
+      if (!raw) return false;
+      const { history, queries } = JSON.parse(raw);
+      if (!Array.isArray(history) || !history.length) return false;
+      chatHistory = history;
+      userQueries = Array.isArray(queries) ? queries : [];
+      return true;
+    } catch (_) { return false; }
+  }
+
+  function clearSession() {
+    try { sessionStorage.removeItem(SESSION_KEY); } catch (_) {}
+  }
+
+  function restoreMessages(messagesEl) {
+    // Reconstruct bubbles from chatHistory + userQueries (alternating user/bot turns)
+    const botTurns = chatHistory.filter((_, i) => i % 2 === 1);
+    for (let i = 0; i < botTurns.length; i++) {
+      if (userQueries[i]) {
+        const uDiv = document.createElement('div');
+        uDiv.className = 'q-msg q-msg--user';
+        uDiv.innerHTML = `<div class="q-bubble">${esc(userQueries[i])}</div>`;
+        messagesEl.appendChild(uDiv);
+      }
+      const bDiv = document.createElement('div');
+      bDiv.className = 'q-msg q-msg--bot';
+      bDiv.innerHTML = `<div class="q-bubble">${md(botTurns[i].content)}</div>`;
+      messagesEl.appendChild(bDiv);
+    }
+    // Edge case: trailing user turn with no bot response
+    if (userQueries.length > botTurns.length) {
+      const uDiv = document.createElement('div');
+      uDiv.className = 'q-msg q-msg--user';
+      uDiv.innerHTML = `<div class="q-bubble">${esc(userQueries[botTurns.length])}</div>`;
+      messagesEl.appendChild(uDiv);
+    }
+    messagesEl.scrollTop = 999999;
   }
 
   // ── HTML injection ────────────────────────────────────────────────────────────
@@ -330,6 +392,7 @@
   function resetConversation() {
     chatHistory = [];
     userQueries = [];
+    clearSession();
     if (getContextFn) pageContextText = getContextFn();
     document.getElementById('qMessages').innerHTML = welcomeHTML();
     document.getElementById('qNewChat').style.display = 'none';
@@ -505,6 +568,7 @@
         bubble.innerHTML += `<p class="q-truncated">Response reached the length limit — the download below contains everything generated.</p>`;
       }
       chatHistory.push({ role: 'assistant', content: fullText });
+      saveSession();
       document.getElementById('qMessages').scrollTop = 999999;
 
       // Render follow-ups first so the filter button lands above them (insertAdjacentElement afterend reverses)
