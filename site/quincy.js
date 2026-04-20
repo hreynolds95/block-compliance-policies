@@ -12,6 +12,10 @@
   let userQueries   = [];       // raw user text only — used for context-aware retrieval
   let systemPrompt  = null;
   let isStreaming   = false;
+
+  // Sentinel Claude appends so we can extract follow-up suggestions post-stream
+  const FOLLOWUPS_RE         = /\[\[FOLLOWUPS:([\s\S]*?)\]\]/;
+  const FOLLOWUPS_PARTIAL_RE = /\[\[FOLLOWUPS[\s\S]*$/;
   let searchIndex   = null;   // Map<doc_id, text> — loaded once on first open
   let indexState    = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let processIndex  = null;   // Map<proc_id, {title, description, text}> — process procedures
@@ -324,6 +328,9 @@
     input.value = '';
     input.style.height = 'auto';
 
+    // Remove any follow-up chips from the previous response before sending
+    document.querySelectorAll('.q-followups').forEach(el => el.remove());
+
     appendMessage('user', text);
     userQueries.push(text);
     document.getElementById('qNewChat').style.display = '';
@@ -434,7 +441,8 @@
             const evt = JSON.parse(payload);
             if (evt.type === 'content_block_delta' && evt.delta?.type === 'text_delta') {
               fullText += evt.delta.text;
-              bubble.innerHTML = md(fullText) + '<span class="q-cursor"></span>';
+              const displayText = fullText.replace(FOLLOWUPS_PARTIAL_RE, '').trimEnd();
+              bubble.innerHTML = md(displayText) + '<span class="q-cursor"></span>';
               messagesEl.scrollTop = messagesEl.scrollHeight;
             }
 
@@ -445,12 +453,22 @@
         }
       }
 
+      // Extract and strip follow-up suggestions before finalising display
+      let followups = [];
+      const fuMatch = fullText.match(FOLLOWUPS_RE);
+      if (fuMatch) {
+        try { followups = JSON.parse(fuMatch[1]); } catch (_) {}
+        fullText = fullText.replace(FOLLOWUPS_RE, '').trimEnd();
+      }
+
       bubble.innerHTML = md(fullText);
       if (truncated) {
         bubble.innerHTML += `<p class="q-truncated">Response reached the length limit — the download below contains everything generated.</p>`;
       }
       chatHistory.push({ role: 'assistant', content: fullText });
       document.getElementById('qMessages').scrollTop = 999999;
+
+      if (followups.length > 0) renderFollowups(botEl, followups);
 
     } catch (err) {
       bubble.innerHTML = `<span class="q-error">Error: ${esc(err.message)}</span>`;
@@ -462,6 +480,17 @@
     isStreaming = false;
     document.getElementById('qSend').disabled = false;
     document.getElementById('qInput').focus();
+  }
+
+  function renderFollowups(msgEl, questions) {
+    const div = document.createElement('div');
+    div.className = 'q-starters q-followups';
+    div.innerHTML = questions
+      .filter(q => typeof q === 'string' && q.trim())
+      .map(q => `<button class="q-starter" type="button">${esc(q.trim())}</button>`)
+      .join('');
+    msgEl.insertAdjacentElement('afterend', div);
+    document.getElementById('qMessages').scrollTop = 999999;
   }
 
   function appendMessage(role, text) {
@@ -762,7 +791,8 @@ RESPONSE GUIDELINES:
 - If a specific detail is genuinely absent from all retrieved content, say it is not specified in the policy library
 - Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
-- When listing multiple documents, use a bulleted list`;
+- When listing multiple documents, use a bulleted list
+- At the very end of every response, on its own line, append exactly: [[FOLLOWUPS:["question 1","question 2","question 3"]]] — 2 to 3 short, specific follow-up questions the user might ask next based on your response. Must be a valid JSON array of strings. Do not introduce, label, or explain this block — just append it.`;
   }
 
   // ── Utilities ─────────────────────────────────────────────────────────────────
