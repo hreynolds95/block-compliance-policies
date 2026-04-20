@@ -105,14 +105,18 @@
       <div class="panel">
         <div class="panel-header">
           <div>
-            <h2>By Domain</h2>
-            <p class="panel-subtitle">Review health per compliance domain (published policies only).</p>
+            <h2>Coverage</h2>
+            <p class="panel-subtitle">Published policy review health grouped by the selected dimension.</p>
           </div>
+          <select id="coverageGroupBy" class="filter-select">
+            <option value="domain">By Domain</option>
+            <option value="business">By Business</option>
+          </select>
         </div>
         <table class="dash-stat-table">
           <thead>
             <tr>
-              <th>Domain</th>
+              <th id="coverageColHeader">Domain</th>
               <th>Overdue</th>
               <th>Coming Due</th>
               <th>On Track</th>

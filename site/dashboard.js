@@ -1,5 +1,7 @@
 /* Block Compliance Metrics Dashboard */
 
+let _docs = [];
+
 async function init() {
   const res = await fetch('./docs-data.json').catch(() => null);
   if (!res || !res.ok) {
@@ -10,6 +12,7 @@ async function init() {
 
   const data = await res.json();
   const docs = data.documents || [];
+  _docs = docs;
 
   const badge = document.getElementById('dataSourceBadge');
   if (badge && data.generated) {
@@ -25,9 +28,18 @@ async function init() {
   renderRecentKPI(docs);
   renderReviewSchedule(docs);
   renderLifecycleBreakdown(docs);
-  renderDomainBreakdown(docs);
+  renderCoverageBreakdown(docs, 'domain');
   renderTierBreakdown(docs);
   renderStatusBreakdown(docs);
+
+  const coverageSel = document.getElementById('coverageGroupBy');
+  if (coverageSel) {
+    coverageSel.addEventListener('change', () => {
+      const groupBy = coverageSel.value;
+      renderCoverageBreakdown(_docs, groupBy);
+      coverageSel.classList.toggle('filter-select--active', groupBy !== 'domain');
+    });
+  }
 }
 
 function renderKPIs(docs) {
@@ -142,21 +154,26 @@ function domainLabel(d) {
   return (d || '').split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 }
 
-function renderDomainBreakdown(docs) {
+function renderCoverageBreakdown(docs, groupBy) {
   const published = docs.filter(d => d.status === 'published');
-  const domains = [...new Set(published.map(d => d.domain).filter(Boolean))].sort();
+  const keyFn   = d => groupBy === 'business' ? d.business : d.domain;
+  const labelFn = groupBy === 'business' ? s => s : domainLabel;
+  const groups  = [...new Set(published.map(keyFn).filter(Boolean))].sort();
+
+  const colHeader = document.getElementById('coverageColHeader');
+  if (colHeader) colHeader.textContent = groupBy === 'business' ? 'Business' : 'Domain';
 
   let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
 
-  const rows = domains.map(domain => {
-    const group  = published.filter(d => d.domain === domain);
-    const total  = group.length;
-    const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
-    const cd     = group.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
-    const ok     = total - ov - cd;
+  const rows = groups.map(group => {
+    const items = published.filter(d => keyFn(d) === group);
+    const total = items.length;
+    const ov    = items.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    const cd    = items.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
+    const ok    = total - ov - cd;
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     return `<tr>
-      <td class="cell-label">${esc(domainLabel(domain))}</td>
+      <td class="cell-label">${esc(labelFn(group))}</td>
       <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
       <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
       <td class="cell-success">${ok}</td>
