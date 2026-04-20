@@ -475,33 +475,8 @@ details[open] > .panel-header--collapsible::before {
   .audit-entry { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; }
 }
 
-/* ── Expandable row detail ── */
+/* ── Shared field label / value (used in drawer) ── */
 .doc-row--expanded td { background: rgba(124,172,255,.04); }
-.detail-row td { padding: 0; border-bottom: 1px solid var(--line); }
-.detail-panel {
-  padding: 14px 16px;
-  background: color-mix(in srgb, var(--bg) 60%, var(--card));
-  border-top: 1px solid var(--line);
-}
-.detail-title {
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: var(--accent);
-  margin-bottom: 10px;
-  line-height: 1.4;
-}
-.detail-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px 40px;
-}
-.detail-item {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  min-width: 160px;
-}
-.detail-item--full { flex: 1 1 100%; }
 .detail-label {
   font-size: 0.68rem;
   font-weight: 500;
@@ -518,6 +493,157 @@ details[open] > .panel-header--collapsible::before {
   font-size: 0.75rem;
   letter-spacing: .02em;
 }
+
+/* ── Detail drawer ── */
+.drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+  z-index: 200;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+.drawer-backdrop--open {
+  opacity: 1;
+  pointer-events: auto;
+}
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 440px;
+  max-width: 96vw;
+  height: 100vh;
+  background: var(--card);
+  border-left: 1px solid var(--line);
+  z-index: 201;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.25s ease;
+  overflow: hidden;
+}
+.drawer--open { transform: translateX(0); }
+.drawer-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 20px 20px 0;
+  flex-shrink: 0;
+}
+.drawer-id-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.drawer-doc-id {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--info);
+  letter-spacing: .03em;
+}
+.drawer-version {
+  font-size: 0.7rem;
+  color: var(--muted);
+  background: rgba(255,255,255,.06);
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+.drawer-close {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 1.1rem;
+  cursor: pointer;
+  line-height: 1;
+  padding: 2px 4px;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+.drawer-close:hover { color: var(--accent); background: rgba(255,255,255,.06); }
+.drawer-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--accent);
+  line-height: 1.4;
+  padding: 0 20px 12px;
+  flex-shrink: 0;
+}
+.drawer-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 0 20px 14px;
+  flex-shrink: 0;
+  border-bottom: 1px solid var(--line);
+}
+.drawer-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.drawer-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px 20px;
+}
+.drawer-field {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.drawer-section-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding-top: 4px;
+  border-top: 1px solid var(--line);
+  padding-bottom: 10px;
+}
+.drawer-audit {
+  display: flex;
+  flex-direction: column;
+}
+.drawer-audit-row {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  gap: 12px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.75rem;
+  align-items: center;
+}
+.drawer-audit-row:last-child { border-bottom: none; }
+.drawer-audit-actor { color: var(--muted); text-align: right; }
+a.drawer-audit-link { color: var(--info); text-decoration: none; }
+a.drawer-audit-link:hover { text-decoration: underline; }
+.drawer-footer {
+  padding: 14px 20px;
+  border-top: 1px solid var(--line);
+  flex-shrink: 0;
+}
+.drawer-pdf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--info);
+  color: #fff;
+  border-radius: 6px;
+  padding: 9px 18px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.drawer-pdf-btn:hover { opacity: 0.85; }
 
 /* ── Empty state ── */
 .empty-state {

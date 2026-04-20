@@ -126,6 +126,24 @@
 
   </main>
 
+  <!-- Policy detail drawer -->
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+  <aside class="drawer" id="detailDrawer" aria-label="Policy detail">
+    <div class="drawer-header">
+      <div>
+        <div class="drawer-id-row">
+          <span class="drawer-doc-id" id="drawerDocId"></span>
+          <span class="drawer-version" id="drawerVersion"></span>
+        </div>
+        <div class="drawer-title" id="drawerTitle"></div>
+      </div>
+      <button class="drawer-close" id="drawerClose" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="drawer-pills" id="drawerPills"></div>
+    <div class="drawer-body" id="drawerBody"></div>
+    <div class="drawer-footer" id="drawerFooter"></div>
+  </aside>
+
   <script src="./app.js"></script>
   <script src="./quincy.js"></script>
   <footer class="page-footer">built by @hreynolds</footer>

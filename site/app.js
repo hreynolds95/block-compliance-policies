@@ -1,6 +1,7 @@
 /* Block Compliance Policy Library — GitHub Pages UI */
 
 let allDocs = [];
+let auditEntries = [];
 let sortCol = 'doc_id';
 let sortAsc = true;
 let recentDays   = null;  // set by ?recent=N URL param
@@ -60,11 +61,16 @@ async function init() {
 
   if (auditRes.status === 'fulfilled' && auditRes.value.ok) {
     const text = await auditRes.value.text();
-    renderAuditLog(text.trim().split('\n').filter(Boolean).map(l => JSON.parse(l)).reverse());
+    auditEntries = text.trim().split('\n').filter(Boolean).map(l => JSON.parse(l)).reverse();
+    renderAuditLog(auditEntries);
   } else {
     document.getElementById('auditList').innerHTML =
       '<div class="empty-state">Audit log unavailable.</div>';
   }
+
+  document.getElementById('drawerClose').addEventListener('click', closeDetailDrawer);
+  document.getElementById('drawerBackdrop').addEventListener('click', closeDetailDrawer);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetailDrawer(); });
 }
 
 // ── Hero stats line ──────────────────────────────────────────────────────────
@@ -201,7 +207,7 @@ function renderTable(docs) {
 
   tbody.innerHTML = visible.map(d => `
     <tr class="doc-row" data-doc-id="${esc(d.doc_id)}" style="cursor:pointer;">
-      <td>${d.published_pdf ? `<a class="doc-id doc-id--link" href="${esc(d.published_pdf)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(d.doc_id)}</a>` : `<span class="doc-id">${esc(d.doc_id)}</span>`}</td>
+      <td><span class="doc-id">${esc(d.doc_id)}</span></td>
       <td><span class="doc-title">${highlight(d.title, q)}</span></td>
       <td><span class="domain-label">${esc(domainLabel(d.domain))}</span></td>
       <td><span class="badge badge-tier${d.tier}">Tier ${esc(d.tier)}</span></td>
@@ -211,38 +217,103 @@ function renderTable(docs) {
       <td>${reviewPill(d.review_status, d.status)}${extensionPill(d.extension_status)}</td>
       <td>${esc(d.version)}</td>
     </tr>
-    <tr class="detail-row" id="detail-${esc(d.doc_id)}" style="display:none;">
-      <td colspan="9">
-        <div class="detail-panel">
-          <div class="detail-title">${esc(d.title)}</div>
-          <div class="detail-grid">
-            <div class="detail-item"><span class="detail-label">Approval</span><span class="detail-value"><span class="badge badge-${d.approval_type}">${esc(d.approval_type)}</span></span></div>
-            ${d.pwf_record_id ? `<div class="detail-item"><span class="detail-label">LogicGate ID</span><span class="detail-value detail-value--mono">${esc(d.pwf_record_id)}</span></div>` : ''}
-            <div class="detail-item"><span class="detail-label">Business</span><span class="detail-value">${esc(d.business ?? '—')}</span></div>
-            <div class="detail-item"><span class="detail-label">Legal Entity</span><span class="detail-value">${esc(d.legal_entity ?? '—')}</span></div>
-            <div class="detail-item"><span class="detail-label">Effective Date</span><span class="detail-value">${esc(d.effective_date ?? '—')}</span></div>
-            <div class="detail-item"><span class="detail-label">Retention</span><span class="detail-value">${d.retention_years ? `${esc(d.retention_years)} years` : '—'}</span></div>
-            ${d.extension_reason ? `<div class="detail-item detail-item--full"><span class="detail-label">Extension Reason</span><span class="detail-value">${esc(d.extension_reason)}</span></div>` : ''}
-          </div>
-        </div>
-      </td>
-    </tr>
   `).join('');
 
   tbody.querySelectorAll('.doc-row').forEach(row => {
     row.addEventListener('click', () => {
-      const id = row.dataset.docId;
-      const detail = document.getElementById(`detail-${id}`);
-      const isOpen = detail.style.display !== 'none';
-      // collapse any other open rows
-      tbody.querySelectorAll('.detail-row').forEach(r => r.style.display = 'none');
-      tbody.querySelectorAll('.doc-row').forEach(r => r.classList.remove('doc-row--expanded'));
-      if (!isOpen) {
-        detail.style.display = '';
-        row.classList.add('doc-row--expanded');
-      }
+      const doc = allDocs.find(d => d.doc_id === row.dataset.docId);
+      if (doc) openDetailDrawer(doc);
     });
   });
+}
+
+// ── Detail drawer ────────────────────────────────────────────────────────────
+
+function openDetailDrawer(doc) {
+  const idEl     = document.getElementById('drawerDocId');
+  const verEl    = document.getElementById('drawerVersion');
+  const titleEl  = document.getElementById('drawerTitle');
+  const pillsEl  = document.getElementById('drawerPills');
+  const bodyEl   = document.getElementById('drawerBody');
+  const footerEl = document.getElementById('drawerFooter');
+
+  idEl.textContent  = doc.doc_id;
+  verEl.textContent = `v${doc.version}`;
+  titleEl.textContent = doc.title;
+
+  pillsEl.innerHTML = `
+    <span class="badge badge-${doc.status}">${esc(doc.status)}</span>
+    ${reviewPill(doc.review_status, doc.status)}
+    ${extensionPill(doc.extension_status)}
+  `;
+
+  const fields = [
+    ['Domain',        domainLabel(doc.domain)],
+    ['Tier',          `<span class="badge badge-tier${doc.tier}">Tier ${esc(doc.tier)}</span>`],
+    ['Approval',      `<span class="badge badge-${doc.approval_type}">${esc(doc.approval_type)}</span>`],
+    ['Owner',         esc(doc.owner || '—')],
+    ['Business',      esc(doc.business || '—')],
+    ['Legal Entity',  esc(doc.legal_entity || '—')],
+    ['Effective Date',esc(doc.effective_date || '—')],
+    ['Next Review',   esc(doc.next_review_date || '—')],
+    ...(doc.extension_status ? [['Extended Due', esc(doc.extended_due_date || '—')]] : []),
+    ['Retention',     doc.retention_years ? `${esc(doc.retention_years)} yrs` : '—'],
+    ...(doc.pwf_record_id ? [['LogicGate ID', `<span class="detail-value--mono">${esc(doc.pwf_record_id)}</span>`]] : []),
+    ...(doc.extension_reason ? [['Extension Reason', esc(doc.extension_reason)]] : []),
+  ];
+
+  bodyEl.innerHTML = `
+    <div class="drawer-grid">
+      ${fields.map(([label, val]) => `
+        <div class="drawer-field">
+          <span class="detail-label">${label}</span>
+          <span class="detail-value">${val}</span>
+        </div>`).join('')}
+    </div>
+    ${drawerAuditHistory(doc.doc_id)}
+  `;
+
+  footerEl.innerHTML = doc.published_pdf
+    ? `<a href="${esc(doc.published_pdf)}" target="_blank" rel="noopener" class="drawer-pdf-btn">View PDF &#x2192;</a>`
+    : '';
+
+  document.getElementById('detailDrawer').classList.add('drawer--open');
+  document.getElementById('drawerBackdrop').classList.add('drawer-backdrop--open');
+  document.body.style.overflow = 'hidden';
+
+  // highlight the selected row
+  document.querySelectorAll('.doc-row--expanded').forEach(r => r.classList.remove('doc-row--expanded'));
+  document.querySelectorAll(`.doc-row[data-doc-id="${CSS.escape(doc.doc_id)}"]`)
+    .forEach(r => r.classList.add('doc-row--expanded'));
+}
+
+function drawerAuditHistory(docId) {
+  const entries = auditEntries.filter(e => e.doc_id === docId);
+  if (!entries.length) return '';
+  const rows = entries.map(e => {
+    const ts    = e.timestamp ? new Date(e.timestamp).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
+    const ver   = e.version ? `v${e.version}` : '';
+    const actor = e.actor ?? '—';
+    const link  = e.run_url
+      ? `<a href="${esc(e.run_url)}" target="_blank" rel="noopener" class="drawer-audit-link">${esc(actor)}</a>`
+      : esc(actor);
+    return `<div class="drawer-audit-row">
+      <span class="audit-ts">${esc(ts)}</span>
+      <span class="audit-id">${esc(ver)}</span>
+      <span class="drawer-audit-actor">${link}</span>
+    </div>`;
+  }).join('');
+  return `
+    <div class="drawer-section-label">Approval History</div>
+    <div class="drawer-audit">${rows}</div>
+  `;
+}
+
+function closeDetailDrawer() {
+  document.getElementById('detailDrawer').classList.remove('drawer--open');
+  document.getElementById('drawerBackdrop').classList.remove('drawer-backdrop--open');
+  document.body.style.overflow = '';
+  document.querySelectorAll('.doc-row--expanded').forEach(r => r.classList.remove('doc-row--expanded'));
 }
 
 // ── Audit log ────────────────────────────────────────────────────────────────
