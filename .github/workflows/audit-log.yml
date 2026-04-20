@@ -26,8 +26,20 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml
 
+      - name: Check for skip-audit flag
+        id: skip
+        run: |
+          MSG=$(git log -1 --pretty=%B)
+          if echo "$MSG" | grep -qF '[skip-audit]'; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "Skipping audit log — [skip-audit] in commit message."
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Get changed document files
         id: changed
+        if: steps.skip.outputs.skip != 'true'
         run: |
           # Use empty-tree SHA as base when there is no parent commit (initial push)
           BASE=$(git rev-parse --verify HEAD~1 2>/dev/null || echo "4b825dc642cb6eb9a060e54bf8d69288fbee4904")
@@ -35,7 +47,7 @@ jobs:
           echo "files=$CHANGED" >> $GITHUB_OUTPUT
 
       - name: Append audit entries
-        if: steps.changed.outputs.files != ''
+        if: steps.skip.outputs.skip != 'true' && steps.changed.outputs.files != ''
         env:
           ACTOR: ${{ github.actor }}
           COMMIT_SHA: ${{ github.sha }}
@@ -48,7 +60,7 @@ jobs:
             --run-url "$RUN_URL"
 
       - name: Create version tags for changed documents
-        if: steps.changed.outputs.files != ''
+        if: steps.skip.outputs.skip != 'true' && steps.changed.outputs.files != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
