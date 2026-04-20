@@ -434,6 +434,7 @@ mark.search-hl { background: rgba(255,217,102,.3); color: inherit; border-radius
   cursor: pointer;
   display: flex;
   align-items: flex-start;
+  justify-content: flex-start;
   gap: 10px;
   text-align: left;
 }
