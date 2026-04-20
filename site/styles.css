@@ -823,6 +823,24 @@ details[open] > .panel-header--collapsible::before {
   100% { background: transparent; }
 }
 
+/* ── Conversation trim notice ── */
+.q-trim-notice {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.67rem;
+  color: var(--muted);
+  padding: 4px 12px 8px;
+  opacity: 0.7;
+}
+.q-trim-notice::before,
+.q-trim-notice::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
 /* ── Filter action link (View in Library button) ── */
 .q-filter-action {
   padding: 2px 12px 8px;

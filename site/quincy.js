@@ -5,8 +5,9 @@
 (function () {
   'use strict';
 
-  const PROXY_URL = 'https://quincy-proxy.hmreynolds95.workers.dev/v1/messages';
-  const MODEL     = 'claude-opus-4-6';
+  const PROXY_URL          = 'https://quincy-proxy.hmreynolds95.workers.dev/v1/messages';
+  const MODEL              = 'claude-opus-4-6';
+  const MAX_HISTORY_TURNS  = 10; // max messages sent to API; older turns are dropped silently
 
   let chatHistory   = [];       // sent to API (user turns contain RAG-augmented content)
   let userQueries   = [];       // raw user text only — used for context-aware retrieval
@@ -24,10 +25,11 @@
   let procState     = 'idle'; // 'idle' | 'loading' | 'ready' | 'failed'
   let docMeta       = new Map(); // doc_id → { title, published_pdf } for download formatting
   let allDocMeta    = [];        // full metadata array for lightweight metadata searches
-  let pageCtx       = 'library'; // 'library' | 'dashboard'
-  let getContextFn  = null;      // callback returning current page filter context string
-  let pageContextText = null;    // most recent result of getContextFn()
-  let starters      = [];        // data-driven starter questions
+  let pageCtx           = 'library'; // 'library' | 'dashboard'
+  let getContextFn      = null;      // callback returning current page filter context string
+  let pageContextText   = null;      // most recent result of getContextFn()
+  let starters          = [];        // data-driven starter questions
+  let trimmingNoticeShown = false;   // true once the trim separator has been inserted
 
   // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
@@ -88,6 +90,14 @@
 
   function clearSession() {
     try { sessionStorage.removeItem(SESSION_KEY); } catch (_) {}
+  }
+
+  function trimmedHistory() {
+    if (chatHistory.length <= MAX_HISTORY_TURNS) return chatHistory;
+    let slice = chatHistory.slice(-MAX_HISTORY_TURNS);
+    // Ensure we start on a user turn (API requires messages[0].role === 'user')
+    if (slice[0]?.role !== 'user') slice = slice.slice(1);
+    return slice;
   }
 
   function restoreMessages(messagesEl) {
@@ -392,6 +402,7 @@
   function resetConversation() {
     chatHistory = [];
     userQueries = [];
+    trimmingNoticeShown = false;
     clearSession();
     if (getContextFn) pageContextText = getContextFn();
     document.getElementById('qMessages').innerHTML = welcomeHTML();
@@ -420,6 +431,15 @@
 
     // Remove any follow-up chips and filter actions from the previous response before sending
     document.querySelectorAll('.q-followups, .q-filter-action').forEach(el => el.remove());
+
+    // Show a one-time separator the first time earlier turns will be dropped
+    if (!trimmingNoticeShown && chatHistory.length >= MAX_HISTORY_TURNS) {
+      trimmingNoticeShown = true;
+      const notice = document.createElement('div');
+      notice.className = 'q-trim-notice';
+      notice.textContent = 'Earlier messages not sent to Claude';
+      document.getElementById('qMessages').appendChild(notice);
+    }
 
     appendMessage('user', text);
     userQueries.push(text);
@@ -506,7 +526,7 @@
             text:          systemPrompt,
             cache_control: { type: 'ephemeral' },
           }],
-          messages: chatHistory,
+          messages: trimmedHistory(),
           stream:   true,
         }),
       });
