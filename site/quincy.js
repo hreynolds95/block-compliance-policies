@@ -339,7 +339,7 @@
       // Metadata question (owner, tier, status, review dates, counts) —
       // search the docs array directly and inject a compact metadata table.
       // Claude already has all metadata in its system prompt; this just narrows
-      // the relevant docs so it doesn't have to scan all 169 entries.
+      // the relevant docs so it doesn't have to scan all entries.
       const matches = searchDocsMeta(retrievalQuery);
       if (matches.length > 0) {
         const rows = matches.map(d => {
@@ -750,10 +750,10 @@ RESPONSE GUIDELINES:
 - Always cite document IDs (e.g. CP-001, GOV-015) when referencing specific policies
 - Be precise about status (published/draft/in-review/retired), tier, owner, and review dates
 - Use TODAY'S DATE to answer any time-sensitive questions (what's overdue, what's coming due this month, days until review, etc.)
-- review_status "overdue" = past next_review_date; "due-soon" = within 30 days; "ok" = on track; "pending-review" = in active review; "extension-coming-due" = extended deadline within 30 days; "overdue-past-extension" = past extended deadline
+- review_status "overdue" = past next_review_date; "due-soon" = within 90 days; "ok" = on track; "pending-review" = in active review; "extension-coming-due" = extended deadline within 90 days; "overdue-past-extension" = past extended deadline
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
-- You have two content sources: (1) POLICY LIBRARY — the 169 compliance policies/standards; (2) PROCESS PROCEDURES — step-by-step guides for using LogicGate (annual review, document management, approval workflows, exception management). When a question is about how to do something in LogicGate, prioritize process procedure content. When a question is about what a policy says or requires, prioritize policy library content.
+- You have two content sources: (1) POLICY LIBRARY — the ${docs.length} compliance policies/standards; (2) PROCESS PROCEDURES — step-by-step guides for using LogicGate (annual review, document management, approval workflows, exception management). When a question is about how to do something in LogicGate, prioritize process procedure content. When a question is about what a policy says or requires, prioritize policy library content.
 - Process document IDs: PROC-NNN (procedures), DTP-NNN (desktop procedures), TRN-NNN (training guides)
 - This is a multi-turn conversation. Use prior messages in the thread to understand follow-up questions and resolve pronouns or references (e.g. "those docs", "the ones you mentioned", "that policy")
 - For metadata questions (owner, tier, domain, status, review dates, counts), a METADATA LOOKUP table is appended with the most relevant documents — answer from that combined with POLICY LIBRARY DATA above
