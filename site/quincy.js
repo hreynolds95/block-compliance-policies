@@ -334,6 +334,7 @@
     const retrievalQuery = buildRetrievalQuery(text);
     let userContent = text;
     const sections = [];
+    let retrievedDocs = [];  // full-text excerpts passed to download file
 
     if (isMetadataQuery(retrievalQuery)) {
       // Metadata question (owner, tier, status, review dates, counts) —
@@ -358,6 +359,7 @@
     } else {
       // Content question — use full-text RAG against policy and procedure indexes
       const { top, additional, procedures } = retrieveRelevantDocs(retrievalQuery);
+      retrievedDocs = top;
       if (top.length > 0) {
         const excerpts = top.map(h => `[${h.docId}]\n${h.excerpt}`).join('\n\n');
         const extra    = additional.length
@@ -377,16 +379,13 @@
 
     chatHistory.push({ role: 'user', content: userContent });
 
-    // Keep retrieved context for the download file
-    const retrievedForDownload = top;
-
     const botEl  = appendMessage('bot', '');
     const bubble = botEl.querySelector('.q-bubble');
     bubble.innerHTML = '<span class="q-typing"><span></span><span></span><span></span></span>';
 
     // Add download button immediately — it will capture whatever is generated
     // even if the response is later truncated
-    addDownloadButton(botEl, text, () => fullText, retrievedForDownload);
+    addDownloadButton(botEl, text, () => fullText, retrievedDocs);
 
     isStreaming = true;
     document.getElementById('qSend').disabled = true;
