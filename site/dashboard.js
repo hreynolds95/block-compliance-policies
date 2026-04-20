@@ -35,6 +35,10 @@ async function init() {
 
   if (window.quincyInit) window.quincyInit(docs, { page: 'dashboard' });
 
+  document.getElementById('exportRegisterBtn').addEventListener('click', exportPolicyRegisterCSV);
+  document.getElementById('exportCoverageBtn').addEventListener('click', exportCoverageCSV);
+  document.getElementById('exportOwnershipBtn').addEventListener('click', exportOwnershipCSV);
+
   const ownershipSel = document.getElementById('ownershipFilter');
   if (ownershipSel) {
     ownershipSel.addEventListener('change', () => {
@@ -307,6 +311,83 @@ function renderOwnershipBreakdown(docs, filter) {
   </tr>`;
 
   document.getElementById('ownershipTbody').innerHTML = rows + totalsRow;
+}
+
+// ── CSV export ────────────────────────────────────────────────────────────────
+
+function downloadCSV(filename, rows) {
+  const csv = rows.map(row =>
+    row.map(cell => {
+      const s = String(cell ?? '');
+      return /[,"\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+    }).join(',')
+  ).join('\n');
+  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = filename; a.click();
+  URL.revokeObjectURL(url);
+}
+
+function exportCoverageCSV() {
+  const groupBy  = document.getElementById('coverageGroupBy').value;
+  const published = _docs.filter(d => d.status === 'published');
+  const keyFn    = d => groupBy === 'business' ? d.business : d.domain;
+  const labelFn  = groupBy === 'business' ? s => s : domainLabel;
+  const groups   = [...new Set(published.map(keyFn).filter(Boolean))].sort();
+  const colLabel = groupBy === 'business' ? 'Business' : 'Domain';
+  const rows = [[colLabel, 'Overdue', 'Coming Due', 'On Track', 'Total']];
+  for (const group of groups) {
+    const items = published.filter(d => keyFn(d) === group);
+    const total = items.length;
+    const ov    = items.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    const cd    = items.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
+    rows.push([labelFn(group), ov, cd, total - ov - cd, total]);
+  }
+  downloadCSV(`block-compliance-coverage-by-${groupBy}-${today()}.csv`, rows);
+}
+
+function exportOwnershipCSV() {
+  const filter    = document.getElementById('ownershipFilter').value;
+  const published = _docs.filter(d => d.status === 'published');
+  const ownerMap  = {};
+  for (const d of published) {
+    const owner = d.owner || 'Unassigned';
+    if (!ownerMap[owner]) ownerMap[owner] = { total: 0, ov: 0, cd: 0, ok: 0 };
+    ownerMap[owner].total++;
+    const rs = d.review_status || '';
+    if (['overdue','pending-review','overdue-past-extension'].includes(rs)) ownerMap[owner].ov++;
+    else if (['due-soon','extension-coming-due'].includes(rs))             ownerMap[owner].cd++;
+    else                                                                   ownerMap[owner].ok++;
+  }
+  let owners = Object.keys(ownerMap);
+  if (filter === 'at-risk') owners = owners.filter(o => o === 'Unassigned' || ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
+  owners.sort((a, b) => (ownerMap[b].ov - ownerMap[a].ov) || (ownerMap[b].cd - ownerMap[a].cd) || (ownerMap[b].total - ownerMap[a].total));
+  const rows = [['Owner', 'Policies', 'Overdue', 'Coming Due', 'On Track']];
+  for (const owner of owners) {
+    const { total, ov, cd, ok } = ownerMap[owner];
+    rows.push([owner, total, ov, cd, ok]);
+  }
+  downloadCSV(`block-compliance-ownership-${filter}-${today()}.csv`, rows);
+}
+
+function exportPolicyRegisterCSV() {
+  const published = _docs.filter(d => d.status === 'published');
+  const rows = [['ID','Title','Domain','Tier','Owner','Business','Legal Entity','Effective Date','Next Review','Review Status','Extension Status','Retention (yrs)']];
+  for (const d of published.sort((a, b) => a.doc_id.localeCompare(b.doc_id))) {
+    rows.push([
+      d.doc_id, d.title, domainLabel(d.domain), d.tier,
+      d.owner || 'Unassigned', d.business || '', d.legal_entity || '',
+      d.effective_date || '', d.next_review_date || '',
+      d.review_status || '', d.extension_status || '',
+      d.retention_years || '',
+    ]);
+  }
+  downloadCSV(`block-compliance-policy-register-${today()}.csv`, rows);
+}
+
+function today() {
+  return new Date().toISOString().slice(0, 10);
 }
 
 function esc(s) {

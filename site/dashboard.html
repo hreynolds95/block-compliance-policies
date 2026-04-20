@@ -61,6 +61,11 @@
       </a>
     </div>
 
+    <!-- Policy register export -->
+    <div style="display:flex;justify-content:flex-end;">
+      <button id="exportRegisterBtn" class="export-btn">&#8595; Export Policy Register</button>
+    </div>
+
     <!-- Review Schedule Chart -->
     <div class="panel" style="margin-bottom:16px;">
       <div class="panel-header">
@@ -108,10 +113,13 @@
             <h2>Coverage</h2>
             <p class="panel-subtitle">Published policy review health grouped by the selected dimension.</p>
           </div>
-          <select id="coverageGroupBy" class="filter-select">
-            <option value="domain">By Domain</option>
-            <option value="business">By Business</option>
-          </select>
+          <div style="display:flex;gap:8px;align-items:center;">
+            <select id="coverageGroupBy" class="filter-select">
+              <option value="domain">By Domain</option>
+              <option value="business">By Business</option>
+            </select>
+            <button id="exportCoverageBtn" class="export-btn">&#8595; CSV</button>
+          </div>
         </div>
         <table class="dash-stat-table">
           <thead>
@@ -161,10 +169,13 @@
           <h2>Policy Ownership</h2>
           <p class="panel-subtitle">Accountability and review risk by policy owner.</p>
         </div>
-        <select id="ownershipFilter" class="filter-select">
-          <option value="at-risk">At Risk</option>
-          <option value="all">All Owners</option>
-        </select>
+        <div style="display:flex;gap:8px;align-items:center;">
+          <select id="ownershipFilter" class="filter-select">
+            <option value="at-risk">At Risk</option>
+            <option value="all">All Owners</option>
+          </select>
+          <button id="exportOwnershipBtn" class="export-btn">&#8595; CSV</button>
+        </div>
       </div>
       <table class="dash-stat-table">
         <thead>
