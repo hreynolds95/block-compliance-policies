@@ -2,7 +2,7 @@
 doc_id: GOV-041
 title: "Cash App US Transaction Monitoring Modeling Program"
 version: 1.0.0
-status: published
+status: retired
 tier: 3
 domain: governance
 legal_entity: "Cash App US"

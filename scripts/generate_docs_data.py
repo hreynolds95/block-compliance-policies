@@ -71,7 +71,10 @@ def main():
                 except ValueError:
                     extended_due = None
 
-            if due_date_status and due_date_status != "Complete":
+            if meta.get("status", "") == "retired":
+                # Retired docs have no active review cycle
+                review_status = "ok"
+            elif due_date_status and due_date_status != "Complete":
                 # Mirror Blockcell's date-first classification:
                 # effective date (set by sync, uses EXTENDED_DUEDATE for extension statuses)
                 # drives overdue/due-soon/ok; status determines the "flavor".

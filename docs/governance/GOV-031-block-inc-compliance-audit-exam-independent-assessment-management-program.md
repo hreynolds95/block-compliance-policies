@@ -2,7 +2,7 @@
 doc_id: GOV-031
 title: "Block Inc. Compliance Audit, Exam & Independent Assessment Management Program"
 version: 1.0.0
-status: published
+status: retired
 tier: 3
 domain: governance
 legal_entity: "Block, Inc."

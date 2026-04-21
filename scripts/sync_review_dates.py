@@ -34,6 +34,19 @@ from dateutil.relativedelta import relativedelta
 
 REVIEW_CYCLE_YEARS = 1  # standard annual review cycle for all tiers
 
+# Docs pending retirement in LogicGate that still show WORKFLOW_STATUS='Published' in Snowflake.
+# Mirror the reference dashboard's WF_STATUS forced-retirement override.
+FORCE_RETIRE_NAMES = {
+    "Afterpay US Inc Third Party Risk Management (TPRM) Standard Draft",
+    "Afterpay US Inc. Regulatory Change Management Standard Draft",
+    "Block Inc. Compliance Audit, Exam & Independent Assessment Management Program Draft",
+    "Cash App US Complaints Standard Cash Draft",
+    "Cash App US Lending Operations Complaints Standard Draft",
+    "Cash App US Transaction Monitoring Modeling Program Draft",
+    "SIL Regulatory Compliance Monitoring Program Draft",
+    "Square AU Pty. Ltd. Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Draft",
+}
+
 ACTIVE_WORKFLOW_STATUSES = {
     "Current",
     "Coming Due",
@@ -108,10 +121,15 @@ def load_dashboard(path: str) -> tuple:
             due_lookup[pwf] = item
 
     # Build status_lookup: PWF_RECORD_ID → DMS status (from WORKFLOW_STATUS in rows)
+    # Force-retire docs that are pending retirement in LogicGate but still Published in Snowflake.
     status_lookup: dict = {}
     for r in data["rows"]:
         pwf = (r.get("PWF_RECORD_ID") or "").strip()
         if not pwf:
+            continue
+        name = (r.get("NAME") or "").strip()
+        if name in FORCE_RETIRE_NAMES:
+            status_lookup[pwf] = "retired"
             continue
         wf = (r.get("WORKFLOW_STATUS") or "").strip()
         dms_status = WORKFLOW_STATUS_MAP.get(wf)

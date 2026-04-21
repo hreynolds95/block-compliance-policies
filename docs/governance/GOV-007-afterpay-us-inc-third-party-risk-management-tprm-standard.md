@@ -2,7 +2,7 @@
 doc_id: GOV-007
 title: "Afterpay US Inc Third Party Risk Management (TPRM) Standard"
 version: 1.0.0
-status: published
+status: retired
 tier: 2
 domain: governance
 legal_entity: "Afterpay US Services"
