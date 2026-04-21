@@ -2,7 +2,7 @@
 doc_id: CP-056
 title: "Cash App US Lending Operations Complaints Standard"
 version: 1.0.0
-status: retired
+status: published
 tier: 3
 domain: consumer-protection
 legal_entity: "Cash App US"

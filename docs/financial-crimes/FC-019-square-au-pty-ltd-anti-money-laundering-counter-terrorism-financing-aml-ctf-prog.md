@@ -2,7 +2,7 @@
 doc_id: FC-019
 title: "Square AU Pty. Ltd. Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program"
 version: 1.0.0
-status: retired
+status: published
 tier: 2
 domain: financial-crimes
 legal_entity: "Square AU Pty. Ltd."

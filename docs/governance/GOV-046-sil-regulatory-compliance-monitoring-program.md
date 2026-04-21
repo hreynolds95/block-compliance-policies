@@ -2,7 +2,7 @@
 doc_id: GOV-046
 title: "SIL Regulatory Compliance Monitoring Program"
 version: 1.0.0
-status: retired
+status: published
 tier: 3
 domain: governance
 legal_entity: "Squareup International Ltd."
