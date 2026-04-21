@@ -12,7 +12,7 @@ approval_type: committee
 reviewers: []
 effective_date: ""
 next_review_date: "2027-01-18"
-due_date_status: "Pending Review"
+due_date_status: "Current"
 lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1QSgNhokKU_38M9De8nhZ8q3FmIE_vJFi/view?usp=drive_link"

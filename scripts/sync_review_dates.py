@@ -269,6 +269,13 @@ def main():
         new_date = compute_next_review(row)
 
         due_status = row.get("DUE_DATE_STATUS", "")
+
+        # STATUS_FIX: mirror reference dashboard — LogicGate incorrectly marks some 2027+
+        # docs as 'Pending Review'. Override to 'Current' when DUE_DATE >= 2027-01-01.
+        raw_due = parse_date(row.get("DUE_DATE"))
+        if due_status == "Pending Review" and raw_due and raw_due >= date(2027, 1, 1):
+            due_status = "Current"
+
         lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
         extension_status = extension_lookup.get(record_id)  # None if no active extension
         doc_status = status_lookup.get(record_id)           # None if unmapped workflow status
