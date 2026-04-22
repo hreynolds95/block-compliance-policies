@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-05-31"
 due_date_status: "Coming Due"
+doc_type: "Standard"
 retention_years: 3
 logicgate_record_id: "56CAKaPX"
 ---

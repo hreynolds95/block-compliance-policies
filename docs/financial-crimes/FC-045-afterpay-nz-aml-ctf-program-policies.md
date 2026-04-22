@@ -13,6 +13,7 @@ reviewers: []
 effective_date: "2026-04-10"
 next_review_date: "2027-03-28"
 due_date_status: "Current"
+doc_type: "Policy"
 lifecycle_status: "current"
 retention_years: 7
 logicgate_record_id: "AfA83ooV"

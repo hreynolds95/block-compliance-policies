@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-10-23"
 due_date_status: "Complete"
+doc_type: "Policy"
 retention_years: 7
 published_pdf: "https://drive.google.com/file/d/1LbVD4-vGnjCw5GrKdJBQl_XJX_bJaHkC/view"
 logicgate_record_id: "DpJzds6N"

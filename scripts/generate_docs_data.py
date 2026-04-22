@@ -16,25 +16,6 @@ import yaml
 
 DOCS_ROOT = "docs"
 OUT_FILE = "site/docs-data.json"
-DASHBOARD_DATA = "/Users/hreynolds/Documents/compliance-dashboard-blockcell/dashboard-data.json"
-
-DOCUMENT_TYPE_MAP = {"1": "Policy", "2": "Standard", "3": "Procedure"}
-
-
-def load_doc_type_lookup():
-    """Return {PWF_RECORD_ID: doc_type_label} from dashboard-data.json."""
-    try:
-        with open(DASHBOARD_DATA, encoding="utf-8") as f:
-            data = json.load(f)
-        lookup = {}
-        for row in data.get("rows", []):
-            rid = row.get("PWF_RECORD_ID")
-            raw = str(row.get("DOCUMENT_TYPE", "")).split(".")[0]
-            if rid:
-                lookup[rid] = DOCUMENT_TYPE_MAP.get(raw, "")
-        return lookup
-    except Exception:
-        return {}
 
 
 def parse_frontmatter(path: str):
@@ -61,7 +42,6 @@ def main():
     docs = []
     today = date.today()
     now_utc = datetime.now(timezone.utc)
-    doc_type_lookup = load_doc_type_lookup()
 
     for dirpath, _, filenames in os.walk(DOCS_ROOT):
         if "_templates" in dirpath:
@@ -147,11 +127,10 @@ def main():
                 else:
                     review_status = "unknown"
 
-            record_id = meta.get("pwf_record_id") or meta.get("logicgate_record_id", "")
             docs.append({
                 "doc_id": meta.get("doc_id", ""),
-                "pwf_record_id": record_id,
-                "doc_type": doc_type_lookup.get(record_id, ""),
+                "pwf_record_id": meta.get("pwf_record_id") or meta.get("logicgate_record_id", ""),
+                "doc_type": meta.get("doc_type", ""),
                 "title": meta.get("title", ""),
                 "version": str(meta.get("version", "")),
                 "status": meta.get("status", ""),

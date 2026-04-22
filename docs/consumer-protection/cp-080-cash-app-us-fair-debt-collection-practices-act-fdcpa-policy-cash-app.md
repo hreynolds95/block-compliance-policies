@@ -14,6 +14,7 @@ effective_date: ""
 retirement_date: "2025-11-10"
 next_review_date: "2026-10-23"
 due_date_status: "Complete"
+doc_type: "Policy"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1pO2VcqwzcOukZIhj1Cq4ijiiSkGTg3CY/view?usp=sharing"
 logicgate_record_id: "72z2IwBQ"

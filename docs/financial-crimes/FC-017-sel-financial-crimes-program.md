@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-05-31"
 due_date_status: "Coming Due"
+doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/18JYqNcJhF4A2zaCPI87oPPJiJp2gm5NM/view?usp=sharing"

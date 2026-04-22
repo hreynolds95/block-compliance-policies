@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-02-28"
 due_date_status: "Overdue"
+doc_type: "Standard"
 retention_years: 3
 logicgate_record_id: "tNBNaUZc"
 ---

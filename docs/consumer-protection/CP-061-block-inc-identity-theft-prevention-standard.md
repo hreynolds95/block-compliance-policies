@@ -13,6 +13,7 @@ reviewers: []
 effective_date: ""
 next_review_date: "2026-06-30"
 due_date_status: "Current"
+doc_type: "Standard"
 retention_years: 5
 logicgate_record_id: "BetwZoUF"
 ---

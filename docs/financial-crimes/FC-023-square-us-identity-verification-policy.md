@@ -13,6 +13,7 @@ reviewers: []
 effective_date: "2026-01-08"
 next_review_date: "2026-08-12"
 due_date_status: "Current"
+doc_type: "Policy"
 lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1yBJyo9iZXzTtrSv6z7qJ6GfxO7VaOWDs/view?usp=sharing"
