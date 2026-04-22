@@ -1095,6 +1095,9 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 .dash-totals-row td { border-top: 1px solid var(--line) !important; font-weight: 600; color: var(--accent); }
 .dash-owner-link { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; transition: color 0.15s, border-color 0.15s; }
 .dash-owner-link:hover { color: var(--info); border-bottom-color: var(--info); }
+.ownership-expand-row td { border-bottom: none; text-align: center !important; padding: 8px 0; }
+.ownership-expand-btn { background: none; border: 1px solid var(--line); border-radius: var(--radius-md); color: var(--muted); font-size: 0.72rem; padding: 3px 10px; cursor: pointer; transition: color 0.15s, border-color 0.15s; }
+.ownership-expand-btn:hover { color: var(--info); border-color: var(--info); }
 .dash-totals-row .cell-label { color: var(--accent); }
 .dash-stat-table .cell-danger  { color: var(--danger); font-weight: 600; }
 .dash-stat-table .cell-warning { color: var(--warning); font-weight: 600; }

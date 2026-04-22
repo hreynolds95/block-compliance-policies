@@ -1,6 +1,7 @@
 /* Block Compliance Metrics Dashboard */
 
 let _docs = [];
+let _ownershipExpanded = false;
 
 async function init() {
   const res = await fetch('./docs-data.json').catch(() => null);
@@ -42,6 +43,7 @@ async function init() {
   const ownershipDocTypeSel = document.getElementById('ownershipDocType');
   if (ownershipDocTypeSel) {
     ownershipDocTypeSel.addEventListener('change', () => {
+      _ownershipExpanded = false;
       renderOwnershipBreakdown(_docs, ownershipDocTypeSel.value);
       ownershipDocTypeSel.classList.toggle('filter-select--active', ownershipDocTypeSel.value !== '');
     });
@@ -295,19 +297,18 @@ function renderOwnershipBreakdown(docs, docType) {
     else                                                                    ownerMap[owner].ok++;
   }
 
-  let owners = Object.keys(ownerMap);
-
   // Sort: overdue desc → coming-due desc → total desc
-  owners.sort((a, b) => {
+  const allOwners = Object.keys(ownerMap).sort((a, b) => {
     const A = ownerMap[a], B = ownerMap[b];
     return (B.ov - A.ov) || (B.cd - A.cd) || (B.total - A.total);
   });
 
-  let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
+  const atRisk  = allOwners.filter(o => ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
+  const onTrack = allOwners.filter(o => ownerMap[o].ov === 0 && ownerMap[o].cd === 0);
+  const visible = _ownershipExpanded ? allOwners : atRisk;
 
-  const rows = owners.map(owner => {
+  function ownerRow(owner) {
     const { total, ov, cd, ok } = ownerMap[owner];
-    totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     const isUnassigned = owner === 'Unassigned';
     const nameCls  = isUnassigned ? 'cell-warning' : 'cell-label';
     const base     = `./index.html?status=published&owner=${encodeURIComponent(owner)}`;
@@ -325,8 +326,27 @@ function renderOwnershipBreakdown(docs, docType) {
       <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cdHTML}</td>
       <td class="cell-success">${okHTML}</td>
     </tr>`;
-  }).join('');
+  }
 
+  const rows = visible.map(ownerRow).join('');
+
+  // Expand / collapse row
+  let expandRow = '';
+  if (onTrack.length > 0) {
+    const label = _ownershipExpanded
+      ? '▲ Show fewer'
+      : `▼ Show ${onTrack.length} more owner${onTrack.length !== 1 ? 's' : ''} (on track)`;
+    expandRow = `<tr class="ownership-expand-row">
+      <td colspan="5"><button class="ownership-expand-btn" id="ownershipExpandBtn">${label}</button></td>
+    </tr>`;
+  }
+
+  // Totals always reflect the full filtered set
+  let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
+  for (const o of allOwners) {
+    totTotal += ownerMap[o].total; totOv += ownerMap[o].ov;
+    totCd += ownerMap[o].cd;      totOk += ownerMap[o].ok;
+  }
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
     <td>${totTotal}</td>
@@ -335,7 +355,15 @@ function renderOwnershipBreakdown(docs, docType) {
     <td class="cell-success">${totOk}</td>
   </tr>`;
 
-  document.getElementById('ownershipTbody').innerHTML = rows + totalsRow;
+  document.getElementById('ownershipTbody').innerHTML = rows + expandRow + totalsRow;
+
+  const expandBtn = document.getElementById('ownershipExpandBtn');
+  if (expandBtn) {
+    expandBtn.addEventListener('click', () => {
+      _ownershipExpanded = !_ownershipExpanded;
+      renderOwnershipBreakdown(_docs, document.getElementById('ownershipDocType').value);
+    });
+  }
 }
 
 // ── CSV export ────────────────────────────────────────────────────────────────
