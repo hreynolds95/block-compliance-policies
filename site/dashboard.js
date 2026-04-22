@@ -377,7 +377,7 @@ function exportOwnershipCSV() {
     else                                                                   ownerMap[owner].ok++;
   }
   const owners = Object.keys(ownerMap).sort((a, b) => (ownerMap[b].ov - ownerMap[a].ov) || (ownerMap[b].cd - ownerMap[a].cd) || (ownerMap[b].total - ownerMap[a].total));
-  const rows = [['Owner', 'Policies', 'Overdue', 'Coming Due', 'On Track']];
+  const rows = [['Owner', 'Documents', 'Overdue', 'Coming Due', 'On Track']];
   for (const owner of owners) {
     const { total, ov, cd, ok } = ownerMap[owner];
     rows.push([owner, total, ov, cd, ok]);
