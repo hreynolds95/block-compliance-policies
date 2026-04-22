@@ -12,8 +12,8 @@ approval_type: owner
 reviewers: []
 effective_date: ""
 retirement_date: ""
-next_review_date: "2026-03-31"
-due_date_status: "Coming Due"
+next_review_date: "2026-10-23"
+due_date_status: "Complete"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1XZPGjjtOBg9ZQIjPzOh9xlyuW8CJ93Lz/view"
 logicgate_record_id: "LnTBGP1f"

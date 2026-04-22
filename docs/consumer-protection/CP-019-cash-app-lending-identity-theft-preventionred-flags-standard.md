@@ -11,7 +11,7 @@ owner: "Corey Chamberlain"
 approval_type: committee
 reviewers: []
 effective_date: "2025-10-30"
-next_review_date: "2026-10-31"
+next_review_date: "2025-10-30"
 due_date_status: "Current"
 lifecycle_status: "current"
 retention_years: 5
