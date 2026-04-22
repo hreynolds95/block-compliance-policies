@@ -206,12 +206,18 @@ function renderCoverageBreakdown(docs, groupBy) {
     const cd    = items.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
     const ok    = total - ov - cd;
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
+    const dimParam = groupBy === 'business' ? 'business' : 'domain';
+    const base     = `./index.html?status=published&${dimParam}=${encodeURIComponent(group)}`;
+    const ovHTML   = ov > 0 ? `<a href="${base}&review=overdue" class="dash-owner-link">${ov}</a>` : '—';
+    const cdHTML   = cd > 0 ? `<a href="${base}&review=coming-due" class="dash-owner-link">${cd}</a>` : '—';
+    const okHTML   = ok > 0 ? `<a href="${base}&review=ok" class="dash-owner-link">${ok}</a>` : '—';
+    const totHTML  = `<a href="${base}" class="dash-owner-link">${total}</a>`;
     return `<tr>
-      <td class="cell-label">${esc(labelFn(group))}</td>
-      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
-      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
-      <td class="cell-success">${ok}</td>
-      <td>${total}</td>
+      <td class="cell-label"><a href="${base}" class="dash-owner-link">${esc(labelFn(group))}</a></td>
+      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ovHTML}</td>
+      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cdHTML}</td>
+      <td class="cell-success">${okHTML}</td>
+      <td>${totHTML}</td>
     </tr>`;
   }).join('');
 
@@ -308,15 +314,20 @@ function renderOwnershipBreakdown(docs, filter) {
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     const isUnassigned = owner === 'Unassigned';
     const nameCls  = isUnassigned ? 'cell-warning' : 'cell-label';
+    const base     = `./index.html?status=published&owner=${encodeURIComponent(owner)}`;
     const nameHTML = isUnassigned
       ? esc(owner)
-      : `<a href="./index.html?owner=${encodeURIComponent(owner)}" class="dash-owner-link">${esc(owner)}</a>`;
+      : `<a href="${base}" class="dash-owner-link">${esc(owner)}</a>`;
+    const totalHTML = `<a href="${base}" class="dash-owner-link">${total}</a>`;
+    const ovHTML    = ov > 0 ? `<a href="${base}&review=overdue" class="dash-owner-link">${ov}</a>` : '—';
+    const cdHTML    = cd > 0 ? `<a href="${base}&review=coming-due" class="dash-owner-link">${cd}</a>` : '—';
+    const okHTML    = ok > 0 ? `<a href="${base}&review=ok" class="dash-owner-link">${ok}</a>` : '—';
     return `<tr>
       <td class="${nameCls}">${nameHTML}</td>
-      <td>${total}</td>
-      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ov > 0 ? ov : '—'}</td>
-      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cd > 0 ? cd : '—'}</td>
-      <td class="cell-success">${ok}</td>
+      <td>${totalHTML}</td>
+      <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ovHTML}</td>
+      <td class="${cd > 0 ? 'cell-warning' : 'cell-muted'}">${cdHTML}</td>
+      <td class="cell-success">${okHTML}</td>
     </tr>`;
   }).join('');
 
