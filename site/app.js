@@ -149,8 +149,9 @@ function filteredDocs() {
   const owner     = document.getElementById('filterOwner').value;
   const tier      = document.getElementById('filterTier').value;
   const review    = document.getElementById('filterReview').value;
-  const extension = document.getElementById('filterExtension').value;
-  const docType   = document.getElementById('filterDocType').value;
+  const extension  = document.getElementById('filterExtension').value;
+  const docType    = document.getElementById('filterDocType').value;
+  const lifecycle  = document.getElementById('filterLifecycle').value;
 
   return allDocs
     .filter(d => {
@@ -173,6 +174,7 @@ function filteredDocs() {
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
       if (docType && (d.doc_type || '') !== docType) return false;
+      if (lifecycle && (d.lifecycle_status || '') !== lifecycle) return false;
       if (recentDays !== null) {
         const cutoff = new Date();
         cutoff.setDate(cutoff.getDate() - recentDays);
@@ -459,7 +461,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('focus', ensureSearchIndex, { once: true });
 
-  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType'].forEach(id => {
+  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType', 'filterLifecycle'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       updateFilterHighlights();
       renderTable(filteredDocs());
@@ -479,8 +481,9 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterOwner').value     = '';
     document.getElementById('filterTier').value      = '';
     document.getElementById('filterReview').value    = '';
-    document.getElementById('filterExtension').value = '';
+    document.getElementById('filterExtension').value  = '';
     document.getElementById('filterDocType').value    = '';
+    document.getElementById('filterLifecycle').value  = '';
     recentDays = null;
     filterMonth = null;
     const chip = document.getElementById('recentChip');
@@ -541,8 +544,9 @@ function applyUrlFilters() {
     entity:    'filterEntity',
     owner:     'filterOwner',
     tier:      'filterTier',
-    extension: 'filterExtension',
-    doc_type:  'filterDocType',
+    extension:  'filterExtension',
+    doc_type:   'filterDocType',
+    lifecycle:  'filterLifecycle',
   };
   Object.entries(filterMap).forEach(([param, id]) => {
     const val = params.get(param);
@@ -585,6 +589,7 @@ function getActiveLibraryContext() {
     ['filterReview',   'review status'],
     ['filterExtension','extension'],
     ['filterDocType',  'document type'],
+    ['filterLifecycle','lifecycle'],
   ];
   for (const [id, label] of checks) {
     const val = document.getElementById(id)?.value;
@@ -598,7 +603,7 @@ function getActiveLibraryContext() {
 }
 
 function updateFilterHighlights() {
-  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType'];
+  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType', 'filterLifecycle'];
   let anyActive = document.getElementById('searchInput').value !== '' || recentDays !== null || filterMonth !== null;
   filterIds.forEach(id => {
     const el = document.getElementById(id);

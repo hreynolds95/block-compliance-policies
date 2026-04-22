@@ -164,22 +164,28 @@ function renderLifecycleBreakdown(docs) {
     const app  = group.filter(d => d.lifecycle_status === 'in-approvals').length;
     const total = group.length;
     totCurr += curr; totQc += qc; totApp += app;
+    const base    = `./index.html?status=published&domain=${encodeURIComponent(domain)}`;
+    const currHTML = curr > 0 ? `<a href="${base}&lifecycle=current" class="dash-owner-link">${curr}</a>` : '—';
+    const qcHTML   = qc > 0   ? `<a href="${base}&lifecycle=under-qc" class="dash-owner-link">${qc}</a>` : '—';
+    const appHTML  = app > 0  ? `<a href="${base}&lifecycle=in-approvals" class="dash-owner-link">${app}</a>` : '—';
+    const totHTML  = `<a href="${base}" class="dash-owner-link">${total}</a>`;
     return `<tr>
-      <td class="cell-label">${esc(domainLabel(domain))}</td>
-      <td class="cell-success">${curr}</td>
-      <td class="${qc > 0 ? 'cell-warning' : 'cell-muted'}">${qc > 0 ? qc : '—'}</td>
-      <td class="${app > 0 ? 'cell-warning' : 'cell-muted'}">${app > 0 ? app : '—'}</td>
-      <td>${total}</td>
+      <td class="cell-label"><a href="${base}" class="dash-owner-link">${esc(domainLabel(domain))}</a></td>
+      <td class="cell-success">${currHTML}</td>
+      <td class="${qc > 0 ? 'cell-warning' : 'cell-muted'}">${qcHTML}</td>
+      <td class="${app > 0 ? 'cell-warning' : 'cell-muted'}">${appHTML}</td>
+      <td>${totHTML}</td>
     </tr>`;
   }).join('');
 
   const totTotal = totCurr + totQc + totApp;
+  const base0 = `./index.html?status=published`;
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
-    <td class="cell-success">${totCurr}</td>
-    <td class="${totQc > 0 ? 'cell-warning' : 'cell-muted'}">${totQc > 0 ? totQc : '—'}</td>
-    <td class="${totApp > 0 ? 'cell-warning' : 'cell-muted'}">${totApp > 0 ? totApp : '—'}</td>
-    <td>${totTotal}</td>
+    <td class="cell-success"><a href="${base0}&lifecycle=current" class="dash-owner-link">${totCurr}</a></td>
+    <td class="${totQc > 0 ? 'cell-warning' : 'cell-muted'}">${totQc > 0 ? `<a href="${base0}&lifecycle=under-qc" class="dash-owner-link">${totQc}</a>` : '—'}</td>
+    <td class="${totApp > 0 ? 'cell-warning' : 'cell-muted'}">${totApp > 0 ? `<a href="${base0}&lifecycle=in-approvals" class="dash-owner-link">${totApp}</a>` : '—'}</td>
+    <td><a href="${base0}" class="dash-owner-link">${totTotal}</a></td>
   </tr>`;
 
   document.getElementById('lifecycleTbody').innerHTML = rows + totalsRow;
