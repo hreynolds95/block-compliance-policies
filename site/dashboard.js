@@ -31,13 +31,21 @@ async function init() {
   renderCoverageBreakdown(docs, 'domain');
   renderTierBreakdown(docs);
   renderStatusBreakdown(docs);
-  renderOwnershipBreakdown(docs);
+  renderOwnershipBreakdown(docs, '');
 
   if (window.quincyInit) window.quincyInit(docs, { page: 'dashboard' });
 
   document.getElementById('exportRegisterBtn').addEventListener('click', exportPolicyRegisterCSV);
   document.getElementById('exportCoverageBtn').addEventListener('click', exportCoverageCSV);
   document.getElementById('exportOwnershipBtn').addEventListener('click', exportOwnershipCSV);
+
+  const ownershipDocTypeSel = document.getElementById('ownershipDocType');
+  if (ownershipDocTypeSel) {
+    ownershipDocTypeSel.addEventListener('change', () => {
+      renderOwnershipBreakdown(_docs, ownershipDocTypeSel.value);
+      ownershipDocTypeSel.classList.toggle('filter-select--active', ownershipDocTypeSel.value !== '');
+    });
+  }
 
   const coverageSel = document.getElementById('coverageGroupBy');
   if (coverageSel) {
@@ -272,8 +280,8 @@ function renderStatusBreakdown(docs) {
   document.getElementById('statusRows').innerHTML = rows + totalsRow;
 }
 
-function renderOwnershipBreakdown(docs) {
-  const published = docs.filter(d => d.status === 'published');
+function renderOwnershipBreakdown(docs, docType) {
+  const published = docs.filter(d => d.status === 'published' && (!docType || d.doc_type === docType));
 
   // Build owner map
   const ownerMap = {};
@@ -365,7 +373,8 @@ function exportCoverageCSV() {
 }
 
 function exportOwnershipCSV() {
-  const published = _docs.filter(d => d.status === 'published');
+  const docType   = document.getElementById('ownershipDocType').value;
+  const published = _docs.filter(d => d.status === 'published' && (!docType || d.doc_type === docType));
   const ownerMap  = {};
   for (const d of published) {
     const owner = d.owner || 'Unassigned';
@@ -382,7 +391,8 @@ function exportOwnershipCSV() {
     const { total, ov, cd, ok } = ownerMap[owner];
     rows.push([owner, total, ov, cd, ok]);
   }
-  downloadCSV(`block-compliance-ownership-${today()}.csv`, rows);
+  const suffix = docType ? `-${docType.toLowerCase()}` : '';
+  downloadCSV(`block-compliance-ownership${suffix}-${today()}.csv`, rows);
 }
 
 function exportPolicyRegisterCSV() {
