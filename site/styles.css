@@ -1128,6 +1128,11 @@ a.drawer-audit-link:hover { text-decoration: underline; }
   border-color: var(--accent);
   background: color-mix(in srgb, var(--bg) 82%, var(--accent) 18%);
 }
+.tier-card-link-block { display: block; text-decoration: none; color: inherit; }
+.tier-card:has(.tier-card-link-block:hover) {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--bg) 82%, var(--accent) 18%);
+}
 .tier-card-label {
   font-size: 0.68rem;
   font-weight: 500;
@@ -1143,6 +1148,10 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 }
 .tier-card-sub  { font-size: 0.69rem; color: var(--muted); margin-top: 2px; }
 .tier-card-alert { color: var(--danger); }
+.tier-card-alert-link { text-decoration: none; font-weight: 600; }
+.tier-card-alert-link:hover { text-decoration: underline; }
+.tier-card-alert-link--danger { color: var(--danger); }
+.tier-card-alert-link--warn   { color: var(--warning); }
 
 /* ── Review Schedule Bar Chart ── */
 .bar-chart-hint {

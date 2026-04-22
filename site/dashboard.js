@@ -244,15 +244,22 @@ function renderTierBreakdown(docs) {
   const labels = { 1: 'Board-approved', 2: 'Committee-approved', 3: 'Owner-approved' };
 
   document.getElementById('tierCards').innerHTML = [1,2,3].map(tier => {
-    const group  = published.filter(d => d.tier == tier);
-    const total  = group.length;
-    const ov     = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
-    const alert  = ov > 0 ? ` · <span class="tier-card-alert">${ov} overdue</span>` : '';
-    return `<a href="./index.html?tier=${tier}" class="tier-card tier-card--link">
-      <div class="tier-card-label">Tier ${tier}</div>
-      <div class="tier-card-value">${total}</div>
-      <div class="tier-card-sub">${esc(labels[tier])}${alert}</div>
-    </a>`;
+    const group = published.filter(d => d.tier == tier);
+    const total = group.length;
+    const ov    = group.filter(d => ['overdue','pending-review','overdue-past-extension'].includes(d.review_status)).length;
+    const cd    = group.filter(d => ['due-soon','extension-coming-due'].includes(d.review_status)).length;
+    const base  = `./index.html?status=published&tier=${tier}`;
+    const ovHTML = ov > 0 ? `<a href="${base}&review=overdue" class="tier-card-alert-link tier-card-alert-link--danger">${ov} overdue</a>` : '';
+    const cdHTML = cd > 0 ? `<a href="${base}&review=coming-due" class="tier-card-alert-link tier-card-alert-link--warn">${cd} coming due</a>` : '';
+    const alerts = [ovHTML, cdHTML].filter(Boolean).join(' · ');
+    const alertHTML = alerts ? ` · ${alerts}` : '';
+    return `<div class="tier-card">
+      <a href="${base}" class="tier-card-link-block">
+        <div class="tier-card-label">Tier ${tier}</div>
+        <div class="tier-card-value">${total}</div>
+      </a>
+      <div class="tier-card-sub">${esc(labels[tier])}${alertHTML}</div>
+    </div>`;
   }).join('');
 }
 
