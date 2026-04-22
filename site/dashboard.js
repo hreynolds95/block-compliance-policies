@@ -266,9 +266,10 @@ function renderStatusBreakdown(docs) {
     const count = published.filter(d => keys.includes(d.review_status)).length;
     if (!count) return '';
     total += count;
+    const href = `./index.html?status=published&review=${encodeURIComponent(keys[0])}`;
     return `<tr>
-      <td class="cell-label">${esc(label)}</td>
-      <td class="${cls}">${count}</td>
+      <td class="cell-label"><a href="${href}" class="dash-owner-link">${esc(label)}</a></td>
+      <td class="${cls}"><a href="${href}" class="dash-owner-link">${count}</a></td>
     </tr>`;
   }).join('');
 
