@@ -31,22 +31,13 @@ async function init() {
   renderCoverageBreakdown(docs, 'domain');
   renderTierBreakdown(docs);
   renderStatusBreakdown(docs);
-  renderOwnershipBreakdown(docs, 'at-risk');
+  renderOwnershipBreakdown(docs);
 
   if (window.quincyInit) window.quincyInit(docs, { page: 'dashboard' });
 
   document.getElementById('exportRegisterBtn').addEventListener('click', exportPolicyRegisterCSV);
   document.getElementById('exportCoverageBtn').addEventListener('click', exportCoverageCSV);
   document.getElementById('exportOwnershipBtn').addEventListener('click', exportOwnershipCSV);
-
-  const ownershipSel = document.getElementById('ownershipFilter');
-  if (ownershipSel) {
-    ownershipSel.addEventListener('change', () => {
-      const filter = ownershipSel.value;
-      renderOwnershipBreakdown(_docs, filter);
-      ownershipSel.classList.toggle('filter-select--active', filter !== 'at-risk');
-    });
-  }
 
   const coverageSel = document.getElementById('coverageGroupBy');
   if (coverageSel) {
@@ -281,7 +272,7 @@ function renderStatusBreakdown(docs) {
   document.getElementById('statusRows').innerHTML = rows + totalsRow;
 }
 
-function renderOwnershipBreakdown(docs, filter) {
+function renderOwnershipBreakdown(docs) {
   const published = docs.filter(d => d.status === 'published');
 
   // Build owner map
@@ -296,11 +287,7 @@ function renderOwnershipBreakdown(docs, filter) {
     else                                                                    ownerMap[owner].ok++;
   }
 
-  // Filter: at-risk = any overdue/coming-due, plus Unassigned always
   let owners = Object.keys(ownerMap);
-  if (filter === 'at-risk') {
-    owners = owners.filter(o => o === 'Unassigned' || ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
-  }
 
   // Sort: overdue desc → coming-due desc → total desc
   owners.sort((a, b) => {
@@ -378,7 +365,6 @@ function exportCoverageCSV() {
 }
 
 function exportOwnershipCSV() {
-  const filter    = document.getElementById('ownershipFilter').value;
   const published = _docs.filter(d => d.status === 'published');
   const ownerMap  = {};
   for (const d of published) {
@@ -390,15 +376,13 @@ function exportOwnershipCSV() {
     else if (['due-soon','extension-coming-due'].includes(rs))             ownerMap[owner].cd++;
     else                                                                   ownerMap[owner].ok++;
   }
-  let owners = Object.keys(ownerMap);
-  if (filter === 'at-risk') owners = owners.filter(o => o === 'Unassigned' || ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
-  owners.sort((a, b) => (ownerMap[b].ov - ownerMap[a].ov) || (ownerMap[b].cd - ownerMap[a].cd) || (ownerMap[b].total - ownerMap[a].total));
+  const owners = Object.keys(ownerMap).sort((a, b) => (ownerMap[b].ov - ownerMap[a].ov) || (ownerMap[b].cd - ownerMap[a].cd) || (ownerMap[b].total - ownerMap[a].total));
   const rows = [['Owner', 'Policies', 'Overdue', 'Coming Due', 'On Track']];
   for (const owner of owners) {
     const { total, ov, cd, ok } = ownerMap[owner];
     rows.push([owner, total, ov, cd, ok]);
   }
-  downloadCSV(`block-compliance-ownership-${filter}-${today()}.csv`, rows);
+  downloadCSV(`block-compliance-ownership-${today()}.csv`, rows);
 }
 
 function exportPolicyRegisterCSV() {
