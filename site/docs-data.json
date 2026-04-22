@@ -1,10 +1,11 @@
 {
-  "generated": "2026-04-22T15:05:46.971492+00:00",
+  "generated": "2026-04-22T18:08:02.301016+00:00",
   "source": "LogicGate \u2192 Snowflake",
   "documents": [
     {
       "doc_id": "CP-001",
       "pwf_record_id": "3f1WqSZr",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada Limited Canada Accessibility Policy",
       "version": "1.0.0",
       "status": "published",
@@ -28,6 +29,7 @@
     {
       "doc_id": "CP-002",
       "pwf_record_id": "sFlAhCvc",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada Limited Canada Complaints Policy",
       "version": "1.0.0",
       "status": "published",
@@ -51,6 +53,7 @@
     {
       "doc_id": "CP-003",
       "pwf_record_id": "QXaCXZML",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada Limited Canada Consumer Protection Policy",
       "version": "1.0.0",
       "status": "published",
@@ -74,6 +77,7 @@
     {
       "doc_id": "CP-004",
       "pwf_record_id": "Lc1g9fK9",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada Limited Canada\u2019s Anti-Spam Legislation (CASL) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -97,6 +101,7 @@
     {
       "doc_id": "CP-005",
       "pwf_record_id": "ExQzyD04",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Controlling the Assault of Non-Solicited Pornography & Marketing Act (CAN-SPAM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -120,6 +125,7 @@
     {
       "doc_id": "CP-006",
       "pwf_record_id": "pOkWvl5q",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Electronic Funds Transfer Act (EFTA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -143,6 +149,7 @@
     {
       "doc_id": "CP-007",
       "pwf_record_id": "VzEcKpJa",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Electronic Signatures in Global and National Commerce Act (E-SIGN) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -166,6 +173,7 @@
     {
       "doc_id": "CP-008",
       "pwf_record_id": "2FXvPN99",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Equal Credit Opportunity Act (ECOA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -189,6 +197,7 @@
     {
       "doc_id": "CP-009",
       "pwf_record_id": "HuaW61nS",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Fair & Responsible Lending Policy",
       "version": "1.0.0",
       "status": "published",
@@ -212,6 +221,7 @@
     {
       "doc_id": "CP-010",
       "pwf_record_id": "J44yECeR",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Fair Credit Reporting Act (FCRA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -235,6 +245,7 @@
     {
       "doc_id": "CP-011",
       "pwf_record_id": "bcU9by9Z",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Fair Debt Collection Practices Act (FDCPA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -258,6 +269,7 @@
     {
       "doc_id": "CP-012",
       "pwf_record_id": "t4meZQdU",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Global Complaint Policy",
       "version": "1.0.0",
       "status": "published",
@@ -281,6 +293,7 @@
     {
       "doc_id": "CP-013",
       "pwf_record_id": "GfA5jkuJ",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Gramm-Leach-Bliley Act (GLBA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -304,6 +317,7 @@
     {
       "doc_id": "CP-014",
       "pwf_record_id": "oPd6jnt0",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Military Lending Act (MLA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -327,6 +341,7 @@
     {
       "doc_id": "CP-015",
       "pwf_record_id": "oZkLUcpV",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Servicemember Civil Relief Act (SCRA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -350,6 +365,7 @@
     {
       "doc_id": "CP-016",
       "pwf_record_id": "6CL6pWCD",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Telephone Consumer Protection Act (TCPA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -373,6 +389,7 @@
     {
       "doc_id": "CP-017",
       "pwf_record_id": "H9K7siD0",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Truth in Lending Act (TILA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -396,6 +413,7 @@
     {
       "doc_id": "CP-018",
       "pwf_record_id": "qgHShd5P",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Unfair, Deceptive, or Abusive Acts or Practices / Unfair or Deceptive Acts or Practices (UDAAP/UDAP) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -419,6 +437,7 @@
     {
       "doc_id": "CP-019",
       "pwf_record_id": "gNsb8BOP",
+      "pwf_workflow": "Standards",
       "title": "Cash App Lending Identity Theft Prevention/Red Flags Standard",
       "version": "1.0.0",
       "status": "published",
@@ -442,6 +461,7 @@
     {
       "doc_id": "CP-020",
       "pwf_record_id": "h4COuZQ8",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Customer Conduct & Staff Protection Policy",
       "version": "1.0.0",
       "status": "published",
@@ -465,6 +485,7 @@
     {
       "doc_id": "CP-021",
       "pwf_record_id": "k8KcGIv7",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Denylist Appeals Policy",
       "version": "1.0.0",
       "status": "published",
@@ -488,6 +509,7 @@
     {
       "doc_id": "CP-022",
       "pwf_record_id": "JDIaj2gF",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Disputes Standard",
       "version": "1.0.0",
       "status": "published",
@@ -511,6 +533,7 @@
     {
       "doc_id": "CP-023",
       "pwf_record_id": "hXlEhvTF",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Elder Financial Exploitation Policy",
       "version": "1.0.0",
       "status": "published",
@@ -534,6 +557,7 @@
     {
       "doc_id": "CP-024",
       "pwf_record_id": "1oOEfZns",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Loan Loss and Charge Off Policy (Lending)",
       "version": "1.0.0",
       "status": "published",
@@ -557,6 +581,7 @@
     {
       "doc_id": "CP-025",
       "pwf_record_id": "IBYlPbxu",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Peer-to-Peer (P2P) Scam Policy",
       "version": "1.0.0",
       "status": "published",
@@ -580,6 +605,7 @@
     {
       "doc_id": "CP-026",
       "pwf_record_id": "6YkRvx6h",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK - Consumer Duty Policy",
       "version": "1.0.0",
       "status": "draft",
@@ -603,6 +629,7 @@
     {
       "doc_id": "CP-027",
       "pwf_record_id": "D0OExftc",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK - Senior Managers Certification Regime & Conduct Policy",
       "version": "1.0.0",
       "status": "published",
@@ -626,6 +653,7 @@
     {
       "doc_id": "CP-028",
       "pwf_record_id": "P4oc2Yey",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK - Vulnerable Customer Policy",
       "version": "1.0.0",
       "status": "draft",
@@ -649,6 +677,7 @@
     {
       "doc_id": "CP-029",
       "pwf_record_id": "SBUp5b0t",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK Marketing & Financial Promotions Policy",
       "version": "1.0.0",
       "status": "draft",
@@ -672,6 +701,7 @@
     {
       "doc_id": "CP-030",
       "pwf_record_id": "k59c6nVc",
+      "pwf_workflow": "Standards",
       "title": "Clearpay UK Vulnerable Customer Standard",
       "version": "1.0.0",
       "status": "published",
@@ -695,6 +725,7 @@
     {
       "doc_id": "CP-031",
       "pwf_record_id": "3Bpbo4ni",
+      "pwf_workflow": "Standards",
       "title": "Red Flags/Identity Theft Risk Assessment Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -718,6 +749,7 @@
     {
       "doc_id": "CP-032",
       "pwf_record_id": "OqLP0mi3",
+      "pwf_workflow": "Policies",
       "title": "SEL Consumer Protection Policy",
       "version": "1.0.0",
       "status": "published",
@@ -741,6 +773,7 @@
     {
       "doc_id": "CP-033",
       "pwf_record_id": "azN2RuIF",
+      "pwf_workflow": "Policies",
       "title": "SEL Vulnerable Customer Policy",
       "version": "1.0.0",
       "status": "published",
@@ -764,6 +797,7 @@
     {
       "doc_id": "CP-034",
       "pwf_record_id": "TGSrAJXm",
+      "pwf_workflow": "Policies",
       "title": "SIL Consumer Protection Policy",
       "version": "1.0.0",
       "status": "published",
@@ -787,6 +821,7 @@
     {
       "doc_id": "CP-035",
       "pwf_record_id": "l3B1FcxT",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Australian Financial Services License (AFSL) Representatives Standard",
       "version": "1.0.0",
       "status": "published",
@@ -810,6 +845,7 @@
     {
       "doc_id": "CP-036",
       "pwf_record_id": "N0vAhhBL",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Consumer Protection Policy",
       "version": "1.0.0",
       "status": "published",
@@ -833,6 +869,7 @@
     {
       "doc_id": "CP-037",
       "pwf_record_id": "8OzDibqM",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Responsible Managers Standards",
       "version": "1.0.0",
       "status": "published",
@@ -856,6 +893,7 @@
     {
       "doc_id": "CP-038",
       "pwf_record_id": "pSsudTBQ",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Commercial Telemarketing Policy",
       "version": "1.0.0",
       "status": "published",
@@ -879,6 +917,7 @@
     {
       "doc_id": "CP-039",
       "pwf_record_id": "74XSYudl",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -902,6 +941,7 @@
     {
       "doc_id": "CP-040",
       "pwf_record_id": "OLLSLlNP",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Credit Card Privacy Policy",
       "version": "1.0.0",
       "status": "published",
@@ -925,6 +965,7 @@
     {
       "doc_id": "CP-041",
       "pwf_record_id": "nuUi1IsG",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Electronic Signature (E-SIGN) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -948,6 +989,7 @@
     {
       "doc_id": "CP-042",
       "pwf_record_id": "SJb5xTCE",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Equal Credit Opportunity Act (ECOA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -971,6 +1013,7 @@
     {
       "doc_id": "CP-043",
       "pwf_record_id": "RNAVAW87",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Fair and Accurate Credit Transactions Act Policy",
       "version": "1.0.0",
       "status": "published",
@@ -994,6 +1037,7 @@
     {
       "doc_id": "CP-044",
       "pwf_record_id": "BHSkwfNW",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Red Flags Policy",
       "version": "1.0.0",
       "status": "published",
@@ -1017,6 +1061,7 @@
     {
       "doc_id": "CP-045",
       "pwf_record_id": "tUrysjTu",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Servicemembers Civil Relief Act (SCRA) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -1040,6 +1085,7 @@
     {
       "doc_id": "CP-046",
       "pwf_record_id": "81MhPAGY",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Unfair or Deceptive Acts Policy",
       "version": "1.0.0",
       "status": "published",
@@ -1063,6 +1109,7 @@
     {
       "doc_id": "CP-047",
       "pwf_record_id": "CIqfKTvR",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Australia and New Zealand Complaints Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1086,6 +1133,7 @@
     {
       "doc_id": "CP-048",
       "pwf_record_id": "VCmc66AK",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Canada Limited Canada Marketing Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1109,6 +1157,7 @@
     {
       "doc_id": "CP-049",
       "pwf_record_id": "EnAGDLlu",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Canada Limited French Language Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1132,6 +1181,7 @@
     {
       "doc_id": "CP-050",
       "pwf_record_id": "XzNGIiMU",
+      "pwf_workflow": "Standards",
       "title": "Afterpay US Inc US Complaint Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1155,6 +1205,7 @@
     {
       "doc_id": "CP-051",
       "pwf_record_id": "qVrDydZD",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Global Complaint Program Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1178,6 +1229,7 @@
     {
       "doc_id": "CP-052",
       "pwf_record_id": "aCcBASOj",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Acquiring Chargebacks Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1201,6 +1253,7 @@
     {
       "doc_id": "CP-053",
       "pwf_record_id": "RwNJOgTW",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Complaints Standard Cash",
       "version": "1.0.0",
       "status": "published",
@@ -1224,6 +1277,7 @@
     {
       "doc_id": "CP-054",
       "pwf_record_id": "zam4rNVG",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Consumer Protection Program Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1247,6 +1301,7 @@
     {
       "doc_id": "CP-055",
       "pwf_record_id": "GOsc86nR",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Fraud Risk Management Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1270,6 +1325,7 @@
     {
       "doc_id": "CP-056",
       "pwf_record_id": "cqCCXqNv",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Lending Operations Complaints Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1293,6 +1349,7 @@
     {
       "doc_id": "CP-057",
       "pwf_record_id": "tNBNaUZc",
+      "pwf_workflow": "Standards",
       "title": "Clearpay UK Customer Communications Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -1316,6 +1373,7 @@
     {
       "doc_id": "CP-058",
       "pwf_record_id": "X8fk2wsr",
+      "pwf_workflow": "Standards",
       "title": "SIL Customer Communication Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1339,6 +1397,7 @@
     {
       "doc_id": "CP-059",
       "pwf_record_id": "f2lQTKaw",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Hardship Support Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1362,6 +1421,7 @@
     {
       "doc_id": "CP-060",
       "pwf_record_id": "5MsS5F5E",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Vulnerable Customers Standard",
       "version": "1.0.0",
       "status": "published",
@@ -1385,6 +1445,7 @@
     {
       "doc_id": "CP-061",
       "pwf_record_id": "BetwZoUF",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Identity Theft Prevention Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -1408,6 +1469,7 @@
     {
       "doc_id": "CP-062",
       "pwf_record_id": "IkqGVH8h",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1431,6 +1493,7 @@
     {
       "doc_id": "CP-063",
       "pwf_record_id": "LlOKDNhb",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Electronic Funds Transfer Act (EFTA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1454,6 +1517,7 @@
     {
       "doc_id": "CP-064",
       "pwf_record_id": "dhDPbY8O",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Electronic Signatures in Global and National Commerce Act (E-SIGN) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1477,6 +1541,7 @@
     {
       "doc_id": "CP-065",
       "pwf_record_id": "kwYu46D4",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Equal Credit Opportunity Act (ECOA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1500,6 +1565,7 @@
     {
       "doc_id": "CP-066",
       "pwf_record_id": "is3Ie6aH",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Fair Credit Reporting Act (FCRA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1523,6 +1589,7 @@
     {
       "doc_id": "CP-067",
       "pwf_record_id": "Yz3PuHbH",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Fair Debt Collection Practices Act (FDCPA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1546,6 +1613,7 @@
     {
       "doc_id": "CP-068",
       "pwf_record_id": "wbnJmkuZ",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Gramm-Leach-Bliley Act (GLBA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1569,6 +1637,7 @@
     {
       "doc_id": "CP-069",
       "pwf_record_id": "aPRbWqjp",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Military Lending Act (MLA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1592,6 +1661,7 @@
     {
       "doc_id": "CP-070",
       "pwf_record_id": "OI4QSQob",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Servicemembers Civil Relief Act (SCRA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1615,6 +1685,7 @@
     {
       "doc_id": "CP-071",
       "pwf_record_id": "mklSP7k7",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Telephone Consumer Protection Act (TCPA) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1638,6 +1709,7 @@
     {
       "doc_id": "CP-072",
       "pwf_record_id": "B2Vf8pqu",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Truth in Lending Act (TILA) Policy (Regulation Z)",
       "version": "1.0.0",
       "status": "retired",
@@ -1661,6 +1733,7 @@
     {
       "doc_id": "CP-073",
       "pwf_record_id": "8F1EHGYM",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Unfair, Deceptive, or Abusive Acts or Practices Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1684,6 +1757,7 @@
     {
       "doc_id": "CP-074",
       "pwf_record_id": "HP6KFaKJ",
+      "pwf_workflow": "Policies",
       "title": "Cash App US CAN-SPAM Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1707,6 +1781,7 @@
     {
       "doc_id": "CP-075",
       "pwf_record_id": "EzvhekPT",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Cash App UDAAP Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1730,6 +1805,7 @@
     {
       "doc_id": "CP-076",
       "pwf_record_id": "vkhsYU68",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Electronic Fund Transfer Act (Regulation E) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1753,6 +1829,7 @@
     {
       "doc_id": "CP-077",
       "pwf_record_id": "GbrBgQyc",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Electronic Signature (E-Sign) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1776,6 +1853,7 @@
     {
       "doc_id": "CP-078",
       "pwf_record_id": "uUEVZysZ",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Equal Credit Opportunity Act (ECOA) Policy (Lending)",
       "version": "1.0.0",
       "status": "retired",
@@ -1799,6 +1877,7 @@
     {
       "doc_id": "CP-079",
       "pwf_record_id": "sMtbUoxL",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Fair Credit Reporting Act (FCRA) Policy (Lending)",
       "version": "1.0.0",
       "status": "retired",
@@ -1822,6 +1901,7 @@
     {
       "doc_id": "CP-080",
       "pwf_record_id": "72z2IwBQ",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Fair Debt Collection Practices Act (FDCPA) Policy (Cash-App)",
       "version": "1.0.0",
       "status": "retired",
@@ -1845,6 +1925,7 @@
     {
       "doc_id": "CP-081",
       "pwf_record_id": "13Chq4s2",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Gramm-Leach-Bliley Act (GLBA) Privacy Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1868,6 +1949,7 @@
     {
       "doc_id": "CP-082",
       "pwf_record_id": "pZtgfIsj",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Military Lending Act Policy (Lending)",
       "version": "1.0.0",
       "status": "retired",
@@ -1891,6 +1973,7 @@
     {
       "doc_id": "CP-083",
       "pwf_record_id": "EnbgkQ2X",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Service Members Civil Relief (SCRA) - Lending Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1914,6 +1997,7 @@
     {
       "doc_id": "CP-084",
       "pwf_record_id": "8p78wMbS",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Truth in Lending Act Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -1937,6 +2021,7 @@
     {
       "doc_id": "EE-001",
       "pwf_record_id": "PJwtBSQo",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Code of Business Conduct & Ethics",
       "version": "1.0.0",
       "status": "published",
@@ -1960,6 +2045,7 @@
     {
       "doc_id": "EE-002",
       "pwf_record_id": "s7JciCE8",
+      "pwf_workflow": "Policies",
       "title": "Block Inc. Global Modern Slavery Policy",
       "version": "1.0.0",
       "status": "published",
@@ -1983,6 +2069,7 @@
     {
       "doc_id": "EE-003",
       "pwf_record_id": "e4bGKfuL",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Anti-Bribery & Anti-Corruption Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2006,6 +2093,7 @@
     {
       "doc_id": "EE-004",
       "pwf_record_id": "aOepvWvP",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Gifts & Entertainment Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2029,6 +2117,7 @@
     {
       "doc_id": "EE-005",
       "pwf_record_id": "7B9dofwK",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Global Conflicts of Interest Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2052,6 +2141,7 @@
     {
       "doc_id": "EE-006",
       "pwf_record_id": "dEUBJ3Hx",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Speak Up Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2075,6 +2165,7 @@
     {
       "doc_id": "EE-007",
       "pwf_record_id": "INpp6byw",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK - Whistleblowing Policy",
       "version": "1.0.0",
       "status": "draft",
@@ -2098,6 +2189,7 @@
     {
       "doc_id": "EE-008",
       "pwf_record_id": "DjtPG2iZ",
+      "pwf_workflow": "Policies",
       "title": "SEL Conflicts of Interest Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2121,6 +2213,7 @@
     {
       "doc_id": "EE-009",
       "pwf_record_id": "m9gEYTPp",
+      "pwf_workflow": "Policies",
       "title": "SEL Speak Up Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2144,6 +2237,7 @@
     {
       "doc_id": "EE-010",
       "pwf_record_id": "GCZtqbqX",
+      "pwf_workflow": "Policies",
       "title": "SIL Conduct Standards Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2167,6 +2261,7 @@
     {
       "doc_id": "EE-011",
       "pwf_record_id": "gknwi9oy",
+      "pwf_workflow": "Policies",
       "title": "SIL Conflicts of Interest Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2190,6 +2285,7 @@
     {
       "doc_id": "EE-012",
       "pwf_record_id": "GpspRUIT",
+      "pwf_workflow": "Policies",
       "title": "SIL Fitness & Probity Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2213,6 +2309,7 @@
     {
       "doc_id": "EE-013",
       "pwf_record_id": "eJ5tcv8K",
+      "pwf_workflow": "Policies",
       "title": "SIL Speak Up Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2236,6 +2333,7 @@
     {
       "doc_id": "EE-014",
       "pwf_record_id": "oLN1ZSBr",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Conflicts of Interest Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2259,6 +2357,7 @@
     {
       "doc_id": "EE-015",
       "pwf_record_id": "Rjv2KDcf",
+      "pwf_workflow": "Standards",
       "title": "Cash App Investing LLC Investing Communications Requirements Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2282,6 +2381,7 @@
     {
       "doc_id": "FC-001",
       "pwf_record_id": "S5zeTecD",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Anti-Money Laundering & Counter-Terrorist Financing (AML & CFT) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2305,6 +2405,7 @@
     {
       "doc_id": "FC-002",
       "pwf_record_id": "SVQBoOTz",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Global Sanctions Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2328,6 +2429,7 @@
     {
       "doc_id": "FC-003",
       "pwf_record_id": "9EFxOyMG",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Australia Pty Ltd Anti-Money Laundering and Counter-Terrorism Financing (AML & CTF) Program - Part A",
       "version": "1.0.0",
       "status": "published",
@@ -2351,6 +2453,7 @@
     {
       "doc_id": "FC-004",
       "pwf_record_id": "jNzHDmm9",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Australia Pty Ltd Anti-Money Laundering and Counter-Terrorism Financing (AML & CTF) Program - Part B - Customer Identification and Verification",
       "version": "1.0.0",
       "status": "published",
@@ -2374,6 +2477,7 @@
     {
       "doc_id": "FC-005",
       "pwf_record_id": "TYV5iOMj",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Canada Anti-Money Laundering and Counter-Terrorism Financing (AML & CTF) Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2397,6 +2501,7 @@
     {
       "doc_id": "FC-006",
       "pwf_record_id": "31J5jxXm",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Canada Australian Anti-Money Laundering / Counter-Terrorism Financing (AML/CTF) Program",
       "version": "1.0.0",
       "status": "published",
@@ -2420,6 +2525,7 @@
     {
       "doc_id": "FC-007",
       "pwf_record_id": "IGTHqJEt",
+      "pwf_workflow": "Standards",
       "title": "Afterpay NZ Limited Anti-Money Laundering / Counter-Terrorist Financing (AML/CTF) Programme",
       "version": "1.0.0",
       "status": "published",
@@ -2443,6 +2549,7 @@
     {
       "doc_id": "FC-008",
       "pwf_record_id": "cTZvgejO",
+      "pwf_workflow": "Standards",
       "title": "Afterpay New Zealand Australian Anti-Money Laundering / Countering Financing of Terrorism (AML/CFT) Program",
       "version": "1.0.0",
       "status": "published",
@@ -2466,6 +2573,7 @@
     {
       "doc_id": "FC-009",
       "pwf_record_id": "MGVJ6Kbv",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Global Sanctions Compliance Program Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2489,6 +2597,7 @@
     {
       "doc_id": "FC-010",
       "pwf_record_id": "kpcKVY9r",
+      "pwf_workflow": "Policies",
       "title": "Cash App Risk and Compliance Adverse Actions Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2512,6 +2621,7 @@
     {
       "doc_id": "FC-011",
       "pwf_record_id": "924V8SbK",
+      "pwf_workflow": "Standards",
       "title": "Cash App UK SEL Financial Crimes Program",
       "version": "1.0.0",
       "status": "published",
@@ -2535,6 +2645,7 @@
     {
       "doc_id": "FC-012",
       "pwf_record_id": "rvECy0mO",
+      "pwf_workflow": "Policies",
       "title": "Cash App US Know Your Customer (KYC) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2558,6 +2669,7 @@
     {
       "doc_id": "FC-013",
       "pwf_record_id": "BMfFEF9u",
+      "pwf_workflow": "Standards",
       "title": "Clearpay Finance Limited Consumer Due Diligence Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2581,6 +2693,7 @@
     {
       "doc_id": "FC-014",
       "pwf_record_id": "wDyjKy0A",
+      "pwf_workflow": "Standards",
       "title": "Clearpay Finance Limited Merchant Due Diligence Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2604,6 +2717,7 @@
     {
       "doc_id": "FC-015",
       "pwf_record_id": "vCkkOfxX",
+      "pwf_workflow": "Policies",
       "title": "Clearpay UK Anti-Money Laundering and Counter Terrorist Financing (AML & CFT) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2627,6 +2741,7 @@
     {
       "doc_id": "FC-016",
       "pwf_record_id": "MBKFKWCz",
+      "pwf_workflow": "Standards",
       "title": "Clearpay UK Payment Service Provider Due Diligence Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2650,6 +2765,7 @@
     {
       "doc_id": "FC-017",
       "pwf_record_id": "ha9ZQN82",
+      "pwf_workflow": "Standards",
       "title": "SEL Financial Crimes Program",
       "version": "1.0.0",
       "status": "published",
@@ -2673,6 +2789,7 @@
     {
       "doc_id": "FC-018",
       "pwf_record_id": "NpnsNauq",
+      "pwf_workflow": "Standards",
       "title": "SIL Financial Crimes Program",
       "version": "1.0.0",
       "status": "published",
@@ -2696,6 +2813,7 @@
     {
       "doc_id": "FC-019",
       "pwf_record_id": "25HiKnNk",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program",
       "version": "1.0.0",
       "status": "published",
@@ -2719,6 +2837,7 @@
     {
       "doc_id": "FC-020",
       "pwf_record_id": "1gOXVUwu",
+      "pwf_workflow": "Policies",
       "title": "Square Canada, Inc. Anti-Money Laundering & Counter-Terrorist Financing (AML & CFT) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2742,6 +2861,7 @@
     {
       "doc_id": "FC-021",
       "pwf_record_id": "Z4X4T2Jp",
+      "pwf_workflow": "Standards",
       "title": "Square Capital LLC. Credit Card Bank Secrecy Act & Anti-Money Laundering (BSA & AML) Square Capital Program",
       "version": "1.0.0",
       "status": "published",
@@ -2765,6 +2885,7 @@
     {
       "doc_id": "FC-022",
       "pwf_record_id": "d4Y0RUc0",
+      "pwf_workflow": "Policies",
       "title": "Square K.K. Anti-Social Forces Management Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2788,6 +2909,7 @@
     {
       "doc_id": "FC-023",
       "pwf_record_id": "GbfvCm5x",
+      "pwf_workflow": "Policies",
       "title": "Square U.S. Identity Verification Policy",
       "version": "1.0.0",
       "status": "published",
@@ -2811,6 +2933,7 @@
     {
       "doc_id": "FC-024",
       "pwf_record_id": "p4uTTXNX",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Bank Secrecy Act / Anti-Money Laundering & Counter-Terrorist Financing (BSA / AML & CFT) Program (US)",
       "version": "1.0.0",
       "status": "published",
@@ -2834,6 +2957,7 @@
     {
       "doc_id": "FC-025",
       "pwf_record_id": "5IzI4fCZ",
+      "pwf_workflow": "Standards",
       "title": "Block, Inc. Compliance Detections Program Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -2857,6 +2981,7 @@
     {
       "doc_id": "FC-026",
       "pwf_record_id": "d5q6xNfT",
+      "pwf_workflow": "Standards",
       "title": "Cash App Global Cash App Sanctions Compliance Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2880,6 +3005,7 @@
     {
       "doc_id": "FC-027",
       "pwf_record_id": "pqE4dj8C",
+      "pwf_workflow": "Standards",
       "title": "Cash App Investing LLC Anti-Money Laundering & Countering the Financing of Terrorism (AML & CFT) Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2903,6 +3029,7 @@
     {
       "doc_id": "FC-028",
       "pwf_record_id": "FitwtCy0",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Bitcoin (BTC) Travel Rule Program",
       "version": "1.0.0",
       "status": "published",
@@ -2926,6 +3053,7 @@
     {
       "doc_id": "FC-029",
       "pwf_record_id": "YSgXCAkG",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Compliance Real Time Transaction Blocking Program",
       "version": "1.0.0",
       "status": "published",
@@ -2949,6 +3077,7 @@
     {
       "doc_id": "FC-030",
       "pwf_record_id": "56CAKaPX",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Drugs Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -2972,6 +3101,7 @@
     {
       "doc_id": "FC-031",
       "pwf_record_id": "wwwL6vXa",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Identity Verification Standard",
       "version": "1.0.0",
       "status": "published",
@@ -2995,6 +3125,7 @@
     {
       "doc_id": "FC-032",
       "pwf_record_id": "te7KvfWQ",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Know Your Business Program for Cash for Business Customers",
       "version": "1.0.0",
       "status": "published",
@@ -3018,6 +3149,7 @@
     {
       "doc_id": "FC-033",
       "pwf_record_id": "cM0dw6wN",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Know Your Customer (KYC) Standard",
       "version": "1.0.0",
       "status": "published",
@@ -3041,6 +3173,7 @@
     {
       "doc_id": "FC-034",
       "pwf_record_id": "whp1e6BT",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Unacceptable Use Monitoring Standard",
       "version": "1.0.0",
       "status": "published",
@@ -3064,6 +3197,7 @@
     {
       "doc_id": "FC-035",
       "pwf_record_id": "qRwBnA1m",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Anti-Money Laundering & Counter-Terrorist Financing (AML & CTF) Risk Awareness Training Program",
       "version": "1.0.0",
       "status": "published",
@@ -3087,6 +3221,7 @@
     {
       "doc_id": "FC-036",
       "pwf_record_id": "qTmqhAV8",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Employee and Personnel Due Diligence Program",
       "version": "1.0.0",
       "status": "published",
@@ -3110,6 +3245,7 @@
     {
       "doc_id": "FC-037",
       "pwf_record_id": "LoxZ5Jzx",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Enhanced Customer Due Diligence Program",
       "version": "1.0.0",
       "status": "published",
@@ -3133,6 +3269,7 @@
     {
       "doc_id": "FC-038",
       "pwf_record_id": "IOQQG8ry",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Financial Crimes Transaction Monitoring Program",
       "version": "1.0.0",
       "status": "published",
@@ -3156,6 +3293,7 @@
     {
       "doc_id": "FC-039",
       "pwf_record_id": "w44ZT5qn",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Politically Exposed Person (PEP) Watchlist Program",
       "version": "1.0.0",
       "status": "published",
@@ -3179,6 +3317,7 @@
     {
       "doc_id": "FC-040",
       "pwf_record_id": "ySTFQERd",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Suspicious Matter Report Program",
       "version": "1.0.0",
       "status": "published",
@@ -3202,6 +3341,7 @@
     {
       "doc_id": "FC-041",
       "pwf_record_id": "Bkx4brMc",
+      "pwf_workflow": "Standards",
       "title": "Square K.K. Anti-Money Laundering (AML), Counter Terrorist Financing (CTF) & Financial Sanctions Program",
       "version": "1.0.0",
       "status": "published",
@@ -3225,6 +3365,7 @@
     {
       "doc_id": "FC-042",
       "pwf_record_id": "ODHhJxHK",
+      "pwf_workflow": "Standards",
       "title": "Square K.K. Anti-Social Forces Management Program",
       "version": "1.0.0",
       "status": "published",
@@ -3248,6 +3389,7 @@
     {
       "doc_id": "FC-043",
       "pwf_record_id": "nTiZ1JnO",
+      "pwf_workflow": "Standards",
       "title": "Square U.S. Know Your Customer (KYC) Program",
       "version": "1.0.0",
       "status": "published",
@@ -3271,6 +3413,7 @@
     {
       "doc_id": "FC-044",
       "pwf_record_id": "zTIZxqlj",
+      "pwf_workflow": "Standards",
       "title": "Square U.S. Transaction Monitoring Program Standard",
       "version": "1.0.0",
       "status": "published",
@@ -3294,6 +3437,7 @@
     {
       "doc_id": "FC-045",
       "pwf_record_id": "AfA83ooV",
+      "pwf_workflow": "Policies",
       "title": "Afterpay NZ Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Policies",
       "version": "1.0.0",
       "status": "published",
@@ -3317,6 +3461,7 @@
     {
       "doc_id": "FC-046",
       "pwf_record_id": "Q1w6J7ET",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Australia Pty Ltd Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Policies",
       "version": "1.0.0",
       "status": "published",
@@ -3340,6 +3485,7 @@
     {
       "doc_id": "FC-047",
       "pwf_record_id": "RfGeCqpV",
+      "pwf_workflow": "Policies",
       "title": "Cash App AU Anti-Money Laundering & Counter-Terrorism Financing (AML & CTF) Program Policies",
       "version": "1.0.0",
       "status": "published",
@@ -3363,6 +3509,7 @@
     {
       "doc_id": "GOV-001",
       "pwf_record_id": "BnzFqeSD",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Compliance Management System (CMS) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3386,6 +3533,7 @@
     {
       "doc_id": "GOV-002",
       "pwf_record_id": "iBSxub5n",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Australia Pty. Ltd. Unsuitability Assessment Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3409,6 +3557,7 @@
     {
       "doc_id": "GOV-003",
       "pwf_record_id": "pBUkzz0I",
+      "pwf_workflow": "Standards",
       "title": "Afterpay Canada Ltd Incident Management Response Plan",
       "version": "1.0.0",
       "status": "published",
@@ -3432,6 +3581,7 @@
     {
       "doc_id": "GOV-004",
       "pwf_record_id": "wn1aS61d",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada Ltd. Afterpay Third Party Risk Management (TPRM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3455,6 +3605,7 @@
     {
       "doc_id": "GOV-005",
       "pwf_record_id": "mhFmZKQi",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Canada and Square Canada Record Retention Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3478,6 +3629,7 @@
     {
       "doc_id": "GOV-006",
       "pwf_record_id": "luVhgYuN",
+      "pwf_workflow": "Policies",
       "title": "Afterpay Fit and Proper Policy",
       "version": "1.0.0",
       "status": "draft",
@@ -3501,6 +3653,7 @@
     {
       "doc_id": "GOV-007",
       "pwf_record_id": "IOt5wQjt",
+      "pwf_workflow": "Standards",
       "title": "Afterpay US Inc Third Party Risk Management (TPRM) Standard",
       "version": "1.0.0",
       "status": "published",
@@ -3524,6 +3677,7 @@
     {
       "doc_id": "GOV-008",
       "pwf_record_id": "L988o7t2",
+      "pwf_workflow": "Standards",
       "title": "Block Academy System Administration Standard | Block Inc",
       "version": "1.0.0",
       "status": "published",
@@ -3547,6 +3701,7 @@
     {
       "doc_id": "GOV-009",
       "pwf_record_id": "ZkEXsvqS",
+      "pwf_workflow": "Policies",
       "title": "Block Inc. Custody & Liquidity Management Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3570,6 +3725,7 @@
     {
       "doc_id": "GOV-010",
       "pwf_record_id": "8pmoCRHX",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Escalation Framework for Non-Completion of Compliance Training (External Workers)",
       "version": "1.0.0",
       "status": "published",
@@ -3593,6 +3749,7 @@
     {
       "doc_id": "GOV-011",
       "pwf_record_id": "1nEXbFfl",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Compliance Policy on Policies",
       "version": "1.0.0",
       "status": "published",
@@ -3616,6 +3773,7 @@
     {
       "doc_id": "GOV-012",
       "pwf_record_id": "72K7Z9Ku",
+      "pwf_workflow": "Policies",
       "title": "Block, Inc. Model Governance Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3639,6 +3797,7 @@
     {
       "doc_id": "GOV-013",
       "pwf_record_id": "pLqyJzpH",
+      "pwf_workflow": "Policies",
       "title": "Cash App, US Business Activity Monitoring (BAM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3662,6 +3821,7 @@
     {
       "doc_id": "GOV-014",
       "pwf_record_id": "Vcp5ArIP",
+      "pwf_workflow": "Policies",
       "title": "SEL Electronic Money Directive (EMD) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3685,6 +3845,7 @@
     {
       "doc_id": "GOV-015",
       "pwf_record_id": "LoTPlOBu",
+      "pwf_workflow": "Policies",
       "title": "SEL Outsourcing Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3708,6 +3869,7 @@
     {
       "doc_id": "GOV-016",
       "pwf_record_id": "Nx2GkSbl",
+      "pwf_workflow": "Policies",
       "title": "SIL Outsourcing Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3731,6 +3893,7 @@
     {
       "doc_id": "GOV-017",
       "pwf_record_id": "2jQsTx4v",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Breach Reporting Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3754,6 +3917,7 @@
     {
       "doc_id": "GOV-018",
       "pwf_record_id": "boIpvACP",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Complaints Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3777,6 +3941,7 @@
     {
       "doc_id": "GOV-019",
       "pwf_record_id": "jZwOGngN",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Compliance Management Policy (CMS) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3800,6 +3965,7 @@
     {
       "doc_id": "GOV-020",
       "pwf_record_id": "B5yofAbI",
+      "pwf_workflow": "Policies",
       "title": "Square AU Pty. Ltd. Third Party Risk Management (TPRM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3823,6 +3989,7 @@
     {
       "doc_id": "GOV-021",
       "pwf_record_id": "pSeCYKgL",
+      "pwf_workflow": "Policies",
       "title": "Square Canada Third Party Risk Management (TPRM) Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3846,6 +4013,7 @@
     {
       "doc_id": "GOV-022",
       "pwf_record_id": "OPtu5DV9",
+      "pwf_workflow": "Policies",
       "title": "Square Capital, LLC Compliance Management Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3869,6 +4037,7 @@
     {
       "doc_id": "GOV-023",
       "pwf_record_id": "8KtrRrHC",
+      "pwf_workflow": "Policies",
       "title": "Square K.K. Compliance Management System Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3892,6 +4061,7 @@
     {
       "doc_id": "GOV-024",
       "pwf_record_id": "luEVujwI",
+      "pwf_workflow": "Policies",
       "title": "Square K.K. Outsourcing Management Policy",
       "version": "1.0.0",
       "status": "published",
@@ -3915,6 +4085,7 @@
     {
       "doc_id": "GOV-025",
       "pwf_record_id": "3f6XmfiL",
+      "pwf_workflow": "Standards",
       "title": "Afterpay US Inc. Regulatory Change Management Standard",
       "version": "1.0.0",
       "status": "published",
@@ -3938,6 +4109,7 @@
     {
       "doc_id": "GOV-026",
       "pwf_record_id": "HqZUpw4v",
+      "pwf_workflow": "Standards",
       "title": "Block Compliance University Standard",
       "version": "1.0.0",
       "status": "draft",
@@ -3961,6 +4133,7 @@
     {
       "doc_id": "GOV-027",
       "pwf_record_id": "VLjsfUBz",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Activation Customer Risk Rating Program",
       "version": "1.0.0",
       "status": "published",
@@ -3984,6 +4157,7 @@
     {
       "doc_id": "GOV-028",
       "pwf_record_id": "FCXG6wx7",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Anti-Money Laundering (AML), Counter-Terrorist Financing (CFT) & Sanctions Product Risk Assessment Program",
       "version": "1.0.0",
       "status": "published",
@@ -4007,6 +4181,7 @@
     {
       "doc_id": "GOV-029",
       "pwf_record_id": "cjpIPzd3",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Anti-Money Laundering (AML), Countering the Financing of Terrorism (CFT) & Sanctions Annual Risk Assessment Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4030,6 +4205,7 @@
     {
       "doc_id": "GOV-030",
       "pwf_record_id": "tVUCvMc1",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Block Compliance Risk and Control Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4053,6 +4229,7 @@
     {
       "doc_id": "GOV-031",
       "pwf_record_id": "5tuFzFuB",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Compliance Audit, Exam & Independent Assessment Management Program",
       "version": "1.0.0",
       "status": "published",
@@ -4076,6 +4253,7 @@
     {
       "doc_id": "GOV-032",
       "pwf_record_id": "vepIgheR",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Compliance Committee & Forum Oversight Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4099,6 +4277,7 @@
     {
       "doc_id": "GOV-033",
       "pwf_record_id": "dmgAdXkZ",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Compliance Training Program Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4122,6 +4301,7 @@
     {
       "doc_id": "GOV-034",
       "pwf_record_id": "zdXzoqtx",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Escalation Framework for Non-Completion of Compliance Training (Employees)",
       "version": "1.0.0",
       "status": "published",
@@ -4145,6 +4325,7 @@
     {
       "doc_id": "GOV-035",
       "pwf_record_id": "mdLsw6m2",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Global Compliance Monitoring & Testing Program",
       "version": "1.0.0",
       "status": "published",
@@ -4168,6 +4349,7 @@
     {
       "doc_id": "GOV-036",
       "pwf_record_id": "fVIHbUyB",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Global Geographic Risk Ratings Methodology & Program",
       "version": "1.0.0",
       "status": "published",
@@ -4191,6 +4373,7 @@
     {
       "doc_id": "GOV-037",
       "pwf_record_id": "ZZtSbcWg",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Regulatory Change Management",
       "version": "1.0.0",
       "status": "published",
@@ -4214,6 +4397,7 @@
     {
       "doc_id": "GOV-038",
       "pwf_record_id": "r3LVhTE5",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. Service Level Agreement and Backlog Management Program",
       "version": "1.0.0",
       "status": "published",
@@ -4237,6 +4421,7 @@
     {
       "doc_id": "GOV-039",
       "pwf_record_id": "qpMocDY4",
+      "pwf_workflow": "Standards",
       "title": "Block, Inc. Governance Quality Assurance Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4260,6 +4445,7 @@
     {
       "doc_id": "GOV-040",
       "pwf_record_id": "vNUwo5iv",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Cash App Continuous Customer Risk Rating Program",
       "version": "1.0.0",
       "status": "published",
@@ -4283,6 +4469,7 @@
     {
       "doc_id": "GOV-041",
       "pwf_record_id": "HyAOgXZD",
+      "pwf_workflow": "Standards",
       "title": "Cash App US Transaction Monitoring Modeling Program",
       "version": "1.0.0",
       "status": "published",
@@ -4306,6 +4493,7 @@
     {
       "doc_id": "GOV-042",
       "pwf_record_id": "IkTyQEq6",
+      "pwf_workflow": "Standards",
       "title": "Clearpay Fitness and Propriety Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4329,6 +4517,7 @@
     {
       "doc_id": "GOV-043",
       "pwf_record_id": "w2qFPSt7",
+      "pwf_workflow": "Standards",
       "title": "Clearpay UK - Training and Competence Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4352,6 +4541,7 @@
     {
       "doc_id": "GOV-044",
       "pwf_record_id": "PMoc0EES",
+      "pwf_workflow": "Standards",
       "title": "Compliance Incident Management Reporting Standard",
       "version": "1.0.0",
       "status": "published",
@@ -4375,6 +4565,7 @@
     {
       "doc_id": "GOV-045",
       "pwf_record_id": "ix0UwX5d",
+      "pwf_workflow": "Standards",
       "title": "Compliance Issue Management Oversight Framework",
       "version": "1.0.0",
       "status": "draft",
@@ -4398,6 +4589,7 @@
     {
       "doc_id": "GOV-046",
       "pwf_record_id": "Yoz1mlUB",
+      "pwf_workflow": "Standards",
       "title": "SIL Regulatory Compliance Monitoring Program",
       "version": "1.0.0",
       "status": "published",
@@ -4421,6 +4613,7 @@
     {
       "doc_id": "GOV-047",
       "pwf_record_id": "qjl0MWQg",
+      "pwf_workflow": "Standards",
       "title": "Square AU Pty. Ltd. Regulatory Change Management Program",
       "version": "1.0.0",
       "status": "published",
@@ -4444,6 +4637,7 @@
     {
       "doc_id": "GOV-048",
       "pwf_record_id": "or3x8wWe",
+      "pwf_workflow": "Standards",
       "title": "Square Canada Incident Response Plan",
       "version": "1.0.0",
       "status": "published",
@@ -4467,6 +4661,7 @@
     {
       "doc_id": "GOV-049",
       "pwf_record_id": "7T3U06Wv",
+      "pwf_workflow": "Standards",
       "title": "Square U.S. Continuous Customer Risk Rating Program",
       "version": "1.0.0",
       "status": "published",
@@ -4490,6 +4685,7 @@
     {
       "doc_id": "GOV-050",
       "pwf_record_id": "DpJzds6N",
+      "pwf_workflow": "Policies",
       "title": "Afterpay US, Inc. Compliance Management System (CMS) Policy",
       "version": "1.0.0",
       "status": "retired",
@@ -4513,6 +4709,7 @@
     {
       "doc_id": "GOV-051",
       "pwf_record_id": "LnTBGP1f",
+      "pwf_workflow": "Standards",
       "title": "Block Inc. 2025 Compliance Training Calendar",
       "version": "1.0.0",
       "status": "retired",
