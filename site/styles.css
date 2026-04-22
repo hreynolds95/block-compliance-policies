@@ -1171,6 +1171,8 @@ a.drawer-audit-link:hover { text-decoration: underline; }
   padding-bottom: 1px;
 }
 .bar-col:hover .bar-fill { background: var(--info); }
+.bar-fill--overdue { background: #b07070; }
+.bar-col:hover .bar-fill--overdue { background: #c08080; }
 .bar-count {
   font-size: 0.64rem;
   color: var(--ink);

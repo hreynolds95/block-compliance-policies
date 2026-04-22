@@ -87,39 +87,57 @@ function renderRecentKPI(docs) {
 function renderReviewSchedule(docs) {
   const MONTH_ABBR = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   const CHART_H = 140; // px — max bar height
+  const OVERDUE_STATUSES = new Set(['overdue','pending-review','overdue-past-extension']);
 
   const today = new Date();
-  const startYM = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}`;
+  const currYM = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}`;
 
-  // Count published docs by next_review_date year-month (current month forward)
-  const counts = {};
-  docs.filter(d => d.status === 'published' && d.next_review_date).forEach(d => {
+  // Past months: count only published docs that are still overdue (not completed)
+  const pastCounts = {};
+  docs.filter(d => d.status === 'published' && d.next_review_date && OVERDUE_STATUSES.has(d.review_status)).forEach(d => {
     const ym = d.next_review_date.slice(0, 7);
-    if (ym >= startYM) counts[ym] = (counts[ym] || 0) + 1;
+    if (ym < currYM) pastCounts[ym] = (pastCounts[ym] || 0) + 1;
   });
 
-  const sortedYMs = Object.keys(counts).sort();
-  if (!sortedYMs.length) return;
+  // Current month + future: all published docs
+  const futureCounts = {};
+  docs.filter(d => d.status === 'published' && d.next_review_date).forEach(d => {
+    const ym = d.next_review_date.slice(0, 7);
+    if (ym >= currYM) futureCounts[ym] = (futureCounts[ym] || 0) + 1;
+  });
 
-  // Build continuous month range from today to last month with data
-  const months = [];
-  const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
-  const endDate = new Date(sortedYMs[sortedYMs.length - 1] + '-01');
-  while (cursor <= endDate) {
-    months.push(`${cursor.getFullYear()}-${String(cursor.getMonth()+1).padStart(2,'0')}`);
-    cursor.setMonth(cursor.getMonth() + 1);
+  const futureYMs = Object.keys(futureCounts).sort();
+  if (!futureYMs.length && !Object.keys(pastCounts).length) return;
+
+  // Build continuous range for current month → last future month with data
+  const futureMonths = [];
+  if (futureYMs.length) {
+    const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
+    const endDate = new Date(futureYMs[futureYMs.length - 1] + '-01');
+    while (cursor <= endDate) {
+      futureMonths.push(`${cursor.getFullYear()}-${String(cursor.getMonth()+1).padStart(2,'0')}`);
+      cursor.setMonth(cursor.getMonth() + 1);
+    }
   }
 
-  const maxCount = Math.max(...months.map(ym => counts[ym] || 0));
+  // All months: past (overdue only, sorted) then continuous future range
+  const pastMonths = Object.keys(pastCounts).sort();
+  const months = [...pastMonths, ...futureMonths];
+  if (!months.length) return;
+
+  const allCounts = { ...pastCounts, ...futureCounts };
+  const maxCount = Math.max(...months.map(ym => allCounts[ym] || 0));
 
   const bars = months.map(ym => {
-    const count = counts[ym] || 0;
+    const count = allCounts[ym] || 0;
     const barH  = count ? Math.max(4, Math.round((count / maxCount) * CHART_H)) : 0;
     const [y, m] = ym.split('-');
+    const isPast = ym < currYM;
+    const overdueClass = isPast ? ' bar-fill--overdue' : '';
     const url   = `./index.html?month=${ym}`;
-    return `<div class="bar-col" onclick="location.href='${esc(url)}'" title="${count} doc${count !== 1 ? 's' : ''} due ${MONTH_ABBR[+m-1]} ${y}">
+    return `<div class="bar-col" onclick="location.href='${esc(url)}'" title="${count} doc${count !== 1 ? 's' : ''} due ${MONTH_ABBR[+m-1]} ${y}${isPast ? ' — overdue' : ''}">
       <span class="bar-count${count === 0 ? ' bar-count--empty' : ''}">${count || '0'}</span>
-      <div class="bar-fill${count === 0 ? ' bar-fill--zero' : ''}" style="height:${barH}px"></div>
+      <div class="bar-fill${count === 0 ? ' bar-fill--zero' : ''}${overdueClass}" style="height:${barH}px"></div>
     </div>`;
   }).join('');
 
