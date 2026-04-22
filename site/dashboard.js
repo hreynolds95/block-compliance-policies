@@ -44,7 +44,7 @@ async function init() {
     ownershipSel.addEventListener('change', () => {
       const filter = ownershipSel.value;
       renderOwnershipBreakdown(_docs, filter);
-      ownershipSel.classList.toggle('filter-select--active', filter !== 'all');
+      ownershipSel.classList.toggle('filter-select--active', filter !== 'at-risk');
     });
   }
 
@@ -282,13 +282,7 @@ function renderStatusBreakdown(docs) {
 }
 
 function renderOwnershipBreakdown(docs, filter) {
-  // filter is 'all', 'Policies', or 'Standards' (matches PWF_WORKFLOW value)
-  const typeParam = filter !== 'all' ? `&doc_type=${encodeURIComponent(filter)}` : '';
-  const published = docs.filter(d => {
-    if (d.status !== 'published') return false;
-    if (filter === 'all') return true;
-    return (d.pwf_workflow || '') === filter;
-  });
+  const published = docs.filter(d => d.status === 'published');
 
   // Build owner map
   const ownerMap = {};
@@ -302,7 +296,11 @@ function renderOwnershipBreakdown(docs, filter) {
     else                                                                    ownerMap[owner].ok++;
   }
 
+  // Filter: at-risk = any overdue/coming-due, plus Unassigned always
   let owners = Object.keys(ownerMap);
+  if (filter === 'at-risk') {
+    owners = owners.filter(o => o === 'Unassigned' || ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
+  }
 
   // Sort: overdue desc → coming-due desc → total desc
   owners.sort((a, b) => {
@@ -317,7 +315,7 @@ function renderOwnershipBreakdown(docs, filter) {
     totTotal += total; totOv += ov; totCd += cd; totOk += ok;
     const isUnassigned = owner === 'Unassigned';
     const nameCls  = isUnassigned ? 'cell-warning' : 'cell-label';
-    const base     = `./index.html?status=published&owner=${encodeURIComponent(owner)}${typeParam}`;
+    const base     = `./index.html?status=published&owner=${encodeURIComponent(owner)}`;
     const nameHTML = isUnassigned
       ? esc(owner)
       : `<a href="${base}" class="dash-owner-link">${esc(owner)}</a>`;

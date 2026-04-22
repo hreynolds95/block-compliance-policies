@@ -38,28 +38,10 @@ def serialize(obj):
     return obj
 
 
-DASHBOARD_DATA = "/Users/hreynolds/Documents/compliance-dashboard-blockcell/dashboard-data.json"
-
-
-def load_pwf_workflow_lookup():
-    """Return {PWF_RECORD_ID: PWF_WORKFLOW} from dashboard-data.json."""
-    try:
-        with open(DASHBOARD_DATA, encoding="utf-8") as f:
-            data = json.load(f)
-        return {
-            row["PWF_RECORD_ID"]: row.get("PWF_WORKFLOW", "")
-            for row in data.get("rows", [])
-            if row.get("PWF_RECORD_ID")
-        }
-    except Exception:
-        return {}
-
-
 def main():
     docs = []
     today = date.today()
     now_utc = datetime.now(timezone.utc)
-    pwf_workflow_lookup = load_pwf_workflow_lookup()
 
     for dirpath, _, filenames in os.walk(DOCS_ROOT):
         if "_templates" in dirpath:
@@ -145,11 +127,9 @@ def main():
                 else:
                     review_status = "unknown"
 
-            record_id = meta.get("pwf_record_id") or meta.get("logicgate_record_id", "")
             docs.append({
                 "doc_id": meta.get("doc_id", ""),
-                "pwf_record_id": record_id,
-                "pwf_workflow": pwf_workflow_lookup.get(record_id, ""),
+                "pwf_record_id": meta.get("pwf_record_id") or meta.get("logicgate_record_id", ""),
                 "title": meta.get("title", ""),
                 "version": str(meta.get("version", "")),
                 "status": meta.get("status", ""),

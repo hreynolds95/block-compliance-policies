@@ -150,7 +150,6 @@ function filteredDocs() {
   const tier      = document.getElementById('filterTier').value;
   const review    = document.getElementById('filterReview').value;
   const extension = document.getElementById('filterExtension').value;
-  const docType   = document.getElementById('filterDocType').value;
 
   return allDocs
     .filter(d => {
@@ -172,7 +171,6 @@ function filteredDocs() {
       else if (review && !['overdue','coming-due'].includes(review) && d.review_status !== review) return false;
       if (extension === 'active' && !d.extension_status) return false;
       if (extension && extension !== 'active' && d.extension_status !== extension) return false;
-      if (docType && (d.pwf_workflow || '') !== docType) return false;
       if (recentDays !== null) {
         const cutoff = new Date();
         cutoff.setDate(cutoff.getDate() - recentDays);
@@ -459,7 +457,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('searchInput').addEventListener('focus', ensureSearchIndex, { once: true });
 
-  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType'].forEach(id => {
+  ['searchInput', 'filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'].forEach(id => {
     document.getElementById(id).addEventListener('input', () => {
       updateFilterHighlights();
       renderTable(filteredDocs());
@@ -480,7 +478,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filterTier').value      = '';
     document.getElementById('filterReview').value    = '';
     document.getElementById('filterExtension').value = '';
-    document.getElementById('filterDocType').value    = '';
     recentDays = null;
     filterMonth = null;
     const chip = document.getElementById('recentChip');
@@ -542,7 +539,6 @@ function applyUrlFilters() {
     owner:     'filterOwner',
     tier:      'filterTier',
     extension: 'filterExtension',
-    doc_type:  'filterDocType',
   };
   Object.entries(filterMap).forEach(([param, id]) => {
     const val = params.get(param);
@@ -584,7 +580,6 @@ function getActiveLibraryContext() {
     ['filterTier',     'tier'],
     ['filterReview',   'review status'],
     ['filterExtension','extension'],
-    ['filterDocType',  'type'],
   ];
   for (const [id, label] of checks) {
     const val = document.getElementById(id)?.value;
@@ -598,7 +593,7 @@ function getActiveLibraryContext() {
 }
 
 function updateFilterHighlights() {
-  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension', 'filterDocType'];
+  const filterIds = ['filterDomain', 'filterStatus', 'filterBusiness', 'filterEntity', 'filterOwner', 'filterTier', 'filterReview', 'filterExtension'];
   let anyActive = document.getElementById('searchInput').value !== '' || recentDays !== null || filterMonth !== null;
   filterIds.forEach(id => {
     const el = document.getElementById(id);
