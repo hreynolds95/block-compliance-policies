@@ -290,7 +290,7 @@ function renderStatusBreakdown(docs) {
 
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
-    <td>${total}</td>
+    <td><a href="./index.html?status=published" class="dash-owner-link">${total}</a></td>
   </tr>`;
 
   document.getElementById('statusRows').innerHTML = rows + totalsRow;
