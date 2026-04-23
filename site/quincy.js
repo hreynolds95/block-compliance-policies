@@ -40,16 +40,18 @@
     systemPrompt = buildSystemPrompt(docs);
     docs.forEach(d => docMeta.set(d.doc_id, { title: d.title, published_pdf: d.published_pdf || null }));
     allDocMeta = docs.map(d => ({
-      doc_id:          d.doc_id,
-      title:           d.title           || '',
-      owner:           d.owner           || '',
-      tier:            d.tier            || '',
-      domain:          d.domain          || '',
-      business:        d.business        || '',
-      legal_entity:    d.legal_entity    || '',
-      status:          d.status          || '',
-      review_status:   d.review_status   || '',
-      next_review_date:d.next_review_date|| '',
+      doc_id:           d.doc_id,
+      title:            d.title            || '',
+      owner:            d.owner            || '',
+      tier:             d.tier             || '',
+      domain:           d.domain           || '',
+      business:         d.business         || '',
+      legal_entity:     d.legal_entity     || '',
+      status:           d.status           || '',
+      review_status:    d.review_status    || '',
+      next_review_date: d.next_review_date || '',
+      doc_type:         d.doc_type         || '',
+      lifecycle_status: d.lifecycle_status || '',
     }));
     injectHTML();
     wireEvents();
@@ -308,6 +310,9 @@
     /\bwhen\s+is\b/i,
     /\btier\s*[123]\b/i,
     /\bextension\s+status\b/i,
+    /\b(all\s+)?(policies|standards|procedures)\b/i,
+    /\bdoc(ument)?\s+type\b/i,
+    /\b(under\s+qc|in[\s-]approvals?|lifecycle\s+status)\b/i,
   ];
 
   function isMetadataQuery(query) {
@@ -332,6 +337,7 @@
       const haystack = [
         doc.title, doc.owner, doc.domain, doc.business,
         doc.legal_entity, doc.tier, doc.review_status, doc.status,
+        doc.doc_type, doc.lifecycle_status,
       ].join(' ').toLowerCase();
       let score = 0;
       for (const kw of terms) {
@@ -877,11 +883,13 @@
       status:           d.status,
       owner:            d.owner,
       approval_type:    d.approval_type,
+      doc_type:         d.doc_type         || null,
       business:         d.business         || null,
       legal_entity:     d.legal_entity     || null,
       effective_date:   d.effective_date   || null,
       next_review_date: d.next_review_date || null,
       review_status:    d.review_status,
+      lifecycle_status: d.lifecycle_status || null,
       retention_years:  d.retention_years  || null,
       extension_status: d.extension_status || null,
       extended_due_date:d.extended_due_date|| null,
@@ -914,6 +922,8 @@ RESPONSE GUIDELINES:
 - Be precise about status (published/draft/in-review/retired), tier, owner, and review dates
 - Use TODAY'S DATE to answer any time-sensitive questions (what's overdue, what's coming due this month, days until review, etc.)
 - review_status "overdue" = past next_review_date; "due-soon" = within 90 days; "ok" = on track; "pending-review" = in active review; "extension-coming-due" = extended deadline within 90 days; "overdue-past-extension" = past extended deadline
+- doc_type: "Policy" = top-level policy document; "Standard" = operational standard; "Procedure" = step-by-step procedure
+- lifecycle_status (published docs only): "current" = active and up to date; "under-qc" = currently in QC review step; "in-approvals" = in the approvals and publication tollgate
 - Intake docs (draft/in-review) may be overdue due to regulatory deadline drivers — this is intentional
 - Retired docs exist in the data but are hidden from the library by default
 - You have two content sources: (1) POLICY LIBRARY — the ${docs.length} compliance policies/standards; (2) PROCESS PROCEDURES — step-by-step guides for using LogicGate (annual review, document management, approval workflows, exception management). When a question is about how to do something in LogicGate, prioritize process procedure content. When a question is about what a policy says or requires, prioritize policy library content.
@@ -927,7 +937,7 @@ RESPONSE GUIDELINES:
 - Never use framing like "based on the retrieved content" or "from what I can see" — just answer directly
 - Keep answers professional, accurate, and concise
 - When listing multiple documents, use a bulleted list
-- When your response addresses a filterable subset of the policy library, append a filter action on its own line before [[FOLLOWUPS]]: [[FILTER:{"label":"View [description] in Library","url":"?param=value"}]]. Valid params and values — review: overdue|due-soon|ok|pending-review|extension-coming-due|overdue-past-extension; domain: consumer-protection|ethics-and-employee-conduct|financial-crimes|governance; status: published|draft|in-review|retired|not-published; business: Square|Block|Cash App|Afterpay|Clearpay; tier: 1|2|3; extension: active. Only include when ONE clear filter maps to your entire answer. Omit for general, multi-filter, or narrative-only responses.
+- When your response addresses a filterable subset of the policy library, append a filter action on its own line before [[FOLLOWUPS]]: [[FILTER:{"label":"View [description] in Library","url":"?param=value"}]]. Valid params and values — review: overdue|due-soon|ok|pending-review|extension-coming-due|overdue-past-extension; domain: consumer-protection|ethics-and-employee-conduct|financial-crimes|governance; status: published|draft|in-review|retired|not-published; business: Square|Block|Cash App|Afterpay|Clearpay; tier: 1|2|3; extension: active; doc_type: Policy|Standard|Procedure; lifecycle: current|under-qc|in-approvals. Only include when ONE clear filter maps to your entire answer. Omit for general, multi-filter, or narrative-only responses.
 - At the very end of every response, on its own line, append exactly: [[FOLLOWUPS:["question 1","question 2","question 3"]]] — 2 to 3 short, specific follow-up questions the user might ask next based on your response. Must be a valid JSON array of strings. Do not introduce, label, or explain this block — just append it.`;
   }
 
