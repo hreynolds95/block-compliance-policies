@@ -228,12 +228,13 @@ function renderCoverageBreakdown(docs, groupBy) {
     </tr>`;
   }).join('');
 
+  const base0 = `./index.html?status=published`;
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
-    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? totOv : '—'}</td>
-    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? totCd : '—'}</td>
-    <td class="cell-success">${totOk}</td>
-    <td>${totTotal}</td>
+    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? `<a href="${base0}&review=overdue" class="dash-owner-link">${totOv}</a>` : '—'}</td>
+    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? `<a href="${base0}&review=coming-due" class="dash-owner-link">${totCd}</a>` : '—'}</td>
+    <td class="cell-success"><a href="${base0}&review=ok" class="dash-owner-link">${totOk}</a></td>
+    <td><a href="${base0}" class="dash-owner-link">${totTotal}</a></td>
   </tr>`;
 
   document.getElementById('domainTbody').innerHTML = rows + totalsRow;
