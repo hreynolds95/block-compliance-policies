@@ -326,9 +326,7 @@ function renderOwnershipBreakdown(docs, docType) {
     const isUnassigned = owner === 'Unassigned';
     const nameCls  = isUnassigned ? 'cell-warning' : 'cell-label';
     const base     = `./index.html?status=published&owner=${encodeURIComponent(owner)}`;
-    const nameHTML = isUnassigned
-      ? esc(owner)
-      : `<a href="${base}" class="dash-owner-link">${esc(owner)}</a>`;
+    const nameHTML = `<a href="${base}" class="dash-owner-link">${esc(owner)}</a>`;
     const totalHTML = `<a href="${base}" class="dash-owner-link">${total}</a>`;
     const ovHTML    = ov > 0 ? `<a href="${base}&review=overdue" class="dash-owner-link">${ov}</a>` : '—';
     const cdHTML    = cd > 0 ? `<a href="${base}&review=coming-due" class="dash-owner-link">${cd}</a>` : '—';
