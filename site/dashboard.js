@@ -361,12 +361,13 @@ function renderOwnershipBreakdown(docs, docType) {
     totTotal += ownerMap[o].total; totOv += ownerMap[o].ov;
     totCd += ownerMap[o].cd;      totOk += ownerMap[o].ok;
   }
+  const base0 = `./index.html?status=published${docType ? `&doc_type=${encodeURIComponent(docType)}` : ''}`;
   const totalsRow = `<tr class="dash-totals-row">
     <td class="cell-label">Total</td>
-    <td>${totTotal}</td>
-    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? totOv : '—'}</td>
-    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? totCd : '—'}</td>
-    <td class="cell-success">${totOk}</td>
+    <td><a href="${base0}" class="dash-owner-link">${totTotal}</a></td>
+    <td class="${totOv > 0 ? 'cell-danger' : 'cell-muted'}">${totOv > 0 ? `<a href="${base0}&review=overdue" class="dash-owner-link">${totOv}</a>` : '—'}</td>
+    <td class="${totCd > 0 ? 'cell-warning' : 'cell-muted'}">${totCd > 0 ? `<a href="${base0}&review=coming-due" class="dash-owner-link">${totCd}</a>` : '—'}</td>
+    <td class="cell-success"><a href="${base0}&review=ok" class="dash-owner-link">${totOk}</a></td>
   </tr>`;
 
   document.getElementById('ownershipTbody').innerHTML = rows + expandRow + totalsRow;
