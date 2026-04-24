@@ -1109,7 +1109,8 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 
 .tier-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, auto);
+  justify-content: start;
   gap: 10px;
 }
 .tier-card {

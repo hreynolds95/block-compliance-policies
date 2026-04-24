@@ -137,31 +137,29 @@
         </table>
       </div>
 
-      <div style="display:flex; flex-direction:column; gap:16px;">
-
-        <div class="panel">
-          <div class="panel-header">
-            <div>
-              <h2>By Tier</h2>
-              <p class="panel-subtitle">Published policies by governance tier.</p>
-            </div>
+      <div class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>Review Status</h2>
+            <p class="panel-subtitle">Breakdown of published policy review states.</p>
           </div>
-          <div class="tier-grid" id="tierCards"></div>
         </div>
-
-        <div class="panel">
-          <div class="panel-header">
-            <div>
-              <h2>Review Status</h2>
-              <p class="panel-subtitle">Breakdown of published policy review states.</p>
-            </div>
-          </div>
-          <table class="dash-stat-table">
-            <tbody id="statusRows"></tbody>
-          </table>
-        </div>
-
+        <table class="dash-stat-table">
+          <tbody id="statusRows"></tbody>
+        </table>
       </div>
+
+    </div>
+
+    <!-- By Tier -->
+    <div class="panel" style="margin-top:16px;">
+      <div class="panel-header">
+        <div>
+          <h2>By Tier</h2>
+          <p class="panel-subtitle">Published policies by governance tier.</p>
+        </div>
+      </div>
+      <div class="tier-grid" id="tierCards"></div>
     </div>
 
     <!-- Policy Ownership Health -->
