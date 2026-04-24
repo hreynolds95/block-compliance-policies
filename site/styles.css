@@ -425,6 +425,8 @@ mark.search-hl { background: rgba(255,217,102,.3); color: inherit; border-radius
 .pill-extension-in-progress::before { background: #ffb347; }
 
 /* ── Collapsible panel header ── */
+.panel-header--collapsible .panel-subtitle { margin-bottom: 0; }
+details[open] > .panel-header--collapsible { margin-bottom: 12px; }
 .panel-header--collapsible {
   list-style: none;
   cursor: pointer;
