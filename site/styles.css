@@ -1154,8 +1154,9 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 .tier-card-alert { color: var(--danger); }
 .tier-card-alert-link { text-decoration: none; font-weight: 600; }
 .tier-card-alert-link:hover { text-decoration: underline; }
-.tier-card-alert-link--danger { color: var(--danger); }
-.tier-card-alert-link--warn   { color: var(--warning); }
+.tier-card-alert-link--danger   { color: var(--danger); }
+.tier-card-alert-link--warn     { color: var(--warning); }
+.tier-card-alert-link--success  { color: var(--success); }
 
 /* ── Review Schedule Bar Chart ── */
 .bar-chart-hint {

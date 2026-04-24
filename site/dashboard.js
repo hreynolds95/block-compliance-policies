@@ -253,7 +253,8 @@ function renderTierBreakdown(docs) {
     const ovHTML = ov > 0 ? `<a href="${base}&review=overdue" class="tier-card-alert-link tier-card-alert-link--danger">${ov} overdue</a>` : '';
     const cdHTML = cd > 0 ? `<a href="${base}&review=coming-due" class="tier-card-alert-link tier-card-alert-link--warn">${cd} coming due</a>` : '';
     const alerts = [ovHTML, cdHTML].filter(Boolean).join(' · ');
-    const alertHTML = alerts ? ` · ${alerts}` : '';
+    const okHTML = (!ov && !cd) ? `<a href="${base}&review=ok" class="tier-card-alert-link tier-card-alert-link--success">All on track</a>` : '';
+    const alertHTML = alerts ? ` · ${alerts}` : (okHTML ? ` · ${okHTML}` : '');
     return `<div class="tier-card">
       <a href="${base}" class="tier-card-link-block">
         <div class="tier-card-label">Tier ${tier}</div>
