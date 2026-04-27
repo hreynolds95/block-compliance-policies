@@ -234,11 +234,12 @@
 
       <h3>Data Flow</h3>
       <div class="flow-diagram">
-        Snowflake &nbsp;→&nbsp; export CSV &nbsp;→&nbsp; import_from_logicgate.py &nbsp;→&nbsp; docs/*.md &nbsp;→&nbsp; generate_docs_data.py &nbsp;→&nbsp; docs-data.json &nbsp;→&nbsp; GitHub Pages
+        Snowflake &nbsp;→&nbsp; Blockcell site (daily cron) &nbsp;→&nbsp; download dashboard-data.json &nbsp;→&nbsp; sync_review_dates.py &nbsp;→&nbsp; docs/*.md &nbsp;→&nbsp; generate_docs_data.py &nbsp;→&nbsp; docs-data.json &nbsp;→&nbsp; GitHub Pages
       </div>
+      <p>The Blockcell site at <code>blockcell.sqprod.co/sites/compliance-policy-dashboard/</code> runs a daily job that queries Snowflake and publishes a fresh <code>dashboard-data.json</code>. The DMS refresh downloads that file directly — the Snowflake PAT is not used and is not maintained.</p>
 
-      <h3>Import &amp; Deduplication</h3>
-      <p><code>scripts/import_from_logicgate.py</code> processes the Snowflake CSV export and creates one Markdown stub per unique policy. Deduplication mirrors the Blockcell dashboard logic:</p>
+      <h3>Initial Import &amp; Deduplication</h3>
+      <p><code>scripts/import_from_logicgate.py</code> was used for the one-time initial import from a Snowflake CSV export. It creates one Markdown stub per unique policy. Deduplication mirrors the Blockcell dashboard logic:</p>
       <ul>
         <li>Deduplicate by <code>PWF_RECORD_ID</code> — one stub per unique record</li>
         <li>Priority order: <strong>Published</strong> &gt; New Request Draft in Progress &gt; Retired</li>
@@ -267,7 +268,7 @@
     <!-- ── KPI Cards ── -->
     <div class="section" id="kpis">
       <h2>2. KPI Cards (Metrics Dashboard)</h2>
-      <p>Seven KPI cards appear at the top of the Metrics Dashboard. Six are clickable links that navigate to the Policy Library with a pre-applied filter via URL param. The Active card is display-only.</p>
+      <p>Seven KPI cards appear at the top of the Metrics Dashboard. All are clickable links that navigate to the Policy Library with a pre-applied filter via URL param.</p>
 
       <table>
         <tr><th>Card</th><th>Color</th><th>Definition</th><th>URL param</th></tr>
@@ -275,7 +276,7 @@
           <td><strong>Active</strong></td>
           <td><span class="badge badge-green">green</span></td>
           <td><code>status === 'published'</code> — all live published policies and standards</td>
-          <td><em>display only</em></td>
+          <td><code>?status=published</code></td>
         </tr>
         <tr>
           <td><strong>Intake</strong></td>
@@ -322,40 +323,56 @@
     <div class="section" id="dashboard-tables">
       <h2>3. Dashboard Breakdown Tables</h2>
 
+      <h3>Dashboard Section Layout</h3>
+      <p>Sections appear in this order on the Metrics Dashboard:</p>
+      <ol>
+        <li>KPI strip</li>
+        <li>Document Review Schedule (bar chart)</li>
+        <li>Document Lifecycle Tracking <em>(collapsible — collapsed by default)</em></li>
+        <li>Coverage &amp; Review Status — side-by-side grid (Coverage left, Review Status right)</li>
+        <li>By Tier — full-width panel below the grid, cards left-aligned</li>
+        <li>Ownership</li>
+      </ol>
+
       <h3>Document Lifecycle Tracking</h3>
-      <p>Shows where each published policy sits in its active update workflow cycle. Source: <code>due_items</code> records in <code>dashboard-data.json</code> where <code>WORKFLOW_STATUS = 'Published'</code>. Rows are grouped by domain.</p>
+      <p>Shows where each published policy sits in its active update workflow cycle. Source: <code>due_items</code> records in <code>dashboard-data.json</code> where <code>WORKFLOW_STATUS = 'Published'</code>. Rows are grouped by domain. The panel is <strong>collapsible</strong> — click the header to expand; collapsed by default.</p>
 
       <table>
         <tr><th>Column</th><th>Snowflake criteria</th><th>Count</th></tr>
         <tr>
           <td><strong>Current</strong></td>
           <td><code>TOLLGATE = 'Published'</code> and <code>CURRENT_STEP = 'Document Drafting (Submitter)'</code> — published, no active update in progress</td>
-          <td>153</td>
+          <td>154</td>
         </tr>
         <tr>
           <td><strong>Under QC</strong></td>
           <td><code>TOLLGATE = 'Published'</code> and <code>CURRENT_STEP</code> contains <code>'QC'</code> — update draft is at the QC / Assign Reviewers step</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td><strong>In Approvals</strong></td>
           <td><code>TOLLGATE = 'Approvals and Publication'</code> — update is in the final approvals stage</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td><strong>Total</strong></td>
-          <td>All published docs (153 + 5 + 1)</td>
-          <td>159</td>
+          <td>All published docs (154 + 4 + 2)</td>
+          <td>160</td>
         </tr>
       </table>
 
       <p>The <code>lifecycle_status</code> frontmatter field (<code>current</code> / <code>under-qc</code> / <code>in-approvals</code>) is written by <code>sync_review_dates.py</code> on each data refresh and passed through to <code>docs-data.json</code>.</p>
 
-      <h3>By Domain</h3>
-      <p>Review health of published policies per compliance domain. Published docs only (<code>status === 'published'</code>). Columns: <strong>Overdue</strong> (<code>review_status</code> in overdue group), <strong>Coming Due</strong> (due-soon / extension-coming-due), <strong>On Track</strong> (remainder), <strong>Total</strong>. A bold totals row summarises all domains.</p>
+      <h3>Coverage (By Domain / By Business)</h3>
+      <p>Review health of published policies grouped by the selected dimension. A dropdown in the panel header toggles between <strong>By Domain</strong> and <strong>By Business</strong>. Published docs only (<code>status === 'published'</code>). Columns: <strong>Overdue</strong> (<code>review_status</code> in overdue group), <strong>Coming Due</strong> (due-soon / extension-coming-due), <strong>On Track</strong> (remainder), <strong>Total</strong>. A bold totals row summarises all groups. All cells are drilldown links to the policy library.</p>
 
       <h3>By Tier</h3>
-      <p>Published policy count per governance tier, with overdue alert inline.</p>
+      <p>Published policy count per governance tier. Each card shows the total count, approval level, and inline status indicators:</p>
+      <ul>
+        <li>If overdue docs exist: <span class="badge badge-red">N overdue</span> link → <code>?status=published&amp;tier=N&amp;review=overdue</code></li>
+        <li>If coming-due docs exist: <span class="badge badge-yellow">N coming due</span> link → <code>?status=published&amp;tier=N&amp;review=coming-due</code></li>
+        <li>If all docs are on track: <span class="badge badge-green">All on track</span> link → <code>?status=published&amp;tier=N&amp;review=ok</code></li>
+      </ul>
       <table>
         <tr><th>Tier</th><th>Approval level</th></tr>
         <tr><td>Tier 1</td><td>Board-approved</td></tr>
@@ -364,7 +381,7 @@
       </table>
 
       <h3>Review Status Breakdown</h3>
-      <p>Count of published docs per <code>review_status</code> value. Only statuses with at least one doc are shown. A totals row confirms the count reconciles to Active (159).</p>
+      <p>Count of published docs per <code>review_status</code> value, sorted by urgency. Only statuses with at least one doc are shown. A totals row confirms the count reconciles to Active (160).</p>
       <table>
         <tr><th>Status</th><th>Color</th><th>Definition</th></tr>
         <tr><td>Overdue</td><td><span class="badge badge-red">red</span></td><td>More than 30 days past due, no extension</td></tr>
@@ -392,6 +409,11 @@
           <td>For Complete rows, next cycle is sourced from <code>due_items</code>; see below</td>
         </tr>
         <tr>
+          <td><code>extended_due_date</code></td>
+          <td><code>EXTENDED_DUEDATE</code></td>
+          <td>Written alongside <code>next_review_date</code> when an extension exists; used by the library's Next Review column display and sort</td>
+        </tr>
+        <tr>
           <td><code>due_date_status</code></td>
           <td><code>DUE_DATE_STATUS</code></td>
           <td>Current / Coming Due / Extended / Pending Review / Overdue / Complete / etc.</td>
@@ -406,12 +428,20 @@
           <td><code>EXTENSION_LIFECYCLE_STATUS</code> in <code>due_items</code></td>
           <td><code>approved</code> / <code>in-progress</code> — set when an active extension exists</td>
         </tr>
+        <tr>
+          <td><code>doc_type</code></td>
+          <td><code>DOCUMENT_TYPE</code> (1/2/3 → Policy/Standard/Procedure)</td>
+          <td>Synced into frontmatter so <code>generate_docs_data.py</code> can include it without a local dashboard-data.json dependency in CI</td>
+        </tr>
+        <tr>
+          <td><code>status</code></td>
+          <td><code>WORKFLOW_STATUS</code> via <code>WORKFLOW_STATUS_MAP</code></td>
+          <td>Handles lifecycle transitions: in-review → published, published → retired on each refresh</td>
+        </tr>
       </table>
 
       <h3>Complete Row Enrichment</h3>
       <p>When a doc's main <code>rows</code> record has <code>DUE_DATE_STATUS = 'Complete'</code> (prior review cycle finished), the sync script overlays four fields from the best matching <code>due_items</code> entry for the next open cycle: <code>DUE_DATE</code>, <code>DUE_DATE_STATUS</code>, <code>EXTENDED_DUEDATE</code>, and <code>EXTENSION_LIFECYCLE_STATUS</code>. This is critical for docs whose extensions live in <code>due_items</code> but not the main <code>rows</code> record.</p>
-
-      <div class="callout">GOV-008 and GOV-010 are unmatched to dashboard records (record IDs not present in current Snowflake data). These retain their manually set review dates.</div>
 
       <h3>review_status Classification</h3>
       <p>Computed at JSON generation time in <code>generate_docs_data.py</code>. Snowflake's <code>due_date_status</code> is the authoritative source — date math only refines within each status bucket.</p>
@@ -457,7 +487,7 @@ else → "ok"
     <!-- ── Extensions ── -->
     <div class="section" id="extensions">
       <h2>5. Extension Status</h2>
-      <p><code>extension_status</code> is written to doc frontmatter automatically by <code>sync_review_dates.py</code> on each data refresh. Source field: <code>EXTENSION_LIFECYCLE_STATUS</code> in the Snowflake <code>due_items</code> dataset. 14 docs currently have an active extension.</p>
+      <p><code>extension_status</code> is written to doc frontmatter automatically by <code>sync_review_dates.py</code> on each data refresh. Source field: <code>EXTENSION_LIFECYCLE_STATUS</code> in the Snowflake <code>due_items</code> dataset. 17 docs currently have an active extension.</p>
 
       <table>
         <tr><th>extension_status</th><th>Snowflake value</th><th>Badge</th><th>Meaning</th></tr>
@@ -475,7 +505,7 @@ else → "ok"
         </tr>
       </table>
 
-      <h3>Active Extension Docs (14)</h3>
+      <h3>Active Extension Docs (17)</h3>
       <table>
         <tr><th>Doc ID</th><th>Title (abbreviated)</th><th>Status</th></tr>
         <tr><td><code>CP-002</code></td><td>Afterpay Canada Limited Canada Complaints Policy</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
@@ -488,13 +518,16 @@ else → "ok"
         <tr><td><code>EE-003</code></td><td>Block, Inc. Anti-Bribery &amp; Anti-Corruption Policy</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
         <tr><td><code>FC-009</code></td><td>Block Inc. Global Sanctions Compliance Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
         <tr><td><code>FC-021</code></td><td>Square Capital LLC Credit Card BSA/AML Program</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>FC-028</code></td><td>Cash App US Bitcoin (BTC) Travel Rule Program</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
         <tr><td><code>FC-034</code></td><td>Cash App US Unacceptable Use Monitoring Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
         <tr><td><code>GOV-011</code></td><td>Block, Inc. Compliance Policy on Policies</td><td><span class="badge badge-yellow">Ext. Pending</span></td></tr>
         <tr><td><code>GOV-033</code></td><td>Block Inc. Compliance Training Program Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>GOV-035</code></td><td>Block Inc. Global Compliance Monitoring &amp; Testing Program</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
         <tr><td><code>GOV-044</code></td><td>Compliance Incident Management Reporting Standard</td><td><span class="badge badge-purple">Ext. Approved</span></td></tr>
+        <tr><td><code>GOV-045</code></td><td>Compliance Issue Management Oversight Framework</td><td><span class="badge badge-yellow">Ext. Pending</span></td></tr>
       </table>
 
-      <p>The <strong>Next Review</strong> column in the policy library shows <code>next_review_date</code> (which equals <code>EXTENDED_DUEDATE</code> for approved extensions) with a tooltip showing the extended date.</p>
+      <p>The <strong>Next Review</strong> column in the policy library displays <code>extended_due_date</code> (with a tooltip) for docs with an active extension. The column sort also uses <code>extended_due_date</code> as the sort key for these docs, ensuring display order and sort order are always consistent.</p>
     </div>
 
     <!-- ── Policy Library ── -->
@@ -511,31 +544,44 @@ else → "ok"
         <tr><td>Title</td><td><code>title</code></td><td>Policy name from LogicGate</td></tr>
         <tr><td>Domain</td><td><code>domain</code></td><td>One of: consumer-protection, ethics-and-employee-conduct, financial-crimes, governance</td></tr>
         <tr><td>Tier</td><td><code>tier</code></td><td>1 = Board approval, 2 = Committee, 3 = Owner</td></tr>
-        <tr><td>Status</td><td><code>status</code></td><td>published (Active), draft or in-review (Intake), retired</td></tr>
         <tr><td>Owner</td><td><code>owner</code></td><td>Document owner from LogicGate <code>DOCUMENT_OWNER</code></td></tr>
-        <tr><td>Next Review</td><td><code>next_review_date</code> or <code>extended_due_date</code></td><td>Shows extended due date when an extension is active</td></tr>
+        <tr><td>Next Review</td><td><code>extended_due_date</code> (if extension active) else <code>next_review_date</code></td><td>Shows extended due date with tooltip when an extension is active; sort key matches displayed value</td></tr>
         <tr><td>Review State</td><td><code>review_status</code></td><td>Computed pill: OK / Due soon / Pending Review / Ext. Coming Due / Overdue (Past Ext.) / Overdue / Unknown</td></tr>
-        <tr><td>Ver</td><td><code>version</code></td><td>Semantic version; starts at 1.0.0 on import</td></tr>
-        <tr><td><em>Detail panel</em></td><td><code>approval_type</code></td><td>board / committee / owner — derived from tier + REQUIRED_BOARD_APPROVAL. Shown on row expand.</td></tr>
+        <tr><td><em>Detail panel</em></td><td><code>status</code></td><td>published / draft / in-review / retired. Shown on row expand.</td></tr>
+        <tr><td><em>Detail panel</em></td><td><code>doc_type</code></td><td>Policy / Standard / Procedure. Shown on row expand.</td></tr>
+        <tr><td><em>Detail panel</em></td><td><code>approval_type</code></td><td>board / committee / owner. Shown on row expand.</td></tr>
+        <tr><td><em>Detail panel</em></td><td><code>version</code></td><td>Semantic version; starts at 1.0.0 on import. Shown on row expand.</td></tr>
         <tr><td><em>Detail panel</em></td><td><code>pwf_record_id</code></td><td>LogicGate unique identifier (<code>PWF_RECORD_ID</code>) for cross-system traceability. Shown on row expand.</td></tr>
       </table>
 
-      <h3>Filters</h3>
-      <ul>
-        <li><strong>Search</strong> — free-text match on doc_id, pwf_record_id, title, owner, domain, and full PDF text (via search index)</li>
-        <li><strong>Domain</strong> — populated dynamically from loaded documents</li>
-        <li><strong>Status</strong> — published / draft / in-review / retired / intake (draft + in-review)</li>
-        <li><strong>Review State</strong> — overdue (incl. pending-review + overdue-past-extension) / pending-review / coming-due / due-soon / extension-coming-due / overdue-past-extension / ok</li>
-        <li><strong>Business</strong> — populated dynamically from loaded documents</li>
-        <li><strong>Entity</strong> — populated dynamically from loaded documents</li>
-        <li><strong>Tier</strong> — 1 / 2 / 3</li>
-        <li><strong>Extensions</strong> — any active / approved only / in-progress only</li>
-        <li><strong>Recently Published (30d)</strong> — set via <code>?recent=30</code> URL param; shown as a dismissable chip, not a dropdown</li>
-      </ul>
-      <p>Active filter dropdowns are highlighted. All filters (including Recently Published) are cleared by the <strong>Clear</strong> button or the chip's × button.</p>
+      <h3>Filters &amp; URL Params</h3>
+      <table>
+        <tr><th>Filter</th><th>URL param</th><th>Notes</th></tr>
+        <tr><td>Search</td><td>—</td><td>Free-text match on doc_id, pwf_record_id, title, owner, domain</td></tr>
+        <tr><td>Domain</td><td><code>?domain=</code></td><td>Populated dynamically from loaded documents</td></tr>
+        <tr><td>Status</td><td><code>?status=</code></td><td>published / draft / in-review / retired / not-published (draft + in-review)</td></tr>
+        <tr><td>Review State</td><td><code>?review=</code></td><td>overdue (matches overdue + pending-review + overdue-past-extension) / coming-due (matches due-soon + extension-coming-due) / due-soon / pending-review / extension-coming-due / overdue-past-extension / ok</td></tr>
+        <tr><td>Document Type</td><td><code>?doc_type=</code></td><td>Policy / Standard / Procedure</td></tr>
+        <tr><td>Business</td><td><code>?business=</code></td><td>Populated dynamically from loaded documents</td></tr>
+        <tr><td>Entity</td><td><code>?entity=</code></td><td>Populated dynamically from loaded documents</td></tr>
+        <tr><td>Owner</td><td><code>?owner=</code></td><td>Populated dynamically from loaded documents</td></tr>
+        <tr><td>Tier</td><td><code>?tier=</code></td><td>1 / 2 / 3</td></tr>
+        <tr><td>Extensions</td><td><code>?extension=</code></td><td>active (approved + in-progress) / approved / in-progress</td></tr>
+        <tr><td>Lifecycle</td><td><code>?lifecycle=</code></td><td>current / under-qc / in-approvals — published docs only</td></tr>
+        <tr><td>Review month</td><td><code>?month=YYYY-MM</code></td><td>Set by clicking a bar in the Review Schedule chart; filters to docs due that month</td></tr>
+        <tr><td>Recently Published</td><td><code>?recent=30</code></td><td>Sets in-memory state; shown as a dismissable chip in the filter bar (not a dropdown)</td></tr>
+      </table>
+      <p>Active filter dropdowns are highlighted with a blue border. All filters are cleared by the <strong>Clear</strong> button or a chip's × button.</p>
 
       <h3>Sorting</h3>
-      <p>All columns are sortable by clicking the column header. Default sort is by <code>doc_id</code> ascending. The table header row is sticky and remains visible while scrolling.</p>
+      <p>All columns are sortable by clicking the column header (↑ ascending, ↓ descending). Default sort: <code>doc_id</code> ascending. Table header is sticky.</p>
+      <table>
+        <tr><th>Column</th><th>Sort logic</th></tr>
+        <tr><td>ID, Title, Domain, Owner</td><td>Alphabetical (<code>localeCompare</code>)</td></tr>
+        <tr><td>Tier</td><td>Numeric (1 → 2 → 3)</td></tr>
+        <tr><td>Next Review</td><td>Chronological on effective date — uses <code>extended_due_date</code> when an extension is active, matching the displayed value</td></tr>
+        <tr><td>Review State</td><td>By urgency, not alphabetically: overdue-past-extension → overdue → pending-review → due-soon → extension-coming-due → ok → unknown. Ascending (↑) = least urgent first; descending (↓) = most urgent first.</td></tr>
+      </table>
     </div>
 
     <!-- ── Audit Log ── -->
@@ -574,7 +620,7 @@ else → "ok"
         <tr>
           <td><code>pages.yml</code></td>
           <td>Push to main</td>
-          <td>Runs <code>generate_docs_data.py</code>, writes <code>build-info.json</code>, deploys to GitHub Pages</td>
+          <td>Runs <code>generate_docs_data.py</code>, copies audit log, writes <code>build-info.json</code>, deploys to GitHub Pages</td>
           <td><span class="badge badge-green">Active</span></td>
         </tr>
         <tr>
@@ -592,12 +638,23 @@ else → "ok"
         <tr>
           <td><code>retention-check.yml</code></td>
           <td>Manual (workflow_dispatch)</td>
-          <td>Flags overdue/upcoming reviews; can open GitHub Issues. Schedule disabled — prototype mode, pending data integrity confirmation</td>
+          <td>Flags overdue/upcoming reviews; can open GitHub Issues. Schedule intentionally disabled — prototype mode</td>
           <td><span class="badge badge-yellow">Disabled</span></td>
         </tr>
       </table>
 
-      <div class="callout">The retention check weekly schedule (<code>0 8 * * 1</code> → 11:15 AM ET) is configured but commented out. Re-enable in <code>.github/workflows/retention-check.yml</code> once data integrity is confirmed.</div>
+      <h3>Action Versions (Node.js 24-compatible)</h3>
+      <p>All actions were upgraded in April 2026 ahead of the GitHub Actions Node.js 16 deprecation (June 2026).</p>
+      <table>
+        <tr><th>Action</th><th>Version</th></tr>
+        <tr><td><code>actions/checkout</code></td><td>@v5</td></tr>
+        <tr><td><code>actions/setup-python</code></td><td>@v6</td></tr>
+        <tr><td><code>actions/configure-pages</code></td><td>@v6</td></tr>
+        <tr><td><code>actions/upload-pages-artifact</code></td><td>@v5</td></tr>
+        <tr><td><code>actions/deploy-pages</code></td><td>@v5</td></tr>
+      </table>
+
+      <div class="callout">The retention check weekly schedule is commented out in <code>.github/workflows/retention-check.yml</code>. Do not re-enable until data integrity is confirmed — prototype mode.</div>
     </div>
 
   </div>
