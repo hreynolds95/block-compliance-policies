@@ -10,7 +10,7 @@ business: "Block"
 owner: "Lorianne Woldehanna"
 approval_type: owner
 reviewers: []
-effective_date: ""
+effective_date: "2026-04-14"
 next_review_date: "2027-04-15"
 due_date_status: "Current"
 doc_type: "Standard"

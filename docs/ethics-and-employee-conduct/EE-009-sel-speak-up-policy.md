@@ -10,7 +10,7 @@ business: "Square"
 owner: "Ryan Goldstone"
 approval_type: committee
 reviewers: []
-effective_date: ""
+effective_date: "2026-04-10"
 next_review_date: "2027-03-27"
 due_date_status: "Current"
 doc_type: "Policy"
