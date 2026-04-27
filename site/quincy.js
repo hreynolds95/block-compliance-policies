@@ -891,8 +891,9 @@
       review_status:    d.review_status,
       lifecycle_status: d.lifecycle_status || null,
       retention_years:  d.retention_years  || null,
-      extension_status: d.extension_status || null,
-      extended_due_date:d.extended_due_date|| null,
+      extension_status:  d.extension_status  || null,
+      extended_due_date: d.extended_due_date || null,
+      pwf_record_id:     d.pwf_record_id     || null,
     })));
 
     const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -991,6 +992,10 @@ VERSE
 TIDAL
 - TIDAL Music, LLC | DRI: Rebecca Sergay | ML/TF: No | Sanctions: Yes
 - Additional TIDAL entities (no active compliance DRI): Aspiro AB (Sweden), Aspiro Cayman Ltd, Malibu Entertainment Inc, Project Panther Bidco Ltd (UK), Tidal KK (JP), Tidal Music AS (Norway), Tidal Music Spain S.L., and others
+
+LOGICGATE:
+Production URL pattern: https://block.logicgate.com/records/{pwf_record_id}
+Every document in the policy library has a pwf_record_id field. When a user asks to open, view, or go to a document in LogicGate, construct and provide the direct link using this pattern. Example: GOV-011 has pwf_record_id=1nEXbFfl → https://block.logicgate.com/records/1nEXbFfl
 
 DOCUMENT TEMPLATES:
 When a user asks for a template, how to create a new document, or what format to use, provide the appropriate link:
