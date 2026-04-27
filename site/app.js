@@ -187,8 +187,15 @@ function filteredDocs() {
       return true;
     })
     .sort((a, b) => {
-      const va = (a[sortCol] ?? '').toString().toLowerCase();
-      const vb = (b[sortCol] ?? '').toString().toLowerCase();
+      // For next_review_date, sort by the effective displayed date:
+      // docs with an active extension show extended_due_date in the column,
+      // so sort on that too — otherwise the column order and display diverge.
+      const effectiveDate = d =>
+        (sortCol === 'next_review_date' && d.extension_status && d.extended_due_date)
+          ? d.extended_due_date
+          : (d[sortCol] ?? '');
+      const va = effectiveDate(a).toString().toLowerCase();
+      const vb = effectiveDate(b).toString().toLowerCase();
       return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
     });
 }
