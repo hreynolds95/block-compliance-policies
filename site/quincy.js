@@ -923,6 +923,41 @@ TIER DEFINITIONS:
 - Tier 2: Committee-approved
 - Tier 3: Owner-approved (operational level)
 
+LEGAL ENTITY & PRODUCT MATRIX:
+Use this to resolve entity-level questions, identify the correct compliance lead, and determine ML/TF or sanctions scope. "Block, Inc." appears under both Square and Cash App — use the product context to distinguish.
+
+SQUARE (Head of Compliance: Laura Fragomeni)
+- Square Canada, Inc. | DRI: Jeff White | Products: Managed Payments, Square Card, Square Loans, Square Funding, Crowdfunding, Balance Folders, Non-Payment Processing | ML/TF: most Yes (Non-Payment: No) | Sanctions: all Yes
+- Squareup Europe Ltd. (SEL) | DRI: Elizabeth Henry | Products: Cash P2P, Managed Payments, Square Non-CCA Loans, Non-Payment Processing | ML/TF: most Yes | Sanctions: all Yes
+- Squareup International Ltd. (SIL) | DRI: Elizabeth Henry | Products: Managed Payments + Non-Payment Processing in IE/ES/FR, Cash P2P | ML/TF: payments Yes, non-payment No | Sanctions: all Yes
+- Square K.K. (Japan) | DRI: Sayaka Kobayashi | Products: Managed Payments, Non-Payment Processing | ML/TF: payments Yes, non-payment No | Sanctions: all Yes
+- Square AU Pty. Ltd. | DRI: Lance Howard | Products: Managed Payments, Square Loans, Non-Payment Processing | ML/TF: payments Yes, non-payment No | Sanctions: all Yes
+- Square Capital, LLC | Products: Square Loans, Cash Borrow | ML/TF: Yes | Sanctions: Yes
+- Block, Inc. (Square products) | DRI: Tim Spencer | Products: Managed Payments, Payroll, Checking, Square Card, Square Credit Card, Non-Payment Processing, Square Hardware, Square Hardware Financing, Weebly, Square Bill Pay | ML/TF: most Yes | Sanctions: all Yes
+
+SQUARE FINANCIAL SERVICES / SFS (CCO: David Grodsky)
+- Square Financial Services | DRI: Kenneth Kuhn (BSA/OFAC) | Products: Investor, Lending, Savings | ML/TF: Yes | Sanctions: Yes
+
+CASH APP (Head of Compliance: Tyler Hand)
+- Block, Inc. (Cash App products) | DRI: Jason Liberman | Products: Cash P2P, Cash for Business, Cash App Pay, Cash Apparel, Cash Debit Card, Savings, Free Overdraft Protection, P2P Gift Cards, Wires, Mobile Check Deposits, Cash for Families, Cash Paper Money Deposit, Cash Direct Deposit, Bitcoin, Bitcoin 100, Single Use Payment, Retropayments, Cash App Borrow | ML/TF: most Yes (Cash Apparel: No) | Sanctions: most Yes (Cash Apparel: No)
+- Cash App Investing, LLC | DRI: Ashley Adkins (CCO) | Products: Investing | ML/TF: Yes | Sanctions: Yes
+- Cash App Canada Payments ULC | DRI: Safiya Adenekan | Products: P2P (employee pilot) | ML/TF: Yes | Sanctions: Yes
+
+AFTERPAY
+- Afterpay Canada Ltd | DRI: Safiya Adenekan | Products: BNPL, Merchant Services | ML/TF: Yes | Sanctions: Yes
+- Afterpay US Services | DRI: Corey Chamberlain | Products: BNPL, Merchant Services, Pay Monthly, Afterpay Plus | ML/TF: Yes | Sanctions: Yes
+- Afterpay Australia Pty Ltd | DRI: Martina Kann (Head of Compliance ANZ) | Products: BNPL, Merchant Services, Money by Afterpay | ML/TF: BNPL/Merchant Yes; Money by Afterpay No | Sanctions: BNPL/Merchant Yes; Money by Afterpay No
+- Afterpay NZ Limited | Products: BNPL, Merchant Services | ML/TF: Yes | Sanctions: Yes
+- Clearpay Finance Limited (UK) | DRI: Matt Wigens (MLRO) | Products: BNPL, Merchant Services | ML/TF: Yes | Sanctions: Yes
+- Clearpay S.A.U. (Spain/EU) | DRI: Adrián Bujalance Jiménez | Products: BNPL, Merchant Services | ML/TF: No | Sanctions: No | Note: Wound down — stopped new client onboarding July 2023, license withdrawal in progress
+
+VERSE
+- Verse Payments Lithuania | DRI: Laurynas Bagdonas | Products: P2P, Wallets, Debit Card, Bank Transfer, Events, Groups, Feed, Referral Programme, Promotions, Account Top-Up | ML/TF: Yes | Sanctions: Yes
+
+TIDAL
+- TIDAL Music, LLC | DRI: Rebecca Sergay | ML/TF: No | Sanctions: Yes
+- Additional TIDAL entities (no active compliance DRI): Aspiro AB (Sweden), Aspiro Cayman Ltd, Malibu Entertainment Inc, Project Panther Bidco Ltd (UK), Tidal KK (JP), Tidal Music AS (Norway), Tidal Music Spain S.L., and others
+
 DOCUMENT TEMPLATES:
 When a user asks for a template, how to create a new document, or what format to use, provide the appropriate link:
 - Policy template: https://docs.google.com/document/d/13OH51rvZhq3RbKkt0WJQFKf1B7cOx0sSnCrdP0bUNkk/template/preview?tab=t.0
