@@ -181,7 +181,9 @@ body {
 .kpi-value.warning { color: var(--warning); }
 .kpi-value.success { color: var(--success); }
 .kpi-value.info    { color: var(--info); }
-.kpi-value.purple  { color: var(--purple); }
+.kpi-value.purple       { color: var(--purple); }
+.kpi-value.hunter-green { color: #4a7c59; }
+.kpi-value.muted        { color: var(--accent-3); }
 
 /* ── Panel ── */
 .panel {
