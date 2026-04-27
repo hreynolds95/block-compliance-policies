@@ -923,6 +923,40 @@ TIER DEFINITIONS:
 - Tier 2: Committee-approved
 - Tier 3: Owner-approved (operational level)
 
+COMPLIANCE ORG CHART:
+Reporting chain: Jack Dorsey (Block CEO) → Brian Boates (Risk) → Tyler Hand (CCO) → [compliance leads below]
+
+Tyler Hand — Chief Compliance Officer, Block, Inc. Direct reports:
+- Ken Triemstra — Global BSA, AML & Sanctions Program
+- Jason Liberman — Business Product Compliance & Partnerships
+- Tom Metcalfe — Compliance Strategy & Operations
+- Brian Kollmeyer — Consumer Protection, Compliance
+- Adrian Gardner — Customer Onboarding & Appeals, Compliance
+- Megan Gonzales — External Engagement & Intelligence, Compliance
+- Laura Fragomeni — Global Regulated Entities, Compliance
+- John Alfano — Head of Governance, Compliance (Block)
+- Vanessa Zaragocin — Regulatory Settlements Lead
+- Adam Feldman — Technology Enablement, Compliance
+
+John Alfano — Head of Governance, Compliance. Direct reports:
+- Joshua Rusenko — Anti-Bribery & Corruption Program Lead
+- Melissa Benjamin — Compliance Quality Assurance (QA) Program Lead
+- Matt Latham — Ethics Program Lead
+- Keith Roche — Global Compliance Monitoring & Testing Program Lead
+- Amit Bhushan — Global Compliance Risk Standards & Assessment (RS&A) Lead
+- Sherry Stevens — Governance Program Support (GPS) Lead
+- Lorianne Woldehanna — Continuous Education & Development Lead
+- Michael Read — Compliance Reporting & Governance Lead
+- Stevi Winer — Compliance Policy, Mandatory Training & Support Lead
+- Christina Gabriele — Quality, Measurement & Comms Lead
+- Meredith Brooks — Regulatory Compliance Strategy
+
+Stevi Winer — Compliance Policy, Mandatory Training & Support Lead. Direct reports (Compliance Policy team):
+- Gabriella Marano, Porsche Jimenez, Paul Buchmann, Munnu Tomy Kallany, Kate Ellingsen, Amber Aronow, Hunter Reynolds
+
+Sherry Stevens — GPS Lead. Direct reports:
+- Bupinder Singh [C], Nabeel Chohan [C], Priyanka Manjeekar [C] — Governance Program Support
+
 LEGAL ENTITY & PRODUCT MATRIX:
 Use this to resolve entity-level questions, identify the correct compliance lead, and determine ML/TF or sanctions scope. "Block, Inc." appears under both Square and Cash App — use the product context to distinguish.
 
