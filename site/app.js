@@ -187,16 +187,36 @@ function filteredDocs() {
       return true;
     })
     .sort((a, b) => {
-      // For next_review_date, sort by the effective displayed date:
-      // docs with an active extension show extended_due_date in the column,
-      // so sort on that too — otherwise the column order and display diverge.
-      const effectiveDate = d =>
-        (sortCol === 'next_review_date' && d.extension_status && d.extended_due_date)
-          ? d.extended_due_date
-          : (d[sortCol] ?? '');
-      const va = effectiveDate(a).toString().toLowerCase();
-      const vb = effectiveDate(b).toString().toLowerCase();
-      return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+      let va, vb;
+
+      if (sortCol === 'next_review_date') {
+        // Sort by effective displayed date — extended_due_date takes precedence
+        // for docs with an active extension, matching what the column shows.
+        const eff = d => (d.extension_status && d.extended_due_date)
+          ? d.extended_due_date : (d.next_review_date ?? '');
+        va = eff(a); vb = eff(b);
+      } else if (sortCol === 'review_status') {
+        // Sort by urgency, not alphabetically.
+        // Ascending (↑) = least urgent first; descending (↓) = most urgent first.
+        const URGENCY = {
+          'overdue-past-extension': 0,
+          'overdue':                1,
+          'pending-review':         2,
+          'due-soon':               3,
+          'extension-coming-due':   4,
+          'ok':                     5,
+          'unknown':                6,
+        };
+        va = URGENCY[a.review_status] ?? 7;
+        vb = URGENCY[b.review_status] ?? 7;
+        return sortAsc ? va - vb : vb - va;
+      } else {
+        va = (a[sortCol] ?? '').toString().toLowerCase();
+        vb = (b[sortCol] ?? '').toString().toLowerCase();
+      }
+
+      return sortAsc ? va.toString().localeCompare(vb.toString())
+                     : vb.toString().localeCompare(va.toString());
     });
 }
 
