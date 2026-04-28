@@ -151,11 +151,25 @@ body {
 /* ── KPI strip ── */
 .kpi-strip {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: 1fr 1fr 2px 1fr 1fr 1fr 2px 1fr 1fr;
   gap: 16px;
+  align-items: stretch;
 }
-@media (max-width: 900px) { .kpi-strip { grid-template-columns: repeat(3, 1fr); } }
-@media (max-width: 600px) { .kpi-strip { grid-template-columns: repeat(2, 1fr); } }
+.kpi-sep {
+  width: 1px;
+  background: var(--line);
+  align-self: stretch;
+  margin: 6px 0;
+  justify-self: center;
+}
+@media (max-width: 900px) {
+  .kpi-strip { grid-template-columns: repeat(3, 1fr); }
+  .kpi-sep { display: none; }
+}
+@media (max-width: 600px) {
+  .kpi-strip { grid-template-columns: repeat(2, 1fr); }
+  .kpi-sep { display: none; }
+}
 
 .kpi-card {
   background: var(--card);
