@@ -1142,25 +1142,33 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 .tier-card {
   background: var(--bg);
   border-radius: var(--radius-md);
-  padding: 14px 16px;
+  padding: 14px 16px 14px 13px;
   display: flex;
   flex-direction: column;
   gap: 4px;
   border: 1px solid transparent;
+  border-left-width: 3px;
   transition: border-color 0.15s, background 0.15s;
 }
+.tier-card--t1 { border-left-color: var(--danger); }
+.tier-card--t2 { border-left-color: var(--warning); }
+.tier-card--t3 { border-left-color: var(--info); }
 .tier-card--link {
   text-decoration: none;
   color: inherit;
   cursor: pointer;
 }
 .tier-card--link:hover {
-  border-color: var(--accent);
+  border-top-color: var(--accent);
+  border-right-color: var(--accent);
+  border-bottom-color: var(--accent);
   background: color-mix(in srgb, var(--bg) 82%, var(--accent) 18%);
 }
 .tier-card-link-block { display: block; text-decoration: none; color: inherit; }
 .tier-card:has(.tier-card-link-block:hover) {
-  border-color: var(--accent);
+  border-top-color: var(--accent);
+  border-right-color: var(--accent);
+  border-bottom-color: var(--accent);
   background: color-mix(in srgb, var(--bg) 82%, var(--accent) 18%);
 }
 .tier-card-label {

@@ -254,7 +254,7 @@ function renderTierBreakdown(docs) {
     const alerts = [ovHTML, cdHTML].filter(Boolean).join(' · ');
     const okHTML = (!ov && !cd) ? `<a href="${base}&review=ok" class="tier-card-alert-link tier-card-alert-link--success">All on track</a>` : '';
     const alertHTML = alerts ? ` · ${alerts}` : (okHTML ? ` · ${okHTML}` : '');
-    return `<div class="tier-card">
+    return `<div class="tier-card tier-card--t${tier}">
       <a href="${base}" class="tier-card-link-block">
         <div class="tier-card-label">Tier ${tier}</div>
         <div class="tier-card-value">${total}</div>
