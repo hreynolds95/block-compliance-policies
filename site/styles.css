@@ -146,6 +146,7 @@ body {
   color: var(--muted);
 }
 .hero-meta span { color: var(--accent); }
+.hero-as-of { font-size: 0.78rem; color: var(--accent-3); margin-top: 8px; letter-spacing: .02em; }
 
 /* ── KPI strip ── */
 .kpi-strip {
