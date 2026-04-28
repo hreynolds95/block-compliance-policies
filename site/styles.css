@@ -1094,14 +1094,15 @@ a.drawer-audit-link:hover { text-decoration: underline; }
   font-size: 0.82rem;
 }
 .dash-stat-table th {
-  color: var(--muted);
+  color: var(--accent-3);
   font-size: 0.69rem;
   font-weight: 500;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   text-align: left;
-  padding: 0 0 10px;
-  border-bottom: 1px solid var(--line);
+  padding: 8px 0 10px;
+  border-bottom: 1px solid rgba(255,255,255,.08);
+  background: rgba(255,255,255,.02);
 }
 .dash-stat-table th:not(:first-child) { text-align: right; padding-left: 16px; }
 .dash-stat-table td {
