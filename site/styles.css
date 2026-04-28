@@ -1102,7 +1102,8 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 .dash-owner-link:hover { color: var(--info); border-bottom-color: var(--info); }
 #ownershipTbody td,
 #lifecycleTbody td,
-#statusRows td { padding-top: 5px; padding-bottom: 5px; }
+#statusRows td,
+#domainTbody td { padding-top: 5px; padding-bottom: 5px; }
 .ownership-expand-row td { border-bottom: none; text-align: center !important; padding: 8px 0; }
 .ownership-expand-btn { background: none; border: 1px solid var(--line); border-radius: var(--radius-md); color: var(--muted); font-size: 0.72rem; padding: 3px 10px; cursor: pointer; transition: color 0.15s, border-color 0.15s; }
 .ownership-expand-btn:hover { color: var(--info); border-color: var(--info); }
