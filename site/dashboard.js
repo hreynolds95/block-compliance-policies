@@ -15,22 +15,13 @@ async function init() {
   const docs = data.documents || [];
   _docs = docs;
 
-  const badge = document.getElementById('dataSourceBadge');
   const heroAsOf = document.getElementById('heroAsOf');
-  if (data.generated) {
-    const refreshed = new Date(data.generated).toLocaleString('en-US', {
-      month: 'short', day: 'numeric', year: 'numeric',
-      hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+  if (data.generated && heroAsOf) {
+    const asOfDate = new Date(data.generated).toLocaleDateString('en-US', {
+      weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
       timeZone: 'America/New_York',
     });
-    if (badge) badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}<br><a href="./section-logic.html" class="section-logic-btn">Section Logic &amp; Data Dictionary →</a>`;
-    if (heroAsOf) {
-      const asOfDate = new Date(data.generated).toLocaleDateString('en-US', {
-        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
-        timeZone: 'America/New_York',
-      });
-      heroAsOf.textContent = `Data as of ${asOfDate}`;
-    }
+    heroAsOf.textContent = `Data as of ${asOfDate}`;
   }
 
   renderKPIs(docs);
