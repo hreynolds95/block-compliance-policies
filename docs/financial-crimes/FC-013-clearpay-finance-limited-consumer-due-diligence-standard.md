@@ -11,8 +11,8 @@ owner: "Anthony Laycock"
 approval_type: committee
 reviewers: []
 effective_date: "2026-02-27"
-next_review_date: "2026-07-15"
-due_date_status: "Coming Due"
+next_review_date: "2027-02-27"
+due_date_status: "Complete"
 doc_type: "Standard"
 lifecycle_status: "in-approvals"
 retention_years: 5

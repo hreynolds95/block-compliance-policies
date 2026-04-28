@@ -11,8 +11,8 @@ owner: "Lance Howard"
 approval_type: committee
 reviewers: []
 effective_date: "2026-01-22"
-next_review_date: "2026-12-31"
-due_date_status: "Current"
+next_review_date: "2026-12-18"
+due_date_status: "Complete"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 5

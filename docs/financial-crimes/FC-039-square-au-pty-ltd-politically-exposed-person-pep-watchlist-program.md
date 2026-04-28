@@ -12,7 +12,7 @@ approval_type: owner
 reviewers: []
 effective_date: "2026-03-27"
 next_review_date: "2027-03-26"
-due_date_status: "Current"
+due_date_status: "Complete"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 3
