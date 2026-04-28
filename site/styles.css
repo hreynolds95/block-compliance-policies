@@ -1128,6 +1128,7 @@ a.drawer-audit-link:hover { text-decoration: underline; }
 .ownership-expand-btn:hover { color: var(--info); border-color: var(--info); }
 .dash-totals-row .cell-label { color: var(--accent); }
 .dash-stat-table .cell-danger  { color: var(--danger); font-weight: 600; }
+.row-overdue td:first-child { border-left: 3px solid var(--danger); }
 .dash-stat-table .cell-warning { color: var(--warning); font-weight: 600; }
 .dash-stat-table .cell-success { color: var(--success); }
 .dash-stat-table .cell-muted   { color: var(--muted); }

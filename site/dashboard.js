@@ -331,7 +331,7 @@ function renderOwnershipBreakdown(docs, docType) {
     const ovHTML    = ov > 0 ? `<a href="${base}&review=overdue" class="dash-owner-link">${ov}</a>` : '—';
     const cdHTML    = cd > 0 ? `<a href="${base}&review=coming-due" class="dash-owner-link">${cd}</a>` : '—';
     const okHTML    = ok > 0 ? `<a href="${base}&review=ok" class="dash-owner-link">${ok}</a>` : '—';
-    return `<tr>
+    return `<tr${ov > 0 ? ' class="row-overdue"' : ''}>
       <td class="${nameCls}">${nameHTML}</td>
       <td>${totalHTML}</td>
       <td class="${ov > 0 ? 'cell-danger' : 'cell-muted'}">${ovHTML}</td>
