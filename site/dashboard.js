@@ -24,6 +24,14 @@ async function init() {
     heroAsOf.textContent = `Data as of ${asOfDate}`;
   }
 
+  const badge = document.getElementById('dataSourceBadge');
+  if (badge) {
+    const refreshed = data.generated
+      ? new Date(data.generated).toLocaleString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/New_York' })
+      : 'unknown';
+    badge.innerHTML = `Data Source: ${data.source || 'LogicGate → Snowflake'}<br>Last refreshed: ${refreshed}`;
+  }
+
   renderKPIs(docs);
   renderRecentKPI(docs);
   renderReviewSchedule(docs);
