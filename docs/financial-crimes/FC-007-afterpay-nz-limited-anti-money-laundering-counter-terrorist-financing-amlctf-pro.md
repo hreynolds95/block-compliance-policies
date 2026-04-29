@@ -11,8 +11,8 @@ owner: "Eve Ishak"
 approval_type: committee
 reviewers: []
 effective_date: "2026-01-28"
-next_review_date: "2027-01-27"
-due_date_status: "Complete"
+next_review_date: "2026-12-31"
+due_date_status: "Current"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 5

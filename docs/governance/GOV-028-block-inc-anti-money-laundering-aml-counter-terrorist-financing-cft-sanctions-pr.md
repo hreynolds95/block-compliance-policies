@@ -11,8 +11,9 @@ owner: "Amit Bhushan"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-03-31"
-due_date_status: "Pending Review"
+next_review_date: "2026-09-30"
+due_date_status: "Extended"
+extension_status: "approved"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 3

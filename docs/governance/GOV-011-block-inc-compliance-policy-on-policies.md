@@ -11,8 +11,8 @@ owner: "Stevi Winer"
 approval_type: committee
 reviewers: []
 effective_date: "2026-02-18"
-next_review_date: "2027-02-18"
-due_date_status: "Complete"
+next_review_date: "2026-06-06"
+due_date_status: "Coming Due"
 doc_type: "Policy"
 lifecycle_status: "current"
 retention_years: 5
