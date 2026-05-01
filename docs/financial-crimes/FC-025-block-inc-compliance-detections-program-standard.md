@@ -12,7 +12,7 @@ approval_type: owner
 reviewers: []
 effective_date: ""
 next_review_date: "2025-11-30"
-due_date_status: "Pending Review"
+due_date_status: "Overdue"
 doc_type: "Standard"
 retention_years: 3
 logicgate_record_id: "5IzI4fCZ"

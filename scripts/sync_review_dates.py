@@ -288,11 +288,26 @@ def main():
 
         due_status = row.get("DUE_DATE_STATUS", "")
 
-        # STATUS_FIX: mirror reference dashboard — LogicGate incorrectly marks some 2027+
-        # docs as 'Pending Review'. Override to 'Current' when DUE_DATE >= 2027-01-01.
+        # STATUS_FIX: align status with actual due date so our library matches G2 logic
+        # ("overdue" = past due date, not yet complete).
         raw_due = parse_date(row.get("DUE_DATE"))
+        today = date.today()
+
+        # Fix 1 (pre-existing): LogicGate marks some 2027+ docs as 'Pending Review' — override.
         if due_status == "Pending Review" and raw_due and raw_due >= date(2027, 1, 1):
             due_status = "Current"
+
+        # Fix 2: LogicGate sometimes carries 'Overdue' from a prior cycle even after the
+        # review was completed and the next due date was advanced to the future.
+        # If the due date is in the future, the doc is not overdue — use 'Current'.
+        if due_status in ("Overdue", "Overdue Past Extension") and raw_due and raw_due > today:
+            due_status = "Current"
+
+        # Fix 3: LogicGate sometimes leaves status as 'Pending Review' even when the due
+        # date has passed. Override to 'Overdue' so our library matches G2's overdue count.
+        NON_TERMINAL = {"Pending Review", "Coming Due"}
+        if due_status in NON_TERMINAL and raw_due and raw_due < today:
+            due_status = "Overdue"
 
         lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
         extension_status = extension_lookup.get(record_id)  # None if no active extension
