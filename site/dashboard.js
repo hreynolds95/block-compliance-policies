@@ -2,6 +2,8 @@
 
 let _docs = [];
 let _ownershipExpanded = false;
+let _ownershipSort = { col: 'ov', dir: 'desc' };
+let _ownershipOwnerFilter = '';
 
 async function init() {
   const res = await fetch('./docs-data.json').catch(() => null);
@@ -53,6 +55,29 @@ async function init() {
       _ownershipExpanded = false;
       renderOwnershipBreakdown(_docs, ownershipDocTypeSel.value);
       ownershipDocTypeSel.classList.toggle('filter-select--active', ownershipDocTypeSel.value !== '');
+    });
+  }
+
+  ['ov', 'cd', 'ok'].forEach(col => {
+    const th = document.getElementById(`th-${col}`);
+    if (th) {
+      th.addEventListener('click', () => {
+        if (_ownershipSort.col === col) {
+          _ownershipSort.dir = _ownershipSort.dir === 'desc' ? 'asc' : 'desc';
+        } else {
+          _ownershipSort = { col, dir: 'desc' };
+        }
+        renderOwnershipBreakdown(_docs, document.getElementById('ownershipDocType').value);
+      });
+    }
+  });
+
+  const ownerFilterInput = document.getElementById('ownershipOwnerFilter');
+  if (ownerFilterInput) {
+    ownerFilterInput.addEventListener('input', () => {
+      _ownershipOwnerFilter = ownerFilterInput.value.trim();
+      _ownershipExpanded = false;
+      renderOwnershipBreakdown(_docs, document.getElementById('ownershipDocType').value);
     });
   }
 
@@ -319,15 +344,22 @@ function renderOwnershipBreakdown(docs, docType) {
     else                                                                    ownerMap[owner].ok++;
   }
 
-  // Sort: overdue desc → coming-due desc → total desc
+  // Sort by active column
+  const { col: sortCol, dir: sortDir } = _ownershipSort;
   const allOwners = Object.keys(ownerMap).sort((a, b) => {
     const A = ownerMap[a], B = ownerMap[b];
-    return (B.ov - A.ov) || (B.cd - A.cd) || (B.total - A.total);
+    const diff = B[sortCol] - A[sortCol];
+    return sortDir === 'desc' ? diff : -diff;
   });
 
-  const atRisk  = allOwners.filter(o => ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
-  const onTrack = allOwners.filter(o => ownerMap[o].ov === 0 && ownerMap[o].cd === 0);
-  const visible = _ownershipExpanded ? allOwners : atRisk;
+  // Apply owner name filter
+  const filteredOwners = _ownershipOwnerFilter
+    ? allOwners.filter(o => o.toLowerCase().includes(_ownershipOwnerFilter.toLowerCase()))
+    : allOwners;
+
+  const atRisk  = filteredOwners.filter(o => ownerMap[o].ov > 0 || ownerMap[o].cd > 0);
+  const onTrack = filteredOwners.filter(o => ownerMap[o].ov === 0 && ownerMap[o].cd === 0);
+  const visible = _ownershipExpanded ? filteredOwners : atRisk;
 
   function ownerRow(owner) {
     const { total, ov, cd, ok } = ownerMap[owner];
@@ -363,7 +395,7 @@ function renderOwnershipBreakdown(docs, docType) {
 
   // Totals always reflect the full filtered set
   let totTotal = 0, totOv = 0, totCd = 0, totOk = 0;
-  for (const o of allOwners) {
+  for (const o of filteredOwners) {
     totTotal += ownerMap[o].total; totOv += ownerMap[o].ov;
     totCd += ownerMap[o].cd;      totOk += ownerMap[o].ok;
   }
@@ -377,6 +409,15 @@ function renderOwnershipBreakdown(docs, docType) {
   </tr>`;
 
   document.getElementById('ownershipTbody').innerHTML = rows + expandRow + totalsRow;
+
+  // Update sort indicators in thead
+  ['ov', 'cd', 'ok'].forEach(c => {
+    const th = document.getElementById(`th-${c}`);
+    if (!th) return;
+    const arrow = th.querySelector('.sort-arrow');
+    if (arrow) arrow.textContent = c === sortCol ? (sortDir === 'desc' ? ' ↓' : ' ↑') : '';
+    th.classList.toggle('th-sortable--active', c === sortCol);
+  });
 
   const expandBtn = document.getElementById('ownershipExpandBtn');
   if (expandBtn) {
