@@ -1150,9 +1150,9 @@ a.drawer-audit-link:hover { text-decoration: underline; }
   border-left-width: 3px;
   transition: border-color 0.15s, background 0.15s;
 }
-.tier-card--t1 { border-left-color: var(--danger); }
-.tier-card--t2 { border-left-color: var(--warning); }
-.tier-card--t3 { border-left-color: var(--info); }
+.tier-card--t1 { border-left-color: var(--accent); }
+.tier-card--t2 { border-left-color: var(--accent); }
+.tier-card--t3 { border-left-color: var(--accent); }
 .tier-card--link {
   text-decoration: none;
   color: inherit;
