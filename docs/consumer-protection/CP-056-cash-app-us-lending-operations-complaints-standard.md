@@ -11,8 +11,8 @@ owner: "Corey Chamberlain"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-03-31"
-due_date_status: "Pending Review"
+next_review_date: "2027-05-01"
+due_date_status: "Overdue"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 3
