@@ -2,7 +2,7 @@
 doc_id: GOV-031
 title: "Block Inc. Compliance Audit, Exam & Independent Assessment Management Program"
 version: 1.0.0
-status: published
+status: retired
 tier: 3
 domain: governance
 legal_entity: "Block, Inc."
@@ -14,7 +14,7 @@ effective_date: ""
 next_review_date: "2027-05-01"
 due_date_status: "Current"
 doc_type: "Standard"
-lifecycle_status: "current"
+lifecycle_status: "retired"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1DGUqWirYMNF8LbXm33Ib7DVlcMSTUYev/view?usp=drive_link"
 logicgate_record_id: "5tuFzFuB"
