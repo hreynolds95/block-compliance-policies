@@ -309,6 +309,16 @@ def main():
         if due_status in NON_TERMINAL and raw_due and raw_due < today:
             due_status = "Overdue"
 
+        # DATE_OVERRIDE: per-record corrections where LogicGate holds the wrong due date.
+        # Format: PWF_RECORD_ID → (next_review_date, due_date_status)
+        DATE_OVERRIDES = {
+            # CP-019: LogicGate shows 2025-10-30; correct next review is 2026-10-30.
+            # Confirmed by Hunter Reynolds 2026-05-04; parent record: block.logicgate.com/records/gNsb8BOP
+            "gNsb8BOP": (date(2026, 10, 30), "Current"),
+        }
+        if record_id in DATE_OVERRIDES:
+            new_date, due_status = DATE_OVERRIDES[record_id]
+
         lifecycle_status = lifecycle_lookup.get(record_id)  # None for non-published docs
         extension_status = extension_lookup.get(record_id)  # None if no active extension
         doc_status = status_lookup.get(record_id)           # None if unmapped workflow status
