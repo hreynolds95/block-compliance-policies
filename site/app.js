@@ -287,7 +287,7 @@ function openDetailDrawer(doc) {
     ['Next Review',   esc(doc.next_review_date || '—')],
     ...(doc.extension_status ? [['Extended Due', esc(doc.extended_due_date || '—')]] : []),
     ['Retention',     doc.retention_years ? `${esc(doc.retention_years)} yrs` : '—'],
-    ...(doc.pwf_record_id ? [['LogicGate ID', `<span class="detail-value--mono">${esc(doc.pwf_record_id)}</span>`]] : []),
+    ...(doc.pwf_record_id ? [['LogicGate ID', `<a href="https://block.logicgate.com/records/${esc(doc.pwf_record_id)}" target="_blank" rel="noopener" class="detail-value--mono detail-lg-link">${esc(doc.pwf_record_id)}</a>`]] : []),
     ...(doc.extension_reason ? [['Extension Reason', esc(doc.extension_reason)]] : []),
   ];
 

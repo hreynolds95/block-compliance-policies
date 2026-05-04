@@ -512,6 +512,13 @@ details[open] > .panel-header--collapsible::before {
   font-size: 0.75rem;
   letter-spacing: .02em;
 }
+a.detail-lg-link {
+  color: var(--accent-2);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+a.detail-lg-link:hover { color: var(--info); border-bottom-color: var(--info); }
 
 /* ── Detail drawer ── */
 .drawer-backdrop {
