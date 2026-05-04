@@ -12,7 +12,7 @@ approval_type: committee
 reviewers: []
 effective_date: ""
 next_review_date: "2026-07-31"
-due_date_status: "Current"
+due_date_status: "Coming Due"
 doc_type: "Policy"
 lifecycle_status: "current"
 retention_years: 5

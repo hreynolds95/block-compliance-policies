@@ -11,8 +11,8 @@ owner: "Tom Shevill"
 approval_type: owner
 reviewers: []
 effective_date: ""
-next_review_date: "2026-02-28"
-due_date_status: "Overdue"
+next_review_date: "2026-08-01"
+due_date_status: "Coming Due"
 doc_type: "Standard"
 retention_years: 3
 logicgate_record_id: "tNBNaUZc"
