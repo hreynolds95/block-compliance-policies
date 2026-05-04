@@ -128,8 +128,14 @@ def load_dashboard(path: str) -> tuple:
         pwf = (r.get("PWF_RECORD_ID") or "").strip()
         if not pwf:
             continue
-        # Enrich Complete rows with the next open review cycle
-        if (r.get("DUE_DATE_STATUS") or "").strip().lower() == "complete":
+        # Enrich with the next open review cycle when:
+        # (a) main row DUE_DATE_STATUS is 'Complete' (normal path), OR
+        # (b) main row has a PUBLICATION_DATE, meaning the document was published even
+        #     though LogicGate hasn't updated DUE_DATE_STATUS to 'Complete' yet
+        #     (e.g. stale 'Overdue Past Extension' after publication within extension window).
+        is_complete = (r.get("DUE_DATE_STATUS") or "").strip().lower() == "complete"
+        is_published = bool((r.get("PUBLICATION_DATE") or "").strip())
+        if (is_complete or is_published):
             next_cycle = due_lookup.get(pwf)
             if next_cycle:
                 r = dict(r)  # don't mutate original
@@ -247,28 +253,36 @@ def patch_frontmatter(content: str, new_date: Optional[date], due_date_status: s
             )
 
     # Patch extension_status
+    # Passing "" clears the field entirely (removes the line); passing None skips patching.
     if extension_status is not None:
-        new_ext_val = f'extension_status: "{extension_status}"'
-        patched, count = re.subn(
-            r'^extension_status:.*$', new_ext_val, patched, flags=re.MULTILINE
-        )
-        if count == 0:
-            patched = re.sub(
-                r'^(lifecycle_status:.*|due_date_status:.*)',
-                r'\1\n' + new_ext_val, patched, count=1, flags=re.MULTILINE
+        if extension_status == "":
+            patched = re.sub(r'^extension_status:.*\n?', '', patched, flags=re.MULTILINE)
+        else:
+            new_ext_val = f'extension_status: "{extension_status}"'
+            patched, count = re.subn(
+                r'^extension_status:.*$', new_ext_val, patched, flags=re.MULTILINE
             )
+            if count == 0:
+                patched = re.sub(
+                    r'^(lifecycle_status:.*|due_date_status:.*)',
+                    r'\1\n' + new_ext_val, patched, count=1, flags=re.MULTILINE
+                )
 
     # Patch extended_due_date
+    # Passing "" clears the field entirely; passing None skips patching.
     if extended_due_date is not None:
-        new_ext_due_val = f'extended_due_date: "{extended_due_date}"'
-        patched, count = re.subn(
-            r'^extended_due_date:.*$', new_ext_due_val, patched, flags=re.MULTILINE
-        )
-        if count == 0:
-            patched = re.sub(
-                r'^(extension_status:.*)',
-                r'\1\n' + new_ext_due_val, patched, count=1, flags=re.MULTILINE
+        if extended_due_date == "":
+            patched = re.sub(r'^extended_due_date:.*\n?', '', patched, flags=re.MULTILINE)
+        else:
+            new_ext_due_val = f'extended_due_date: "{extended_due_date}"'
+            patched, count = re.subn(
+                r'^extended_due_date:.*$', new_ext_due_val, patched, flags=re.MULTILINE
             )
+            if count == 0:
+                patched = re.sub(
+                    r'^(extension_status:.*)',
+                    r'\1\n' + new_ext_due_val, patched, count=1, flags=re.MULTILINE
+                )
 
     # Patch doc_type
     if doc_type is not None:
@@ -363,6 +377,13 @@ def main():
         current_doc_status_str = m_doc_status.group(1).strip() if m_doc_status else ""
         m_doc_type = re.search(r'^doc_type:\s*"?([^"\n]*)"?', content, re.MULTILINE)
         current_doc_type_str = m_doc_type.group(1).strip() if m_doc_type else ""
+
+        # If the lookup has no extension data but the frontmatter still carries stale
+        # extension_status / extended_due_date from a prior cycle, clear those fields.
+        if extension_status is None and current_ext_str:
+            extension_status = ""   # sentinel → patch_frontmatter will remove the line
+        if extended_due_date is None and current_ext_due_str:
+            extended_due_date = ""  # sentinel → patch_frontmatter will remove the line
 
         date_changed = new_date is not None and current_date_str != new_date.isoformat()
         review_status_changed = current_status_str != due_status

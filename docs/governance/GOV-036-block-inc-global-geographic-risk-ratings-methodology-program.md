@@ -14,6 +14,7 @@ effective_date: ""
 next_review_date: "2026-10-01"
 due_date_status: "Extended"
 extension_status: "approved"
+extended_due_date: "2026-10-01"
 doc_type: "Standard"
 lifecycle_status: "current"
 retention_years: 3

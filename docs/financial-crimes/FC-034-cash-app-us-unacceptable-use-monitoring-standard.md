@@ -15,6 +15,7 @@ next_review_date: "2026-10-01"
 due_date_status: "Extended"
 doc_type: "Standard"
 extension_status: "approved"
+extended_due_date: "2026-10-01"
 lifecycle_status: "under-qc"
 retention_years: 3
 published_pdf: "https://drive.google.com/file/d/1ceejskU0ZWqslm_8XYF0P0d0RjxVWG1e/view"

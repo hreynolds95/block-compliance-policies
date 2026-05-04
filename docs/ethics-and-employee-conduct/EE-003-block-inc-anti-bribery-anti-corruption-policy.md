@@ -15,6 +15,7 @@ next_review_date: "2026-09-30"
 due_date_status: "Extended"
 doc_type: "Policy"
 extension_status: "approved"
+extended_due_date: "2026-09-30"
 lifecycle_status: "current"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1yqd2fCXYtuven0AFXg9Au10PUIVsypJp/view?usp=sharing"
