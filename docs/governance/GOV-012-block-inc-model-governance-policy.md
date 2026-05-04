@@ -7,7 +7,7 @@ tier: 2
 domain: governance
 legal_entity: "Block, Inc."
 business: "Block"
-owner: "Amit Bhushan"
+owner: "Sherry Stevens"
 approval_type: committee
 reviewers: []
 effective_date: ""
@@ -15,6 +15,8 @@ next_review_date: "2026-03-31"
 due_date_status: "Overdue"
 doc_type: "Policy"
 lifecycle_status: "current"
+extension_status: "in-progress"
+extended_due_date: "2026-10-30"
 retention_years: 5
 published_pdf: "https://drive.google.com/file/d/1XFwdbO8OlP188tVPznnrPkRLE61QgwX8/view?usp=sharing"
 logicgate_record_id: "72K7Z9Ku"
